@@ -1,0 +1,25 @@
+{
+  "id": "gregory-the-illuminator",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Grigorie Luminătorul",
+    "full": "Sfântul Ierarh Grigorie Luminătorul, arhiepiscopul Armeniei",
+    "short": "Grigorie Luminătorul",
+    "given": "Grigorie",
+    "variants": [
+      "Sf. Sfințit Mc. Grigorie, Luminătorul Armeniei"
+    ]
+  },
+  "summary": "Luminătorul Armeniei: la începutul secolului al IV-lea l-a adus la credința creștină pe regele Tiridate și, odată cu el, pe poporul armean.",
+  "references": [
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ier-grigorie-luminatorul-arhiepiscopul-armeniei-sf-mc-ripsimia-si-gaiani/",
+      "accessed": "2026-11-07"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

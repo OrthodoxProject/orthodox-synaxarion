@@ -1,0 +1,14 @@
+{
+  "id": "abbey-of-saint-victor-marseille",
+  "kind": "monastery",
+  "country": "FR",
+  "located_in": "place:marseille",
+  "founded": "0415~",
+  "founded_by": [
+    "person:john-cassian"
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium"
+  }
+}

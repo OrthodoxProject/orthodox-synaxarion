@@ -1,0 +1,29 @@
+{
+  "id": "anempodistus-of-persia",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "martyr"
+  ],
+  "died": {
+    "place": "place:persia",
+    "manner": "martyrdom"
+  },
+  "floruit": "03XX",
+  "era": "early_church",
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/02/103151-martyrs-acindynus-pegasius-aphthonius-elpidephorus-anempodistus"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-achindin-pigasie-aftonie-elpidifor-si-anempodist/",
+      "accessed": "2026-11-07"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "json.schemas": [
+    { "fileMatch": ["/data/persons/*.json"], "url": "./schema/person.schema.json" },
+    { "fileMatch": ["/data/groups/*.json"], "url": "./schema/group.schema.json" },
+    { "fileMatch": ["/data/commemorations/*.json"], "url": "./schema/commemoration.schema.json" },
+    { "fileMatch": ["/data/places/*.json"], "url": "./schema/place.schema.json" },
+    { "fileMatch": ["/data/icons/*.json"], "url": "./schema/icon.schema.json" },
+    { "fileMatch": ["/data/hymns/*.json"], "url": "./schema/hymn.schema.json" },
+    { "fileMatch": ["/data/sources/*.json"], "url": "./schema/source.schema.json" },
+    { "fileMatch": ["/data/media/*.json"], "url": "./schema/media.schema.json" },
+    { "fileMatch": ["/data/traditions/*/tradition.json"], "url": "./schema/tradition/tradition.schema.json" },
+    { "fileMatch": ["/data/traditions/*/menaion/*/*.json"], "url": "./schema/tradition/menaion-day.schema.json" },
+    { "fileMatch": ["/data/traditions/*/movable.json"], "url": "./schema/tradition/movable.schema.json" },
+    { "fileMatch": ["/data/traditions/*/observances.json"], "url": "./schema/tradition/observances.schema.json" },
+    { "fileMatch": ["/data/traditions/*/overrides/*.json"], "url": "./schema/tradition/overrides.schema.json" },
+    { "fileMatch": ["/data/i18n/*/vocab.json"], "url": "./schema/i18n/vocab.schema.json" },
+    { "fileMatch": ["/data/i18n/*/persons/*.json"], "url": "./schema/i18n/person.schema.json" },
+    { "fileMatch": ["/data/i18n/*/groups/*.json"], "url": "./schema/i18n/group.schema.json" },
+    { "fileMatch": ["/data/i18n/*/commemorations/*.json"], "url": "./schema/i18n/commemoration.schema.json" },
+    { "fileMatch": ["/data/i18n/*/places/*.json"], "url": "./schema/i18n/place.schema.json" },
+    { "fileMatch": ["/data/i18n/*/icons/*.json"], "url": "./schema/i18n/icon.schema.json" },
+    { "fileMatch": ["/data/i18n/*/hymns/*.json"], "url": "./schema/i18n/hymn.schema.json" },
+    { "fileMatch": ["/data/i18n/*/media/*.json"], "url": "./schema/i18n/media.schema.json" },
+    { "fileMatch": ["/data/i18n/*/traditions/*.json"], "url": "./schema/i18n/tradition.schema.json" }
+  ]
+}

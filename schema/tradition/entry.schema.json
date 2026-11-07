@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Calendar line",
+  "description": "One line of a tradition's calendar: one or more commemorations printed together (e.g. 'Sf. Cuv. Ioan Casian și Gherman, din Dobrogea'), with the tradition's own symbol and rank. The line's official title lives in the locale file of the tradition, keyed by its first commemoration.",
+  "type": "object",
+  "properties": {
+    "commemorations": {
+      "type": "array",
+      "items": { "$ref": "../common/defs.schema.json#/$defs/commRef" },
+      "minItems": 1,
+      "uniqueItems": true
+    },
+    "symbol": {
+      "description": "Key of an entry in the tradition's symbol_legend.",
+      "$ref": "../common/defs.schema.json#/$defs/slug"
+    },
+    "rank": { "$ref": "../common/defs.schema.json#/$defs/typikonRank" },
+    "readings": {
+      "type": "array",
+      "items": { "$ref": "../common/defs.schema.json#/$defs/reading" }
+    },
+    "scope": { "$ref": "../common/defs.schema.json#/$defs/scope" },
+    "eparchy": { "$ref": "../common/defs.schema.json#/$defs/placeRef" },
+    "differs_from_default": {
+      "description": "Set to true when this tradition intentionally places the commemoration on another day than its default date_rule.",
+      "type": "boolean"
+    },
+    "confidence": { "$ref": "../common/defs.schema.json#/$defs/confidence" },
+    "notes": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1 }
+    }
+  },
+  "required": ["commemorations"]
+}

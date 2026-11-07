@@ -1,0 +1,26 @@
+{
+  "id": "paraskeva-of-the-balkans",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Paraskeva of the Balkans",
+    "full": "Venerable Paraskeva of Epivates",
+    "given": "Paraskeva",
+    "variants": [
+      "Paraskevi (Petka) of Serbia",
+      "Saint Petka",
+      "Paraskeva of Iași",
+      "Paraskeva the New"
+    ]
+  },
+  "summary": "Eleventh-century ascetic born in Epivates, Thrace. Her relics have been kept in the Metropolitan Cathedral of Iași since 1641.",
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/14/102968-venerable-paraskevi-petka-of-serbia"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

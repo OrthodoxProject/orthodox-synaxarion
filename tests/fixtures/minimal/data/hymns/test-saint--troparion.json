@@ -1,0 +1,9 @@
+{
+  "id": "test-saint--troparion",
+  "type": "troparion",
+  "for": "comm:test-saint--repose",
+  "tone": 4,
+  "editorial": {
+    "status": "draft"
+  }
+}

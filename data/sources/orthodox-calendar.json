@@ -1,0 +1,17 @@
+{
+  "id": "orthodox-calendar",
+  "type": "database",
+  "title": "Orthodox Calendar",
+  "publisher": "nikolareljin/orthodox-calendar (GitHub)",
+  "url": "https://github.com/nikolareljin/orthodox-calendar",
+  "language": "en",
+  "license": "MIT",
+  "accessed": "2026-11-07",
+  "notes": [
+    "Licența MIT acoperă codul; textele din câmpul notes provin din OCA, GOARCH și Wikipedia, așa că folosim doar indexul (zi, nume, URL)."
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "high"
+  }
+}

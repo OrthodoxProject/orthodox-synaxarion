@@ -1,0 +1,24 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Media",
+  "description": "An image, recording, video or score, preferably hosted on Wikimedia Commons. Alt text and captions live in the locale files.",
+  "type": "object",
+  "properties": {
+    "id": { "$ref": "common/defs.schema.json#/$defs/slug" },
+    "type": { "enum": ["image", "audio", "video", "score"] },
+    "url": { "$ref": "common/defs.schema.json#/$defs/url" },
+    "commons_file": { "type": "string", "pattern": "^File:.+" },
+    "license": { "$ref": "common/defs.schema.json#/$defs/license" },
+    "author": { "type": "string", "minLength": 1 },
+    "source_url": { "$ref": "common/defs.schema.json#/$defs/url" },
+    "credit": { "type": "string", "minLength": 1 },
+    "depicts": {
+      "type": "array",
+      "items": { "$ref": "common/defs.schema.json#/$defs/depictionRef" },
+      "uniqueItems": true
+    },
+    "editorial": { "$ref": "common/defs.schema.json#/$defs/editorial" }
+  },
+  "required": ["id", "type", "url", "license", "editorial"],
+  "additionalProperties": false
+}

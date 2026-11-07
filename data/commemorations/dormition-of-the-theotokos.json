@@ -1,0 +1,36 @@
+{
+  "id": "dormition-of-the-theotokos",
+  "kind": "feast_of_theotokos",
+  "subjects": [
+    "person:theotokos"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 15
+  },
+  "default_rank": "great_feast",
+  "readings": [
+    {
+      "service": "liturgy",
+      "role": "apostle",
+      "ref": "PHP 2:5-11"
+    },
+    {
+      "service": "liturgy",
+      "role": "gospel",
+      "ref": "LUK 10:38-42; 11:27-28"
+    }
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-adormirea-maicii-domnului/",
+      "accessed": "2026-11-07"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "high"
+  }
+}

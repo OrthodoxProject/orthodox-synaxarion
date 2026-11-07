@@ -1,0 +1,23 @@
+{
+  "id": "memorial-saturday-autumn",
+  "kind": "memorial_saturday",
+  "date_rule": {
+    "type": "weekday_before",
+    "weekday": "saturday",
+    "anchor": "11-08"
+  },
+  "sources": [
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sfintii-33-de-mucenici-din-melitina-sf-cuv-lazar-din-muntele-galisiei-sambata-celor-adormiti-mosii-de-toamna/",
+      "accessed": "2026-11-07"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Regula „sâmbăta dinaintea zilei de 8 noiembrie” e dedusă din calendarul BOR pe 2026; de confirmat în Tipicul BOR."
+    ]
+  }
+}

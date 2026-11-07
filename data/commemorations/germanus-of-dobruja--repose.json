@@ -1,0 +1,27 @@
+{
+  "id": "germanus-of-dobruja--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:germanus-of-dobruja"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 29,
+    "non_leap": {
+      "month": 2,
+      "day": 28
+    }
+  },
+  "sources": [
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-ioan-casian-si-gherman-din-dobrogea-sf-cuv-vasile-marturisitorul-sambata-sf-mare-mc-teodor-tiron-pomenirea-celor-adormiti/",
+      "accessed": "2026-11-07"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium"
+  }
+}

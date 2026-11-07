@@ -1,0 +1,39 @@
+{
+  "tradition": "romanian",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:pascha"
+      ],
+      "symbol": "red-parenthesized"
+    },
+    {
+      "commemorations": [
+        "comm:thomas-sunday"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:memorial-saturday-autumn"
+      ]
+    }
+  ],
+  "transfers": [
+    {
+      "commemoration": "comm:george-the-great-martyr--repose",
+      "when": {
+        "periods": [
+          "holy_week",
+          "pascha"
+        ]
+      },
+      "to": {
+        "pascha": 1
+      },
+      "confidence": "low",
+      "notes": [
+        "De verificat în Tipicul BOR: mutarea în Lunea Luminată când 23 aprilie cade în Săptămâna Patimilor sau în ziua de Paști."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "theotokos",
+  "kind": "theotokos",
+  "gender": "female",
+  "sources": [
+    {
+      "source": "src:bible"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "high"
+  }
+}

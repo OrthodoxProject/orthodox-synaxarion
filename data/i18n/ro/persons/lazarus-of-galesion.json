@@ -1,0 +1,42 @@
+{
+  "id": "lazarus-of-galesion",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Lazăr din Muntele Galision",
+    "full": "Sfântul Cuvios Lazăr din Muntele Galision",
+    "short": "Lazăr din Galision",
+    "given": "Lazăr",
+    "epithets": [
+      "Făcătorul de minuni"
+    ],
+    "variants": [
+      "Sf. Cuv. Lazăr din Muntele Galisiei"
+    ],
+    "forms": {
+      "genitive": "Sfântului Cuvios Lazăr din Muntele Galision",
+      "vocative": "Sfinte Cuvioase Părinte Lazăr"
+    }
+  },
+  "summary": "Cuvios stâlpnic din secolul al XI-lea, care s-a nevoit pe Muntele Galision, lângă Efes; în jurul lui s-au adunat mai multe obști de monahi.",
+  "name_days": [
+    "Lazăr"
+  ],
+  "references": [
+    {
+      "title": "Sfântul Cuvios Lazăr din Muntele Galision",
+      "publisher": "Doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-lazar-din-muntele-galision",
+      "accessed": "2026-11-07",
+      "language": "ro"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sfintii-33-de-mucenici-din-melitina-sf-cuv-lazar-din-muntele-galisiei-sambata-celor-adormiti-mosii-de-toamna/",
+      "accessed": "2026-11-07"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

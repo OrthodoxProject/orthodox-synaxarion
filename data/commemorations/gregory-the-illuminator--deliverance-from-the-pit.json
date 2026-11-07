@@ -1,0 +1,21 @@
+{
+  "id": "gregory-the-illuminator--deliverance-from-the-pit",
+  "kind": "event",
+  "subjects": [
+    "person:gregory-the-illuminator"
+  ],
+  "date_rule": {
+    "type": "unspecified",
+    "note": "La armeni, zi mobilă stabilită în raport cu marile praznice; regula e de verificat."
+  },
+  "sources": [
+    {
+      "source": "src:armenianchurch-ge",
+      "url": "https://armenianchurch.ge/en/kalendar-prazdnikov/description-2/june/feast-of-st-gregory-the-illuminator-s-deliverance-from-the-pit"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low"
+  }
+}

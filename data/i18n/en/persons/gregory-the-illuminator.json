@@ -1,0 +1,20 @@
+{
+  "id": "gregory-the-illuminator",
+  "locale": "en",
+  "names": {
+    "display": "Hieromartyr Gregory the Illuminator",
+    "full": "Hieromartyr Gregory, Bishop of Greater Armenia, Equal of the Apostles, Enlightener of Armenia",
+    "short": "Gregory the Illuminator",
+    "given": "Gregory"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/30/102818-hieromartyr-gregory-bishop-of-greater-armenia-equal-of-the-apost"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

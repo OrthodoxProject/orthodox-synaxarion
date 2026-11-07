@@ -1,0 +1,27 @@
+{
+  "id": "russian",
+  "family": "eastern_orthodox",
+  "status": "autocephalous",
+  "calendar_style": "julian",
+  "paschalion": "julian",
+  "countries": [
+    "RU"
+  ],
+  "languages": [
+    "ru"
+  ],
+  "liturgical_languages": [
+    "cu"
+  ],
+  "default_locale": "ru",
+  "sources": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/config.py"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium"
+  }
+}

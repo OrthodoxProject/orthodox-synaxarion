@@ -1,0 +1,23 @@
+{
+  "id": "arsenie-of-prislop--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:arsenie-of-prislop"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 28
+  },
+  "sources": [
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-marturisitor-arsenie-de-la-prislop-sf-cuv-mc-stefan-cel-nou-sf-mc-irinarh-dezlegare-la-peste/",
+      "accessed": "2026-11-07"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium"
+  }
+}

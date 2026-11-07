@@ -1,0 +1,11 @@
+{
+  "id": "test-church",
+  "locale": "en",
+  "names": {
+    "display": "Test Church"
+  },
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

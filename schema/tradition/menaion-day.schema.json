@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Menaion day",
+  "description": "Fixed commemorations of one church date in one tradition (data/traditions/<id>/menaion/MM/DD.json), in calendar order. For Coptic and Ethiopian traditions the date is in their own calendar (month 13 included).",
+  "type": "object",
+  "properties": {
+    "tradition": { "$ref": "../common/defs.schema.json#/$defs/traditionId" },
+    "date": { "$ref": "../common/defs.schema.json#/$defs/monthDay" },
+    "entries": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "$ref": "entry.schema.json",
+        "unevaluatedProperties": false
+      },
+      "minItems": 1
+    }
+  },
+  "required": ["tradition", "date", "entries"],
+  "additionalProperties": false
+}

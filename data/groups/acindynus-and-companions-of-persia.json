@@ -1,0 +1,57 @@
+{
+  "id": "acindynus-and-companions-of-persia",
+  "kind": "martyrs",
+  "members": [
+    {
+      "person": "person:acindynus-of-persia"
+    },
+    {
+      "person": "person:pegasius-of-persia"
+    },
+    {
+      "person": "person:aphthonius-of-persia"
+    },
+    {
+      "person": "person:elpidephorus-of-persia"
+    },
+    {
+      "person": "person:anempodistus-of-persia"
+    }
+  ],
+  "holiness_types": [
+    "martyr"
+  ],
+  "died": {
+    "place": "place:persia",
+    "manner": "martyrdom"
+  },
+  "floruit": "03XX",
+  "era": "early_church",
+  "places": [
+    {
+      "place": "place:persia",
+      "role": "martyrdom"
+    }
+  ],
+  "external_ids": {
+    "oca": "103151"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/02/103151-martyrs-acindynus-pegasius-aphthonius-elpidephorus-anempodistus"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-achindin-pigasie-aftonie-elpidifor-si-anempodist/",
+      "accessed": "2026-11-07"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "OCA adaugă „și 7.000 împreună cu ei”; titlul BOR îi numește doar pe cei cinci."
+    ]
+  }
+}

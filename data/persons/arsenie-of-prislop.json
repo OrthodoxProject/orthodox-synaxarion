@@ -1,0 +1,57 @@
+{
+  "id": "arsenie-of-prislop",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "venerable",
+    "confessor"
+  ],
+  "ranks": [
+    {
+      "rank": "monk"
+    },
+    {
+      "rank": "hieromonk"
+    }
+  ],
+  "born": {
+    "date": "1910-09-29",
+    "calendar": "gregorian",
+    "place": "place:vata-de-sus"
+  },
+  "died": {
+    "date": "1989-11-28",
+    "calendar": "gregorian",
+    "place": "place:sinaia",
+    "manner": "natural"
+  },
+  "era": "modern",
+  "places": [
+    {
+      "place": "place:sambata-de-sus-monastery",
+      "role": "ministry"
+    },
+    {
+      "place": "place:prislop-monastery",
+      "role": "ministry"
+    },
+    {
+      "place": "place:prislop-monastery",
+      "role": "burial"
+    }
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-marturisitor-arsenie-de-la-prislop-sf-cuv-mc-stefan-cel-nou-sf-mc-irinarh-dezlegare-la-peste/",
+      "accessed": "2026-11-07"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "De completat: data hotărârii Sfântului Sinod și data proclamării canonizării, cu sursă oficială."
+    ]
+  }
+}

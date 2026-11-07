@@ -1,0 +1,13 @@
+{
+  "id": "alexandria",
+  "kind": "city",
+  "country": "EG",
+  "coords": {
+    "lat": 31.2001,
+    "lon": 29.9187
+  },
+  "editorial": {
+    "status": "draft",
+    "confidence": "high"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "pascha",
+  "kind": "feast_of_the_lord",
+  "date_rule": {
+    "type": "pascha",
+    "offset": 0
+  },
+  "default_rank": "feast_of_feasts",
+  "readings": [
+    {
+      "service": "liturgy",
+      "role": "apostle",
+      "ref": "ACT 1:1-8"
+    },
+    {
+      "service": "liturgy",
+      "role": "gospel",
+      "ref": "JHN 1:1-17"
+    }
+  ],
+  "sources": [
+    {
+      "source": "src:bible"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-invierea-domnului-nostru-iisus-hristos-sfintele-pasti-toate-ale-praznicului-ap-fapte-1-1-8-ev-ioan-1-1-17/",
+      "accessed": "2026-11-07"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "high"
+  }
+}

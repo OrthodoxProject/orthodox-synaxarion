@@ -1,0 +1,22 @@
+{
+  "id": "archangel-michael",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Arh. Mihail",
+    "full": "Sfântul Arhanghel Mihail",
+    "given": "Mihail",
+    "forms": {
+      "genitive": "Sfântului Arhanghel Mihail",
+      "vocative": "Sfinte Arhanghele Mihaile"
+    }
+  },
+  "name_days": [
+    "Mihail",
+    "Mihai",
+    "Mihaela"
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "sambata-de-sus-monastery",
+  "kind": "monastery",
+  "country": "RO",
+  "founded": "1696",
+  "founded_by": [
+    "person:constantin-brancoveanu"
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium"
+  }
+}

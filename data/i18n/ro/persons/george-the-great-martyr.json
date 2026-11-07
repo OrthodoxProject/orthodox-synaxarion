@@ -1,0 +1,35 @@
+{
+  "id": "george-the-great-martyr",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mare Mc. Gheorghe",
+    "full": "Sfântul Mare Mucenic Gheorghe, purtătorul de biruință",
+    "short": "Sfântul Gheorghe",
+    "given": "Gheorghe",
+    "epithets": [
+      "purtătorul de biruință"
+    ],
+    "forms": {
+      "genitive": "Sfântului Mare Mucenic Gheorghe",
+      "vocative": "Sfinte Mare Mucenice Gheorghe"
+    }
+  },
+  "summary": "Ostaș creștin, mort ca mucenic la Nicomidia în timpul prigoanei lui Dioclețian, la începutul secolului al IV-lea. Este zugrăvit călare, străpungând balaurul cu sulița.",
+  "name_days": [
+    "Gheorghe",
+    "George",
+    "Georgeta",
+    "Georgiana"
+  ],
+  "references": [
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-mare-mc-gheorghe-purtatorul-de-biruinta-sf-mc-valerie/",
+      "accessed": "2026-11-07"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Person",
+  "description": "A holy person: a saint, the Theotokos or an angel. Language-neutral facts only; names and texts live in data/i18n/<locale>/persons/<id>.json. Commemorations point to persons (never the other way round), and veneration is derived from the traditions' calendars.",
+  "type": "object",
+  "properties": {
+    "id": { "$ref": "common/defs.schema.json#/$defs/slug" },
+    "kind": {
+      "description": "saint (including Old Testament prophets and righteous), theotokos or angel. Christ is not a person record: feasts of the Lord are commemorations.",
+      "enum": ["saint", "theotokos", "angel"]
+    },
+    "gender": {
+      "description": "Used for grammatical agreement (Sfântul / Sfânta). Angels are 'male' by liturgical convention.",
+      "enum": ["male", "female"]
+    },
+    "holiness_types": {
+      "type": "array",
+      "items": { "$ref": "common/defs.schema.json#/$defs/holinessType" },
+      "minItems": 1,
+      "uniqueItems": true
+    },
+    "ranks": {
+      "description": "Church ranks over time (monk, priest, bishop …), with the see where relevant.",
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "rank": { "$ref": "common/defs.schema.json#/$defs/clericalRank" },
+          "see": { "$ref": "common/defs.schema.json#/$defs/placeRef" },
+          "from": { "$ref": "common/defs.schema.json#/$defs/edtf" },
+          "to": { "$ref": "common/defs.schema.json#/$defs/edtf" }
+        },
+        "required": ["rank"],
+        "additionalProperties": false
+      }
+    },
+    "occupations": {
+      "type": "array",
+      "items": { "$ref": "common/defs.schema.json#/$defs/occupation" }
+    },
+    "born": { "$ref": "common/defs.schema.json#/$defs/lifeEvent" },
+    "died": { "$ref": "common/defs.schema.json#/$defs/death" },
+    "floruit": {
+      "description": "When the person lived, if birth and death are unknown (e.g. '03XX').",
+      "$ref": "common/defs.schema.json#/$defs/edtf"
+    },
+    "era": { "$ref": "common/defs.schema.json#/$defs/era" },
+    "places": {
+      "type": "array",
+      "items": { "$ref": "common/defs.schema.json#/$defs/placeLink" }
+    },
+    "relations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "type": { "$ref": "common/defs.schema.json#/$defs/relationType" },
+          "target": { "$ref": "common/defs.schema.json#/$defs/relationTarget" }
+        },
+        "required": ["type", "target"],
+        "additionalProperties": false
+      }
+    },
+    "veneration": {
+      "type": "array",
+      "items": { "$ref": "common/defs.schema.json#/$defs/veneration" }
+    },
+    "canonizations": {
+      "type": "array",
+      "items": { "$ref": "common/defs.schema.json#/$defs/canonization" }
+    },
+    "relics": {
+      "type": "array",
+      "items": { "$ref": "common/defs.schema.json#/$defs/relic" }
+    },
+    "patronage": {
+      "description": "What the faithful ask of this saint (patron of physicians, of Romania …). Codes are open; labels live in the vocabulary under 'patronage.<code>'. A church source is required.",
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "code": { "$ref": "common/defs.schema.json#/$defs/code" },
+          "sources": {
+            "type": "array",
+            "items": { "$ref": "common/defs.schema.json#/$defs/citation" },
+            "minItems": 1
+          }
+        },
+        "required": ["code", "sources"],
+        "additionalProperties": false
+      }
+    },
+    "iconography": {
+      "type": "object",
+      "properties": {
+        "attributes": {
+          "description": "Iconographic attributes (codes; labels under 'iconographic_attribute.<code>').",
+          "type": "array",
+          "items": { "$ref": "common/defs.schema.json#/$defs/code" },
+          "uniqueItems": true
+        },
+        "images": {
+          "type": "array",
+          "items": { "$ref": "common/defs.schema.json#/$defs/mediaRef" },
+          "uniqueItems": true
+        }
+      },
+      "additionalProperties": false
+    },
+    "writings": {
+      "description": "Works written by the saint. Titles live in the locale files, keyed by 'id'.",
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": { "$ref": "common/defs.schema.json#/$defs/slug" },
+          "cpg": { "type": "string", "pattern": "^[0-9]+$" },
+          "cpl": { "type": "string", "pattern": "^[0-9]+$" },
+          "sources": {
+            "type": "array",
+            "items": { "$ref": "common/defs.schema.json#/$defs/citation" }
+          }
+        },
+        "required": ["id"],
+        "additionalProperties": false
+      }
+    },
+    "external_ids": { "$ref": "common/defs.schema.json#/$defs/externalIds" },
+    "sources": {
+      "type": "array",
+      "items": { "$ref": "common/defs.schema.json#/$defs/citation" },
+      "minItems": 1
+    },
+    "aliases": {
+      "description": "Former ids of this record (kept so that old links keep working).",
+      "type": "array",
+      "items": { "$ref": "common/defs.schema.json#/$defs/slug" },
+      "uniqueItems": true
+    },
+    "editorial": { "$ref": "common/defs.schema.json#/$defs/editorial" }
+  },
+  "required": ["id", "kind", "gender", "sources", "editorial"],
+  "additionalProperties": false,
+  "if": {
+    "properties": { "kind": { "const": "saint" } },
+    "required": ["kind"]
+  },
+  "then": {
+    "required": ["holiness_types"]
+  }
+}

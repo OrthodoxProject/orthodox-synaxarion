@@ -1,0 +1,39 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Place (locale)",
+  "description": "Names of a place in one language (data/i18n/<locale>/places/<id>.json): the name used in church texts, the modern name and historical names.",
+  "type": "object",
+  "properties": {
+    "id": { "$ref": "../common/defs.schema.json#/$defs/slug" },
+    "locale": { "$ref": "../common/defs.schema.json#/$defs/locale" },
+    "names": {
+      "type": "object",
+      "$ref": "common.schema.json#/$defs/names",
+      "properties": {
+        "modern": {
+          "description": "Present-day name, when it differs (Melitina → Malatya).",
+          "$ref": "common.schema.json#/$defs/text"
+        },
+        "historical": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "name": { "$ref": "common.schema.json#/$defs/text" },
+              "from": { "$ref": "../common/defs.schema.json#/$defs/edtf" },
+              "until": { "$ref": "../common/defs.schema.json#/$defs/edtf" }
+            },
+            "required": ["name"],
+            "additionalProperties": false
+          }
+        }
+      },
+      "unevaluatedProperties": false
+    },
+    "description": { "$ref": "common.schema.json#/$defs/text" },
+    "references": { "$ref": "common.schema.json#/$defs/references" },
+    "translation": { "$ref": "common.schema.json#/$defs/translation" }
+  },
+  "required": ["id", "locale", "names", "translation"],
+  "additionalProperties": false
+}

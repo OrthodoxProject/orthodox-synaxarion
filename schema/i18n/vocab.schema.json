@@ -1,0 +1,33 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Vocabulary",
+  "description": "Labels for every code used in the data, in one language (data/i18n/<locale>/vocab.json). Keys are '<namespace>.<code>' (e.g. 'holiness_type.venerable', 'bible_book.LUK'). A label is a string, or an object with grammatical forms: m.sg, f.sg, m.pl, f.pl, plus an optional abbreviation.",
+  "type": "object",
+  "properties": {
+    "locale": { "$ref": "../common/defs.schema.json#/$defs/locale" },
+    "labels": {
+      "type": "object",
+      "propertyNames": { "pattern": "^[a-z_]+\\.[A-Za-z0-9_-]+$" },
+      "additionalProperties": {
+        "oneOf": [
+          { "type": "string", "minLength": 1 },
+          {
+            "type": "object",
+            "properties": {
+              "default": { "type": "string", "minLength": 1 },
+              "m.sg": { "type": "string", "minLength": 1 },
+              "f.sg": { "type": "string", "minLength": 1 },
+              "m.pl": { "type": "string", "minLength": 1 },
+              "f.pl": { "type": "string", "minLength": 1 },
+              "abbr": { "type": "string", "minLength": 1 }
+            },
+            "minProperties": 1,
+            "additionalProperties": false
+          }
+        ]
+      }
+    }
+  },
+  "required": ["locale", "labels"],
+  "additionalProperties": false
+}

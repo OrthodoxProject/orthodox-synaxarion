@@ -1,0 +1,13 @@
+{
+  "id": "bucharest",
+  "kind": "city",
+  "country": "RO",
+  "coords": {
+    "lat": 44.4268,
+    "lon": 26.1025
+  },
+  "editorial": {
+    "status": "draft",
+    "confidence": "high"
+  }
+}

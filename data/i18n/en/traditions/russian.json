@@ -1,0 +1,14 @@
+{
+  "id": "russian",
+  "locale": "en",
+  "names": {
+    "display": "Russian Orthodox Church",
+    "variants": [
+      "Moscow Patriarchate"
+    ]
+  },
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

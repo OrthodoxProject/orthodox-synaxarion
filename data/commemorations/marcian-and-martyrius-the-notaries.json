@@ -1,0 +1,31 @@
+{
+  "id": "marcian-and-martyrius-the-notaries",
+  "kind": "repose",
+  "subjects": [
+    "group:marcian-and-martyrius-the-notaries"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 25
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/25/103053-martyrs-marcian-and-martyrius-the-notaries-of-constantinople"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-marcian-si-martirie-sf-tavita-duminica-a-23-a-dupa-rusalii-ap-efeseni-2-4-10-ev-luca-8-26-39-vindecarea-demonizatului-din-tinutul-gherghesenilor-glas-4-voscr-10/",
+      "accessed": "2026-11-07"
+    },
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/2_28.html?lang=en#1"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium"
+  }
+}

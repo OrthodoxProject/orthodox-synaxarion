@@ -1,0 +1,587 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Common definitions",
+  "description": "Shared building blocks used by every orthodox-synaxarion schema. Custom formats (edtf, bible-ref, month-day, date, uri) are checked by tools/validate.ts; the patterns here are a looser first pass for editors.",
+  "$defs": {
+    "slug": {
+      "description": "Stable ASCII identifier: lowercase letters, digits and single hyphens; a double hyphen separates a sub-part (e.g. 'nicholas-of-myra--translation-of-relics'). Never change a published id; add the old one to 'aliases' instead.",
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-{1,2}[a-z0-9]+)*$",
+      "maxLength": 120
+    },
+    "traditionId": {
+      "description": "Id of a tradition, i.e. a folder in data/traditions/.",
+      "$ref": "#/$defs/slug"
+    },
+    "code": {
+      "description": "Open vocabulary code (snake_case), labelled in data/i18n/<locale>/vocab.json. Record ids use hyphens; codes use underscores, like the enum values.",
+      "type": "string",
+      "pattern": "^[a-z][a-z0-9]*(?:_[a-z0-9]+)*$",
+      "maxLength": 60
+    },
+    "locale": {
+      "description": "BCP 47 language tag: language, optional script, region and variants. Examples: ro, en, sr-Cyrl, el-polyton, ro-MD, grc, cu, cop, mul.",
+      "type": "string",
+      "pattern": "^[a-z]{2,3}(?:-[A-Z][a-z]{3})?(?:-(?:[A-Z]{2}|[0-9]{3}))?(?:-[a-z0-9]{5,8})*$"
+    },
+    "personRef": {
+      "description": "Reference to data/persons/<id>.json.",
+      "type": "string",
+      "pattern": "^person:[a-z0-9]+(?:-{1,2}[a-z0-9]+)*$"
+    },
+    "groupRef": {
+      "description": "Reference to data/groups/<id>.json.",
+      "type": "string",
+      "pattern": "^group:[a-z0-9]+(?:-{1,2}[a-z0-9]+)*$"
+    },
+    "commRef": {
+      "description": "Reference to data/commemorations/<id>.json.",
+      "type": "string",
+      "pattern": "^comm:[a-z0-9]+(?:-{1,2}[a-z0-9]+)*$"
+    },
+    "placeRef": {
+      "description": "Reference to data/places/<id>.json.",
+      "type": "string",
+      "pattern": "^place:[a-z0-9]+(?:-{1,2}[a-z0-9]+)*$"
+    },
+    "iconRef": {
+      "description": "Reference to data/icons/<id>.json.",
+      "type": "string",
+      "pattern": "^icon:[a-z0-9]+(?:-{1,2}[a-z0-9]+)*$"
+    },
+    "hymnRef": {
+      "description": "Reference to data/hymns/<id>.json.",
+      "type": "string",
+      "pattern": "^hymn:[a-z0-9]+(?:-{1,2}[a-z0-9]+)*$"
+    },
+    "sourceRef": {
+      "description": "Reference to data/sources/<id>.json.",
+      "type": "string",
+      "pattern": "^src:[a-z0-9]+(?:-{1,2}[a-z0-9]+)*$"
+    },
+    "mediaRef": {
+      "description": "Reference to data/media/<id>.json.",
+      "type": "string",
+      "pattern": "^media:[a-z0-9]+(?:-{1,2}[a-z0-9]+)*$"
+    },
+    "subjectRef": {
+      "description": "What a commemoration is about: a person, a group, an icon or a place.",
+      "type": "string",
+      "pattern": "^(?:person|group|icon|place):[a-z0-9]+(?:-{1,2}[a-z0-9]+)*$"
+    },
+    "relationTarget": {
+      "description": "Target of a relation: a person or a group.",
+      "type": "string",
+      "pattern": "^(?:person|group):[a-z0-9]+(?:-{1,2}[a-z0-9]+)*$"
+    },
+    "depictionRef": {
+      "description": "What an icon or an image depicts: a person, a group or a commemoration (feast).",
+      "type": "string",
+      "pattern": "^(?:person|group|comm):[a-z0-9]+(?:-{1,2}[a-z0-9]+)*$"
+    },
+    "edtf": {
+      "description": "Date in the Extended Date/Time Format (ISO 8601-2) subset: 1053-11-07, 0968~ (approximate), 1053? (uncertain), 03XX (4th century), 196X, [1714,1716] (one of), {1714,1716} (all of), 1688/1714 (interval), ../1053 (open start). Negative years are BC (astronomical numbering).",
+      "type": "string",
+      "format": "edtf",
+      "pattern": "^[-0-9X?~%./,\\[\\]{}]+$",
+      "maxLength": 80
+    },
+    "isoDate": {
+      "description": "Calendar date YYYY-MM-DD (Gregorian, proleptic).",
+      "type": "string",
+      "format": "date"
+    },
+    "url": {
+      "description": "Absolute http(s) URL.",
+      "type": "string",
+      "format": "uri",
+      "pattern": "^https?://"
+    },
+    "monthDay": {
+      "description": "Church (Menaion) date MM-DD. Month 13 exists only in the Coptic and Ethiopian calendars.",
+      "type": "string",
+      "format": "month-day",
+      "pattern": "^(?:0[1-9]|1[0-3])-(?:0[1-9]|[12][0-9]|3[01])$"
+    },
+    "bibleBook": {
+      "description": "USFM book code. Psalms are numbered after the Septuagint unless the reading says otherwise.",
+      "enum": [
+        "GEN", "EXO", "LEV", "NUM", "DEU", "JOS", "JDG", "RUT", "1SA", "2SA", "1KI", "2KI", "1CH", "2CH", "EZR", "NEH", "EST", "JOB", "PSA", "PRO", "ECC", "SNG", "ISA", "JER", "LAM", "EZK", "DAN", "HOS", "JOL", "AMO", "OBA", "JON", "MIC", "NAM", "HAB", "ZEP", "HAG", "ZEC", "MAL",
+        "TOB", "JDT", "ESG", "WIS", "SIR", "BAR", "LJE", "S3Y", "SUS", "BEL", "1MA", "2MA", "3MA", "4MA", "1ES", "2ES", "MAN", "PS2",
+        "MAT", "MRK", "LUK", "JHN", "ACT", "ROM", "1CO", "2CO", "GAL", "EPH", "PHP", "COL", "1TH", "2TH", "1TI", "2TI", "TIT", "PHM", "HEB", "JAS", "1PE", "2PE", "1JN", "2JN", "3JN", "JUD", "REV"
+      ]
+    },
+    "bibleRef": {
+      "description": "Bible reference: USFM book code, then chapter:verse ranges. Use ', ' for more verses in the same chapter and '; ' for a new chapter. Examples: 'LUK 8:16-21', 'GAL 5:22-26; 6:1-2', 'JHN 15:17-16:2'.",
+      "type": "string",
+      "format": "bible-ref",
+      "pattern": "^[1-4]?[A-Z0-9]{2,3} [0-9]"
+    },
+    "country": {
+      "description": "ISO 3166-1 alpha-2 code of the present-day country.",
+      "type": "string",
+      "pattern": "^[A-Z]{2}$"
+    },
+    "geo": {
+      "description": "WGS 84 coordinates.",
+      "type": "object",
+      "properties": {
+        "lat": { "type": "number", "minimum": -90, "maximum": 90 },
+        "lon": { "type": "number", "minimum": -180, "maximum": 180 }
+      },
+      "required": ["lat", "lon"],
+      "additionalProperties": false
+    },
+    "license": {
+      "description": "SPDX identifier, or a LicenseRef for public domain, explicit permission, all rights reserved or unknown.",
+      "enum": [
+        "CC0-1.0",
+        "CC-BY-4.0",
+        "CC-BY-SA-4.0",
+        "CC-BY-SA-3.0",
+        "GFDL-1.3-or-later",
+        "MIT",
+        "LicenseRef-PublicDomain",
+        "LicenseRef-Permission",
+        "LicenseRef-AllRightsReserved",
+        "LicenseRef-Unknown"
+      ]
+    },
+    "weekday": {
+      "enum": ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday"]
+    },
+    "calendarStyle": {
+      "description": "julian = old style; revised_julian = new style (Milanković), equal to the Gregorian calendar until 2800.",
+      "enum": ["julian", "revised_julian", "gregorian", "coptic", "ethiopian"]
+    },
+    "paschalion": {
+      "enum": ["julian", "gregorian"]
+    },
+    "holinessType": {
+      "description": "Kind of holiness (chipul sfințeniei).",
+      "enum": [
+        "apostle",
+        "equal_to_apostles",
+        "evangelist",
+        "prophet",
+        "forefather",
+        "righteous",
+        "martyr",
+        "great_martyr",
+        "hieromartyr",
+        "venerable",
+        "venerable_martyr",
+        "confessor",
+        "hierarch",
+        "unmercenary",
+        "fool_for_christ",
+        "passion_bearer",
+        "new_martyr",
+        "stylite",
+        "hermit",
+        "recluse",
+        "wonderworker",
+        "myrrhbearer",
+        "right_believing",
+        "virgin",
+        "archangel"
+      ]
+    },
+    "clericalRank": {
+      "enum": [
+        "layman",
+        "reader",
+        "subdeacon",
+        "deacon",
+        "archdeacon",
+        "priest",
+        "monk",
+        "nun",
+        "schemamonk",
+        "schemanun",
+        "hierodeacon",
+        "hieromonk",
+        "abbot",
+        "abbess",
+        "archimandrite",
+        "bishop",
+        "archbishop",
+        "metropolitan",
+        "patriarch",
+        "pope",
+        "catholicos"
+      ]
+    },
+    "era": {
+      "enum": ["old_testament", "new_testament", "early_church", "ecumenical_councils", "byzantine", "post_byzantine", "modern"]
+    },
+    "placeRole": {
+      "enum": ["birth", "education", "ministry", "ascetic_life", "martyrdom", "death", "burial", "exile", "founded", "pilgrimage", "other"]
+    },
+    "relationType": {
+      "description": "Directed relation from the record that holds it to 'target'. Inverse relations (parent_of, teacher_of …) are derived, never stored.",
+      "enum": [
+        "child_of",
+        "sibling_of",
+        "spouse_of",
+        "relative_of",
+        "disciple_of",
+        "spiritual_child_of",
+        "ordained_by",
+        "successor_of",
+        "companion_of",
+        "biographer_of"
+      ]
+    },
+    "deathManner": {
+      "enum": ["natural", "martyrdom", "beheaded", "burned", "drowned", "crucified", "stoned", "hanged", "shot", "died_in_prison", "died_in_exile", "unknown"]
+    },
+    "relicPart": {
+      "enum": ["whole", "head", "hand", "fragment", "unknown"]
+    },
+    "venerationStatus": {
+      "enum": ["immemorial", "canonized", "local"]
+    },
+    "scope": {
+      "enum": ["general", "local", "eparchial"]
+    },
+    "commemorationKind": {
+      "enum": [
+        "feast_of_the_lord",
+        "feast_of_theotokos",
+        "feast_of_cross",
+        "angels",
+        "repose",
+        "relics_translation",
+        "relics_finding",
+        "glorification",
+        "synaxis",
+        "icon",
+        "council",
+        "event",
+        "memorial_saturday",
+        "forefeast",
+        "afterfeast",
+        "leavetaking",
+        "sunday"
+      ]
+    },
+    "typikonRank": {
+      "description": "Universal rank of a service; each tradition maps its own symbols onto it.",
+      "enum": ["feast_of_feasts", "great_feast", "vigil", "polyeleos", "doxology", "six_stichera", "simple"]
+    },
+    "fastingLevel": {
+      "enum": ["fast_free", "no_fast", "no_meat", "fish", "roe", "oil_wine", "strict", "xerophagy", "total"]
+    },
+    "period": {
+      "description": "Liturgical periods used in transfer conditions.",
+      "enum": ["great_lent", "holy_week", "pascha", "bright_week", "cheesefare_week", "triodion", "pentecostarion"]
+    },
+    "editorialStatus": {
+      "enum": ["draft", "review", "approved"]
+    },
+    "confidence": {
+      "enum": ["low", "medium", "high"]
+    },
+    "citation": {
+      "description": "Pointer to a source record, optionally to a precise page or URL inside it.",
+      "type": "object",
+      "properties": {
+        "source": { "$ref": "#/$defs/sourceRef" },
+        "url": { "$ref": "#/$defs/url" },
+        "locator": { "description": "Page, chapter, paragraph …", "type": "string", "minLength": 1 },
+        "accessed": { "$ref": "#/$defs/isoDate" }
+      },
+      "required": ["source"],
+      "additionalProperties": false
+    },
+    "lifeEvent": {
+      "type": "object",
+      "properties": {
+        "date": { "$ref": "#/$defs/edtf" },
+        "calendar": { "$ref": "#/$defs/calendarStyle" },
+        "place": { "$ref": "#/$defs/placeRef" }
+      },
+      "minProperties": 1,
+      "additionalProperties": false
+    },
+    "death": {
+      "type": "object",
+      "properties": {
+        "date": { "$ref": "#/$defs/edtf" },
+        "calendar": { "$ref": "#/$defs/calendarStyle" },
+        "place": { "$ref": "#/$defs/placeRef" },
+        "manner": { "$ref": "#/$defs/deathManner" }
+      },
+      "minProperties": 1,
+      "additionalProperties": false
+    },
+    "editorial": {
+      "description": "Editorial state of the record. Notes are for maintainers and are never published.",
+      "type": "object",
+      "properties": {
+        "status": { "$ref": "#/$defs/editorialStatus" },
+        "confidence": { "$ref": "#/$defs/confidence" },
+        "reviewed_by": { "type": "array", "items": { "type": "string", "minLength": 1 }, "uniqueItems": true },
+        "reviewed_at": { "$ref": "#/$defs/isoDate" },
+        "notes": { "type": "array", "items": { "type": "string", "minLength": 1 } }
+      },
+      "required": ["status"],
+      "additionalProperties": false
+    },
+    "externalIds": {
+      "type": "object",
+      "properties": {
+        "wikidata": { "type": "string", "pattern": "^Q[1-9][0-9]*$" },
+        "oca": { "description": "Id in oca.org/saints/lives URLs.", "type": "string", "pattern": "^[0-9]+$" },
+        "goarch": { "type": "string", "minLength": 1 },
+        "azbyka": { "type": "string", "minLength": 1 },
+        "drevo": { "type": "string", "minLength": 1 },
+        "saint_gr": { "type": "string", "minLength": 1 },
+        "pravoslavie_ru": { "type": "string", "minLength": 1 },
+        "orthodoxwiki_en": { "type": "string", "minLength": 1 },
+        "orthodoxwiki_ro": { "type": "string", "minLength": 1 },
+        "doxologia": { "type": "string", "minLength": 1 },
+        "crestinortodox": { "type": "string", "minLength": 1 },
+        "copticchurch": { "description": "Coptic Synaxarium anchor, e.g. '1_7#1'.", "type": "string", "pattern": "^[0-9]{1,2}_[0-9]{1,2}(?:#[0-9]+)?$" },
+        "bhg": { "type": "array", "items": { "type": "string", "pattern": "^[0-9]+[a-z]{0,3}$" }, "uniqueItems": true },
+        "cpg": { "type": "array", "items": { "type": "string", "pattern": "^[0-9]+$" }, "uniqueItems": true },
+        "cpl": { "type": "array", "items": { "type": "string", "pattern": "^[0-9]+$" }, "uniqueItems": true },
+        "upstream": {
+          "description": "Entries in nikolareljin/orthodox-calendar that have no stable id.",
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "dataset": { "type": "string", "minLength": 1 },
+              "month_day": { "$ref": "#/$defs/monthDay" },
+              "title": { "type": "string", "minLength": 1 }
+            },
+            "required": ["dataset", "month_day", "title"],
+            "additionalProperties": false
+          }
+        },
+        "other": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "scheme": { "type": "string", "minLength": 1 },
+              "id": { "type": "string", "minLength": 1 },
+              "url": { "$ref": "#/$defs/url" }
+            },
+            "required": ["scheme", "id"],
+            "additionalProperties": false
+          }
+        }
+      },
+      "additionalProperties": false
+    },
+    "veneration": {
+      "description": "Explicit veneration details for one tradition. Veneration is also derived automatically from the traditions' calendars; add an entry only for details (status, scope) or for veneration without a calendar day.",
+      "type": "object",
+      "properties": {
+        "tradition": { "$ref": "#/$defs/traditionId" },
+        "status": { "$ref": "#/$defs/venerationStatus" },
+        "scope": { "$ref": "#/$defs/scope" },
+        "eparchy": { "$ref": "#/$defs/placeRef" },
+        "since": { "$ref": "#/$defs/edtf" }
+      },
+      "required": ["tradition", "status"],
+      "additionalProperties": false
+    },
+    "canonization": {
+      "type": "object",
+      "properties": {
+        "tradition": { "$ref": "#/$defs/traditionId" },
+        "date": { "$ref": "#/$defs/edtf" },
+        "scope": { "$ref": "#/$defs/scope" },
+        "sources": { "type": "array", "items": { "$ref": "#/$defs/citation" }, "minItems": 1 }
+      },
+      "required": ["tradition", "date", "scope", "sources"],
+      "additionalProperties": false
+    },
+    "relic": {
+      "type": "object",
+      "properties": {
+        "place": { "$ref": "#/$defs/placeRef" },
+        "part": { "$ref": "#/$defs/relicPart" },
+        "since": { "$ref": "#/$defs/edtf" },
+        "until": { "$ref": "#/$defs/edtf" },
+        "translations": { "type": "array", "items": { "$ref": "#/$defs/commRef" }, "uniqueItems": true }
+      },
+      "required": ["place", "part"],
+      "additionalProperties": false
+    },
+    "placeLink": {
+      "type": "object",
+      "properties": {
+        "place": { "$ref": "#/$defs/placeRef" },
+        "role": { "$ref": "#/$defs/placeRole" },
+        "from": { "$ref": "#/$defs/edtf" },
+        "to": { "$ref": "#/$defs/edtf" }
+      },
+      "required": ["place", "role"],
+      "additionalProperties": false
+    },
+    "occupation": {
+      "description": "Secular office or occupation (prince, soldier, physician, notary …). Codes are open; labels live in the vocabulary under 'occupation.<code>'.",
+      "type": "object",
+      "properties": {
+        "code": { "$ref": "#/$defs/code" },
+        "place": { "$ref": "#/$defs/placeRef" },
+        "from": { "$ref": "#/$defs/edtf" },
+        "to": { "$ref": "#/$defs/edtf" }
+      },
+      "required": ["code"],
+      "additionalProperties": false
+    },
+    "reading": {
+      "type": "object",
+      "properties": {
+        "service": { "enum": ["liturgy", "matins", "vespers", "hours", "other"] },
+        "role": { "enum": ["apostle", "gospel", "paremia", "other"] },
+        "ref": { "$ref": "#/$defs/bibleRef" },
+        "pericope": { "type": "integer", "minimum": 1 },
+        "of": { "description": "Reading of the day (ordinary cycle) or of the commemoration.", "enum": ["day", "commemoration"] }
+      },
+      "required": ["service", "role", "ref"],
+      "additionalProperties": false
+    },
+    "dateRule": {
+      "description": "When a commemoration falls. See docs/SCHEMA.md for the meaning of each rule type.",
+      "type": "object",
+      "discriminator": { "propertyName": "type" },
+      "required": ["type"],
+      "oneOf": [
+        { "$ref": "#/$defs/ruleFixed" },
+        { "$ref": "#/$defs/rulePascha" },
+        { "$ref": "#/$defs/rulePentecostSunday" },
+        { "$ref": "#/$defs/ruleWeekdayBefore" },
+        { "$ref": "#/$defs/ruleWeekdayAfter" },
+        { "$ref": "#/$defs/ruleWeekdayInRange" },
+        { "$ref": "#/$defs/ruleMonthly" },
+        { "$ref": "#/$defs/ruleUnspecified" }
+      ]
+    },
+    "ruleFixed": {
+      "description": "Fixed church date. Without 'calendar' the date is read in the tradition's own calendar style (the Menaion date).",
+      "type": "object",
+      "properties": {
+        "type": { "const": "fixed" },
+        "month": { "type": "integer", "minimum": 1, "maximum": 13 },
+        "day": { "type": "integer", "minimum": 1, "maximum": 31 },
+        "calendar": { "enum": ["coptic", "ethiopian"] },
+        "non_leap": {
+          "description": "Where a 29 February commemoration goes in common years.",
+          "type": "object",
+          "properties": {
+            "month": { "type": "integer", "minimum": 1, "maximum": 12 },
+            "day": { "type": "integer", "minimum": 1, "maximum": 31 }
+          },
+          "required": ["month", "day"],
+          "additionalProperties": false
+        }
+      },
+      "required": ["type", "month", "day"],
+      "additionalProperties": false
+    },
+    "rulePascha": {
+      "description": "Days from Pascha (0 = Pascha, -8 = Lazarus Saturday, 49 = Pentecost).",
+      "type": "object",
+      "properties": {
+        "type": { "const": "pascha" },
+        "offset": { "type": "integer", "minimum": -100, "maximum": 400 }
+      },
+      "required": ["type", "offset"],
+      "additionalProperties": false
+    },
+    "rulePentecostSunday": {
+      "description": "The n-th Sunday after Pentecost (1 = Sunday of All Saints).",
+      "type": "object",
+      "properties": {
+        "type": { "const": "pentecost_sunday" },
+        "n": { "type": "integer", "minimum": 1, "maximum": 40 }
+      },
+      "required": ["type", "n"],
+      "additionalProperties": false
+    },
+    "anchor": {
+      "description": "Reference point of a relative rule: a church date, a day relative to Pascha, or another commemoration.",
+      "oneOf": [
+        { "$ref": "#/$defs/monthDay" },
+        {
+          "type": "object",
+          "properties": { "pascha": { "type": "integer", "minimum": -100, "maximum": 400 } },
+          "required": ["pascha"],
+          "additionalProperties": false
+        },
+        {
+          "type": "object",
+          "properties": { "commemoration": { "$ref": "#/$defs/commRef" } },
+          "required": ["commemoration"],
+          "additionalProperties": false
+        }
+      ]
+    },
+    "ruleWeekdayBefore": {
+      "description": "The n-th given weekday before the anchor.",
+      "type": "object",
+      "properties": {
+        "type": { "const": "weekday_before" },
+        "weekday": { "$ref": "#/$defs/weekday" },
+        "anchor": { "$ref": "#/$defs/anchor" },
+        "nth": { "type": "integer", "minimum": 1, "maximum": 10 },
+        "inclusive": { "description": "Whether the anchor day itself counts.", "type": "boolean" }
+      },
+      "required": ["type", "weekday", "anchor"],
+      "additionalProperties": false
+    },
+    "ruleWeekdayAfter": {
+      "description": "The n-th given weekday after the anchor.",
+      "type": "object",
+      "properties": {
+        "type": { "const": "weekday_after" },
+        "weekday": { "$ref": "#/$defs/weekday" },
+        "anchor": { "$ref": "#/$defs/anchor" },
+        "nth": { "type": "integer", "minimum": 1, "maximum": 10 },
+        "inclusive": { "description": "Whether the anchor day itself counts.", "type": "boolean" }
+      },
+      "required": ["type", "weekday", "anchor"],
+      "additionalProperties": false
+    },
+    "ruleWeekdayInRange": {
+      "description": "The given weekday that falls between two church dates (inclusive), e.g. the Sunday between 18 and 24 December.",
+      "type": "object",
+      "properties": {
+        "type": { "const": "weekday_in_range" },
+        "weekday": { "$ref": "#/$defs/weekday" },
+        "from": { "$ref": "#/$defs/monthDay" },
+        "to": { "$ref": "#/$defs/monthDay" }
+      },
+      "required": ["type", "weekday", "from", "to"],
+      "additionalProperties": false
+    },
+    "ruleMonthly": {
+      "description": "The same day of every month (Coptic and Ethiopian monthly commemorations).",
+      "type": "object",
+      "properties": {
+        "type": { "const": "monthly" },
+        "calendar": { "enum": ["coptic", "ethiopian"] },
+        "day": { "type": "integer", "minimum": 1, "maximum": 30 }
+      },
+      "required": ["type", "calendar", "day"],
+      "additionalProperties": false
+    },
+    "ruleUnspecified": {
+      "description": "Rule not known yet. Allowed only in records whose editorial status is 'draft'.",
+      "type": "object",
+      "properties": {
+        "type": { "const": "unspecified" },
+        "note": { "type": "string", "minLength": 1 }
+      },
+      "required": ["type"],
+      "additionalProperties": false
+    }
+  }
+}

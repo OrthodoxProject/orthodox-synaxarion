@@ -1,0 +1,25 @@
+{
+  "id": "kazan-icon--appearance",
+  "kind": "icon",
+  "subjects": [
+    "icon:kazan-icon-of-the-theotokos",
+    "person:theotokos"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 8
+  },
+  "event_date": "1579",
+  "event_place": "place:kazan",
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/08/101967-kazan-icons-of-the-mother-of-god-in-kazan-st-petersburg-and-mosc"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "high"
+  }
+}

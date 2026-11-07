@@ -1,0 +1,14 @@
+{
+  "id": "test-church",
+  "locale": "ro",
+  "names": {
+    "display": "Biserica de test"
+  },
+  "symbols": {
+    "red-plain": "Cruce roșie"
+  },
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "george-the-great-martyr",
+  "locale": "en",
+  "names": {
+    "display": "Great Martyr George",
+    "full": "Holy Great Martyr George the Trophy-bearer",
+    "short": "Saint George",
+    "given": "George",
+    "epithets": [
+      "the Trophy-bearer",
+      "the Victory-bearer"
+    ]
+  },
+  "summary": "Christian soldier martyred at Nicomedia under Diocletian at the beginning of the fourth century. He is depicted on horseback, slaying the dragon with a spear.",
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/23/101184-greatmartyr-victory-bearer-and-wonderworker-george"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

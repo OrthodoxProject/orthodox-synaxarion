@@ -1,0 +1,11 @@
+{
+  "id": "test-city",
+  "locale": "en",
+  "names": {
+    "display": "Test City"
+  },
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

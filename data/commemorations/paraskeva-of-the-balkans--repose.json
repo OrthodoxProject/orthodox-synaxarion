@@ -1,0 +1,27 @@
+{
+  "id": "paraskeva-of-the-balkans--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:paraskeva-of-the-balkans"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 14
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/14/102968-venerable-paraskevi-petka-of-serbia"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-parascheva-de-la-iasi-sf-mc-nazarie-ghervasie-protasie-si-chelsie/",
+      "accessed": "2026-11-07"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium"
+  }
+}

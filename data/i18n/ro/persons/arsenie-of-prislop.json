@@ -1,0 +1,33 @@
+{
+  "id": "arsenie-of-prislop",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mărturisitor Arsenie de la Prislop",
+    "full": "Sfântul Cuvios Mărturisitor Arsenie de la Prislop",
+    "short": "Arsenie de la Prislop",
+    "given": "Arsenie",
+    "secular": "Zian Vălean Boca",
+    "variants": [
+      "Părintele Arsenie Boca"
+    ],
+    "forms": {
+      "genitive": "Sfântului Cuvios Mărturisitor Arsenie de la Prislop",
+      "vocative": "Sfinte Cuvioase Părinte Arsenie"
+    }
+  },
+  "summary": "Ieromonah și duhovnic din secolul al XX-lea, mărturisitor în anii regimului comunist. A slujit la mănăstirile Sâmbăta de Sus și Prislop, unde este înmormântat.",
+  "name_days": [
+    "Arsenie"
+  ],
+  "references": [
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-marturisitor-arsenie-de-la-prislop-sf-cuv-mc-stefan-cel-nou-sf-mc-irinarh-dezlegare-la-peste/",
+      "accessed": "2026-11-07"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

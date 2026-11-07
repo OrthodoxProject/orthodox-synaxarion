@@ -1,0 +1,21 @@
+{
+  "id": "33-martyrs-of-melitene",
+  "locale": "en",
+  "names": {
+    "display": "Holy 33 Martyrs of Melitene",
+    "variants": [
+      "Martyr Hieron and those with him"
+    ]
+  },
+  "summary": "Thirty-three Christians of Melitene, led by the young Hieron, who suffered for Christ during the persecution of Diocletian.",
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/07/103198-33-holy-martyrs-of-melitene"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

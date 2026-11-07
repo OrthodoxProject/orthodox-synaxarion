@@ -1,0 +1,27 @@
+{
+  "id": "acindynus-and-companions-of-persia",
+  "kind": "repose",
+  "subjects": [
+    "group:acindynus-and-companions-of-persia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 2
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/02/103151-martyrs-acindynus-pegasius-aphthonius-elpidephorus-anempodistus"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-achindin-pigasie-aftonie-elpidifor-si-anempodist/",
+      "accessed": "2026-11-07"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium"
+  }
+}

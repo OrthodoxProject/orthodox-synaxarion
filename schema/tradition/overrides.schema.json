@@ -1,0 +1,77 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Yearly overrides",
+  "description": "Facts taken from a tradition's official calendar for one civil year (data/traditions/<id>/overrides/<year>.json). The calendar engine computes every day; these entries correct or confirm it and are used as golden tests.",
+  "type": "object",
+  "properties": {
+    "tradition": { "$ref": "../common/defs.schema.json#/$defs/traditionId" },
+    "year": { "type": "integer", "minimum": 1583, "maximum": 2999 },
+    "source": { "$ref": "../common/defs.schema.json#/$defs/citation" },
+    "days": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "date": { "$ref": "../common/defs.schema.json#/$defs/isoDate" },
+          "add": {
+            "description": "Lines added on this day only.",
+            "type": "array",
+            "items": {
+              "type": "object",
+              "$ref": "entry.schema.json",
+              "unevaluatedProperties": false
+            }
+          },
+          "remove": {
+            "type": "array",
+            "items": { "$ref": "../common/defs.schema.json#/$defs/commRef" },
+            "uniqueItems": true
+          },
+          "readings": {
+            "type": "array",
+            "items": { "$ref": "../common/defs.schema.json#/$defs/reading" }
+          },
+          "fasting": { "$ref": "../common/defs.schema.json#/$defs/fastingLevel" },
+          "tone": {
+            "description": "Tone (glas) of the week.",
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 8
+          },
+          "eothinon": {
+            "description": "Resurrection Gospel of Sunday Matins (voscresna), 1–11.",
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 11
+          },
+          "sunday_after_pentecost": {
+            "description": "Number in the official name of the Sunday ('Duminica a 24-a după Rusalii'); it follows the Gospel pericope, so it can jump.",
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 40
+          },
+          "flags": {
+            "type": "object",
+            "properties": {
+              "public_holiday": { "type": "boolean" },
+              "aliturgical": { "type": "boolean" },
+              "weddings_allowed": { "type": "boolean" }
+            },
+            "minProperties": 1,
+            "additionalProperties": false
+          },
+          "notes": {
+            "type": "array",
+            "items": { "type": "string", "minLength": 1 }
+          }
+        },
+        "required": ["date"],
+        "minProperties": 2,
+        "additionalProperties": false
+      },
+      "minItems": 1
+    }
+  },
+  "required": ["tradition", "year", "source", "days"],
+  "additionalProperties": false
+}

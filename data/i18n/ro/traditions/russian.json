@@ -1,0 +1,14 @@
+{
+  "id": "russian",
+  "locale": "ro",
+  "names": {
+    "display": "Biserica Ortodoxă Rusă",
+    "variants": [
+      "Patriarhia Moscovei"
+    ]
+  },
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

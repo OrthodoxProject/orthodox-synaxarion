@@ -1,0 +1,26 @@
+{
+  "id": "nativity-of-christ--forefeast",
+  "kind": "forefeast",
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 20
+  },
+  "duration_days": 5,
+  "parent_feast": "comm:nativity-of-christ",
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/20/103593-forefeast-of-the-nativity-of-our-lord"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/inainte-praznuirea-nasterii-domnului-sf-sfintit-mc-ignatie-teoforul-episcopul-antiohiei-%e2%80%a0-sf-cuv-serafim-cel-rabdator-de-la-sambata-de-sus-duminica-dinaintea-nasterii-domnului-a-sf/",
+      "accessed": "2026-11-07"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "high"
+  }
+}

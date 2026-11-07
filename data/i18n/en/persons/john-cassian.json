@@ -1,0 +1,33 @@
+{
+  "id": "john-cassian",
+  "locale": "en",
+  "names": {
+    "display": "Venerable John Cassian",
+    "full": "Venerable John Cassian the Roman",
+    "given": "John",
+    "variants": [
+      "John Cassian the Roman"
+    ]
+  },
+  "summary": "Fifth-century monk and writer who founded monasteries in Marseille and passed on to the West the teaching of the Desert Fathers of Egypt.",
+  "writings": [
+    {
+      "id": "institutes",
+      "title": "The Institutes"
+    },
+    {
+      "id": "conferences",
+      "title": "The Conferences"
+    }
+  ],
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/29/100623-venerable-john-cassian-the-roman"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

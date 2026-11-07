@@ -1,0 +1,12 @@
+{
+  "tradition": "test-church",
+  "date": "01-15",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:test-saint--repose"
+      ],
+      "symbol": "red-plain"
+    }
+  ]
+}

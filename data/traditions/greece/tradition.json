@@ -1,0 +1,33 @@
+{
+  "id": "greece",
+  "family": "eastern_orthodox",
+  "status": "autocephalous",
+  "calendar_style": "revised_julian",
+  "calendar_history": [
+    {
+      "style": "julian",
+      "until": "1924-03-22"
+    }
+  ],
+  "paschalion": "julian",
+  "lectionary": {
+    "lukan_jump": true
+  },
+  "countries": [
+    "GR"
+  ],
+  "languages": [
+    "el"
+  ],
+  "liturgical_languages": [
+    "grc"
+  ],
+  "default_locale": "el",
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Calendarul pe zile al Bisericii Greciei e de adăugat (deocamdată exemplele sunt la Patriarhia Ecumenică)."
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Tradition",
+  "description": "A local Church or calendar tradition (data/traditions/<id>/tradition.json): its calendar, Paschalion, typikon conventions and the legend of its calendar symbols. Names live in data/i18n/<locale>/traditions/<id>.json.",
+  "type": "object",
+  "properties": {
+    "id": { "$ref": "../common/defs.schema.json#/$defs/traditionId" },
+    "family": { "enum": ["eastern_orthodox", "oriental_orthodox", "church_of_the_east"] },
+    "parent": {
+      "description": "Mother Church, for metropolises or autonomous Churches that follow it (e.g. moldova-bessarabia → romanian).",
+      "$ref": "../common/defs.schema.json#/$defs/traditionId"
+    },
+    "status": { "enum": ["autocephalous", "autonomous", "self_governing", "other"] },
+    "calendar_style": { "$ref": "../common/defs.schema.json#/$defs/calendarStyle" },
+    "calendar_history": {
+      "description": "Calendar styles used before the current one.",
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "style": { "$ref": "../common/defs.schema.json#/$defs/calendarStyle" },
+          "until": {
+            "description": "Last civil (Gregorian) date on which this style was used.",
+            "$ref": "../common/defs.schema.json#/$defs/isoDate"
+          }
+        },
+        "required": ["style", "until"],
+        "additionalProperties": false
+      }
+    },
+    "paschalion": { "$ref": "../common/defs.schema.json#/$defs/paschalion" },
+    "typikon": {
+      "description": "Typikon family (open code).",
+      "$ref": "../common/defs.schema.json#/$defs/code"
+    },
+    "lectionary": {
+      "type": "object",
+      "properties": {
+        "lukan_jump": {
+          "description": "Whether the Gospel of Luke starts after the Sunday following the Elevation of the Cross (the Lukan jump).",
+          "type": "boolean"
+        }
+      },
+      "additionalProperties": false
+    },
+    "symbol_legend": {
+      "description": "Symbols printed in this tradition's calendar. Entries refer to them by 'key'; labels live in the locale files.",
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "key": { "$ref": "../common/defs.schema.json#/$defs/slug" },
+          "glyph": { "type": "string", "minLength": 1, "maxLength": 8 },
+          "color": { "enum": ["red", "black", "blue"] },
+          "rank": { "$ref": "../common/defs.schema.json#/$defs/typikonRank" }
+        },
+        "required": ["key", "glyph"],
+        "additionalProperties": false
+      }
+    },
+    "countries": {
+      "type": "array",
+      "items": { "$ref": "../common/defs.schema.json#/$defs/country" },
+      "uniqueItems": true
+    },
+    "languages": {
+      "type": "array",
+      "items": { "$ref": "../common/defs.schema.json#/$defs/locale" },
+      "uniqueItems": true
+    },
+    "liturgical_languages": {
+      "type": "array",
+      "items": { "$ref": "../common/defs.schema.json#/$defs/locale" },
+      "uniqueItems": true
+    },
+    "default_locale": { "$ref": "../common/defs.schema.json#/$defs/locale" },
+    "official_sources": {
+      "type": "array",
+      "items": { "$ref": "../common/defs.schema.json#/$defs/citation" }
+    },
+    "external_ids": { "$ref": "../common/defs.schema.json#/$defs/externalIds" },
+    "sources": {
+      "type": "array",
+      "items": { "$ref": "../common/defs.schema.json#/$defs/citation" }
+    },
+    "editorial": { "$ref": "../common/defs.schema.json#/$defs/editorial" }
+  },
+  "required": ["id", "family", "calendar_style", "paschalion", "default_locale", "editorial"],
+  "additionalProperties": false
+}

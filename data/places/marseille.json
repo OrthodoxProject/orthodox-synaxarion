@@ -1,0 +1,13 @@
+{
+  "id": "marseille",
+  "kind": "city",
+  "country": "FR",
+  "coords": {
+    "lat": 43.2965,
+    "lon": 5.3698
+  },
+  "editorial": {
+    "status": "draft",
+    "confidence": "high"
+  }
+}

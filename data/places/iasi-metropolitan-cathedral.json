@@ -1,0 +1,10 @@
+{
+  "id": "iasi-metropolitan-cathedral",
+  "kind": "church",
+  "country": "RO",
+  "located_in": "place:iasi",
+  "editorial": {
+    "status": "draft",
+    "confidence": "high"
+  }
+}

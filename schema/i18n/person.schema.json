@@ -1,0 +1,80 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Person (locale)",
+  "description": "Names and texts of a person in one language (data/i18n/<locale>/persons/<id>.json). The long life, if any, is the Markdown file <id>.md next to it.",
+  "type": "object",
+  "properties": {
+    "id": { "$ref": "../common/defs.schema.json#/$defs/slug" },
+    "locale": { "$ref": "../common/defs.schema.json#/$defs/locale" },
+    "names": {
+      "type": "object",
+      "$ref": "common.schema.json#/$defs/names",
+      "properties": {
+        "given": {
+          "description": "The baptismal or monastic first name, as used for name days.",
+          "$ref": "common.schema.json#/$defs/text"
+        },
+        "epithets": {
+          "type": "array",
+          "items": { "$ref": "common.schema.json#/$defs/text" },
+          "uniqueItems": true
+        },
+        "secular": {
+          "description": "Name before monastic tonsure (e.g. 'Zian Vălean Boca').",
+          "$ref": "common.schema.json#/$defs/text"
+        },
+        "monastic": {
+          "type": "array",
+          "items": { "$ref": "common.schema.json#/$defs/text" },
+          "uniqueItems": true
+        }
+      },
+      "unevaluatedProperties": false
+    },
+    "summary": {
+      "description": "One or two sentences.",
+      "$ref": "common.schema.json#/$defs/text"
+    },
+    "synaxarion": {
+      "description": "Short life (about 150–300 words).",
+      "$ref": "common.schema.json#/$defs/text"
+    },
+    "miracles": {
+      "type": "array",
+      "items": { "$ref": "common.schema.json#/$defs/attributedText" }
+    },
+    "quotes": {
+      "type": "array",
+      "items": { "$ref": "common.schema.json#/$defs/attributedText" }
+    },
+    "iconography_description": { "$ref": "common.schema.json#/$defs/text" },
+    "writings": {
+      "description": "Titles of the works listed in the person record, keyed by their id.",
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": { "$ref": "../common/defs.schema.json#/$defs/slug" },
+          "title": { "$ref": "common.schema.json#/$defs/text" }
+        },
+        "required": ["id", "title"],
+        "additionalProperties": false
+      }
+    },
+    "name_days": {
+      "description": "Names (and variants) that celebrate their name day with this saint, in this language and culture.",
+      "type": "array",
+      "items": { "$ref": "common.schema.json#/$defs/text" },
+      "uniqueItems": true
+    },
+    "folk_traditions": {
+      "description": "Popular customs, always shown under the label 'folk tradition'.",
+      "type": "array",
+      "items": { "$ref": "common.schema.json#/$defs/attributedText" }
+    },
+    "references": { "$ref": "common.schema.json#/$defs/references" },
+    "translation": { "$ref": "common.schema.json#/$defs/translation" }
+  },
+  "required": ["id", "locale", "names", "translation"],
+  "additionalProperties": false
+}

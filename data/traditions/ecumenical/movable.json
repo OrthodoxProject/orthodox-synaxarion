@@ -1,0 +1,30 @@
+{
+  "tradition": "ecumenical",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:pascha"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:thomas-sunday"
+      ]
+    }
+  ],
+  "transfers": [
+    {
+      "commemoration": "comm:george-the-great-martyr--repose",
+      "when": {
+        "before_pascha": true
+      },
+      "to": {
+        "pascha": 1
+      },
+      "confidence": "medium",
+      "notes": [
+        "În practica greacă, dacă 23 aprilie cade înainte de Paști, pomenirea se face în Lunea Luminată."
+      ]
+    }
+  ]
+}

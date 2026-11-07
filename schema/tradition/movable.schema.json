@@ -1,0 +1,107 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Movable cycle",
+  "description": "Commemorations of one tradition that do not have a fixed church date (Triodion, Pentecostarion, Sundays, memorial Saturdays, monthly commemorations), plus the transfer rules of fixed commemorations (data/traditions/<id>/movable.json).",
+  "type": "object",
+  "properties": {
+    "tradition": { "$ref": "../common/defs.schema.json#/$defs/traditionId" },
+    "entries": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "$ref": "entry.schema.json",
+        "properties": {
+          "rule": {
+            "description": "The tradition's own rule; when absent, the commemoration's date_rule applies.",
+            "$ref": "../common/defs.schema.json#/$defs/dateRule"
+          }
+        },
+        "unevaluatedProperties": false
+      }
+    },
+    "transfers": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "commemoration": { "$ref": "../common/defs.schema.json#/$defs/commRef" },
+          "when": {
+            "description": "Condition that triggers the transfer; all given conditions must hold.",
+            "type": "object",
+            "properties": {
+              "periods": {
+                "type": "array",
+                "items": { "$ref": "../common/defs.schema.json#/$defs/period" },
+                "minItems": 1,
+                "uniqueItems": true
+              },
+              "before_pascha": { "type": "boolean" },
+              "coincides_with": {
+                "type": "array",
+                "items": { "$ref": "../common/defs.schema.json#/$defs/commRef" },
+                "minItems": 1,
+                "uniqueItems": true
+              },
+              "weekdays": {
+                "type": "array",
+                "items": { "$ref": "../common/defs.schema.json#/$defs/weekday" },
+                "minItems": 1,
+                "uniqueItems": true
+              }
+            },
+            "minProperties": 1,
+            "additionalProperties": false
+          },
+          "to": {
+            "description": "Where the commemoration goes: a day relative to Pascha, a shift in days, the next given weekday, celebrated together with the other feast, or omitted that year.",
+            "oneOf": [
+              {
+                "type": "object",
+                "properties": { "pascha": { "type": "integer", "minimum": -100, "maximum": 400 } },
+                "required": ["pascha"],
+                "additionalProperties": false
+              },
+              {
+                "type": "object",
+                "properties": { "shift_days": { "type": "integer", "minimum": -14, "maximum": 14 } },
+                "required": ["shift_days"],
+                "additionalProperties": false
+              },
+              {
+                "type": "object",
+                "properties": { "next_weekday": { "$ref": "../common/defs.schema.json#/$defs/weekday" } },
+                "required": ["next_weekday"],
+                "additionalProperties": false
+              },
+              {
+                "type": "object",
+                "properties": { "combined": { "const": true } },
+                "required": ["combined"],
+                "additionalProperties": false
+              },
+              {
+                "type": "object",
+                "properties": { "omitted": { "const": true } },
+                "required": ["omitted"],
+                "additionalProperties": false
+              }
+            ]
+          },
+          "confidence": { "$ref": "../common/defs.schema.json#/$defs/confidence" },
+          "sources": {
+            "type": "array",
+            "items": { "$ref": "../common/defs.schema.json#/$defs/citation" }
+          },
+          "notes": {
+            "type": "array",
+            "items": { "type": "string", "minLength": 1 }
+          }
+        },
+        "required": ["commemoration", "when", "to"],
+        "additionalProperties": false
+      }
+    }
+  },
+  "required": ["tradition"],
+  "additionalProperties": false
+}

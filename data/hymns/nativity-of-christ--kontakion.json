@@ -1,0 +1,12 @@
+{
+  "id": "nativity-of-christ--kontakion",
+  "type": "kontakion",
+  "for": "comm:nativity-of-christ",
+  "tone": 3,
+  "automelon": true,
+  "author": "person:romanos-the-melodist",
+  "editorial": {
+    "status": "draft",
+    "confidence": "high"
+  }
+}

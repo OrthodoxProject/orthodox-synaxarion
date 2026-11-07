@@ -1,0 +1,87 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Locale file building blocks",
+  "description": "Definitions shared by the locale files in data/i18n/<locale>/. Every text that is shown to a reader lives in these files.",
+  "$defs": {
+    "text": {
+      "description": "Text in the file's language. Inline Markdown is allowed.",
+      "type": "string",
+      "minLength": 1
+    },
+    "translation": {
+      "description": "Where the text comes from: 'original' (written in this language), 'human' (human translation) or 'machine' (machine translation). Machine-translated texts are not published until their status is 'reviewed' or 'approved'.",
+      "type": "object",
+      "properties": {
+        "status": { "enum": ["draft", "machine", "reviewed", "approved"] },
+        "method": { "enum": ["original", "human", "machine"] },
+        "from": { "$ref": "../common/defs.schema.json#/$defs/locale" },
+        "translators": { "type": "array", "items": { "type": "string", "minLength": 1 }, "uniqueItems": true },
+        "reviewers": { "type": "array", "items": { "type": "string", "minLength": 1 }, "uniqueItems": true },
+        "date": { "$ref": "../common/defs.schema.json#/$defs/isoDate" }
+      },
+      "required": ["status", "method"],
+      "additionalProperties": false
+    },
+    "reference": {
+      "description": "A reference for readers of this language: either a source record or an inline link (an article on doxologia.ro, a page on oca.org …).",
+      "oneOf": [
+        { "$ref": "../common/defs.schema.json#/$defs/citation" },
+        {
+          "type": "object",
+          "properties": {
+            "title": { "type": "string", "minLength": 1 },
+            "publisher": { "type": "string", "minLength": 1 },
+            "url": { "$ref": "../common/defs.schema.json#/$defs/url" },
+            "accessed": { "$ref": "../common/defs.schema.json#/$defs/isoDate" },
+            "language": { "$ref": "../common/defs.schema.json#/$defs/locale" },
+            "license": { "$ref": "../common/defs.schema.json#/$defs/license" }
+          },
+          "required": ["title", "url"],
+          "additionalProperties": false
+        }
+      ]
+    },
+    "references": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/reference" }
+    },
+    "nameForms": {
+      "description": "Inflected forms, for languages that need them (genitive for titles such as 'Acatistul Sfântului …', vocative for prayers).",
+      "type": "object",
+      "properties": {
+        "genitive": { "$ref": "#/$defs/text" },
+        "dative": { "$ref": "#/$defs/text" },
+        "accusative": { "$ref": "#/$defs/text" },
+        "vocative": { "$ref": "#/$defs/text" }
+      },
+      "minProperties": 1,
+      "additionalProperties": false
+    },
+    "names": {
+      "description": "How a record is named in this language. 'display' is the calendar form (with the usual abbreviations); 'full' is the complete liturgical title.",
+      "type": "object",
+      "properties": {
+        "display": { "$ref": "#/$defs/text" },
+        "full": { "$ref": "#/$defs/text" },
+        "short": { "$ref": "#/$defs/text" },
+        "variants": {
+          "description": "Other names used in this language (other sources, older spellings, popular names).",
+          "type": "array",
+          "items": { "$ref": "#/$defs/text" },
+          "uniqueItems": true
+        },
+        "forms": { "$ref": "#/$defs/nameForms" }
+      },
+      "required": ["display"]
+    },
+    "attributedText": {
+      "type": "object",
+      "properties": {
+        "text": { "$ref": "#/$defs/text" },
+        "references": { "$ref": "#/$defs/references" }
+      },
+      "required": ["text"],
+      "additionalProperties": false
+    }
+  }
+}

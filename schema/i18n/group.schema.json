@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Group (locale)",
+  "description": "Names and texts of a group of saints in one language (data/i18n/<locale>/groups/<id>.json).",
+  "type": "object",
+  "properties": {
+    "id": { "$ref": "../common/defs.schema.json#/$defs/slug" },
+    "locale": { "$ref": "../common/defs.schema.json#/$defs/locale" },
+    "names": {
+      "type": "object",
+      "$ref": "common.schema.json#/$defs/names",
+      "unevaluatedProperties": false
+    },
+    "summary": { "$ref": "common.schema.json#/$defs/text" },
+    "synaxarion": { "$ref": "common.schema.json#/$defs/text" },
+    "references": { "$ref": "common.schema.json#/$defs/references" },
+    "translation": { "$ref": "common.schema.json#/$defs/translation" }
+  },
+  "required": ["id", "locale", "names", "translation"],
+  "additionalProperties": false
+}

@@ -1,0 +1,51 @@
+{
+  "id": "george-the-great-martyr",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "great_martyr",
+    "wonderworker"
+  ],
+  "occupations": [
+    {
+      "code": "soldier"
+    }
+  ],
+  "died": {
+    "date": "0303~",
+    "place": "place:nicomedia",
+    "manner": "beheaded"
+  },
+  "era": "early_church",
+  "places": [
+    {
+      "place": "place:lydda",
+      "role": "burial"
+    }
+  ],
+  "iconography": {
+    "attributes": [
+      "horse",
+      "spear",
+      "dragon"
+    ]
+  },
+  "external_ids": {
+    "oca": "101184"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/23/101184-greatmartyr-victory-bearer-and-wonderworker-george"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-mare-mc-gheorghe-purtatorul-de-biruinta-sf-mc-valerie/",
+      "accessed": "2026-11-07"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "germanus-of-dobruja",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "venerable"
+  ],
+  "born": {
+    "place": "place:scythia-minor"
+  },
+  "floruit": "0400~",
+  "era": "ecumenical_councils",
+  "sources": [
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-ioan-casian-si-gherman-din-dobrogea-sf-cuv-vasile-marturisitorul-sambata-sf-mare-mc-teodor-tiron-pomenirea-celor-adormiti/",
+      "accessed": "2026-11-07"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium"
+  }
+}

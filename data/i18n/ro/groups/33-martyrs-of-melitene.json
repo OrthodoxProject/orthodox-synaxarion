@@ -1,0 +1,23 @@
+{
+  "id": "33-martyrs-of-melitene",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții 33 de Mucenici din Melitina",
+    "short": "Cei 33 de Mucenici din Melitina",
+    "variants": [
+      "Sf. Mc. Ieron și cei împreună cu el"
+    ]
+  },
+  "summary": "Treizeci și trei de creștini din Melitina, în frunte cu tânărul Ieron, care au pătimit pentru Hristos în timpul prigoanei lui Dioclețian.",
+  "references": [
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sfintii-33-de-mucenici-din-melitina-sf-cuv-lazar-din-muntele-galisiei-sambata-celor-adormiti-mosii-de-toamna/",
+      "accessed": "2026-11-07"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

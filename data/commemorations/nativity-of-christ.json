@@ -1,0 +1,37 @@
+{
+  "id": "nativity-of-christ",
+  "kind": "feast_of_the_lord",
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 25
+  },
+  "default_rank": "great_feast",
+  "readings": [
+    {
+      "service": "liturgy",
+      "role": "apostle",
+      "ref": "GAL 4:4-7"
+    },
+    {
+      "service": "liturgy",
+      "role": "gospel",
+      "ref": "MAT 2:1-12"
+    }
+  ],
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/25/103638-the-nativity-of-our-lord-god-and-savior-jesus-christ"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-nasterea-domnului-craciunul-harti/",
+      "accessed": "2026-11-07"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "high"
+  }
+}

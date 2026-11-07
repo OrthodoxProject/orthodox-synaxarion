@@ -1,0 +1,58 @@
+{
+  "id": "john-cassian",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "venerable"
+  ],
+  "born": {
+    "place": "place:scythia-minor"
+  },
+  "died": {
+    "date": "0435~",
+    "place": "place:marseille",
+    "manner": "natural"
+  },
+  "era": "ecumenical_councils",
+  "places": [
+    {
+      "place": "place:abbey-of-saint-victor-marseille",
+      "role": "founded"
+    }
+  ],
+  "relations": [
+    {
+      "type": "companion_of",
+      "target": "person:germanus-of-dobruja"
+    }
+  ],
+  "writings": [
+    {
+      "id": "institutes"
+    },
+    {
+      "id": "conferences"
+    }
+  ],
+  "external_ids": {
+    "oca": "100623"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/29/100623-venerable-john-cassian-the-roman"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-ioan-casian-si-gherman-din-dobrogea-sf-cuv-vasile-marturisitorul-sambata-sf-mare-mc-teodor-tiron-pomenirea-celor-adormiti/",
+      "accessed": "2026-11-07"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Originea din Sciția Mică (Dobrogea) urmează tradiția românească; e de citat o sursă de specialitate."
+    ]
+  }
+}

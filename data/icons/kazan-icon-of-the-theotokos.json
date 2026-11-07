@@ -1,0 +1,30 @@
+{
+  "id": "kazan-icon-of-the-theotokos",
+  "subject": "theotokos",
+  "depicts": [
+    "person:theotokos"
+  ],
+  "iconographic_type": "hodegetria",
+  "origin": {
+    "date": "1579",
+    "place": "place:kazan"
+  },
+  "status": "lost",
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/08/101967-kazan-icons-of-the-mother-of-god-in-kazan-st-petersburg-and-mosc"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/22/103037-commemoration-of-the-kazan-icon-of-the-mother-of-god-and-the-del"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Originalul a fost furat în 1904; de verificat și de adăugat copiile principale."
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Hymn (locale)",
+  "description": "A hymn in one language (data/i18n/<locale>/hymns/<id>.json). The full text is allowed only with an open license, in the public domain or with permission; otherwise keep the incipit and a reference.",
+  "type": "object",
+  "properties": {
+    "id": { "$ref": "../common/defs.schema.json#/$defs/slug" },
+    "locale": { "$ref": "../common/defs.schema.json#/$defs/locale" },
+    "incipit": {
+      "description": "First words of the hymn, used to name it.",
+      "$ref": "common.schema.json#/$defs/text"
+    },
+    "text": { "$ref": "common.schema.json#/$defs/text" },
+    "podoben_incipit": {
+      "description": "Incipit of the model melody in this language (e.g. 'Podobie: Cel ce Te-ai înălțat …'), when there is no hymn record for it.",
+      "$ref": "common.schema.json#/$defs/text"
+    },
+    "translation_source": { "$ref": "common.schema.json#/$defs/reference" },
+    "license": { "$ref": "../common/defs.schema.json#/$defs/license" },
+    "translation": { "$ref": "common.schema.json#/$defs/translation" }
+  },
+  "required": ["id", "locale", "translation"],
+  "anyOf": [
+    { "required": ["incipit"] },
+    { "required": ["text"] }
+  ],
+  "dependentRequired": {
+    "text": ["license"]
+  },
+  "additionalProperties": false
+}

@@ -1,0 +1,43 @@
+{
+  "id": "gregory-the-illuminator",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "hieromartyr",
+    "hierarch",
+    "equal_to_apostles"
+  ],
+  "ranks": [
+    {
+      "rank": "bishop",
+      "see": "place:armenia"
+    }
+  ],
+  "died": {
+    "date": "0331~",
+    "place": "place:armenia"
+  },
+  "era": "early_church",
+  "external_ids": {
+    "oca": "102818"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/30/102818-hieromartyr-gregory-bishop-of-greater-armenia-equal-of-the-apost"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ier-grigorie-luminatorul-arhiepiscopul-armeniei-sf-mc-ripsimia-si-gaiani/",
+      "accessed": "2026-11-07"
+    },
+    {
+      "source": "src:armenianchurch-ge",
+      "url": "https://armenianchurch.ge/en/kalendar-prazdnikov/description-2/june/feast-of-st-gregory-the-illuminator-s-deliverance-from-the-pit"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium"
+  }
+}

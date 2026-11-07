@@ -1,0 +1,13 @@
+{
+  "id": "bari",
+  "kind": "city",
+  "country": "IT",
+  "coords": {
+    "lat": 41.1171,
+    "lon": 16.8719
+  },
+  "editorial": {
+    "status": "draft",
+    "confidence": "high"
+  }
+}

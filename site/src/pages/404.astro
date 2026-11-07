@@ -1,0 +1,13 @@
+---
+import Base from "../layouts/Base.astro";
+import { href } from "../lib/site.ts";
+import { t } from "../lib/ui.ts";
+---
+
+<Base lang="ro" title={t("ro", "notFound")}>
+  <h1>{t("ro", "notFound")}</h1>
+  <p><a href={href("ro")}>{t("ro", "backHome")}</a></p>
+  <p lang="en">
+    {t("en", "notFound")} <a href={href("en")}>{t("en", "backHome")}</a>
+  </p>
+</Base>

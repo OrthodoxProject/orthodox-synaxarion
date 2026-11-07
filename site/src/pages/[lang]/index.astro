@@ -1,0 +1,72 @@
+---
+import DayView from "../../components/DayView.astro";
+import Base from "../../layouts/Base.astro";
+import { lineTitle, longDateText, traditionName } from "../../lib/format.ts";
+import { DEFAULT_TRADITION, asset, calendarTraditions, dayHref, dayOf, href, monthHref, shiftIso, siteYears, todayIso } from "../../lib/site.ts";
+import { LANGS, t, type Lang } from "../../lib/ui.ts";
+
+export function getStaticPaths() {
+  return LANGS.map((lang) => ({ params: { lang } }));
+}
+
+const lang = Astro.params.lang as Lang;
+const tradition = DEFAULT_TRADITION;
+const today = todayIso();
+const day = dayOf(tradition, today);
+const next = [1, 2, 3, 4, 5, 6].map((n) => dayOf(tradition, shiftIso(today, n))).filter((d) => d !== undefined);
+const others = calendarTraditions().filter((id) => id !== tradition);
+---
+
+<Base lang={lang} title={t(lang, "siteName")} current="today">
+  <p class="muted">{t(lang, "tagline")}</p>
+  <h1>{longDateText(today, day?.weekday ?? "", lang)}</h1>
+  <p class="muted">{traditionName(tradition, lang)}</p>
+  {
+    day && (
+      <div class="card">
+        <DayView day={day} lang={lang} />
+        <p>
+          <a href={dayHref(lang, tradition, today)}>{t(lang, "dayPage")} →</a>
+        </p>
+      </div>
+    )
+  }
+
+  <h2>{t(lang, "nextDays")}</h2>
+  <ul class="lines">
+    {
+      next.map((d) => (
+        <li>
+          <a href={dayHref(lang, tradition, d.date)}>{longDateText(d.date, d.weekday, lang)}</a>
+          {d.lines.length > 0 && <span class="muted"> · {d.lines.map((l) => lineTitle(l, lang, tradition)).join("; ")}</span>}
+        </li>
+      ))
+    }
+  </ul>
+  <p>
+    <a href={monthHref(lang, tradition, today.slice(0, 4), today.slice(5, 7))}>{t(lang, "calendar")} →</a>
+  </p>
+
+  <h2>{t(lang, "otherTraditions")}</h2>
+  <ul class="chips">
+    {
+      others.map((id) => (
+        <li>
+          <a href={dayHref(lang, id, today)}>{traditionName(id, lang)}</a>
+        </li>
+      ))
+    }
+  </ul>
+  <p>
+    <a href={asset(`${lang}/${tradition}.ics`)}>{t(lang, "subscribe")}</a>
+  </p>
+
+  <script is:inline define:vars={{ buildDate: today, years: siteYears(), dayBase: href(lang, tradition) }}>
+    // The page is rebuilt every night; if the reader's date differs, open that day instead.
+    const now = new Date();
+    const local = [now.getFullYear(), String(now.getMonth() + 1).padStart(2, "0"), String(now.getDate()).padStart(2, "0")];
+    if (local.join("-") !== buildDate && years.includes(now.getFullYear())) {
+      location.replace(`${dayBase}${local.join("/")}/`);
+    }
+  </script>
+</Base>

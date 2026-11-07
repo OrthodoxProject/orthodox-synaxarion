@@ -1,0 +1,25 @@
+---
+import { href } from "../lib/site.ts";
+
+const ro = href("ro");
+const en = href("en");
+---
+
+<!doctype html>
+<html lang="ro">
+  <head>
+    <meta charset="utf-8" />
+    <title>Sinaxar ortodox · Orthodox Synaxarion</title>
+    <link rel="alternate" hreflang="ro" href={ro} />
+    <link rel="alternate" hreflang="en" href={en} />
+    <script is:inline define:vars={{ ro, en }}>
+      // Romanian for readers whose browser prefers it, English for everyone else.
+      const prefersRomanian = (navigator.languages ?? [navigator.language]).some((l) => l.toLowerCase().startsWith("ro"));
+      location.replace(prefersRomanian ? ro : en);
+    </script>
+    <noscript><meta http-equiv="refresh" content={`0; url=${ro}`} /></noscript>
+  </head>
+  <body>
+    <p><a href={ro} hreflang="ro">Sinaxar ortodox</a> · <a href={en} hreflang="en" lang="en">Orthodox Synaxarion</a></p>
+  </body>
+</html>

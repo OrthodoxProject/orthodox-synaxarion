@@ -683,6 +683,11 @@ function usedCodes(ds: Dataset): Set<string> {
       add("death_manner", data.died?.manner);
       for (const x of data.relics ?? []) add("relic_part", x.part);
       for (const x of data.patronage ?? []) add("patronage", x.code);
+      for (const x of data.canonizations ?? []) add("scope", x.scope);
+      for (const x of data.veneration ?? []) {
+        add("veneration_status", x.status);
+        add("scope", x.scope);
+      }
       for (const x of data.iconography?.attributes ?? []) add("iconographic_attribute", x);
       if (c === "groups") add("group_kind", data.kind);
     }

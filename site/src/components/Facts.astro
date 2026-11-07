@@ -1,0 +1,82 @@
+---
+/** Facts about a saint or a group of saints, as a definition list. */
+import { edtfText, genderForm, lifeEventText, linkOf, nameOf, placeText, rangeText, traditionName, vocab, withDetails } from "../lib/format.ts";
+import { t, type Lang, type UiKey } from "../lib/ui.ts";
+
+type Rec = Record<string, any>;
+interface Item {
+  prefix?: string;
+  text: string;
+  href?: string;
+}
+interface Props {
+  rec: Rec;
+  loc: Rec;
+  lang: Lang;
+  /** Groups the person belongs to. */
+  groups?: string[];
+}
+
+const { rec, loc, lang, groups = [] } = Astro.props;
+const form = genderForm(rec.gender);
+const names: Rec = loc.names ?? {};
+const writingTitles = new Map(((loc.writings ?? []) as Rec[]).map((w) => [w.id as string, w.title as string]));
+const manner = rec.died?.manner && rec.died.manner !== "natural" && rec.died.manner !== "unknown" ? vocab(lang, `death_manner.${rec.died.manner}`) : undefined;
+const died = lifeEventText(rec.died, lang);
+const born = lifeEventText(rec.born, lang);
+
+const rows: Array<[UiKey, Item[]]> = [
+  ["otherNames", [...(names.variants ?? []), ...(names.monastic ?? [])].map((text: string) => ({ text }))],
+  ["secularName", names.secular ? [{ text: names.secular }] : []],
+  ["memberOf", groups.map((g) => ({ text: nameOf(g, lang), href: linkOf(g, lang) }))],
+  ["count", rec.count ? [{ text: rec.count.precision === "approx" ? `${lang === "ro" ? "cca" : "c."} ${rec.count.value}` : String(rec.count.value) }] : []],
+  ["born", born ? [{ text: born }] : []],
+  ["died", died ? [{ text: manner ? `${died} · ${manner}` : died }] : []],
+  ["floruit", rec.floruit ? [{ text: edtfText(rec.floruit, lang) }] : []],
+  ["era", rec.era ? [{ text: vocab(lang, `era.${rec.era}`) }] : []],
+  ["ranks", ((rec.ranks ?? []) as Rec[]).map((r) => ({ text: withDetails(vocab(lang, `clerical_rank.${r.rank}`, form), r.see && placeText(r.see, lang, false), rangeText(r.from, r.to, lang)) }))],
+  ["occupations", ((rec.occupations ?? []) as Rec[]).map((o) => ({ text: withDetails(vocab(lang, `occupation.${o.code}`, form), o.place && placeText(o.place, lang, false), rangeText(o.from, o.to, lang)) }))],
+  ["places", ((rec.places ?? []) as Rec[]).map((p) => ({ text: withDetails(placeText(p.place, lang), vocab(lang, `place_role.${p.role}`), rangeText(p.from, p.to, lang)) }))],
+  ["relations", ((rec.relations ?? []) as Rec[]).map((r) => ({ prefix: vocab(lang, `relation_type.${r.type}`), text: nameOf(r.target, lang), href: linkOf(r.target, lang) }))],
+  [
+    "relics",
+    ((rec.relics ?? []) as Rec[]).map((r) => ({
+      text: withDetails(placeText(r.place, lang), r.part !== "unknown" && vocab(lang, `relic_part.${r.part}`), rangeText(r.since, r.until, lang)),
+    })),
+  ],
+  ["canonization", ((rec.canonizations ?? []) as Rec[]).map((c) => ({ text: withDetails(traditionName(c.tradition, lang), edtfText(c.date, lang), vocab(lang, `scope.${c.scope}`)) }))],
+  [
+    "veneration",
+    ((rec.veneration ?? []) as Rec[]).map((v) => ({
+      text: withDetails(traditionName(v.tradition, lang), vocab(lang, `veneration_status.${v.status}`), v.scope && vocab(lang, `scope.${v.scope}`), v.eparchy && placeText(v.eparchy, lang, false), v.since && `${t(lang, "since")} ${edtfText(v.since, lang)}`),
+    })),
+  ],
+  ["patronage", ((rec.patronage ?? []) as Rec[]).map((p) => ({ text: vocab(lang, `patronage.${p.code}`) }))],
+  ["iconography", ((rec.iconography?.attributes ?? []) as string[]).map((a) => ({ text: vocab(lang, `iconographic_attribute.${a}`) }))],
+  ["writings", ((rec.writings ?? []) as Rec[]).map((w) => ({ text: withDetails(writingTitles.get(w.id) ?? w.id, w.cpg && `CPG ${w.cpg}`, w.cpl && `CPL ${w.cpl}`) }))],
+  ["nameDays", ((loc.name_days ?? []) as string[]).map((text) => ({ text }))],
+];
+const shown = rows.filter(([, items]) => items.length > 0);
+---
+
+{
+  shown.length > 0 && (
+    <dl class="facts">
+      {shown.map(([label, items]) => (
+        <>
+          <dt>{t(lang, label)}</dt>
+          <dd>
+            {items.map((item, i) => (
+              <>
+                {i > 0 && (label === "nameDays" || label === "otherNames" || label === "iconography" ? ", " : "; ")}
+                {item.prefix && `${item.prefix} `}
+                {item.href ? <a href={item.href}>{item.text}</a> : item.text}
+              </>
+            ))}
+          </dd>
+        </>
+      ))}
+    </dl>
+  )
+}
+{loc.iconography_description && <p class="muted">{loc.iconography_description}</p>}

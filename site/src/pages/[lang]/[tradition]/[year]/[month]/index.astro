@@ -1,0 +1,90 @@
+---
+import Base from "../../../../../layouts/Base.astro";
+import { capitalize, churchDateText, lineTitle, monthName, traditionName, vocab, weekdayText } from "../../../../../lib/format.ts";
+import { calendarTraditions, dayHref, daysOf, ds, monthHref, siteYears, todayIso } from "../../../../../lib/site.ts";
+import { LANGS, t, type Lang } from "../../../../../lib/ui.ts";
+
+export function getStaticPaths() {
+  const paths = [];
+  for (const lang of LANGS) {
+    for (const tradition of calendarTraditions()) {
+      for (const year of siteYears()) {
+        for (let m = 1; m <= 12; m++) paths.push({ params: { lang, tradition, year: String(year), month: String(m).padStart(2, "0") } });
+      }
+    }
+  }
+  return paths;
+}
+
+const params = Astro.params;
+const lang = params.lang as Lang;
+const tradition = params.tradition as string;
+const year = Number(params.year);
+const month = Number(params.month);
+const days = daysOf(tradition, year).filter((d) => Number(d.date.slice(5, 7)) === month);
+const legend = new Map(((ds().traditions.get(tradition)?.symbol_legend ?? []) as Array<Record<string, any>>).map((s) => [s.key as string, s]));
+const years = siteYears();
+const prev = month === 1 ? { y: year - 1, m: 12 } : { y: year, m: month - 1 };
+const next = month === 12 ? { y: year + 1, m: 1 } : { y: year, m: month + 1 };
+const today = todayIso();
+const title = `${capitalize(monthName(month, lang))} ${year}`;
+---
+
+<Base lang={lang} title={`${title} · ${traditionName(tradition, lang, "short")}`} segments={[tradition, year, params.month as string]} current="calendar">
+  <h1>{title}</h1>
+  <p class="muted">{traditionName(tradition, lang)}</p>
+  <ul class="chips">
+    {
+      calendarTraditions()
+        .filter((id) => id !== tradition)
+        .map((id) => (
+          <li>
+            <a href={monthHref(lang, id, year, month)}>{traditionName(id, lang, "short")}</a>
+          </li>
+        ))
+    }
+  </ul>
+  <table class="month">
+    <tbody>
+      {
+        days.map((d) => {
+          const classes = [d.weekday === "sunday" ? "sunday" : "", d.flags?.public_holiday ? "holiday" : "", d.date === today ? "today" : ""].join(" ").trim();
+          const church = churchDateText(d, lang);
+          return (
+            <tr class={classes || undefined}>
+              <td class="num">
+                <a href={dayHref(lang, tradition, d.date)}>{Number(d.date.slice(8, 10))}</a>
+                <small>{weekdayText(d.weekday, lang).slice(0, 3)}</small>
+              </td>
+              <td>
+                {d.lines.length > 0 ? (
+                  d.lines.map((l, i) => {
+                    const symbol = l.symbol ? legend.get(l.symbol) : undefined;
+                    return (
+                      <span>
+                        {i > 0 && "; "}
+                        {symbol && <span class={`symbol symbol-${symbol.color ?? "black"}`}>{symbol.glyph}</span>}
+                        {lineTitle(l, lang, tradition)}
+                      </span>
+                    );
+                  })
+                ) : (
+                  <span class="muted">—</span>
+                )}
+                <span class="meta">
+                  {[church, d.fasting ? vocab(lang, `fasting_level.${d.fasting}`) : undefined, d.tone && d.weekday === "sunday" ? `${t(lang, "tone")} ${d.tone}` : undefined]
+                    .filter(Boolean)
+                    .join(" · ")}
+                </span>
+              </td>
+            </tr>
+          );
+        })
+      }
+    </tbody>
+  </table>
+  <nav class="pager">
+    {years.includes(prev.y) ? <a href={monthHref(lang, tradition, prev.y, prev.m)}>← {t(lang, "previousMonth")}</a> : <span />}
+    {years.includes(next.y) ? <a href={monthHref(lang, tradition, next.y, next.m)}>{t(lang, "nextMonth")} →</a> : <span />}
+  </nav>
+</Base>

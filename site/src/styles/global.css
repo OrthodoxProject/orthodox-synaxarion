@@ -1,0 +1,401 @@
+:root {
+  --bg: #fbf8f3;
+  --fg: #23201c;
+  --muted: #6b645b;
+  --accent: #8a1c1c;
+  --gold: #a07a2c;
+  --border: #e4ddd2;
+  --card: #ffffff;
+  --symbol-red: #c8102e;
+  --symbol-blue: #1c58bb;
+  --symbol-black: #23201c;
+  --serif: "Noto Serif", Georgia, "Times New Roman", serif;
+  --sans: system-ui, -apple-system, "Segoe UI", Roboto, "Noto Sans", "Helvetica Neue", Arial, sans-serif;
+  color-scheme: light dark;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #171513;
+    --fg: #ece6dc;
+    --muted: #a59d92;
+    --accent: #e07a6f;
+    --gold: #d2aa5c;
+    --border: #36312b;
+    --card: #1f1c19;
+    --symbol-red: #ff6b6b;
+    --symbol-blue: #7aa7ff;
+    --symbol-black: #ece6dc;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--fg);
+  font: 17px/1.6 var(--sans);
+}
+
+a {
+  color: var(--accent);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+}
+
+h1,
+h2,
+h3 {
+  font-family: var(--serif);
+  line-height: 1.25;
+  font-weight: 600;
+}
+
+h1 {
+  font-size: 1.9rem;
+  margin: 0.4rem 0 0.6rem;
+}
+
+h2 {
+  font-size: 1.35rem;
+  margin: 2rem 0 0.6rem;
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 0.25rem;
+}
+
+h3 {
+  font-size: 1.1rem;
+  margin: 1.4rem 0 0.4rem;
+}
+
+.wrap {
+  max-width: 56rem;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.site-header {
+  border-bottom: 2px solid var(--gold);
+  background: var(--card);
+}
+
+.site-header .wrap {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.5rem 1.5rem;
+  padding-top: 0.8rem;
+  padding-bottom: 0.8rem;
+}
+
+.brand {
+  font-family: var(--serif);
+  font-size: 1.35rem;
+  font-weight: 700;
+  color: var(--fg);
+  text-decoration: none;
+}
+
+.brand::before {
+  content: "☦ ";
+  color: var(--accent);
+}
+
+.site-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem 1.1rem;
+}
+
+.site-nav a {
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.site-nav a[aria-current="page"] {
+  text-decoration: underline;
+}
+
+main {
+  padding-top: 1.2rem;
+  padding-bottom: 3rem;
+}
+
+.site-footer {
+  border-top: 1px solid var(--border);
+  color: var(--muted);
+  font-size: 0.9rem;
+  padding: 1.2rem 0 2rem;
+}
+
+.muted {
+  color: var(--muted);
+}
+
+.subtitle {
+  color: var(--muted);
+  margin-top: -0.3rem;
+}
+
+.summary {
+  font-size: 1.05rem;
+}
+
+.draft {
+  border-left: 4px solid var(--gold);
+  background: color-mix(in srgb, var(--gold) 12%, transparent);
+  padding: 0.5rem 0.8rem;
+  font-size: 0.92rem;
+}
+
+.badge {
+  display: inline-block;
+  border: 1px solid var(--gold);
+  color: var(--gold);
+  border-radius: 999px;
+  padding: 0.05rem 0.6rem;
+  font-size: 0.82rem;
+}
+
+.card {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 1rem 1.2rem;
+}
+
+.day-dates {
+  color: var(--muted);
+  margin: 0 0 0.6rem;
+}
+
+.lines {
+  list-style: none;
+  padding: 0;
+  margin: 0.4rem 0 0.8rem;
+}
+
+.lines li {
+  padding: 0.25rem 0;
+}
+
+.lines .major > a,
+.lines .major > span:not(.symbol) {
+  font-weight: 700;
+  color: var(--accent);
+}
+
+.sublinks {
+  display: block;
+  font-size: 0.88rem;
+  padding-left: 1.4rem;
+}
+
+.sublinks a + a::before {
+  content: " · ";
+  color: var(--muted);
+}
+
+.symbol {
+  display: inline-block;
+  min-width: 1.6rem;
+  font-weight: 700;
+  font-family: var(--serif);
+}
+
+.symbol-red {
+  color: var(--symbol-red);
+}
+
+.symbol-blue {
+  color: var(--symbol-blue);
+}
+
+.symbol-black {
+  color: var(--symbol-black);
+}
+
+.facts {
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  gap: 0.25rem 1rem;
+  margin: 0.6rem 0;
+}
+
+.facts dt {
+  color: var(--muted);
+}
+
+.facts dd {
+  margin: 0;
+}
+
+.readings {
+  padding-left: 1.2rem;
+  margin: 0.3rem 0;
+}
+
+.pager {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  padding: 0;
+  list-style: none;
+}
+
+.chips a {
+  display: inline-block;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 0.1rem 0.7rem;
+  text-decoration: none;
+  background: var(--card);
+}
+
+.month {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.month td {
+  border-top: 1px solid var(--border);
+  padding: 0.45rem 0.4rem;
+  vertical-align: top;
+}
+
+.month .num {
+  width: 3.2rem;
+  font-family: var(--serif);
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+.month .num small {
+  display: block;
+  font-family: var(--sans);
+  font-size: 0.72rem;
+  font-weight: 400;
+  color: var(--muted);
+  text-transform: uppercase;
+}
+
+.month .sunday .num {
+  color: var(--accent);
+}
+
+.month .holiday .num::after {
+  content: " •";
+  color: var(--gold);
+}
+
+.month .meta {
+  display: block;
+  font-size: 0.82rem;
+  color: var(--muted);
+}
+
+.month .today {
+  background: color-mix(in srgb, var(--gold) 10%, transparent);
+}
+
+.index-list {
+  columns: 2 18rem;
+  padding-left: 1.1rem;
+}
+
+.index-list li {
+  break-inside: avoid;
+  padding: 0.15rem 0;
+}
+
+.hymn h3 {
+  margin-bottom: 0.2rem;
+}
+
+.hymn-text {
+  white-space: pre-line;
+  font-family: var(--serif);
+  margin: 0.2rem 0 0.6rem;
+}
+
+.crumbs {
+  font-size: 0.9rem;
+  color: var(--muted);
+  margin: 0;
+}
+
+.lead {
+  color: var(--gold);
+  font-family: var(--serif);
+  font-size: 1.05rem;
+  margin-top: -0.3rem;
+}
+
+.comm h3 {
+  margin-bottom: 0.2rem;
+}
+
+.placements,
+.other-languages {
+  list-style: none;
+  padding: 0;
+  margin: 0.2rem 0 0.6rem;
+}
+
+.placements li,
+.other-languages li {
+  padding: 0.1rem 0;
+}
+
+.life blockquote {
+  margin: 0.6rem 0;
+  padding: 0.2rem 0.9rem;
+  border-left: 3px solid var(--border);
+  color: var(--muted);
+}
+
+/* Search components take the site's colors, in light and dark mode. */
+.search {
+  --pf-text: var(--fg);
+  --pf-text-secondary: var(--muted);
+  --pf-text-muted: var(--muted);
+  --pf-background: var(--card);
+  --pf-border: var(--border);
+  --pf-border-focus: var(--accent);
+  --pf-outline-focus: var(--accent);
+  --pf-hover: color-mix(in srgb, var(--gold) 12%, transparent);
+  --pf-mark: color-mix(in srgb, var(--gold) 35%, transparent);
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 0.8rem;
+  margin-top: 1rem;
+}
+
+@media (max-width: 40rem) {
+  body {
+    font-size: 16px;
+  }
+
+  h1 {
+    font-size: 1.55rem;
+  }
+
+  .facts {
+    grid-template-columns: 1fr;
+  }
+
+  .facts dt {
+    margin-top: 0.4rem;
+  }
+}

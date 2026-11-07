@@ -1,0 +1,35 @@
+---
+/** Where each tradition keeps a commemoration, with its next date on the site. */
+import { dateText, placementText, traditionName } from "../lib/format.ts";
+import { calendarTraditions, dayHref, nextDateOf, placementsOf } from "../lib/site.ts";
+import { t, type Lang } from "../lib/ui.ts";
+
+interface Props {
+  comm: string;
+  lang: Lang;
+}
+
+const { comm, lang } = Astro.props;
+const withPages = new Set(calendarTraditions());
+const rows = placementsOf(comm).map((p) => ({ p, next: withPages.has(p.tradition) ? nextDateOf(p.tradition, comm) : undefined }));
+---
+
+{
+  rows.length > 0 && (
+    <ul class="placements">
+      {rows.map(({ p, next }) => (
+        <li>
+          <span class="muted">{traditionName(p.tradition, lang)}:</span> {placementText(p, lang)}
+          {next && (
+            <small data-pagefind-ignore>
+              {" · "}
+              <a href={dayHref(lang, p.tradition, next)}>
+                {t(lang, "next")}: {dateText(next, lang)}
+              </a>
+            </small>
+          )}
+        </li>
+      ))}
+    </ul>
+  )
+}

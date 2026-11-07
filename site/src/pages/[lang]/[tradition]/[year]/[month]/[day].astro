@@ -1,0 +1,54 @@
+---
+import DayView from "../../../../../components/DayView.astro";
+import Base from "../../../../../layouts/Base.astro";
+import { longDateText, monthName, traditionName } from "../../../../../lib/format.ts";
+import { calendarTraditions, dayHref, daysOf, monthHref, shiftIso, siteYears } from "../../../../../lib/site.ts";
+import { LANGS, t, type Lang } from "../../../../../lib/ui.ts";
+import type { Day } from "../../../../../../../tools/lib/days.ts";
+
+export function getStaticPaths() {
+  const paths = [];
+  for (const lang of LANGS) {
+    for (const tradition of calendarTraditions()) {
+      for (const year of siteYears()) {
+        for (const day of daysOf(tradition, year)) {
+          paths.push({ params: { lang, tradition, year: String(year), month: day.date.slice(5, 7), day: day.date.slice(8, 10) }, props: { day } });
+        }
+      }
+    }
+  }
+  return paths;
+}
+
+const lang = Astro.params.lang as Lang;
+const { day } = Astro.props as { day: Day };
+const tradition = day.tradition;
+const years = siteYears();
+const prev = shiftIso(day.date, -1);
+const next = shiftIso(day.date, 1);
+const title = longDateText(day.date, day.weekday, lang);
+---
+
+<Base lang={lang} title={`${title} · ${traditionName(tradition, lang, "short")}`} segments={[tradition, day.date.slice(0, 4), day.date.slice(5, 7), day.date.slice(8, 10)]} current="calendar">
+  <p class="muted">
+    <a href={monthHref(lang, tradition, day.date.slice(0, 4), day.date.slice(5, 7))}>{monthName(Number(day.date.slice(5, 7)), lang)} {day.date.slice(0, 4)}</a> · {traditionName(tradition, lang)}
+  </p>
+  <h1>{title}</h1>
+  <DayView day={day} lang={lang} />
+  <nav class="pager">
+    {years.includes(Number(prev.slice(0, 4))) ? <a href={dayHref(lang, tradition, prev)}>← {t(lang, "previousDay")}</a> : <span />}
+    {years.includes(Number(next.slice(0, 4))) ? <a href={dayHref(lang, tradition, next)}>{t(lang, "nextDay")} →</a> : <span />}
+  </nav>
+  <h2>{t(lang, "otherTraditions")}</h2>
+  <ul class="chips">
+    {
+      calendarTraditions()
+        .filter((id) => id !== tradition)
+        .map((id) => (
+          <li>
+            <a href={dayHref(lang, id, day.date)}>{traditionName(id, lang)}</a>
+          </li>
+        ))
+    }
+  </ul>
+</Base>

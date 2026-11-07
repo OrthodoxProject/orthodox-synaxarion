@@ -26,3 +26,5 @@ jobs:
         run: npm run validate
       - name: Generate this year's calendars
         run: npm run generate
+      - name: Build the site
+        run: npm run site:build

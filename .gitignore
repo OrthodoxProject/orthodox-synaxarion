@@ -1,4 +1,5 @@
 node_modules/
 /build/
+/site/.astro/
 *.log
 .DS_Store

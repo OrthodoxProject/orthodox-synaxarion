@@ -1,0 +1,53 @@
+---
+import "../styles/global.css";
+import { DEFAULT_TRADITION, asset, href, monthHref, todayIso } from "../lib/site.ts";
+import { LANGS, REPOSITORY_URL, t, type Lang } from "../lib/ui.ts";
+
+interface Props {
+  lang: Lang;
+  title: string;
+  description?: string;
+  /** Path after the language, used for the other-language link and hreflang. */
+  segments?: Array<string | number>;
+  current?: "today" | "calendar" | "saints" | "search";
+}
+
+const { lang, title, description, segments = [], current } = Astro.props;
+const today = todayIso();
+const other = LANGS.filter((l) => l !== lang);
+const pageTitle = title === t(lang, "siteName") ? title : `${title} · ${t(lang, "siteName")}`;
+---
+
+<!doctype html>
+<html lang={lang}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{pageTitle}</title>
+    <meta name="description" content={description ?? t(lang, "tagline")} />
+    <link rel="icon" href={asset("favicon.svg")} type="image/svg+xml" />
+    {LANGS.map((l) => <link rel="alternate" hreflang={l} href={href(l, ...segments)} />)}
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="wrap">
+        <a class="brand" href={href(lang)}>{t(lang, "siteName")}</a>
+        <nav class="site-nav">
+          <a href={href(lang)} aria-current={current === "today" ? "page" : undefined}>{t(lang, "today")}</a>
+          <a href={monthHref(lang, DEFAULT_TRADITION, today.slice(0, 4), today.slice(5, 7))} aria-current={current === "calendar" ? "page" : undefined}>{t(lang, "calendar")}</a>
+          <a href={href(lang, "saints")} aria-current={current === "saints" ? "page" : undefined}>{t(lang, "saints")}</a>
+          <a href={href(lang, "search")} aria-current={current === "search" ? "page" : undefined}>{t(lang, "search")}</a>
+          {other.map((l) => <a href={href(l, ...segments)} lang={l} hreflang={l}>{t(l, "languageName")}</a>)}
+        </nav>
+      </div>
+    </header>
+    <main class="wrap">
+      <slot />
+    </main>
+    <footer class="site-footer">
+      <div class="wrap">
+        {t(lang, "footer")} <a href={REPOSITORY_URL}>{t(lang, "sourceCode")}</a>
+      </div>
+    </footer>
+  </body>
+</html>

@@ -1,0 +1,53 @@
+---
+import Base from "../../../layouts/Base.astro";
+import { commName, holinessText, linkOf, nameOf, vocab } from "../../../lib/format.ts";
+import { feastIds, idsOf, record } from "../../../lib/site.ts";
+import { LANGS, t, type Lang } from "../../../lib/ui.ts";
+
+export function getStaticPaths() {
+  return LANGS.map((lang) => ({ params: { lang } }));
+}
+
+const lang = Astro.params.lang as Lang;
+const collator = new Intl.Collator(lang);
+const byName = <T extends { name: string }>(a: T, b: T): number => collator.compare(a.name, b.name);
+
+const saints = idsOf("persons")
+  .map((id) => {
+    const rec = record("persons", id) ?? {};
+    return { name: nameOf(`person:${id}`, lang), href: linkOf(`person:${id}`, lang), note: holinessText(rec.holiness_types ?? [], rec.gender, lang) };
+  })
+  .sort(byName);
+const groups = idsOf("groups")
+  .map((id) => ({ name: nameOf(`group:${id}`, lang), href: linkOf(`group:${id}`, lang), note: vocab(lang, `group_kind.${record("groups", id)?.kind}`) }))
+  .sort(byName);
+const feasts = feastIds()
+  .map((id) => ({ name: commName(`comm:${id}`, lang), href: linkOf(`comm:${id}`, lang), note: vocab(lang, `commemoration_kind.${record("commemorations", id)?.kind}`) }))
+  .sort(byName);
+const sections = [
+  { title: t(lang, "allSaints"), items: saints },
+  { title: t(lang, "groups"), items: groups },
+  { title: t(lang, "feasts"), items: feasts },
+];
+---
+
+<Base lang={lang} title={t(lang, "saints")} segments={["saints"]} current="saints">
+  <h1>{t(lang, "saints")}</h1>
+  {
+    sections.map((s) => (
+      <section>
+        <h2>
+          {s.title} <small class="muted">({s.items.length})</small>
+        </h2>
+        <ul class="index-list">
+          {s.items.map((item) => (
+            <li>
+              <a href={item.href}>{item.name}</a>
+              {item.note && <small class="muted"> · {item.note}</small>}
+            </li>
+          ))}
+        </ul>
+      </section>
+    ))
+  }
+</Base>

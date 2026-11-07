@@ -1,0 +1,61 @@
+---
+import Facts from "../../../components/Facts.astro";
+import Hymns from "../../../components/Hymns.astro";
+import Placements from "../../../components/Placements.astro";
+import Provenance from "../../../components/Provenance.astro";
+import Texts from "../../../components/Texts.astro";
+import Base from "../../../layouts/Base.astro";
+import { commName, holinessText, languageName, linkOf, localeOf } from "../../../lib/format.ts";
+import { commemorationsOf, groupsOf, href, idsOf, record } from "../../../lib/site.ts";
+import { LANGS, t, type Lang } from "../../../lib/ui.ts";
+
+export function getStaticPaths() {
+  return LANGS.flatMap((lang) => idsOf("persons").map((id) => ({ params: { lang, id } })));
+}
+
+type Rec = Record<string, any>;
+const lang = Astro.params.lang as Lang;
+const id = Astro.params.id as string;
+const ref = `person:${id}`;
+const rec = record("persons", id) as Rec;
+const loc: Rec = localeOf("persons", id, lang) ?? { names: { display: id } };
+const self = href(lang, "saints", id);
+const comms = commemorationsOf(ref);
+---
+
+<Base lang={lang} title={loc.names.display} description={loc.summary} segments={["saints", id]} current="saints">
+  <p class="crumbs"><a href={href(lang, "saints")}>{t(lang, "saints")}</a></p>
+  <article data-pagefind-body data-pagefind-filter={`type:${t(lang, "saints")}`}>
+    <h1>{loc.names.full ?? loc.names.display}</h1>
+    {(rec.holiness_types ?? []).length > 0 && <p class="lead">{holinessText(rec.holiness_types, rec.gender, lang)}</p>}
+    {rec.editorial?.status === "draft" && <p class="draft" data-pagefind-ignore>{t(lang, "draft")}</p>}
+    {loc.locale && loc.locale !== lang && <p class="muted" data-pagefind-ignore>{t(lang, "notTranslated", { language: languageName(loc.locale, lang) })}</p>}
+    {loc.summary && <p class="summary" lang={loc.locale !== lang ? loc.locale : undefined}>{loc.summary}</p>}
+
+    {
+      comms.length > 0 && (
+        <section>
+          <h2>{t(lang, "celebratedOn")}</h2>
+          {comms.map((c) => {
+            const link = linkOf(c, lang);
+            return (
+              <div class="comm">
+                <h3>{link && link !== self ? <a href={link}>{commName(c, lang)}</a> : commName(c, lang)}</h3>
+                <Placements comm={c} lang={lang} />
+              </div>
+            );
+          })}
+        </section>
+      )
+    }
+
+    <section>
+      <h2>{t(lang, "facts")}</h2>
+      <Facts rec={rec} loc={loc} lang={lang} groups={groupsOf(ref)} />
+    </section>
+
+    <Texts collection="persons" id={id} loc={loc} lang={lang} />
+    <Hymns refs={[...comms, ref]} lang={lang} />
+  </article>
+  <Provenance collection="persons" id={id} rec={rec} loc={loc} lang={lang} />
+</Base>

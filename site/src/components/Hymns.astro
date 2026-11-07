@@ -1,0 +1,58 @@
+---
+/** Hymns sung for some commemorations or written by a saint. */
+import { commName, linkOf, localeOf, nameOf, quote, vocab } from "../lib/format.ts";
+import { hymnsOf } from "../lib/site.ts";
+import { t, type Lang } from "../lib/ui.ts";
+
+interface Props {
+  /** Commemorations of the page, and the saint when the page is a saint's. */
+  refs: string[];
+  lang: Lang;
+}
+
+const { refs, lang } = Astro.props;
+const hymns = hymnsOf(refs).map(([id, hymn]) => ({ hymn, loc: localeOf("hymns", id, lang) }));
+---
+
+{
+  hymns.length > 0 && (
+    <section>
+      <h2>{t(lang, "hymns")}</h2>
+      {hymns.map(({ hymn, loc }) => (
+        <div class="hymn">
+          <h3>
+            {vocab(lang, `hymn_type.${hymn.type}`)}
+            {hymn.tone && (
+              <small class="muted">
+                {" · "}
+                {t(lang, "tone")} {hymn.tone}
+              </small>
+            )}
+            {!refs.includes(hymn.for) && (
+              <small class="muted">
+                {" · "}
+                {t(lang, "hymnFor")} <a href={linkOf(hymn.for, lang)}>{commName(hymn.for, lang)}</a>
+              </small>
+            )}
+          </h3>
+          {loc?.text ? (
+            <p class="hymn-text" lang={loc.locale}>
+              {loc.text}
+            </p>
+          ) : (
+            loc?.incipit && (
+              <p class="hymn-text" lang={loc.locale}>
+                {quote(`${loc.incipit}…`, lang)}
+              </p>
+            )
+          )}
+          {hymn.author && !refs.includes(hymn.author) && (
+            <p class="muted">
+              {t(lang, "author")}: <a href={linkOf(hymn.author, lang)}>{nameOf(hymn.author, lang)}</a>
+            </p>
+          )}
+        </div>
+      ))}
+    </section>
+  )
+}

@@ -1,0 +1,36 @@
+---
+import { idOf, record } from "../lib/site.ts";
+
+interface Props {
+  items: Array<Record<string, any>>;
+}
+
+const { items } = Astro.props;
+const seen = new Set<string>();
+const rows = items
+  .map((item) => {
+    if (item.source) {
+      const source = record("sources", idOf(item.source));
+      return { title: source?.title ?? idOf(item.source), publisher: source?.publisher as string | undefined, url: (item.url ?? source?.url) as string | undefined, locator: item.locator as string | undefined };
+    }
+    return { title: item.title as string, publisher: item.publisher as string | undefined, url: item.url as string | undefined, locator: undefined };
+  })
+  .filter((r) => {
+    const key = `${r.title}|${r.url ?? ""}`;
+    if (seen.has(key)) return false;
+    seen.add(key);
+    return true;
+  });
+---
+
+<ul>
+  {
+    rows.map((r) => (
+      <li>
+        {r.url ? <a href={r.url}>{r.title}</a> : r.title}
+        {r.publisher && r.publisher !== r.title && <span class="muted"> · {r.publisher}</span>}
+        {r.locator && <span class="muted"> · {r.locator}</span>}
+      </li>
+    ))
+  }
+</ul>

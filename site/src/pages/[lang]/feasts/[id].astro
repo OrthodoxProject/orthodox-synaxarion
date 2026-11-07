@@ -1,0 +1,146 @@
+---
+import Hymns from "../../../components/Hymns.astro";
+import Placements from "../../../components/Placements.astro";
+import Provenance from "../../../components/Provenance.astro";
+import Texts from "../../../components/Texts.astro";
+import Base from "../../../layouts/Base.astro";
+import { bibleRefText, commName, edtfText, languageName, linkOf, localeOf, nameOf, placeText, readingRoleText, ruleText, vocab } from "../../../lib/format.ts";
+import { ds, feastIds, href, record } from "../../../lib/site.ts";
+import { LANGS, t, type Lang } from "../../../lib/ui.ts";
+
+export function getStaticPaths() {
+  return LANGS.flatMap((lang) => feastIds().map((id) => ({ params: { lang, id } })));
+}
+
+type Rec = Record<string, any>;
+const lang = Astro.params.lang as Lang;
+const id = Astro.params.id as string;
+const ref = `comm:${id}`;
+const rec = record("commemorations", id) as Rec;
+const loc: Rec = localeOf("commemorations", id, lang) ?? { names: { display: commName(ref, lang) } };
+const title: string = loc.names.full ?? commName(ref, lang);
+const subjects = (rec.subjects ?? []) as string[];
+const related = [...(ds().records.get("commemorations") ?? [])].filter(([, c]) => c.parent_feast === ref).map(([cid]) => `comm:${cid}`);
+const readings = (rec.readings ?? []) as Rec[];
+const folk = (loc.names.folk ?? []) as string[];
+---
+
+<Base lang={lang} title={commName(ref, lang)} description={loc.summary} segments={["feasts", id]} current="saints">
+  <p class="crumbs"><a href={href(lang, "saints")}>{t(lang, "saints")}</a> · {t(lang, "feasts")}</p>
+  <article data-pagefind-body data-pagefind-filter={`type:${t(lang, "feasts")}`}>
+    <h1>{title}</h1>
+    <p class="lead">
+      {[vocab(lang, `commemoration_kind.${rec.kind}`), rec.default_rank && vocab(lang, `typikon_rank.${rec.default_rank}`)].filter(Boolean).join(" · ")}
+    </p>
+    {rec.editorial?.status === "draft" && <p class="draft" data-pagefind-ignore>{t(lang, "draft")}</p>}
+    {loc.locale && loc.locale !== lang && <p class="muted" data-pagefind-ignore>{t(lang, "notTranslated", { language: languageName(loc.locale, lang) })}</p>}
+    {loc.summary && <p class="summary" lang={loc.locale !== lang ? loc.locale : undefined}>{loc.summary}</p>}
+
+    <section>
+      <h2>{t(lang, "celebratedOn")}</h2>
+      {rec.date_rule && <p>{ruleText(rec.date_rule, lang)}</p>}
+      <Placements comm={ref} lang={lang} />
+    </section>
+
+    <section>
+      <h2>{t(lang, "facts")}</h2>
+      <dl class="facts">
+        {
+          folk.length > 0 && (
+            <>
+              <dt>{t(lang, "folkNames")}</dt>
+              <dd>{folk.join(", ")}</dd>
+            </>
+          )
+        }
+        {
+          (loc.names.variants ?? []).length > 0 && (
+            <>
+              <dt>{t(lang, "otherNames")}</dt>
+              <dd>{loc.names.variants.join(", ")}</dd>
+            </>
+          )
+        }
+        {
+          subjects.length > 0 && (
+            <>
+              <dt>{t(lang, "subjects")}</dt>
+              <dd>
+                {subjects.map((s, i) => {
+                  const link = s.startsWith("place:") ? undefined : linkOf(s, lang);
+                  const name = s.startsWith("place:") ? placeText(s, lang) : nameOf(s, lang);
+                  return (
+                    <>
+                      {i > 0 && "; "}
+                      {link ? <a href={link}>{name}</a> : name}
+                    </>
+                  );
+                })}
+              </dd>
+            </>
+          )
+        }
+        {
+          rec.parent_feast && (
+            <>
+              <dt>{t(lang, "parentFeast")}</dt>
+              <dd>
+                <a href={linkOf(rec.parent_feast, lang)}>{commName(rec.parent_feast, lang)}</a>
+              </dd>
+            </>
+          )
+        }
+        {
+          related.length > 0 && (
+            <>
+              <dt>{t(lang, "relatedDays")}</dt>
+              <dd>
+                {related.map((c, i) => (
+                  <>
+                    {i > 0 && "; "}
+                    <a href={linkOf(c, lang)}>{commName(c, lang)}</a>
+                  </>
+                ))}
+              </dd>
+            </>
+          )
+        }
+        {
+          (rec.event_date || rec.event_place) && (
+            <>
+              <dt>{t(lang, "event")}</dt>
+              <dd>{[rec.event_date && edtfText(rec.event_date, lang), rec.event_place && placeText(rec.event_place, lang)].filter(Boolean).join(", ")}</dd>
+            </>
+          )
+        }
+        {
+          rec.duration_days > 1 && (
+            <>
+              <dt>{t(lang, "duration")}</dt>
+              <dd>{t(lang, "daysCount", { n: rec.duration_days })}</dd>
+            </>
+          )
+        }
+      </dl>
+    </section>
+
+    {
+      readings.length > 0 && (
+        <section>
+          <h2>{t(lang, "readings")}</h2>
+          <ul class="readings">
+            {readings.map((r) => (
+              <li>
+                <span class="muted">{readingRoleText(r.role, lang)}:</span> {bibleRefText(r.ref, lang)}
+              </li>
+            ))}
+          </ul>
+        </section>
+      )
+    }
+
+    <Texts collection="commemorations" id={id} loc={loc} lang={lang} />
+    <Hymns refs={[ref]} lang={lang} />
+  </article>
+  <Provenance collection="commemorations" id={id} rec={rec} loc={loc} lang={lang} />
+</Base>

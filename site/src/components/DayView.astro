@@ -1,0 +1,84 @@
+---
+import type { Day } from "../../../tools/lib/days.ts";
+import { bibleRefText, churchDateText, commName, linkOf, localeOf, oldStyleText, readingRoleText, vocab } from "../lib/format.ts";
+import { ds } from "../lib/site.ts";
+import { t, type Lang } from "../lib/ui.ts";
+import LineList from "./LineList.astro";
+
+interface Props {
+  day: Day;
+  lang: Lang;
+}
+
+const { day, lang } = Astro.props;
+const otherDate = churchDateText(day, lang) ?? oldStyleText(day, lang);
+const observanceLabels = (localeOf("traditions", day.tradition, lang)?.observances ?? {}) as Record<string, string>;
+const defaultLocale = ds().traditions.get(day.tradition)?.default_locale;
+---
+
+<div class="day">
+  {otherDate && <p class="day-dates">{otherDate}</p>}
+  {day.official && <p class="badge">{t(lang, "official")}</p>}
+  {day.lines.length > 0 ? <LineList lines={day.lines} lang={lang} tradition={day.tradition} /> : <p class="muted">{t(lang, "noCommemorations")}</p>}
+  {
+    day.ongoing && (
+      <ul class="lines">
+        {day.ongoing.map((o) => (
+          <li class="muted">
+            <a href={linkOf(o.commemoration, lang)}>{commName(o.commemoration, lang)}</a> · {t(lang, "ongoingDay", { day: o.day, of: o.of })}
+          </li>
+        ))}
+      </ul>
+    )
+  }
+  <dl class="facts">
+    {
+      day.observances && (
+        <>
+          <dt>{day.flags?.public_holiday ? t(lang, "publicHoliday") : t(lang, "observances")}</dt>
+          <dd>{day.observances.map((id) => observanceLabels[id] ?? id).join(" · ")}</dd>
+        </>
+      )
+    }
+    {
+      day.fasting && (
+        <>
+          <dt>{t(lang, "fasting")}</dt>
+          <dd>{vocab(lang, `fasting_level.${day.fasting}`)}</dd>
+        </>
+      )
+    }
+    {
+      day.tone && (
+        <>
+          <dt>{t(lang, "tone")}</dt>
+          <dd>{day.tone}</dd>
+        </>
+      )
+    }
+    {
+      day.eothinon && (
+        <>
+          <dt>{t(lang, "eothinon")}</dt>
+          <dd>{day.eothinon}</dd>
+        </>
+      )
+    }
+  </dl>
+  {
+    day.readings && (
+      <>
+        <h3>{t(lang, "readings")}</h3>
+        <ul class="readings">
+          {day.readings.map((r) => (
+            <li>
+              <span class="muted">{readingRoleText(r.role, lang)}:</span> {bibleRefText(r.ref, lang)}
+              {r.of && <small class="muted"> · {r.of === "day" ? t(lang, "readingDay") : t(lang, "readingFeast")}</small>}
+            </li>
+          ))}
+        </ul>
+      </>
+    )
+  }
+  {day.notes && lang === defaultLocale && <ul class="muted">{day.notes.map((n) => <li>{n}</li>)}</ul>}
+</div>

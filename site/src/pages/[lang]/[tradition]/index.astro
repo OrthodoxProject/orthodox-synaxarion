@@ -1,0 +1,45 @@
+---
+import Base from "../../../layouts/Base.astro";
+import { monthName, traditionName, vocab } from "../../../lib/format.ts";
+import { asset, calendarTraditions, dayHref, ds, monthHref, siteYears, todayIso } from "../../../lib/site.ts";
+import { LANGS, t, type Lang } from "../../../lib/ui.ts";
+
+export function getStaticPaths() {
+  return LANGS.flatMap((lang) => calendarTraditions().map((tradition) => ({ params: { lang, tradition } })));
+}
+
+const { lang: langParam, tradition } = Astro.params;
+const lang = langParam as Lang;
+const id = tradition as string;
+const info = ds().traditions.get(id) ?? {};
+const today = todayIso();
+---
+
+<Base lang={lang} title={traditionName(id, lang)} segments={[id]} current="calendar">
+  <h1>{traditionName(id, lang)}</h1>
+  <dl class="facts">
+    <dt>{t(lang, "calendar")}</dt>
+    <dd>{vocab(lang, `calendar_style.${info.calendar_style}`)}</dd>
+    <dt>{t(lang, "pascha")}</dt>
+    <dd>{vocab(lang, `calendar_style.${info.paschalion}`)}</dd>
+  </dl>
+  <p><a href={dayHref(lang, id, today)}>{t(lang, "today")} →</a></p>
+  {
+    siteYears().map((year) => (
+      <>
+        <h2>{year}</h2>
+        <ul class="chips">
+          {[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12].map((m) => (
+            <li>
+              <a href={monthHref(lang, id, year, m)}>{monthName(m, lang)}</a>
+            </li>
+          ))}
+        </ul>
+        <p>
+          <a href={asset(`api/v1/${id}/${year}.json`)}>{t(lang, "jsonData")}</a>
+        </p>
+      </>
+    ))
+  }
+  <p><a href={asset(`${lang}/${id}.ics`)}>{t(lang, "subscribe")}</a></p>
+</Base>

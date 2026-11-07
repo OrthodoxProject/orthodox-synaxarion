@@ -1,0 +1,53 @@
+---
+/** References for readers, sources of the record, and the record's names in other languages. */
+import { allLocales, languageName, textOf } from "../lib/format.ts";
+import { t, type Lang } from "../lib/ui.ts";
+import References from "./References.astro";
+
+type Rec = Record<string, any>;
+interface Props {
+  collection: string;
+  id: string;
+  rec: Rec;
+  loc: Rec;
+  lang: Lang;
+}
+
+const { collection, id, rec, loc, lang } = Astro.props;
+const life = textOf(collection, id, lang);
+const attributed = [...(loc.miracles ?? []), ...(loc.quotes ?? []), ...(loc.folk_traditions ?? [])] as Rec[];
+const references = [...(loc.references ?? []), ...(life?.text.frontMatter.references ?? []), ...attributed.flatMap((a) => a.references ?? [])] as Rec[];
+const sources = (rec.sources ?? []) as Rec[];
+const others = [...allLocales(collection, id)].filter(([locale]) => locale !== lang && locale !== loc.locale);
+---
+
+{
+  references.length > 0 && (
+    <section>
+      <h2>{t(lang, "references")}</h2>
+      <References items={references} />
+    </section>
+  )
+}
+{
+  sources.length > 0 && (
+    <section>
+      <h2>{t(lang, "sources")}</h2>
+      <References items={sources} />
+    </section>
+  )
+}
+{
+  others.length > 0 && (
+    <section>
+      <h2>{t(lang, "inOtherLanguages")}</h2>
+      <ul class="other-languages">
+        {others.map(([locale, other]) => (
+          <li>
+            <span class="muted">{languageName(locale, lang)}:</span> <span lang={locale}>{other.names?.full ?? other.names?.display}</span>
+          </li>
+        ))}
+      </ul>
+    </section>
+  )
+}

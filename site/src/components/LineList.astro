@@ -1,0 +1,50 @@
+---
+import { commName, dateText, lineTitle, linkOf, localeOf } from "../lib/format.ts";
+import { ds } from "../lib/site.ts";
+import { t, type Lang } from "../lib/ui.ts";
+
+interface Props {
+  lines: Array<Record<string, any>>;
+  lang: Lang;
+  tradition: string;
+}
+
+const { lines, lang, tradition } = Astro.props;
+const legend = new Map(((ds().traditions.get(tradition)?.symbol_legend ?? []) as Array<Record<string, any>>).map((s) => [s.key as string, s]));
+const symbolLabels = (localeOf("traditions", tradition, lang)?.symbols ?? {}) as Record<string, string>;
+const MAJOR = new Set(["great_feast", "feast_of_feasts"]);
+---
+
+<ul class="lines">
+  {
+    lines.map((line) => {
+      const comms = line.commemorations as string[];
+      const symbol = line.symbol ? legend.get(line.symbol) : undefined;
+      const title = lineTitle(line, lang, tradition);
+      const first = comms[0] ?? "";
+      return (
+        <li class={MAJOR.has(line.rank) ? "line major" : "line"}>
+          {symbol && (
+            <span class={`symbol symbol-${symbol.color ?? "black"}`} title={symbolLabels[line.symbol] ?? symbol.glyph}>
+              {symbol.glyph}
+            </span>
+          )}
+          {comms.length === 1 ? <a href={linkOf(first, lang)}>{title}</a> : <span>{title}</span>}
+          {line.transferred_from && (
+            <small class="muted">
+              {" "}
+              ({t(lang, "transferredFrom")} {dateText(line.transferred_from, lang)})
+            </small>
+          )}
+          {comms.length > 1 && (
+            <span class="sublinks">
+              {comms.map((c) => (
+                <a href={linkOf(c, lang)}>{commName(c, lang)}</a>
+              ))}
+            </span>
+          )}
+        </li>
+      );
+    })
+  }
+</ul>

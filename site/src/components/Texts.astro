@@ -1,0 +1,62 @@
+---
+/** Short and long texts of a record: synaxarion, life, miracles, sayings, folk traditions. */
+import { languageName, textOf } from "../lib/format.ts";
+import { markdown } from "../lib/markdown.ts";
+import { t, type Lang } from "../lib/ui.ts";
+
+type Rec = Record<string, any>;
+interface Props {
+  collection: string;
+  id: string;
+  loc: Rec;
+  lang: Lang;
+}
+
+const { collection, id, loc, lang } = Astro.props;
+const life = textOf(collection, id, lang);
+const paragraphs = (text: string | undefined): string[] => (text ?? "").split(/\n\s*\n/).map((p) => p.trim()).filter(Boolean);
+const lists: Array<["miracles" | "quotes" | "folkTraditions", Rec[]]> = [
+  ["miracles", loc.miracles ?? []],
+  ["quotes", loc.quotes ?? []],
+  ["folkTraditions", loc.folk_traditions ?? []],
+];
+const textLang = loc.locale !== lang ? loc.locale : undefined;
+---
+
+{
+  loc.synaxarion && (
+    <section lang={textLang}>
+      <h2>{t(lang, "synaxarion")}</h2>
+      {paragraphs(loc.synaxarion).map((p) => (
+        <p>{p}</p>
+      ))}
+    </section>
+  )
+}
+{
+  life && (
+    <section class="life" lang={life.locale !== lang ? life.locale : undefined}>
+      <h2>{life.text.frontMatter.title ?? t(lang, "life")}</h2>
+      {life.locale !== lang && (
+        <p class="muted" lang={lang} data-pagefind-ignore>
+          {t(lang, "notTranslated", { language: languageName(life.locale, lang) })}
+        </p>
+      )}
+      <Fragment set:html={markdown(life.text.body)} />
+    </section>
+  )
+}
+{
+  lists
+    .filter(([, items]) => items.length > 0)
+    .map(([label, items]) => (
+      <section lang={textLang}>
+        <h2>{t(lang, label)}</h2>
+        <ul>
+          {items.map((item) => (
+            <li>{item.text}</li>
+          ))}
+        </ul>
+      </section>
+    ))
+}

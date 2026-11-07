@@ -10,6 +10,7 @@
   "scripts": {
     "validate": "node tools/validate.ts",
     "format": "node tools/format.ts",
+    "generate": "node tools/generate.ts",
     "test": "node --test \"tests/**/*.test.ts\"",
     "typecheck": "tsc --noEmit",
     "check": "npm run typecheck && npm test && npm run validate"

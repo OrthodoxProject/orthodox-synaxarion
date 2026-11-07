@@ -13,6 +13,7 @@
   "lectionary": {
     "lukan_jump": true
   },
+  "fasting_model": "romanian",
   "symbol_legend": [
     {
       "key": "red-parenthesized",

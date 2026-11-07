@@ -43,6 +43,10 @@
       },
       "additionalProperties": false
     },
+    "fasting_model": {
+      "description": "Built-in fasting model that the calendar generator uses for ordinary days ('romanian': the common Romanian practice). Without it, fasting comes only from overrides/<year>.json.",
+      "enum": ["romanian"]
+    },
     "symbol_legend": {
       "description": "Symbols printed in this tradition's calendar. Entries refer to them by 'key'; labels live in the locale files.",
       "type": "array",

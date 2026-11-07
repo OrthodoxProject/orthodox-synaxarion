@@ -1,0 +1,41 @@
+{
+  "id": "george-the-great-martyr--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:george-the-great-martyr"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 23
+  },
+  "readings": [
+    {
+      "service": "liturgy",
+      "role": "apostle",
+      "ref": "ACT 12:1-11",
+      "of": "commemoration"
+    },
+    {
+      "service": "liturgy",
+      "role": "gospel",
+      "ref": "JHN 15:17-16:2",
+      "of": "commemoration"
+    }
+  ],
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/23/101184-greatmartyr-victory-bearer-and-wonderworker-george"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-mare-mc-gheorghe-purtatorul-de-biruinta-sf-mc-valerie/",
+      "accessed": "2026-11-07"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium"
+  }
+}

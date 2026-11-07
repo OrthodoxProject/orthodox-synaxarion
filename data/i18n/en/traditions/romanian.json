@@ -1,0 +1,31 @@
+{
+  "id": "romanian",
+  "locale": "en",
+  "names": {
+    "display": "Romanian Orthodox Church",
+    "variants": [
+      "Romanian Patriarchate"
+    ]
+  },
+  "observances": {
+    "good-friday": "Good Friday",
+    "pascha-day-1": "Easter Sunday",
+    "pascha-day-2": "Easter Monday",
+    "dormition": "Dormition of the Theotokos",
+    "christmas-day-1": "Christmas Day",
+    "christmas-day-2": "Second day of Christmas"
+  },
+  "symbols": {
+    "red-parenthesized": "Red cross in parentheses (†)",
+    "red-half-parenthesized": "Red cross with a half parenthesis †)",
+    "red-plain": "Red cross †",
+    "black-half-parenthesized": "Black cross with a half parenthesis †)",
+    "black-plain": "Black cross †",
+    "blue-half-parenthesized": "Blue cross with a half parenthesis †)",
+    "blue-plain": "Blue cross †"
+  },
+  "translation": {
+    "status": "draft",
+    "method": "ai_assisted"
+  }
+}

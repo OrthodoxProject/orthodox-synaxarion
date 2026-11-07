@@ -1,0 +1,14 @@
+{
+  "id": "bible",
+  "type": "book",
+  "title": "Ἡ Ἁγία Γραφή",
+  "language": "grc",
+  "license": "LicenseRef-PublicDomain",
+  "notes": [
+    "Sfânta Scriptură în limbile originale: Septuaginta și Noul Testament."
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "high"
+  }
+}

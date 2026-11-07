@@ -1,0 +1,29 @@
+{
+  "id": "nicholas-of-myra--translation-of-relics",
+  "kind": "relics_translation",
+  "subjects": [
+    "person:nicholas-of-myra"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 9
+  },
+  "event_date": "1087",
+  "event_place": "place:bari",
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/09/101336-translation-of-the-relics-of-saint-nicholas-the-wonderworker-fro"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-proroc-isaia-sf-mc-hristofor-aducerea-la-bari-a-moastelor-sf-ier-nicolae/",
+      "accessed": "2026-11-07"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "high"
+  }
+}

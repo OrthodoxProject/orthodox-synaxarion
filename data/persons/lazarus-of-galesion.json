@@ -1,0 +1,64 @@
+{
+  "id": "lazarus-of-galesion",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "venerable",
+    "stylite",
+    "wonderworker"
+  ],
+  "ranks": [
+    {
+      "rank": "monk"
+    }
+  ],
+  "born": {
+    "date": "0968~"
+  },
+  "died": {
+    "date": "1053-11-07",
+    "calendar": "julian",
+    "place": "place:mount-galesion",
+    "manner": "natural"
+  },
+  "era": "byzantine",
+  "places": [
+    {
+      "place": "place:mount-galesion",
+      "role": "ascetic_life"
+    }
+  ],
+  "external_ids": {
+    "oca": "103232",
+    "upstream": [
+      {
+        "dataset": "oca_julian",
+        "month_day": "11-07",
+        "title": "Venerable Lazarus, Wonderworker of Mount Galesius Near Ephesus"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/07/103232-venerable-lazarus-wonderworker-of-mount-galesius-near-ephesus"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sfintii-33-de-mucenici-din-melitina-sf-cuv-lazar-din-muntele-galisiei-sambata-celor-adormiti-mosii-de-toamna/",
+      "accessed": "2026-11-07"
+    },
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-lazar-din-muntele-galision",
+      "accessed": "2026-11-07"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Anii nașterii și morții sunt de verificat într-o sursă de specialitate (Viața scrisă de ucenicul său, Grigorie)."
+    ]
+  }
+}

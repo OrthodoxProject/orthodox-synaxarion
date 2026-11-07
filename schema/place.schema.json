@@ -1,0 +1,32 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Place",
+  "description": "A place: city, region, monastery, church, mountain … Names (historical and modern) live in the locale files.",
+  "type": "object",
+  "properties": {
+    "id": { "$ref": "common/defs.schema.json#/$defs/slug" },
+    "kind": { "enum": ["city", "village", "region", "country", "monastery", "church", "mountain", "island", "cave", "river", "desert", "other"] },
+    "coords": { "$ref": "common/defs.schema.json#/$defs/geo" },
+    "located_in": { "$ref": "common/defs.schema.json#/$defs/placeRef" },
+    "country": { "$ref": "common/defs.schema.json#/$defs/country" },
+    "founded": { "$ref": "common/defs.schema.json#/$defs/edtf" },
+    "founded_by": {
+      "type": "array",
+      "items": { "$ref": "common/defs.schema.json#/$defs/personRef" },
+      "uniqueItems": true
+    },
+    "external_ids": { "$ref": "common/defs.schema.json#/$defs/externalIds" },
+    "sources": {
+      "type": "array",
+      "items": { "$ref": "common/defs.schema.json#/$defs/citation" }
+    },
+    "aliases": {
+      "type": "array",
+      "items": { "$ref": "common/defs.schema.json#/$defs/slug" },
+      "uniqueItems": true
+    },
+    "editorial": { "$ref": "common/defs.schema.json#/$defs/editorial" }
+  },
+  "required": ["id", "kind", "editorial"],
+  "additionalProperties": false
+}

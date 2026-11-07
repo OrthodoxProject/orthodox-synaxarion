@@ -1,0 +1,27 @@
+{
+  "id": "gregory-the-illuminator--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:gregory-the-illuminator"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 30
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/30/102818-hieromartyr-gregory-bishop-of-greater-armenia-equal-of-the-apost"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ier-grigorie-luminatorul-arhiepiscopul-armeniei-sf-mc-ripsimia-si-gaiani/",
+      "accessed": "2026-11-07"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium"
+  }
+}

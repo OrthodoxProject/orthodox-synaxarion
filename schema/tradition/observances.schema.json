@@ -1,0 +1,37 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Observances",
+  "description": "Non-liturgical days that a tradition's calendar shows: public holidays, national days, church days, anniversaries, special services (data/traditions/<id>/observances.json). Labels live in the locale files of the tradition.",
+  "type": "object",
+  "properties": {
+    "tradition": { "$ref": "../common/defs.schema.json#/$defs/traditionId" },
+    "observances": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": { "$ref": "../common/defs.schema.json#/$defs/slug" },
+          "kind": { "enum": ["public_holiday", "national_day", "church_day", "anniversary", "service", "other"] },
+          "rule": { "$ref": "../common/defs.schema.json#/$defs/dateRule" },
+          "country": { "$ref": "../common/defs.schema.json#/$defs/country" },
+          "public_holiday": {
+            "description": "Whether the day is a legal day off in 'country'.",
+            "type": "boolean"
+          },
+          "since": { "$ref": "../common/defs.schema.json#/$defs/edtf" },
+          "until": { "$ref": "../common/defs.schema.json#/$defs/edtf" },
+          "commemoration": { "$ref": "../common/defs.schema.json#/$defs/commRef" },
+          "sources": {
+            "type": "array",
+            "items": { "$ref": "../common/defs.schema.json#/$defs/citation" }
+          }
+        },
+        "required": ["id", "kind", "rule"],
+        "additionalProperties": false
+      },
+      "minItems": 1
+    }
+  },
+  "required": ["tradition", "observances"],
+  "additionalProperties": false
+}

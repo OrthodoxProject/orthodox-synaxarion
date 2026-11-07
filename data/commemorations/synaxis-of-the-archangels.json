@@ -1,0 +1,42 @@
+{
+  "id": "synaxis-of-the-archangels",
+  "kind": "angels",
+  "subjects": [
+    "person:archangel-michael",
+    "person:archangel-gabriel"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 8
+  },
+  "readings": [
+    {
+      "service": "liturgy",
+      "role": "apostle",
+      "ref": "HEB 2:2-10",
+      "of": "commemoration"
+    },
+    {
+      "service": "liturgy",
+      "role": "gospel",
+      "ref": "LUK 10:16-21",
+      "of": "commemoration"
+    }
+  ],
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/08/103244-synaxis-of-the-archangel-michael-and-the-other-bodiless-powers"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-soborul-sf-arhangheli-mihail-si-gavriil-si-al-tuturor-cerestilor-puteri-duminica-a-24-a-dupa-rusalii-ap-efeseni-2-14-22-al-arhanghelilor-evrei-2-2-10-ev-luca-8-41-56-invierea-fi/",
+      "accessed": "2026-11-07"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "high"
+  }
+}

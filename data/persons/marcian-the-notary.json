@@ -1,0 +1,45 @@
+{
+  "id": "marcian-the-notary",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "martyr"
+  ],
+  "died": {
+    "place": "place:constantinople",
+    "manner": "martyrdom"
+  },
+  "floruit": "03XX",
+  "era": "ecumenical_councils",
+  "occupations": [
+    {
+      "code": "notary",
+      "place": "place:constantinople"
+    }
+  ],
+  "external_ids": {
+    "oca": "103053"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/25/103053-martyrs-marcian-and-martyrius-the-notaries-of-constantinople"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-marcian-si-martirie-sf-tavita-duminica-a-23-a-dupa-rusalii-ap-efeseni-2-4-10-ev-luca-8-26-39-vindecarea-demonizatului-din-tinutul-gherghesenilor-glas-4-voscr-10/",
+      "accessed": "2026-11-07"
+    },
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/2_28.html?lang=en#1"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "În sinaxarul copt (28 Babah) perechea apare ca „Marcianus și Mercurius”; identificarea e foarte probabilă, dar trebuie confirmată."
+    ]
+  }
+}

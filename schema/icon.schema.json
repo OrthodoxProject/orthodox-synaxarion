@@ -1,0 +1,61 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Icon",
+  "description": "A wonder-working icon that is itself commemorated (e.g. the Kazan icon of the Theotokos). Images of saints in general are media records, not icons.",
+  "type": "object",
+  "properties": {
+    "id": { "$ref": "common/defs.schema.json#/$defs/slug" },
+    "subject": { "enum": ["theotokos", "christ", "saint", "feast", "other"] },
+    "depicts": {
+      "type": "array",
+      "items": { "$ref": "common/defs.schema.json#/$defs/depictionRef" },
+      "uniqueItems": true
+    },
+    "iconographic_type": { "enum": ["hodegetria", "eleousa", "orans", "panachranta", "galaktotrophousa", "pantocrator", "other"] },
+    "origin": {
+      "type": "object",
+      "properties": {
+        "date": { "$ref": "common/defs.schema.json#/$defs/edtf" },
+        "place": { "$ref": "common/defs.schema.json#/$defs/placeRef" }
+      },
+      "minProperties": 1,
+      "additionalProperties": false
+    },
+    "location": {
+      "description": "Where the original is kept today.",
+      "$ref": "common/defs.schema.json#/$defs/placeRef"
+    },
+    "status": { "enum": ["extant", "lost", "unknown"] },
+    "copies": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "location": { "$ref": "common/defs.schema.json#/$defs/placeRef" },
+          "date": { "$ref": "common/defs.schema.json#/$defs/edtf" }
+        },
+        "required": ["location"],
+        "additionalProperties": false
+      }
+    },
+    "images": {
+      "type": "array",
+      "items": { "$ref": "common/defs.schema.json#/$defs/mediaRef" },
+      "uniqueItems": true
+    },
+    "external_ids": { "$ref": "common/defs.schema.json#/$defs/externalIds" },
+    "sources": {
+      "type": "array",
+      "items": { "$ref": "common/defs.schema.json#/$defs/citation" },
+      "minItems": 1
+    },
+    "aliases": {
+      "type": "array",
+      "items": { "$ref": "common/defs.schema.json#/$defs/slug" },
+      "uniqueItems": true
+    },
+    "editorial": { "$ref": "common/defs.schema.json#/$defs/editorial" }
+  },
+  "required": ["id", "subject", "sources", "editorial"],
+  "additionalProperties": false
+}

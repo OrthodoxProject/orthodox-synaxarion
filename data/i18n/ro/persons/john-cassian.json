@@ -1,0 +1,38 @@
+{
+  "id": "john-cassian",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ioan Casian",
+    "full": "Sfântul Cuvios Ioan Casian",
+    "given": "Ioan",
+    "variants": [
+      "Sf. Cuv. Ioan Casian Romanul"
+    ],
+    "forms": {
+      "genitive": "Sfântului Cuvios Ioan Casian",
+      "vocative": "Sfinte Cuvioase Părinte Ioane"
+    }
+  },
+  "summary": "Monah și scriitor bisericesc din secolul al V-lea, originar, după tradiția românească, din Sciția Mică (Dobrogea). A întemeiat mănăstiri la Marsilia și a transmis Apusului învățătura părinților din pustia Egiptului.",
+  "writings": [
+    {
+      "id": "institutes",
+      "title": "Așezămintele mănăstirești"
+    },
+    {
+      "id": "conferences",
+      "title": "Convorbiri duhovnicești"
+    }
+  ],
+  "references": [
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-ioan-casian-si-gherman-din-dobrogea-sf-cuv-vasile-marturisitorul-sambata-sf-mare-mc-teodor-tiron-pomenirea-celor-adormiti/",
+      "accessed": "2026-11-07"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "ai_assisted"
+  }
+}

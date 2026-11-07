@@ -1,0 +1,13 @@
+{
+  "id": "moscow",
+  "kind": "city",
+  "country": "RU",
+  "coords": {
+    "lat": 55.7558,
+    "lon": 37.6173
+  },
+  "editorial": {
+    "status": "draft",
+    "confidence": "high"
+  }
+}

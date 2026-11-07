@@ -1,0 +1,11 @@
+{
+  "id": "test-city",
+  "locale": "ro",
+  "names": {
+    "display": "Orașul de test"
+  },
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

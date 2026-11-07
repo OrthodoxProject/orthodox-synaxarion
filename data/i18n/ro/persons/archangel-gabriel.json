@@ -1,0 +1,22 @@
+{
+  "id": "archangel-gabriel",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Arh. Gavriil",
+    "full": "Sfântul Arhanghel Gavriil",
+    "given": "Gavriil",
+    "forms": {
+      "genitive": "Sfântului Arhanghel Gavriil",
+      "vocative": "Sfinte Arhanghele Gavriile"
+    }
+  },
+  "name_days": [
+    "Gavriil",
+    "Gabriel",
+    "Gabriela"
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "ai_assisted"
+  }
+}

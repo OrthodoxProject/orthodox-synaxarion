@@ -1,0 +1,29 @@
+{
+  "id": "serbian",
+  "family": "eastern_orthodox",
+  "status": "autocephalous",
+  "calendar_style": "julian",
+  "paschalion": "julian",
+  "countries": [
+    "RS"
+  ],
+  "languages": [
+    "sr-Cyrl",
+    "sr-Latn"
+  ],
+  "liturgical_languages": [
+    "cu",
+    "sr-Cyrl"
+  ],
+  "default_locale": "sr-Cyrl",
+  "sources": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/config.py"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium"
+  }
+}

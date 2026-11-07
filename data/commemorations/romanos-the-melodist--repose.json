@@ -1,0 +1,22 @@
+{
+  "id": "romanos-the-melodist--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:romanos-the-melodist"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 1
+  },
+  "sources": [
+    {
+      "source": "src:calendar-patriarhia",
+      "locator": "2026-10-01"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium"
+  }
+}

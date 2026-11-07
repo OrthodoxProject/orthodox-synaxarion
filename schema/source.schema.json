@@ -1,0 +1,27 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Source",
+  "description": "A bibliographic source (book, website, synaxarion, calendar …). The title stays in the source's own language. 'license' says what we may copy: facts and links are always fine; texts only under an open license, in the public domain or with permission.",
+  "type": "object",
+  "properties": {
+    "id": { "$ref": "common/defs.schema.json#/$defs/slug" },
+    "type": { "enum": ["book", "article", "website", "webpage", "synaxarion", "menaion", "typikon", "prologue", "manuscript", "database", "calendar", "other"] },
+    "title": { "type": "string", "minLength": 1 },
+    "authors": { "type": "array", "items": { "type": "string", "minLength": 1 } },
+    "editors": { "type": "array", "items": { "type": "string", "minLength": 1 } },
+    "translators": { "type": "array", "items": { "type": "string", "minLength": 1 } },
+    "publisher": { "type": "string", "minLength": 1 },
+    "publication_place": { "type": "string", "minLength": 1 },
+    "year": { "$ref": "common/defs.schema.json#/$defs/edtf" },
+    "edition": { "type": "string", "minLength": 1 },
+    "isbn": { "type": "string", "pattern": "^(?:97[89])?[0-9]{9}[0-9X]$" },
+    "url": { "$ref": "common/defs.schema.json#/$defs/url" },
+    "language": { "$ref": "common/defs.schema.json#/$defs/locale" },
+    "license": { "$ref": "common/defs.schema.json#/$defs/license" },
+    "accessed": { "$ref": "common/defs.schema.json#/$defs/isoDate" },
+    "notes": { "type": "array", "items": { "type": "string", "minLength": 1 } },
+    "editorial": { "$ref": "common/defs.schema.json#/$defs/editorial" }
+  },
+  "required": ["id", "type", "title", "language", "license", "editorial"],
+  "additionalProperties": false
+}

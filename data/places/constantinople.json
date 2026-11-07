@@ -1,0 +1,13 @@
+{
+  "id": "constantinople",
+  "kind": "city",
+  "country": "TR",
+  "coords": {
+    "lat": 41.0082,
+    "lon": 28.9784
+  },
+  "editorial": {
+    "status": "draft",
+    "confidence": "high"
+  }
+}

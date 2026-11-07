@@ -1,0 +1,13 @@
+{
+  "id": "iasi",
+  "kind": "city",
+  "country": "RO",
+  "coords": {
+    "lat": 47.1585,
+    "lon": 27.6014
+  },
+  "editorial": {
+    "status": "draft",
+    "confidence": "high"
+  }
+}

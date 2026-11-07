@@ -1,0 +1,28 @@
+{
+  "id": "theotokos",
+  "locale": "ro",
+  "names": {
+    "display": "Maica Domnului",
+    "full": "Preasfânta Născătoare de Dumnezeu și pururea Fecioara Maria",
+    "given": "Maria",
+    "variants": [
+      "Fecioara Maria",
+      "Născătoarea de Dumnezeu",
+      "Preacurata"
+    ],
+    "forms": {
+      "genitive": "Maicii Domnului",
+      "vocative": "Preasfântă Născătoare de Dumnezeu"
+    }
+  },
+  "name_days": [
+    "Maria",
+    "Marian",
+    "Mariana",
+    "Marioara"
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "ai_assisted"
+  }
+}

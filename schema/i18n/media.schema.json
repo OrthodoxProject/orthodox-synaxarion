@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Media (locale)",
+  "description": "Alternative text and caption of a media record in one language (data/i18n/<locale>/media/<id>.json).",
+  "type": "object",
+  "properties": {
+    "id": { "$ref": "../common/defs.schema.json#/$defs/slug" },
+    "locale": { "$ref": "../common/defs.schema.json#/$defs/locale" },
+    "alt": { "$ref": "common.schema.json#/$defs/text" },
+    "caption": { "$ref": "common.schema.json#/$defs/text" },
+    "translation": { "$ref": "common.schema.json#/$defs/translation" }
+  },
+  "required": ["id", "locale", "alt", "translation"],
+  "additionalProperties": false
+}

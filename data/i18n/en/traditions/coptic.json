@@ -1,0 +1,16 @@
+{
+  "id": "coptic",
+  "locale": "en",
+  "names": {
+    "display": "Coptic Orthodox Church"
+  },
+  "official_titles": {
+    "comm:dioscorus-of-alexandria--repose": "The Departure of St. Dioscorus, 25th Pope of Alexandria.",
+    "comm:marcian-and-martyrius-the-notaries": "Martyrdom of the Sts. Marcian (Marcianus) and Mercurius",
+    "comm:archangel-michael--coptic-monthly": "The Commemoration of the Archangel Michael."
+  },
+  "translation": {
+    "status": "draft",
+    "method": "ai_assisted"
+  }
+}

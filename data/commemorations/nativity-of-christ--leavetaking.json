@@ -1,0 +1,25 @@
+{
+  "id": "nativity-of-christ--leavetaking",
+  "kind": "leavetaking",
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 31
+  },
+  "parent_feast": "comm:nativity-of-christ",
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/31/103699-leavetaking-of-the-nativity-of-our-lord"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/odovania-praznicului-nasterii-domnului-%e2%80%a0-sf-mc-hermes-sf-cuv-melania-romana-slujba-la-cumpana-dintre-ani/",
+      "accessed": "2026-11-07"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "high"
+  }
+}

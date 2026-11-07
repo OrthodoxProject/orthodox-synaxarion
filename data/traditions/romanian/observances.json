@@ -1,0 +1,72 @@
+{
+  "tradition": "romanian",
+  "observances": [
+    {
+      "id": "good-friday",
+      "kind": "public_holiday",
+      "rule": {
+        "type": "pascha",
+        "offset": -2
+      },
+      "country": "RO",
+      "public_holiday": true,
+      "since": "2018"
+    },
+    {
+      "id": "pascha-day-1",
+      "kind": "public_holiday",
+      "rule": {
+        "type": "pascha",
+        "offset": 0
+      },
+      "country": "RO",
+      "public_holiday": true,
+      "commemoration": "comm:pascha"
+    },
+    {
+      "id": "pascha-day-2",
+      "kind": "public_holiday",
+      "rule": {
+        "type": "pascha",
+        "offset": 1
+      },
+      "country": "RO",
+      "public_holiday": true
+    },
+    {
+      "id": "dormition",
+      "kind": "public_holiday",
+      "rule": {
+        "type": "fixed",
+        "month": 8,
+        "day": 15
+      },
+      "country": "RO",
+      "public_holiday": true,
+      "commemoration": "comm:dormition-of-the-theotokos"
+    },
+    {
+      "id": "christmas-day-1",
+      "kind": "public_holiday",
+      "rule": {
+        "type": "fixed",
+        "month": 12,
+        "day": 25
+      },
+      "country": "RO",
+      "public_holiday": true,
+      "commemoration": "comm:nativity-of-christ"
+    },
+    {
+      "id": "christmas-day-2",
+      "kind": "public_holiday",
+      "rule": {
+        "type": "fixed",
+        "month": 12,
+        "day": 26
+      },
+      "country": "RO",
+      "public_holiday": true
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "oca-lives",
+  "type": "website",
+  "title": "Lives of the Saints",
+  "publisher": "Orthodox Church in America",
+  "url": "https://www.oca.org/saints/lives",
+  "language": "en",
+  "license": "LicenseRef-AllRightsReserved",
+  "editorial": {
+    "status": "draft",
+    "confidence": "high"
+  }
+}

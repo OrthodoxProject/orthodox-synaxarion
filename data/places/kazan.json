@@ -1,0 +1,13 @@
+{
+  "id": "kazan",
+  "kind": "city",
+  "country": "RU",
+  "coords": {
+    "lat": 55.7963,
+    "lon": 49.1088
+  },
+  "editorial": {
+    "status": "draft",
+    "confidence": "high"
+  }
+}

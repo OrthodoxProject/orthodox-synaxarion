@@ -1,0 +1,22 @@
+{
+  "id": "acindynus-and-companions-of-persia",
+  "locale": "en",
+  "names": {
+    "display": "Martyrs Acindynus, Pegasius, Aphthonius, Elpidephorus and Anempodistus",
+    "short": "Martyrs Acindynus and those with him",
+    "variants": [
+      "Martyrs of Persia"
+    ]
+  },
+  "summary": "Christian martyrs of fourth-century Persia, put to death for their faith under King Shapur II.",
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/02/103151-martyrs-acindynus-pegasius-aphthonius-elpidephorus-anempodistus"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "ai_assisted"
+  }
+}

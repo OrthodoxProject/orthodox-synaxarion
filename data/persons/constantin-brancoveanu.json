@@ -1,0 +1,74 @@
+{
+  "id": "constantin-brancoveanu",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "martyr",
+    "right_believing"
+  ],
+  "occupations": [
+    {
+      "code": "prince",
+      "place": "place:wallachia",
+      "from": "1688",
+      "to": "1714"
+    }
+  ],
+  "born": {
+    "date": "1654"
+  },
+  "died": {
+    "date": "1714-08-15",
+    "calendar": "julian",
+    "place": "place:constantinople",
+    "manner": "beheaded"
+  },
+  "era": "post_byzantine",
+  "relations": [
+    {
+      "type": "spouse_of",
+      "target": "person:maria-brancoveanu"
+    }
+  ],
+  "canonizations": [
+    {
+      "tradition": "romanian",
+      "date": "1992",
+      "scope": "general",
+      "sources": [
+        {
+          "source": "src:wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Constantin_Br%C3%A2ncoveanu"
+        }
+      ]
+    }
+  ],
+  "relics": [
+    {
+      "place": "place:st-george-new-church-bucharest",
+      "part": "unknown"
+    }
+  ],
+  "external_ids": {
+    "oca": "149014"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/16/149014-saint-constantine-brancoveanu-and-those-with-him"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/aducerea-sf-mahrame-a-domnului-din-edesa-la-constantinopol-%e2%80%a0-sf-martiri-brancoveni-constantin-voievod-cu-cei-patru-fii-ai-sai-constantin-stefan-radu-si-matei-si-sfetnicul-ianache-sf/",
+      "accessed": "2026-11-07"
+    },
+    {
+      "source": "src:wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Constantin_Br%C3%A2ncoveanu"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium"
+  }
+}

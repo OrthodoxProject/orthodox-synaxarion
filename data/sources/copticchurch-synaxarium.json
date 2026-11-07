@@ -1,0 +1,13 @@
+{
+  "id": "copticchurch-synaxarium",
+  "type": "synaxarion",
+  "title": "The Coptic Synaxarium",
+  "publisher": "CopticChurch.net",
+  "url": "https://www.copticchurch.net/synaxarium/",
+  "language": "en",
+  "license": "LicenseRef-AllRightsReserved",
+  "editorial": {
+    "status": "draft",
+    "confidence": "high"
+  }
+}

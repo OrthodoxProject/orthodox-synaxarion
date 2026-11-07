@@ -1,0 +1,13 @@
+{
+  "id": "st-george-new-church-bucharest",
+  "kind": "church",
+  "country": "RO",
+  "located_in": "place:bucharest",
+  "founded_by": [
+    "person:constantin-brancoveanu"
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "nicholas-of-myra--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:nicholas-of-myra"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 6
+  },
+  "readings": [
+    {
+      "service": "liturgy",
+      "role": "apostle",
+      "ref": "HEB 13:17-21",
+      "of": "commemoration"
+    },
+    {
+      "service": "liturgy",
+      "role": "gospel",
+      "ref": "LUK 6:17-23",
+      "of": "commemoration"
+    }
+  ],
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/06/103484-saint-nicholas-the-wonderworker-archbishop-of-myra-in-lycia"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ier-nicolae-arhiepiscopul-mirelor-lichiei-facatorul-de-minuni-dezlegare-la-peste-duminica-a-27-a-dupa-rusalii-ap-efeseni-6-10-17-al-ierarhului-evrei-13-17-21-ev-luca-13-1/",
+      "accessed": "2026-11-07"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium"
+  }
+}

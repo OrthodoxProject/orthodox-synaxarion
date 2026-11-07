@@ -1,0 +1,222 @@
+{
+  "tradition": "romanian",
+  "year": 2026,
+  "source": {
+    "source": "src:calendar-patriarhia",
+    "url": "https://calendar.patriarhia.ro/",
+    "accessed": "2026-11-07"
+  },
+  "days": [
+    {
+      "date": "2026-04-10",
+      "flags": {
+        "public_holiday": true,
+        "aliturgical": true
+      }
+    },
+    {
+      "date": "2026-04-12",
+      "readings": [
+        {
+          "service": "liturgy",
+          "role": "apostle",
+          "ref": "ACT 1:1-8"
+        },
+        {
+          "service": "liturgy",
+          "role": "gospel",
+          "ref": "JHN 1:1-17"
+        }
+      ],
+      "flags": {
+        "public_holiday": true
+      }
+    },
+    {
+      "date": "2026-04-19",
+      "readings": [
+        {
+          "service": "liturgy",
+          "role": "apostle",
+          "ref": "ACT 5:12-20"
+        },
+        {
+          "service": "liturgy",
+          "role": "gospel",
+          "ref": "JHN 20:19-31"
+        }
+      ],
+      "tone": 1,
+      "eothinon": 1
+    },
+    {
+      "date": "2026-11-01",
+      "readings": [
+        {
+          "service": "liturgy",
+          "role": "apostle",
+          "ref": "GAL 6:11-18",
+          "of": "day"
+        },
+        {
+          "service": "liturgy",
+          "role": "gospel",
+          "ref": "LUK 16:19-31",
+          "of": "day"
+        }
+      ],
+      "tone": 5,
+      "eothinon": 11,
+      "sunday_after_pentecost": 22
+    },
+    {
+      "date": "2026-11-07",
+      "readings": [
+        {
+          "service": "liturgy",
+          "role": "apostle",
+          "ref": "2CO 8:1-5",
+          "of": "day"
+        },
+        {
+          "service": "liturgy",
+          "role": "gospel",
+          "ref": "LUK 8:16-21",
+          "of": "day"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-08",
+      "readings": [
+        {
+          "service": "liturgy",
+          "role": "apostle",
+          "ref": "EPH 2:14-22",
+          "of": "day"
+        },
+        {
+          "service": "liturgy",
+          "role": "apostle",
+          "ref": "HEB 2:2-10",
+          "of": "commemoration"
+        },
+        {
+          "service": "liturgy",
+          "role": "gospel",
+          "ref": "LUK 8:41-56",
+          "of": "day"
+        },
+        {
+          "service": "liturgy",
+          "role": "gospel",
+          "ref": "LUK 10:16-21",
+          "of": "commemoration"
+        }
+      ],
+      "tone": 6,
+      "eothinon": 1,
+      "sunday_after_pentecost": 24
+    },
+    {
+      "date": "2026-11-28",
+      "readings": [
+        {
+          "service": "liturgy",
+          "role": "apostle",
+          "ref": "GAL 3:8-12",
+          "of": "day"
+        },
+        {
+          "service": "liturgy",
+          "role": "gospel",
+          "ref": "LUK 9:57-62",
+          "of": "day"
+        }
+      ],
+      "fasting": "fish"
+    },
+    {
+      "date": "2026-11-29",
+      "readings": [
+        {
+          "service": "liturgy",
+          "role": "apostle",
+          "ref": "COL 3:12-16",
+          "of": "day"
+        },
+        {
+          "service": "liturgy",
+          "role": "apostle",
+          "ref": "1CO 4:9-16",
+          "of": "commemoration"
+        },
+        {
+          "service": "liturgy",
+          "role": "gospel",
+          "ref": "LUK 18:18-27",
+          "of": "day"
+        }
+      ],
+      "fasting": "fish",
+      "tone": 1,
+      "eothinon": 4,
+      "sunday_after_pentecost": 30,
+      "notes": [
+        "Al doilea Apostol este al Sfântului Apostol Andrei (30 noiembrie)."
+      ]
+    },
+    {
+      "date": "2026-12-06",
+      "readings": [
+        {
+          "service": "liturgy",
+          "role": "apostle",
+          "ref": "EPH 6:10-17",
+          "of": "day"
+        },
+        {
+          "service": "liturgy",
+          "role": "apostle",
+          "ref": "HEB 13:17-21",
+          "of": "commemoration"
+        },
+        {
+          "service": "liturgy",
+          "role": "gospel",
+          "ref": "LUK 13:10-17",
+          "of": "day"
+        },
+        {
+          "service": "liturgy",
+          "role": "gospel",
+          "ref": "LUK 6:17-23",
+          "of": "commemoration"
+        }
+      ],
+      "fasting": "fish",
+      "tone": 2,
+      "eothinon": 5,
+      "sunday_after_pentecost": 27
+    },
+    {
+      "date": "2026-12-25",
+      "readings": [
+        {
+          "service": "liturgy",
+          "role": "apostle",
+          "ref": "GAL 4:4-7"
+        },
+        {
+          "service": "liturgy",
+          "role": "gospel",
+          "ref": "MAT 2:1-12"
+        }
+      ],
+      "fasting": "fast_free",
+      "flags": {
+        "public_holiday": true
+      }
+    }
+  ]
+}

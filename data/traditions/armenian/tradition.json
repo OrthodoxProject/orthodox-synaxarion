@@ -1,0 +1,28 @@
+{
+  "id": "armenian",
+  "family": "oriental_orthodox",
+  "calendar_style": "gregorian",
+  "paschalion": "gregorian",
+  "countries": [
+    "AM"
+  ],
+  "languages": [
+    "hy"
+  ],
+  "liturgical_languages": [
+    "xcl"
+  ],
+  "default_locale": "hy",
+  "sources": [
+    {
+      "source": "src:armenianchurch-ge"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Patriarhia Armeană a Ierusalimului folosește stilul vechi; ar fi o tradiție separată."
+    ]
+  }
+}

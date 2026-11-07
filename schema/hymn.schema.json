@@ -1,0 +1,37 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Hymn",
+  "description": "A hymn of a commemoration (troparion, kontakion …). Texts and translations live in the locale files, each with its license.",
+  "type": "object",
+  "properties": {
+    "id": { "$ref": "common/defs.schema.json#/$defs/slug" },
+    "type": { "enum": ["troparion", "kontakion", "ikos", "megalynarion", "exapostilarion", "sessional_hymn", "sticheron", "irmos", "theotokion", "other"] },
+    "for": { "$ref": "common/defs.schema.json#/$defs/commRef" },
+    "tone": { "type": "integer", "minimum": 1, "maximum": 8 },
+    "tone_system": {
+      "description": "Default: byzantine (the eight tones).",
+      "enum": ["byzantine", "armenian", "syriac", "coptic"]
+    },
+    "automelon": {
+      "description": "True if the hymn has its own melody and serves as a model (podobie) for others.",
+      "type": "boolean"
+    },
+    "podoben": {
+      "description": "The model hymn whose melody this hymn follows.",
+      "$ref": "common/defs.schema.json#/$defs/hymnRef"
+    },
+    "author": { "$ref": "common/defs.schema.json#/$defs/personRef" },
+    "media": {
+      "type": "array",
+      "items": { "$ref": "common/defs.schema.json#/$defs/mediaRef" },
+      "uniqueItems": true
+    },
+    "sources": {
+      "type": "array",
+      "items": { "$ref": "common/defs.schema.json#/$defs/citation" }
+    },
+    "editorial": { "$ref": "common/defs.schema.json#/$defs/editorial" }
+  },
+  "required": ["id", "type", "for", "editorial"],
+  "additionalProperties": false
+}

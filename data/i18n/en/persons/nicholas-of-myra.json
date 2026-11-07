@@ -1,0 +1,25 @@
+{
+  "id": "nicholas-of-myra",
+  "locale": "en",
+  "names": {
+    "display": "Saint Nicholas the Wonderworker",
+    "full": "Saint Nicholas the Wonderworker, Archbishop of Myra in Lycia",
+    "short": "Saint Nicholas",
+    "given": "Nicholas",
+    "variants": [
+      "Nicholas of Myra",
+      "Nicholas of Bari"
+    ]
+  },
+  "summary": "Fourth-century Archbishop of Myra in Lycia, one of the most beloved saints of the Church. His relics have been in Bari, Italy, since 1087.",
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/06/103484-saint-nicholas-the-wonderworker-archbishop-of-myra-in-lycia"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "ai_assisted"
+  }
+}

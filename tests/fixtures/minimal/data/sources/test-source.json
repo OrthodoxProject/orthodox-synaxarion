@@ -1,0 +1,10 @@
+{
+  "id": "test-source",
+  "type": "book",
+  "title": "Test Synaxarion",
+  "language": "en",
+  "license": "CC0-1.0",
+  "editorial": {
+    "status": "draft"
+  }
+}

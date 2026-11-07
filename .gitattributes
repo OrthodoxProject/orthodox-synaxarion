@@ -1,0 +1,6 @@
+# Keep LF line endings everywhere (the validator checks canonical JSON formatting).
+* text=auto eol=lf
+*.png binary
+*.jpg binary
+*.webp binary
+*.mp3 binary

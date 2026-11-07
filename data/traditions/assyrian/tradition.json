@@ -1,0 +1,24 @@
+{
+  "id": "assyrian",
+  "family": "church_of_the_east",
+  "calendar_style": "gregorian",
+  "paschalion": "gregorian",
+  "countries": [
+    "IQ"
+  ],
+  "languages": [
+    "aii",
+    "ar"
+  ],
+  "liturgical_languages": [
+    "syc"
+  ],
+  "default_locale": "aii",
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Calendarul gregorian e folosit din 1964; Biserica Veche a Răsăritului a păstrat stilul vechi (întrebarea Q71)."
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "wikipedia",
+  "type": "website",
+  "title": "Wikipedia",
+  "publisher": "Wikimedia Foundation",
+  "url": "https://www.wikipedia.org/",
+  "language": "mul",
+  "license": "CC-BY-SA-4.0",
+  "editorial": {
+    "status": "draft",
+    "confidence": "high"
+  }
+}

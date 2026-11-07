@@ -1,0 +1,56 @@
+{
+  "id": "romanian",
+  "locale": "ro",
+  "names": {
+    "display": "Biserica Ortodoxă Română",
+    "short": "BOR",
+    "variants": [
+      "Patriarhia Română"
+    ]
+  },
+  "official_titles": {
+    "comm:john-cassian--repose": "Sf. Cuv. Ioan Casian și Gherman, din Dobrogea",
+    "comm:pascha": "Învierea Domnului nostru Iisus Hristos (Sfintele Paști)",
+    "comm:thomas-sunday": "Duminica a 2-a după Paști (a Sf. Apostol Toma)",
+    "comm:george-the-great-martyr--repose": "Sf. Mare Mc. Gheorghe, purtătorul de biruință",
+    "comm:nicholas-of-myra--translation-of-relics": "Aducerea la Bari a moaștelor Sf. Ier. Nicolae",
+    "comm:dormition-of-the-theotokos": "Adormirea Maicii Domnului",
+    "comm:brancoveanu-martyrs": "Sf. Martiri Brâncoveni: Constantin Voievod cu cei patru fii ai săi, Constantin, Ștefan, Radu și Matei, și sfetnicul Ianache",
+    "comm:maria-brancoveanu--repose": "Sf. Doamnă Maria Brâncoveanu",
+    "comm:gregory-the-illuminator--repose": "Sf. Ier. Grigorie Luminătorul, arhiepiscopul Armeniei",
+    "comm:romanos-the-melodist--repose": "Sf. Cuv. Roman Melodul",
+    "comm:paraskeva-of-the-balkans--repose": "Sf. Cuv. Parascheva de la Iași",
+    "comm:marcian-and-martyrius-the-notaries": "Sf. Mc. Marcian și Martirie",
+    "comm:acindynus-and-companions-of-persia": "Sf. Mc. Achindin, Pigasie, Aftonie, Elpidifor și Anempodist",
+    "comm:33-martyrs-of-melitene": "Sfinții 33 de Mucenici din Melitina",
+    "comm:lazarus-of-galesion--repose": "Sf. Cuv. Lazăr din Muntele Galisiei",
+    "comm:memorial-saturday-autumn": "Sâmbăta celor adormiți - Moșii de toamnă",
+    "comm:synaxis-of-the-archangels": "Soborul Sf. Arhangheli Mihail și Gavriil și al tuturor cereștilor puteri",
+    "comm:arsenie-of-prislop--repose": "Sf. Cuv. Mărturisitor Arsenie de la Prislop",
+    "comm:nicholas-of-myra--repose": "Sf. Ier. Nicolae, arhiepiscopul Mirelor Lichiei, făcătorul de minuni",
+    "comm:nativity-of-christ--forefeast": "Înainte-prăznuirea Nașterii Domnului",
+    "comm:nativity-of-christ": "Nașterea Domnului (Crăciunul)",
+    "comm:nativity-of-christ--leavetaking": "Odovania praznicului Nașterii Domnului"
+  },
+  "observances": {
+    "good-friday": "Vinerea Mare",
+    "pascha-day-1": "Prima zi de Paști",
+    "pascha-day-2": "A doua zi de Paști",
+    "dormition": "Adormirea Maicii Domnului",
+    "christmas-day-1": "Prima zi de Crăciun",
+    "christmas-day-2": "A doua zi de Crăciun"
+  },
+  "symbols": {
+    "red-parenthesized": "Cruce roșie între paranteze (†)",
+    "red-half-parenthesized": "Cruce roșie cu paranteză †)",
+    "red-plain": "Cruce roșie †",
+    "black-half-parenthesized": "Cruce neagră cu paranteză †)",
+    "black-plain": "Cruce neagră †",
+    "blue-half-parenthesized": "Cruce albastră cu paranteză †)",
+    "blue-plain": "Cruce albastră †"
+  },
+  "translation": {
+    "status": "draft",
+    "method": "ai_assisted"
+  }
+}

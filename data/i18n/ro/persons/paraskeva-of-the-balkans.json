@@ -1,0 +1,35 @@
+{
+  "id": "paraskeva-of-the-balkans",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Parascheva de la Iași",
+    "full": "Sfânta Cuvioasa Parascheva de la Iași",
+    "short": "Cuvioasa Parascheva",
+    "given": "Parascheva",
+    "variants": [
+      "Sf. Cuv. Parascheva de la Epivat",
+      "Sf. Cuv. Parascheva cea Nouă"
+    ],
+    "forms": {
+      "genitive": "Sfintei Cuvioase Parascheva",
+      "vocative": "Sfântă Cuvioasă Maică Parascheva"
+    }
+  },
+  "summary": "Cuvioasă din secolul al XI-lea, născută la Epivat, în Tracia. Moaștele ei se află din 1641 la Iași, în Catedrala Mitropolitană, unde vin în fiecare an mii de pelerini.",
+  "name_days": [
+    "Parascheva",
+    "Paraschiva",
+    "Paraschiv"
+  ],
+  "references": [
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-parascheva-de-la-iasi-sf-mc-nazarie-ghervasie-protasie-si-chelsie/",
+      "accessed": "2026-11-07"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "ai_assisted"
+  }
+}

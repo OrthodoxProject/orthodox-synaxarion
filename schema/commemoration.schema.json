@@ -1,0 +1,69 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Commemoration",
+  "description": "Something the Church celebrates: a feast of the Lord or of the Theotokos, a saint's repose, the translation of relics, an icon, a council, an event, a memorial Saturday. 'date_rule' is the usual (most widespread) date; each tradition decides where it actually places the commemoration.",
+  "type": "object",
+  "properties": {
+    "id": { "$ref": "common/defs.schema.json#/$defs/slug" },
+    "kind": { "$ref": "common/defs.schema.json#/$defs/commemorationKind" },
+    "subjects": {
+      "type": "array",
+      "items": { "$ref": "common/defs.schema.json#/$defs/subjectRef" },
+      "uniqueItems": true
+    },
+    "date_rule": { "$ref": "common/defs.schema.json#/$defs/dateRule" },
+    "duration_days": {
+      "description": "Number of days, for periods such as a forefeast (default 1).",
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 40
+    },
+    "parent_feast": {
+      "description": "The feast that a forefeast, afterfeast or leave-taking belongs to.",
+      "$ref": "common/defs.schema.json#/$defs/commRef"
+    },
+    "default_rank": { "$ref": "common/defs.schema.json#/$defs/typikonRank" },
+    "event_date": {
+      "description": "When the commemorated event happened (e.g. the year relics were translated).",
+      "$ref": "common/defs.schema.json#/$defs/edtf"
+    },
+    "event_place": { "$ref": "common/defs.schema.json#/$defs/placeRef" },
+    "readings": {
+      "description": "Proper readings of the commemoration (a tradition may override them).",
+      "type": "array",
+      "items": { "$ref": "common/defs.schema.json#/$defs/reading" }
+    },
+    "external_ids": { "$ref": "common/defs.schema.json#/$defs/externalIds" },
+    "sources": {
+      "type": "array",
+      "items": { "$ref": "common/defs.schema.json#/$defs/citation" }
+    },
+    "aliases": {
+      "type": "array",
+      "items": { "$ref": "common/defs.schema.json#/$defs/slug" },
+      "uniqueItems": true
+    },
+    "editorial": { "$ref": "common/defs.schema.json#/$defs/editorial" }
+  },
+  "required": ["id", "kind", "date_rule", "editorial"],
+  "additionalProperties": false,
+  "allOf": [
+    {
+      "if": {
+        "properties": { "kind": { "enum": ["repose", "relics_translation", "relics_finding", "glorification", "synaxis", "icon", "angels"] } },
+        "required": ["kind"]
+      },
+      "then": {
+        "required": ["subjects"],
+        "properties": { "subjects": { "type": "array", "minItems": 1 } }
+      }
+    },
+    {
+      "if": {
+        "properties": { "kind": { "enum": ["forefeast", "afterfeast", "leavetaking"] } },
+        "required": ["kind"]
+      },
+      "then": { "required": ["parent_feast"] }
+    }
+  ]
+}

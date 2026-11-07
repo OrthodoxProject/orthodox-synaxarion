@@ -1,0 +1,26 @@
+name: Validate
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 26
+          cache: npm
+      - run: npm ci
+      - name: Type-check the tools
+        run: npm run typecheck
+      - name: Test the validator
+        run: npm test
+      - name: Validate the data
+        run: npm run validate

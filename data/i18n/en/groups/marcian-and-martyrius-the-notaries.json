@@ -1,0 +1,21 @@
+{
+  "id": "marcian-and-martyrius-the-notaries",
+  "locale": "en",
+  "names": {
+    "display": "Martyrs Marcian and Martyrius the Notaries",
+    "variants": [
+      "Marcianus and Mercurius (Coptic Synaxarium)"
+    ]
+  },
+  "summary": "Notaries of Saint Paul the Confessor, Archbishop of Constantinople, killed by the Arians in the fourth century.",
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/25/103053-martyrs-marcian-and-martyrius-the-notaries-of-constantinople"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "ai_assisted"
+  }
+}

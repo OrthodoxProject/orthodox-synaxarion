@@ -1,0 +1,17 @@
+{
+  "id": "test-church",
+  "family": "eastern_orthodox",
+  "calendar_style": "julian",
+  "paschalion": "julian",
+  "symbol_legend": [
+    {
+      "key": "red-plain",
+      "glyph": "†",
+      "color": "red"
+    }
+  ],
+  "default_locale": "ro",
+  "editorial": {
+    "status": "draft"
+  }
+}

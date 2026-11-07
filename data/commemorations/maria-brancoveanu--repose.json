@@ -1,0 +1,23 @@
+{
+  "id": "maria-brancoveanu--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:maria-brancoveanu"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 16
+  },
+  "sources": [
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/aducerea-sf-mahrame-a-domnului-din-edesa-la-constantinopol-%e2%80%a0-sf-martiri-brancoveni-constantin-voievod-cu-cei-patru-fii-ai-sai-constantin-stefan-radu-si-matei-si-sfetnicul-ianache-sf/",
+      "accessed": "2026-11-07"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium"
+  }
+}

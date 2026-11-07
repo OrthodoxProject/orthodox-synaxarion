@@ -1,0 +1,17 @@
+{
+  "id": "archangel-gabriel",
+  "kind": "angel",
+  "gender": "male",
+  "holiness_types": [
+    "archangel"
+  ],
+  "sources": [
+    {
+      "source": "src:bible"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "high"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Long text (front matter)",
+  "description": "YAML front matter of a Markdown file with a long text (data/i18n/<locale>/<collection>/<id>.md), e.g. the full life of a saint. The body of the file is the text itself.",
+  "type": "object",
+  "properties": {
+    "id": { "$ref": "../common/defs.schema.json#/$defs/slug" },
+    "locale": { "$ref": "../common/defs.schema.json#/$defs/locale" },
+    "kind": { "enum": ["life"] },
+    "title": { "$ref": "common.schema.json#/$defs/text" },
+    "references": { "$ref": "common.schema.json#/$defs/references" },
+    "translation": { "$ref": "common.schema.json#/$defs/translation" }
+  },
+  "required": ["id", "locale", "kind", "translation"],
+  "additionalProperties": false
+}

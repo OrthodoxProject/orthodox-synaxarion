@@ -1,0 +1,83 @@
+{
+  "id": "romanian",
+  "family": "eastern_orthodox",
+  "status": "autocephalous",
+  "calendar_style": "revised_julian",
+  "calendar_history": [
+    {
+      "style": "julian",
+      "until": "1924-10-13"
+    }
+  ],
+  "paschalion": "julian",
+  "lectionary": {
+    "lukan_jump": true
+  },
+  "symbol_legend": [
+    {
+      "key": "red-parenthesized",
+      "glyph": "(†)",
+      "color": "red"
+    },
+    {
+      "key": "red-half-parenthesized",
+      "glyph": "†)",
+      "color": "red"
+    },
+    {
+      "key": "red-plain",
+      "glyph": "†",
+      "color": "red"
+    },
+    {
+      "key": "black-half-parenthesized",
+      "glyph": "†)",
+      "color": "black"
+    },
+    {
+      "key": "black-plain",
+      "glyph": "†",
+      "color": "black"
+    },
+    {
+      "key": "blue-half-parenthesized",
+      "glyph": "†)",
+      "color": "blue"
+    },
+    {
+      "key": "blue-plain",
+      "glyph": "†",
+      "color": "blue"
+    }
+  ],
+  "countries": [
+    "RO"
+  ],
+  "languages": [
+    "ro"
+  ],
+  "liturgical_languages": [
+    "ro"
+  ],
+  "default_locale": "ro",
+  "official_sources": [
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/",
+      "accessed": "2026-11-07"
+    }
+  ],
+  "sources": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/config.py"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Semnificația semnelor (mai ales a crucii albastre) și maparea lor pe rangurile din Tipic sunt de confirmat (întrebarea Q15)."
+    ]
+  }
+}

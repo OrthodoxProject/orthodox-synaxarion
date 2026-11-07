@@ -1,0 +1,55 @@
+{
+  "id": "nicholas-of-myra",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "hierarch",
+    "wonderworker"
+  ],
+  "ranks": [
+    {
+      "rank": "archbishop",
+      "see": "place:myra"
+    }
+  ],
+  "died": {
+    "date": "034X",
+    "place": "place:myra",
+    "manner": "natural"
+  },
+  "era": "ecumenical_councils",
+  "relics": [
+    {
+      "place": "place:basilica-of-saint-nicholas-bari",
+      "part": "unknown",
+      "since": "1087",
+      "translations": [
+        "comm:nicholas-of-myra--translation-of-relics"
+      ]
+    }
+  ],
+  "iconography": {
+    "attributes": [
+      "omophorion",
+      "gospel_book"
+    ]
+  },
+  "external_ids": {
+    "oca": "103484"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/06/103484-saint-nicholas-the-wonderworker-archbishop-of-myra-in-lycia"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ier-nicolae-arhiepiscopul-mirelor-lichiei-facatorul-de-minuni-dezlegare-la-peste-duminica-a-27-a-dupa-rusalii-ap-efeseni-6-10-17-al-ierarhului-evrei-13-17-21-ev-luca-13-1/",
+      "accessed": "2026-11-07"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium"
+  }
+}

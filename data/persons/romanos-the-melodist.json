@@ -1,0 +1,31 @@
+{
+  "id": "romanos-the-melodist",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "venerable"
+  ],
+  "ranks": [
+    {
+      "rank": "deacon"
+    }
+  ],
+  "floruit": "05XX",
+  "era": "ecumenical_councils",
+  "places": [
+    {
+      "place": "place:constantinople",
+      "role": "ministry"
+    }
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-patriarhia",
+      "locator": "2026-10-01"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium"
+  }
+}

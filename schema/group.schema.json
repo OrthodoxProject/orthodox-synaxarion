@@ -1,0 +1,70 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Group",
+  "description": "A group of saints commemorated together (martyrs, a family, the fathers of a council, a synaxis). Named members are person records; the group may be larger than its named members.",
+  "type": "object",
+  "properties": {
+    "id": { "$ref": "common/defs.schema.json#/$defs/slug" },
+    "kind": { "enum": ["martyrs", "synaxis", "family", "council_fathers", "community", "other"] },
+    "count": {
+      "description": "Size of the group, when known (named and unnamed members).",
+      "type": "object",
+      "properties": {
+        "value": { "type": "integer", "minimum": 1 },
+        "precision": { "enum": ["exact", "approx"] }
+      },
+      "required": ["value", "precision"],
+      "additionalProperties": false
+    },
+    "members": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "person": { "$ref": "common/defs.schema.json#/$defs/personRef" },
+          "role": { "enum": ["leader", "member"] }
+        },
+        "required": ["person"],
+        "additionalProperties": false
+      }
+    },
+    "holiness_types": {
+      "type": "array",
+      "items": { "$ref": "common/defs.schema.json#/$defs/holinessType" },
+      "uniqueItems": true
+    },
+    "died": { "$ref": "common/defs.schema.json#/$defs/death" },
+    "floruit": { "$ref": "common/defs.schema.json#/$defs/edtf" },
+    "era": { "$ref": "common/defs.schema.json#/$defs/era" },
+    "places": {
+      "type": "array",
+      "items": { "$ref": "common/defs.schema.json#/$defs/placeLink" }
+    },
+    "veneration": {
+      "type": "array",
+      "items": { "$ref": "common/defs.schema.json#/$defs/veneration" }
+    },
+    "canonizations": {
+      "type": "array",
+      "items": { "$ref": "common/defs.schema.json#/$defs/canonization" }
+    },
+    "relics": {
+      "type": "array",
+      "items": { "$ref": "common/defs.schema.json#/$defs/relic" }
+    },
+    "external_ids": { "$ref": "common/defs.schema.json#/$defs/externalIds" },
+    "sources": {
+      "type": "array",
+      "items": { "$ref": "common/defs.schema.json#/$defs/citation" },
+      "minItems": 1
+    },
+    "aliases": {
+      "type": "array",
+      "items": { "$ref": "common/defs.schema.json#/$defs/slug" },
+      "uniqueItems": true
+    },
+    "editorial": { "$ref": "common/defs.schema.json#/$defs/editorial" }
+  },
+  "required": ["id", "kind", "sources", "editorial"],
+  "additionalProperties": false
+}

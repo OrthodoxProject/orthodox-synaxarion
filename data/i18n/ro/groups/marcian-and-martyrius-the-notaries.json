@@ -1,0 +1,23 @@
+{
+  "id": "marcian-and-martyrius-the-notaries",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Marcian și Martirie",
+    "full": "Sfinții Mucenici Marcian și Martirie, notarii",
+    "variants": [
+      "Sfinții Marcian și Mercurie (în sinaxarul copt)"
+    ]
+  },
+  "summary": "Notari ai Sfântului Pavel Mărturisitorul, arhiepiscopul Constantinopolului, uciși de arieni în secolul al IV-lea.",
+  "references": [
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-marcian-si-martirie-sf-tavita-duminica-a-23-a-dupa-rusalii-ap-efeseni-2-4-10-ev-luca-8-26-39-vindecarea-demonizatului-din-tinutul-gherghesenilor-glas-4-voscr-10/",
+      "accessed": "2026-11-07"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "ai_assisted"
+  }
+}

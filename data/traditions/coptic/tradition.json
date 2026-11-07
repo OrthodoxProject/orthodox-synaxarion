@@ -1,0 +1,27 @@
+{
+  "id": "coptic",
+  "family": "oriental_orthodox",
+  "calendar_style": "coptic",
+  "paschalion": "julian",
+  "countries": [
+    "EG"
+  ],
+  "languages": [
+    "ar",
+    "en"
+  ],
+  "liturgical_languages": [
+    "cop",
+    "ar"
+  ],
+  "default_locale": "ar",
+  "sources": [
+    {
+      "source": "src:copticchurch-synaxarium"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium"
+  }
+}

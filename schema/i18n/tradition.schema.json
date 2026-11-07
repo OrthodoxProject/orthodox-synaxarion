@@ -1,0 +1,37 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Tradition (locale)",
+  "description": "A tradition's name in one language, plus the official titles of its calendar lines, the labels of its observances and of its symbols (data/i18n/<locale>/traditions/<id>.json). Official titles are quotes: keep them as the Church prints them, only normalizing diacritics.",
+  "type": "object",
+  "properties": {
+    "id": { "$ref": "../common/defs.schema.json#/$defs/traditionId" },
+    "locale": { "$ref": "../common/defs.schema.json#/$defs/locale" },
+    "names": {
+      "type": "object",
+      "$ref": "common.schema.json#/$defs/names",
+      "unevaluatedProperties": false
+    },
+    "official_titles": {
+      "description": "Title of each calendar line, keyed by the line's first commemoration.",
+      "type": "object",
+      "propertyNames": { "$ref": "../common/defs.schema.json#/$defs/commRef" },
+      "additionalProperties": { "$ref": "common.schema.json#/$defs/text" }
+    },
+    "observances": {
+      "description": "Labels of the tradition's observances, keyed by observance id.",
+      "type": "object",
+      "propertyNames": { "$ref": "../common/defs.schema.json#/$defs/slug" },
+      "additionalProperties": { "$ref": "common.schema.json#/$defs/text" }
+    },
+    "symbols": {
+      "description": "Labels of the symbol_legend entries, keyed by symbol key.",
+      "type": "object",
+      "propertyNames": { "$ref": "../common/defs.schema.json#/$defs/slug" },
+      "additionalProperties": { "$ref": "common.schema.json#/$defs/text" }
+    },
+    "references": { "$ref": "common.schema.json#/$defs/references" },
+    "translation": { "$ref": "common.schema.json#/$defs/translation" }
+  },
+  "required": ["id", "locale", "names", "translation"],
+  "additionalProperties": false
+}

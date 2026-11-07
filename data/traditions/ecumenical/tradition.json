@@ -1,0 +1,36 @@
+{
+  "id": "ecumenical",
+  "family": "eastern_orthodox",
+  "status": "autocephalous",
+  "calendar_style": "revised_julian",
+  "calendar_history": [
+    {
+      "style": "julian",
+      "until": "1924-03-22"
+    }
+  ],
+  "paschalion": "julian",
+  "lectionary": {
+    "lukan_jump": true
+  },
+  "countries": [
+    "TR"
+  ],
+  "languages": [
+    "el"
+  ],
+  "liturgical_languages": [
+    "grc"
+  ],
+  "default_locale": "el",
+  "sources": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/config.py"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium"
+  }
+}

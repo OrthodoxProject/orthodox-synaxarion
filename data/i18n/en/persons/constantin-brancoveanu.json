@@ -1,0 +1,23 @@
+{
+  "id": "constantin-brancoveanu",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Constantine Brâncoveanu",
+    "full": "Holy Martyr Constantine Brâncoveanu, Prince of Wallachia",
+    "given": "Constantine",
+    "variants": [
+      "Constantin Brâncoveanu"
+    ]
+  },
+  "summary": "Prince of Wallachia from 1688 to 1714 and founder of churches and schools. He was beheaded in Constantinople on 15 August 1714, together with his four sons and his counselor Ianache, for refusing to renounce the Christian faith.",
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/16/149014-saint-constantine-brancoveanu-and-those-with-him"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "ai_assisted"
+  }
+}

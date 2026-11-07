@@ -1,0 +1,15 @@
+{
+  "id": "test-saint--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:test-saint"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 15
+  },
+  "editorial": {
+    "status": "draft"
+  }
+}

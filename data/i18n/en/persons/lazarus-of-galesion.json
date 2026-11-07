@@ -1,0 +1,28 @@
+{
+  "id": "lazarus-of-galesion",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Lazarus of Mount Galesion",
+    "full": "Venerable Lazarus the Wonderworker of Mount Galesion",
+    "short": "Lazarus of Galesion",
+    "given": "Lazarus",
+    "epithets": [
+      "the Wonderworker"
+    ],
+    "variants": [
+      "Lazarus Galesiotes",
+      "Lazarus the Wonderworker of Mount Galesius"
+    ]
+  },
+  "summary": "Eleventh-century stylite who lived on Mount Galesion near Ephesus, where several monastic communities gathered around him.",
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/07/103232-venerable-lazarus-wonderworker-of-mount-galesius-near-ephesus"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "ai_assisted"
+  }
+}

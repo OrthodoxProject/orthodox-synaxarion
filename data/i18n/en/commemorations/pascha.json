@@ -1,0 +1,15 @@
+{
+  "id": "pascha",
+  "locale": "en",
+  "names": {
+    "display": "Pascha",
+    "full": "The Resurrection of our Lord Jesus Christ",
+    "folk": [
+      "Easter"
+    ]
+  },
+  "translation": {
+    "status": "draft",
+    "method": "ai_assisted"
+  }
+}

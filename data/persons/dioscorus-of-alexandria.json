@@ -1,0 +1,37 @@
+{
+  "id": "dioscorus-of-alexandria",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "hierarch",
+    "confessor"
+  ],
+  "ranks": [
+    {
+      "rank": "pope",
+      "see": "place:alexandria"
+    }
+  ],
+  "died": {
+    "date": "0454",
+    "place": "place:gangra",
+    "manner": "died_in_exile"
+  },
+  "era": "ecumenical_councils",
+  "external_ids": {
+    "copticchurch": "1_7#1"
+  },
+  "sources": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/1_7.html?lang=en#1"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Cinstit ca sfânt de Bisericile Ortodoxe Orientale; nu apare în calendarele Bisericilor Ortodoxe răsăritene."
+    ]
+  }
+}

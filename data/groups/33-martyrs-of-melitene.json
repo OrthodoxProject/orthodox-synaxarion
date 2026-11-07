@@ -1,0 +1,46 @@
+{
+  "id": "33-martyrs-of-melitene",
+  "kind": "martyrs",
+  "count": {
+    "value": 33,
+    "precision": "exact"
+  },
+  "members": [
+    {
+      "person": "person:hieron-of-melitene",
+      "role": "leader"
+    }
+  ],
+  "holiness_types": [
+    "martyr"
+  ],
+  "died": {
+    "place": "place:melitene",
+    "manner": "martyrdom"
+  },
+  "era": "early_church",
+  "places": [
+    {
+      "place": "place:melitene",
+      "role": "martyrdom"
+    }
+  ],
+  "external_ids": {
+    "oca": "103198"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/07/103198-33-holy-martyrs-of-melitene"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sfintii-33-de-mucenici-din-melitina-sf-cuv-lazar-din-muntele-galisiei-sambata-celor-adormiti-mosii-de-toamna/",
+      "accessed": "2026-11-07"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium"
+  }
+}

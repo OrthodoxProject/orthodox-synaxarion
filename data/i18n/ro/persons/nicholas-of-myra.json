@@ -1,0 +1,35 @@
+{
+  "id": "nicholas-of-myra",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Nicolae",
+    "full": "Sfântul Ierarh Nicolae, arhiepiscopul Mirelor Lichiei, făcătorul de minuni",
+    "short": "Sfântul Nicolae",
+    "given": "Nicolae",
+    "epithets": [
+      "Făcătorul de minuni"
+    ],
+    "forms": {
+      "genitive": "Sfântului Ierarh Nicolae",
+      "vocative": "Sfinte Ierarhe Nicolae"
+    }
+  },
+  "summary": "Arhiepiscop al Mirelor Lichiei în secolul al IV-lea, unul dintre cei mai iubiți sfinți ai Bisericii. Moaștele lui se află din 1087 la Bari, în Italia.",
+  "name_days": [
+    "Nicolae",
+    "Nicoleta",
+    "Niculina",
+    "Nicu"
+  ],
+  "references": [
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ier-nicolae-arhiepiscopul-mirelor-lichiei-facatorul-de-minuni-dezlegare-la-peste-duminica-a-27-a-dupa-rusalii-ap-efeseni-6-10-17-al-ierarhului-evrei-13-17-21-ev-luca-13-1/",
+      "accessed": "2026-11-07"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "ai_assisted"
+  }
+}

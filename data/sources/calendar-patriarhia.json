@@ -1,0 +1,17 @@
+{
+  "id": "calendar-patriarhia",
+  "type": "calendar",
+  "title": "Calendar Creștin Ortodox",
+  "publisher": "Patriarhia Română",
+  "url": "https://calendar.patriarhia.ro/",
+  "language": "ro",
+  "license": "LicenseRef-AllRightsReserved",
+  "accessed": "2026-11-07",
+  "notes": [
+    "Folosim doar fapte (ce se prăznuiește, în ce zi, cu ce semn, ce lecturi), cu trimitere la sursă."
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "high"
+  }
+}

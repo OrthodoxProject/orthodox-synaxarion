@@ -1,0 +1,23 @@
+{
+  "id": "dioscorus-of-alexandria--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:dioscorus-of-alexandria"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 7,
+    "calendar": "coptic"
+  },
+  "sources": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/1_7.html?lang=en#1"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium"
+  }
+}

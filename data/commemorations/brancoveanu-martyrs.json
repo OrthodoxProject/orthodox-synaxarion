@@ -1,0 +1,27 @@
+{
+  "id": "brancoveanu-martyrs",
+  "kind": "repose",
+  "subjects": [
+    "group:brancoveanu-martyrs"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 16
+  },
+  "sources": [
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/aducerea-sf-mahrame-a-domnului-din-edesa-la-constantinopol-%e2%80%a0-sf-martiri-brancoveni-constantin-voievod-cu-cei-patru-fii-ai-sai-constantin-stefan-radu-si-matei-si-sfetnicul-ianache-sf/",
+      "accessed": "2026-11-07"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/16/149014-saint-constantine-brancoveanu-and-those-with-him"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium"
+  }
+}

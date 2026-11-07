@@ -149,9 +149,43 @@ Titlurile, semnele și lecturile BOR vin din calendarul oficial pe 2026; legătu
 
 **Toate înregistrările sunt ciorne** (`editorial.status: draft`) și trebuie revizuite înainte de publicare. Ce mai e de verificat e notat în `editorial.notes`.
 
+## Calendarul calculat
+
+```bash
+npm run generate -- --year 2026
+```
+
+Comanda scrie zilele fiecărei tradiții în `build/days/<tradiție>/<an>/<MM-DD>.json`, plus un fișier pe an cu toate zilele. Opțiuni: `--tradition romanian` (se poate repeta), `--from 2025 --to 2030`. Folderul `build/` nu se comite. Forma unei zile e descrisă de [schema/build/day.schema.json](../schema/build/day.schema.json).
+
+| Câmp | Ce conține |
+|---|---|
+| `date`, `weekday` | ziua civilă (calendarul gregorian) |
+| `church_calendar`, `church_date` | stilul tradiției în acea zi și data din Minei (sau data coptă / etiopiană) |
+| `julian_date` | aceeași zi pe stil vechi |
+| `pascha_offset` | zile față de Paștile anului civil (negativ înainte de Paști) |
+| `lines` | rândurile de calendar, cu pomenirile, semnul și rangul; `transferred_from` arată ziua de unde a fost mutat un rând |
+| `ongoing` | perioadele în curs, de ex. ziua 3 din cele 5 ale înainte-prăznuirii |
+| `tone`, `eothinon` | glasul săptămânii și voscresna duminicii (doar la Bisericile răsăritene) |
+| `fasting` | postul zilei, pentru tradițiile cu `fasting_model`, sau din calendarul oficial |
+| `readings` | lecturile proprii ale pomenirilor, sau toate lecturile din calendarul oficial |
+| `observances`, `flags` | zilele libere și celelalte zile din `observances.json`; `flags.public_holiday` |
+| `sunday_after_pentecost`, `notes`, `official` | din `overrides/<an>.json`; `official` arată că ziua conține fapte din calendarul oficial |
+
+Cum calculează motorul (`tools/lib/calendar.ts`, `tools/lib/days.ts`):
+
+- **Data bisericească**: stilul vechi e calendarul iulian; stilul nou e calculat ca gregorian, ceea ce e exact între 1600 și 2799. Înainte de data din `calendar_history`, tradiția folosește stilul vechi; în 1900 diferența dintre stiluri era de 12 zile, apoi de 13.
+- **29 februarie**: în anii nebisecți, rândurile din `menaion/02/29.json` trec la data din `non_leap` a primei pomeniri (implicit 28 februarie).
+- **Paștile**: pascalia iuliană sau gregoriană, după `paschalion`.
+- **Mutări** (`transfers`): perioadele se măsoară în zile față de Paști: săptămâna brânzei −55…−49, Postul Mare −48…−9, Săptămâna Mare −6…−1, Paștile 0, Săptămâna Luminată 1…6, Triodul −70…−1, Penticostarul 0…56. `before_pascha` înseamnă între −70 și −1. Se mută doar rândurile cu dată fixă.
+- **Glasul**: glasul 1 începe în Duminica Tomii și se schimbă duminica, ciclic; de la Florii până în Sâmbăta Luminată nu există glasul săptămânii.
+- **Voscresna**: în duminicile Penticostarului are valori fixe (Toma 1, Mironosițe 3, Slăbănog 4, Samarineancă 7, Orb 8, Sfinții Părinți 10); de la Duminica Tuturor Sfinților ciclul de 11 începe cu 1. Floriile, Paștile și Rusaliile nu au voscresnă.
+- **Postul** (`fasting_model: "romanian"`): perioadele de post, miercurea și vinerea, harțile și câteva dezlegări fixe (Bunavestire, Florii, Schimbarea la Față, Intrarea în biserică, Sf. Nicolae). Celelalte dezlegări de la praznice vin din calendarul oficial.
+- **Calendarul oficial** (`overrides/<an>.json`) are întâietate. `npm run generate` arată zilele în care glasul, voscresna sau postul calculate diferă de el, iar testele cer să nu existe diferențe pentru 2026.
+- Pomenirile cu regula `unspecified` nu apar în zile; comanda le numără separat.
+
 ## Limitări
 
-- zilele (pascalia, regulile de dată, mutările, glasul, postul) nu se calculează încă;
-- nu există încă reguli de post pe tradiție și nici ciclul complet al lecturilor;
+- postul urmează doar modelul românesc, simplificat; celelalte tradiții primesc postul doar din calendarul oficial;
+- lecturile zilei (ciclul Apostolului și al Evangheliei) și numerotarea duminicilor după Rusalii (saltul lucan) nu se calculează încă; vin doar din calendarul oficial;
 - site-ul, wiki-ul, API-ul și fișierele ICS nu se generează încă;
 - schemele nu au `$id`; se leagă între ele prin căi relative.

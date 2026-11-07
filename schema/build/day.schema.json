@@ -1,0 +1,95 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Generated day",
+  "description": "One civil day of one tradition, as written by tools/generate.ts to build/days/<tradition>/<year>/<MM-DD>.json (the yearly file is an array of these).",
+  "type": "object",
+  "properties": {
+    "date": {
+      "description": "Civil (Gregorian) date.",
+      "$ref": "../common/defs.schema.json#/$defs/isoDate"
+    },
+    "weekday": { "$ref": "../common/defs.schema.json#/$defs/weekday" },
+    "tradition": { "$ref": "../common/defs.schema.json#/$defs/traditionId" },
+    "church_calendar": {
+      "description": "Calendar in which church_date is expressed on this day (the old style before a tradition's calendar reform).",
+      "$ref": "../common/defs.schema.json#/$defs/calendarStyle"
+    },
+    "church_date": {
+      "description": "Menaion date (or Coptic / Ethiopian date) of the day, MM-DD.",
+      "type": "string",
+      "pattern": "^(?:0[1-9]|1[0-3])-(?:0[1-9]|[12][0-9]|3[01])$"
+    },
+    "julian_date": {
+      "description": "The same day in the Julian calendar (old style).",
+      "type": "string",
+      "pattern": "^-?[0-9]{4}-(?:0[1-9]|1[0-2])-(?:0[1-9]|[12][0-9]|3[01])$"
+    },
+    "pascha_offset": {
+      "description": "Days from Pascha of the civil year (negative before it).",
+      "type": "integer"
+    },
+    "lines": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "commemorations": {
+            "type": "array",
+            "items": { "$ref": "../common/defs.schema.json#/$defs/commRef" },
+            "minItems": 1
+          },
+          "symbol": { "$ref": "../common/defs.schema.json#/$defs/slug" },
+          "rank": { "$ref": "../common/defs.schema.json#/$defs/typikonRank" },
+          "transferred_from": { "$ref": "../common/defs.schema.json#/$defs/isoDate" }
+        },
+        "required": ["commemorations"],
+        "additionalProperties": false
+      }
+    },
+    "ongoing": {
+      "description": "Periods in progress, e.g. day 3 of the 5 days of a forefeast.",
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "commemoration": { "$ref": "../common/defs.schema.json#/$defs/commRef" },
+          "day": { "type": "integer", "minimum": 2 },
+          "of": { "type": "integer", "minimum": 2 }
+        },
+        "required": ["commemoration", "day", "of"],
+        "additionalProperties": false
+      }
+    },
+    "tone": { "type": "integer", "minimum": 1, "maximum": 8 },
+    "eothinon": { "type": "integer", "minimum": 1, "maximum": 11 },
+    "fasting": { "$ref": "../common/defs.schema.json#/$defs/fastingLevel" },
+    "readings": {
+      "type": "array",
+      "items": { "$ref": "../common/defs.schema.json#/$defs/reading" }
+    },
+    "sunday_after_pentecost": { "type": "integer", "minimum": 1, "maximum": 40 },
+    "flags": {
+      "type": "object",
+      "properties": {
+        "public_holiday": { "type": "boolean" },
+        "aliturgical": { "type": "boolean" },
+        "weddings_allowed": { "type": "boolean" }
+      },
+      "additionalProperties": false
+    },
+    "observances": {
+      "type": "array",
+      "items": { "$ref": "../common/defs.schema.json#/$defs/slug" }
+    },
+    "notes": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1 }
+    },
+    "official": {
+      "description": "Present when facts from the tradition's official calendar (overrides) were applied to this day.",
+      "const": true
+    }
+  },
+  "required": ["date", "weekday", "tradition", "church_calendar", "church_date", "julian_date", "pascha_offset", "lines"],
+  "additionalProperties": false
+}

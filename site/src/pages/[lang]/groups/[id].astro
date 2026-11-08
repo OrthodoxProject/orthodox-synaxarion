@@ -6,15 +6,22 @@ import Provenance from "../../../components/Provenance.astro";
 import Texts from "../../../components/Texts.astro";
 import Base from "../../../layouts/Base.astro";
 import { commName, holinessText, languageName, linkOf, localeOf, nameOf, vocab } from "../../../lib/format.ts";
-import { commemorationsOf, href, idsOf, record } from "../../../lib/site.ts";
+import { redirectPage } from "../../../lib/redirect.ts";
+import { aliasesOf, commemorationsOf, href, idsOf, record } from "../../../lib/site.ts";
 import { LANGS, t, type Lang } from "../../../lib/ui.ts";
 
 export function getStaticPaths() {
-  return LANGS.flatMap((lang) => idsOf("groups").map((id) => ({ params: { lang, id } })));
+  return LANGS.flatMap((lang) => [
+    ...idsOf("groups").map((id) => ({ params: { lang, id } })),
+    ...aliasesOf("groups").map(({ alias, id }) => ({ params: { lang, id: alias }, props: { movedTo: `group:${id}` } })),
+  ]);
 }
 
 type Rec = Record<string, any>;
 const lang = Astro.params.lang as Lang;
+// The old address of a former id leads to the group's page.
+const { movedTo } = Astro.props as { movedTo?: string };
+if (movedTo) return redirectPage(movedTo, lang);
 const id = Astro.params.id as string;
 const ref = `group:${id}`;
 const rec = record("groups", id) as Rec;

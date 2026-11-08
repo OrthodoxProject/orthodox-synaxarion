@@ -62,6 +62,8 @@ The website is in Romanian and English:
 
 Day pages are built for the current year and the next one; set `SITE_YEARS=2026,2027` to choose other years. Machine translations are left out until someone has reviewed them.
 
+Old addresses keep working: each former id in the `aliases` of a person, group or commemoration (for instance a duplicate merged into it) keeps a small page at `/<lang>/saints/<alias>/`, `/<lang>/groups/<alias>/` or `/<lang>/feasts/<alias>/` that sends the reader on to the record's page in the same language (for a saint's day, the saint's page). These pages are marked `noindex` and are left out of the search and the lists.
+
 Pages end with a "Report a mistake" link to the correction form among the repository's issues, with the page's public address already filled in as the place of the mistake (on the home page, the address of today's day page).
 
 ### Publishing on GitHub Pages

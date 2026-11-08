@@ -56,7 +56,7 @@ Exemple de urmărit: [persons/lazarus-of-galesion.json](../data/persons/lazarus-
 ## Convenții
 
 - **Straturi**: fișierele din afara `i18n/` nu conțin text de afișat, doar coduri, date, numere, ID-uri și URL-uri. Orice text pentru cititor stă în `i18n/<limbă>/`.
-- **ID-uri**: litere mici, cifre și cratimă, în engleză (`nicholas-of-myra`). Cratima dublă separă o parte a aceleiași entități (`nicholas-of-myra--translation-of-relics`). Un ID publicat nu se mai schimbă; dacă trebuie, vechiul ID trece în `aliases`.
+- **ID-uri**: litere mici, cifre și cratimă, în engleză (`nicholas-of-myra`). Cratima dublă separă o parte a aceleiași entități (`nicholas-of-myra--translation-of-relics`). Un ID publicat nu se mai schimbă; dacă trebuie, vechiul ID trece în `aliases`, iar adresa lui de pe site duce mai departe la pagina înregistrării.
 - **Coduri** de vocabular: litere mici și underscore (`great_martyr`, `gospel_book`). Fiecare cod are etichetă în `i18n/<limbă>/vocab.json`, sub cheia `<spațiu>.<cod>` (ex. `holiness_type.great_martyr`).
 - **Referințe**: cu prefixul tipului: `person:`, `group:`, `comm:`, `place:`, `icon:`, `hymn:`, `src:`, `media:`. Tradițiile se scriu fără prefix (`romanian`).
 - **O singură direcție**: pomenirea indică persoana (`subjects`), copilul indică părintele (`child_of`). Legăturile inverse (pomenirile unui sfânt, `parent_of`) se calculează.

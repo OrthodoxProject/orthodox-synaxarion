@@ -104,6 +104,11 @@ export function idsOf(collection: string): string[] {
   return [...(ds().records.get(collection as never)?.keys() ?? [])];
 }
 
+/** Former ids of a collection's records (their aliases), each with the id of the record that has it now. */
+export function aliasesOf(collection: string): Array<{ alias: string; id: string }> {
+  return [...(ds().records.get(collection as never) ?? [])].flatMap(([id, rec]) => ((rec.aliases ?? []) as string[]).map((alias) => ({ alias, id })));
+}
+
 /** Groups that a person belongs to. */
 export function groupsOf(personRef: string): string[] {
   const out: string[] = [];

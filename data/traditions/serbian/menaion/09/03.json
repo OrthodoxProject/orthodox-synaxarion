@@ -4,11 +4,6 @@
   "entries": [
     {
       "commemorations": [
-        "comm:raphael-of-sisatovac--09-03"
-      ]
-    },
-    {
-      "commemorations": [
         "comm:anthimus-of-nicomedia--repose"
       ],
       "confidence": "low"
@@ -24,6 +19,11 @@
         "comm:pisidia-icon-of-theotokos"
       ],
       "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:joannicius-of-serbia--09-03"
+      ]
     }
   ]
 }

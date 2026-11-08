@@ -2,12 +2,12 @@
   "id": "herman-2--repose",
   "kind": "repose",
   "subjects": [
-    "person:herman-2"
+    "person:herman-of-alaska"
   ],
   "date_rule": {
     "type": "fixed",
     "month": 12,
-    "day": 25
+    "day": 12
   },
   "sources": [
     {

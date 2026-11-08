@@ -4,19 +4,14 @@
   "entries": [
     {
       "commemorations": [
-        "comm:theodore-of-vrsac-2--repose"
-      ]
-    },
-    {
-      "commemorations": [
-        "comm:vukasin-of-klepci-2--repose"
-      ]
-    },
-    {
-      "commemorations": [
         "comm:theodosia-of-tyre--repose"
       ],
       "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:ipomoni--05-29"
+      ]
     }
   ]
 }

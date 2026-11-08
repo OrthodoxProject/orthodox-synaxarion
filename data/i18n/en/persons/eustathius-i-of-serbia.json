@@ -2,12 +2,9 @@
   "id": "eustathius-i-of-serbia",
   "locale": "en",
   "names": {
-    "display": "Repose of Saint Eustathius I, Archbishop of Serbia",
+    "display": "Saint Eustathius I, Archbishop of Serbia",
     "short": "Eustathius I, Archbishop of Serbia",
-    "given": "Eustathius",
-    "variants": [
-      "Saint Eustathius of Serbia"
-    ]
+    "given": "Eustathius"
   },
   "references": [
     {
@@ -18,6 +15,11 @@
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/08/16/108056-saint-eustathius-of-serbia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
       "accessed": "2026-11-08"
     }
   ],

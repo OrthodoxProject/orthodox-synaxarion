@@ -19,6 +19,11 @@
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/08/28/102417-martyr-susanna-queen-of-georgia",
       "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/17/206389-martyr-susanna-queen-of-georgia",
+      "accessed": "2026-11-08"
     }
   ],
   "editorial": {
@@ -27,5 +32,8 @@
     "notes": [
       "Importat automat din doxologia.ro, oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "susanna-3"
+  ]
 }

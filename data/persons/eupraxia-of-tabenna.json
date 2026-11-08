@@ -24,6 +24,11 @@
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/07/25/102088-virgin-martyr-eupraxia-of-tabenna",
       "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/12/100160-venerable-eupraxia-of-tabenna-in-egypt",
+      "accessed": "2026-11-08"
     }
   ],
   "editorial": {
@@ -32,5 +37,8 @@
     "notes": [
       "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "eupraxia-of-tabenna-2"
+  ]
 }

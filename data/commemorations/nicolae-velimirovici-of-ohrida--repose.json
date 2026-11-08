@@ -19,6 +19,15 @@
       "source": "src:calendar-patriarhia",
       "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ier-chiril-arhiepiscopul-ierusalimului/",
       "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nicholas_of_Ohrid_and_%C5%BDi%C4%8Da"
     }
   ],
   "editorial": {
@@ -27,5 +36,8 @@
     "notes": [
       "Importat automat din doxologia.ro, calendar.patriarhia.ro; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "nicholas-of-ohrid-and-zica"
+  ]
 }

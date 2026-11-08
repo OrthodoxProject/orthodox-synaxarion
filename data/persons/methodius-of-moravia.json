@@ -6,12 +6,23 @@
     "equal_to_apostles"
   ],
   "external_ids": {
-    "oca": "101009"
+    "oca": "101009",
+    "doxologia": "sfantul-ierarh-metodie-apostolul-slavilor"
   },
   "sources": [
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/04/06/101009-saint-methodius-equal-of-the-apostles-archbishop-of-moravia-enli",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-metodie-apostolul-slavilor",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-dionisie-vatopedinul-de-la-colciu-sf-sfintit-mc-mochie-preotul-sf-ier-metodie-si-sf-cuv-chiril-luminatorii-slavilor/",
       "accessed": "2026-11-08"
     }
   ],
@@ -22,5 +33,8 @@
       "Importat automat din oca.org; de verificat.",
       "Genul nu reiese din sursă; e de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "metodie"
+  ]
 }

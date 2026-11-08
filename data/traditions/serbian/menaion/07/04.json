@@ -4,11 +4,6 @@
   "entries": [
     {
       "commemorations": [
-        "comm:anastasia-of-serbia--07-04"
-      ]
-    },
-    {
-      "commemorations": [
         "comm:andrew-of-crete--repose"
       ],
       "confidence": "low"
@@ -30,6 +25,21 @@
         "comm:icon-of-theotokos-of-galatea"
       ],
       "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:george-2--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:savva-of-gornjikarlovci--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:stanislav-of-licka-jesenica--repose"
+      ]
     }
   ]
 }

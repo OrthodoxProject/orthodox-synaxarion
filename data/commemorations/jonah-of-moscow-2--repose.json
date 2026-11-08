@@ -2,7 +2,7 @@
   "id": "jonah-of-moscow-2--repose",
   "kind": "repose",
   "subjects": [
-    "person:jonah-of-moscow-2"
+    "person:jonah-of-moscow"
   ],
   "date_rule": {
     "type": "fixed",
@@ -17,6 +17,11 @@
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/06/15/101725-saint-jonah-metropolitan-of-moscow",
       "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/russian_saints.json",
+      "accessed": "2026-11-08"
     }
   ],
   "editorial": {
@@ -25,5 +30,8 @@
     "notes": [
       "Importat automat din oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "jonah-3--repose"
+  ]
 }

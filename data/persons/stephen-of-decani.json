@@ -19,6 +19,11 @@
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/11/11/103284-repose-of-saint-stephen-of-deani-serbia",
       "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
     }
   ],
   "editorial": {
@@ -28,5 +33,8 @@
       "Importat automat din doxologia.ro, oca.org; de verificat.",
       "Chipul sfințeniei nu reiese din titlu; „righteous” e provizoriu."
     ]
-  }
+  },
+  "aliases": [
+    "stephen-of-decani-2"
+  ]
 }

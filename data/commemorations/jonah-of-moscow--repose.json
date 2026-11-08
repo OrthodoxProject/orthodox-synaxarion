@@ -22,6 +22,15 @@
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/03/31/100955-repose-of-saint-jonah-metropolitan-of-moscow-and-all-russia",
       "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/russian_saints.json",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jonah_of_Moscow"
     }
   ],
   "editorial": {
@@ -30,5 +39,8 @@
     "notes": [
       "Importat automat din doxologia.ro, oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "jonah-of-moscow-2--04-13"
+  ]
 }

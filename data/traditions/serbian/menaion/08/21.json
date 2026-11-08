@@ -4,16 +4,6 @@
   "entries": [
     {
       "commemorations": [
-        "comm:jacob-the-new-of-tuman--repose"
-      ]
-    },
-    {
-      "commemorations": [
-        "comm:zosimus-of-tuman--repose"
-      ]
-    },
-    {
-      "commemorations": [
         "comm:thaddeus-of-the-seventy--08-21"
       ],
       "confidence": "low"
@@ -23,6 +13,11 @@
         "comm:bassa-of-edessa--repose"
       ],
       "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:raphael-of-sisatovac--repose"
+      ]
     }
   ]
 }

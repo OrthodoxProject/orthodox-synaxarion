@@ -285,6 +285,11 @@ export class RecordWriter {
         base = `${subject}--${c.kind === "relics_translation" ? "translation-of-relics" : "finding-of-relics"}`;
         break;
       }
+      case "glorification": {
+        const subject = c.subjectSlots[0] ? this.personId(c.subjectSlots[0]) : c.subjectGroup ? this.groupId(c.subjectGroup, c.family) : shortSlug(c.titles.en ?? c.titles.ro ?? "saint");
+        base = `${subject}--glorification`;
+        break;
+      }
       case "synaxis": {
         const subject = c.subjectGroup ? this.groupId(c.subjectGroup, c.family) : c.subjectSlots[0] ? this.personId(c.subjectSlots[0]) : shortSlug(c.titles.en ?? c.titles.ro ?? "synaxis");
         base = `synaxis-of-${subject.replace(/^synaxis-of-/, "").replace(/^of-/, "")}`;
@@ -593,6 +598,7 @@ function commemorationKind(c: Cluster, subjects: string[]): string {
       return subjects.length > 0 ? "synaxis" : "event";
     case "relics_translation":
     case "relics_finding":
+    case "glorification":
       return subjects.length > 0 ? c.kind : "event";
     case "angels":
       return subjects.length > 0 ? "angels" : "event";

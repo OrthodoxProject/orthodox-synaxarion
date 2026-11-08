@@ -6,12 +6,18 @@
     "hierarch"
   ],
   "external_ids": {
-    "doxologia": "sfantul-vladimir-mitropolitul-kievului"
+    "doxologia": "sfantul-vladimir-mitropolitul-kievului",
+    "oca": "100311"
   },
   "sources": [
     {
       "source": "src:doxologia",
       "url": "https://doxologia.ro/sfantul-vladimir-mitropolitul-kievului",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/25/100311-saint-vladimir-metropolitan-of-kiev-and-gallich",
       "accessed": "2026-11-08"
     }
   ],
@@ -21,5 +27,8 @@
     "notes": [
       "Importat automat din doxologia.ro; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "vladimir-of-kiev-2"
+  ]
 }

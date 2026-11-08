@@ -2,7 +2,7 @@
   "id": "ana--repose",
   "kind": "repose",
   "subjects": [
-    "person:ana"
+    "person:anna"
   ],
   "date_rule": {
     "type": "fixed",
@@ -19,6 +19,11 @@
       "source": "src:calendar-patriarhia",
       "url": "https://calendar.patriarhia.ro/calendar-entry-26/adormirea-sfintei-ana-mama-preasfintei-nascatoare-de-dumnezeu-sf-parinti-de-la-sinodul-al-v-lea-ecumenic-sf-cuv-olimpiada-si-eupraxia/",
       "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/25/102086-dormition-of-the-righteous-anna-the-mother-of-the-most-holy-theo",
+      "accessed": "2026-11-08"
     }
   ],
   "editorial": {
@@ -27,5 +32,11 @@
     "notes": [
       "Importat automat din doxologia.ro, calendar.patriarhia.ro; de verificat."
     ]
+  },
+  "aliases": [
+    "anna-3--repose"
+  ],
+  "external_ids": {
+    "oca": "102086"
   }
 }

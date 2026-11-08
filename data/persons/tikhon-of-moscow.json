@@ -13,6 +13,16 @@
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/04/07/101016-repose-of-saint-tikhon-patriarch-of-moscow-enlightener-of-north",
       "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/09/102906-glorification-of-saint-tikhon-patriarch-of-moscow-and-all-russia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/russian_saints.json",
+      "accessed": "2026-11-08"
     }
   ],
   "editorial": {
@@ -22,5 +32,9 @@
       "Importat automat din oca.org; de verificat.",
       "Genul nu reiese din sursă; e de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "tikhon-of-moscow-2",
+    "confessor-hieromartyr-tikhon-of-moscow"
+  ]
 }

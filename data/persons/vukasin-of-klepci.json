@@ -19,6 +19,11 @@
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/05/16/108045-new-martyr-vukasin-of-klepci-serbia",
       "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
     }
   ],
   "editorial": {
@@ -27,5 +32,8 @@
     "notes": [
       "Importat automat din doxologia.ro, oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "vukasin-of-klepci-2"
+  ]
 }

@@ -18,6 +18,15 @@
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/06/04/205314-hieromartyr-joanicus-metropolitan-of-montenegro-and-the-coast",
       "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Joannicius_I_of_Montenegro_%D0%88"
     }
   ],
   "editorial": {
@@ -26,5 +35,8 @@
     "notes": [
       "Importat automat din oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "joannicius-i-of-montenegro--repose"
+  ]
 }

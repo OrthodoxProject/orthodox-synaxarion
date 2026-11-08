@@ -3,8 +3,8 @@
   "kind": "event",
   "date_rule": {
     "type": "fixed",
-    "month": 4,
-    "day": 6
+    "month": 3,
+    "day": 24
   },
   "sources": [
     {

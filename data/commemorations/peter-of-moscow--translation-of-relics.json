@@ -17,6 +17,11 @@
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/08/24/102384-translation-of-the-relics-of-saint-peter-metropolitan-of-moscow",
       "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/russian_saints.json",
+      "accessed": "2026-11-08"
     }
   ],
   "editorial": {
@@ -25,5 +30,8 @@
     "notes": [
       "Importat automat din oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "trans-rel-peter--repose"
+  ]
 }

@@ -11,6 +11,11 @@
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/09/27/148988-new-martyr-aquilina",
       "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/russian_saints.json",
+      "accessed": "2026-11-08"
     }
   ],
   "translation": {

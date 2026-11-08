@@ -19,6 +19,11 @@
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/12/21/103604-repose-of-saint-peter-metropolitan-of-moscow-wonderworker-of-all",
       "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/russian_saints.json",
+      "accessed": "2026-11-08"
     }
   ],
   "editorial": {
@@ -27,5 +32,9 @@
     "notes": [
       "Importat automat din doxologia.ro, oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "peter-of-moscow-2",
+    "trans-rel-peter"
+  ]
 }

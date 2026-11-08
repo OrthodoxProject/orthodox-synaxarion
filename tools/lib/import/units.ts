@@ -3,7 +3,7 @@
  * writes it, with its church date, its parsed title and its link.
  */
 import { parseEn } from "./en.ts";
-import type { ParsedTitle } from "./model.ts";
+import type { HolinessType, ParsedTitle } from "./model.ts";
 import { parseRo } from "./ro.ts";
 import type { ArmenianEntry } from "./sources/armenian.ts";
 import { copticUrl, type CopticEntry } from "./sources/coptic.ts";
@@ -41,6 +41,10 @@ export interface Unit {
   taklaUrl?: string;
   /** For the orthodox-calendar lists: the tradition they complete. */
   tradition?: string;
+  /** For the lists of Julian-calendar Churches: the civil date as listed (month and day are the Menaion date). */
+  listed?: { month: number; day: number };
+  /** The kind of holiness comes from the list's "feast_type", not from the title. */
+  holinessFromList?: boolean;
   armenianMonth?: string;
   /** For patriarhia items: cross and colour. */
   cross?: string | null;
@@ -233,7 +237,7 @@ export function parseCopticTitle(title: string): ParsedTitle {
   }
   const turning = /^(?:The )?Turning Over of the (?:Relics|Body) of (?:the )?(.*?)(?: by \w+.*)?$/i.exec(t);
   if (turning?.[1]) return { kind: "relics_translation", holiness: [], plural: false, honorific: "", rest: t, names: [], title, subject: parseEn(stripCopticTitles(turning[1])) };
-  if (/^(?:The )?(?:Appearance|Apparition|Translocation|Translation|Transfer|Return)\b/i.test(t)) {
+  if (/^(?:The )?(?:Appearance|Apparition|Translocation|Relocation|Translation|Transfer|Return)\b/i.test(t)) {
     const p = parseEn(t);
     return { ...p, title };
   }
@@ -266,23 +270,90 @@ export function armenianUnits(data: SourceData): Unit[] {
   });
 }
 
+/**
+ * The lists of the Russian and Serbian Churches ("calendar": "julian") give the
+ * civil date on which these Churches keep the feast: the Menaion date plus 13
+ * days (Sf. Serafim de Sarov is listed on 15 January, his day is 2 January).
+ * The lists count as in a leap year: 1 March is 17 February.
+ */
+export function julianMenaionDate(month: number, day: number): { month: number; day: number } {
+  const date = new Date(Date.UTC(2028, month - 1, day) - 13 * 86_400_000);
+  return { month: date.getUTCMonth() + 1, day: date.getUTCDate() };
+}
+
+const OVERLAY_WORDS: Array<[RegExp, string]> = [
+  [/^Unc\.\s*Rel\.\s*/, "Uncovering of the relics of "],
+  [/^Trans\.\s*Rel\.\s*/, "Translation of the relics of "],
+  [/^Repose (?=St\b|Saint\b)/, "Repose of "],
+  [/\bRt\.\s*Blv\.\s*/g, "Right-believing "],
+  [/\bBl\.\s*/g, "Blessed "],
+  [/\bVen\.\s*/g, "Venerable "],
+  [/\bMetrs\.\s*/g, "Metropolitans of "],
+  [/\bMetr\.\s*/g, "Metropolitan "],
+  // "Ss Peter, Aleksy, Jonah, Philip, Germogen, Metrs. Moscow": the synaxis of the hierarchs of Moscow.
+  [/^Ss\s+(.+),\s*Metropolitans of (\S+)$/, "Synaxis of the Hierarchs of $2: $1"],
+  [/^Ss\s+/, "Saints "],
+];
+
+/**
+ * A title of the orthodox-calendar lists without what is not a name: years
+ * ("(1326)", "(18th c.)"), dates of the old calendar, link marks copied from
+ * Wikipedia ("[ sr ; bg ]", "Ј") and abbreviations ("Ven.", "Metr.").
+ */
+export function cleanOverlayTitle(title: string): string {
+  let t = title
+    .replace(/\s*\[[^\]]*\]?/g, " ")
+    .replace(/\s+Ј(?=\s|$)/gu, " ")
+    .replace(/\s*\((?:ca\.\s*)?\d{3,4}(?:\s*(?:and|[-–])\s*\d{2,4})*\)/g, " ")
+    .replace(/\s*\(\d{1,2}(?:st|nd|rd|th) c\.\)/g, " ")
+    .replace(/\s*\([A-Z][a-z]+ \d{1,2} OC\)/g, " ")
+    .replace(/\s*\(\?\)/g, " ")
+    .replace(/\s+\d+$/, "")
+    .replace(/\s+/g, " ")
+    .replace(/\s+([,.])/g, "$1")
+    .trim();
+  for (const [re, word] of OVERLAY_WORDS) t = t.replace(re, word);
+  return t.replace(/\s+/g, " ").replace(/\.$/, "").trim();
+}
+
+/** The kind of holiness the lists give apart from the title ("feast_type"). */
+const FEAST_TYPES: Record<string, HolinessType[]> = {
+  Venerable: ["venerable"],
+  Martyr: ["martyr"],
+  "New Martyr": ["new_martyr", "martyr"],
+  Hieromartyr: ["hieromartyr"],
+  Confessor: ["confessor"],
+  Hierarch: ["hierarch"],
+  Righteous: ["righteous"],
+};
+
 export function overlayUnits(data: SourceData): Unit[] {
   return data.overlays.map((e) => {
-    const parsed = parseEn(e.title);
+    const title = cleanOverlayTitle(e.title);
+    const first = parseEn(title);
+    const parsed = first.kind === "skip" ? { ...parseEn(cleanOverlayTitle(e.name)), title } : first;
+    // Bare names ("Basil of Ostrog") take the kind of holiness from the list.
+    const listHoliness = FEAST_TYPES[e.feastType ?? ""] ?? [];
+    const fromList = parsed.holiness.length === 0 && listHoliness.length > 0 && (parsed.kind === "saint" || parsed.kind === "saints" || parsed.kind === "group");
+    if (fromList) parsed.holiness = [...listHoliness];
+    const date = e.calendar === "julian" ? julianMenaionDate(e.month, e.day) : { month: e.month, day: e.day };
     const unit: Unit = {
       uid: `overlay:${e.tradition}:${mmdd(e.month, e.day)}#${e.order}`,
       source: "overlay",
       family: "byzantine",
       lang: "en",
-      title: e.title,
-      parsed: parsed.kind === "skip" ? { ...parseEn(e.name), title: e.title } : parsed,
-      month: e.month,
-      day: e.day,
+      title,
+      parsed,
+      month: date.month,
+      day: date.day,
       order: e.order,
       citation: { source: "src:orthodox-calendar", locator: `backend/app/data/traditions/${e.file}`, accessed: data.accessed },
       ext: {},
       tradition: e.tradition,
     };
+    if (e.calendar === "julian") unit.listed = { month: e.month, day: e.day };
+    if (fromList) unit.holinessFromList = true;
+    if (date.month === 2 && date.day === 29) unit.leapDay = true;
     if (e.url) unit.url = e.url;
     return unit;
   });

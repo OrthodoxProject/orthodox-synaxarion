@@ -7,12 +7,13 @@ import { parseEn } from "../tools/lib/import/en.ts";
 import { loadExisting } from "../tools/lib/import/existing.ts";
 import { fastingNote, mergeFasting, officialFasting } from "../tools/lib/import/fasting.ts";
 import { givenSimilarity, skeleton } from "../tools/lib/import/names.ts";
+import { RecordWriter } from "../tools/lib/import/records.ts";
 import { abbreviateRo, parseRo } from "../tools/lib/import/ro.ts";
 import { isAllowed, parseRobots } from "../tools/lib/import/robots.ts";
 import { parseMonth } from "../tools/lib/import/sources/doxologia.ts";
 import { parseDay } from "../tools/lib/import/sources/oca.ts";
 import { splitTitle, type PatriarhiaDay, type PatriarhiaItem } from "../tools/lib/import/sources/patriarhia.ts";
-import { doxologiaUnits, ocaUnits, type SourceData } from "../tools/lib/import/units.ts";
+import { cleanOverlayTitle, doxologiaUnits, julianMenaionDate, ocaUnits, overlayUnits, type SourceData } from "../tools/lib/import/units.ts";
 import { REPO_ROOT } from "../tools/lib/validate.ts";
 
 describe("robots.txt", () => {
@@ -116,6 +117,37 @@ describe("English titles", () => {
     assert.equal(parseEn("Feast of the Theophany of our Lord and Savior Jesus Christ").feast, "theophany");
     assert.equal(parseEn("Translation of the relics of Saint John Chrysostom, Archbishop of Constantinople").kind, "relics_translation");
     assert.equal(parseEn("Sunday of the Prodigal Son").kind, "movable");
+  });
+  it("names the saint of a repose without the word repose", () => {
+    const p = parseEn("Repose of Venerable Seraphim, Wonderworker of Sarov");
+    assert.equal(p.kind, "saint");
+    assert.equal(p.title, "Venerable Seraphim, Wonderworker of Sarov");
+    assert.equal(parseRo("Adormirea Sfintei Ana, mama Preasfintei Născătoare de Dumnezeu").title, "Sfânta Ana, mama Preasfintei Născătoare de Dumnezeu");
+  });
+  it("keeps glorifications and events apart from the saints' days", () => {
+    const g = parseEn("Glorification of Saint John of Kronstadt");
+    assert.equal(g.kind, "glorification");
+    assert.equal(g.subject?.names[0]?.given, "John");
+    assert.equal(parseEn("Commemoration of the Great Earthquake at Constantinople").kind, "event");
+    assert.equal(parseEn("Relocation of the relics of St. John Chrysostom").kind, "relics_translation");
+  });
+  it("does not take a place for a second saint", () => {
+    assert.equal(parseEn("Nicholas of Ohrid and Žiča").names.length, 1);
+    assert.equal(parseEn("Holy New Martyr Gorazd, Bishop of Slovakia and the Czech Lands").names.length, 1);
+  });
+});
+
+describe("the orthodox-calendar lists", () => {
+  it("give the civil date of the Julian calendar, 13 days after the Menaion date", () => {
+    assert.deepEqual(julianMenaionDate(1, 15), { month: 1, day: 2 });
+    assert.deepEqual(julianMenaionDate(1, 2), { month: 12, day: 20 });
+    assert.deepEqual(julianMenaionDate(3, 1), { month: 2, day: 17 });
+  });
+  it("lose years, link marks and abbreviations in their titles", () => {
+    assert.equal(cleanOverlayTitle("Our Holy Father Peter, Metropolitan of Moscow (1326)"), "Our Holy Father Peter, Metropolitan of Moscow");
+    assert.equal(cleanOverlayTitle("Nicanor of Hilandar [ sr ; bg ]"), "Nicanor of Hilandar");
+    assert.equal(cleanOverlayTitle("Eustathius I Ј"), "Eustathius I");
+    assert.equal(cleanOverlayTitle("Ven. Zosima of Solovetsk"), "Venerable Zosima of Solovetsk");
   });
 });
 
@@ -245,5 +277,36 @@ describe("matching the sources", () => {
     const russian = builder.lines.get("russian")?.get("01-15") ?? [];
     assert.equal(russian.length, 1);
     assert.equal(russian[0]?.clusters.length, 2);
+  });
+
+  it("finds a saint of the Russian list on the Menaion date, not on the civil date (St Seraphim of Sarov)", () => {
+    const seraphim: SourceData = {
+      accessed: "2026-11-08",
+      patriarhia: [],
+      doxologia: [{ slug: "sfantul-cuvios-serafim-de-sarov", title: "Sfântul Cuvios Serafim de Sarov", month: 1, day: 2, order: 0, color: null, cross: null, secondRow: false }],
+      oca: [2026, 2028].map((year) => ({ id: "100008", title: "Repose of Venerable Seraphim, Wonderworker of Sarov", path: `/saints/lives/${year}/01/02/100008-repose`, year, month: 1, day: 2, order: 0 })),
+      coptic: [],
+      armenian: [],
+      // The list gives 15 January: the civil date on which the Russian Church keeps 2 January.
+      overlays: [{ tradition: "russian", file: "russian_saints.json", calendar: "julian", month: 1, day: 15, order: 0, name: "Repose of St Seraphim of Sarov", title: "Repose of St Seraphim of Sarov", url: "https://en.wikipedia.org/wiki/Seraphim_of_Sarov", feastType: "Saint" }],
+    };
+    const existing = loadExisting(join(REPO_ROOT, "tests", "fixtures", "minimal", "data"));
+    const builder = new Builder(existing);
+    builder.romanian(doxologiaUnits(seraphim), [], [{ month: 1, day: 2 }]);
+    builder.russian(ocaUnits(seraphim, [2026, 2028]).fixed);
+    builder.overlay(overlayUnits(seraphim));
+
+    // One saint and one commemoration: the list's line is the day doxologia and the OCA already give.
+    const clusters = builder.clusters.filter((c) => c.units.some((u) => u.source === "overlay"));
+    assert.equal(clusters.length, 1);
+    assert.deepEqual(clusters[0]?.units.map((u) => u.source).sort(), ["doxologia", "oca", "overlay"]);
+    assert.equal(builder.lines.get("russian")?.get("01-15"), undefined);
+    assert.equal(builder.lines.get("russian")?.get("01-02")?.[0]?.clusters[0], clusters[0]);
+
+    // The person is named as a saint, not as the commemoration of his repose.
+    const output = new RecordWriter(existing, { clusters: builder.clusters, lines: builder.lines, movable: builder.movable, stats: builder.stats }).write();
+    const persons = [...output.files.keys()].filter((k) => k.startsWith("persons/"));
+    assert.deepEqual(persons, ["persons/seraphim-of-sarov.json"]);
+    assert.equal(output.files.get("i18n/en/persons/seraphim-of-sarov.json")?.names.display, "Venerable Seraphim, Wonderworker of Sarov");
   });
 });

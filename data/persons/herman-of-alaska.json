@@ -19,6 +19,16 @@
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/12/13/103530-repose-of-venerable-herman-of-alaska-wonderworker-of-all-america",
       "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/09/102241-glorification-of-venerable-herman-of-alaska-wonderworker-of-all",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/russian_saints.json",
+      "accessed": "2026-11-08"
     }
   ],
   "editorial": {
@@ -27,5 +37,9 @@
     "notes": [
       "Importat automat din doxologia.ro, oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "herman-of-alaska-2",
+    "herman-2"
+  ]
 }

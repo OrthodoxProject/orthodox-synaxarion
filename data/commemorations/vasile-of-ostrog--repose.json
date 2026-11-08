@@ -14,6 +14,15 @@
       "source": "src:doxologia",
       "url": "https://doxologia.ro/sfantul-ierarh-vasile-de-ostrog",
       "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Basil_of_Ostrog"
     }
   ],
   "editorial": {
@@ -22,5 +31,8 @@
     "notes": [
       "Importat automat din doxologia.ro; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "basil-of-ostrog--repose"
+  ]
 }

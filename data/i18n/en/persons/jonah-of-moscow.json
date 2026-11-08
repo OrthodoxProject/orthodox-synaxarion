@@ -2,14 +2,27 @@
   "id": "jonah-of-moscow",
   "locale": "en",
   "names": {
-    "display": "Repose of Saint Jonah, Metropolitan of Moscow and All Russia",
+    "display": "Saint Jonah, Metropolitan of Moscow and All Russia",
     "short": "Jonah, Metropolitan of Moscow",
-    "given": "Jonah"
+    "given": "Jonah",
+    "variants": [
+      "Saint Jonah, Metropolitan of Moscow"
+    ]
   },
   "references": [
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/03/31/100955-repose-of-saint-jonah-metropolitan-of-moscow-and-all-russia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/15/101725-saint-jonah-metropolitan-of-moscow",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/russian_saints.json",
       "accessed": "2026-11-08"
     }
   ],

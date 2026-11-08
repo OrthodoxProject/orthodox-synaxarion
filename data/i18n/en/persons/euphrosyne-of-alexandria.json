@@ -4,12 +4,25 @@
   "names": {
     "display": "Venerable Euphrosyne of Alexandria",
     "short": "Euphrosyne of Alexandria",
-    "given": "Euphrosyne"
+    "given": "Euphrosyne",
+    "variants": [
+      "Venerable Euphrosynē of Alexandria"
+    ]
   },
   "references": [
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/09/25/102726-venerable-euphrosyne-of-alexandria",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/15/100528-venerable-paphnutius-and-euphrosyn-of-alexandria",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/11/102581-saint-euphrosynos-the-cook-of-alexandria",
       "accessed": "2026-11-08"
     }
   ],

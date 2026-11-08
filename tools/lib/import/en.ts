@@ -46,6 +46,7 @@ const HONORIFICS: Record<string, Honorific> = {
   abbess: { holiness: ["venerable"], gender: "female" },
   martyr: { holiness: ["martyr"] },
   martyrs: { holiness: ["martyr"], plural: true },
+  protomartyr: { holiness: ["martyr"] },
   martyred: { holiness: ["martyr"], plural: true },
   greatmartyr: { holiness: ["great_martyr"] },
   "great-martyr": { holiness: ["great_martyr"] },
@@ -246,7 +247,11 @@ function namePart(text: string, gender?: Gender): NamePart {
 
 function honorificOf(word: string): Honorific | undefined {
   const w = fold(word).replace(/[.,:;]+$/, "").replace(/^"|"$/g, "");
-  return HONORIFICS[w];
+  if (Object.hasOwn(HONORIFICS, w)) return HONORIFICS[w];
+  // "New Confessor/Hieromartyr Tikhon"
+  const parts = w.includes("/") ? w.split("/").map((x) => (Object.hasOwn(HONORIFICS, x) ? HONORIFICS[x] : undefined)) : [];
+  if (parts.length === 0 || parts.some((p) => !p)) return undefined;
+  return { holiness: parts.flatMap((p) => p?.holiness ?? []) };
 }
 
 export function splitEnHonorifics(title: string): { honorific: string; rest: string; holiness: Set<HolinessType>; gender?: Gender; plural: boolean; count?: number } {
@@ -333,7 +338,8 @@ export function splitEnNames(rest: string, gender?: Gender, plural = false): { n
     if (!seg) continue;
     if (/^(those|all|many|others|\d+|the \w+ (others|with)|(?:two|three|four|five|six|seven|eight|nine|ten|twelve) \w+)\b/i.test(seg) || /^(his|her|their) (companions|disciples)\b/i.test(seg)) break;
     const h = splitEnHonorifics(seg);
-    if (h.honorific && h.rest && /^[A-Z]/.test(h.rest)) {
+    // "and the Czech Lands": an article alone does not announce another saint.
+    if (h.honorific && !/^(?:the|our)$/i.test(h.honorific) && h.rest && /^[A-Z]/.test(h.rest)) {
       for (const x of h.holiness) holiness.add(x);
       seg = h.rest;
       if (names.length > 0 && (sep.includes("and") || plural)) {
@@ -358,8 +364,8 @@ export function splitEnNames(rest: string, gender?: Gender, plural = false): { n
       names[names.length - 1] += `${conj ? " and" : ","} ${seg}`;
       continue;
     }
-    // "of Pisma and Kostroma", "Bishop of Polotsk and Tver": a second place, not a second saint.
-    if (conj && !plural && /\b(?:of|at|in) [A-Z][\w'’-]*$/.test(previous) && /^[A-Z][\w'’-]*$/.test(seg)) {
+    // "of Pisma and Kostroma", "Bishop of Polotsk and Tver", "of Ohrid and Žiča": a second place, not a second saint.
+    if (conj && !plural && /\b(?:of|at|in) \p{Lu}[\p{L}'’-]*$/u.test(previous) && /^\p{Lu}[\p{L}'’-]*$/u.test(seg)) {
       names[names.length - 1] += ` and ${seg}`;
       continue;
     }
@@ -410,7 +416,7 @@ export function parseEn(original: string): ParsedTitle {
     return feast ? { ...base, kind: "leavetaking", feast } : { ...base, kind: "movable" };
   }
   if (/^(?:The )?Eve of\b/i.test(title)) return { ...base, kind: "movable" };
-  if (/^(?:The )?(?:Translation|Transfer|Translocation|Return|Transferal)\b.*\brelics?\b|^(?:The )?(?:Translation|Transfer|Translocation) of the (?:body|head|hand)/i.test(title)) {
+  if (/^(?:The )?(?:Translation|Transfer|Translocation|Relocation|Deposition|Return|Transferal)\b.*\brelics?\b|^(?:The )?(?:Translation|Transfer|Translocation|Relocation) of the (?:body|head|hand)/i.test(title)) {
     const subj = /\b(?:relics?|body|head|hand|remains) of (?:the |our )?(.*?)(?:,? (?:from|to|into|in) [A-Z].*)?$/i.exec(title);
     return { ...base, kind: "relics_translation", subject: parseEn(subj?.[1] ?? "") };
   }
@@ -442,18 +448,25 @@ export function parseEn(original: string): ParsedTitle {
     if (inner.kind === "skip") inner.kind = "group";
     return { ...base, kind: "synaxis", subject: inner };
   }
-  if ((m = /^(?:The )?(?:Repose|Falling Asleep|Dormition|Departure|Martyrdom|Translation to heaven|Glorification|Canonization) of (?:the |our )?(.*)$/i.exec(title))) {
+  if ((m = /^(?:The )?(?:Glorification|Canonization) of (?:the |our )?(.*)$|^(?:The )?Commemoration of the (?:glorification|canonization)\b.*?\bof (?:the |our )?(.*)$/i.exec(title))) {
+    const inner = parseEn(m[1] ?? m[2] ?? "");
+    if (inner.kind === "saint" || inner.kind === "saints" || inner.kind === "group") return { ...base, kind: "glorification", subject: inner };
+  }
+  if ((m = /^(?:The )?(?:Repose|Falling Asleep|Dormition|Departure|Martyrdom|Translation to heaven|Burial) of (?:the |our )?(.*)$/i.exec(title))) {
+    // The saint's own day: the saint keeps the name the title gives, without "Repose of".
     const inner = parseEn(m[1] ?? "");
-    if (inner.kind === "saint" || inner.kind === "saints" || inner.kind === "group") return { ...inner, title: original };
+    if (inner.kind === "saint" || inner.kind === "saints" || inner.kind === "group") return inner;
   }
   if ((m = /^(?:The )?Commemoration of (?:the )?(?:miracle|wonder|appearance|apparition)\b.*?\bof (?:the |our )?(.*)$/i.exec(title))) {
     return { ...base, kind: "event", subject: parseEn(m[1] ?? "") };
   }
-  if (/^(?:The )?(?:Commemoration|Consecration|Dedication|Feast|Anniversary|Council|Earthquake|Miracle|Appearance|Apparition|Restoration|Construction|Founding|Renewal|Building)\b/i.test(title)) {
+  if (/^(?:The )?(?:Commemoration|Consecration|Dedication|Feast|Anniversary|Council|Earthquake|Miracle|Appearance|Apparition|Restoration|Construction|Founding|Renewal|Building|Placing|Laying|Deposition)\b/i.test(title)) {
     const inner = /^(?:The )?Commemoration of (?:the )?(.*)$/i.exec(title);
     if (inner) {
+      // "Commemoration of Saint …" is a saint; "Commemoration of the Great Earthquake …" is not.
       const p = parseEn(inner[1] ?? "");
-      if (p.kind === "saint" || p.kind === "saints" || p.kind === "group") return { ...p, title: original };
+      const named = p.holiness.length > 0 || /\b(?:saints?|sts?|holy)\b/i.test(p.honorific);
+      if (named && (p.kind === "saint" || p.kind === "saints" || p.kind === "group")) return p;
     }
     return { ...base, kind: "event" };
   }

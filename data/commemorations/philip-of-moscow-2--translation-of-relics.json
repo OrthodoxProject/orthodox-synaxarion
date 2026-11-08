@@ -2,7 +2,7 @@
   "id": "philip-of-moscow-2--translation-of-relics",
   "kind": "relics_translation",
   "subjects": [
-    "person:philip-of-moscow-2"
+    "person:philip-of-moscow"
   ],
   "date_rule": {
     "type": "fixed",
@@ -17,6 +17,11 @@
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/07/03/101873-translation-of-the-relics-of-hieromartyr-philip-metropolitan-of",
       "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/russian_saints.json",
+      "accessed": "2026-11-08"
     }
   ],
   "editorial": {
@@ -25,5 +30,8 @@
     "notes": [
       "Importat automat din oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "trans-rel-philip--repose"
+  ]
 }

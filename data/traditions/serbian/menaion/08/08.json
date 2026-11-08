@@ -4,11 +4,6 @@
   "entries": [
     {
       "commemorations": [
-        "comm:sava-iii--repose"
-      ]
-    },
-    {
-      "commemorations": [
         "comm:emilian-of-kyzikos--repose"
       ],
       "confidence": "low"
@@ -18,6 +13,16 @@
         "comm:icon-of-theotokos-of-tolga--08-08"
       ],
       "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:jacob-the-new-of-tuman--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:zosimas-of-tuman--repose"
+      ]
     }
   ]
 }

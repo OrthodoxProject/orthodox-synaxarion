@@ -1,0 +1,39 @@
+{
+  "id": "constantine-equal-to-the-apostles",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "right_believing",
+    "equal_to_apostles"
+  ],
+  "external_ids": {
+    "oca": "101452"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfintii-imparati-intocmai-cu-apostolii-constantin-mama-sa-elena",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-inaltarea-domnului-ziua-eroilor-%e2%80%a0-sfintii-mari-imparati-si-intocmai-cu-apostolii-constantin-si-mama-sa-elena/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/21/101452-equal-of-the-apostles-and-emperor-constantine-with-his-mother-he",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  },
+  "aliases": [
+    "constantine-with-his-mother-helen"
+  ]
+}

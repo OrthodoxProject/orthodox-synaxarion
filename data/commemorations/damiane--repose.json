@@ -1,0 +1,32 @@
+{
+  "id": "damiane--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:damiane"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 23
+  },
+  "external_ids": {
+    "oca": "103848"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/23/103848-saint-damiane-demetrius-king-and-hymnographer",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  },
+  "aliases": [
+    "damiane-and-hymnographer"
+  ]
+}

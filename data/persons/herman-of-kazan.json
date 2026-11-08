@@ -13,6 +13,16 @@
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/11/06/103188-repose-of-saint-herman-archbishop-of-kazan",
       "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/25/102728-first-translation-of-the-relics-of-saint-herman-archbishop-of-ka",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/23/101790-second-translation-of-the-relics-of-saint-herman-archbishop-of-k",
+      "accessed": "2026-11-08"
     }
   ],
   "editorial": {
@@ -22,5 +32,9 @@
       "Importat automat din oca.org; de verificat.",
       "Genul nu reiese din sursă; e de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "translation-of-the-relics-of-herman",
+    "second-translation-of-the-relics-of-herman"
+  ]
 }

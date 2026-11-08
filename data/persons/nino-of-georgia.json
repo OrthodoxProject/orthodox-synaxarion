@@ -24,6 +24,11 @@
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/01/14/100191-saint-nino-nina-equal-of-the-apostles-enlightener-of-georgia",
       "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/19/103847-entrance-of-saint-nino-nina-the-enlightener-into-georgia",
+      "accessed": "2026-11-08"
     }
   ],
   "editorial": {
@@ -32,5 +37,8 @@
     "notes": [
       "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "entrance-of-nino-the-enlightener-into-georgia"
+  ]
 }

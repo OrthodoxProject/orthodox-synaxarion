@@ -36,6 +36,13 @@
       "commemorations": [
         "comm:nicodemus-i-of-pec--repose"
       ]
+    },
+    {
+      "commemorations": [
+        "comm:chiril-2--repose",
+        "comm:metodie--repose"
+      ],
+      "confidence": "low"
     }
   ]
 }

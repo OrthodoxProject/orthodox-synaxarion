@@ -1,0 +1,33 @@
+{
+  "id": "mirian-and-nana-of-georgia",
+  "kind": "repose",
+  "subjects": [
+    "person:mirian",
+    "person:nana-of-georgia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 1
+  },
+  "external_ids": {
+    "oca": "108936"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/01/108936-equals-of-the-apostles-emperor-mirian-and-empress-nana-of-georgi",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  },
+  "aliases": [
+    "equals-of-the-apostles-and-nana-of-georgia"
+  ]
+}

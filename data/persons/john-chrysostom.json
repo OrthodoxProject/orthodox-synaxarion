@@ -13,6 +13,16 @@
       "source": "src:copticchurch-synaxarium",
       "url": "https://www.copticchurch.net/synaxarium/3_17.html?lang=en#1",
       "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/9_12.html?lang=en#2",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:st-takla-synaxarium",
+      "url": "https://st-takla.org/books/en/church/synaxarium/09-bashans/12-pashans-chrysostom.html",
+      "accessed": "2026-11-08"
     }
   ],
   "editorial": {
@@ -23,5 +33,8 @@
       "Chipul sfințeniei nu reiese din titlu; „righteous” e provizoriu.",
       "Genul nu reiese din sursă; e de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "relocation-of-the-relics-of-john-chrysostom"
+  ]
 }

@@ -954,8 +954,12 @@ export class Builder {
   // -------------------------------------------------------------------------
 
   coptic(units: Unit[]): void {
-    const byAnchor = new Map<string, Cluster>();
-    for (const c of this.existing.clusters.values()) if (c.family === "coptic" && c.ext.copticchurch) byAnchor.set(c.ext.copticchurch, c);
+    // A line may hold several commemorations ("The Martyrdom of St. Timothy and the Relocation of the Body of St. Theodore"): all keep its anchor.
+    const byAnchor = new Map<string, Cluster[]>();
+    for (const c of this.existing.clusters.values()) {
+      if (c.family !== "coptic" || !c.ext.copticchurch) continue;
+      byAnchor.set(c.ext.copticchurch, [...(byAnchor.get(c.ext.copticchurch) ?? []), c]);
+    }
     for (const u of units) {
       const k = u.parsed.kind;
       if (k === "movable" || k === "skip") {
@@ -964,17 +968,32 @@ export class Builder {
         u.parsed = { ...u.parsed, kind: "event" };
       }
       oneSubject(u);
-      const known = byAnchor.get(u.ext.copticchurch ?? "");
-      if (known) {
-        this.attach(known, u);
-        if (!this.isPlaced("coptic", known)) this.addLine("coptic", u.month, u.day, { clusters: [known] });
+      const known = byAnchor.get(u.ext.copticchurch ?? "") ?? [];
+      if (known.length > 0) {
+        for (const c of known) this.attach(c, u);
+        this.addLine("coptic", u.month, u.day, { clusters: known });
         continue;
       }
       const c = this.clusterFrom(u);
       if (!c) continue;
       this.linkUniversal(c, u);
+      const clusters = [c];
+      (u.parsed.also ?? []).forEach((part, i) => {
+        const other: Unit = { ...u, uid: `${u.uid}+${i + 1}`, parsed: part };
+        // The Arabic title names the whole line.
+        delete other.arTitle;
+        oneSubject(other);
+        const extra = this.clusterFrom(other);
+        if (!extra) return;
+        // "and the Relocation of His Holy Relics": the saint of the line.
+        if (part.ofLine) {
+          if (c.slots.length > 0) extra.subjectSlots = [...c.slots];
+          else if (c.group) extra.subjectGroup = c.group;
+        } else this.linkUniversal(extra, other);
+        clusters.push(extra);
+      });
       this.count("coptic.new");
-      this.addLine("coptic", u.month, u.day, { clusters: [c] });
+      this.addLine("coptic", u.month, u.day, { clusters });
     }
   }
 
@@ -989,9 +1008,12 @@ export class Builder {
   private linkUniversal(c: Cluster, u: Unit): void {
     const title = u.title;
     const theotokos = this.existing.persons.get("theotokos");
-    if (theotokos && /\b(Theotokos|Virgin (?:St\.? )?Mary|St\.? Mary|Mother of God|Holy Virgin|the Virgin)\b/i.test(title)) {
+    // "The Entrance of Saint Mary into the Temple": an event of a Mary named by nothing else.
+    const mary = u.parsed.kind === "event" && u.parsed.subject?.names.length === 1 && u.parsed.subject.names[0]?.text === "Mary";
+    if (theotokos && (mary || /\b(Theotokos|Virgin (?:St\.? )?Mary|St\.? Mary|Mother of God|Holy Virgin|the Virgin)\b/i.test(title))) {
       c.kind = "event";
       c.slots = [];
+      c.subjectTitles = [];
       c.subjectSlots = [theotokos];
       c.titles.en ??= title.replace(/\.$/, "").trim();
       return;
@@ -1032,6 +1054,21 @@ export class Builder {
       });
     c.slots = replace(c.slots);
     c.subjectSlots = replace(c.subjectSlots);
+    // Events and relics of these saints ("The Ascension of Elijah the Prophet") point to them too.
+    for (const t of [...c.subjectTitles]) {
+      const part = t.names[0];
+      const universal = t.names.length === 1 && (t.holiness.some((h) => h === "apostle" || h === "prophet" || h === "evangelist") || /\b(the Apostle|the Prophet|the Evangelist|the Baptist|the Forerunner)\b/i.test(t.title));
+      if (!part || !universal) continue;
+      const found = (this.universalSlots ?? []).filter((s) => {
+        const other = s.en?.part ?? s.ro?.part;
+        return other !== undefined && givenSimilarity(part, other) >= 0.9;
+      });
+      // Many Johns are apostles or prophets: "the Baptist" names one.
+      const target = found.length === 1 ? found[0] : /\b(?:Baptist|Forerunner)\b/i.test(t.title) ? (this.universalSlots ?? []).find((s) => s.personId === "john-the-baptist") : undefined;
+      if (!target) continue;
+      c.subjectSlots.push(target);
+      c.subjectTitles = c.subjectTitles.filter((x) => x !== t);
+    }
   }
 
   armenian(units: Unit[]): void {
@@ -1071,6 +1108,8 @@ const ARMENIAN_SKIP = /^(?:New Year|About |Eve of|Median day|Holy (?:Monday|Tues
  */
 function oneSubject(u: Unit): void {
   if (u.parsed.kind === "saints") u.parsed = { ...u.parsed, kind: "group", names: u.parsed.names };
+  // "The Relocation of the Relics of Sts. Apakir and John": the relics of a group.
+  if (u.parsed.subject?.kind === "saints") u.parsed = { ...u.parsed, subject: { ...u.parsed.subject, kind: "group" } };
 }
 
 /** A name distinctive enough to recognise the saint on another day: first name plus epithets or places. */

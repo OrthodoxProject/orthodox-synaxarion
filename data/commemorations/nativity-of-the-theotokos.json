@@ -7,6 +7,9 @@
     "day": 8
   },
   "default_rank": "great_feast",
+  "external_ids": {
+    "oca": "102541"
+  },
   "sources": [
     {
       "source": "src:doxologia",
@@ -17,6 +20,11 @@
       "source": "src:calendar-patriarhia",
       "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-nasterea-maicii-domnului/",
       "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/08/102541-the-nativity-of-our-most-holy-lady-the-mother-of-god-and-ever-vi",
+      "accessed": "2026-11-08"
     }
   ],
   "editorial": {
@@ -25,5 +33,8 @@
     "notes": [
       "Importat automat din doxologia.ro, calendar.patriarhia.ro; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "nativity-of-our-most-lady-the-mother-and-ever-virgin-mary"
+  ]
 }

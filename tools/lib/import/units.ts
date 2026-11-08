@@ -220,7 +220,14 @@ export function parseCopticTitle(title: string): ParsedTitle {
   }
   let m: RegExpExecArray | null;
   if ((m = /^(?:(?:The )?(?:Departure|Martyrdom|Commemoration|Repose|Death|Burial|Celebration|Feast)s? of (?:the )?)+(.*)$/i.exec(t))) {
-    const person = stripCopticTitles(m[1] ?? "").replace(/(,|\band)\s+(?:St|Sts|Saint|Saints)\.?\s+/g, "$1 ");
+    let text = m[1] ?? "";
+    // "… and the Relocation of the Body of St. Theodore, the Prince, to Shotb", "… and the Relocation of His Holy Relics": a second commemoration.
+    const relocation = /\s+and the ((?:Relocation|Translation|Translocation|Transfer) of (?:(?:His|Her|Their) (?:Holy )?(?:Relics|Body)|the (?:Holy )?(?:Relics|Body) of .+))$/i.exec(text);
+    if (relocation) text = text.slice(0, relocation.index);
+    // "St. Archelaus and the Martyrdom of Elisha the Hegumen": two saints of the day.
+    const two = /\s+and the (?:Martyrdom|Departure) of (?:the )?/i.test(text);
+    text = text.replace(/\s+and the (?:Martyrdom|Departure) of (?:the )?/gi, " and ");
+    const person = stripCopticTitles(text).replace(/(,|\band)\s+(?:St|Sts|Saint|Saints)\.?\s+/g, "$1 ");
     // "St. Gregory the Illuminator’s torments and commitment to the pit": an event of that saint.
     const owner = /^(.*?)['’]s\s+(?:torments|deliverance|commitment|relics|discovery|finding|translation|hand|head|body|miracle)/i.exec(person);
     if (owner?.[1]) return { kind: "event", holiness: [], plural: false, honorific: "", rest: t, names: [], title, subject: parseEn(owner[1]) };
@@ -228,9 +235,11 @@ export function parseCopticTitle(title: string): ParsedTitle {
     if (inner.kind === "saint" || inner.kind === "saints" || inner.kind === "group") {
       if (/^(?:The )?Martyrdom/i.test(t) && !inner.holiness.some((h) => /martyr/.test(h))) inner.holiness = [...inner.holiness, "martyr"];
       // The person is named without "The Departure of"; the line keeps it as the day's title.
-      return { ...inner, title: person };
+      const own: ParsedTitle = { ...inner, title: two && inner.names.length > 1 ? person.replace(/^Saint /, "Saints ") : person };
+      if (relocation?.[1]) own.also = [relocationOf(relocation[1], own.title)];
+      return own;
     }
-    return { ...inner, title };
+    return withCopticSubject({ ...inner, title });
   }
   if ((m = /^(?:The )?(?:Consecration|Dedication) of (?:the )?Church of (?:the )?(?:Saint |St\.? |Sts\.? )?(.*)$/i.exec(t))) {
     return { kind: "event", holiness: [], plural: false, honorific: "", rest: t, names: [], title, subject: parseEn(stripCopticTitles(m[1] ?? "")) };
@@ -239,10 +248,25 @@ export function parseCopticTitle(title: string): ParsedTitle {
   if (turning?.[1]) return { kind: "relics_translation", holiness: [], plural: false, honorific: "", rest: t, names: [], title, subject: parseEn(stripCopticTitles(turning[1])) };
   if (/^(?:The )?(?:Appearance|Apparition|Translocation|Relocation|Translation|Transfer|Return)\b/i.test(t)) {
     const p = parseEn(t);
-    return { ...p, title };
+    return withCopticSubject({ ...p, title });
   }
   const p = parseEn(stripCopticTitles(t));
-  return { ...p, title };
+  return withCopticSubject({ ...p, title });
+}
+
+/** "Relocation of His Holy Relics" (of the saint of the line), "Relocation of the Body of St. Theodore, the Prince, to Shotb". */
+function relocationOf(text: string, saint: string): ParsedTitle {
+  const own = /^(\w+) of (?:His|Her|Their) (Holy )?(Relics|Body)$/i.exec(text);
+  if (own) {
+    const title = `${own[1]} of the ${own[2] ?? ""}${own[3] ?? ""} of ${saint}`;
+    return { kind: "relics_translation", holiness: [], plural: false, honorific: "", rest: title, names: [], title, ofLine: true };
+  }
+  return withCopticSubject({ ...parseEn(text), title: text });
+}
+
+/** The saint of a Coptic relics or event line, named as the other Coptic lines name saints ("Saint Titus", "Saints Apakir and John"). */
+function withCopticSubject(p: ParsedTitle): ParsedTitle {
+  return p.subject ? { ...p, subject: { ...p.subject, title: stripCopticTitles(p.subject.title) } } : p;
 }
 
 function stripCopticTitles(text: string): string {

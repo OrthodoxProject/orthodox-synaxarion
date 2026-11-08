@@ -22,15 +22,26 @@
       "ref": "LUK 10:38-42; 11:27-28"
     }
   ],
+  "external_ids": {
+    "oca": "102302"
+  },
   "sources": [
     {
       "source": "src:calendar-patriarhia",
       "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-adormirea-maicii-domnului/",
       "accessed": "2026-11-07"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/15/102302-the-dormition-of-our-most-holy-lady-the-mother-of-god-and-ever-v",
+      "accessed": "2026-11-08"
     }
   ],
   "editorial": {
     "status": "draft",
     "confidence": "high"
-  }
+  },
+  "aliases": [
+    "lady-the-mother-of-god-and-ever-virgin-mary"
+  ]
 }

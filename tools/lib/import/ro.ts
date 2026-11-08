@@ -341,6 +341,10 @@ const TITLE_WORD = /^(?:(?:arhi)?episcop\w*|mitropolit\w*|patriarh\w*|papa|papă
 const RELATION = /^(?:mama|tatăl|soția|soțul|fiul|fiica|fiii|fiicele|fratele|frații|sora|surorile|ucenicul|ucenicii|ucenica|părinții|nepotul|nepoata)\b(?:\s+(?:sa|său|lui|lor|săi|sale|ei))?\s*/i;
 /** A genitive honorific after a relation ("surorile Dreptului Lazăr") names someone else. */
 const GENITIVE_HONORIFIC = /^(?:Sf\.|Sfântului|Sfintei|Sfinților|Dreptului|Dreptei|Cuviosului|Cuvioasei|Prorocului|Proorocului|Ierarhului|Apostolului|Mucenicului|Muceniței|Sfințitului)\s/;
+/** An office and its see, at the end of a name: "…, Mitropolitul Moscovei", "…, Arhiepiscopul Irakliei". */
+const SEE = /(?:^|,\s*)(?:[Ee]piscop\w*|[Aa]rhiepiscop\w*|[Mm]itropolit\w*|[Pp]atriarh\w*)\s+\p{Lu}[\p{L}-]*$/u;
+/** An epithet with the definite article: "Martirul", "Filosoful", "Teologul". */
+const EPITHET = /^\p{Lu}\p{Ll}*[b-df-hj-np-tv-zșț]ul$/u;
 const COUNTRY = /^(?:Georgia|Rusia|Grecia|România|Serbia|Bulgaria|Egipt|Cipru|Muntele Athos|Athos|Moldova|Ucraina|Italia|Spania|Galia|Britania|Irlanda|Anglia|Scoția|Suedia|Finlanda|Palestina|Siria|Asia|Armenia|Persia|Elveția|Germania|Franța|Polonia|Lituania|Belarus|Macedonia|Albania|Muntenegru|Bosnia|Croația|Ungaria|Cehia|Slovacia|America|Alaska|Japonia|China|Etiopia|Libia|Africa|Capadocia|Licia|Galatia|Frigia|Tracia|Dacia|Iliria|Panonia|Moesia|Dobrogea|Transilvania|Bucovina|Basarabia|Oltenia|Banat|Maramureș)\b/;
 
 /**
@@ -358,8 +362,9 @@ export function splitNames(rest: string, gender?: Gender, plural = false, singul
   for (let i = 0; i < pieces.length; i += 2) {
     let seg = (pieces[i] ?? "").trim();
     let sep = i === 0 ? "" : (pieces[i - 1] ?? "").trim();
-    if (/^și\s+/.test(seg)) {
-      // ", și Petru, episcopul Alexandriei"
+    // ", și Petru, episcopul Alexandriei": after a comma, "și" starts another saint.
+    const afterComma = /^și\s+/.test(seg);
+    if (afterComma) {
       seg = seg.replace(/^și\s+/, "");
       sep = "și";
     }
@@ -384,9 +389,14 @@ export function splitNames(rest: string, gender?: Gender, plural = false, singul
       names[names.length - 1] += `, ${seg}`;
       continue;
     }
-    // "luminător al Siberiei și Americii", "de la Cernica și Căldărușani": a second place, not a second saint.
+    // "luminător al Siberiei și Americii", "de la Cernica și Căldărușani", "Mitropolitul Moscovei și Kolomnei": a second place, not a second saint.
     const previous = names[names.length - 1] ?? "";
-    if (conj && /^\p{Lu}[\p{L}-]*$/u.test(bare) && /(?:^|\s)(?:al|a|ai|ale|din|de la|de|lui)\s+\p{Lu}[\p{L}-]*$/u.test(previous)) {
+    if (conj && /^\p{Lu}[\p{L}-]*$/u.test(bare) && (/(?:^|\s)(?:al|a|ai|ale|din|de la|de|lui)\s+\p{Lu}[\p{L}-]*$/u.test(previous) || (!afterComma && SEE.test(previous)))) {
+      names[names.length - 1] += ` și ${bare}`;
+      continue;
+    }
+    // "Iustin Martirul și Filosoful": a second epithet, not a second saint.
+    if (conj && !afterComma && EPITHET.test(bare) && EPITHET.test(previous.split(/\s+/).pop() ?? "")) {
       names[names.length - 1] += ` și ${bare}`;
       continue;
     }

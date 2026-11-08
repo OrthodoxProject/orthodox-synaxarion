@@ -29,6 +29,16 @@
       "source": "src:copticchurch-synaxarium",
       "url": "https://www.copticchurch.net/synaxarium/13_2.html?lang=en#1",
       "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/4_18.html?lang=en#1",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:st-takla-synaxarium",
+      "url": "https://st-takla.org/books/en/church/synaxarium/04-keyahk/18-kiahk-titus.html",
+      "accessed": "2026-11-08"
     }
   ],
   "editorial": {
@@ -37,5 +47,8 @@
     "notes": [
       "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org, copticchurch.net; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "relocation-of-the-relics-of-titus-to"
+  ]
 }

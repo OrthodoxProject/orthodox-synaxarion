@@ -162,9 +162,29 @@ const NUMBER_WORDS: Record<string, number> = {
   seventy: 70,
 };
 
+const TENS: Record<string, number> = { twenty: 20, thirty: 30, forty: 40, fifty: 50, sixty: 60, seventy: 70, eighty: 80, ninety: 90 };
+
+/** "forty-nine" → 49. */
+function compoundNumber(word: string): number | undefined {
+  const m = /^([a-z]+)-([a-z]+)$/.exec(word);
+  const tens = m ? TENS[m[1] ?? ""] : undefined;
+  const units = m ? NUMBER_WORDS[m[2] ?? ""] : undefined;
+  return tens !== undefined && units !== undefined && units < 10 ? tens + units : undefined;
+}
+
 /** Words after a comma that describe the previous name. */
-const QUALIFIER = /^(?:(?:arch)?bishops?|metropolitans?|patriarchs?|popes?|catholicos|abbots?|abbess|igumens?|hegumens?|archimandrites?|hieromonks?|monks?|nuns?|schemamonks?|deacons?|archdeacons?|presbyters?|priests?|founders?|enlighteners?|equal|apostles?|evangelists?|disciples?|mothers?|fathers?|sisters?|brothers?|wife|wives|husbands?|sons?|daughters?|parents|children|kings?|queens?|princes?|princess(?:es)?|emperors?|empress(?:es)?|wonderworkers?|miracle-workers?|fools?|recluses?|hermits?|anchorites?|stylites?|missionar(?:y|ies)|confessors?|the|of|in|at|near|from|by|who|first|second|third|teachers?|physicians?|unmercenar(?:y|ies)|great|elders?|virgins?|martyrs?|exarchs?|instructors?|soldiers?|companions?|ascetics?|warriors?|nobles?|maidens?|youths?|children|infants?)\b/i;
-const COUNTRY = /^(?:Georgia|Russia|Greece|Serbia|Bulgaria|Egypt|Cyprus|Mount Athos|Athos|Moldavia|Romania|Ukraine|Italy|Spain|Gaul|Britain|Ireland|England|Scotland|Wales|Sweden|Finland|Palestine|Syria|Asia Minor|Armenia|Persia|Germany|France|Poland|Lithuania|Belarus|Macedonia|Albania|Montenegro|Bosnia|Croatia|Hungary|Alaska|America|Japan|China|Ethiopia|Libya|Africa|Cappadocia|Lycia|Galatia|Phrygia|Thrace|Estonia|Latvia|Karelia|Cornwall|Wessex|Mercia|Northumbria|Kent|Sicily|Crete|Cilicia|Bithynia|Pontus|Isauria|Lycaonia|Pamphylia|Paphlagonia|Mesopotamia|Arabia|Iberia|Kartli|Kakheti)\b/;
+const QUALIFIER = /^(?:(?:arch)?bishops?|metropolitans?|patriarchs?|popes?|catholicos|abbots?|abbess|igumens?|hegumens?|archimandrites?|hieromonks?|monks?|nuns?|schemamonks?|deacons?|archdeacons?|presbyters?|priests?|founders?|enlighteners?|equal|apostles?|evangelists?|disciples?|mothers?|fathers?|sisters?|brothers?|wife|wives|husbands?|sons?|daughters?|parents|children|kings?|queens?|princes?|princess(?:es)?|emperors?|empress(?:es)?|wonderworkers?|miracle-workers?|fools?|recluses?|hermits?|anchorites?|stylites?|missionar(?:y|ies)|confessors?|the|of|in|at|near|from|by|who|first|second|third|teachers?|physicians?|unmercenar(?:y|ies)|great|elders?|virgins?|martyrs?|exarchs?|instructors?|soldiers?|companions?|ascetics?|warriors?|nobles?|maidens?|youths?|children|infants?|hymnographers?|philosophers?|theologians?|iconographers?)\b/i;
+
+/** A name never starts with these words: "Hermit Near Constantinople" describes the previous saint. */
+const NOT_A_NAME = /^(?:Near|At|In|Of|From|By|On|Outside|Beyond)\b/;
+
+/** Relations that name a second saint, with the gender they give: "with his Mother Helen". */
+const RELATION_GENDER: Record<string, Gender> = { mother: "female", wife: "female", sister: "female", daughter: "female", father: "male", husband: "male", brother: "male", son: "male" };
+
+const COUNTRIES = "Georgia|Russia|Greece|Serbia|Bulgaria|Egypt|Cyprus|Mount Athos|Athos|Moldavia|Romania|Ukraine|Italy|Spain|Gaul|Britain|Ireland|England|Scotland|Wales|Sweden|Finland|Palestine|Syria|Asia Minor|Armenia|Persia|Germany|France|Poland|Lithuania|Belarus|Macedonia|Albania|Montenegro|Bosnia|Croatia|Hungary|Alaska|America|Japan|China|Ethiopia|Libya|Africa|Cappadocia|Lycia|Galatia|Phrygia|Thrace|Estonia|Latvia|Karelia|Cornwall|Wessex|Mercia|Northumbria|Kent|Sicily|Crete|Cilicia|Bithynia|Pontus|Isauria|Lycaonia|Pamphylia|Paphlagonia|Mesopotamia|Arabia|Iberia|Kartli|Kakheti|Bohemia|Moravia|Silesia|Slovakia";
+const COUNTRY = new RegExp(`^(?:${COUNTRIES})\\b`);
+/** A place at the end of a name, with the lands after it: "of Prague, Bohemia". */
+const PLACE_AT_END = new RegExp(`\\b(?:of|at|in) \\p{Lu}[\\p{L}'’-]*(?:, (?:${COUNTRIES}))*$`, "u");
 
 const FEMALE_EN = /(a|ia|ina|issa|ine|ia\)|ah)$/;
 const MALE_ENDING_A = new Set([
@@ -271,15 +291,25 @@ export function splitEnHonorifics(title: string): { honorific: string; rest: str
       plural = true;
       continue;
     }
-    if (w in NUMBER_WORDS && (i === 0 || honorificOf(words[i - 1] ?? ""))) {
-      count = NUMBER_WORDS[w];
+    const number = Object.hasOwn(NUMBER_WORDS, w) ? NUMBER_WORDS[w] : compoundNumber(w);
+    if (number !== undefined && (i === 0 || honorificOf(words[i - 1] ?? ""))) {
+      count = number;
       plural = true;
       continue;
     }
-    if (w === "equal" && /^(of|to)$/.test(fold(words[i + 1] ?? "")) && fold(words[i + 2] ?? "") === "the" && /^apostles/.test(fold(words[i + 3] ?? ""))) {
+    if ((w === "equal" || w === "equals") && /^(of|to)$/.test(fold(words[i + 1] ?? "")) && fold(words[i + 2] ?? "") === "the" && /^apostles/.test(fold(words[i + 3] ?? ""))) {
       holiness.add("equal_to_apostles");
+      if (w === "equals") plural = true;
       i += 3;
       continue;
+    }
+    // "Equals of the Apostles and Teachers of the Slavs, Cyril and Methodius": a title, not a name.
+    if (i > 0 && /^(?:teachers?|enlighteners?)$/.test(w) && fold(words[i + 1] ?? "") === "of") {
+      const place = fold(words[i + 2] ?? "") === "the" ? i + 3 : i + 2;
+      if (/^\p{Lu}/u.test(words[place] ?? "")) {
+        i = place;
+        continue;
+      }
     }
     if (w === "equal-to-the-apostles" || w === "equal-of-the-apostles") {
       holiness.add("equal_to_apostles");
@@ -297,7 +327,7 @@ export function splitEnHonorifics(title: string): { honorific: string; rest: str
       i += 2;
       continue;
     }
-    if (w === "and" && i > 0 && (honorificOf(words[i + 1] ?? "") || fold(words[i + 1] ?? "") === "equal")) continue;
+    if (w === "and" && i > 0 && (honorificOf(words[i + 1] ?? "") || fold(words[i + 1] ?? "") === "equal" || (/^(?:teachers?|enlighteners?)$/.test(fold(words[i + 1] ?? "")) && fold(words[i + 2] ?? "") === "of"))) continue;
     const h = honorificOf(word);
     if (!h) break;
     // "Saint" alone before a capitalised word is an honorific; "The" before a name too.
@@ -327,19 +357,27 @@ export function splitEnHonorifics(title: string): { honorific: string; rest: str
 
 /** Splits "Hermylus and Stratonicus of Belgrade", "Theopemptus, Bishop of Nicomedia, and Martyr Theonas". */
 export function splitEnNames(rest: string, gender?: Gender, plural = false): { names: NamePart[]; holiness: Set<HolinessType> } {
-  const text = rest.replace(/(\d),(\d{3})\b/g, "$1$2").replace(/\s*\([^)]*\)/g, "").replace(/[.;]+$/, "").trim();
+  const text = rest
+    .replace(/(\d),(\d{3})\b/g, "$1$2")
+    .replace(/\s*\([^)]*\)/g, "")
+    .replace(/[.;]+$/, "")
+    // "Constantine with his Mother Helen": two saints.
+    .replace(/(?<![,;])\s+with\s+(his|her|their)\s+(?=(?:[Mm]other|[Ff]ather|[Ww]ife|[Hh]usband|[Ss]ister|[Bb]rother|[Ss]on|[Dd]aughter),?\s+\p{Lu})/gu, " and $1 ")
+    .trim();
   const holiness = new Set<HolinessType>();
   if (!text) return { names: [], holiness };
   const pieces = text.split(/(,\s*and\s+|,\s*|\s+and\s+)/);
   const names: string[] = [];
+  /** Genders that a relation gives ("his Mother Helen"), by index of the name. */
+  const genders = new Map<number, Gender>();
   for (let i = 0; i < pieces.length; i += 2) {
     let seg = (pieces[i] ?? "").trim();
     const sep = i === 0 ? "" : (pieces[i - 1] ?? "").trim();
     if (!seg) continue;
     if (/^(those|all|many|others|\d+|the \w+ (others|with)|(?:two|three|four|five|six|seven|eight|nine|ten|twelve) \w+)\b/i.test(seg) || /^(his|her|their) (companions|disciples)\b/i.test(seg)) break;
     const h = splitEnHonorifics(seg);
-    // "and the Czech Lands": an article alone does not announce another saint.
-    if (h.honorific && !/^(?:the|our)$/i.test(h.honorific) && h.rest && /^[A-Z]/.test(h.rest)) {
+    // "and the Czech Lands": an article alone does not announce another saint; nor does "Hermit Near Constantinople".
+    if (h.honorific && !/^(?:the|our)$/i.test(h.honorific) && h.rest && /^[A-Z]/.test(h.rest) && !NOT_A_NAME.test(h.rest)) {
       for (const x of h.holiness) holiness.add(x);
       seg = h.rest;
       if (names.length > 0 && (sep.includes("and") || plural)) {
@@ -356,16 +394,19 @@ export function splitEnNames(rest: string, gender?: Gender, plural = false): { n
     const relation = /^(?:his|her|their)\s+(?:(?:two|three|four|five|six|seven)\s+)?(?:wife|husband|mother|father|sister|brother|son|daughter|sons|daughters|disciple|disciples|deacons?|servants?|companions?|children|councilor)\b,?:?\s*/i.exec(seg);
     if (relation) {
       const after = seg.slice(relation[0].length).trim();
-      if (/^[A-Z]/.test(after) && (conj || plural || /^(his|her|their)/i.test(seg))) names.push(splitEnHonorifics(after).rest || after);
-      else names[names.length - 1] += `, ${seg}`;
+      if (/^[A-Z]/.test(after) && (conj || plural || /^(his|her|their)/i.test(seg))) {
+        names.push(splitEnHonorifics(after).rest || after);
+        const g = RELATION_GENDER[fold(/^(?:his|her|their)\s+(\w+)/i.exec(seg)?.[1] ?? "")];
+        if (g) genders.set(names.length - 1, g);
+      } else names[names.length - 1] += `, ${seg}`;
       continue;
     }
     if (/^[a-z]/.test(seg) || QUALIFIER.test(seg) || COUNTRY.test(seg)) {
       names[names.length - 1] += `${conj ? " and" : ","} ${seg}`;
       continue;
     }
-    // "of Pisma and Kostroma", "Bishop of Polotsk and Tver", "of Ohrid and Žiča": a second place, not a second saint.
-    if (conj && !plural && /\b(?:of|at|in) \p{Lu}[\p{L}'’-]*$/u.test(previous) && /^\p{Lu}[\p{L}'’-]*$/u.test(seg)) {
+    // "of Pisma and Kostroma", "Bishop of Polotsk and Tver", "of Ohrid and Žiča", "of Prague, Bohemia and Moravo-Cilezsk": a place, not a second saint.
+    if (conj && !plural && PLACE_AT_END.test(previous) && /^\p{Lu}[\p{L}'’-]*$/u.test(seg)) {
       names[names.length - 1] += ` and ${seg}`;
       continue;
     }
@@ -380,12 +421,39 @@ export function splitEnNames(rest: string, gender?: Gender, plural = false): { n
     }
     names[names.length - 1] += `, ${seg}`;
   }
-  return { names: names.map((n, i) => namePart(n, plural || i > 0 ? undefined : gender)), holiness };
+  return { names: names.map((n, i) => namePart(n, genders.get(i) ?? (plural || i > 0 ? undefined : gender))), holiness };
 }
 
 function feastOf(text: string): string | undefined {
   for (const f of FEASTS) if (f.en.test(text)) return f.id;
   return undefined;
+}
+
+/** Events in the life of a saint, named as "<event> of <saint>". */
+const EVENT_OF = /^(?:The )?(?:Nativity|Birth|Entrance|Meeting|Raising|Coming|Arrival|Preaching|Ascension|Confession|Enthronement|Inauguration|Consultation|Beginning|Closing|Reign)\s+of\s+(.*)$/i;
+
+/** Words that name a saint: "Saint Severus", "the Apostle Andrew", "the righteous Lazarus". */
+const SAINT_MARK = /(?:^|\s)((?:Saints?|Sts?\.|St|the [Rr]ighteous|[Rr]ighteous|the Apostle|Apostle|the Prophet|Prophet|Pope|Great Martyr|Martyr|Venerable)\s+\p{Lu})/u;
+
+/**
+ * The saint an event is about, if it names one: "Saint Severus, Patriarch of
+ * Antioch, to Egypt" → Severus; "the Chief Priests to put the righteous Lazarus
+ * to death" → Lazarus; "the New St. Mark Cathedral" → none (a church is not the saint).
+ */
+function eventSubject(text: string): ParsedTitle | undefined {
+  if (/\b(?:Theotokos|Mother of God)\b/i.test(text)) return parseEn("Theotokos");
+  const cut = (s: string): string => s.replace(/,?\s+(?:into|to|from|that|in|at)\s+.*$/, "").trim();
+  const own = cut(text);
+  if (/\b(?:Church|Churches|Cathedral|Monastery|Temples?|Fast)\b/.test(own)) return undefined;
+  let named: string | undefined;
+  if (SAINT_MARK.exec(own)?.index === 0 || /^\p{Lu}[\p{L}'’-]+(?: the \p{Lu}\p{L}+)?$/u.test(own)) named = own;
+  else {
+    const mark = SAINT_MARK.exec(text);
+    if (mark?.[1]) named = cut(text.slice(text.indexOf(mark[1])));
+  }
+  if (!named) return undefined;
+  const p = parseEn(named);
+  return (p.kind === "saint" || p.kind === "saints" || p.kind === "group") && p.names.length > 0 ? p : undefined;
 }
 
 /** Parses one English title. */
@@ -415,9 +483,14 @@ export function parseEn(original: string): ParsedTitle {
     const feast = feastOf(m[1] ?? "");
     return feast ? { ...base, kind: "leavetaking", feast } : { ...base, kind: "movable" };
   }
+  // "Second Day of the Nativity of our Lord": a day of the afterfeast.
+  if ((m = /^(?:The )?(?:Second|Third|Fourth|Fifth|Sixth) Day of (.*)$/i.exec(title))) {
+    const feast = feastOf(m[1] ?? "");
+    return feast ? { ...base, kind: "afterfeast", feast } : { ...base, kind: "movable" };
+  }
   if (/^(?:The )?Eve of\b/i.test(title)) return { ...base, kind: "movable" };
-  if (/^(?:The )?(?:Translation|Transfer|Translocation|Relocation|Deposition|Return|Transferal)\b.*\brelics?\b|^(?:The )?(?:Translation|Transfer|Translocation|Relocation) of the (?:body|head|hand)/i.test(title)) {
-    const subj = /\b(?:relics?|body|head|hand|remains) of (?:the |our )?(.*?)(?:,? (?:from|to|into|in) [A-Z].*)?$/i.exec(title);
+  if (/^(?:The )?(?:(?:First|Second|Third) )?(?:Translation|Transfer|Translocation|Relocation|Deposition|Return|Transferal|Arrival)\b.*\brelics?\b|^(?:The )?(?:(?:First|Second|Third) )?(?:Translation|Transfer|Translocation|Relocation) of the (?:body|head|hand)/i.test(title)) {
+    const subj = /\b(?:relics?|body|head|hand|remains) of (?:the |our )?(.*?)(?:,? (?:from|to|into|in) (?:the )?[A-Z].*)?$/i.exec(title);
     return { ...base, kind: "relics_translation", subject: parseEn(subj?.[1] ?? "") };
   }
   if (/\bfinding of the (?:honorable |precious |venerable )?head of\b/i.test(title) && /\b(forerunner|baptist)\b/i.test(title)) {
@@ -456,6 +529,13 @@ export function parseEn(original: string): ParsedTitle {
     // The saint's own day: the saint keeps the name the title gives, without "Repose of".
     const inner = parseEn(m[1] ?? "");
     if (inner.kind === "saint" || inner.kind === "saints" || inner.kind === "group") return inner;
+  }
+  // "Nativity of Saint Nicholas", "Entrance of the Apostle Andrew into Georgia": an event in a saint's life, not the saint.
+  if ((m = EVENT_OF.exec(title))) {
+    const r: ParsedTitle = { ...base, kind: "event" };
+    const subject = eventSubject(m[1] ?? "");
+    if (subject) r.subject = subject;
+    return r;
   }
   if ((m = /^(?:The )?Commemoration of (?:the )?(?:miracle|wonder|appearance|apparition)\b.*?\bof (?:the |our )?(.*)$/i.exec(title))) {
     return { ...base, kind: "event", subject: parseEn(m[1] ?? "") };

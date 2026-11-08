@@ -1,0 +1,26 @@
+{
+  "id": "mirian",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "equal_to_apostles",
+    "right_believing"
+  ],
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/01/108936-equals-of-the-apostles-emperor-mirian-and-empress-nana-of-georgi",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  },
+  "aliases": [
+    "equals-of-the-apostles"
+  ]
+}

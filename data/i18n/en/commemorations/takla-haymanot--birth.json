@@ -1,0 +1,18 @@
+{
+  "id": "takla-haymanot--birth",
+  "locale": "en",
+  "names": {
+    "display": "The Birth of St. Takla Haymanot, the Ethiopian"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/4_24.html?lang=en#3",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,78 @@
+name: Correct the data
+description: A name, a title, a date, a day in a Church's calendar or another fact is wrong.
+title: "Correction: "
+labels: ["type: correction", "status: triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for helping to correct the synaxarion. Tell us what is wrong, what it should be, and which source says so: every change to the data needs one. You can write in English or in Romanian.
+
+        If a whole saint or feast is missing, use **Add a missing saint or feast** instead. If a page, the search or a calendar feed does not work, use **Bug in the website or the tools**.
+  - type: input
+    id: where
+    attributes:
+      label: Where is the mistake?
+      description: "The link to the page on the [website](https://orthodoxproject.github.io/orthodox-synaxarion/) (a saint, a feast or a day), the file in `data/`, or simply the name of the saint."
+      placeholder: https://orthodoxproject.github.io/orthodox-synaxarion/ro/romanian/2026/12/06/
+    validations:
+      required: true
+  - type: dropdown
+    id: problem
+    attributes:
+      label: What is wrong?
+      multiple: true
+      options:
+        - Name or spelling
+        - Title or kind of holiness (martyr, hierarch, venerable …)
+        - Dates or places in the saint's life
+        - The day of a commemoration in a Church's calendar
+        - The official title, the cross or the order of a calendar line
+        - The tone, the Resurrection Gospel, the fasting, the readings or a public holiday of a day
+        - Two different saints are mixed up in one record
+        - The same saint appears twice
+        - A link to another website (doxologia, OCA, Wikipedia …)
+        - Something else
+    validations:
+      required: true
+  - type: dropdown
+    id: traditions
+    attributes:
+      label: In which Church's calendar?
+      description: Only if the mistake is in a calendar.
+      multiple: true
+      options:
+        - Romanian Orthodox Church (romanian)
+        - Ecumenical Patriarchate of Constantinople (ecumenical)
+        - Church of Greece (greece)
+        - Russian Orthodox Church (russian)
+        - Serbian Orthodox Church (serbian)
+        - Coptic Orthodox Church (coptic)
+        - Armenian Apostolic Church (armenian)
+        - Assyrian Church of the East (assyrian)
+  - type: textarea
+    id: current
+    attributes:
+      label: What it says now
+      description: Copy the text from the page, or describe what you see.
+      placeholder: On 6 December the title is "Sf. Nicolae, episcopul Mirelor".
+  - type: textarea
+    id: correction
+    attributes:
+      label: What it should say
+      placeholder: '"Sf. Ier. Nicolae, arhiepiscopul Mirelor Lichiei, făcătorul de minuni", as the official calendar prints it.'
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Source
+      description: "Where the correct version comes from: the Church's official calendar, a synaxarion, a book (title, author, year, page) or a link. Without a source the data cannot be changed."
+      placeholder: Calendar Creștin Ortodox 2026 of the Romanian Patriarchate, 6 December, https://calendar.patriarhia.ro/
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else
+      description: Screenshots, other sources, or what you are not sure about.

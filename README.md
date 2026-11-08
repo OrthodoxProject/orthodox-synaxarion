@@ -74,6 +74,18 @@ npm run wiki
 
 `npm run wiki` writes the wiki pages to `build/wiki/`: the guide from `docs/SCHEMA.md`, a reference of every schema, the vocabulary and the coverage of the data. The `Wiki` workflow (`.github/workflows/wiki.yml`) publishes them to the repository's wiki whenever data, schemas, docs or tools change on `main`, replacing every page. Edit the repository, not the wiki; to keep it that way, restrict wiki editing to collaborators in Settings → General → Features.
 
+## Contributing
+
+Corrections, missing saints, names in other languages, reviews of the drafts and new sources are all welcome. [Open an issue](https://github.com/OrthodoxProject/orthodox-synaxarion/issues/new/choose) and choose the form that fits: each one asks for what is needed to act on it, above all a source for every fact. The forms are in English, but you can write in Romanian. To change the data yourself, follow the [guide](docs/SCHEMA.md) and open a pull request.
+
+Issues are sorted with [labels](https://github.com/OrthodoxProject/orthodox-synaxarion/labels): one `type:` (correction, addition, translation, review, source, bug, feature, question), the `area:` of the repository, the `tradition:` and the `lang:` it concerns, and a `status:`; `good first issue` and `help wanted` show newcomers where to start. The forms add `status: triage` and the type, and maintainers add the rest.
+
+```bash
+npm run labels
+```
+
+The labels are listed in `.github/labels.yml`. `npm run labels` checks the list and the issue forms in `.github/ISSUE_TEMPLATE/`, and so does `npm test`: every tradition in `data/traditions/` and every language in `data/i18n/` needs its label and its option in the forms. The `Labels` workflow (`.github/workflows/labels.yml`) applies the list to the repository whenever it changes on `main`. It creates the missing labels, updates the others and renames GitHub's default ones (`bug` becomes `type: bug`), so that their issues keep them; labels that are not in the list are left alone. To apply the list by hand, run `npm run labels -- --sync` with a token in `GITHUB_TOKEN`; `--dry-run` only shows what would change.
+
 ## Layout
 
 - `schema/`: JSON Schema (draft 2020-12) for every kind of data file
@@ -81,3 +93,4 @@ npm run wiki
 - `tools/`: validator, formatter, calendar generator, wiki generator and importer (TypeScript, run directly by Node)
 - `site/`: the website (Astro pages that read `data/` through the tools)
 - `tests/`: tests for the tools
+- `.github/`: the issue forms, the label list and the workflows

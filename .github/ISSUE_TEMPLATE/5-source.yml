@@ -1,0 +1,78 @@
+name: Propose a source
+description: A book, an official calendar, a synaxarion or a website that the data should cite or import from.
+title: "Source: "
+labels: ["type: source", "status: triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Sources make the records trustworthy, and the importer fills the data from them. From a source that is not under an open license only facts are taken (names, days, ranks, links); texts such as lives and hymns only when the license allows it, when they are in the public domain, or when the owner gives permission. You can write in English or in Romanian.
+  - type: input
+    id: title
+    attributes:
+      label: Title
+      description: In the source's own language.
+      placeholder: Συναξαριστὴς τῶν δώδεκα μηνῶν τοῦ ἐνιαυτοῦ
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Kind of source
+      options:
+        - The official calendar of a Church
+        - A synaxarion, a menaion or a prologue
+        - A typikon
+        - A book or an article
+        - A website or a database
+        - A manuscript
+        - Something else
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Where to find it
+      description: "The link, or the author, publisher, place, year and edition (with the ISBN, if it has one)."
+      placeholder: Nikodemos the Hagiorite, Venice, 1819
+    validations:
+      required: true
+  - type: input
+    id: language
+    attributes:
+      label: Language
+      placeholder: Greek
+    validations:
+      required: true
+  - type: textarea
+    id: coverage
+    attributes:
+      label: What it covers
+      description: "Which Churches, saints, days or years, and what it would add to the data."
+      placeholder: The saints of every day of the year in the Byzantine calendar, with short lives.
+    validations:
+      required: true
+  - type: dropdown
+    id: license
+    attributes:
+      label: License
+      description: "See the terms of use of the website, or the copyright page of the book."
+      options:
+        - An open license (Creative Commons, GFDL …), named below
+        - Public domain
+        - The owner allows the project to use it
+        - All rights reserved
+        - I don't know
+    validations:
+      required: true
+  - type: textarea
+    id: access
+    attributes:
+      label: How the data can be read
+      description: "For a website: an API, a download, one page per day? Any limits in its terms of use or its robots.txt? For a book: has it been digitized?"
+  - type: checkboxes
+    id: permission
+    attributes:
+      label: Permission
+      options:
+        - label: I own this source, or speak for its owner, and I allow the project to use it.

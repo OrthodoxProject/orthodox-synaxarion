@@ -1,0 +1,87 @@
+name: Add a missing saint or feast
+description: A saint, a group of saints, a feast or a wonder-working icon is missing, or is missing from a Church's calendar.
+title: "Missing: "
+labels: ["type: addition", "status: triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Before you start, [search the website](https://orthodoxproject.github.io/orthodox-synaxarion/en/search/): the data already has thousands of saints, sometimes under another form of the name (*Pigasie* / *Pegasius*). You can write in English or in Romanian.
+
+        Only facts go into the data: names, days, dates, places and links, each confirmed by a source. The lives of the saints are not copied. If you would rather add the saint yourself, the [guide](https://github.com/OrthodoxProject/orthodox-synaxarion/wiki/Cum-sunt-organizate-datele#cum-adaugi-un-sf%C3%A2nt) shows how, step by step.
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What is missing?
+      options:
+        - A saint (or the Theotokos, an angel)
+        - A group of saints commemorated together (martyrs, a family, a synaxis)
+        - A feast of the Lord or of the Theotokos
+        - A translation of relics, a miracle or another event
+        - A wonder-working icon
+        - A saint or feast that is in the data, but not in a Church's calendar
+    validations:
+      required: true
+  - type: textarea
+    id: names
+    attributes:
+      label: Name
+      description: "As the Church writes it, in each language you know: Romanian, English, the saint's own language. Start each line with the language."
+      placeholder: |
+        ro: Sf. Ier. Nicolae, arhiepiscopul Mirelor Lichiei, făcătorul de minuni
+        en: St Nicholas the Wonderworker, Archbishop of Myra in Lycia
+    validations:
+      required: true
+  - type: dropdown
+    id: traditions
+    attributes:
+      label: Which Churches commemorate it?
+      description: Every Church whose calendar should list it.
+      multiple: true
+      options:
+        - Romanian Orthodox Church (romanian)
+        - Ecumenical Patriarchate of Constantinople (ecumenical)
+        - Church of Greece (greece)
+        - Russian Orthodox Church (russian)
+        - Serbian Orthodox Church (serbian)
+        - Coptic Orthodox Church (coptic)
+        - Armenian Apostolic Church (armenian)
+        - Assyrian Church of the East (assyrian)
+        - Another Church (say which below)
+        - I don't know
+    validations:
+      required: true
+  - type: textarea
+    id: day
+    attributes:
+      label: Day
+      description: "The day and month of the commemoration in the Church's calendar (the date of the Menaion, which is the same in the old and the new style), or the rule of a movable feast, such as the second Sunday after Pentecost. If the Churches differ, give the day in each."
+      placeholder: 6 December, in every Church (in the old style this falls on 19 December).
+    validations:
+      required: true
+  - type: textarea
+    id: facts
+    attributes:
+      label: What else is known
+      description: "Only what your source supports: dates of birth, repose or canonization, places, the kind of holiness (martyr, hierarch, monk …), the relics. A few lines are enough."
+      placeholder: |
+        Born in Patara, in Lycia; Archbishop of Myra; reposed in the 4th century.
+        His relics were brought to Bari in 1087 (commemorated on 9 May).
+  - type: textarea
+    id: sources
+    attributes:
+      label: Sources
+      description: "Where the facts come from: the Church's official calendar, a synaxarion, a book (title, author, year, page) or a link. Every saint needs at least one source."
+      placeholder: |
+        Calendar Creștin Ortodox 2026 of the Romanian Patriarchate, 6 December
+        https://www.oca.org/saints/lives/… (the saint's page)
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before you send
+      options:
+        - label: I searched the website and the open issues, and it is not there yet.
+          required: true
+        - label: I would like to add it myself, with a pull request.

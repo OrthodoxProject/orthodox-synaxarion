@@ -1,0 +1,33 @@
+{
+  "id": "john-the-theologian--coptic-2",
+  "kind": "repose",
+  "subjects": [
+    "person:john-the-theologian"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 16,
+    "calendar": "coptic"
+  },
+  "external_ids": {
+    "copticchurch": "9_16#1"
+  },
+  "sources": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/9_16.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din copticchurch.net; de verificat."
+    ]
+  },
+  "aliases": [
+    "john-the-evangelist--repose"
+  ]
+}

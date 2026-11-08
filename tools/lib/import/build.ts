@@ -999,6 +999,40 @@ export class Builder {
 
   private universalSlots: Slot[] | null = null;
 
+  /** The apostles, prophets and evangelists already known, and those of the Byzantine calendars read now. */
+  private universal(): Slot[] {
+    if (!this.universalSlots) {
+      const all = new Set<Slot>(this.existing.persons.values());
+      for (const x of this.clusters) if (x.family === "byzantine") for (const s of [...x.slots, ...x.subjectSlots]) all.add(s);
+      this.universalSlots = [...all].filter((s) => (s.existingPerson !== undefined || s.family === "byzantine") && (s.holiness.has("apostle") || s.holiness.has("prophet") || s.holiness.has("evangelist")));
+    }
+    return this.universalSlots;
+  }
+
+  /**
+   * The person of the Byzantine calendars a Coptic or Armenian name designates:
+   * St John the Baptist, or the only apostle, prophet or evangelist of that
+   * name (of a compatible kind of holiness, when `holinessMustFit`), or of
+   * that name and epithet ("St. John the Evangelist").
+   */
+  private universalFor(part: NamePart, holiness: Set<HolinessType>, text: string, holinessMustFit: boolean): Slot | undefined {
+    // Many Johns are apostles or prophets: "the Baptist" names one.
+    if (namesForerunner(text)) {
+      const john = this.universal().find((s) => s.personId === "john-the-baptist");
+      if (john) return john;
+    }
+    const universal = holiness.has("apostle") || holiness.has("prophet") || holiness.has("evangelist") || /\b(?:the Apostle|the Prophet|the Evangelist)\b/i.test(text);
+    if (!universal) return undefined;
+    const found = this.universal().filter((s) => {
+      const other = s.en?.part ?? s.ro?.part;
+      return other !== undefined && givenSimilarity(part, other) >= 0.9 && (!holinessMustFit || holinessCompatible(holiness, s.holiness));
+    });
+    if (found.length === 1) return found[0];
+    const epithets = (["apostle", "prophet", "evangelist"] as const).filter((h) => new RegExp(`\\bthe ${h}\\b`, "i").test(text));
+    const named = epithets.length > 0 ? found.filter((s) => epithets.every((h) => s.holiness.has(h))) : [];
+    return named.length === 1 ? named[0] : undefined;
+  }
+
   /**
    * The Theotokos, the archangels, the apostles, the prophets and the Forerunner
    * are the same persons in every family of Churches: a Coptic or Armenian line
@@ -1010,11 +1044,14 @@ export class Builder {
     const theotokos = this.existing.persons.get("theotokos");
     // "The Entrance of Saint Mary into the Temple": an event of a Mary named by nothing else.
     const mary = u.parsed.kind === "event" && u.parsed.subject?.names.length === 1 && u.parsed.subject.names[0]?.text === "Mary";
-    if (theotokos && (mary || /\b(Theotokos|Virgin (?:St\.? )?Mary|St\.? Mary|Mother of God|Holy Virgin|the Virgin)\b/i.test(title))) {
+    if (theotokos && (mary || namesTheotokos(title))) {
       c.kind = "event";
       c.slots = [];
       c.subjectTitles = [];
       c.subjectSlots = [theotokos];
+      // "Commemoration of the Theotokos and Ever-Virgin St. Mary" names her twice, not a group.
+      delete c.group;
+      delete c.subjectGroup;
       c.titles.en ??= title.replace(/\.$/, "").trim();
       return;
     }
@@ -1033,21 +1070,10 @@ export class Builder {
         return;
       }
     }
-    if (!this.universalSlots) {
-      const all = new Set<Slot>(this.existing.persons.values());
-      for (const x of this.clusters) if (x.family === "byzantine") for (const s of [...x.slots, ...x.subjectSlots]) all.add(s);
-      this.universalSlots = [...all].filter((s) => s.family === "byzantine" && (s.holiness.has("apostle") || s.holiness.has("prophet") || s.holiness.has("evangelist")));
-    }
     const replace = (list: Slot[]): Slot[] =>
       list.map((slot) => {
-        const universal = slot.holiness.has("apostle") || slot.holiness.has("prophet") || slot.holiness.has("evangelist") || /\b(the Apostle|the Prophet|the Evangelist|the Baptist|the Forerunner)\b/i.test(slot.en?.display ?? "");
         const part = slot.en?.part;
-        if (!universal || !part) return slot;
-        const found = (this.universalSlots ?? []).filter((s) => {
-          const other = s.en?.part ?? s.ro?.part;
-          return other !== undefined && givenSimilarity(part, other) >= 0.9 && holinessCompatible(slot.holiness, s.holiness);
-        });
-        const target = found.length === 1 ? found[0] : /\bBaptist|Forerunner\b/i.test(slot.en?.display ?? "") ? (this.universalSlots ?? []).find((s) => /botez|baptist/i.test(`${s.ro?.display ?? ""} ${s.en?.display ?? ""}`)) : undefined;
+        const target = part ? this.universalFor(part, slot.holiness, slot.en?.display ?? "", true) : undefined;
         if (!target) return slot;
         for (const x of slot.citations) addCitation(target.citations, x);
         return target;
@@ -1057,14 +1083,7 @@ export class Builder {
     // Events and relics of these saints ("The Ascension of Elijah the Prophet") point to them too.
     for (const t of [...c.subjectTitles]) {
       const part = t.names[0];
-      const universal = t.names.length === 1 && (t.holiness.some((h) => h === "apostle" || h === "prophet" || h === "evangelist") || /\b(the Apostle|the Prophet|the Evangelist|the Baptist|the Forerunner)\b/i.test(t.title));
-      if (!part || !universal) continue;
-      const found = (this.universalSlots ?? []).filter((s) => {
-        const other = s.en?.part ?? s.ro?.part;
-        return other !== undefined && givenSimilarity(part, other) >= 0.9;
-      });
-      // Many Johns are apostles or prophets: "the Baptist" names one.
-      const target = found.length === 1 ? found[0] : /\b(?:Baptist|Forerunner)\b/i.test(t.title) ? (this.universalSlots ?? []).find((s) => s.personId === "john-the-baptist") : undefined;
+      const target = part && t.names.length === 1 ? this.universalFor(part, new Set(t.holiness), t.title, false) : undefined;
       if (!target) continue;
       c.subjectSlots.push(target);
       c.subjectTitles = c.subjectTitles.filter((x) => x !== t);
@@ -1101,6 +1120,43 @@ export class Builder {
 }
 
 const ARMENIAN_SKIP = /^(?:New Year|About |Eve of|Median day|Holy (?:Monday|Tuesday|Wednesday|Thursday|Friday|Saturday)|Second Palm Sunday|Palm Sunday|Raising of Lazarus|Feast of (?:Pentecost|Ascension|the Holy Resurrection|the Holy Nativity)|Tiarn|Great Lent|Eve |Fast of|Candlemas)/i;
+
+/**
+ * Words of the Theotokos that also stand in other saints' names: other Maries
+ * ("St. Mary of Egypt", "St. Mary Magdalene", "St. Mary, the Armenian", "St.
+ * Mary Known as Marina"), virgins ("Melitina the Virgin", "the Virgin
+ * Sandoukht") and her parents ("Anna, the mother of the Theotokos", "Joachim
+ * and Anna, Parents of the Holy Mother of God").
+ */
+const NOT_THEOTOKOS: RegExp[] = [
+  /\b(?:St\.?|Saint)\s+Mary\b(?=,?\s+(?:of\b|the\s+(?!Theotokos\b|Mother of God\b)|\p{Lu}))/gu,
+  /(?<!\p{L})(?!(?:Lady|Mary|Our|Pure|Holy|Blessed|The|Ever)\b)\p{Lu}[\p{L}'’-]*(?:\s*\([^)]*\))?,?\s+the\s+[Vv]irgins?\b/gu,
+  /\b[Tt]he\s+Virgins?\s+(?!(?:Mary|Lady|St|Saint)\b)\p{Lu}[\p{L}'’-]*/gu,
+  /\b(?:[Mm]other|[Ff]ather|[Pp]arents?|[Gg]randmother|[Gg]randfather|[Aa]ncestors?|[Dd]aughter|[Ss]ons?)\s+of\s+(?:the\s+)?(?:(?:Most\s+)?Holy\s+)?(?:Theotokos|Mother of God|Virgin)\b/gu,
+];
+
+/**
+ * Whether a Coptic or Armenian line is about the Theotokos: "The Commemoration
+ * of the Virgin St. Mary, the Theotokos", "The Apparition of the Pure Lady the
+ * Virgin in the church of Zeiton", "Feast of the Discovery of St. Mary’s Box";
+ * not "The Departure of St. Mary of Egypt" or "The Martyrdom of St. Melitina
+ * the Virgin".
+ */
+export function namesTheotokos(title: string): boolean {
+  let text = title;
+  for (const re of NOT_THEOTOKOS) text = text.replace(re, " ");
+  return /\b(?:Theotokos|Mother of God|Virgin|(?:St\.?|Saint)\s+Mary)\b/u.test(text);
+}
+
+/**
+ * Whether a name is St John the Baptist himself ("Saint John, the Baptist",
+ * "St. John the Forerunner (Baptist)", "Beheading of St. John the Baptist"),
+ * not his father or a disciple ("Zechariah - St. John the Baptist’s Father").
+ */
+export function namesForerunner(text: string): boolean {
+  const m = /\bJohn,?\s+the\s+(?:Baptist|Forerunner)\b(?!['’]s)/.exec(text);
+  return m !== null && !/\b(?:father|mother|parents?|sons?|daughters?|disciples?|brothers?|sisters?|relatives?)\s+of\b/i.test(text.slice(0, m.index));
+}
 
 /**
  * Coptic and Armenian lines that name several saints are kept as one group,

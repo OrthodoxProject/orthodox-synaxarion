@@ -1,0 +1,18 @@
+{
+  "id": "john-the-baptist--annunciation-to-zacharias",
+  "locale": "en",
+  "names": {
+    "display": "The Angels' Annunciation of John the Baptist to Zacharias"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/1_26.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

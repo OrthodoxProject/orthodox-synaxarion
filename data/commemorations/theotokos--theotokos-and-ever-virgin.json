@@ -2,8 +2,7 @@
   "id": "theotokos--theotokos-and-ever-virgin",
   "kind": "event",
   "subjects": [
-    "person:theotokos",
-    "group:theotokos-and-ever-virgin-st-mary"
+    "person:theotokos"
   ],
   "date_rule": {
     "type": "fixed",

@@ -146,8 +146,45 @@ describe("English titles", () => {
     assert.deepEqual(parseEn("Martyr Gorazd of Prague, Bohemia and Moravo-Cilezsk").names.map((n) => n.text), ["Gorazd of Prague, Bohemia and Moravo-Cilezsk"]);
     assert.equal(parseEn("Hieromartyr Joanicus, Metropolitan of Montenegro and the Coast").names.length, 1);
     assert.equal(parseEn("Venerable Theodore Trichinas “the Hair-Shirt Wearer” and Hermit Near Constantinople").names.length, 1);
-    // Saints named after a place stay saints.
-    assert.deepEqual(parseEn("Holy and Righteous Ancestors of God, Joachim and Anna").names.length, 2);
+    // "and the North Caucasus people" is part of the title of the second saint.
+    assert.deepEqual(parseEn("Saints Pimen of Salosi and Anton Meskhi, Enlighteners of Dagestan and the North Caucasus people").names.map((n) => n.given), ["Pimen", "Anton"]);
+  });
+  it("does not take a title for a name", () => {
+    const joachim = parseEn("Holy and Righteous Ancestors of God, Joachim and Anna");
+    assert.equal(joachim.kind, "saints");
+    assert.deepEqual(joachim.holiness, ["righteous"]);
+    assert.deepEqual(joachim.names.map((n) => n.text), ["Joachim", "Anna"]);
+    assert.deepEqual(parseEn("Holy Wonderworking Unmercenary Physicians Cosmas and Damian at Rome").names.map((n) => n.text), ["Cosmas", "Damian at Rome"]);
+    assert.deepEqual(parseEn("Holy Unmercenary Physician Diomedes").names.map((n) => n.text), ["Diomedes"]);
+  });
+  it("reads a line of a saint with companions and numbered martyrs as a group", () => {
+    const augusta = parseEn("Empress Augusta, Porphyrius the General, the 50 philosophers and the 200 Soldiers martyred with the Great Martyr Katherine");
+    assert.equal(augusta.kind, "group");
+    assert.ok(augusta.holiness.includes("martyr"));
+    assert.ok(augusta.names.every((n) => !/Soldiers|philosophers/.test(n.text)));
+    assert.deepEqual(parseEn("Venerable Euthymius and twelve other Monks, martyred at Vatopedi").holiness, ["venerable_martyr"]);
+  });
+  it("reads a saint named with her son as two saints", () => {
+    const p = parseEn("Blessed Cleopatra with her son John, in Egypt");
+    assert.equal(p.kind, "saints");
+    assert.deepEqual(p.names.map((n) => n.given), ["Cleopatra", "John"]);
+    assert.equal(p.names[1]?.gender, "male");
+  });
+  it("names the saint of a beheading, and an event of a saint's relics after the saint", () => {
+    const cornelius = parseEn("Beheading of Venerable Cornelius, Abbot of the Pskov Caves");
+    assert.equal(cornelius.kind, "saint");
+    assert.equal(cornelius.title, "Venerable Cornelius, Abbot of the Pskov Caves");
+    assert.deepEqual(cornelius.holiness, ["venerable"]);
+    // The Beheading of the Forerunner stays his feast.
+    assert.equal(parseEn("The Beheading of the Holy Glorious Prophet, Forerunner, and Baptist John").feast, "beheading-of-john-the-baptist");
+    const sava = parseEn("The Burning of Saint Sava's relics");
+    assert.equal(sava.kind, "event");
+    assert.equal(sava.subject?.title, "Saint Sava");
+  });
+  it("reads a feast named as holy as the feast", () => {
+    const p = parseEn("The Holy Transfiguration of our Lord God and Savior Jesus Christ (the Second “Feast of the Savior” in August)");
+    assert.equal(p.kind, "feast");
+    assert.equal(p.feast, "transfiguration");
   });
   it("does not take an epithet or a title for a saint", () => {
     assert.deepEqual(parseEn("Saint Damiane (Demetrius), King and Hymnographer").names.map((n) => n.text), ["Damiane, King and Hymnographer"]);
@@ -219,6 +256,20 @@ describe("Coptic titles", () => {
     assert.equal(elders.kind, "group");
     assert.equal(elders.count, 49);
     assert.ok(elders.holiness.includes("martyr"));
+    const zadok = parseCopticTitle("The Martyrdom of St. Zadok and the 128 who were with Him.");
+    assert.equal(zadok.kind, "group");
+    assert.deepEqual(zadok.names.map((n) => n.text), ["Zadok"]);
+  });
+  it("read the departure of an apostle as one saint, and the great feasts as the feasts", () => {
+    const john = parseCopticTitle("The Departure of St. John the Evangelist and Theologian");
+    assert.equal(john.kind, "saint");
+    assert.deepEqual(john.names.map((n) => n.text), ["John the Evangelist and Theologian"]);
+    const theophany = parseCopticTitle("The Holy Theophany of Our Lord, God and Savior, Jesus Christ (Baptism of the Lord christ).");
+    assert.equal(theophany.kind, "feast");
+    assert.equal(theophany.feast, "theophany");
+    const annunciation = parseCopticTitle("The Commemoration of the Life giving Annunciation.");
+    assert.equal(annunciation.kind, "feast");
+    assert.equal(annunciation.feast, "annunciation");
   });
   it("split a line that names a saint and another commemoration", () => {
     const timothy = parseCopticTitle("The Martyrdom of St. Timothy and the Relocation of the Body of St. Theodore, the Prince, to Shotb.");
@@ -233,6 +284,27 @@ describe("Coptic titles", () => {
     const two = parseCopticTitle("The Commemoration of the Martyrdom of St. Archelaus and the Martyrdom of Elisha the Hegumen.");
     assert.deepEqual(two.names.map((n) => n.text), ["Archelaus", "Elisha the Hegumen"]);
     assert.equal(two.title, "Saints Archelaus and Elisha the Hegumen");
+    const martyrs = parseCopticTitle("The Commemoration of the Holy Martyrs Alphaeus, Zacchaeus, Romanus and John, and the Commemoration of the Saints Thomas, Victor, and Isaac of the City of Ashmunen.");
+    assert.equal(martyrs.title, "Holy Martyrs Alphaeus, Zacchaeus, Romanus and John");
+    assert.deepEqual(martyrs.names.map((n) => n.text), ["Alphaeus", "Zacchaeus", "Romanus", "John"]);
+    assert.equal(martyrs.also?.length, 1);
+    assert.equal(martyrs.also?.[0]?.title, "Saints Thomas, Victor, and Isaac of the City of Ashmunen");
+    assert.deepEqual(martyrs.also?.[0]?.names.map((n) => n.given), ["Thomas", "Victor", "Isaac"]);
+  });
+});
+
+describe("Armenian titles", () => {
+  it("read the disciples and the apostles of Christ as groups", () => {
+    const disciples = parseCopticTitle("Commemoration of Christ’s seventy-two Disciples");
+    assert.equal(disciples.kind, "group");
+    assert.equal(disciples.count, 72);
+    assert.equal(disciples.title, "Christ’s seventy-two Disciples");
+    const apostles = parseCopticTitle("Commemoration of Christ’s twelve Apostles and thirteenth Apostle - St. Paul");
+    assert.equal(apostles.kind, "group");
+    assert.deepEqual(apostles.holiness, ["apostle"]);
+  });
+  it("read the Beheading of St John the Baptist as his feast", () => {
+    assert.equal(parseCopticTitle("Commemoration of Beheading of St. John the Baptist").feast, "beheading-of-john-the-baptist");
   });
 });
 
@@ -419,6 +491,7 @@ describe("matching the sources", () => {
         { month: 3, day: 5, n: 2, title: "The Martyrdom of St. Timothy and the Relocation of the Body of St. Theodore, the Prince, to Shotb." },
         { month: 4, day: 17, n: 1, title: "The Commemoration of the Departure of St. Luke the Stylite and the Relocation of His Holy Relics." },
         { month: 2, day: 21, n: 2, title: "The Commemoration of the Relocation of the Body of Lazarus." },
+        { month: 3, day: 21, n: 4, title: "The Commemoration of the Holy Martyrs Alphaeus, Zacchaeus, Romanus and John, and the Commemoration of the Saints Thomas, Victor, and Isaac of the City of Ashmunen." },
       ],
       armenian: [],
       overlays: [],
@@ -438,6 +511,14 @@ describe("matching the sources", () => {
     assert.deepEqual(persons, ["persons/luke-the-stylite.json", "persons/theodore.json", "persons/timothy.json"]);
     const lazarus = line("02/21")[0]?.[0]?.replace(/^comm:/, "");
     assert.notEqual(output.files.get(`commemorations/${lazarus}.json`)?.kind, "repose");
+    // Two groups named by one line: two commemorations on the same calendar line, each with its own group.
+    const refs: string[] = output.files.get("traditions/coptic/menaion/03/21.json")?.entries[0]?.commemorations ?? [];
+    assert.equal(refs.length, 2);
+    const [martyrs, thomas] = refs.map((ref) => output.files.get(`commemorations/${ref.replace(/^comm:/, "")}.json`));
+    assert.deepEqual([martyrs?.subjects, thomas?.subjects].map((s) => s?.length), [1, 1]);
+    const groupName = (ref: string): string => output.files.get(`i18n/en/groups/${ref.replace(/^group:/, "")}.json`)?.names.display;
+    assert.equal(groupName(martyrs?.subjects[0]), "Holy Martyrs Alphaeus, Zacchaeus, Romanus and John");
+    assert.equal(groupName(thomas?.subjects[0]), "Saints Thomas, Victor, and Isaac of the City of Ashmunen");
   });
 });
 

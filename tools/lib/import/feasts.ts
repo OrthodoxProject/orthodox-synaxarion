@@ -44,7 +44,7 @@ export const FEASTS: Feast[] = [
   { id: "chains-of-apostle-peter", kind: "event", month: 1, day: 16, ro: /(cinstirea )?lan[țţ]ului sf(\.|[âa]ntului)? ap/i, en: /chains of the (holy and )?(glorious )?(and all-praised )?apostle peter|veneration of the precious chains/i, subjects: ["peter-the-apostle"] },
   { id: "synaxis-of-john-the-baptist", kind: "synaxis", month: 1, day: 7, ro: /soborul sf(\.|[âa]ntului)? (proroc |prooroc )?ioan botez/i, en: /synaxis of the (holy,? glorious )?(prophet,? )?forerunner|synaxis of (saint|st\.?) john the baptist/i, subjects: ["john-the-baptist"] },
   { id: "nativity-of-john-the-baptist", kind: "event", month: 6, day: 24, ro: /na[șş]terea sf(\.|[âa]ntului)? (proroc |prooroc )?ioan botez/i, en: /nativity of the (holy,? glorious )?(prophet,? )?(forerunner|baptist)/i, subjects: ["john-the-baptist"] },
-  { id: "beheading-of-john-the-baptist", kind: "event", month: 8, day: 29, ro: /t[ăa]ierea capului sf/i, en: /beheading of the (holy,? glorious )?(prophet,? )?(forerunner|baptist)/i, subjects: ["john-the-baptist"] },
+  { id: "beheading-of-john-the-baptist", kind: "event", month: 8, day: 29, ro: /t[ăa]ierea capului sf/i, en: /beheading of (?:the (holy,? glorious )?(prophet,? )?(forerunner|baptist)|(?:saint |st\.? )john the (?:forerunner|baptist))/i, subjects: ["john-the-baptist"] },
   { id: "conception-of-john-the-baptist", kind: "event", month: 9, day: 23, ro: /z[ăa]mislirea sf(\.|[âa]ntului)? (proroc |prooroc )?ioan/i, en: /conception of the (honorable,? glorious )?(prophet,? )?(forerunner|baptist)/i, subjects: ["john-the-baptist"] },
 ];
 

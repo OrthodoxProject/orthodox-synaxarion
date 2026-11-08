@@ -2,24 +2,18 @@
   "id": "transfiguration",
   "locale": "en",
   "names": {
-    "display": "Transfiguration of the Lord"
+    "display": "Transfiguration of our Lord",
+    "full": "The Holy Transfiguration of our Lord God and Savior Jesus Christ"
   },
   "references": [
     {
-      "source": "src:doxologia",
-      "url": "https://doxologia.ro/schimbarea-la-fata-domnului",
-      "accessed": "2026-11-08"
-    },
-    {
-      "source": "src:calendar-patriarhia",
-      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-schimbarea-la-fata-a-domnului-dezlegare-la-peste/",
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/06/102215-the-holy-transfiguration-of-our-lord-god-and-savior-jesus-christ",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "ro",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

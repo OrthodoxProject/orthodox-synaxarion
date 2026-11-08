@@ -7,6 +7,9 @@
     "day": 6
   },
   "default_rank": "great_feast",
+  "external_ids": {
+    "oca": "102215"
+  },
   "sources": [
     {
       "source": "src:doxologia",
@@ -17,6 +20,11 @@
       "source": "src:calendar-patriarhia",
       "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-schimbarea-la-fata-a-domnului-dezlegare-la-peste/",
       "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/06/102215-the-holy-transfiguration-of-our-lord-god-and-savior-jesus-christ",
+      "accessed": "2026-11-08"
     }
   ],
   "editorial": {
@@ -25,5 +33,8 @@
     "notes": [
       "Importat automat din doxologia.ro, calendar.patriarhia.ro; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "transfiguration-of-our-lord-god-and-savior-jesus-christ"
+  ]
 }

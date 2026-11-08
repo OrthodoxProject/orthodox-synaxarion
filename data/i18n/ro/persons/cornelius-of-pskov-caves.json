@@ -1,0 +1,23 @@
+{
+  "id": "cornelius-of-pskov-caves",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Corneliu, egumenul de la Peșterile din Pskov",
+    "full": "Sfântul Cuvios Corneliu, egumenul de la Peșterile din Pskov",
+    "short": "Corneliu, egumenul de la Peșterile din Pskov",
+    "given": "Corneliu"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/20/100571-beheading-of-venerable-cornelius-abbot-of-the-pskov-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

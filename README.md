@@ -4,15 +4,16 @@
 
 # orthodox-synaxarion
 
+Orthodox Saints of the World: an open, structured, multilingual synaxarion of the Orthodox Churches (Eastern Orthodox, Oriental Orthodox and the Assyrian Church of the East), as JSON data validated by JSON Schema. A [website](https://orthodoxproject.github.io/orthodox-synaxarion/) with search, a static API and calendar feeds is generated from it, and so is the documentation [wiki](https://github.com/OrthodoxProject/orthodox-synaxarion/wiki).
+
 </div>
 
-Orthodox Saints of the World: an open, structured, multilingual synaxarion of the Orthodox Churches (Eastern Orthodox, Oriental Orthodox and the Assyrian Church of the East), as JSON data validated by JSON Schema. A website with search, a static API and calendar feeds is generated from it.
 
 **Status:** schema v0.1, with 17 edge-case examples. All records are drafts awaiting review.
 
 ## Documentation
 
-[docs/SCHEMA.md](docs/SCHEMA.md) (in Romanian) explains how the data is organized and how to contribute.
+[docs/SCHEMA.md](docs/SCHEMA.md) (in Romanian) explains how the data is organized and how to contribute. The [wiki](https://github.com/OrthodoxProject/orthodox-synaxarion/wiki) adds a reference of every schema, the vocabulary in each language and the coverage of the data, with what is still missing.
 
 ## Quick start
 
@@ -26,7 +27,7 @@ npm install
 npm run check
 ```
 
-`npm run check` type-checks the tools, runs the tests and validates everything in `data/`. Use `npm run format` to rewrite data files in canonical form.
+`npm run check` type-checks the tools and the website, runs the tests and validates everything in `data/`. Use `npm run format` to rewrite data files in canonical form.
 
 ```bash
 npm run generate -- --year 2026
@@ -57,10 +58,18 @@ Day pages are built for the current year and the next one; set `SITE_YEARS=2026,
 
 The `Site` workflow (`.github/workflows/pages.yml`) builds and publishes the website on every push to `main` and every night, so that "today" stays current. To turn it on, open the repository's Settings → Pages and set Source to "GitHub Actions" (needed only once). GitHub turns off scheduled workflows in repositories with no activity for 60 days; if that happens, turn it back on from the Actions tab.
 
+## Wiki
+
+```bash
+npm run wiki
+```
+
+`npm run wiki` writes the wiki pages to `build/wiki/`: the guide from `docs/SCHEMA.md`, a reference of every schema, the vocabulary and the coverage of the data. The `Wiki` workflow (`.github/workflows/wiki.yml`) publishes them to the repository's wiki whenever data, schemas, docs or tools change on `main`, replacing every page. Edit the repository, not the wiki; to keep it that way, restrict wiki editing to collaborators in Settings → General → Features.
+
 ## Layout
 
 - `schema/`: JSON Schema (draft 2020-12) for every kind of data file
 - `data/`: the dataset (language-neutral records, traditions' calendars, and `data/i18n/<locale>/` for every text)
-- `tools/`: validator, formatter and calendar generator (TypeScript, run directly by Node)
+- `tools/`: validator, formatter, calendar generator and wiki generator (TypeScript, run directly by Node)
 - `site/`: the website (Astro pages that read `data/` through the tools)
-- `tests/`: tests for the validator
+- `tests/`: tests for the tools

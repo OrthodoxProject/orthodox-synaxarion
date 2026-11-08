@@ -1,15 +1,17 @@
 import assert from "node:assert/strict";
 import { join } from "node:path";
 import { describe, it } from "node:test";
+import type { FastingLevel } from "../tools/lib/calendar.ts";
 import { Builder } from "../tools/lib/import/build.ts";
 import { parseEn } from "../tools/lib/import/en.ts";
 import { loadExisting } from "../tools/lib/import/existing.ts";
+import { fastingNote, mergeFasting, officialFasting } from "../tools/lib/import/fasting.ts";
 import { givenSimilarity, skeleton } from "../tools/lib/import/names.ts";
 import { abbreviateRo, parseRo } from "../tools/lib/import/ro.ts";
 import { isAllowed, parseRobots } from "../tools/lib/import/robots.ts";
 import { parseMonth } from "../tools/lib/import/sources/doxologia.ts";
 import { parseDay } from "../tools/lib/import/sources/oca.ts";
-import { splitTitle } from "../tools/lib/import/sources/patriarhia.ts";
+import { splitTitle, type PatriarhiaDay, type PatriarhiaItem } from "../tools/lib/import/sources/patriarhia.ts";
 import { doxologiaUnits, ocaUnits, type SourceData } from "../tools/lib/import/units.ts";
 import { REPO_ROOT } from "../tools/lib/validate.ts";
 
@@ -146,6 +148,77 @@ describe("source pages", () => {
     assert.equal(listings.length, 1);
     assert.equal(listings[0]?.id, "103340");
     assert.equal(listings[0]?.title, "Venerable Gregory the Decapolite");
+  });
+});
+
+describe("official fasting", () => {
+  it("reads the fasting notes of a title", () => {
+    assert.equal(fastingNote("(†) Intrarea în biserică a Maicii Domnului (Dezlegare la pește)"), "fish");
+    assert.equal(fastingNote("† Sf. Anastasia; Sf. Proroc Naum (Tedeum. Dezlegare la peşte)"), "fish");
+    assert.equal(fastingNote("(†) Nașterea Domnului (Crăciunul. Harți)"), "fast_free");
+    assert.equal(fastingNote("Sf. Mc. Teopempt și Teona (Ajunul Botezului Domnului. Post)"), "strict");
+    assert.equal(fastingNote("Sf. Ier. Leon, episcopul Romei (Zi aliturgică. Dezlegare la brânză, lapte, ouă şi peşte)"), "no_meat");
+    assert.equal(fastingNote("†) Sf. Cuv. Paisie de la Neamţ (Începutul Postului Naşterii Domnului); Ev. Luca 10, 25-37 (Pilda samarineanului milostiv)"), undefined);
+  });
+
+  const romanian = { id: "romanian", calendar_style: "revised_julian", calendar_history: [{ style: "julian", until: "1924-10-13" }], paschalion: "julian" };
+  const official = (date: string, title: string, items: PatriarhiaItem[] = []): PatriarhiaDay => {
+    const [year = 0, month = 0, day = 0] = date.split("-").map(Number);
+    return { year, month, day, url: "", items, title, subtitle: "", publicHoliday: false };
+  };
+  it("takes the printed notes, and fish away where the model would give it and the calendar does not", () => {
+    const levels = officialFasting(
+      [
+        official("2026-11-15", "†) Sf. Cuv. Paisie de la Neamţ (Începutul Postului Naşterii Domnului)", [{ text: "Sf. Cuv. Paisie de la Neamţ", cross: "†)", color: "blue" }]),
+        official("2026-11-21", "(†) Intrarea în biserică a Maicii Domnului (Dezlegare la pește)", [{ text: "Intrarea în biserică a Maicii Domnului", cross: "(†)", color: "red" }]),
+        official("2026-11-22", "Sf. Ap. Filimon, Arhip, Onisim şi Apfia"),
+        official("2026-11-23", "† Sf. Cuv. Antonie de la Iezerul Vâlcii", [{ text: "Sf. Cuv. Antonie de la Iezerul Vâlcii", cross: "†", color: "blue" }]),
+        official("2026-11-24", "Sf. Sfințiți Mc. Clement, episcopul Romei, și Petru, episcopul Alexandriei"),
+      ],
+      romanian,
+    );
+    assert.deepEqual(
+      [...(levels.get(2026) ?? [])],
+      [
+        ["2026-11-21", "fish"],
+        ["2026-11-22", "oil_wine"],
+        ["2026-11-23", "strict"],
+      ],
+    );
+  });
+
+  it("adds the fasting to the yearly overrides without rewriting what is there", () => {
+    const doc = {
+      tradition: "romanian",
+      year: 2026,
+      source: { source: "src:calendar-patriarhia", url: "https://calendar.patriarhia.ro/", accessed: "2026-11-07" },
+      days: [
+        { date: "2026-11-28", readings: [{ service: "liturgy", role: "gospel", ref: "LUK 9:57-62" }] },
+        { date: "2026-12-25", fasting: "fast_free", flags: { public_holiday: true } },
+      ],
+    };
+    const levels = new Map<string, FastingLevel>([
+      ["2026-11-28", "fish"],
+      ["2026-11-21", "fish"],
+      ["2026-12-25", "fish"],
+    ]);
+    const source = { source: "src:calendar-patriarhia", url: "https://calendar.patriarhia.ro/", accessed: "2026-11-08" };
+    const merged = mergeFasting(doc, "romanian", 2026, levels, source);
+    assert.equal(merged.added, 2);
+    assert.equal(merged.kept, 1);
+    assert.equal(merged.doc.source.accessed, "2026-11-08");
+    const days = merged.doc.days as Array<Record<string, unknown>>;
+    assert.deepEqual(
+      days.map((d) => [d.date, d.fasting]),
+      [
+        ["2026-11-21", "fish"],
+        ["2026-11-28", "fish"],
+        ["2026-12-25", "fast_free"],
+      ],
+    );
+    assert.deepEqual(Object.keys(days[1] ?? {}), ["date", "readings", "fasting"]);
+    // A second run adds nothing and leaves the file as it is.
+    assert.equal(mergeFasting(merged.doc, "romanian", 2026, levels, source).doc, merged.doc);
   });
 });
 

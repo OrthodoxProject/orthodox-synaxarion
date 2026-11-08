@@ -25,6 +25,7 @@ import {
   toneOf,
   weekday,
   type DateStyle,
+  type DayMarks,
   type Ymd,
 } from "./calendar.ts";
 
@@ -287,6 +288,17 @@ function transferOutcome(transfer: Rec, original: number, tradition: Rec, placem
   return null; // "combined": celebrated together, on its own day
 }
 
+/** Whether the lines of a day carry a cross, and the red (†) of a great feast, in the tradition's symbol legend. */
+function marksOf(lines: DayLine[], tradition: Rec): DayMarks {
+  const legend = (tradition.symbol_legend ?? []) as Rec[];
+  const crosses = new Set(legend.filter((s) => String(s.glyph).includes("†")).map((s) => s.key as string));
+  const great = new Set(legend.filter((s) => s.glyph === "(†)" && s.color === "red").map((s) => s.key as string));
+  return {
+    cross: lines.some((l) => l.symbol !== undefined && crosses.has(l.symbol)),
+    great: lines.some((l) => l.symbol !== undefined && great.has(l.symbol)),
+  };
+}
+
 /** Whether an observance applies in a civil year (its since/until years, when given). */
 function inEffect(observance: Rec, year: number): boolean {
   const yearOf = (edtf: unknown): number | null => {
@@ -400,7 +412,7 @@ export function buildYear(data: TraditionData, year: number, applyOverrides = tr
       const eothinon = eothinonOf(j, t.paschalion);
       if (eothinon) day.eothinon = eothinon;
     }
-    if (t.fasting_model === "romanian" && !isAlexandrian(style)) day.fasting = fastingOf(j, style, t.paschalion);
+    if (t.fasting_model === "romanian" && !isAlexandrian(style)) day.fasting = fastingOf(j, style, t.paschalion, marksOf(day.lines, t));
     const readings = placed.flatMap((p) => p.readings);
     if (readings.length > 0) day.readings = readings;
     const obs = observances.get(j);

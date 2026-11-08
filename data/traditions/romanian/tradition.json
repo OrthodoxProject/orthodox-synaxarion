@@ -82,7 +82,7 @@
     "confidence": "medium",
     "notes": [
       "Semnificația semnelor (mai ales a crucii albastre) și maparea lor pe rangurile din Tipic sunt de confirmat.",
-      "Calendarul pe zile e importat automat: rândurile oficiale din calendar.patriarhia.ro (2026), cu semnele lor, plus ceilalți sfinți ai zilei listați de doxologia.ro."
+      "Calendarul pe zile e importat automat: rândurile oficiale din calendar.patriarhia.ro (2026), cu semnele lor, plus ceilalți sfinți ai zilei listați de doxologia.ro. Postul din 2026 vine tot din calendarul oficial (overrides/2026.json)."
     ]
   }
 }

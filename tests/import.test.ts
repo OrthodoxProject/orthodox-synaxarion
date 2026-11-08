@@ -462,6 +462,58 @@ describe("matching the sources", () => {
     assert.equal(russian[0]?.clusters.length, 2);
   });
 
+  /** The persons a Builder run makes of the Romanian and OCA lines of one day, as "Romanian name → English name". */
+  const pairsOf = (doxologia: string[], oca: Array<[string, string]>, month: number, day: number): Record<string, string | undefined> => {
+    const sources: SourceData = {
+      accessed: "2026-11-08",
+      patriarhia: [],
+      doxologia: doxologia.map((title, order) => ({ slug: `doxologia-${order}`, title, month, day, order, color: null, cross: null, secondRow: false })),
+      oca: oca.flatMap(([id, title], order) => [2026, 2028].map((year) => ({ id, title, path: `/saints/lives/${year}/${String(month).padStart(2, "0")}/${String(day).padStart(2, "0")}/${id}`, year, month, day, order }))),
+      coptic: [],
+      armenian: [],
+      overlays: [],
+    };
+    const builder = new Builder(loadExisting(join(REPO_ROOT, "tests", "fixtures", "minimal", "data")));
+    builder.romanian(doxologiaUnits(sources), [], [{ month, day }]);
+    builder.russian(ocaUnits(sources, [2026, 2028]).fixed);
+    const slots = new Set(builder.clusters.flatMap((c) => c.slots));
+    return Object.fromEntries([...slots].map((s) => [s.ro?.display ?? `(${s.en?.display})`, s.en?.display]));
+  };
+
+  it("does not give a woman the name of a man of the same name key (1 March: Antonie, Marcel, Antonina)", () => {
+    const doxologia = ["Sfântul Mucenic Antonie", "Sfântul Mucenic Marcel", "Sfânta Muceniță Antonina"];
+    const oca: Array<[string, string]> = [
+      ["100629", "Martyr Antonina of Nicea, in Bithynia"],
+      ["100630", "Martyrs Marcellus and Anthony of Syria"],
+    ];
+    const expected = { "Sf. Mc. Antonie": "Martyr Anthony of Syria", "Sf. Mc. Marcel": "Martyr Marcellus", "Sf. Mc. Antonina": "Martyr Antonina of Nicea, in Bithynia" };
+    // "Antonie", "Antonina" and "Anthony" share a name key: the order of the sources must not decide.
+    assert.deepEqual(pairsOf(doxologia, oca, 3, 1), expected);
+    assert.deepEqual(pairsOf([...doxologia].reverse(), [...oca].reverse(), 3, 1), expected);
+  });
+
+  it("keeps a saint apart from a saint of the other gender when nobody else shares the name key", () => {
+    // Blessed Domna of Tomsk is not the Martyr Domnin, nor St Seraphima the hierarch Serafim (Sobolev).
+    assert.deepEqual(pairsOf(["Sfântul Mucenic Domnin"], [["105703", "Saint Domna of Tomsk"]], 10, 16), { "Sf. Mc. Domnin": undefined, "(Saint Domna of Tomsk)": "Saint Domna of Tomsk" });
+    assert.deepEqual(pairsOf(["Sfântul Ierarh Serafim (Sobolev), făcătorul de minuni din Sofia"], [["100426", "Saint Seraphima"]], 2, 13), {
+      "Sf. Ier. Serafim (Sobolev), făcătorul de minuni din Sofia": undefined,
+      "(Saint Seraphima)": "Saint Seraphima",
+    });
+    // A name read as a woman's from its ending ("Aquila") still finds the man of the same name.
+    assert.deepEqual(pairsOf(["Sfântul Apostol Achila"], [["101950", "Apostle Aquila of the Seventy"]], 7, 14), { "Sf. Ap. Achila": "Apostle Aquila of the Seventy" });
+  });
+
+  it("finds a sister that the OCA names in her brother's line (30 October: Zenovie and Zenovia)", () => {
+    const doxologia = ["Sfântul Sfințit Mucenic Zenovie, Episcopul Ciliciei", "Sfânta Muceniță Zenovia, sora Sfântului Mucenic Zenovie"];
+    const oca: Array<[string, string]> = [["103110", "Hieromartyr Zenobios and his sister Zenobia, of Aegæ in Cilicia"]];
+    const expected = {
+      "Sf. Sfințit Mc. Zenovie, Episcopul Ciliciei": "Hieromartyr Zenobios",
+      "Sf. Mc. Zenovia, sora Sfântului Mucenic Zenovie": "Hieromartyr Zenobia, of Aegæ in Cilicia",
+    };
+    assert.deepEqual(pairsOf(doxologia, oca, 10, 30), expected);
+    assert.deepEqual(pairsOf([...doxologia].reverse(), oca, 10, 30), expected);
+  });
+
   it("writes one saint for a line that names him with two places (St Innocent of Komél and Vologda)", () => {
     const innocent: SourceData = {
       ...data,

@@ -230,18 +230,63 @@ export function personScore(a: NamePart, b: NamePart, crossLanguage: boolean): n
     if (eb.some((y) => x === y || (!x.startsWith("=") && !y.startsWith("=") && (nameSimilarity(x, y) >= 0.75 || commonPrefix(x, y) >= 3)))) overlap++;
   }
   let score = g + 0.2 * Math.min(overlap, 2);
+  // Across languages the sources describe a saint in different ways: the OCA names
+  // relatives in the same line ("Zenobios and his sister Zenobia, of Aegæ in Cilicia"),
+  // doxologia in the name ("Zenovia, sora Sfântului Mucenic Zenovie"). What a name says
+  // of a relative is then neither an epithet nor a place of the saint. In one language
+  // it tells two saints apart ("Maria, soția Sfântului Cuvios Xenofont" / "Maria din Gatcina").
+  const sa = crossLanguage ? ownPart(a) : a;
+  const sb = crossLanguage ? ownPart(b) : b;
+  const oa = sa === a ? ea : extraKeys(sa);
+  const ob = sb === b ? eb : extraKeys(sb);
   // Epithets and places that share nothing: two different saints of the same name.
-  if (ea.length > 0 && eb.length > 0 && overlap === 0) score -= 0.25;
+  if (oa.length > 0 && ob.length > 0 && overlap === 0) score -= 0.25;
   // Two different places ("of Dymsk" / "din Veria") are two different saints, in any language.
-  const pa = placeKeys(a);
-  const pb = placeKeys(b);
+  const pa = placeKeys(sa);
+  const pb = placeKeys(sb);
   if (pa.length > 0 && pb.length > 0 && !pa.some((x) => pb.some((y) => x === y || nameSimilarity(x, y) >= 0.75))) score -= crossLanguage ? 0.3 : 0.1;
-  if (a.gender && b.gender && a.gender !== b.gender && !a.genderGuess && !b.genderGuess) score -= 0.3;
+  if (gendersDiffer(a, b)) score -= 0.3;
   // "Eustathius I" and "Eustathius II" are two archbishops.
   const na = numeralOf(a);
   const nb = numeralOf(b);
   if (na && nb && na !== nb) score -= 1;
   return score;
+}
+
+/**
+ * Whether two names are a woman's and a man's ("Antonina" / "Antonie",
+ * "Zenobia" / "Zenovie"), which share a name key. A gender guessed from the
+ * ending of a name counts only when that ending is what tells the two names
+ * apart: "Antonina", "Domna", "Seraphima" end in -a and "Antonie", "Domnin",
+ * "Serafim" do not; but "Aquila" (read as a woman's name) and "Achila" (a
+ * man, "Sfântul Apostol Achila") end alike, and may well be the same man.
+ */
+export function gendersDiffer(a: NamePart, b: NamePart): boolean {
+  if (!a.gender || !b.gender || a.gender === b.gender) return false;
+  if (!a.genderGuess && !b.genderGuess) return true;
+  const [woman, man] = a.gender === "female" ? [a, b] : [b, a];
+  return /a$/.test(fold(woman.given)) && !/a$/.test(fold(man.given));
+}
+
+/**
+ * How much two names agree besides their score, to choose between two
+ * persons that score the same: the same name in the table of equivalents
+ * ("Anthony" and "Antonie", not "Antonina"), the same gender.
+ */
+export function nameAgreement(a: NamePart, b: NamePart): number {
+  let n = 0;
+  if (a.eq && a.eq === b.eq) n++;
+  if (a.gender && b.gender) n += a.gender === b.gender ? 1 : -1;
+  return n;
+}
+
+/** Words that start what a name says of a relative: "sora Sfântului Mucenic Zenovie", "mother of Saint Gregory the Theologian". */
+const RELATIVE = /(?:^|[\s,])(?:(?:sora|surorile|fratele|frații|fratii|mama|tatăl|tatal|părinții|parintii|soția|sotia|soțul|sotul|fiul|fiica|fiii|fiicele|nepotul|nepoata|bunicul|bunica)\s|(?:sisters?|brothers?|mother|father|parents|wife|husband|sons?|daughters?|nephew|niece|grandmother|grandfather)\s+of\s)/iu;
+
+/** The part of a name about the saint, without what it says of a relative. */
+export function ownPart(part: NamePart): NamePart {
+  const m = RELATIVE.exec(part.text);
+  return m ? { ...part, text: part.text.slice(0, m.index) } : part;
 }
 
 /** Skeletons of the places in a name ("din Veria", "of Dymsk", "de la Calapodești"). */

@@ -18,8 +18,10 @@ import {
   addRef,
   displayOf,
   extraKeys,
+  gendersDiffer,
   holinessAgrees,
   holinessCompatible,
+  nameAgreement,
   namesConflict,
   newSlot,
   numeralOf,
@@ -430,6 +432,15 @@ export class Builder {
     return score;
   }
 
+  /** How much a name agrees with the names of a person besides the score (see nameAgreement), compared as slotScore compares them. */
+  slotAgreement(part: NamePart, lang: "ro" | "en", slot: Slot): number {
+    const same = slot[lang];
+    const names = same ? [same.part] : [slot[lang === "ro" ? "en" : "ro"]?.part, ...slot.alts];
+    let best: number | undefined;
+    for (const name of names) if (name) best = Math.max(best ?? -Infinity, nameAgreement(part, name));
+    return best ?? 0;
+  }
+
   private threshold(lang: "ro" | "en", slot: Slot): number {
     return slot[lang] ? 0.95 : 0.8;
   }
@@ -506,7 +517,7 @@ export class Builder {
     const holiness = new Set(p.holiness);
     const fits = (other: Set<HolinessType>): boolean => (rules.agree ? holinessAgrees(holiness, other) : holinessCompatible(holiness, other));
     const taken = new Set<Slot>();
-    const scored: Array<{ part: NamePart; slot: Slot; cluster: Cluster; score: number }> = [];
+    const scored: Array<{ part: NamePart; slot: Slot; cluster: Cluster; score: number; agreement: number }> = [];
     for (const part of p.names) {
       for (const c of pool) {
         if (!PERSON_KINDS.has(c.kind) && !(c.kind === "group" && c.slots.length > 0)) continue;
@@ -515,11 +526,11 @@ export class Builder {
           const score = this.slotScore(part, u.lang, slot) + (fits(slot.holiness) ? 0 : -0.15);
           // A second unit of the same source and day lands on a person only when it names it exactly.
           const again = slot.matched.has(`${u.source}@${mmdd(u.month, u.day)}`);
-          if (score >= (again ? Math.max(1, this.threshold(u.lang, slot)) : this.threshold(u.lang, slot))) scored.push({ part, slot, cluster: c, score });
+          if (score >= (again ? Math.max(1, this.threshold(u.lang, slot)) : this.threshold(u.lang, slot))) scored.push({ part, slot, cluster: c, score, agreement: this.slotAgreement(part, u.lang, slot) });
         }
       }
     }
-    scored.sort((a, b) => b.score - a.score);
+    scored.sort(bestFirst);
     const usedParts = new Set<NamePart>();
     const pairs: Array<[NamePart, Slot]> = [];
     const clusters: Cluster[] = [];
@@ -540,7 +551,7 @@ export class Builder {
         for (const slot of c.slots) {
           const name = slot[u.lang];
           if (!name || taken.has(slot) || slot.matched.has(`${u.source}@${mmdd(u.month, u.day)}`)) continue;
-          if (givenSimilarity(part, name.part) < 1) continue;
+          if (givenSimilarity(part, name.part) < 1 || gendersDiffer(part, name.part)) continue;
           if (!rules.anyHoliness && !fits(slot.holiness)) continue;
           if (rules.agree && namesConflict(part, name.part)) continue;
           if (rules.sameGender && part.gender && slot.gender && part.gender !== slot.gender) continue;
@@ -616,7 +627,7 @@ export class Builder {
    * Peter alone).
    */
   prematch(units: Unit[], pool: Cluster[]): Map<Unit, MatchResult> {
-    type Candidate = { u: Unit; part: NamePart; slot: Slot; cluster: Cluster; score: number };
+    type Candidate = { u: Unit; part: NamePart; slot: Slot; cluster: Cluster; score: number; agreement: number };
     const candidates: Candidate[] = [];
     for (const u of units) {
       const p = u.parsed;
@@ -627,12 +638,12 @@ export class Builder {
           if (!PERSON_KINDS.has(c.kind) && !(c.kind === "group" && c.slots.length > 0)) continue;
           for (const slot of c.slots) {
             const score = this.slotScore(part, u.lang, slot) + (holinessCompatible(new Set(p.holiness), slot.holiness) ? 0 : -0.15);
-            if (score >= this.threshold(u.lang, slot)) candidates.push({ u, part, slot, cluster: c, score });
+            if (score >= this.threshold(u.lang, slot)) candidates.push({ u, part, slot, cluster: c, score, agreement: this.slotAgreement(part, u.lang, slot) });
           }
         }
       }
     }
-    candidates.sort((a, b) => b.score - a.score);
+    candidates.sort(bestFirst);
     const out = new Map<Unit, MatchResult>();
     const done = new Set<NamePart>();
     const uses = new Map<Slot, number>();
@@ -1183,6 +1194,16 @@ function roIconName(rest: string): string {
 function withDiffers(line: LineDraft, month: number, day: number): LineDraft {
   const differs = line.clusters.some((c) => c.month > 0 && (c.month !== month || c.day !== day) && !(c.leapDay && month === 2 && day === 28));
   return differs ? { ...line, differs: true } : line;
+}
+
+/**
+ * Order of the candidate pairs of names and persons: the best score first;
+ * between equal scores (on the 0.05 grid of the scores), the pair whose
+ * names agree most, not the source that comes first ("Antonina" takes
+ * "Sfânta Muceniță Antonina" before "Sfântul Mucenic Antonie" can).
+ */
+function bestFirst(a: { score: number; agreement: number }, b: { score: number; agreement: number }): number {
+  return Math.round((b.score - a.score) * 1000) || b.agreement - a.agreement;
 }
 
 function firstIndex(c: Cluster, pairs: Array<[NamePart, Slot]>, names: NamePart[]): number {

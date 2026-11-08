@@ -11,6 +11,7 @@
     "validate": "node tools/validate.ts",
     "format": "node tools/format.ts",
     "generate": "node tools/generate.ts",
+    "wiki": "node tools/wiki.ts",
     "test": "node --test \"tests/**/*.test.ts\"",
     "typecheck": "tsc --noEmit && tsc --noEmit -p site",
     "check": "npm run typecheck && npm test && npm run validate",

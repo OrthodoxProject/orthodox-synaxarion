@@ -287,7 +287,7 @@ export function addCitation(list: Citation[], c: Citation): void {
 }
 
 /** Singular English honorific for one name of a list ("Martyrs" → "Martyr"). */
-const SINGULAR_EN = new Set(["martyrs", "hieromartyrs", "apostles", "prophets", "confessors", "venerables", "monks", "nuns", "virgins", "leaders", "fathers", "mothers", "hierarchs", "bishops", "passion-bearers", "newmartyrs", "wonderworkers", "princes", "myrrhbearers", "archangels", "deacons", "presbyters", "priests", "forefathers", "brothers", "sisters"]);
+const SINGULAR_EN = new Set(["martyrs", "hieromartyrs", "apostles", "prophets", "confessors", "venerables", "monks", "nuns", "virgins", "leaders", "fathers", "mothers", "hierarchs", "bishops", "passion-bearers", "newmartyrs", "wonderworkers", "princes", "myrrhbearers", "archangels", "deacons", "presbyters", "priests", "forefathers", "brothers", "sisters", "physicians", "ancestors"]);
 
 /** Titles of a woman named after a man in the same line ("Emperor Constantine with his Mother Helen"). */
 const FEMALE_EN: Record<string, string> = { emperor: "Empress", king: "Queen", prince: "Princess", tsar: "Tsaritsa" };

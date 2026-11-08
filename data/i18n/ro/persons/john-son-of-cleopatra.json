@@ -1,0 +1,22 @@
+{
+  "id": "john-son-of-cleopatra",
+  "locale": "ro",
+  "names": {
+    "display": "Fericitul Ioan, fiul Cleopatrei",
+    "short": "Ioan, fiul Cleopatrei",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/19/103001-blessed-cleopatra-with-her-son-john-in-egypt",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

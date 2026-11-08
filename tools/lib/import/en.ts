@@ -128,6 +128,8 @@ const HONORIFICS: Record<string, Honorific> = {
   ss: { plural: true },
   "god-seer": {},
   healer: { holiness: ["unmercenary"] },
+  physician: {},
+  physicians: { plural: true },
   layman: {},
   honored: {},
   honorable: {},
@@ -297,6 +299,17 @@ export function splitEnHonorifics(title: string): { honorific: string; rest: str
       plural = true;
       continue;
     }
+    // "Christ’s seventy-two Disciples" (folded without the apostrophe): the Lord's disciples, counted.
+    if (i === 0 && w === "christs") {
+      const next = fold(words[1] ?? "");
+      const n = Object.hasOwn(NUMBER_WORDS, next) ? NUMBER_WORDS[next] : compoundNumber(next);
+      if (n !== undefined) {
+        count = n;
+        plural = true;
+        i++;
+        continue;
+      }
+    }
     if ((w === "equal" || w === "equals") && /^(of|to)$/.test(fold(words[i + 1] ?? "")) && fold(words[i + 2] ?? "") === "the" && /^apostles/.test(fold(words[i + 3] ?? ""))) {
       holiness.add("equal_to_apostles");
       if (w === "equals") plural = true;
@@ -313,6 +326,12 @@ export function splitEnHonorifics(title: string): { honorific: string; rest: str
     }
     if (w === "equal-to-the-apostles" || w === "equal-of-the-apostles") {
       holiness.add("equal_to_apostles");
+      continue;
+    }
+    // "Holy and Righteous Ancestors of God, Joachim and Anna": a title, not a name.
+    if ((w === "ancestor" || w === "ancestors") && fold(words[i + 1] ?? "") === "of" && /^god\b/.test(fold(words[i + 2] ?? ""))) {
+      if (w === "ancestors") plural = true;
+      i += 2;
       continue;
     }
     // "The Holy Glorious and All-Praised Leaders of the Apostles, Peter and Paul"
@@ -375,6 +394,8 @@ export function splitEnNames(rest: string, gender?: Gender, plural = false): { n
     const sep = i === 0 ? "" : (pieces[i - 1] ?? "").trim();
     if (!seg) continue;
     if (/^(those|all|many|others|\d+|the \w+ (others|with)|(?:two|three|four|five|six|seven|eight|nine|ten|twelve) \w+)\b/i.test(seg) || /^(his|her|their) (companions|disciples)\b/i.test(seg)) break;
+    // "Augusta, Porphyrius the General, the 50 philosophers and the 200 Soldiers": members of the group, not names.
+    if (/^the \d+\b/i.test(seg)) continue;
     const h = splitEnHonorifics(seg);
     // "and the Czech Lands": an article alone does not announce another saint; nor does "Hermit Near Constantinople".
     if (h.honorific && !/^(?:the|our)$/i.test(h.honorific) && h.rest && /^[A-Z]/.test(h.rest) && !NOT_A_NAME.test(h.rest)) {
@@ -429,8 +450,8 @@ function feastOf(text: string): string | undefined {
   return undefined;
 }
 
-/** Events in the life of a saint, named as "<event> of <saint>". */
-const EVENT_OF = /^(?:The )?(?:Nativity|Birth|Entrance|Meeting|Raising|Coming|Arrival|Preaching|Ascension|Confession|Enthronement|Inauguration|Consultation|Beginning|Closing|Reign)\s+of\s+(.*)$/i;
+/** Events in the life of a saint, named as "<event> of <saint>" ("The Burning of Saint Sava's relics"). */
+const EVENT_OF = /^(?:The )?(?:Nativity|Birth|Entrance|Meeting|Raising|Coming|Arrival|Preaching|Ascension|Confession|Enthronement|Inauguration|Consultation|Beginning|Closing|Reign|Burning)\s+of\s+(.*)$/i;
 
 /** Words that name a saint: "Saint Severus", "the Apostle Andrew", "the righteous Lazarus". */
 const SAINT_MARK = /(?:^|\s)((?:Saints?|Sts?\.|St|the [Rr]ighteous|[Rr]ighteous|the Apostle|Apostle|the Prophet|Prophet|Pope|Great Martyr|Martyr|Venerable)\s+\p{Lu})/u;
@@ -442,7 +463,12 @@ const SAINT_MARK = /(?:^|\s)((?:Saints?|Sts?\.|St|the [Rr]ighteous|[Rr]ighteous|
  */
 function eventSubject(text: string): ParsedTitle | undefined {
   if (/\b(?:Theotokos|Mother of God)\b/i.test(text)) return parseEn("Theotokos");
-  const cut = (s: string): string => s.replace(/,?\s+(?:into|to|from|that|in|at)\s+.*$/, "").trim();
+  // "Saint Sava's relics" → Saint Sava.
+  const cut = (s: string): string =>
+    s
+      .replace(/,?\s+(?:into|to|from|that|in|at)\s+.*$/, "")
+      .replace(/['’]s\s+.*$/, "")
+      .trim();
   const own = cut(text);
   if (/\b(?:Church|Churches|Cathedral|Monastery|Temples?|Fast)\b/.test(own)) return undefined;
   let named: string | undefined;
@@ -503,7 +529,8 @@ export function parseEn(original: string): ParsedTitle {
     const subj = /\b(?:relics?|body|head) of (?:the |our )?(.*?)(?:,? (?:from|to|in|at) [A-Z].*)?$/i.exec(title);
     return { ...base, kind: "relics_finding", subject: parseEn(subj?.[1] ?? "") };
   }
-  const feast = FEASTS.find((f) => new RegExp(`^(?:the |feast of the |feast of |commemoration of the )?(?:${f.en.source})`, "i").test(title));
+  // "The Holy Transfiguration of our Lord God and Savior Jesus Christ", "the Life giving Annunciation"
+  const feast = FEASTS.find((f) => new RegExp(`^(?:the |feast of the |feast of |commemoration of the )?(?:(?:holy|life[- ]giving) )?(?:${f.en.source})`, "i").test(title));
   if (feast) return { ...base, kind: "feast", feast: feast.id };
   if (/\bIcon of the (?:Most Holy )?(?:Mother of God|Theotokos)\b|\bIcon of the Most Holy Theotokos\b/i.test(title)) {
     return { ...base, kind: "icon", icon: title };
@@ -525,8 +552,8 @@ export function parseEn(original: string): ParsedTitle {
     const inner = parseEn(m[1] ?? m[2] ?? "");
     if (inner.kind === "saint" || inner.kind === "saints" || inner.kind === "group") return { ...base, kind: "glorification", subject: inner };
   }
-  if ((m = /^(?:The )?(?:Repose|Falling Asleep|Dormition|Departure|Martyrdom|Translation to heaven|Burial) of (?:the |our )?(.*)$/i.exec(title))) {
-    // The saint's own day: the saint keeps the name the title gives, without "Repose of".
+  if ((m = /^(?:The )?(?:Repose|Falling Asleep|Dormition|Departure|Martyrdom|Beheading|Translation to heaven|Burial) of (?:the |our )?(.*)$/i.exec(title))) {
+    // The saint's own day: the saint keeps the name the title gives, without "Repose of" ("Beheading of Venerable Cornelius").
     const inner = parseEn(m[1] ?? "");
     if (inner.kind === "saint" || inner.kind === "saints" || inner.kind === "group") return inner;
   }
@@ -594,8 +621,14 @@ export function parseEn(original: string): ParsedTitle {
   const split = splitEnNames(h.rest, h.gender, h.plural);
   r.names = split.names;
   for (const x of split.holiness) add(x);
-  if (/\b(and|with) (those|all|many|\d+|two|three|four|five|six|seven|eight|nine|ten|twelve)(?: [\w-]+){0,2} (others|with|companions|martyrs|soldiers|sons|daughters|children|disciples|servants|female|fathers|monks|virgins|women|men)/i.test(h.rest) ||/\band (his|her|their) (companions|disciples|children|sons|daughters)\b/i.test(h.rest) || /\band those with (him|her|them)\b/i.test(h.rest)) {
+  // "Empress Augusta, Porphyrius the General, the 50 philosophers and the 200 Soldiers martyred with the Great Martyr Katherine": a group.
+  if (/\b(and|with) (?:the )?(those|all|many|\d+|two|three|four|five|six|seven|eight|nine|ten|twelve)(?: [\w-]+){0,2} (others|with|companions|martyrs|soldiers|sons|daughters|children|disciples|servants|female|fathers|monks|virgins|women|men)/i.test(h.rest) ||/\band (his|her|their) (companions|disciples|children|sons|daughters)\b/i.test(h.rest) || /\band those with (him|her|them)\b/i.test(h.rest)) {
     r.kind = "group";
+    // "… and the 200 Soldiers martyred with the Great Martyr Katherine", "… twelve other Monks, martyred at Vatopedi"
+    if (/\bmartyred\b/i.test(h.rest) && !r.holiness.some((x) => /martyr/.test(x))) {
+      if (r.holiness.includes("venerable")) r.holiness = [...r.holiness.filter((x) => x !== "venerable"), "venerable_martyr"];
+      else add("martyr");
+    }
     return r;
   }
   if (h.plural && r.names.length === 1) {

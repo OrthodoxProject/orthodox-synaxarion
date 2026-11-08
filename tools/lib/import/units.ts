@@ -227,6 +227,9 @@ export function parseCopticTitle(title: string): ParsedTitle {
     // "… and the Relocation of the Body of St. Theodore, the Prince, to Shotb", "… and the Relocation of His Holy Relics": a second commemoration.
     const relocation = /\s+and the ((?:Relocation|Translation|Translocation|Transfer) of (?:(?:His|Her|Their) (?:Holy )?(?:Relics|Body)|the (?:Holy )?(?:Relics|Body) of .+))$/i.exec(text);
     if (relocation) text = text.slice(0, relocation.index);
+    // "Holy Martyrs Alphaeus, Zacchaeus, Romanus and John, and the Commemoration of the Saints Thomas, Victor, and Isaac": two commemorations.
+    const other = /,?\s+and the Commemoration of (?:the )?(.+)$/i.exec(text);
+    if (other) text = text.slice(0, other.index);
     // "St. Archelaus and the Martyrdom of Elisha the Hegumen": two saints of the day.
     const two = /\s+and the (?:Martyrdom|Departure) of (?:the )?/i.test(text);
     text = text.replace(/\s+and the (?:Martyrdom|Departure) of (?:the )?/gi, " and ");
@@ -239,7 +242,10 @@ export function parseCopticTitle(title: string): ParsedTitle {
       if (/^(?:The )?Martyrdom/i.test(t) && !inner.holiness.some((h) => /martyr/.test(h))) inner.holiness = [...inner.holiness, "martyr"];
       // The person is named without "The Departure of"; the line keeps it as the day's title.
       const own: ParsedTitle = { ...inner, title: two && inner.names.length > 1 ? person.replace(/^Saint /, "Saints ") : person };
-      if (relocation?.[1]) own.also = [relocationOf(relocation[1], own.title)];
+      const also: ParsedTitle[] = [];
+      if (relocation?.[1]) also.push(relocationOf(relocation[1], own.title));
+      if (other?.[1]) also.push(parseCopticTitle(`The Commemoration of ${other[1]}`));
+      if (also.length > 0) own.also = also;
       return own;
     }
     return withCopticSubject({ ...inner, title });

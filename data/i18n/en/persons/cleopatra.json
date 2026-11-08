@@ -1,0 +1,20 @@
+{
+  "id": "cleopatra",
+  "locale": "en",
+  "names": {
+    "display": "Blessed Cleopatra",
+    "short": "Cleopatra",
+    "given": "Cleopatra"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/19/103001-blessed-cleopatra-with-her-son-john-in-egypt",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

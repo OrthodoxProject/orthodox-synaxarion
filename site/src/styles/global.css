@@ -125,6 +125,11 @@ main {
   padding-bottom: 3rem;
 }
 
+.report {
+  margin: 2.5rem 0 0;
+  font-size: 0.9rem;
+}
+
 .site-footer {
   border-top: 1px solid var(--border);
   color: var(--muted);

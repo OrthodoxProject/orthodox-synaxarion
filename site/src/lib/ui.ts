@@ -96,6 +96,7 @@ const ro = {
   backHome: "Înapoi la pagina zilei",
   footer: "Date deschise despre sfinții și sărbătorile ortodoxe.",
   sourceCode: "Codul și datele pe GitHub",
+  reportMistake: "Semnalează o greșeală",
   pascha: "Paștile",
   daysAfterPascha: "a {n}-a zi după Paști",
   daysBeforePascha: "cu {n} zile înainte de Paști",
@@ -202,6 +203,7 @@ const en: Record<UiKey, string> = {
   backHome: "Back to today",
   footer: "Open data on the Orthodox saints and feasts.",
   sourceCode: "Code and data on GitHub",
+  reportMistake: "Report a mistake",
   pascha: "Pascha",
   daysAfterPascha: "day {n} after Pascha",
   daysBeforePascha: "{n} days before Pascha",
@@ -219,3 +221,8 @@ export function t(lang: Lang, key: UiKey, values: Record<string, string | number
 }
 
 export const REPOSITORY_URL = "https://github.com/OrthodoxProject/orthodox-synaxarion";
+
+/** The form for correcting the data (.github/ISSUE_TEMPLATE/1-correction.yml), with its `where` field filled in with a page's address. */
+export function correctionUrl(pageUrl: string): string {
+  return `${REPOSITORY_URL}/issues/new?template=1-correction.yml&where=${encodeURIComponent(pageUrl)}`;
+}

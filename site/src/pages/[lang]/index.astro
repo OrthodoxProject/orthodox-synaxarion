@@ -15,9 +15,11 @@ const today = todayIso();
 const day = dayOf(tradition, today);
 const next = [1, 2, 3, 4, 5, 6].map((n) => dayOf(tradition, shiftIso(today, n))).filter((d) => d !== undefined);
 const others = calendarTraditions().filter((id) => id !== tradition);
+// A mistake in today's commemorations is reported with the day's own page, whose address does not change overnight.
+const report = day && dayHref(lang, tradition, today);
 ---
 
-<Base lang={lang} title={t(lang, "siteName")} current="today">
+<Base lang={lang} title={t(lang, "siteName")} current="today" report={report}>
   <p class="muted">{t(lang, "tagline")}</p>
   <h1>{longDateText(today, day?.weekday ?? "", lang)}</h1>
   <p class="muted">{traditionName(tradition, lang)}</p>

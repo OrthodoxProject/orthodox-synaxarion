@@ -1,0 +1,22 @@
+{
+  "id": "mamelta",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Mamelchtha",
+    "short": "Mamelchtha",
+    "given": "Mamelchtha"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-mamelta",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "iacov-tsalikis",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Iakovos Tsalikis",
+    "short": "Iakovos Tsalikis",
+    "given": "Iakovos"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-iacov-tsalikis",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

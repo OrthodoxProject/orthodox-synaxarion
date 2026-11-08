@@ -1,0 +1,23 @@
+{
+  "id": "joseph-of-karnu",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Iosif din Karnu, Georgia",
+    "full": "Sfântul Mucenic Iosif din Karnu, Georgia",
+    "short": "Iosif din Karnu, Georgia",
+    "given": "Iosif"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/16/103883-martyr-joseph-of-karnu-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

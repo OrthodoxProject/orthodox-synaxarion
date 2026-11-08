@@ -1,0 +1,23 @@
+{
+  "id": "john-vladimir",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mare Mc. Ioan Vladimir, cneazul Bulgariei, făcătorul de minuni",
+    "full": "Sfântul Mare Mucenic Ioan Vladimir, cneazul Bulgariei, făcătorul de minuni",
+    "short": "Ioan Vladimir, cneazul Bulgariei, făcătorul de minuni",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/22/101463-saint-john-vladimir-prince-of-bulgaria-greatmartyr-and-miracle-w",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

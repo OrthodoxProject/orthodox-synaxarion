@@ -1,0 +1,23 @@
+{
+  "id": "philotheus-the-presbyter-in-asia-minor",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Filotei preotul, din Asia Mică",
+    "full": "Sfântul Filotei preotul, din Asia Mică",
+    "short": "Filotei preotul, din Asia Mică",
+    "given": "Filotei"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/15/102622-saint-philotheus-the-presbyter-in-asia-minor",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

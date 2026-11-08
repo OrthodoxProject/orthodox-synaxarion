@@ -1,0 +1,23 @@
+{
+  "id": "daniel-of-moscow",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Binecredinciosul Cneaz Daniil din Moscova",
+    "full": "Sfântul Binecredinciosul Cneaz Daniil din Moscova",
+    "short": "Daniil din Moscova",
+    "given": "Daniil"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/04/100653-right-believing-prince-daniel-of-moscow",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "basil-and-companions",
+  "locale": "en",
+  "names": {
+    "display": "Hieromartyrs Basil, Eugene, Capito, Aetherius, Agathodorus and Elpidius, Bishops of Cherson"
+  },
+  "references": [
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-sfintit-mc-efrem-episcopul-tomisului-sf-sfintiti-mc-vasilevs-evghenie-capiton-eterie-agatodor-si-elpidie-episcopi-de-herson-pomenirea-celor-adormiti/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

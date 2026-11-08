@@ -1,0 +1,23 @@
+{
+  "id": "antiochus-the-physician-of-sebaste",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Antioh doctorul, din Sevastia",
+    "full": "Sfântul Mucenic Antioh doctorul, din Sevastia",
+    "short": "Antioh doctorul, din Sevastia",
+    "given": "Antioh"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/16/102038-martyr-antiochus-the-physician-of-sebaste",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

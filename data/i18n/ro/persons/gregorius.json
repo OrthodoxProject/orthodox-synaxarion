@@ -1,0 +1,23 @@
+{
+  "id": "gregorius",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Grigorie de Nyssa, fratele Sf. Vasile cel Mare",
+    "full": "Sfântul Grigorie de Nyssa, fratele Sfântului Vasile cel Mare",
+    "short": "Grigorie de Nyssa, fratele Sf. Vasile cel Mare",
+    "given": "Grigorie"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/5_21.html?lang=en#3",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

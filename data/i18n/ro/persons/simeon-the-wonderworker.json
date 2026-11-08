@@ -1,0 +1,23 @@
+{
+  "id": "simeon-the-wonderworker",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Simeon făcătorul de minuni",
+    "full": "Sfântul Cuvios Simeon făcătorul de minuni",
+    "short": "Simeon făcătorul de minuni",
+    "given": "Simeon"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/04/205477-venerable-simeon-the-wonderworker",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sweet-kissing-icon-of-theotokos",
+  "locale": "ro",
+  "names": {
+    "display": "Icoana Maicii Domnului „Dulcea sărutare”"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/14/101382-sweet-kissing-icon-of-the-mother-of-god",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

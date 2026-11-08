@@ -1,0 +1,23 @@
+{
+  "id": "alexis-the-man-of-god",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Alexie, omul lui Dumnezeu",
+    "full": "Sfântul Cuvios Alexie, omul lui Dumnezeu",
+    "short": "Alexie, omul lui Dumnezeu",
+    "given": "Alexie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/17/100822-venerable-alexis-the-man-of-god",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "maxim",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Maximus",
+    "short": "Maximus",
+    "given": "Maximus"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-maxim",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

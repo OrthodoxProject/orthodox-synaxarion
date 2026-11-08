@@ -1,0 +1,22 @@
+{
+  "id": "grigorie-kallidis-of-iraklia",
+  "locale": "en",
+  "names": {
+    "display": "Saint Gregory Kallidis, Archbishop of Heraclea and Raidestos",
+    "short": "Gregory Kallidis, Archbishop of Heraclea and Raidestos",
+    "given": "Gregory"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-grigorie-kallidis-arhiepiscopul-irakliei-redestului",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "alexander-of-guria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Alexandru, Episcopul de Guria și Samegrelo",
+    "full": "Sfântul Ierarh Alexandru, Episcopul de Guria și Samegrelo",
+    "short": "Alexandru, Episcopul de Guria și Samegrelo",
+    "given": "Alexandru"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/27/205494-hierarch-alexander-bishop-of-guria-and-samegrelo",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "vasile-of-tesalonic",
+  "locale": "en",
+  "names": {
+    "display": "Saint Basil, Bishop of Thessalonica",
+    "short": "Basil, Bishop of Thessalonica",
+    "given": "Basil"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-vasile-episcopul-tesalonicului",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

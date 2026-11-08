@@ -1,0 +1,23 @@
+{
+  "id": "james-the-wonderworker-of-rostov",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Iacob făcătorul de minuni, Episcopul Rostovului",
+    "full": "Sfântul Ierarh Iacob făcătorul de minuni, Episcopul Rostovului",
+    "short": "Iacob făcătorul de minuni, Episcopul Rostovului",
+    "given": "Iacob"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/27/103404-saint-james-the-wonderworker-bishop-of-rostov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

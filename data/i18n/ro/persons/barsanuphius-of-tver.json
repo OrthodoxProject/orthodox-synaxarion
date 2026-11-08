@@ -1,0 +1,23 @@
+{
+  "id": "barsanuphius-of-tver",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Varsanufie, Episcopul de Tver",
+    "full": "Sfântul Ierarh Varsanufie, Episcopul de Tver",
+    "short": "Varsanufie, Episcopul de Tver",
+    "given": "Varsanufie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/11/101054-saint-barsanuphius-bishop-of-tver",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

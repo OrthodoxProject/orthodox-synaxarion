@@ -1,0 +1,22 @@
+{
+  "id": "nestor",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Nestor",
+    "short": "Nestor",
+    "given": "Nestor"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-nestor-0",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "vas",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Bassus",
+    "short": "Bassus",
+    "given": "Bassus"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-vas",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

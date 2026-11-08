@@ -1,0 +1,23 @@
+{
+  "id": "malchus-of-chalcis",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Malh din Halkis, Siria",
+    "full": "Sfântul Cuvios Malh din Halkis, Siria",
+    "short": "Malh din Halkis, Siria",
+    "given": "Malh"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/26/100909-saint-malchus-of-chalcis-syria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

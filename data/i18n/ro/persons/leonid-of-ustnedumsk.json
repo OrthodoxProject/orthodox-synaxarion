@@ -1,0 +1,23 @@
+{
+  "id": "leonid-of-ustnedumsk",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Leonid de la Ustnedumsk",
+    "full": "Sfântul Cuvios Leonid de la Ustnedumsk",
+    "short": "Leonid de la Ustnedumsk",
+    "given": "Leonid"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/17/102045-venerable-leonid-of-ustnedumsk",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

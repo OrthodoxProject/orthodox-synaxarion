@@ -1,0 +1,23 @@
+{
+  "id": "maruthas-of-martyropolis",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Maruta, Episcopul Martiropolei, în Mesopotamia",
+    "full": "Sfântul Ierarh Maruta, Episcopul Martiropolei, în Mesopotamia",
+    "short": "Maruta, Episcopul Martiropolei, în Mesopotamia",
+    "given": "Maruta"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/16/100545-saint-maruthas-bishop-of-martyropolis-in-mesopotamia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "philothea-of-thrace",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Filofteia din Tracia, ocrotitoarea României",
+    "full": "Sfânta Filofteia din Tracia, ocrotitoarea României",
+    "short": "Filofteia din Tracia, ocrotitoarea României",
+    "given": "Filofteia"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/07/103491-saint-philothea-of-thrace-protectress-of-romania",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

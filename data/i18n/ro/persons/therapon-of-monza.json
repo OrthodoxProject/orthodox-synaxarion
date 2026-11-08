@@ -1,0 +1,28 @@
+{
+  "id": "therapon-of-monza",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Terapont, egumenul de la Monza",
+    "full": "Sfântul Cuvios Terapont, egumenul de la Monza",
+    "short": "Terapont, egumenul de la Monza",
+    "given": "Terapont"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/27/101550-venerable-therapon-abbot-of-monza",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/12/103527-venerable-therapon-abbot-of-monza",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

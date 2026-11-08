@@ -1,0 +1,23 @@
+{
+  "id": "mercurius-known-as-the-with-the-two",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mercurie, numit „sfântul cu cele două săbii”",
+    "full": "Sfântul Mercurie, numit „sfântul cu cele două săbii”",
+    "short": "Mercurie, numit „sfântul cu cele două săbii”",
+    "given": "Mercurie"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/3_25.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

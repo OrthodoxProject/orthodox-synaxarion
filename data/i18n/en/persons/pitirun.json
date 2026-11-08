@@ -1,0 +1,27 @@
+{
+  "id": "pitirun",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Pityrion",
+    "short": "Pityrion",
+    "given": "Pityrion"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-pitirun",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-paramon-si-filumen-sf-cuv-pitirun-dezlegare-la-peste/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

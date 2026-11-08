@@ -1,0 +1,23 @@
+{
+  "id": "daniel-the-archpriest-of-sheahat",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Daniil, protoiereul din Șeahat (Schit)",
+    "full": "Sfântul Daniil, protoiereul din Șeahat (Schit)",
+    "short": "Daniil, protoiereul din Șeahat",
+    "given": "Daniil"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/9_8.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

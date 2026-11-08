@@ -1,0 +1,23 @@
+{
+  "id": "tikhon-of-kaluga-or-medin",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Tihon din Kaluga sau din Medin",
+    "full": "Sfântul Cuvios Tihon din Kaluga sau din Medin",
+    "short": "Tihon din Kaluga sau din Medin",
+    "given": "Tihon"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/16/101739-venerable-tikhon-of-kaluga-or-medin",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

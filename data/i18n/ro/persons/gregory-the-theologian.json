@@ -1,0 +1,23 @@
+{
+  "id": "gregory-the-theologian",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Grigorie Teologul",
+    "full": "Sfântul Ierarh Grigorie Teologul",
+    "short": "Grigorie Teologul",
+    "given": "Grigorie"
+  },
+  "references": [
+    {
+      "source": "src:armenianchurch-ge",
+      "url": "https://armenianchurch.ge/en/kalendar-prazdnikov/description-2/august/commemoration-of-st-gregory-the-theologian",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

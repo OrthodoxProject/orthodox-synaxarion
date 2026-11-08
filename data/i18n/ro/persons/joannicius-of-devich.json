@@ -1,0 +1,23 @@
+{
+  "id": "joannicius-of-devich",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ioanichie de la Devici, Serbia",
+    "full": "Sfântul Cuvios Ioanichie de la Devici, Serbia",
+    "short": "Ioanichie de la Devici, Serbia",
+    "given": "Ioanichie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/26/101210-saint-joannicius-of-devich-serbia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

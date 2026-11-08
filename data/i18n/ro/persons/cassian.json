@@ -1,0 +1,23 @@
+{
+  "id": "cassian",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Casian",
+    "full": "Sfântul Cuvios Casian",
+    "short": "Casian",
+    "given": "Casian"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/15/101727-venerable-cassian-and-gregory-abbots-of-avnezh-vologda",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

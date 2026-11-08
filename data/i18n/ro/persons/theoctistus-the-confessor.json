@@ -1,0 +1,23 @@
+{
+  "id": "theoctistus-the-confessor",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Teoctist Mărturisitorul",
+    "full": "Sfântul Teoctist Mărturisitorul",
+    "short": "Teoctist Mărturisitorul",
+    "given": "Teoctist"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/20/205417-saint-theoctistus-the-confessor",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

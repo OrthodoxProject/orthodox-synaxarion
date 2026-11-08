@@ -1,0 +1,22 @@
+{
+  "id": "nichifor-leprosul",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Nikephoros the Leper",
+    "short": "Nikephoros the Leper",
+    "given": "Nikephoros"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-nichifor-leprosul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "mark-the-seventh",
+  "locale": "ro",
+  "names": {
+    "display": "Papa Marcu al VII-lea, al 106-lea Patriarh al Alexandriei",
+    "short": "Marcu al VII-lea, al 106-lea Patriarh al Alexandriei",
+    "given": "Marcu"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/9_12.html?lang=en#4",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "child-musa-of-rome",
+  "locale": "ro",
+  "names": {
+    "display": "Fericita copilă Musa din Roma",
+    "short": "Musa din Roma",
+    "given": "Musa"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/16/101401-blessed-child-musa-of-rome",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

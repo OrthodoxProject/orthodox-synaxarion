@@ -1,0 +1,20 @@
+{
+  "id": "rusticus-the-presbyter-and-eleutherius-the-deacon",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Rustic preotul și Elefterie diaconul"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/03/102844-martyrs-rusticus-the-presbyter-and-eleutherius-the-deacon",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

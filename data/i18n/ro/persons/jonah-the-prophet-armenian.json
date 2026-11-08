@@ -1,0 +1,23 @@
+{
+  "id": "jonah-the-prophet-armenian",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Proroc Iona",
+    "full": "Sfântul Proroc Iona",
+    "short": "Iona",
+    "given": "Iona"
+  },
+  "references": [
+    {
+      "source": "src:armenianchurch-ge",
+      "url": "https://armenianchurch.ge/en/kalendar-prazdnikov/description-2/january/commemoration-of-the-prophet-jonah",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

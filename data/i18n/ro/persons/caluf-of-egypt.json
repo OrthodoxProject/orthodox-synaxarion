@@ -1,0 +1,23 @@
+{
+  "id": "caluf-of-egypt",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Caluf din Egipt",
+    "full": "Sfântul Mucenic Caluf din Egipt",
+    "short": "Caluf din Egipt",
+    "given": "Caluf"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/19/101445-martyr-caluf-of-egypt",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

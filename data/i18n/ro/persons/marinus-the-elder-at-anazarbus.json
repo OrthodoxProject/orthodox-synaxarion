@@ -1,0 +1,23 @@
+{
+  "id": "marinus-the-elder-at-anazarbus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Marin cel Bătrân, din Anazarb",
+    "full": "Sfântul Mucenic Marin cel Bătrân, din Anazarb",
+    "short": "Marin cel Bătrân, din Anazarb",
+    "given": "Marin"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/18/102994-martyr-marinus-the-elder-at-anazarbus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "anastasius-of-epirus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Noul Mc. Anastasie din Epir",
+    "full": "Sfântul Noul Mucenic Anastasie din Epir",
+    "short": "Anastasie din Epir",
+    "given": "Anastasie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/18/205396-new-martyr-anastasius-of-epirus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

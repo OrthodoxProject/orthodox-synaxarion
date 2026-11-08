@@ -1,0 +1,20 @@
+{
+  "id": "anna-of-kashin--finding-of-relics",
+  "locale": "ro",
+  "names": {
+    "display": "Aflarea cinstitelor moaște ale Sf. Cuv. Ana de Kașin, binecredincioasa mare cneaghină și monahie, făcătoare de minuni"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/21/100175-the-finding-of-the-honored-relics-of-the-venerable-right-believi",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

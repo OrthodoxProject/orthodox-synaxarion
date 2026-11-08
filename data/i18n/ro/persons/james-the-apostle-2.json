@@ -1,0 +1,23 @@
+{
+  "id": "james-the-apostle-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ap. Iacob, ruda Domnului",
+    "full": "Sfântul Apostol Iacob, ruda Domnului",
+    "short": "Iacob, ruda Domnului",
+    "given": "Iacob"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/23/103039-apostle-james-the-brother-of-the-lord",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

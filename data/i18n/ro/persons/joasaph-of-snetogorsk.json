@@ -1,0 +1,23 @@
+{
+  "id": "joasaph-of-snetogorsk",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ioasaf de la Snetogorsk, Pskov",
+    "full": "Sfântul Cuvios Ioasaf de la Snetogorsk, Pskov",
+    "short": "Ioasaf de la Snetogorsk, Pskov",
+    "given": "Ioasaf"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/04/100651-venerable-joasaph-of-snetogorsk-pskov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

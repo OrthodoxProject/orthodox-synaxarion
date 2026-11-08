@@ -1,0 +1,23 @@
+{
+  "id": "bassianus-of-lodi",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Vasian, Episcopul de Lodi, în Liguria",
+    "full": "Sfântul Ierarh Vasian, Episcopul de Lodi, în Liguria",
+    "short": "Vasian, Episcopul de Lodi, în Liguria",
+    "given": "Vasian"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/10/101687-saint-bassianus-bishop-of-lodi-in-liguria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

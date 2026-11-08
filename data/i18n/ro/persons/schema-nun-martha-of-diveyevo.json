@@ -1,0 +1,23 @@
+{
+  "id": "schema-nun-martha-of-diveyevo",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Marta schimonahia, de la Diveevo",
+    "full": "Sfânta Cuvioasă Marta schimonahia, de la Diveevo",
+    "short": "Marta schimonahia, de la Diveevo",
+    "given": "Marta"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/21/100247-venerable-schema-nun-martha-of-diveyevo",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

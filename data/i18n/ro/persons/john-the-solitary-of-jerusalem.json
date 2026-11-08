@@ -1,0 +1,23 @@
+{
+  "id": "john-the-solitary-of-jerusalem",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ioan Sihastrul, din Ierusalim",
+    "full": "Sfântul Cuvios Ioan Sihastrul, din Ierusalim",
+    "short": "Ioan Sihastrul, din Ierusalim",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/19/101756-saint-john-the-solitary-of-jerusalem",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "thomas-of-bithynia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Toma din Bitinia",
+    "full": "Sfântul Cuvios Toma din Bitinia",
+    "short": "Toma din Bitinia",
+    "given": "Toma"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/10/103516-venerable-thomas-of-bithynia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

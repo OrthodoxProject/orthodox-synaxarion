@@ -1,0 +1,23 @@
+{
+  "id": "zenas-of-philadelphia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Zina din Filadelfia",
+    "full": "Sfântul Mucenic Zina din Filadelfia",
+    "short": "Zina din Filadelfia",
+    "given": "Zina"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/22/101780-martyrs-zeno-and-his-servant-zenas-of-philadelphia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

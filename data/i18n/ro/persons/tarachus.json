@@ -1,0 +1,23 @@
+{
+  "id": "tarachus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Tarah",
+    "full": "Sfântul Mucenic Tarah",
+    "short": "Tarah",
+    "given": "Tarah"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/12/102941-martyrs-probus-tarachus-and-andronicus-at-tarsus-in-cilicia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

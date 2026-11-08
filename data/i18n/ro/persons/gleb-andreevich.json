@@ -1,0 +1,23 @@
+{
+  "id": "gleb-andreevich",
+  "locale": "ro",
+  "names": {
+    "display": "Fericitul Cneaz Gleb Andreevici, fiul Sf. Andrei Bogoliubski",
+    "full": "Fericitul Cneaz Gleb Andreevici, fiul Sfântului Andrei Bogoliubski",
+    "short": "Gleb Andreevici, fiul Sf. Andrei Bogoliubski",
+    "given": "Gleb"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/20/101760-blessed-prince-gleb-andreevich-son-of-saint-andrew-bogoliubsky",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

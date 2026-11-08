@@ -1,0 +1,23 @@
+{
+  "id": "suchias-and-his-soldiers-in-georgia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Suhia și ostașii săi, din Georgia",
+    "full": "Sfântul Mucenic Suhia și ostașii săi, din Georgia",
+    "short": "Suhia și ostașii săi, din Georgia",
+    "given": "Suhia"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/15/101088-martyr-suchias-and-his-soldiers-in-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "joseph-the-patriarch",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Drept Iosif, patriarhul",
+    "full": "Sfântul Drept Iosif, patriarhul",
+    "short": "Iosif, patriarhul",
+    "given": "Iosif"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/31/205337-righteous-joseph-the-patriarch",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

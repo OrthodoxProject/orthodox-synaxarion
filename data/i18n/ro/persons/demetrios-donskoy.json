@@ -1,0 +1,23 @@
+{
+  "id": "demetrios-donskoy",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Binecredinciosul Dimitrie Donskoi, marele cneaz al Moscovei",
+    "full": "Sfântul Binecredinciosul Dimitrie Donskoi, marele cneaz al Moscovei",
+    "short": "Dimitrie Donskoi, marele cneaz al Moscovei",
+    "given": "Dimitrie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/19/101444-right-believing-demetrios-donskoy-grand-prince-of-moscow",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

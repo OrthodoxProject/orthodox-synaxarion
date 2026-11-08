@@ -1,0 +1,23 @@
+{
+  "id": "basil-of-zakholmsk",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Vasile, Episcopul de Zaholmsk, în Muntenegru, Serbia",
+    "full": "Sfântul Ierarh Vasile, Episcopul de Zaholmsk, în Muntenegru, Serbia",
+    "short": "Vasile, Episcopul de Zaholmsk, în Muntenegru, Serbia",
+    "given": "Vasile"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/29/101245-saint-basil-bishop-of-zakholmsk-in-montenegro-serbia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

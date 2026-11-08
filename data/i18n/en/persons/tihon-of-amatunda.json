@@ -1,0 +1,27 @@
+{
+  "id": "tihon-of-amatunda",
+  "locale": "en",
+  "names": {
+    "display": "Saint Tikhon, Bishop of Amathus",
+    "short": "Tikhon, Bishop of Amathus",
+    "given": "Tikhon"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-tihon-episcopul-amatundei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ier-martir-neofit-cretanul-mitropolitul-tarii-romanesti-sf-ier-tihon-episcopul-amatundei-dezlegare-la-peste/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

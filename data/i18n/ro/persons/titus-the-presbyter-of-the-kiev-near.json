@@ -1,0 +1,28 @@
+{
+  "id": "titus-the-presbyter-of-the-kiev-near",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Tit preotul, de la Peșterile Apropiate din Kiev",
+    "full": "Sfântul Cuvios Tit preotul, de la Peșterile Apropiate din Kiev",
+    "short": "Tit preotul, de la Peșterile Apropiate din Kiev",
+    "given": "Tit"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/27/100611-venerable-titus-the-presbyter-of-the-kiev-near-caves",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/27/100612-venerable-titus-the-soldier-of-the-kiev-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

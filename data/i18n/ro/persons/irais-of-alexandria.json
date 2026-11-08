@@ -1,0 +1,23 @@
+{
+  "id": "irais-of-alexandria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Fecioară Iraida din Alexandria",
+    "full": "Sfânta Muceniță Fecioară Iraida din Alexandria",
+    "short": "Iraida din Alexandria",
+    "given": "Iraida"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/23/102706-virgin-martyr-irais-rhais-of-alexandria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "gennadius-of-vatopedi",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ghenadie de la Vatoped, Muntele Athos",
+    "full": "Sfântul Cuvios Ghenadie de la Vatoped, Muntele Athos",
+    "short": "Ghenadie de la Vatoped, Muntele Athos",
+    "given": "Ghenadie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/17/103320-venerable-gennadius-of-vatopedi-mount-athos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

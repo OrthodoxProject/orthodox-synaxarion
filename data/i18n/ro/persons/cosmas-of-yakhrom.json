@@ -1,0 +1,23 @@
+{
+  "id": "cosmas-of-yakhrom",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Cosma de Yakhrom",
+    "full": "Sfântul Cuvios Cosma de Yakhrom",
+    "short": "Cosma de Yakhrom",
+    "given": "Cosma"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/18/100554-venerable-cosmas-of-yakhrom",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "wenceslaus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Vențeslav, cneazul cehilor",
+    "full": "Sfântul Mucenic Vențeslav, cneazul cehilor",
+    "short": "Vențeslav, cneazul cehilor",
+    "given": "Vențeslav"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/28/102754-martyr-wenceslaus-prince-of-the-czechs",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

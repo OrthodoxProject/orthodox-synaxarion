@@ -1,0 +1,23 @@
+{
+  "id": "askiot-of-georgia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Aschiot, regele Georgiei",
+    "full": "Sfântul Aschiot, regele Georgiei",
+    "short": "Aschiot, regele Georgiei",
+    "given": "Aschiot"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/27/100307-holy-king-askiot-of-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "acacius-of-apamea",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Acachie din Apameea",
+    "full": "Sfântul Mucenic Acachie din Apameea",
+    "short": "Acachie din Apameea",
+    "given": "Acachie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/28/102117-martyr-acacius-of-apamea",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

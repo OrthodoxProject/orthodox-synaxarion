@@ -1,0 +1,20 @@
+{
+  "id": "euthymius-of-dochiariou-monastery-and-neophytus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Eftimie, întemeietorul Mănăstirii Dohiariu din Muntele Athos, și Neofit, unul dintre întemeietorii mănăstirii"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/09/103262-venerable-euthymius-founder-of-dochiariou-monastery-mount-athos1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

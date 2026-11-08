@@ -1,0 +1,23 @@
+{
+  "id": "euthymius-the-confessor",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Eftimie Mărturisitorul",
+    "full": "Sfântul Eftimie Mărturisitorul",
+    "short": "Eftimie Mărturisitorul",
+    "given": "Eftimie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/20/205439-saint-euthymius-the-confessor",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

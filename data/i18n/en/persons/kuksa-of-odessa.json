@@ -1,0 +1,22 @@
+{
+  "id": "kuksa-of-odessa",
+  "locale": "en",
+  "names": {
+    "display": "Saint Kuksha of Odessa",
+    "short": "Kuksha of Odessa",
+    "given": "Kuksha"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-kuksa-din-odessa",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

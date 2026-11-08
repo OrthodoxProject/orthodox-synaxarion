@@ -1,0 +1,23 @@
+{
+  "id": "theodore-5",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Teodor, fiul său",
+    "full": "Sfântul Mucenic Teodor, fiul său",
+    "short": "Teodor, fiul său",
+    "given": "Teodor"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/12/102009-martyrs-theodore-and-his-son-john-of-kiev",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

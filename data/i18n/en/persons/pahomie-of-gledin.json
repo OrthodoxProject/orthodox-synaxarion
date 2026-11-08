@@ -1,0 +1,27 @@
+{
+  "id": "pahomie-of-gledin",
+  "locale": "en",
+  "names": {
+    "display": "Saint Pachomius of Gledin, Bishop of Roman",
+    "short": "Pachomius of Gledin, Bishop of Roman",
+    "given": "Pachomius"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-pahomie-de-la-gledin-episcopul-romanului",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sfintele-pasti-%e2%80%a0-sf-ier-pahomie-de-la-gledin-episcopul-romanului/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

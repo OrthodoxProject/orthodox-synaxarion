@@ -1,0 +1,23 @@
+{
+  "id": "justus-coptic",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Iust, al șaselea Papă al Scaunului Sf. Marcu",
+    "full": "Sfântul Ierarh Iust, al șaselea Papă al Scaunului Sfântului Marcu",
+    "short": "Iust, al șaselea Papă al Scaunului Sf. Marcu",
+    "given": "Iust"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/10_12.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

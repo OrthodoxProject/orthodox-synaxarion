@@ -1,0 +1,23 @@
+{
+  "id": "stanislav-of-licka-jesenica",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Stanislav din Lička Jesenica",
+    "full": "Sfântul Stanislav din Lička Jesenica",
+    "short": "Stanislav din Lička Jesenica",
+    "given": "Stanislav"
+  },
+  "references": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

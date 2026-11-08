@@ -1,0 +1,23 @@
+{
+  "id": "theophanes-the-confessor-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Teofan Mărturisitorul",
+    "full": "Sfântul Cuvios Teofan Mărturisitorul",
+    "short": "Teofan Mărturisitorul",
+    "given": "Teofan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/09/102551-venerable-theophanes-the-confessor-and-faster-of-mount-diabenos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

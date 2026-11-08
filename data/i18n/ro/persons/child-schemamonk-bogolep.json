@@ -1,0 +1,23 @@
+{
+  "id": "child-schemamonk-bogolep",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Bogolep, pruncul schimonah",
+    "full": "Sfântul Bogolep, pruncul schimonah",
+    "short": "Bogolep",
+    "given": "Bogolep"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/29/109011-child-schemamonk-bogolep",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

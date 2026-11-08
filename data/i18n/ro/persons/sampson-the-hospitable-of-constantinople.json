@@ -1,0 +1,23 @@
+{
+  "id": "sampson-the-hospitable-of-constantinople",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Samson primitorul de străini, din Constantinopol",
+    "full": "Sfântul Cuvios Samson primitorul de străini, din Constantinopol",
+    "short": "Samson primitorul de străini, din Constantinopol",
+    "given": "Samson"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/27/101828-saint-sampson-the-hospitable-of-constantinople",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

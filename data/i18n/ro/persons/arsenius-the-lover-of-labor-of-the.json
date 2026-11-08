@@ -1,0 +1,23 @@
+{
+  "id": "arsenius-the-lover-of-labor-of-the",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Arsenie cel iubitor de osteneală, de la Peșterile Depărtate din Kiev",
+    "full": "Sfântul Cuvios Arsenie cel iubitor de osteneală, de la Peșterile Depărtate din Kiev",
+    "short": "Arsenie cel iubitor de osteneală, de la Peșterile Depărtate din Kiev",
+    "given": "Arsenie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/08/107788-venerable-arsenius-the-lover-of-labor-of-the-kiev-far-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "anthony-the-roman-and-abbot-of-novgorod",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Antonie Romanul, egumenul din Novgorod",
+    "full": "Sfântul Cuvios Antonie Romanul, egumenul din Novgorod",
+    "short": "Antonie Romanul, egumenul din Novgorod",
+    "given": "Antonie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/03/102192-venerable-anthony-the-roman-and-abbot-of-novgorod",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "26-monastic-martyrs-of-zographou-mount-athos",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții 26 de cuvioși mucenici de la Zografu, Muntele Athos"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/21/102693-26-monastic-martyrs-of-zographou-mount-athos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "juliana-of-syria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Iuliana din Siria",
+    "full": "Sfânta Muceniță Iuliana din Siria",
+    "short": "Iuliana din Siria",
+    "given": "Iuliana"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/17/102311-martyrs-paul-and-juliana-of-syria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

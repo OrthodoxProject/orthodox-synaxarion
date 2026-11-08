@@ -1,0 +1,20 @@
+{
+  "id": "gregory-the-theologian-of-constantinople--translation-of-relics",
+  "locale": "ro",
+  "names": {
+    "display": "Mutarea moaștelor Sf. Ier. Grigorie Teologul, Arhiepiscopul Constantinopolului"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/19/100215-the-transfer-of-the-relics-of-saint-gregory-the-theologian",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

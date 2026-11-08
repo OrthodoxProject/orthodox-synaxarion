@@ -1,0 +1,22 @@
+{
+  "id": "gheorghe-of-ioannina",
+  "locale": "en",
+  "names": {
+    "display": "New Martyr George of Ioannina",
+    "short": "George of Ioannina",
+    "given": "George"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-noul-mucenic-gheorghe-din-ioannina",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

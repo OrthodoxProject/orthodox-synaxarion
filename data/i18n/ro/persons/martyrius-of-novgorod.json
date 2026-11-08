@@ -1,0 +1,23 @@
+{
+  "id": "martyrius-of-novgorod",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Martirie, Arhiepiscopul Novgorodului",
+    "full": "Sfântul Ierarh Martirie, Arhiepiscopul Novgorodului",
+    "short": "Martirie, Arhiepiscopul Novgorodului",
+    "given": "Martirie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/24/108973-saint-martyrius-archbishop-of-novgorod",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

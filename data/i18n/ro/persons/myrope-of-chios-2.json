@@ -1,0 +1,23 @@
+{
+  "id": "myrope-of-chios-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Miropi din Chios",
+    "full": "Sfânta Muceniță Miropi din Chios",
+    "short": "Miropi din Chios",
+    "given": "Miropi"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/14/101375-martyrs-isidore-and-myrope-of-chios",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

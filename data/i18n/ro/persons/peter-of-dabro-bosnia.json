@@ -1,0 +1,23 @@
+{
+  "id": "peter-of-dabro-bosnia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Petru, Mitropolitul Dabro-Bosniei",
+    "full": "Sfântul Sfințit Mucenic Petru, Mitropolitul Dabro-Bosniei",
+    "short": "Petru, Mitropolitul Dabro-Bosniei",
+    "given": "Petru"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/04/205313-hieromartyr-peter-metropolitan-of-dabro-bosnia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

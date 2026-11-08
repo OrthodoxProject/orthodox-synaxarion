@@ -1,0 +1,23 @@
+{
+  "id": "methodia-of-kimolos",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Dreaptă Metodia din Kimolos",
+    "full": "Sfânta Dreaptă Metodia din Kimolos",
+    "short": "Metodia din Kimolos",
+    "given": "Metodia"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/05/205394-righteous-methodia-of-kimolos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

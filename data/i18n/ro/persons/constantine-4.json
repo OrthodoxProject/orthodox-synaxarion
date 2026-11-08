@@ -1,0 +1,23 @@
+{
+  "id": "constantine-4",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Constantin, regele Georgiei",
+    "full": "Sfântul Mucenic Constantin, regele Georgiei",
+    "short": "Constantin, regele Georgiei",
+    "given": "Constantin"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/10/103275-martyr-constantine-king-of-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

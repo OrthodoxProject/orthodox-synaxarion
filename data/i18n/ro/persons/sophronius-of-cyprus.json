@@ -1,0 +1,23 @@
+{
+  "id": "sophronius-of-cyprus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Sofronie, Arhiepiscopul Ciprului",
+    "full": "Sfântul Ierarh Sofronie, Arhiepiscopul Ciprului",
+    "short": "Sofronie, Arhiepiscopul Ciprului",
+    "given": "Sofronie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/09/103508-saint-sophronius-archbishop-of-cyprus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

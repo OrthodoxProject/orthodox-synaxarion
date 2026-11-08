@@ -1,0 +1,23 @@
+{
+  "id": "xenia-of-kalamata",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mare Mc. Xenia din Kalamata",
+    "full": "Sfânta Mare Muceniță Xenia din Kalamata",
+    "short": "Xenia din Kalamata",
+    "given": "Xenia"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/03/100266-holy-great-martyr-xenia-of-kalamata",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

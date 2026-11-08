@@ -1,0 +1,23 @@
+{
+  "id": "eustathius-ii",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Eustatie al II-lea",
+    "full": "Sfântul Eustatie al II-lea",
+    "short": "Eustatie al II-lea",
+    "given": "Eustatie"
+  },
+  "references": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

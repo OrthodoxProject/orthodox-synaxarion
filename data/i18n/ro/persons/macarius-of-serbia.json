@@ -1,0 +1,28 @@
+{
+  "id": "macarius-of-serbia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Macarie, Patriarhul Serbiei",
+    "full": "Sfântul Ierarh Macarie, Patriarhul Serbiei",
+    "short": "Macarie, Patriarhul Serbiei",
+    "given": "Macarie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/30/102439-saint-macarius-patriarch-of-serbia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "aule",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Aule",
+    "full": "Sfântul Mucenic Aule",
+    "short": "Aule",
+    "given": "Aule"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/07/100460-martyr-aule",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "isidora-the-fool-of-tabenna-in-egypt",
+  "locale": "ro",
+  "names": {
+    "display": "Fericita Isidora, cea nebună pentru Hristos, de la Tabenna, în Egipt",
+    "short": "Isidora, cea nebună pentru Hristos, de la Tabenna, în Egipt",
+    "given": "Isidora"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/10/101345-blessed-isidora-the-fool-of-tabenna-in-egypt",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

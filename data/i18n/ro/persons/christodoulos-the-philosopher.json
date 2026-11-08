@@ -1,0 +1,23 @@
+{
+  "id": "christodoulos-the-philosopher",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Hristodul Filosoful",
+    "full": "Sfântul Cuvios Hristodul Filosoful",
+    "short": "Hristodul Filosoful",
+    "given": "Hristodul"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/18/205475-venerable-christodoulos-the-philosopher",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

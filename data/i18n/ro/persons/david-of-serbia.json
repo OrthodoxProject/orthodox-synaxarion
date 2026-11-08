@@ -1,0 +1,28 @@
+{
+  "id": "david-of-serbia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. David din Serbia",
+    "full": "Sfântul Cuvios David din Serbia",
+    "short": "David din Serbia",
+    "given": "David"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/24/108064-venerable-david-of-serbia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

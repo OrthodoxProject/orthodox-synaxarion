@@ -1,0 +1,23 @@
+{
+  "id": "aba-hour",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Aba-Hur",
+    "full": "Sfântul Aba-Hur",
+    "short": "Aba-Hur",
+    "given": "Aba-Hur"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/10_4.html?lang=en#4",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

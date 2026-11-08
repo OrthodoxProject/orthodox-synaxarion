@@ -1,0 +1,23 @@
+{
+  "id": "agapius-of-vatopedi",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Agapie de la Vatoped",
+    "full": "Sfântul Cuvios Agapie de la Vatoped",
+    "short": "Agapie de la Vatoped",
+    "given": "Agapie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/01/100633-venerable-agapius-of-vatopedi",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

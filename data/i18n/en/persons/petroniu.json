@@ -1,0 +1,22 @@
+{
+  "id": "petroniu",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Petronius",
+    "short": "Petronius",
+    "given": "Petronius"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-petroniu",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pimen-the-bulgarian-of-the-zographou-monastery",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Pimen Bulgarul, de la Mănăstirea Zografu, Muntele Athos",
+    "full": "Sfântul Cuvios Pimen Bulgarul, de la Mănăstirea Zografu, Muntele Athos",
+    "short": "Pimen Bulgarul, de la Mănăstirea Zografu, Muntele Athos",
+    "given": "Pimen"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/03/108028-venerable-pimen-the-bulgarian-of-the-zographou-monastery-mount-a",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

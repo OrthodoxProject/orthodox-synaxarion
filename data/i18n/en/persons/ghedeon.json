@@ -1,0 +1,27 @@
+{
+  "id": "ghedeon",
+  "locale": "en",
+  "names": {
+    "display": "Righteous Gideon",
+    "short": "Gideon",
+    "given": "Gideon"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/dreptul-ghedeon",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-mutarea-sf-ap-si-evanghelist-ioan-%e2%80%a0-sf-voievod-neagoe-basarab-sf-cuv-platonida-de-la-arges-fosta-despina-milita-sotia-voievodului-dreptul-ghedeon/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

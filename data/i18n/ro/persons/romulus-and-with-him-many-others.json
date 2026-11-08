@@ -1,0 +1,23 @@
+{
+  "id": "romulus-and-with-him-many-others",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Romul și mulți alții împreună cu el",
+    "full": "Sfântul Mucenic Romul și mulți alții împreună cu el",
+    "short": "Romul și mulți alții împreună cu el",
+    "given": "Romul"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/06/102522-martyr-romulus-and-with-him-many-others",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

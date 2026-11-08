@@ -1,0 +1,23 @@
+{
+  "id": "john-kochurov",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Ioan Kochurov, primul sfințit mucenic al Revoluției ruse",
+    "full": "Sfântul Sfințit Mucenic Ioan Kochurov, primul sfințit mucenic al Revoluției ruse",
+    "short": "Ioan Kochurov, primul sfințit mucenic al Revoluției ruse",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/russian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

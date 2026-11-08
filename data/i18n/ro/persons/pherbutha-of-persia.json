@@ -1,0 +1,23 @@
+{
+  "id": "pherbutha-of-persia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Fecioară Ferbuta din Persia, cu sora și slujnica ei",
+    "full": "Sfânta Muceniță Fecioară Ferbuta din Persia, cu sora și slujnica ei",
+    "short": "Ferbuta din Persia, cu sora și slujnica ei",
+    "given": "Ferbuta"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/04/100989-virgin-martyr-pherbutha-phermoutha-of-persia-with-her-sister-and",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

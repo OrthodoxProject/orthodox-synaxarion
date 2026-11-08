@@ -1,0 +1,22 @@
+{
+  "id": "vilie",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Vilius",
+    "short": "Vilius",
+    "given": "Vilius"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-vilie",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

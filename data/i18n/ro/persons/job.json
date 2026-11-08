@@ -1,0 +1,23 @@
+{
+  "id": "job",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Drept Iov",
+    "full": "Sfântul Drept Iov",
+    "short": "Iov",
+    "given": "Iov"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/9_2.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

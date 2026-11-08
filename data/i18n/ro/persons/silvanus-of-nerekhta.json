@@ -1,0 +1,23 @@
+{
+  "id": "silvanus-of-nerekhta",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Silvan din Nerehta",
+    "full": "Sfântul Cuvios Silvan din Nerehta",
+    "short": "Silvan din Nerehta",
+    "given": "Silvan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/15/101389-venerable-silvanus-of-nerekhta",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

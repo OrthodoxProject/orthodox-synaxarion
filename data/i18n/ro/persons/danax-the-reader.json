@@ -1,0 +1,23 @@
+{
+  "id": "danax-the-reader",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Danact citețul, din Macedonia",
+    "full": "Sfântul Mucenic Danact citețul, din Macedonia",
+    "short": "Danact citețul, din Macedonia",
+    "given": "Danact"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/16/100212-martyr-danax-the-reader-in-macedonia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

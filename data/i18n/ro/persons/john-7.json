@@ -1,0 +1,23 @@
+{
+  "id": "john-7",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Binecredinciosul Cneaz Ioan de Uglici, în monahism Ignatie",
+    "full": "Sfântul Binecredinciosul Cneaz Ioan de Uglici, în monahism Ignatie",
+    "short": "Ioan de Uglici, în monahism Ignatie",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/19/101441-right-believing-john-prince-of-uglich-tonsured-as-ignatius",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

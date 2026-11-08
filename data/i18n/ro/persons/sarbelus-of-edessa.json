@@ -1,0 +1,23 @@
+{
+  "id": "sarbelus-of-edessa",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Sarvil din Edesa",
+    "full": "Sfântul Mucenic Sarvil din Edesa",
+    "short": "Sarvil din Edesa",
+    "given": "Sarvil"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/05/102508-martyr-sarbelus-of-edessa",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "nikodemos-of-belgorod--finding-of-relics",
+  "locale": "ro",
+  "names": {
+    "display": "Aflarea moaștelor Sf. Sfințit Mc. Nicodim, Episcopul Belgorodului"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/20/100315-the-uncovering-of-the-relics-of-the-hieromartyr-ikdmos-bishop-of",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

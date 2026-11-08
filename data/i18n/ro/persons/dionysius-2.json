@@ -1,0 +1,23 @@
+{
+  "id": "dionysius-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Dionisie",
+    "full": "Sfântul Sfințit Mucenic Dionisie",
+    "short": "Dionisie",
+    "given": "Dionisie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/21/101169-hieromartyr-theodore-of-perge-in-pamphylia-his-mother-philippa-a",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

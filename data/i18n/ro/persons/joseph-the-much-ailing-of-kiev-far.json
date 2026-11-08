@@ -1,0 +1,23 @@
+{
+  "id": "joseph-the-much-ailing-of-kiev-far",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Iosif cel mult bolnav, de la Peșterile Depărtate din Kiev",
+    "full": "Sfântul Cuvios Iosif cel mult bolnav, de la Peșterile Depărtate din Kiev",
+    "short": "Iosif cel mult bolnav, de la Peșterile Depărtate din Kiev",
+    "given": "Iosif"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/04/100986-venerable-joseph-the-much-ailing-of-the-kiev-far-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

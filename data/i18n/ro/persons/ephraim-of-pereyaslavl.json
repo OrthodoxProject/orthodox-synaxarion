@@ -1,0 +1,23 @@
+{
+  "id": "ephraim-of-pereyaslavl",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Efrem, Episcopul de Pereiaslavl, de la Peșterile Depărtate din Kiev",
+    "full": "Sfântul Ierarh Efrem, Episcopul de Pereiaslavl, de la Peșterile Depărtate din Kiev",
+    "short": "Efrem, Episcopul de Pereiaslavl, de la Peșterile Depărtate din Kiev",
+    "given": "Efrem"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/28/100331-saint-ephraim-bishop-of-pereyaslavl-kiev-caves-far-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

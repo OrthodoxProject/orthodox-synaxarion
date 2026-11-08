@@ -1,0 +1,23 @@
+{
+  "id": "potamiani-of-alexandria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Potamiena din Alexandria",
+    "full": "Sfânta Potamiena din Alexandria",
+    "short": "Potamiena din Alexandria",
+    "given": "Potamiena"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/07/100544-saint-potamiani-of-alexandria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

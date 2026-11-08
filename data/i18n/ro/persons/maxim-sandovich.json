@@ -1,0 +1,23 @@
+{
+  "id": "maxim-sandovich",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Maxim Sandovici",
+    "full": "Sfântul Sfințit Mucenic Maxim Sandovici",
+    "short": "Maxim Sandovici",
+    "given": "Maxim"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/06/103799-hieromartyr-maxim-sandovich",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

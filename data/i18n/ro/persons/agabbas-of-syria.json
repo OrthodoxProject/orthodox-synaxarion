@@ -1,0 +1,23 @@
+{
+  "id": "agabbas-of-syria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Agava din Siria",
+    "full": "Sfântul Agava din Siria",
+    "short": "Agava din Siria",
+    "given": "Agava"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/22/103371-saint-agabbas-of-syria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

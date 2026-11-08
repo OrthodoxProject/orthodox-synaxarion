@@ -1,0 +1,23 @@
+{
+  "id": "ven-anthony-of-iezeru-valcea-skete",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Antonie de la Iezerul Vâlcii",
+    "full": "Sfântul Cuvios Antonie de la Iezerul Vâlcii",
+    "short": "Antonie de la Iezerul Vâlcii",
+    "given": "Antonie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/23/149005-ven-anthony-of-iezeru-vlcea-skete",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

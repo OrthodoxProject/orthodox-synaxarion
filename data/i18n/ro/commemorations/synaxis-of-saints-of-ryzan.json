@@ -1,0 +1,20 @@
+{
+  "id": "synaxis-of-saints-of-ryzan",
+  "locale": "ro",
+  "names": {
+    "display": "Soborul Sfinților din Riazan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/10/101688-synaxis-of-the-saints-of-ryzan",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

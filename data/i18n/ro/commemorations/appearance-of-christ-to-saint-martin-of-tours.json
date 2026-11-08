@@ -1,0 +1,20 @@
+{
+  "id": "appearance-of-christ-to-saint-martin-of-tours",
+  "locale": "ro",
+  "names": {
+    "display": "Arătarea lui Hristos către Sf. Martin de Tours"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/13/100243-appearance-of-christ-to-saint-martin-of-tours",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

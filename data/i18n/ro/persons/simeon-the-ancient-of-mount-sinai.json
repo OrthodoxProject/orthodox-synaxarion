@@ -1,0 +1,23 @@
+{
+  "id": "simeon-the-ancient-of-mount-sinai",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Simeon „cel Vechi” de la Muntele Sinai",
+    "full": "Sfântul Cuvios Simeon „cel Vechi” de la Muntele Sinai",
+    "short": "Simeon „cel Vechi” de la Muntele Sinai",
+    "given": "Simeon"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/26/100323-saint-simeon-the-ancient-of-mount-sinai",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

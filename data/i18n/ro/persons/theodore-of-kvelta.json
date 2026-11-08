@@ -1,0 +1,23 @@
+{
+  "id": "theodore-of-kvelta",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Teodor din Kvelta",
+    "full": "Sfântul Sfințit Mucenic Teodor din Kvelta",
+    "short": "Teodor din Kvelta",
+    "given": "Teodor"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/08/205448-hieromartyr-theodore-tevdore-of-kvelta",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

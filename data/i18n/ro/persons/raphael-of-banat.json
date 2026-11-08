@@ -1,0 +1,28 @@
+{
+  "id": "raphael-of-banat",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Rafail din Banat",
+    "full": "Sfântul Rafail din Banat",
+    "short": "Rafail din Banat",
+    "given": "Rafail"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/16/108057-saint-raphael-of-banat",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

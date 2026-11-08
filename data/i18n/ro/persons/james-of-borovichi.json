@@ -1,0 +1,22 @@
+{
+  "id": "james-of-borovichi",
+  "locale": "ro",
+  "names": {
+    "display": "Fericitul Iacob din Borovici, făcătorul de minuni din Novgorod",
+    "short": "Iacob din Borovici, făcătorul de minuni din Novgorod",
+    "given": "Iacob"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/22/107812-blessed-james-of-borovichi-wonderworker-of-novgorod",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

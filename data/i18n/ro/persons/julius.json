@@ -1,0 +1,23 @@
+{
+  "id": "julius",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Iuliu, preotul din Novara, și fratele său, Sf. Iulian diaconul",
+    "full": "Sfântul Iuliu, preotul din Novara, și fratele său, Sfântul Iulian diaconul",
+    "short": "Iuliu, preotul din Novara, și fratele său, Iulian diaconul",
+    "given": "Iuliu"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/21/101774-saint-julius-presbyter-of-novara-and-his-brother-saint-julian-th",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

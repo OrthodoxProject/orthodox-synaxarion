@@ -1,0 +1,23 @@
+{
+  "id": "hyperechius-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Iperechie",
+    "full": "Sfântul Mucenic Iperechie",
+    "short": "Iperechie",
+    "given": "Iperechie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/05/101616-martyrs-marcian-nicander-hyperechius-appolonius-leonidas-arius-g",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

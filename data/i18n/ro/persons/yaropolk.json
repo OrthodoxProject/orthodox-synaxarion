@@ -1,0 +1,22 @@
+{
+  "id": "yaropolk",
+  "locale": "ro",
+  "names": {
+    "display": "Fericitul Iaropolk (în Botez Petru), cneazul de Vladimir-Volînia",
+    "short": "Iaropolk, cneazul de Vladimir-Volînia",
+    "given": "Iaropolk"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/22/103364-blessed-yaropolk-in-baptism-peter-prince-of-vladimir-volhynia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

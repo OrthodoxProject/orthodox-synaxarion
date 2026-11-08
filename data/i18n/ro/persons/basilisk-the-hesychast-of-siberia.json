@@ -1,0 +1,23 @@
+{
+  "id": "basilisk-the-hesychast-of-siberia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Vasilisc Isihastul din Siberia",
+    "full": "Sfântul Cuvios Vasilisc Isihastul din Siberia",
+    "short": "Vasilisc Isihastul din Siberia",
+    "given": "Vasilisc"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/29/100304-venerable-basilisk-the-hesychast-of-siberia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

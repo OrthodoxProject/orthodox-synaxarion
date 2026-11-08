@@ -1,0 +1,23 @@
+{
+  "id": "alexander-of-oshevensk",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Alexandru, egumenul de la Oșevensk",
+    "full": "Sfântul Cuvios Alexandru, egumenul de la Oșevensk",
+    "short": "Alexandru, egumenul de la Oșevensk",
+    "given": "Alexandru"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/20/101157-venerable-alexander-abbot-of-oshevensk",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

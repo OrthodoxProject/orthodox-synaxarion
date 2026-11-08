@@ -1,0 +1,23 @@
+{
+  "id": "therapon-of-white-lake",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Terapont, egumenul de la Lacul Alb",
+    "full": "Sfântul Cuvios Terapont, egumenul de la Lacul Alb",
+    "short": "Terapont, egumenul de la Lacul Alb",
+    "given": "Terapont"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/27/101546-venerable-therapon-abbot-of-white-lake",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

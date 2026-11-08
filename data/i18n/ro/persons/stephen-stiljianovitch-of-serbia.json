@@ -1,0 +1,23 @@
+{
+  "id": "stephen-stiljianovitch-of-serbia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ștefan Știlianovici din Serbia",
+    "full": "Sfântul Ștefan Știlianovici din Serbia",
+    "short": "Ștefan Știlianovici din Serbia",
+    "given": "Ștefan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/04/102869-saint-stephen-stiljianovitch-of-serbia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

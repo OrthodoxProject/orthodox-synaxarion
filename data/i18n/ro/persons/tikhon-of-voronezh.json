@@ -1,0 +1,23 @@
+{
+  "id": "tikhon-of-voronezh",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Tihon, Episcopul Voronejului, făcătorul de minuni din Zadonsk și al Întregii Rusii",
+    "full": "Sfântul Ierarh Tihon, Episcopul Voronejului, făcătorul de minuni din Zadonsk și al Întregii Rusii",
+    "short": "Tihon, Episcopul Voronejului, făcătorul de minuni din Zadonsk",
+    "given": "Tihon"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/13/102287-saint-tikhon-bishop-of-voronezh-wonderworker-of-zadonsk-and-all",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

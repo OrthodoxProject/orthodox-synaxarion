@@ -1,0 +1,20 @@
+{
+  "id": "commemoration-of-the-visit-of-our-lord-christ",
+  "locale": "ro",
+  "names": {
+    "display": "Pomenirea venirii Domnului nostru Hristos în Betania"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/7_21.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

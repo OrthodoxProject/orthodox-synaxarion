@@ -1,0 +1,23 @@
+{
+  "id": "theodore-of-serbia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Teodor (Komogovin) din Serbia",
+    "full": "Sfântul Teodor (Komogovin) din Serbia",
+    "short": "Teodor din Serbia",
+    "given": "Teodor"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/18/108039-saint-theodore-komogovin-of-serbia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

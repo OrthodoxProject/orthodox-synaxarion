@@ -1,0 +1,23 @@
+{
+  "id": "gregory-coptic",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Grigorie, făcătorul de minuni",
+    "full": "Sfântul Grigorie, făcătorul de minuni",
+    "short": "Grigorie, făcătorul de minuni",
+    "given": "Grigorie"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/3_21.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

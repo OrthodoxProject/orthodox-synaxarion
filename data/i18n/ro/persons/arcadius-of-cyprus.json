@@ -1,0 +1,23 @@
+{
+  "id": "arcadius-of-cyprus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Arcadie din Cipru",
+    "full": "Sfântul Cuvios Arcadie din Cipru",
+    "short": "Arcadie din Cipru",
+    "given": "Arcadie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/06/100683-venerable-arcadius-of-cyprus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

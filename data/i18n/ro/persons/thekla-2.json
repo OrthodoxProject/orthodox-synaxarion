@@ -1,0 +1,23 @@
+{
+  "id": "thekla-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Fecioară Tecla",
+    "full": "Sfânta Muceniță Fecioară Tecla",
+    "short": "Tecla",
+    "given": "Tecla"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/06/101636-virgin-martyrs-archelais-thekla-and-susanna-at-salerno",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "gudelia",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Gudelia",
+    "short": "Gudelia",
+    "given": "Gudelia"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-gudelia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

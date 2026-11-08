@@ -1,0 +1,23 @@
+{
+  "id": "theodosius-of-chernigov",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Teodosie de Cernigov",
+    "full": "Sfântul Ierarh Teodosie de Cernigov",
+    "short": "Teodosie de Cernigov",
+    "given": "Teodosie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/05/100432-repose-of-saint-theodosius-of-chernigov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

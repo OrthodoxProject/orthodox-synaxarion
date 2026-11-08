@@ -1,0 +1,22 @@
+{
+  "id": "alexandru-of-alexandria",
+  "locale": "en",
+  "names": {
+    "display": "Saint Alexander, Archbishop of Alexandria",
+    "short": "Alexander, Archbishop of Alexandria",
+    "given": "Alexander"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-alexandru-arhiepiscopul-alexandriei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

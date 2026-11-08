@@ -1,0 +1,22 @@
+{
+  "id": "inochentie-al-penzei",
+  "locale": "en",
+  "names": {
+    "display": "Saint Innocent of Penza",
+    "short": "Innocent of Penza",
+    "given": "Innocent"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-inochentie-al-penzei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

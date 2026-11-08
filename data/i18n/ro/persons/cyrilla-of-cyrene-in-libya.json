@@ -1,0 +1,23 @@
+{
+  "id": "cyrilla-of-cyrene-in-libya",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Chirila din Cirene, Libia, văduvă",
+    "full": "Sfânta Muceniță Chirila din Cirene, Libia, văduvă",
+    "short": "Chirila din Cirene, Libia, văduvă",
+    "given": "Chirila"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/05/101912-martyr-cyrilla-of-cyrene-in-libya-a-widow",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

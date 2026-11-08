@@ -1,0 +1,23 @@
+{
+  "id": "anthony-of-the-kiev-far-caves",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Antonie de la Peșterile Depărtate din Kiev, întemeietorul monahismului în Rusia",
+    "full": "Sfântul Cuvios Antonie de la Peșterile Depărtate din Kiev, întemeietorul monahismului în Rusia",
+    "short": "Antonie de la Peșterile Depărtate din Kiev, întemeietorul monahismului în Rusia",
+    "given": "Antonie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/10/101994-venerable-anthony-of-the-kiev-far-caves-founder-of-monasticism-i",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

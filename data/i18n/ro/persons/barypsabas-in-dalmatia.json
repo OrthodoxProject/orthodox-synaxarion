@@ -1,0 +1,23 @@
+{
+  "id": "barypsabas-in-dalmatia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Varipsav din Dalmația",
+    "full": "Sfântul Mucenic Varipsav din Dalmația",
+    "short": "Varipsav din Dalmația",
+    "given": "Varipsav"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/10/102565-martyr-barypsabas-in-dalmatia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

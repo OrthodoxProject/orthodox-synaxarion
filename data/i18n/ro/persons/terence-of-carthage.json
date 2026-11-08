@@ -1,0 +1,23 @@
+{
+  "id": "terence-of-carthage",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Terentie din Cartagina",
+    "full": "Sfântul Mucenic Terentie din Cartagina",
+    "short": "Terentie din Cartagina",
+    "given": "Terentie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/13/100794-martyrs-africanus-publius-and-terence-of-carthage",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

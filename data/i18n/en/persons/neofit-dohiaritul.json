@@ -1,0 +1,22 @@
+{
+  "id": "neofit-dohiaritul",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Neophytus of Dochiariou",
+    "short": "Neophytus of Dochiariou",
+    "given": "Neophytus"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cuviosul-neofit-dohiaritul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

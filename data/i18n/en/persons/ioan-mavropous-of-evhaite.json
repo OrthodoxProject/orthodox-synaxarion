@@ -1,0 +1,22 @@
+{
+  "id": "ioan-mavropous-of-evhaite",
+  "locale": "en",
+  "names": {
+    "display": "Saint John Mauropous, Metropolitan of Euchaita",
+    "short": "John Mauropous, Metropolitan of Euchaita",
+    "given": "John"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ioan-mavropous-mitropolitul-evhaitelor",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

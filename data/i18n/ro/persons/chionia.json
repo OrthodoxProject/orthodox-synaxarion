@@ -1,0 +1,23 @@
+{
+  "id": "chionia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Fecioară Hionia din Iliria",
+    "full": "Sfânta Muceniță Fecioară Hionia din Iliria",
+    "short": "Hionia din Iliria",
+    "given": "Hionia"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/16/101106-virgin-martyrs-agape-irene-and-chionia-in-illyria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

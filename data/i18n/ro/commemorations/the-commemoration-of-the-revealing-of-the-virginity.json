@@ -1,0 +1,20 @@
+{
+  "id": "the-commemoration-of-the-revealing-of-the-virginity",
+  "locale": "ro",
+  "names": {
+    "display": "Pomenirea descoperirii fecioriei Sf. Dimitrie, al 12-lea Papă al Alexandriei"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/7_12.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

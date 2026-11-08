@@ -1,0 +1,23 @@
+{
+  "id": "syra-of-persia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Fecioară Sira din Persia",
+    "full": "Sfânta Muceniță Fecioară Sira din Persia",
+    "short": "Sira din Persia",
+    "given": "Sira"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/24/102387-virgin-martyr-syra-of-persia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

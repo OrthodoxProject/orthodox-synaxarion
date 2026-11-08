@@ -4,7 +4,7 @@ import Placements from "../../../components/Placements.astro";
 import Provenance from "../../../components/Provenance.astro";
 import Texts from "../../../components/Texts.astro";
 import Base from "../../../layouts/Base.astro";
-import { bibleRefText, commName, edtfText, languageName, linkOf, localeOf, nameOf, placeText, readingRoleText, ruleText, vocab } from "../../../lib/format.ts";
+import { bibleRefText, commName, edtfText, languageNotice, linkOf, localeOf, nameOf, placeText, readingRoleText, ruleText, vocab } from "../../../lib/format.ts";
 import { redirectPage } from "../../../lib/redirect.ts";
 import { aliasesOf, ds, feastIds, href, record } from "../../../lib/site.ts";
 import { LANGS, t, type Lang } from "../../../lib/ui.ts";
@@ -31,6 +31,7 @@ const subjects = (rec.subjects ?? []) as string[];
 const related = [...(ds().records.get("commemorations") ?? [])].filter(([, c]) => c.parent_feast === ref).map(([cid]) => `comm:${cid}`);
 const readings = (rec.readings ?? []) as Rec[];
 const folk = (loc.names.folk ?? []) as string[];
+const notice = languageNotice(loc, lang);
 ---
 
 <Base lang={lang} title={commName(ref, lang)} description={loc.summary} segments={["feasts", id]} current="saints">
@@ -41,7 +42,7 @@ const folk = (loc.names.folk ?? []) as string[];
       {[vocab(lang, `commemoration_kind.${rec.kind}`), rec.default_rank && vocab(lang, `typikon_rank.${rec.default_rank}`)].filter(Boolean).join(" · ")}
     </p>
     {rec.editorial?.status === "draft" && <p class="draft" data-pagefind-ignore>{t(lang, "draft")}</p>}
-    {loc.locale && loc.locale !== lang && <p class="muted" data-pagefind-ignore>{t(lang, "notTranslated", { language: languageName(loc.locale, lang) })}</p>}
+    {notice && <p class="muted" data-pagefind-ignore>{notice}</p>}
     {loc.summary && <p class="summary" lang={loc.locale !== lang ? loc.locale : undefined}>{loc.summary}</p>}
 
     <section>

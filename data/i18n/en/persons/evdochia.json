@@ -1,0 +1,27 @@
+{
+  "id": "evdochia",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Martyr Eudocia",
+    "short": "Eudocia",
+    "given": "Eudocia"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-mucenita-evdochia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-mc-evdochia-sf-cuv-domnina-duminica-intai-din-post-a-ortodoxiei-ap-evrei-11-24-26-32-40-ev-ioan-1-43-51-chemarea-lui-filip-si-a-lui-natanael-glas-5-voscr-5/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "ibrahim-el-gohari",
+  "locale": "ro",
+  "names": {
+    "display": "Preacinstitul mirean Ibrahim El-Gohari",
+    "short": "Ibrahim El-Gohari",
+    "given": "Ibrahim"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/9_23.html?lang=en#2",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/9_25.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

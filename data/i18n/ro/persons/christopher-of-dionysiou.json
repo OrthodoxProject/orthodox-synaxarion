@@ -1,0 +1,23 @@
+{
+  "id": "christopher-of-dionysiou",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Hristofor de la Dionisiu, Muntele Athos",
+    "full": "Sfântul Cuvios Mucenic Hristofor de la Dionisiu, Muntele Athos",
+    "short": "Hristofor de la Dionisiu, Muntele Athos",
+    "given": "Hristofor"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/16/101118-monastic-martyr-christopher-of-dionysiou-mount-athos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

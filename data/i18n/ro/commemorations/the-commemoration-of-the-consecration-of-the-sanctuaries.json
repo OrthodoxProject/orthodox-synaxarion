@@ -1,0 +1,20 @@
+{
+  "id": "the-commemoration-of-the-consecration-of-the-sanctuaries",
+  "locale": "ro",
+  "names": {
+    "display": "Pomenirea sfințirii altarelor Bisericii Învierii din Ierusalim"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/1_16.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

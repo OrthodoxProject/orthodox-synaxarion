@@ -1,0 +1,23 @@
+{
+  "id": "elizabar",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mare Mc. Cneaz Elizabar",
+    "full": "Sfântul Mare Mucenic Cneaz Elizabar",
+    "short": "Elizabar",
+    "given": "Elizabar"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/18/102658-greatmartyr-prince-bidzini-and-martyrs-princes-elizabar-and-shal",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

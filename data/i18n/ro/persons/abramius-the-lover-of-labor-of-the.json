@@ -1,0 +1,23 @@
+{
+  "id": "abramius-the-lover-of-labor-of-the",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Avramie cel iubitor de osteneală, de la Peșterile Apropiate din Kiev",
+    "full": "Sfântul Cuvios Avramie cel iubitor de osteneală, de la Peșterile Apropiate din Kiev",
+    "short": "Avramie cel iubitor de osteneală, de la Peșterile Apropiate din Kiev",
+    "given": "Avramie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/21/102362-venerable-abramius-the-lover-of-labor-of-the-kiev-near-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

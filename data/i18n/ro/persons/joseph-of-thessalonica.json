@@ -1,0 +1,23 @@
+{
+  "id": "joseph-of-thessalonica",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Iosif, Episcopul Tesalonicului și fratele Sf. Teodor Studitul",
+    "full": "Sfântul Ierarh Iosif, Episcopul Tesalonicului și fratele Sfântului Teodor Studitul",
+    "short": "Iosif, Episcopul Tesalonicului și fratele Sf. Teodor Studitul",
+    "given": "Iosif"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/26/100324-saint-joseph-bishop-of-thessalonica-and-brother-of-saint-theodor",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

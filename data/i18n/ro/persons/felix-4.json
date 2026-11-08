@@ -1,0 +1,23 @@
+{
+  "id": "felix-4",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Felix",
+    "full": "Sfântul Mucenic Felix",
+    "short": "Felix",
+    "given": "Felix"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/22/102374-virgin-martyr-eulalia-of-barcelona-and-the-martyr-felix",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

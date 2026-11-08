@@ -1,0 +1,20 @@
+{
+  "id": "commemoration-of-the-miracle-at-the-monastery-of",
+  "locale": "ro",
+  "names": {
+    "display": "Pomenirea minunii petrecute în Lavra Peșterilor de la Kiev"
+  },
+  "references": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/russian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "euthymios-of-trnovo",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Eftimie, Patriarhul de Târnovo",
+    "full": "Sfântul Ierarh Eftimie, Patriarhul de Târnovo",
+    "short": "Eftimie, Patriarhul de Târnovo",
+    "given": "Eftimie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/20/108003-saint-euthymios-patriarch-of-trnovo",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

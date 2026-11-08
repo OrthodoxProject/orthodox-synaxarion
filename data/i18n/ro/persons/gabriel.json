@@ -1,0 +1,23 @@
+{
+  "id": "gabriel",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Gavriil",
+    "full": "Sfântul Mucenic Gavriil",
+    "short": "Gavriil",
+    "given": "Gavriil"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/01/103851-martyrs-shio-david-gabriel-and-paul-of-akhalkalaki-in-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

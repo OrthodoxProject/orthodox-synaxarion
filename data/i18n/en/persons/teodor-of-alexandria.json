@@ -1,0 +1,22 @@
+{
+  "id": "teodor-of-alexandria",
+  "locale": "en",
+  "names": {
+    "display": "Hieromartyr Theodore, Archbishop of Alexandria",
+    "short": "Theodore, Archbishop of Alexandria",
+    "given": "Theodore"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-sfintit-mucenic-teodor-arhiepiscopul-alexandriei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

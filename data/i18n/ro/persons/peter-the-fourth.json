@@ -1,0 +1,23 @@
+{
+  "id": "peter-the-fourth",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Petru al IV-lea, al 34-lea Papă al Alexandriei",
+    "full": "Sfântul Ierarh Petru al IV-lea, al 34-lea Papă al Alexandriei",
+    "short": "Petru al IV-lea, al 34-lea Papă al Alexandriei",
+    "given": "Petru"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/10_25.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

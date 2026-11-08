@@ -1,0 +1,28 @@
+{
+  "id": "stephen-of-constantinople",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ștefan din Constantinopol",
+    "full": "Sfântul Ștefan din Constantinopol",
+    "short": "Ștefan din Constantinopol",
+    "given": "Ștefan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/27/109064-saint-stephen-of-constantinople",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/17/101411-saint-stephen-archbishop-of-constantinople",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

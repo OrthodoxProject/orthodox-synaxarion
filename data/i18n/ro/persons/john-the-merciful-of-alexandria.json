@@ -1,0 +1,23 @@
+{
+  "id": "john-the-merciful-of-alexandria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ioan cel Milostiv, Patriarhul Alexandriei",
+    "full": "Sfântul Ierarh Ioan cel Milostiv, Patriarhul Alexandriei",
+    "short": "Ioan cel Milostiv, Patriarhul Alexandriei",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/12/103286-saint-john-the-merciful-patriarch-of-alexandria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

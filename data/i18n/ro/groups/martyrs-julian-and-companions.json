@@ -1,0 +1,20 @@
+{
+  "id": "martyrs-julian-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Iulian și soția sa, Vasilisa, și cei împreună cu ei, în Egipt"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/08/100123-martyrs-julian-and-his-wife-basilissa-and-those-with-them-in-egy",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

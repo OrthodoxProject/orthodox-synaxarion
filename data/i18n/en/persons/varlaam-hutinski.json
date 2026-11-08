@@ -1,0 +1,22 @@
+{
+  "id": "varlaam-hutinski",
+  "locale": "en",
+  "names": {
+    "display": "Saint Barlaam of Khutyn",
+    "short": "Barlaam of Khutyn",
+    "given": "Barlaam"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-varlaam-hutinski",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

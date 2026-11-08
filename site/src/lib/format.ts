@@ -1,6 +1,6 @@
 /** Names, dates, rules and references, rendered in the reader's language. */
 import { jdnToGregorian, julianToJdn } from "../../../tools/lib/calendar.ts";
-import type { LongText } from "../../../tools/lib/dataset.ts";
+import { isMachineTranslation, type LongText } from "../../../tools/lib/dataset.ts";
 import { REF_PREFIXES } from "../../../tools/lib/layout.ts";
 import { ds, href, idOf, pageSubject, record, todayIso, type Placement } from "./site.ts";
 import { t, type Lang } from "./ui.ts";
@@ -25,42 +25,36 @@ export function vocab(lang: Lang, key: string, form?: Form): string {
   return key.slice(key.indexOf(".") + 1).replace(/_/g, " ");
 }
 
-/** Machine translations are published only after a person has reviewed them. */
-export function publishable(rec: Rec | undefined): boolean {
-  const translation = rec?.translation as Rec | undefined;
-  const machine = translation?.method === "machine" || translation?.status === "machine";
-  return !machine || translation?.status === "reviewed" || translation?.status === "approved";
-}
-
 export function exactLocale(collection: string, id: string, lang: string): Rec | undefined {
-  const found = ds().locales.get(collection)?.get(id)?.get(lang);
-  return publishable(found) ? found : undefined;
+  return ds().locales.get(collection)?.get(id)?.get(lang);
 }
 
-/** Locale record in the reader's language, else English or Romanian, else any language. */
+/**
+ * Locale record in the reader's language, else English or Romanian, else any language.
+ * A machine translation in the reader's language comes first; pages say that no one has reviewed it yet.
+ */
 export function localeOf(collection: string, id: string, lang: Lang): Rec | undefined {
   const byLocale = ds().locales.get(collection)?.get(id);
   if (!byLocale) return undefined;
   for (const l of FALLBACK[lang]) {
     const found = byLocale.get(l);
-    if (found && publishable(found)) return found;
+    if (found) return found;
   }
-  return [...byLocale.values()].find((r) => publishable(r));
+  return byLocale.values().next().value;
 }
 
-/** All published locale records of a record, by locale. */
+/** All locale records of a record, by locale. */
 export function allLocales(collection: string, id: string): Map<string, Rec> {
-  return new Map([...(ds().locales.get(collection)?.get(id) ?? [])].filter(([, r]) => publishable(r)));
+  return ds().locales.get(collection)?.get(id) ?? new Map();
 }
 
 /** Long Markdown text in the reader's language, else in the other site language, else in any language. */
 export function textOf(collection: string, id: string, lang: Lang): { locale: string; text: LongText } | undefined {
   const byLocale = ds().texts.get(collection)?.get(id);
   if (!byLocale) return undefined;
-  const order = [...FALLBACK[lang], ...byLocale.keys()];
-  for (const locale of order) {
+  for (const locale of [...FALLBACK[lang], ...byLocale.keys()]) {
     const text = byLocale.get(locale);
-    if (text && publishable(text.frontMatter)) return { locale, text };
+    if (text) return { locale, text };
   }
   return undefined;
 }
@@ -72,6 +66,16 @@ export function languageName(code: string, lang: Lang): string {
   } catch {
     return code;
   }
+}
+
+/** Notice for a text shown in another language, or machine-translated and not reviewed yet. */
+export function languageNotice(rec: Rec | undefined, lang: Lang): string | undefined {
+  const locale = rec?.locale as string | undefined;
+  if (!locale) return undefined;
+  if (locale !== lang) return t(lang, "notTranslated", { language: languageName(locale, lang) });
+  if (!isMachineTranslation(rec)) return undefined;
+  const from = rec?.translation?.from as string | undefined;
+  return from ? t(lang, "machineTranslatedFrom", { language: languageName(from, lang) }) : t(lang, "machineTranslated");
 }
 
 export function genderForm(gender: string | undefined): Form {

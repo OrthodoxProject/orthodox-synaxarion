@@ -1,0 +1,22 @@
+{
+  "id": "gavrilia-papaiannis",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Gavrilia Papayannis",
+    "short": "Gavrilia Papayannis",
+    "given": "Gavrilia"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-gavrilia-papaiannis",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

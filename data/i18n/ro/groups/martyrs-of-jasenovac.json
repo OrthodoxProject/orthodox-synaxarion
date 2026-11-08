@@ -1,0 +1,20 @@
+{
+  "id": "martyrs-of-jasenovac",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici de la Jasenovac"
+  },
+  "references": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

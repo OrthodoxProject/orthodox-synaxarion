@@ -1,0 +1,28 @@
+{
+  "id": "eupsychius-of-caesarea",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Eupsihie din Cezareea Capadociei",
+    "full": "Sfântul Mucenic Eupsihie din Cezareea Capadociei",
+    "short": "Eupsihie din Cezareea Capadociei",
+    "given": "Eupsihie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/09/101035-martyr-eupsychius-of-caesarea-in-cappadocia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/07/102538-martyr-eupsychius-of-caesarea-in-cappadocia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

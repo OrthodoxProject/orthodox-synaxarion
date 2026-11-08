@@ -1,0 +1,23 @@
+{
+  "id": "moses-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Moise făcătorul de minuni, de la Lavra Peșterilor",
+    "full": "Sfântul Cuvios Moise făcătorul de minuni, de la Lavra Peșterilor",
+    "short": "Moise făcătorul de minuni, de la Lavra Peșterilor",
+    "given": "Moise"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/28/102113-venerable-moses-wonderworker-of-the-kiev-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

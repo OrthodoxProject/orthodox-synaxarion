@@ -1,0 +1,23 @@
+{
+  "id": "demetrios-of-thrace",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Dimitrie din Tracia",
+    "full": "Sfântul Mucenic Dimitrie din Tracia",
+    "short": "Dimitrie din Tracia",
+    "given": "Dimitrie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/15/103310-martyr-dmtrios-of-thrace",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

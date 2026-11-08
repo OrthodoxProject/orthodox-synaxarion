@@ -1,0 +1,23 @@
+{
+  "id": "gennadius-of-vazheozersk",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ghenadie de la Vajeozersk",
+    "full": "Sfântul Cuvios Ghenadie de la Vajeozersk",
+    "short": "Ghenadie de la Vajeozersk",
+    "given": "Ghenadie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/09/100470-venerable-gennadius-of-vazheozersk",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

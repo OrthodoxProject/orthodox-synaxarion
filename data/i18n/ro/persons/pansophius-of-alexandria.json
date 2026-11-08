@@ -1,0 +1,23 @@
+{
+  "id": "pansophius-of-alexandria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Pansofie din Alexandria",
+    "full": "Sfântul Cuvios Mucenic Pansofie din Alexandria",
+    "short": "Pansofie din Alexandria",
+    "given": "Pansofie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/15/100198-venerable-pansophius-of-alexandria-the-martyr",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

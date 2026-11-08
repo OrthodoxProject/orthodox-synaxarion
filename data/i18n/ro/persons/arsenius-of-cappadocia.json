@@ -1,0 +1,23 @@
+{
+  "id": "arsenius-of-cappadocia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Arsenie Capadocianul",
+    "full": "Sfântul Arsenie Capadocianul",
+    "short": "Arsenie Capadocianul",
+    "given": "Arsenie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/28/108069-saint-arsenius-of-cappadocia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

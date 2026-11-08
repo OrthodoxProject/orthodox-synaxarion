@@ -1,0 +1,23 @@
+{
+  "id": "cosmas-the-bulgarian-of-zographou",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Cosma Bulgarul, de la Zografu, Muntele Athos",
+    "full": "Sfântul Cuvios Cosma Bulgarul, de la Zografu, Muntele Athos",
+    "short": "Cosma Bulgarul, de la Zografu, Muntele Athos",
+    "given": "Cosma"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/21/102694-venerable-cosmas-the-bulgarian-of-zographou-mount-athos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

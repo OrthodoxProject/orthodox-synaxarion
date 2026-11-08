@@ -1,0 +1,23 @@
+{
+  "id": "eulogius-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Evloghie, prorocul și cel nebun pentru Hristos, din Salosi",
+    "full": "Sfântul Evloghie, prorocul și cel nebun pentru Hristos, din Salosi",
+    "short": "Evloghie, prorocul și cel nebun pentru Hristos, din Salosi",
+    "given": "Evloghie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/01/103832-saint-john-shavteli-bishop-of-gaenati-and-saint-eulogius-prophet",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

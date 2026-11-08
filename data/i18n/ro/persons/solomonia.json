@@ -1,0 +1,23 @@
+{
+  "id": "solomonia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Solomonia, mama celor 7 Sfinți Mucenici Macabei",
+    "full": "Sfânta Muceniță Solomonia, mama celor 7 Sfinți Mucenici Macabei",
+    "short": "Solomonia, mama celor 7 Sfinți Mucenici Macabei",
+    "given": "Solomonia"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/01/102170-martyr-solomonia-mother-of-the-holy-seven-maccabee-martyrs",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "the-commemoration-of-the-resurrection-of-the-lord",
+  "locale": "ro",
+  "names": {
+    "display": "Pomenirea Învierii Domnului Hristos din morți"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/7_29.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

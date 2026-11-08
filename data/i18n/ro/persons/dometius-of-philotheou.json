@@ -1,0 +1,23 @@
+{
+  "id": "dometius-of-philotheou",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Dometie de la Filoteu, Muntele Athos",
+    "full": "Sfântul Cuvios Dometie de la Filoteu, Muntele Athos",
+    "short": "Dometie de la Filoteu, Muntele Athos",
+    "given": "Dometie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/07/102227-venerable-dometius-of-philotheou-mount-athos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

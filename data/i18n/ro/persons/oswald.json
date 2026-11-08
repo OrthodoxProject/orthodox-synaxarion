@@ -1,0 +1,23 @@
+{
+  "id": "oswald",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Oswald, rege și mucenic",
+    "full": "Sfântul Oswald, rege și mucenic",
+    "short": "Oswald, rege și mucenic",
+    "given": "Oswald"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/05/109072-saint-oswald-king-and-martyr",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

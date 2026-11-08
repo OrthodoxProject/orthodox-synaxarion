@@ -1,0 +1,23 @@
+{
+  "id": "publia-the-confessor",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Publia Mărturisitoarea, diaconița din Antiohia",
+    "full": "Sfânta Publia Mărturisitoarea, diaconița din Antiohia",
+    "short": "Publia Mărturisitoarea, diaconița din Antiohia",
+    "given": "Publia"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/09/102913-saint-publia-the-confessor-deaconess-of-antioch",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

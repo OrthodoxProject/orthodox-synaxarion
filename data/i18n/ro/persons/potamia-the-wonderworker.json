@@ -1,0 +1,23 @@
+{
+  "id": "potamia-the-wonderworker",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Fecioară Potamia făcătoarea de minuni",
+    "full": "Sfânta Muceniță Fecioară Potamia făcătoarea de minuni",
+    "short": "Potamia făcătoarea de minuni",
+    "given": "Potamia"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/07/102226-virgin-martyr-potamia-the-wonderworker",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

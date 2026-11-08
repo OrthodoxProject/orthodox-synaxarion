@@ -1,0 +1,23 @@
+{
+  "id": "eugraphus-of-alexandria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Evgraf din Alexandria",
+    "full": "Sfântul Mucenic Evgraf din Alexandria",
+    "short": "Evgraf din Alexandria",
+    "given": "Evgraf"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/10/103511-martyrs-menas-hermogenes-and-eugraphus-of-alexandria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

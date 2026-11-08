@@ -1,0 +1,23 @@
+{
+  "id": "macarius-of-dionysiou",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Macarie de la Dionisiu, Muntele Athos",
+    "full": "Sfântul Cuvios Mucenic Macarie de la Dionisiu, Muntele Athos",
+    "short": "Macarie de la Dionisiu, Muntele Athos",
+    "given": "Macarie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/14/102612-monastic-martyr-macarius-of-dionysiou-mount-athos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

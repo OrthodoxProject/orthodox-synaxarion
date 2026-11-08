@@ -1,0 +1,23 @@
+{
+  "id": "nicholas",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Nicolae, steaua luminoasă a georgienilor",
+    "full": "Sfântul Cuvios Nicolae, steaua luminoasă a georgienilor",
+    "short": "Nicolae, steaua luminoasă a georgienilor",
+    "given": "Nicolae"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/03/205495-venerable-nicholas-radiant-star-of-the-georgians",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "charitina-of-amisos",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Haritina din Amisos",
+    "full": "Sfânta Muceniță Haritina din Amisos",
+    "short": "Haritina din Amisos",
+    "given": "Haritina"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/05/102870-martyr-charitina-of-amisos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

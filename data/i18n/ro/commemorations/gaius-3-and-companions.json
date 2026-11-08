@@ -1,0 +1,20 @@
+{
+  "id": "gaius-3-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Gaie, Dasie și Zotic din Nicomidia"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/21/103017-martyrs-gaius-dasius-and-zoticus-at-nicomedia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

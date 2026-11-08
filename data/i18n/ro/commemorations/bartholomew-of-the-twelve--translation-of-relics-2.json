@@ -1,0 +1,20 @@
+{
+  "id": "bartholomew-of-the-twelve--translation-of-relics-2",
+  "locale": "ro",
+  "names": {
+    "display": "Întoarcerea moaștelor Sf. Ap. Bartolomeu din Anastasiopolis în Lipari"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/25/102392-return-of-the-relics-of-the-apostle-bartholomew-from-anastasiopo",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

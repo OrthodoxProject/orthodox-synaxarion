@@ -1,0 +1,22 @@
+{
+  "id": "david-of-evia",
+  "locale": "en",
+  "names": {
+    "display": "Venerable David of Euboea",
+    "short": "David of Euboea",
+    "given": "David"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-david-din-evia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

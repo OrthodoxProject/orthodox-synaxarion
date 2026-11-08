@@ -1,0 +1,23 @@
+{
+  "id": "hermocrates-at-nicomedia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Ermocrat din Nicomidia",
+    "full": "Sfântul Sfințit Mucenic Ermocrat din Nicomidia",
+    "short": "Ermocrat din Nicomidia",
+    "given": "Ermocrat"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/26/102092-hieromartyr-hermolaus-and-martyrs-hermippus-and-hermocrates-at-n",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

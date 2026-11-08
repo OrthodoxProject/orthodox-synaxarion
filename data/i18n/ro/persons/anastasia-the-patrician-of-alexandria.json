@@ -1,0 +1,23 @@
+{
+  "id": "anastasia-the-patrician-of-alexandria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Anastasia Patriciana din Alexandria",
+    "full": "Sfânta Anastasia Patriciana din Alexandria",
+    "short": "Anastasia Patriciana din Alexandria",
+    "given": "Anastasia"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/10/100776-saint-anastasia-the-patrician-of-alexandria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

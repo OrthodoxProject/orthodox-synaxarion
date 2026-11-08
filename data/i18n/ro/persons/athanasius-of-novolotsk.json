@@ -1,0 +1,23 @@
+{
+  "id": "athanasius-of-novolotsk",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Drept Atanasie din Novoloțk",
+    "full": "Sfântul Drept Atanasie din Novoloțk",
+    "short": "Atanasie din Novoloțk",
+    "given": "Atanasie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/18/100222-righteous-athanasius-of-novolotsk",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "icon-of-theotokos-the-nurturer",
+  "locale": "ro",
+  "names": {
+    "display": "Icoana Maicii Domnului „Hrănitoarea”"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/05/100671-icon-of-the-mother-of-god-the-nurturer",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

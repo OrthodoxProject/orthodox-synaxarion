@@ -1,0 +1,23 @@
+{
+  "id": "juvenal-of-alaska",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Iuvenalie din Alaska",
+    "full": "Sfântul Mucenic Iuvenalie din Alaska",
+    "short": "Iuvenalie din Alaska",
+    "given": "Iuvenalie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/24/102714-martyr-juvenal-of-alaska",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

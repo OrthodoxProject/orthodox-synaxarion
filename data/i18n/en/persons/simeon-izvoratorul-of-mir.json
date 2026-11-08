@@ -1,0 +1,22 @@
+{
+  "id": "simeon-izvoratorul-of-mir",
+  "locale": "en",
+  "names": {
+    "display": "Saint Simeon the Myrrh-gusher",
+    "short": "Simeon the Myrrh-gusher",
+    "given": "Simeon"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-simeon-izvoratorul-de-mir",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

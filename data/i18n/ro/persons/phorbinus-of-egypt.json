@@ -1,0 +1,23 @@
+{
+  "id": "phorbinus-of-egypt",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Forbin din Egipt",
+    "full": "Sfântul Forbin din Egipt",
+    "short": "Forbin din Egipt",
+    "given": "Forbin"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/05/101002-saint-phorbinus-of-egypt",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

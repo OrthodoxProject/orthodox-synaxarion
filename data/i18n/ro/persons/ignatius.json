@@ -1,0 +1,23 @@
+{
+  "id": "ignatius",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ignatie, făcătorul de minuni și Episcopul Smolenskului",
+    "full": "Sfântul Ierarh Ignatie, făcătorul de minuni și Episcopul Smolenskului",
+    "short": "Ignatie, făcătorul de minuni și Episcopul Smolenskului",
+    "given": "Ignatie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/29/109040-saint-ignatius-wonderworker-and-bishop-of-smolensk",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "agathon",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Agaton făcătorul de minuni, de la Lavra Peșterilor",
+    "full": "Sfântul Cuvios Agaton făcătorul de minuni, de la Lavra Peșterilor",
+    "short": "Agaton făcătorul de minuni, de la Lavra Peșterilor",
+    "given": "Agaton"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/20/100570-venerable-agathon-wonderworker-of-the-kiev-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "niketas-the-stylite",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Nichita Stâlpnicul, făcătorul de minuni din Pereiaslavl-Zalesski",
+    "full": "Sfântul Cuvios Nichita Stâlpnicul, făcătorul de minuni din Pereiaslavl-Zalesski",
+    "short": "Nichita Stâlpnicul, făcătorul de minuni din Pereiaslavl-Zalesski",
+    "given": "Nichita"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/24/101503-venerable-niketas-the-stylite-wonderworker-of-pereyaslavl-zaless",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

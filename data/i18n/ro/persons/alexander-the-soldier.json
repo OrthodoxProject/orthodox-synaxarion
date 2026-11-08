@@ -1,0 +1,23 @@
+{
+  "id": "alexander-the-soldier",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Alexandru Ostașul, din Egipt",
+    "full": "Sfântul Mucenic Alexandru Ostașul, din Egipt",
+    "short": "Alexandru Ostașul, din Egipt",
+    "given": "Alexandru"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/09/101972-martyrs-patermuthius-coprius-and-alexander-the-soldier-in-egypt",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

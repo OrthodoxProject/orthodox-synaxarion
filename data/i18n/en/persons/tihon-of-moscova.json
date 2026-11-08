@@ -1,0 +1,22 @@
+{
+  "id": "tihon-of-moscova",
+  "locale": "en",
+  "names": {
+    "display": "Saint Tikhon, Patriarch of Moscow and All Russia",
+    "short": "Tikhon, Patriarch of Moscow and All Russia",
+    "given": "Tikhon"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-tihon-patriarhul-moscovei-al-intregii-rusii",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

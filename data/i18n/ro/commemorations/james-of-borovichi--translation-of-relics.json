@@ -1,0 +1,20 @@
+{
+  "id": "james-of-borovichi--translation-of-relics",
+  "locale": "ro",
+  "names": {
+    "display": "Aducerea moaștelor Fericitului Iacob din Borovici, făcătorul de minuni din Novgorod"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/23/103040-translation-of-the-relics-of-blessed-james-of-borovichi-wonderwo",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

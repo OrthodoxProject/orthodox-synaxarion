@@ -1,0 +1,23 @@
+{
+  "id": "makarios-of-zheltovod",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Macarie, egumenul de la Jeltovod și Unja",
+    "full": "Sfântul Cuvios Macarie, egumenul de la Jeltovod și Unja",
+    "short": "Macarie, egumenul de la Jeltovod și Unja",
+    "given": "Macarie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/25/102089-venerable-makarios-abbot-of-zheltovod-and-unzha",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

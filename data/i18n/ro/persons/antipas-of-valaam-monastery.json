@@ -1,0 +1,23 @@
+{
+  "id": "antipas-of-valaam-monastery",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Antipa de la Mănăstirea Valaam",
+    "full": "Sfântul Cuvios Antipa de la Mănăstirea Valaam",
+    "short": "Antipa de la Mănăstirea Valaam",
+    "given": "Antipa"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/10/100146-venerable-antipas-of-valaam-monastery",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

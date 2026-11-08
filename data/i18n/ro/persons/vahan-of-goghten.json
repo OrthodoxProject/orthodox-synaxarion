@@ -1,0 +1,23 @@
+{
+  "id": "vahan-of-goghten",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Vahan din Goghten",
+    "full": "Sfântul Vahan din Goghten",
+    "short": "Vahan din Goghten",
+    "given": "Vahan"
+  },
+  "references": [
+    {
+      "source": "src:armenianchurch-ge",
+      "url": "https://armenianchurch.ge/en/kalendar-prazdnikov/description-2/january/stvahan",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

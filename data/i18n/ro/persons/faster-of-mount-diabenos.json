@@ -1,0 +1,22 @@
+{
+  "id": "faster-of-mount-diabenos",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Postitorul de la Muntele Diabenos",
+    "full": "Sfântul Cuvios Postitorul de la Muntele Diabenos",
+    "short": "Postitorul de la Muntele Diabenos"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/09/102551-venerable-theophanes-the-confessor-and-faster-of-mount-diabenos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

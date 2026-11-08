@@ -1,0 +1,22 @@
+{
+  "id": "sava-of-buzau",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Savva of Buzău",
+    "short": "Savva of Buzău",
+    "given": "Savva"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-sava-de-la-buzau",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

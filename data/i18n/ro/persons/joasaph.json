@@ -1,0 +1,23 @@
+{
+  "id": "joasaph",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ioasaf, fiul Sf. Avenir împăratul",
+    "full": "Sfântul Cuvios Ioasaf, fiul Sfântului Avenir împăratul",
+    "short": "Ioasaf, fiul Sf. Avenir împăratul",
+    "given": "Ioasaf"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/26/205407-venerable-joasaph-son-of-saint-abenner-the-king",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

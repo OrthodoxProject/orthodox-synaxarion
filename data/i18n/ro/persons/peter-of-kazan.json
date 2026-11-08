@@ -1,0 +1,23 @@
+{
+  "id": "peter-of-kazan",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Petru din Kazan",
+    "full": "Sfântul Mucenic Petru din Kazan",
+    "short": "Petru din Kazan",
+    "given": "Petru"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/24/100881-martyr-peter-of-kazan",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

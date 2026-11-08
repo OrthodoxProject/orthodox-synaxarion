@@ -1,0 +1,23 @@
+{
+  "id": "mark-the-ascetic-of-egypt",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Marcu Ascetul, din Egipt",
+    "full": "Sfântul Cuvios Marcu Ascetul, din Egipt",
+    "short": "Marcu Ascetul, din Egipt",
+    "given": "Marcu"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/05/100669-saint-mark-the-ascetic-of-egypt",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

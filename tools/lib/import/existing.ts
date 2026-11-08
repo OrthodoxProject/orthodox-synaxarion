@@ -5,7 +5,7 @@
  */
 import { readFileSync, readdirSync, statSync } from "node:fs";
 import { join } from "node:path";
-import { loadDataset, type Dataset } from "../dataset.ts";
+import { loadDataset, withoutMachineTranslations, type Dataset } from "../dataset.ts";
 import { newSlot, type Cluster, type ClusterKind, type GroupSubject, type Slot } from "./cluster.ts";
 import { parseEn } from "./en.ts";
 import { FEASTS } from "./feasts.ts";
@@ -115,7 +115,8 @@ const KIND_MAP: Record<string, ClusterKind> = {
 };
 
 export function loadExisting(dataDir: string): Existing {
-  const ds = loadDataset(dataDir);
+  // Names are matched against what the sources and the editors wrote, not against machine translations of them.
+  const ds = withoutMachineTranslations(loadDataset(dataDir));
   const existing: Existing = { dataset: ds, menaion: new Map(), movable: new Map(), clusters: new Map(), persons: new Map(), groups: new Map(), ids: new Map(), exact: new Map() };
   for (const [collection, records] of ds.records) {
     // A merged record keeps the other id in `aliases`: that id is not free for a new record.

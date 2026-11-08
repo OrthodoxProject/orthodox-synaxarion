@@ -1,0 +1,20 @@
+{
+  "id": "martyr-and-archdeacon-laurence-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Laurențiu arhidiaconul și cei împreună cu el, din Roma"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/10/102258-martyr-and-archdeacon-laurence-and-those-with-him-of-rome",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

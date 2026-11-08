@@ -1,0 +1,20 @@
+{
+  "id": "9-martyred-brothers-of-kola",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții 9 frați mucenici din Kola: Guram, Adarnerse, Baqar, Vache, Bardzim, Dachi, Juansher, Ramaz și Parsman"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/22/103817-9-martyred-brothers-of-kola-guram-adarnerse-baqar-vache-bardzim",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

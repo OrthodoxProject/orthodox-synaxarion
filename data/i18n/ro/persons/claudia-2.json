@@ -1,0 +1,23 @@
+{
+  "id": "claudia-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Claudia",
+    "full": "Sfânta Muceniță Claudia",
+    "short": "Claudia",
+    "given": "Claudia"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/06/103190-martyrs-tecusa-alexandra-claudia-matrona-polactia-euphrosyn-and",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

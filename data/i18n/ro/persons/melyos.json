@@ -1,0 +1,23 @@
+{
+  "id": "melyos",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Melios, al treilea Papă al Alexandriei",
+    "full": "Sfântul Ierarh Melios, al treilea Papă al Alexandriei",
+    "short": "Melios, al treilea Papă al Alexandriei",
+    "given": "Melios"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/1_1.html?lang=en#3",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

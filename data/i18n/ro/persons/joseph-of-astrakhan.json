@@ -1,0 +1,23 @@
+{
+  "id": "joseph-of-astrakhan",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Iosif, Mitropolitul Astrahanului",
+    "full": "Sfântul Ierarh Iosif, Mitropolitul Astrahanului",
+    "short": "Iosif, Mitropolitul Astrahanului",
+    "given": "Iosif"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/11/101353-saint-joseph-metropolitan-of-astrakhan",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

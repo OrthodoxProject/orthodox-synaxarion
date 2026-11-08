@@ -1,0 +1,23 @@
+{
+  "id": "severianus-of-gabala",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Severian, Episcopul Gabalei",
+    "full": "Sfântul Ierarh Severian, Episcopul Gabalei",
+    "short": "Severian, Episcopul Gabalei",
+    "given": "Severian"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/1_7.html?lang=en#3",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

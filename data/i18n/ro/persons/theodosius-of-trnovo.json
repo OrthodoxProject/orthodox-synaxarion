@@ -1,0 +1,23 @@
+{
+  "id": "theodosius-of-trnovo",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Teodosie de Târnovo",
+    "full": "Sfântul Cuvios Teodosie de Târnovo",
+    "short": "Teodosie de Târnovo",
+    "given": "Teodosie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/27/108029-saint-theodosius-of-trnovo",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

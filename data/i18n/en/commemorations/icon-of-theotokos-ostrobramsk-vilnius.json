@@ -1,0 +1,25 @@
+{
+  "id": "icon-of-theotokos-ostrobramsk-vilnius",
+  "locale": "en",
+  "names": {
+    "display": "Icon of the Mother of God \"Ostrobramsk-Vilnius\""
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoanei-maicii-domnului-ostrobramsk-vilnius",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoane-maicii-domnului-din-vilnius",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

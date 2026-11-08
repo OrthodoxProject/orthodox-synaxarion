@@ -1,0 +1,23 @@
+{
+  "id": "constantine-the-russian-of-lavra-on-mount",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Constantin Rusul, de la Lavra din Muntele Athos",
+    "full": "Sfântul Sfințit Mucenic Constantin Rusul, de la Lavra din Muntele Athos",
+    "short": "Constantin Rusul, de la Lavra din Muntele Athos",
+    "given": "Constantin"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/26/103653-hieromartyr-constantine-the-russian-of-lavra-on-mount-athos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

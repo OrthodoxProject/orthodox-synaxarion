@@ -1,0 +1,23 @@
+{
+  "id": "cornelius-of-pereyaslavl",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Corneliu din Pereiaslavl",
+    "full": "Sfântul Cuvios Corneliu din Pereiaslavl",
+    "short": "Corneliu din Pereiaslavl",
+    "given": "Corneliu"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/22/102072-repose-of-venerable-cornelius-of-pereyaslavl",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

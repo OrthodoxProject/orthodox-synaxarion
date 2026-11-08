@@ -1,0 +1,27 @@
+{
+  "id": "cyril-iv",
+  "locale": "ro",
+  "names": {
+    "display": "Papa Chiril al IV-lea, al 110-lea Papă al Alexandriei",
+    "short": "Chiril al IV-lea, al 110-lea Papă al Alexandriei",
+    "given": "Chiril"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/5_23.html?lang=en#2",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/12_1.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

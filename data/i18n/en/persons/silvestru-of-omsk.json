@@ -1,0 +1,22 @@
+{
+  "id": "silvestru-of-omsk",
+  "locale": "en",
+  "names": {
+    "display": "New Hieromartyr Sylvester, Archbishop of Omsk",
+    "short": "Sylvester, Archbishop of Omsk",
+    "given": "Sylvester"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-sfintit-nou-mucenic-silvestru-arhiepiscopul-de-omsk",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

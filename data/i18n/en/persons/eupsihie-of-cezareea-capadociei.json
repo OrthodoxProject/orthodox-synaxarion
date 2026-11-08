@@ -1,0 +1,27 @@
+{
+  "id": "eupsihie-of-cezareea-capadociei",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Eupsychius of Caesarea in Cappadocia",
+    "short": "Eupsychius of Caesarea in Cappadocia",
+    "given": "Eupsychius"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-eupsihie-din-cezareea-capadociei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sfanta-si-marea-joi-denia-celor-12-evanghelii-sf-mc-eupsihie-sf-cuv-vadim/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

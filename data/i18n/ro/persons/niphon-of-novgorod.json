@@ -1,0 +1,23 @@
+{
+  "id": "niphon-of-novgorod",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Nifon, Episcopul Novgorodului",
+    "full": "Sfântul Ierarh Nifon, Episcopul Novgorodului",
+    "short": "Nifon, Episcopul Novgorodului",
+    "given": "Nifon"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/08/101030-saint-niphon-bishop-of-novgorod",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

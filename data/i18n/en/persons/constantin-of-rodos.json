@@ -1,0 +1,22 @@
+{
+  "id": "constantin-of-rodos",
+  "locale": "en",
+  "names": {
+    "display": "New Martyr Constantine of Rhodes",
+    "short": "Constantine of Rhodes",
+    "given": "Constantine"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-noul-mucenic-constantin-din-rodos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

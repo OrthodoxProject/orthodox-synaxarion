@@ -1,0 +1,28 @@
+{
+  "id": "gregory-of-agrigentum",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Grigorie, Episcopul Agrigentului",
+    "full": "Sfântul Ierarh Grigorie, Episcopul Agrigentului",
+    "short": "Grigorie, Episcopul Agrigentului",
+    "given": "Grigorie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/23/103376-saint-gregory-bishop-of-agrigentum",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/23/205496-hieromartyr-gregory-peradze-of-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

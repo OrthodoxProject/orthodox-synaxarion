@@ -1,0 +1,28 @@
+{
+  "id": "isaiah-the-wonderworker-of-rostov",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Isaia făcătorul de minuni, Episcopul Rostovului",
+    "full": "Sfântul Ierarh Isaia făcătorul de minuni, Episcopul Rostovului",
+    "short": "Isaia făcătorul de minuni, Episcopul Rostovului",
+    "given": "Isaia"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/15/101385-saint-isaiah-the-wonderworker-bishop-of-rostov",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/15/101387-venerable-isaiah-wonderworker-of-the-kiev-near-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

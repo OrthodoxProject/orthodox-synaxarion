@@ -1,0 +1,23 @@
+{
+  "id": "bessarion-of-smolyan",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Visarion, Episcopul de Smolian",
+    "full": "Sfântul Mucenic Visarion, Episcopul de Smolian",
+    "short": "Visarion, Episcopul de Smolian",
+    "given": "Visarion"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/29/108018-martyr-bessarion-bishop-of-smolyan",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

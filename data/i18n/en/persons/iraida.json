@@ -1,0 +1,22 @@
+{
+  "id": "iraida",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Herais",
+    "short": "Herais",
+    "given": "Herais"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-iraida",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

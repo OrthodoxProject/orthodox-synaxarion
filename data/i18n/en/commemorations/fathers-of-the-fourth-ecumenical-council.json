@@ -1,0 +1,20 @@
+{
+  "id": "fathers-of-the-fourth-ecumenical-council",
+  "locale": "en",
+  "names": {
+    "display": "Commemoration of the Holy Fathers of the Fourth Ecumenical Council"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfintii-parinti-de-la-sinodul-al-iv-lea-ecumenic",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

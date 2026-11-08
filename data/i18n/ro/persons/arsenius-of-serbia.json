@@ -1,0 +1,23 @@
+{
+  "id": "arsenius-of-serbia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Arsenie, Arhiepiscopul Serbiei",
+    "full": "Sfântul Ierarh Arsenie, Arhiepiscopul Serbiei",
+    "short": "Arsenie, Arhiepiscopul Serbiei",
+    "given": "Arsenie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/28/103085-repose-of-saint-arsenius-archbishop-of-serbia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

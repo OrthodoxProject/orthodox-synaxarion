@@ -1,0 +1,23 @@
+{
+  "id": "niketas-of-thebes",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Nichita din Teba și cei împreună cu el",
+    "full": "Sfântul Nichita din Teba și cei împreună cu el",
+    "short": "Nichita din Teba",
+    "given": "Nichita"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/23/100482-niktas-of-thebes-and-those-with-him",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

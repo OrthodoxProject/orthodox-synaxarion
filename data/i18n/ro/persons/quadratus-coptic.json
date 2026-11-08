@@ -1,0 +1,23 @@
+{
+  "id": "quadratus-coptic",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Codrat, unul dintre cei 70 de ucenici",
+    "full": "Sfântul Codrat, unul dintre cei 70 de ucenici",
+    "short": "Codrat, unul dintre cei 70 de ucenici",
+    "given": "Codrat"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/1_24.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

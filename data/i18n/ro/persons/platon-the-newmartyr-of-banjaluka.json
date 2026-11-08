@@ -1,0 +1,28 @@
+{
+  "id": "platon-the-newmartyr-of-banjaluka",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Noul Sfințit Mc. Platon de Banja Luka",
+    "full": "Sfântul Noul Sfințit Mucenic Platon de Banja Luka",
+    "short": "Platon de Banja Luka",
+    "given": "Platon"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/22/108075-hieromartyr-platon-the-newmartyr-of-banjaluka",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/04/108051-hieromartyr-platon-the-newmartyr-of-banjaluka",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

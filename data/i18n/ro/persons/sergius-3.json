@@ -1,0 +1,28 @@
+{
+  "id": "sergius-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Serghie",
+    "full": "Sfântul Cuvios Serghie",
+    "short": "Serghie",
+    "given": "Serghie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/28/101836-venerable-sergius-and-herman-wonderworkers-of-valaam",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/28/100478-venerable-confessor-sergius-of-paphlagonia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

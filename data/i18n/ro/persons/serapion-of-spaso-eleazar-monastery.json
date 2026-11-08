@@ -1,0 +1,23 @@
+{
+  "id": "serapion-of-spaso-eleazar-monastery",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Serapion de la Mănăstirea Spaso-Eleazar, Pskov",
+    "full": "Sfântul Cuvios Serapion de la Mănăstirea Spaso-Eleazar, Pskov",
+    "short": "Serapion de la Mănăstirea Spaso-Eleazar, Pskov",
+    "given": "Serapion"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/07/102534-venerable-serapion-of-spaso-eleazar-monastery-pskov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "fotini-samarineanca",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Photini the Samaritan Woman",
+    "short": "Photini the Samaritan Woman",
+    "given": "Photini"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-fotini-samarineanca",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ier-porfirie-episcopul-gazei-sf-mc-fotini-samarineanca-canonul-mare/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

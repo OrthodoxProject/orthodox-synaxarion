@@ -1,0 +1,22 @@
+{
+  "id": "benjamin-i",
+  "locale": "ro",
+  "names": {
+    "display": "Papa Veniamin I",
+    "short": "Veniamin I",
+    "given": "Veniamin"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/5_8.html?lang=en#3",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

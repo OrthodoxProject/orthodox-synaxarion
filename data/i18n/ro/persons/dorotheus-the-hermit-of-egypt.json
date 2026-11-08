@@ -1,0 +1,23 @@
+{
+  "id": "dorotheus-the-hermit-of-egypt",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Dorotei Pustnicul din Egipt",
+    "full": "Sfântul Cuvios Dorotei Pustnicul din Egipt",
+    "short": "Dorotei Pustnicul din Egipt",
+    "given": "Dorotei"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/16/102632-venerable-dorotheus-the-hermit-of-egypt",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

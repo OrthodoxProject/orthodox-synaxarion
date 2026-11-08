@@ -1,0 +1,23 @@
+{
+  "id": "mertius-of-mauretania",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Mertie din Mauritania",
+    "full": "Sfântul Mucenic Mertie din Mauritania",
+    "short": "Mertie din Mauritania",
+    "given": "Mertie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/12/100158-martyr-mertius-of-mauretania",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

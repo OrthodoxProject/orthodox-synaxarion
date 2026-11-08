@@ -1,0 +1,23 @@
+{
+  "id": "george-of-sofia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Noul Mc. Gheorghe din Sofia",
+    "full": "Sfântul Noul Mucenic Gheorghe din Sofia",
+    "short": "Gheorghe din Sofia",
+    "given": "Gheorghe"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/26/108008-new-martyr-george-of-sofia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

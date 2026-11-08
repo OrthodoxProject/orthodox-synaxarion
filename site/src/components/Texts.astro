@@ -1,6 +1,6 @@
 ---
 /** Short and long texts of a record: synaxarion, life, miracles, sayings, folk traditions. */
-import { languageName, textOf } from "../lib/format.ts";
+import { languageNotice, textOf } from "../lib/format.ts";
 import { markdown } from "../lib/markdown.ts";
 import { t, type Lang } from "../lib/ui.ts";
 
@@ -21,6 +21,7 @@ const lists: Array<["miracles" | "quotes" | "folkTraditions", Rec[]]> = [
   ["folkTraditions", loc.folk_traditions ?? []],
 ];
 const textLang = loc.locale !== lang ? loc.locale : undefined;
+const lifeNotice = life && languageNotice({ ...life.text.frontMatter, locale: life.locale }, lang);
 ---
 
 {
@@ -37,9 +38,9 @@ const textLang = loc.locale !== lang ? loc.locale : undefined;
   life && (
     <section class="life" lang={life.locale !== lang ? life.locale : undefined}>
       <h2>{life.text.frontMatter.title ?? t(lang, "life")}</h2>
-      {life.locale !== lang && (
+      {lifeNotice && (
         <p class="muted" lang={lang} data-pagefind-ignore>
-          {t(lang, "notTranslated", { language: languageName(life.locale, lang) })}
+          {lifeNotice}
         </p>
       )}
       <Fragment set:html={markdown(life.text.body)} />

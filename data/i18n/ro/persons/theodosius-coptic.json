@@ -1,0 +1,23 @@
+{
+  "id": "theodosius-coptic",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Teodosie, al 33-lea Papă al Alexandriei",
+    "full": "Sfântul Ierarh Teodosie, al 33-lea Papă al Alexandriei",
+    "short": "Teodosie, al 33-lea Papă al Alexandriei",
+    "given": "Teodosie"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/10_28.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

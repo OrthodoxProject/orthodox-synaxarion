@@ -1,0 +1,23 @@
+{
+  "id": "alladius-the-bishop",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Aladie, episcopul",
+    "full": "Sfântul Ierarh Aladie, episcopul",
+    "short": "Aladie, episcopul",
+    "given": "Aladie"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/10_3.html?lang=en#3",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

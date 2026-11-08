@@ -1,0 +1,23 @@
+{
+  "id": "felicitas-of-rome",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Felicitas din Roma și cei șapte fii ai săi",
+    "full": "Sfânta Muceniță Felicitas din Roma și cei șapte fii ai săi",
+    "short": "Felicitas din Roma și cei șapte fii ai săi",
+    "given": "Felicitas"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/25/100300-martyr-felicitas-of-rome-and-her-seven-sons",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

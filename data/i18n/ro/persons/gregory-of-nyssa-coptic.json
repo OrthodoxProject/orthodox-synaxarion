@@ -1,0 +1,23 @@
+{
+  "id": "gregory-of-nyssa-coptic",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Grigorie, Episcopul Nyssei",
+    "full": "Sfântul Ierarh Grigorie, Episcopul Nyssei",
+    "short": "Grigorie, Episcopul Nyssei",
+    "given": "Grigorie"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/3_26.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

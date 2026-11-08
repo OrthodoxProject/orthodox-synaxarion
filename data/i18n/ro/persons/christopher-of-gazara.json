@@ -1,0 +1,23 @@
+{
+  "id": "christopher-of-gazara",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Hristofor din Gazara",
+    "full": "Sfântul Hristofor din Gazara",
+    "short": "Hristofor din Gazara",
+    "given": "Hristofor"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/18/108982-saint-christopher-of-gazara",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

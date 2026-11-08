@@ -1,0 +1,23 @@
+{
+  "id": "john-the-chrysostom",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ioan Gură de Aur",
+    "full": "Sfântul Ierarh Ioan Gură de Aur",
+    "short": "Ioan Gură de Aur",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:armenianchurch-ge",
+      "url": "https://armenianchurch.ge/en/kalendar-prazdnikov/description-2/october/commemoration-of-the-pontiff-st-john-the-chrysostom",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

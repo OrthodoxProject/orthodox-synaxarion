@@ -1,0 +1,20 @@
+{
+  "id": "pimen-of-salosi-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Pimen cel nebun pentru Hristos, din Salosi, și Anton Meshi, luminătorii Daghestanului și ai popoarelor din Caucazul de Nord"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/16/103830-saints-pimen-of-salosi-and-anton-meskhi-enlighteners-of-dagestan",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

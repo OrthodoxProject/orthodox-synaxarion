@@ -1,0 +1,22 @@
+{
+  "id": "defender-of-orthodoxy-in-america",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Apărătorul Ortodoxiei în America",
+    "full": "Sfântul Apărătorul Ortodoxiei în America",
+    "short": "Apărătorul Ortodoxiei în America"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/07/101300-repose-of-saint-alexis-toth-confessor-and-defender-of-orthodoxy",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

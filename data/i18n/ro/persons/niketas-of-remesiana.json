@@ -1,0 +1,23 @@
+{
+  "id": "niketas-of-remesiana",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Niceta de Remesiana",
+    "full": "Sfântul Sfințit Mucenic Niceta de Remesiana",
+    "short": "Niceta de Remesiana",
+    "given": "Niceta"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/22/101786-hieromartyr-niktas-of-remesiana",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

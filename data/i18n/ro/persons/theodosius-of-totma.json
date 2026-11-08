@@ -1,0 +1,23 @@
+{
+  "id": "theodosius-of-totma",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Teodosie, egumenul de la Totma, Vologda",
+    "full": "Sfântul Cuvios Teodosie, egumenul de la Totma, Vologda",
+    "short": "Teodosie, egumenul de la Totma, Vologda",
+    "given": "Teodosie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/28/100329-venerable-theodosius-abbot-of-totma-vologda",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

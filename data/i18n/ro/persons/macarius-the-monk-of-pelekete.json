@@ -1,0 +1,23 @@
+{
+  "id": "macarius-the-monk-of-pelekete",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Macarie monahul, de la Pelechete",
+    "full": "Sfântul Cuvios Macarie monahul, de la Pelechete",
+    "short": "Macarie monahul, de la Pelechete",
+    "given": "Macarie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/18/102335-venerable-macarius-the-monk-of-pelekete",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "hristo-of-bulgaria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Hristo din Bulgaria",
+    "full": "Sfântul Mucenic Hristo din Bulgaria",
+    "short": "Hristo din Bulgaria",
+    "given": "Hristo"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/28/108030-martyr-hristo-of-bulgaria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

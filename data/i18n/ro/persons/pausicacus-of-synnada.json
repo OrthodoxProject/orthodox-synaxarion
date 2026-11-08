@@ -1,0 +1,23 @@
+{
+  "id": "pausicacus-of-synnada",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Pausicachie, Episcopul Sinadei",
+    "full": "Sfântul Ierarh Pausicachie, Episcopul Sinadei",
+    "short": "Pausicachie, Episcopul Sinadei",
+    "given": "Pausicachie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/13/101368-saint-pausicacus-bishop-of-synnada",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

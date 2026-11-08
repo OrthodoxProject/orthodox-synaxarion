@@ -1,0 +1,23 @@
+{
+  "id": "luarsab-ii",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Luarsab al II-lea, regele Georgiei",
+    "full": "Sfântul Mucenic Luarsab al II-lea, regele Georgiei",
+    "short": "Luarsab al II-lea, regele Georgiei",
+    "given": "Luarsab"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/21/101777-martyr-luarsab-ii-king-of-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

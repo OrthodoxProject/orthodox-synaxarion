@@ -1,0 +1,22 @@
+{
+  "id": "ahmed-caligraful",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Ahmed the Calligrapher",
+    "short": "Ahmed the Calligrapher",
+    "given": "Ahmed"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-ahmed-caligraful",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

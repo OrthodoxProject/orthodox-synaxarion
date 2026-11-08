@@ -1,0 +1,23 @@
+{
+  "id": "vsevolod",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Vsevolod (în Botez Gavriil), făcătorul de minuni din Pskov",
+    "full": "Sfântul Vsevolod (în Botez Gavriil), făcătorul de minuni din Pskov",
+    "short": "Vsevolod, făcătorul de minuni din Pskov",
+    "given": "Vsevolod"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/11/100503-saint-vsevolod-in-baptism-gabriel-wonderworker-of-pskov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "theodulus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Teodul, fiul Sf. Cuv. Nil Sinaitul",
+    "full": "Sfântul Cuvios Teodul, fiul Sfântului Cuvios Nil Sinaitul",
+    "short": "Teodul, fiul Sf. Cuv. Nil Sinaitul",
+    "given": "Teodul"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/14/100193-venerable-theodulus-son-of-venerable-nilus-of-sinai",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

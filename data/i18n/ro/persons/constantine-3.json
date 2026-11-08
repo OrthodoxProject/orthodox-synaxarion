@@ -1,0 +1,23 @@
+{
+  "id": "constantine-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Constantin",
+    "full": "Sfântul Cuvios Constantin",
+    "short": "Constantin",
+    "given": "Constantin"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/29/102124-venerable-constantine-and-cosmas-abbots-of-kosinsk",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

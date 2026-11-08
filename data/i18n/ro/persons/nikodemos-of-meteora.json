@@ -1,0 +1,23 @@
+{
+  "id": "nikodemos-of-meteora",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Nicodim de la Meteora",
+    "full": "Sfântul Sfințit Mucenic Nicodim de la Meteora",
+    "short": "Nicodim de la Meteora",
+    "given": "Nicodim"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/16/108991-hieromartyr-ikdmos-of-meteora",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

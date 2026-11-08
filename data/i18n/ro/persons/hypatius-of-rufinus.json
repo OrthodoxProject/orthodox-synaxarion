@@ -1,0 +1,23 @@
+{
+  "id": "hypatius-of-rufinus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ipatie, egumenul Mănăstirii lui Rufin din Calcedon",
+    "full": "Sfântul Cuvios Ipatie, egumenul Mănăstirii lui Rufin din Calcedon",
+    "short": "Ipatie, egumenul Mănăstirii lui Rufin din Calcedon",
+    "given": "Ipatie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/31/100961-venerable-hypatius-abbot-of-rufinus-in-chalcedon",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

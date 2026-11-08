@@ -1,0 +1,23 @@
+{
+  "id": "gregory-of-grigoriou-monastery",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Grigorie, întemeietorul Mănăstirii Grigoriu de la Muntele Athos",
+    "full": "Sfântul Cuvios Grigorie, întemeietorul Mănăstirii Grigoriu de la Muntele Athos",
+    "short": "Grigorie, întemeietorul Mănăstirii Grigoriu de la Muntele Athos",
+    "given": "Grigorie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/07/103492-venerable-gregory-founder-of-grigoriou-monastery-mount-athos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

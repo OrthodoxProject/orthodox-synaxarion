@@ -1,0 +1,22 @@
+{
+  "id": "grigorie-of-alexandria",
+  "locale": "en",
+  "names": {
+    "display": "Saint Gregory, Archbishop of Alexandria",
+    "short": "Gregory, Archbishop of Alexandria",
+    "given": "Gregory"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-grigorie-arhiepiscopul-alexandriei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

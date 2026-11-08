@@ -1,0 +1,27 @@
+{
+  "id": "atanasie-athonitul",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Athanasius of Mount Athos",
+    "short": "Athanasius of Mount Athos",
+    "given": "Athanasius"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-atanasie-athonitul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-atanasie-athonitul-sf-cuv-lampadie-duminica-a-5-a-dupa-rusalii-ap-romani-10-1-10-ev-matei-8-28-34-9-1-vindecarea-celor-doi-demonizati-din-tinutul-gadarei-glas-4-vosc/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "zlata-of-meglena",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Noua Mc. Zlata din Meglen, Bulgaria",
+    "full": "Sfânta Noua Muceniță Zlata din Meglen, Bulgaria",
+    "short": "Zlata din Meglen, Bulgaria",
+    "given": "Zlata"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/13/102961-new-martyr-zlata-of-meglena-bulgaria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

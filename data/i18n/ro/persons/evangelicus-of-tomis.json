@@ -1,0 +1,23 @@
+{
+  "id": "evangelicus-of-tomis",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Evanghelic, Episcopul Tomisului",
+    "full": "Sfântul Mucenic Evanghelic, Episcopul Tomisului",
+    "short": "Evanghelic, Episcopul Tomisului",
+    "given": "Evanghelic"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/07/101962-martyr-evangelicus-bishop-of-tomis-constana-in-romania",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

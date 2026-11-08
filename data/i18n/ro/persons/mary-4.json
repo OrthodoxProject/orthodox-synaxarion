@@ -1,0 +1,23 @@
+{
+  "id": "mary-4",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Maria (care s-a numit Marin) și tatăl ei, Sf. Cuv. Evghenie, din Alexandria",
+    "full": "Sfânta Cuvioasă Maria (care s-a numit Marin) și tatăl ei, Sfântul Cuvios Evghenie, din Alexandria",
+    "short": "Maria și tatăl ei, Evghenie, din Alexandria",
+    "given": "Maria"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/12/100508-venerable-mary-who-was-called-marinus-and-her-father-venerable-e",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "thomas-the-fool-of-syria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Toma cel nebun pentru Hristos, din Siria",
+    "full": "Sfântul Cuvios Toma cel nebun pentru Hristos, din Siria",
+    "short": "Toma cel nebun pentru Hristos, din Siria",
+    "given": "Toma"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/24/101198-venerable-thomas-the-fool-of-syria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

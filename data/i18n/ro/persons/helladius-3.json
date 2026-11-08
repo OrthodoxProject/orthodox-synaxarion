@@ -1,0 +1,23 @@
+{
+  "id": "helladius-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Eladie, episcop în Răsărit",
+    "full": "Sfântul Sfințit Mucenic Eladie, episcop în Răsărit",
+    "short": "Eladie, episcop în Răsărit",
+    "given": "Eladie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/28/101557-hieromartyr-helladius-bishop-in-the-east",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

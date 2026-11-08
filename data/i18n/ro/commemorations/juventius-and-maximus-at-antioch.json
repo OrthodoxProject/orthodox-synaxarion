@@ -1,0 +1,20 @@
+{
+  "id": "juventius-and-maximus-at-antioch",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Iuventie și Maxim din Antiohia"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/09/102911-martyrs-juventius-and-maximus-at-antioch",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

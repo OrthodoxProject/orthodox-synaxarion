@@ -1,0 +1,23 @@
+{
+  "id": "cedd-of-lastingham",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cedd de la Lastingham",
+    "full": "Sfântul Cedd de la Lastingham",
+    "short": "Cedd de la Lastingham",
+    "given": "Cedd"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/07/108296-saint-cedd-of-lastingham",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

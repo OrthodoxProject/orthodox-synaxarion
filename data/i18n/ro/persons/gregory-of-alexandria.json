@@ -1,0 +1,23 @@
+{
+  "id": "gregory-of-alexandria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Grigorie, Arhiepiscopul Alexandriei",
+    "full": "Sfântul Ierarh Grigorie, Arhiepiscopul Alexandriei",
+    "short": "Grigorie, Arhiepiscopul Alexandriei",
+    "given": "Grigorie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/05/103184-saint-gregory-archbishop-of-alexandria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

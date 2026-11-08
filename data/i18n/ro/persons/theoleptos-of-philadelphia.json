@@ -1,0 +1,23 @@
+{
+  "id": "theoleptos-of-philadelphia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Teolipt, Mitropolitul Filadelfiei",
+    "full": "Sfântul Ierarh Teolipt, Mitropolitul Filadelfiei",
+    "short": "Teolipt, Mitropolitul Filadelfiei",
+    "given": "Teolipt"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/25/100451-saint-theoleptos-metropolitan-of-philadelphia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

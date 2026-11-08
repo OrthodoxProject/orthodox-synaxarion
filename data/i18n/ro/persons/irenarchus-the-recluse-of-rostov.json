@@ -1,0 +1,23 @@
+{
+  "id": "irenarchus-the-recluse-of-rostov",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Irinarh Zăvorâtul, din Rostov",
+    "full": "Sfântul Cuvios Irinarh Zăvorâtul, din Rostov",
+    "short": "Irinarh Zăvorâtul, din Rostov",
+    "given": "Irinarh"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/13/100166-venerable-irenarchus-the-recluse-of-rostov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

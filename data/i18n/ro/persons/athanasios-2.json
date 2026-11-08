@@ -1,0 +1,23 @@
+{
+  "id": "athanasios-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Atanasie",
+    "full": "Sfântul Atanasie",
+    "short": "Atanasie",
+    "given": "Atanasie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/26/108913-saints-athanasios-and-theodosios-of-cherepovets-disciples-of-sai",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

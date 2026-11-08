@@ -1,0 +1,28 @@
+{
+  "id": "michael-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Mihail, primul Mitropolit al Kievului",
+    "full": "Sfântul Ierarh Mihail, primul Mitropolit al Kievului",
+    "short": "Mihail, primul Mitropolit al Kievului",
+    "given": "Mihail"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/15/103805-saint-michael-first-metropolitan-of-kiev",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/30/102820-saint-michael-first-metropolitan-of-kiev",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "icon-of-theotokos-of-cyprus",
+  "locale": "ro",
+  "names": {
+    "display": "Icoana Maicii Domnului din Cipru"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/19/100568-icon-of-the-mother-of-god-of-cyprus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

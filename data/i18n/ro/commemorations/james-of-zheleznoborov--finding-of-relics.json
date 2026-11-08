@@ -1,0 +1,20 @@
+{
+  "id": "james-of-zheleznoborov--finding-of-relics",
+  "locale": "ro",
+  "names": {
+    "display": "Aflarea moaștelor Sf. Cuv. Iacob, egumenul de la Jelezni Bor"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/05/101298-uncovering-of-the-relics-of-venerable-james-abbot-of-zhelezny-bo",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

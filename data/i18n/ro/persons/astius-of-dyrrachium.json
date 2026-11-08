@@ -1,0 +1,23 @@
+{
+  "id": "astius-of-dyrrachium",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Astie, Episcopul Dirahiului, în Macedonia",
+    "full": "Sfântul Sfințit Mucenic Astie, Episcopul Dirahiului, în Macedonia",
+    "short": "Astie, Episcopul Dirahiului, în Macedonia",
+    "given": "Astie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/04/101608-hieromartyr-astius-bishop-of-dyrrachium-in-macedonia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "theodore-of-shotep",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Teodor din Șotep",
+    "full": "Sfântul Teodor din Șotep",
+    "short": "Teodor din Șotep",
+    "given": "Teodor"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/11_20.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "athanasius-of-murom",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Atanasie din Murom",
+    "full": "Sfântul Cuvios Atanasie din Murom",
+    "short": "Atanasie din Murom",
+    "given": "Atanasie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/08/100700-venerable-athanasius-of-murom",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

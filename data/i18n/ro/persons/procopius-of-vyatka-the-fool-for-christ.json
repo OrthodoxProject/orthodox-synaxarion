@@ -1,0 +1,22 @@
+{
+  "id": "procopius-of-vyatka-the-fool-for-christ",
+  "locale": "ro",
+  "names": {
+    "display": "Fericitul Procopie din Viatka, cel nebun pentru Hristos",
+    "short": "Procopie din Viatka, cel nebun pentru Hristos",
+    "given": "Procopie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/21/103606-blessed-procopius-of-vyatka-the-fool-for-christ",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

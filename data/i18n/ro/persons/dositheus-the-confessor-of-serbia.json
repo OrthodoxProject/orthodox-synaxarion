@@ -1,0 +1,23 @@
+{
+  "id": "dositheus-the-confessor-of-serbia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Dositei Mărturisitorul, Episcopul Serbiei",
+    "full": "Sfântul Ierarh Dositei Mărturisitorul, Episcopul Serbiei",
+    "short": "Dositei Mărturisitorul, Episcopul Serbiei",
+    "given": "Dositei"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/31/108073-saint-dositheus-the-confessor-bishop-of-serbia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

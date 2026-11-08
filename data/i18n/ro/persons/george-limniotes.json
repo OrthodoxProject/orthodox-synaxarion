@@ -1,0 +1,23 @@
+{
+  "id": "george-limniotes",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Gheorghe Limniotul, Mărturisitorul de la Muntele Olimp",
+    "full": "Sfântul Gheorghe Limniotul, Mărturisitorul de la Muntele Olimp",
+    "short": "Gheorghe Limniotul, Mărturisitorul de la Muntele Olimp",
+    "given": "Gheorghe"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/24/102388-saint-george-limniotes-confessor-of-mount-olympus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

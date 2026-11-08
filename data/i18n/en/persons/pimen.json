@@ -1,0 +1,22 @@
+{
+  "id": "pimen",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Pimen",
+    "short": "Pimen",
+    "given": "Pimen"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-pimen",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

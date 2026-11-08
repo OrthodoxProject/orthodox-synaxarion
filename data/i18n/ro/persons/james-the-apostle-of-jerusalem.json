@@ -1,0 +1,23 @@
+{
+  "id": "james-the-apostle-of-jerusalem",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ap. Iacob, Episcopul Ierusalimului",
+    "full": "Sfântul Apostol Iacob, Episcopul Ierusalimului",
+    "short": "Iacob, Episcopul Ierusalimului",
+    "given": "Iacob"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/11_18.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

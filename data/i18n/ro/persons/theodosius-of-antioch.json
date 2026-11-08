@@ -1,0 +1,23 @@
+{
+  "id": "theodosius-of-antioch",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Teodosie din Antiohia",
+    "full": "Sfântul Teodosie din Antiohia",
+    "short": "Teodosie din Antiohia",
+    "given": "Teodosie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/11/100151-saint-theodosius-of-antioch",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

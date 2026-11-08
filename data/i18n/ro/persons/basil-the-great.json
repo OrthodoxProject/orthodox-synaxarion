@@ -1,0 +1,23 @@
+{
+  "id": "basil-the-great",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Vasile cel Mare, Episcopul Cezareei",
+    "full": "Sfântul Ierarh Vasile cel Mare, Episcopul Cezareei",
+    "short": "Vasile cel Mare, Episcopul Cezareei",
+    "given": "Vasile"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/5_6.html?lang=en#4",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

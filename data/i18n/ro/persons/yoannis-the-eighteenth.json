@@ -1,0 +1,22 @@
+{
+  "id": "yoannis-the-eighteenth",
+  "locale": "ro",
+  "names": {
+    "display": "Papa Ioan al XVIII-lea, al 107-lea Papă al Alexandriei",
+    "short": "Ioan al XVIII-lea, al 107-lea Papă al Alexandriei",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/10_2.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

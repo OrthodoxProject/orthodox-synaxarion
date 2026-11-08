@@ -1,0 +1,23 @@
+{
+  "id": "bassa-of-the-pskov-caves",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Vasa de la Peșterile din Pskov",
+    "full": "Sfânta Cuvioasă Vasa de la Peșterile din Pskov",
+    "short": "Vasa de la Peșterile din Pskov",
+    "given": "Vasa"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/29/100941-venerable-mark-jonah-and-bassa-of-the-pskov-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

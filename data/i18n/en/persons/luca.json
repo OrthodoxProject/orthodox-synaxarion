@@ -1,0 +1,22 @@
+{
+  "id": "luca",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Luke",
+    "short": "Luke",
+    "given": "Luke"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-luca",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

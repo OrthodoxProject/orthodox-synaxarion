@@ -1,0 +1,23 @@
+{
+  "id": "sophronius-the-recluse-of-the-kiev-caves",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Sofronie Zăvorâtul, de la Lavra Peșterilor",
+    "full": "Sfântul Cuvios Sofronie Zăvorâtul, de la Lavra Peșterilor",
+    "short": "Sofronie Zăvorâtul, de la Lavra Peșterilor",
+    "given": "Sofronie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/11/100786-venerable-sophronius-the-recluse-of-the-kiev-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "cyriacus-of-bisericani",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Chiriac de la Bisericani",
+    "full": "Sfântul Cuvios Chiriac de la Bisericani",
+    "short": "Chiriac de la Bisericani",
+    "given": "Chiriac"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/31/103702-venerable-cyriacus-of-bisericani-romania",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/31/103703-venerable-cyriacus-of-tazlau-romania",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

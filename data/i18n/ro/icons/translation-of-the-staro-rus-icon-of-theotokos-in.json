@@ -1,0 +1,20 @@
+{
+  "id": "translation-of-the-staro-rus-icon-of-theotokos-in",
+  "locale": "ro",
+  "names": {
+    "display": "Icoana Maicii Domnului de la Staraia Russa, adusă cu alai în Rusia"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/18/102661-translation-of-the-staro-rus-icon-of-the-mother-of-god-in-triump",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "paisius-of-hilandar",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Paisie de la Hilandar, Bulgaria",
+    "full": "Sfântul Cuvios Paisie de la Hilandar, Bulgaria",
+    "short": "Paisie de la Hilandar, Bulgaria",
+    "given": "Paisie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/19/101757-venerable-paisius-of-hilandar-bulgaria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

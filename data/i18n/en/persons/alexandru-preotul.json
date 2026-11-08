@@ -1,0 +1,27 @@
+{
+  "id": "alexandru-preotul",
+  "locale": "en",
+  "names": {
+    "display": "Hieromartyr Alexander the Priest",
+    "short": "Alexander the Priest",
+    "given": "Alexander"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-sfintit-mucenic-alexandru-preotul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-benedict-de-nursia-sf-sfintit-mc-alexandru-preotul-pomenirea-celor-adormiti/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

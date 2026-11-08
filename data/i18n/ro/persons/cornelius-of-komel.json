@@ -1,0 +1,23 @@
+{
+  "id": "cornelius-of-komel",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Corneliu, egumenul de la Komel, Vologda",
+    "full": "Sfântul Cuvios Corneliu, egumenul de la Komel, Vologda",
+    "short": "Corneliu, egumenul de la Komel, Vologda",
+    "given": "Corneliu"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/19/101439-venerable-cornelius-abbot-of-komel-vologda",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

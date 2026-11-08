@@ -1,0 +1,23 @@
+{
+  "id": "agathangelus-of-esphigmenou",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Agatanghel Esfigmenitul",
+    "full": "Sfântul Cuvios Mucenic Agatanghel Esfigmenitul",
+    "short": "Agatanghel Esfigmenitul",
+    "given": "Agatanghel"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/19/101154-monastic-martyr-agathangelus-of-esphigmenou-mount-athos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "barbarus-in-thessaly",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Varvar din Tesalia, care fusese tâlhar",
+    "full": "Sfântul Mucenic Varvar din Tesalia, care fusese tâlhar",
+    "short": "Varvar din Tesalia, care fusese tâlhar",
+    "given": "Varvar"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/06/101306-martyr-barbarus-in-thessaly-who-was-a-robber",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

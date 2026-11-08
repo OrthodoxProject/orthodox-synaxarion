@@ -1,0 +1,23 @@
+{
+  "id": "caesarius-of-arles",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Chesarie, Episcopul de Arles",
+    "full": "Sfântul Ierarh Chesarie, Episcopul de Arles",
+    "short": "Chesarie, Episcopul de Arles",
+    "given": "Chesarie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/27/102412-saint-caesarius-bishop-of-arles",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

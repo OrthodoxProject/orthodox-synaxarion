@@ -1,0 +1,22 @@
+{
+  "id": "pionie",
+  "locale": "en",
+  "names": {
+    "display": "Hieromartyr Pionius, Priest of Smyrna",
+    "short": "Pionius, Priest of Smyrna",
+    "given": "Pionius"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-sfintit-mucenic-pionie-preotul-din-smirna",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "valerian-4",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Valerian",
+    "short": "Valerian",
+    "given": "Valerian"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-valerian-1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

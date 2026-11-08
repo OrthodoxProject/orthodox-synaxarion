@@ -1,0 +1,20 @@
+{
+  "id": "cotylas-and-axoua-his-sister-and-tatas-his",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Cotilas (Cobtlas) și Axua, sora lui, și Tatas, prietenul lui"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/1_22.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

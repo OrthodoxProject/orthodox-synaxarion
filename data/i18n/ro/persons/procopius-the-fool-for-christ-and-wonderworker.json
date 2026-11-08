@@ -1,0 +1,23 @@
+{
+  "id": "procopius-the-fool-for-christ-and-wonderworker",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Drept Procopie cel nebun pentru Hristos și făcătorul de minuni, de la Ustia, Vologda",
+    "full": "Sfântul Drept Procopie cel nebun pentru Hristos și făcătorul de minuni, de la Ustia, Vologda",
+    "short": "Procopie cel nebun pentru Hristos și făcătorul de minuni, de la Ustia, Vologda",
+    "given": "Procopie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/08/102283-righteous-procopius-the-fool-for-christ-and-wonderworker-of-usty",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

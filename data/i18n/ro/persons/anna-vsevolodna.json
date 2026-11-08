@@ -1,0 +1,22 @@
+{
+  "id": "anna-vsevolodna",
+  "locale": "ro",
+  "names": {
+    "display": "Cneaghina Ana Vsevolodna",
+    "short": "Ana Vsevolodna",
+    "given": "Ana"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/03/108919-princess-anna-vsevolodna",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

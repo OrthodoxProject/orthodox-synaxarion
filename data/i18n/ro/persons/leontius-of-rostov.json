@@ -1,0 +1,23 @@
+{
+  "id": "leontius-of-rostov",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Leontie, Episcopul Rostovului",
+    "full": "Sfântul Ierarh Leontie, Episcopul Rostovului",
+    "short": "Leontie, Episcopul Rostovului",
+    "given": "Leontie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/23/100355-saint-leontius-bishop-of-rostov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

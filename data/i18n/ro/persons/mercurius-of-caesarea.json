@@ -1,0 +1,23 @@
+{
+  "id": "mercurius-of-caesarea",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mare Mc. Mercurie din Cezareea Capadociei",
+    "full": "Sfântul Mare Mucenic Mercurie din Cezareea Capadociei",
+    "short": "Mercurie din Cezareea Capadociei",
+    "given": "Mercurie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/24/103383-great-martyr-mercurius-of-caesarea-in-cappadocia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

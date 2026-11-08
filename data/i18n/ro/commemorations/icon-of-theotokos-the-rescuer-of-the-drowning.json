@@ -1,0 +1,20 @@
+{
+  "id": "icon-of-theotokos-the-rescuer-of-the-drowning",
+  "locale": "ro",
+  "names": {
+    "display": "Icoana Maicii Domnului „Izbăvitoarea celor ce se îneacă”"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/20/103599-icon-of-the-mother-of-god-the-rescuer-of-the-drowning",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "barses-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Mărt. Varsis și Evloghie, Episcopii Edesei, și Protoghen, Episcopul de Carrhae"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/25/102394-confessors-barses-and-eulogius-bishops-of-edessa-and-protogenes",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

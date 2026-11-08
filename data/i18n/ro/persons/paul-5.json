@@ -1,0 +1,23 @@
+{
+  "id": "paul-5",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Pavel",
+    "full": "Sfântul Mucenic Pavel",
+    "short": "Pavel",
+    "given": "Pavel"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/17/102311-martyrs-paul-and-juliana-of-syria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

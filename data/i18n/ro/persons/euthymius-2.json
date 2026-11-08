@@ -1,0 +1,23 @@
+{
+  "id": "euthymius-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Eftimie (Takaișvili)",
+    "full": "Sfântul Eftimie (Takaișvili)",
+    "short": "Eftimie",
+    "given": "Eftimie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/03/205438-saint-euthymius-takaishvili",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

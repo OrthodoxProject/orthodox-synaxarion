@@ -1,0 +1,23 @@
+{
+  "id": "macarius-of-zhabyn-the-wonderworker",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Macarie de la Jabin, făcătorul de minuni",
+    "full": "Sfântul Cuvios Macarie de la Jabin, făcătorul de minuni",
+    "short": "Macarie de la Jabin, făcătorul de minuni",
+    "given": "Macarie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/22/100265-venerable-macarius-of-zhabyn-the-wonderworker",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

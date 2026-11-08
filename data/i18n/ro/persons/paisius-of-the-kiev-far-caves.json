@@ -1,0 +1,23 @@
+{
+  "id": "paisius-of-the-kiev-far-caves",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Paisie de la Peșterile Depărtate din Kiev",
+    "full": "Sfântul Cuvios Paisie de la Peșterile Depărtate din Kiev",
+    "short": "Paisie de la Peșterile Depărtate din Kiev",
+    "given": "Paisie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/19/102057-venerable-paisius-of-the-kiev-far-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "andrew-of-kubensk",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Cneaz Andrei, în monahism Ioasaf, din Kubensk, Vologda",
+    "full": "Sfântul Cuvios Cneaz Andrei, în monahism Ioasaf, din Kubensk, Vologda",
+    "short": "Andrei, în monahism Ioasaf, din Kubensk, Vologda",
+    "given": "Andrei"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/10/102561-venerable-prince-andrew-in-monasticism-joasaph-of-kubensk-vologd",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

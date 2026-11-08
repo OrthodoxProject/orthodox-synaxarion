@@ -1,0 +1,28 @@
+{
+  "id": "kirion-ii-of-all-georgia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Chirion al II-lea, Catolicos-Patriarh al întregii Georgii",
+    "full": "Sfântul Sfințit Mucenic Chirion al II-lea, Catolicos-Patriarh al întregii Georgii",
+    "short": "Chirion al II-lea, Catolicos-Patriarh al întregii Georgii",
+    "given": "Chirion"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/12/205331-hieromartyr-kirion-ii-catholicos-patriarch-of-all-georgia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/27/205447-hieromartyr-kirion-ii-catholicos-patriarch-of-all-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

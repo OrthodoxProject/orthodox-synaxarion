@@ -1,0 +1,20 @@
+{
+  "id": "raphael-and-companions",
+  "locale": "en",
+  "names": {
+    "display": "New Martyrs Raphael, Irene and Nicholas of Lesbos"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfintii-mucenici-rafail-irina-nicolae-din-insula-lesvos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

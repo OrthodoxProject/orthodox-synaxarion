@@ -1,0 +1,23 @@
+{
+  "id": "theopista",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Teopista",
+    "full": "Sfânta Teopista",
+    "short": "Teopista",
+    "given": "Teopista"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/1_20.html?lang=en#3",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

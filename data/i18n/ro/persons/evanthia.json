@@ -1,0 +1,23 @@
+{
+  "id": "evanthia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Evantia",
+    "full": "Sfânta Cuvioasă Evantia",
+    "short": "Evantia",
+    "given": "Evantia"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/01/205391-venerable-evanthia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

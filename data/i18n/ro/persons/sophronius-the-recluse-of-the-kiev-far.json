@@ -1,0 +1,23 @@
+{
+  "id": "sophronius-the-recluse-of-the-kiev-far",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Sofronie Zăvorâtul, de la Peșterile Depărtate din Kiev",
+    "full": "Sfântul Cuvios Sofronie Zăvorâtul, de la Peșterile Depărtate din Kiev",
+    "short": "Sofronie Zăvorâtul, de la Peșterile Depărtate din Kiev",
+    "given": "Sofronie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/11/101352-venerable-sophronius-the-recluse-of-the-kiev-far-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

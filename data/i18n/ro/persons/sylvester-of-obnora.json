@@ -1,0 +1,23 @@
+{
+  "id": "sylvester-of-obnora",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Silvestru, egumenul de la Obnora",
+    "full": "Sfântul Cuvios Silvestru, egumenul de la Obnora",
+    "short": "Silvestru, egumenul de la Obnora",
+    "given": "Silvestru"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/25/101205-venerable-sylvester-abbot-of-obnora",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

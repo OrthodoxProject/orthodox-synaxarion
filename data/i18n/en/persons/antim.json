@@ -1,0 +1,22 @@
+{
+  "id": "antim",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Anthimus the Priest",
+    "short": "Anthimus the Priest",
+    "given": "Anthimus"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-antim-preotul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

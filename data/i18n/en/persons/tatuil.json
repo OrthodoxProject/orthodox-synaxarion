@@ -1,0 +1,27 @@
+{
+  "id": "tatuil",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Thathuel",
+    "short": "Thathuel",
+    "given": "Thathuel"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-tatuil",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-7-tineri-din-efes-sf-mc-tatuil/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

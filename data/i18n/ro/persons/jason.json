@@ -1,0 +1,23 @@
+{
+  "id": "jason",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Iason, unul dintre cei 70 de ucenici",
+    "full": "Sfântul Iason, unul dintre cei 70 de ucenici",
+    "short": "Iason, unul dintre cei 70 de ucenici",
+    "given": "Iason"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/9_3.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

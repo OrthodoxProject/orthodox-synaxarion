@@ -1,0 +1,23 @@
+{
+  "id": "maximus-of-ephesus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Maxim din Efes",
+    "full": "Sfântul Mucenic Maxim din Efes",
+    "short": "Maxim din Efes",
+    "given": "Maxim"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/30/101251-martyr-maximus-of-ephesus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "translation-of-the-dormition-icon-of-theotokos-from-constantinople",
+  "locale": "ro",
+  "names": {
+    "display": "Icoana Adormirii Maicii Domnului, adusă de la Constantinopol la Peșterile Depărtate din Kiev"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/03/101283-translation-of-the-dormition-icon-of-the-mother-of-god-from-cons",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

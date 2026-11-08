@@ -1,0 +1,23 @@
+{
+  "id": "anthony-of-leokhnov",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Antonie, egumenul de la Leohnov, Novgorod",
+    "full": "Sfântul Cuvios Antonie, egumenul de la Leohnov, Novgorod",
+    "short": "Antonie, egumenul de la Leohnov, Novgorod",
+    "given": "Antonie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/17/102985-venerable-anthony-abbot-of-leokhnov-novgorod",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

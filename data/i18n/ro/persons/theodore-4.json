@@ -1,0 +1,23 @@
+{
+  "id": "theodore-4",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Teodor, primul Episcop al Rostovului și Suzdalului",
+    "full": "Sfântul Ierarh Teodor, primul Episcop al Rostovului și Suzdalului",
+    "short": "Teodor, primul Episcop al Rostovului și Suzdalului",
+    "given": "Teodor"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/08/101663-saint-theodore-first-bishop-of-rostov-and-suzdal",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

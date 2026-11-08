@@ -1,0 +1,23 @@
+{
+  "id": "john-of-constantinople-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ioan, Patriarhul Constantinopolului",
+    "full": "Sfântul Ierarh Ioan, Patriarhul Constantinopolului",
+    "short": "Ioan, Patriarhul Constantinopolului",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/18/102333-saint-john-patriarch-of-constantinople",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

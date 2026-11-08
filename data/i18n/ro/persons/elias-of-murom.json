@@ -1,0 +1,28 @@
+{
+  "id": "elias-of-murom",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ilie din Murom, făcătorul de minuni de la Peșterile Apropiate din Kiev",
+    "full": "Sfântul Cuvios Ilie din Murom, făcătorul de minuni de la Peșterile Apropiate din Kiev",
+    "short": "Ilie din Murom, făcătorul de minuni de la Peșterile Apropiate din Kiev",
+    "given": "Ilie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/19/103585-venerable-elias-of-murom-wonderworker-of-the-kiev-near-caves",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/19/103586-martyrs-elias-probus-and-ares-in-cilicia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

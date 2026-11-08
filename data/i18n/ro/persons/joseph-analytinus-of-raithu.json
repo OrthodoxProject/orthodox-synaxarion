@@ -1,0 +1,23 @@
+{
+  "id": "joseph-analytinus-of-raithu",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Iosif Analitin din Rait",
+    "full": "Sfântul Cuvios Iosif Analitin din Rait",
+    "short": "Iosif Analitin din Rait",
+    "given": "Iosif"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/14/100192-saint-joseph-analytinus-of-raithu",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

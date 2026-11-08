@@ -1,0 +1,23 @@
+{
+  "id": "theophilus-the-new-in-cyprus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Teofil cel Nou, din Cipru",
+    "full": "Sfântul Mucenic Teofil cel Nou, din Cipru",
+    "short": "Teofil cel Nou, din Cipru",
+    "given": "Teofil"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/30/100377-martyr-theophilus-the-new-in-cyprus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "simeon-of-egypt",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Simeon din Egipt",
+    "full": "Sfântul Simeon din Egipt",
+    "short": "Simeon din Egipt",
+    "given": "Simeon"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/05/101001-saint-simeon-of-egypt",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

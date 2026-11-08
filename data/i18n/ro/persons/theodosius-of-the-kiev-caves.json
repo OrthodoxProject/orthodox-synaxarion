@@ -1,0 +1,23 @@
+{
+  "id": "theodosius-of-the-kiev-caves",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Teodosie (cneazul Teodor de Ostrog) de la Lavra Peșterilor",
+    "full": "Sfântul Cuvios Teodosie (cneazul Teodor de Ostrog) de la Lavra Peșterilor",
+    "short": "Teodosie de la Lavra Peșterilor",
+    "given": "Teodosie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/11/102267-saint-theodosius-prince-theodore-of-ostrog-of-the-kiev-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

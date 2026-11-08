@@ -1,0 +1,23 @@
+{
+  "id": "caesar-of-the-seventy",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ap. Cezar",
+    "full": "Sfântul Apostol Cezar",
+    "short": "Cezar",
+    "given": "Cezar"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/30/100949-apostle-caesar-of-the-seventy",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

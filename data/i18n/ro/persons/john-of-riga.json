@@ -1,0 +1,23 @@
+{
+  "id": "john-of-riga",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Noul Mc. Ioan, Arhiepiscopul Rigăi și al Letoniei",
+    "full": "Sfântul Noul Mucenic Ioan, Arhiepiscopul Rigăi și al Letoniei",
+    "short": "Ioan, Arhiepiscopul Rigăi și al Letoniei",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/12/108078-new-martyr-john-archbishop-of-riga-and-latvia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

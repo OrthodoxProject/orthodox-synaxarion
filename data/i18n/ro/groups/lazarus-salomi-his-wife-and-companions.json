@@ -1,0 +1,20 @@
+{
+  "id": "lazarus-salomi-his-wife-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Lazăr, Salomi, soția lui, și copiii lor"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/12_8.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

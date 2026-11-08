@@ -1,0 +1,23 @@
+{
+  "id": "hypatius-of-ephesus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Ipatie, Episcopul Efesului, și preotul său, Andrei",
+    "full": "Sfântul Sfințit Mucenic Ipatie, Episcopul Efesului, și preotul său, Andrei",
+    "short": "Ipatie, Episcopul Efesului, și preotul său, Andrei",
+    "given": "Ipatie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/21/102687-hieromartyr-hypatius-bishop-of-ephesus-and-his-presbyter-andrew",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

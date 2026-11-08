@@ -1,0 +1,23 @@
+{
+  "id": "aidan-of-lindesfarne",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Aidan, Episcopul de Lindisfarne",
+    "full": "Sfântul Ierarh Aidan, Episcopul de Lindisfarne",
+    "short": "Aidan, Episcopul de Lindisfarne",
+    "given": "Aidan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/31/102445-saint-aidan-bishop-of-lindesfarne",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

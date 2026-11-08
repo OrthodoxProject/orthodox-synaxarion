@@ -1,0 +1,23 @@
+{
+  "id": "nikodemos-of-elbassan-albania",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Nicodim din Elbasan, Albania",
+    "full": "Sfântul Mucenic Nicodim din Elbasan, Albania",
+    "short": "Nicodim din Elbasan, Albania",
+    "given": "Nicodim"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/10/102000-martyr-ikdmos-of-elbassan-albania",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

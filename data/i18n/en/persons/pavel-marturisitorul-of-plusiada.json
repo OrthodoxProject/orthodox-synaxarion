@@ -1,0 +1,22 @@
+{
+  "id": "pavel-marturisitorul-of-plusiada",
+  "locale": "en",
+  "names": {
+    "display": "Saint Paul the Confessor, Bishop of Plousias",
+    "short": "Paul the Confessor, Bishop of Plousias",
+    "given": "Paul"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-pavel-marturisitorul-episcopul-plusiadei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

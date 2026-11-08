@@ -1,0 +1,27 @@
+{
+  "id": "john-the-hairy-and-fool-for-christ",
+  "locale": "ro",
+  "names": {
+    "display": "Fericitul Ioan „cel Păros”, cel nebun pentru Hristos, din Rostov",
+    "short": "Ioan „cel Păros”, cel nebun pentru Hristos, din Rostov",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/03/102480-blessed-john-the-hairy-and-fool-for-christ-at-rostov",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/12/103288-blessed-john-the-hairy-and-fool-for-christ-at-rostov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

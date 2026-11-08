@@ -1,0 +1,23 @@
+{
+  "id": "damian-in-cilicia-and-their-brothers",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Damian, doctor fără de arginți, din Cilicia, și frații lor",
+    "full": "Sfântul Mucenic Damian, doctor fără de arginți, din Cilicia, și frații lor",
+    "short": "Damian din Cilicia și frații lor",
+    "given": "Damian"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/17/102986-martyrs-and-unmercenaries-cosmas-and-damian-in-cilicia-and-their",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

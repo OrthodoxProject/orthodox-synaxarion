@@ -1,0 +1,23 @@
+{
+  "id": "eleazar-the-teacher-of-the-seven-maccabee",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Eleazar, dascălul Sfinților 7 Mucenici Macabei",
+    "full": "Sfântul Mucenic Eleazar, dascălul Sfinților 7 Mucenici Macabei",
+    "short": "Eleazar, dascălul Sfinților 7 Mucenici Macabei",
+    "given": "Eleazar"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/01/102171-martyr-eleazar-the-teacher-of-the-holy-seven-maccabee-martyrs",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

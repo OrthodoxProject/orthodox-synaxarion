@@ -1,0 +1,23 @@
+{
+  "id": "sebastian-of-poshekhonye",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Sebastian din Poșehonie",
+    "full": "Sfântul Cuvios Sebastian din Poșehonie",
+    "short": "Sebastian din Poșehonie",
+    "given": "Sebastian"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/26/100607-venerable-sebastian-of-poshekhonye",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

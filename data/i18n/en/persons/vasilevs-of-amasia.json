@@ -1,0 +1,27 @@
+{
+  "id": "vasilevs-of-amasia",
+  "locale": "en",
+  "names": {
+    "display": "Hieromartyr Basil, Bishop of Amasea",
+    "short": "Basil, Bishop of Amasea",
+    "given": "Basil"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-sfintit-mucenic-vasilevs-episcopul-amasiei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-soborul-sfintelor-femei-romance-%e2%80%a0-sf-mc-chiril-chindeu-si-tasie-din-axiopolis-cernavoda-sf-sfintit-mc-vasilevs-episcopul-amasiei-sf-glafira-duminica-a-3-a-dupa-pasti-a/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "job-of-moscow",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Iov, Patriarhul Moscovei și al Întregii Rusii",
+    "full": "Sfântul Ierarh Iov, Patriarhul Moscovei și al Întregii Rusii",
+    "short": "Iov, Patriarhul Moscovei",
+    "given": "Iov"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/19/101758-repose-of-saint-job-patriarch-of-moscow-and-all-russia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

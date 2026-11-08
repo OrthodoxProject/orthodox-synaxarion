@@ -1,0 +1,27 @@
+{
+  "id": "laurentiu-arhidiaconul",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Lawrence the Archdeacon",
+    "short": "Lawrence the Archdeacon",
+    "given": "Lawrence"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-laurentiu-arhidiaconul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-laurentiu-arhidiaconul-sf-sfintit-mc-xist-episcopul-romei-sf-mc-ipolit/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

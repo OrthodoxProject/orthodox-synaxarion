@@ -1,0 +1,23 @@
+{
+  "id": "alexis-of-tver",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Noul Sfințit Mc. Alexie (Benemanski) din Tver",
+    "full": "Sfântul Noul Sfințit Mucenic Alexie (Benemanski) din Tver",
+    "short": "Alexie din Tver",
+    "given": "Alexie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/22/103917-new-hieromartyr-alexis-benemanskii-of-tver",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

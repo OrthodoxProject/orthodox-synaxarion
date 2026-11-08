@@ -1,0 +1,20 @@
+{
+  "id": "10-martyrs-marturisitori-pentru-icoana-lui-hristos",
+  "locale": "en",
+  "names": {
+    "display": "10 Holy Martyrs and Confessors who suffered for the icon of Christ"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfintii-10-mucenici-marturisitori-pentru-icoana-lui-hristos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

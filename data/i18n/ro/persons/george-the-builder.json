@@ -1,0 +1,23 @@
+{
+  "id": "george-the-builder",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Gheorghe Ziditorul",
+    "full": "Sfântul Cuvios Gheorghe Ziditorul",
+    "short": "Gheorghe Ziditorul",
+    "given": "Gheorghe"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/28/205463-venerable-george-the-builder",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

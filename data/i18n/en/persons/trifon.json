@@ -1,0 +1,22 @@
+{
+  "id": "trifon",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Tryphon",
+    "short": "Tryphon",
+    "given": "Tryphon"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-trifon",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "sava-vatopedinul",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Savva the Vatopedian",
+    "short": "Savva the Vatopedian",
+    "given": "Savva"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-sava-vatopedinul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

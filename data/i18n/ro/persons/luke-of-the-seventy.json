@@ -1,0 +1,23 @@
+{
+  "id": "luke-of-the-seventy",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ap. și Evanghelist Luca",
+    "full": "Sfântul Apostol și Evanghelist Luca",
+    "short": "Luca",
+    "given": "Luca"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/22/101181-apostle-and-evangelist-luke-of-the-seventy",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

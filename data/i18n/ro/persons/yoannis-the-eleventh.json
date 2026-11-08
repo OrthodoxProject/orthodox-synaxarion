@@ -1,0 +1,32 @@
+{
+  "id": "yoannis-the-eleventh",
+  "locale": "ro",
+  "names": {
+    "display": "Papa Ioan al XI-lea, al 89-lea Patriarh al Alexandriei",
+    "short": "Ioan al XI-lea, al 89-lea Patriarh al Alexandriei",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/8_28.html?lang=en#2",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/9_4.html?lang=en#2",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/9_9.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

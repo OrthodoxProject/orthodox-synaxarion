@@ -1,0 +1,23 @@
+{
+  "id": "arsenius-the-great-of-georgia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Arsenie cel Mare, Catolicosul Georgiei",
+    "full": "Sfântul Ierarh Arsenie cel Mare, Catolicosul Georgiei",
+    "short": "Arsenie cel Mare, Catolicosul Georgiei",
+    "given": "Arsenie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/25/205421-saint-arsenius-the-great-catholicos-of-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

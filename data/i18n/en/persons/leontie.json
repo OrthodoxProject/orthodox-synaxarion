@@ -1,0 +1,22 @@
+{
+  "id": "leontie",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Leontius",
+    "short": "Leontius",
+    "given": "Leontius"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-leontie",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

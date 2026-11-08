@@ -1,0 +1,23 @@
+{
+  "id": "julian-of-dalmatia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Iulian din Dalmația",
+    "full": "Sfântul Mucenic Iulian din Dalmația",
+    "short": "Iulian din Dalmația",
+    "given": "Iulian"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/28/102114-martyr-julian-of-dalmatia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

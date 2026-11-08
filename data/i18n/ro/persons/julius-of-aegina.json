@@ -1,0 +1,23 @@
+{
+  "id": "julius-of-aegina",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Iuliu din Eghina",
+    "full": "Sfântul Iuliu din Eghina",
+    "short": "Iuliu din Eghina",
+    "given": "Iuliu"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/31/100248-saint-julius-of-aegina",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

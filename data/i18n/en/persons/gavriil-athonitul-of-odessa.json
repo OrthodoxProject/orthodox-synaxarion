@@ -1,0 +1,22 @@
+{
+  "id": "gavriil-athonitul-of-odessa",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Gabriel the Athonite of Odessa",
+    "short": "Gabriel the Athonite of Odessa",
+    "given": "Gabriel"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-gavriil-athonitul-din-odessa",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

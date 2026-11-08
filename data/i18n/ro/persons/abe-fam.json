@@ -1,0 +1,23 @@
+{
+  "id": "abe-fam",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Abe-Fam Ostașul (Sf. Fivamon)",
+    "full": "Sfântul Abe-Fam Ostașul (Sfântul Fivamon)",
+    "short": "Abe-Fam Ostașul",
+    "given": "Abe-Fam"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/5_27.html?lang=en#4",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

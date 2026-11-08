@@ -1,0 +1,23 @@
+{
+  "id": "alexander-of-macedonia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Alexandru din Macedonia",
+    "full": "Sfântul Mucenic Alexandru din Macedonia",
+    "short": "Alexandru din Macedonia",
+    "given": "Alexandru"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/13/100797-martyr-alexander-of-macedonia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

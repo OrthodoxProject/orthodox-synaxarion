@@ -6,7 +6,7 @@
  */
 import { readFileSync, readdirSync, statSync } from "node:fs";
 import { join, posix, relative, sep } from "node:path";
-import { loadDataset, type Dataset } from "./dataset.ts";
+import { isMachineTranslation, loadDataset, type Dataset } from "./dataset.ts";
 import { buildYear, loadTradition, unresolved, type TraditionData } from "./days.ts";
 import { CORE_COLLECTIONS, I18N_COLLECTIONS, REQUIRED_LOCALES, TEXT_COLLECTIONS } from "./layout.ts";
 
@@ -354,16 +354,15 @@ function coveragePage(ds: Dataset, traditions: Map<string, TraditionData>, year:
     ...locales.map((l) => String(TEXT_COLLECTIONS.reduce((n, c) => n + [...(ds.texts.get(c)?.values() ?? [])].filter((byLocale) => byLocale.has(l)).length, 0))),
   ]);
   blocks.push(table(["Collection", "Records", ...locales], rows));
-  let machine = 0;
-  for (const byId of ds.locales.values()) {
-    for (const byLocale of byId.values()) {
-      for (const rec of byLocale.values()) {
-        const tr = rec.translation as Rec | undefined;
-        if ((tr?.method === "machine" || tr?.status === "machine") && tr?.status !== "reviewed" && tr?.status !== "approved") machine++;
-      }
-    }
-  }
-  blocks.push(`Machine translations waiting for review (not published on the website): ${machine}.`);
+  const machine = new Map<string, number>();
+  const countMachine = (locale: string, rec: Rec): void => {
+    if (isMachineTranslation(rec)) machine.set(locale, (machine.get(locale) ?? 0) + 1);
+  };
+  for (const byId of ds.locales.values()) for (const byLocale of byId.values()) for (const [locale, rec] of byLocale) countMachine(locale, rec);
+  for (const byId of ds.texts.values()) for (const byLocale of byId.values()) for (const [locale, text] of byLocale) countMachine(locale, text.frontMatter);
+  const machineTotal = [...machine.values()].reduce((a, b) => a + b, 0);
+  const machineDetail = orderedLocales(machine.keys()).map((l) => `${code(l)}: ${machine.get(l)}`).join(" · ");
+  blocks.push(`Machine translations waiting for review, shown on the website with a notice: ${machineTotal}${machineTotal > 0 ? ` (${machineDetail})` : ""}.`);
 
   blocks.push(`## Calendars in ${year}`);
   blocks.push(

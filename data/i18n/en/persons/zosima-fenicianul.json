@@ -1,0 +1,22 @@
+{
+  "id": "zosima-fenicianul",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Zosimus of Phoenicia",
+    "short": "Zosimus of Phoenicia",
+    "given": "Zosimus"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-zosima-fenicianul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

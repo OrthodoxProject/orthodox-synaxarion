@@ -1,0 +1,23 @@
+{
+  "id": "aquila-of-kiev-caves",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Achila diaconul, de la Lavra Peșterilor",
+    "full": "Sfântul Cuvios Achila diaconul, de la Lavra Peșterilor",
+    "short": "Achila diaconul, de la Lavra Peșterilor",
+    "given": "Achila"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/04/100090-saint-aquila-deacon-of-the-kiev-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

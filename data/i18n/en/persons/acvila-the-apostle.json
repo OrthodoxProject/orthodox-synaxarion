@@ -1,0 +1,27 @@
+{
+  "id": "acvila-the-apostle",
+  "locale": "en",
+  "names": {
+    "display": "Apostle and Martyr Aquila",
+    "short": "Aquila",
+    "given": "Aquila"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfinti-apostoli-mucenici-acvila-sotia-sa-priscila",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-martinian-sf-ap-acvila-si-sotia-sa-priscila-sf-ier-evloghie-patriarhul-alexandriei/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

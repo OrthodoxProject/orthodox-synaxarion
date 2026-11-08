@@ -1,0 +1,23 @@
+{
+  "id": "john-11",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ioan",
+    "full": "Sfântul Ioan",
+    "short": "Ioan",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/04/103902-saints-john-stephen-and-isaiah-of-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

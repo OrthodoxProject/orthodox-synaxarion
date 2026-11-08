@@ -1,0 +1,23 @@
+{
+  "id": "illyricus-of-mount-myrsinon-in-the-peloponnesus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ilirie de la Muntele Mirsinon din Peloponez",
+    "full": "Sfântul Cuvios Ilirie de la Muntele Mirsinon din Peloponez",
+    "short": "Ilirie de la Muntele Mirsinon din Peloponez",
+    "given": "Ilirie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/03/100978-saint-illyricus-of-mount-myrsinon-in-the-peloponnesus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

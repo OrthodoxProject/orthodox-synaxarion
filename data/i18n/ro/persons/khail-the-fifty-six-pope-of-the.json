@@ -1,0 +1,23 @@
+{
+  "id": "khail-the-fifty-six-pope-of-the",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ava Hail (Mihail), al 56-lea Papă al Scaunului Sf. Marcu",
+    "full": "Sfântul Ierarh Ava Hail (Mihail), al 56-lea Papă al Scaunului Sfântului Marcu",
+    "short": "Hail, al 56-lea Papă al Scaunului Sf. Marcu",
+    "given": "Hail"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/7_20.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "leucius-of-brindisi",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Leucie, Episcopul de Brindisi",
+    "full": "Sfântul Ierarh Leucie, Episcopul de Brindisi",
+    "short": "Leucie, Episcopul de Brindisi",
+    "given": "Leucie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/20/101768-saint-leucius-bishop-of-brindisi",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

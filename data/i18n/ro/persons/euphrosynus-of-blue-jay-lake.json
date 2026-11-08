@@ -1,0 +1,23 @@
+{
+  "id": "euphrosynus-of-blue-jay-lake",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Eufrosin de la Sinozero, Novgorod",
+    "full": "Sfântul Cuvios Mucenic Eufrosin de la Sinozero, Novgorod",
+    "short": "Eufrosin de la Sinozero, Novgorod",
+    "given": "Eufrosin"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/20/100845-monastic-martyr-euphrosynus-of-blue-jay-lake-novgorod",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

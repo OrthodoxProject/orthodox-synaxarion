@@ -1,0 +1,22 @@
+{
+  "id": "macarie-2",
+  "locale": "en",
+  "names": {
+    "display": "New Martyr Macarius, disciple of Patriarch Niphon",
+    "short": "Macarius, disciple of Patriarch Niphon",
+    "given": "Macarius"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-nou-mucenic-macarie-ucenicul-patriarhului-nifon",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "gregory-the-bishop",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Grigorie, episcopul",
+    "full": "Sfântul Ierarh Grigorie, episcopul",
+    "short": "Grigorie, episcopul",
+    "given": "Grigorie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/30/102441-saint-gregory-the-bishop",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

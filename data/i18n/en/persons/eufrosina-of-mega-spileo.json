@@ -1,0 +1,22 @@
+{
+  "id": "eufrosina-of-mega-spileo",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Euphrosyne of Mega Spilaion",
+    "short": "Euphrosyne of Mega Spilaion",
+    "given": "Euphrosyne"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-eufrosina-de-la-mega-spileo",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

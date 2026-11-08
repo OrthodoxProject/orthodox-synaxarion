@@ -1,0 +1,23 @@
+{
+  "id": "demetrius-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Noul Mc. Dimitrie din Sliven",
+    "full": "Sfântul Noul Mucenic Dimitrie din Sliven",
+    "short": "Dimitrie din Sliven",
+    "given": "Dimitrie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/30/108004-saint-demetrius-new-martyr-of-sliven",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "pulheria",
+  "locale": "en",
+  "names": {
+    "display": "Empress Pulcheria",
+    "short": "Pulcheria",
+    "given": "Pulcheria"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-imparateasa-pulheria",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mare-mc-teodor-tiron-sf-mariamna-sf-imparati-marcian-si-pulheria/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-minodora-mitrodora-si-nimfodora-sf-imparateasa-pulheria/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

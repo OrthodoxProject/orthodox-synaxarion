@@ -1,0 +1,25 @@
+{
+  "id": "icon-of-theotokos-mangaietoarea-paramythia-of-vatoped",
+  "locale": "en",
+  "names": {
+    "display": "Icon of the Mother of God \"Comforter\" (Paramythia) of Vatopedi"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoanei-maicii-domnului-mangaietoarea-paramythia-de-la-vatoped",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoanei-maicii-domnului-injunghiata-de-la-vatoped",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

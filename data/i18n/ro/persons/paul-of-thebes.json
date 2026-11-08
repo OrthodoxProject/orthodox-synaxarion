@@ -1,0 +1,23 @@
+{
+  "id": "paul-of-thebes",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Pavel Tebeul",
+    "full": "Sfântul Cuvios Pavel Tebeul",
+    "short": "Pavel Tebeul",
+    "given": "Pavel"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/15/100196-venerable-paul-of-thebes",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

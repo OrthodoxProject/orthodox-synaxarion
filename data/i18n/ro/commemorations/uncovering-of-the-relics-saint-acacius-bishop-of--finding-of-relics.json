@@ -1,0 +1,20 @@
+{
+  "id": "uncovering-of-the-relics-saint-acacius-bishop-of--finding-of-relics",
+  "locale": "ro",
+  "names": {
+    "display": "Aflarea moaștelor Sf. Ier. Acachie, Episcopul Melitinei"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/15/102616-uncovering-of-the-relics-saint-acacius-bishop-of-melitene",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

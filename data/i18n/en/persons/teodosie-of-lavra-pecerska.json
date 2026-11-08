@@ -1,0 +1,22 @@
+{
+  "id": "teodosie-of-lavra-pecerska",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Theodosius of the Kiev Caves",
+    "short": "Theodosius of the Kiev Caves",
+    "given": "Theodosius"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-teodosie-de-la-lavra-pecerska",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "peter-6",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Petru, primul Catolicos al Georgiei",
+    "full": "Sfântul Ierarh Petru, primul Catolicos al Georgiei",
+    "short": "Petru, primul Catolicos al Georgiei",
+    "given": "Petru"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/30/205466-hierarch-peter-first-catholicos-of-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

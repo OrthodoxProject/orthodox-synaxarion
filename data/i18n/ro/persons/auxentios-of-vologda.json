@@ -1,0 +1,23 @@
+{
+  "id": "auxentios-of-vologda",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Auxenție din Vologda",
+    "full": "Sfântul Cuvios Auxenție din Vologda",
+    "short": "Auxenție din Vologda",
+    "given": "Auxenție"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/12/101704-venerable-onouphrios-and-auxentios-of-vologda",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

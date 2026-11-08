@@ -1,0 +1,23 @@
+{
+  "id": "onuphrius-of-malsk",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Onufrie, egumenul de la Malsk, Pskov",
+    "full": "Sfântul Cuvios Onufrie, egumenul de la Malsk, Pskov",
+    "short": "Onufrie, egumenul de la Malsk, Pskov",
+    "given": "Onufrie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/12/101701-venerable-onuphrius-abbot-of-malsk-pskov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

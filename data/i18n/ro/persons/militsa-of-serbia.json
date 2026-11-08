@@ -1,0 +1,23 @@
+{
+  "id": "militsa-of-serbia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Binecredincioasa Cneaghină Milița din Serbia",
+    "full": "Sfânta Binecredincioasa Cneaghină Milița din Serbia",
+    "short": "Milița din Serbia",
+    "given": "Milița"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/19/102059-holy-right-believing-princess-militsa-of-serbia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

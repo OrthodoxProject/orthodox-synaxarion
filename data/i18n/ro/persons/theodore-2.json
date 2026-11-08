@@ -1,0 +1,23 @@
+{
+  "id": "theodore-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Teodor, făcătorul de minuni din Murom",
+    "full": "Sfântul Cuvios Teodor, făcătorul de minuni din Murom",
+    "short": "Teodor, făcătorul de minuni din Murom",
+    "given": "Teodor"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/21/101454-venerable-constantine-in-baptism-yaroslav-with-his-children-mich",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

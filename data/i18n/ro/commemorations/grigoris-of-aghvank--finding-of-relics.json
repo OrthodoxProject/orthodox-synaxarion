@@ -1,0 +1,20 @@
+{
+  "id": "grigoris-of-aghvank--finding-of-relics",
+  "locale": "ro",
+  "names": {
+    "display": "Praznicul aflării moaștelor Sf. Grigoris, Catolicosul Aghvankului, și pomenirea Sf. Părinți Tatul, Varos, Tumas, Anton, Cronid și a celor șapte pustnici păscători uciși în Mănăstirea Innaknia"
+  },
+  "references": [
+    {
+      "source": "src:armenianchurch-ge",
+      "url": "https://armenianchurch.ge/en/kalendar-prazdnikov/description-2/october/feast-of-discovery-of-relics-of-catholicos-st-grigoris-of-aghvank-commemoration-of-st-fathers-tatoul-varos-toumas-anton-kronides-and-the-seven-herbivorous-hermits-martyred-in-the-innaknya-monastery",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "david-coptic",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Proroc și Împărat David",
+    "full": "Sfântul Proroc și Împărat David",
+    "short": "David",
+    "given": "David"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/4_23.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "artyr-mercurius-of-smolensk",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Mercurie din Smolensk",
+    "full": "Sfântul Mucenic Mercurie din Smolensk",
+    "short": "Mercurie din Smolensk",
+    "given": "Mercurie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/07/100185-holy-artyr-mercurius-of-smolensk",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

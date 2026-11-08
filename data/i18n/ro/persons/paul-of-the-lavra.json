@@ -1,0 +1,23 @@
+{
+  "id": "paul-of-the-lavra",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Pavel de la Lavra, Muntele Athos",
+    "full": "Sfântul Cuvios Mucenic Pavel de la Lavra, Muntele Athos",
+    "short": "Pavel de la Lavra, Muntele Athos",
+    "given": "Pavel"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/22/101464-monastic-martyr-paul-of-the-lavra-mount-athos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

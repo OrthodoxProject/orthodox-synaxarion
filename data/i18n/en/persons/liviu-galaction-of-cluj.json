@@ -1,0 +1,27 @@
+{
+  "id": "liviu-galaction-of-cluj",
+  "locale": "en",
+  "names": {
+    "display": "Priest-martyr Liviu-Galaction of Cluj",
+    "short": "Liviu-Galaction of Cluj",
+    "given": "Liviu-Galaction"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-preot-mucenic-liviu-galaction-de-la-cluj",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-preot-mucenic-liviu-galaction-de-la-cluj-sf-ier-teofilact-marturisitorul-episcopul-nicomidiei-sambata-sf-mare-mc-teodor-tiron-pomenirea-celor-adormiti/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

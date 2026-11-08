@@ -1,0 +1,23 @@
+{
+  "id": "george-the-new-at-sofia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mare Mc. Gheorghe cel Nou din Sofia, Bulgaria",
+    "full": "Sfântul Mare Mucenic Gheorghe cel Nou din Sofia, Bulgaria",
+    "short": "Gheorghe cel Nou din Sofia, Bulgaria",
+    "given": "Gheorghe"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/26/101537-greatmartyr-george-the-new-at-sofia-bulgaria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

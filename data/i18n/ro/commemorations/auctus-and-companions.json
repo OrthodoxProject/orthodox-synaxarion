@@ -1,0 +1,20 @@
+{
+  "id": "auctus-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Auct, Taurion și Tesalonica din Amfipoli, în Macedonia"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/07/103240-martyrs-auctus-taurion-and-thessalonica-at-amphipolis-in-macedon",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "christopher-2",
+  "locale": "ro",
+  "names": {
+    "display": "Fericitul Hristofor, numit Hristesia",
+    "short": "Hristofor, numit Hristesia",
+    "given": "Hristofor"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/11/205459-blessed-christopher-called-christesia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

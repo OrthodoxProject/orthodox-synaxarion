@@ -1,0 +1,27 @@
+{
+  "id": "ioan-the-milostiv-of-alexandria",
+  "locale": "en",
+  "names": {
+    "display": "Saint John the Merciful, Patriarch of Alexandria",
+    "short": "John the Merciful, Patriarch of Alexandria",
+    "given": "John"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-ioan-cel-milostiv-patriarhul-alexandriei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-martiri-si-marturisitori-nasaudeni-atanasie-todoran-din-bichigiu-vasile-din-mocod-grigorie-din-zagra-si-vasile-din-telciu-sf-ier-ioan-cel-milostiv-patriarhul-alexandriei-sf-cu/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

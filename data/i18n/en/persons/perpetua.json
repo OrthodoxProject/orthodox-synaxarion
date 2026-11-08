@@ -1,0 +1,27 @@
+{
+  "id": "perpetua",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Perpetua",
+    "short": "Perpetua",
+    "given": "Perpetua"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-perpetua",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/inainte-praznuirea-intampinarii-domnului-sf-mc-trifon-sf-mc-perpetua-si-felicitas-duminica-a-33-a-dupa-rusalii-a-vamesului-si-a-fariseului-ap-2-timotei-3-10-15-ev-luca-18-10-14-glas-1/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "athenagoras-of-athens",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Atenagora din Atena",
+    "full": "Sfântul Atenagora din Atena",
+    "short": "Atenagora din Atena",
+    "given": "Atenagora"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/24/206388-saint-athenagoras-of-athens",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

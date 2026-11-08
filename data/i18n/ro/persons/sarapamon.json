@@ -1,0 +1,22 @@
+{
+  "id": "sarapamon",
+  "locale": "ro",
+  "names": {
+    "display": "Ava Sarapamon, numit „cel cu văl”, Episcopul de El-Monofia",
+    "short": "Sarapamon, numit „cel cu văl”, Episcopul de El-Monofia",
+    "given": "Sarapamon"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/7_28.html?lang=en#3",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

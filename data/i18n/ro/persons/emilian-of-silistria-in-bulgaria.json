@@ -1,0 +1,23 @@
+{
+  "id": "emilian-of-silistria-in-bulgaria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Emilian de la Durostor",
+    "full": "Sfântul Mucenic Emilian de la Durostor",
+    "short": "Emilian de la Durostor",
+    "given": "Emilian"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/18/102047-martyr-emilian-of-silistria-in-bulgaria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

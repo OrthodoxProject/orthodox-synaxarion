@@ -1,0 +1,20 @@
+{
+  "id": "eustace-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Eustatie, Tespesie și Anatolie din Niceea"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/20/103344-martyrs-eustace-thespesius-and-anatolius-of-nicea",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

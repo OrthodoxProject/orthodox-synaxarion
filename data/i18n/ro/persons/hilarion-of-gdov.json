@@ -1,0 +1,23 @@
+{
+  "id": "hilarion-of-gdov",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ilarion, egumenul de la Gdov",
+    "full": "Sfântul Cuvios Ilarion, egumenul de la Gdov",
+    "short": "Ilarion, egumenul de la Gdov",
+    "given": "Ilarion"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/21/103012-venerable-hilarion-abbot-of-gdov-and-pskov-lake",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

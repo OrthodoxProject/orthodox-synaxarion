@@ -1,0 +1,22 @@
+{
+  "id": "yoannis-the-seventeenth",
+  "locale": "ro",
+  "names": {
+    "display": "Papa Ioan al XVII-lea, al 105-lea Patriarh al Alexandriei",
+    "short": "Ioan al XVII-lea, al 105-lea Patriarh al Alexandriei",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/8_13.html?lang=en#3",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

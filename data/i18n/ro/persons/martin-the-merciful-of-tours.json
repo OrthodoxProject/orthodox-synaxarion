@@ -1,0 +1,28 @@
+{
+  "id": "martin-the-merciful-of-tours",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Martin cel Milostiv, Episcopul de Tours",
+    "full": "Sfântul Ierarh Martin cel Milostiv, Episcopul de Tours",
+    "short": "Martin cel Milostiv, Episcopul de Tours",
+    "given": "Martin"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/12/205432-saint-martin-the-merciful-bishop-of-tours",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/11/103285-saint-martin-the-merciful-bishop-of-tours",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

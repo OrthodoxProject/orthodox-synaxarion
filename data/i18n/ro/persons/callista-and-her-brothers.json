@@ -1,0 +1,23 @@
+{
+  "id": "callista-and-her-brothers",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Calista și frații ei",
+    "full": "Sfânta Muceniță Calista și frații ei",
+    "short": "Calista și frații ei",
+    "given": "Calista"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/01/102453-martyrs-callista-and-her-brothers-evodius-and-hermogenes-at-nico",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

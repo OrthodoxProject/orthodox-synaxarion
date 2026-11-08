@@ -1,0 +1,23 @@
+{
+  "id": "damascene-the-new",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Damaschin cel Nou",
+    "full": "Sfântul Sfințit Mucenic Damaschin cel Nou",
+    "short": "Damaschin cel Nou",
+    "given": "Damaschin"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/16/100214-hieromartyr-damascene-the-new",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

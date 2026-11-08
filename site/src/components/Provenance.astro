@@ -1,5 +1,6 @@
 ---
 /** References for readers, sources of the record, and the record's names in other languages. */
+import { isMachineTranslation } from "../../../tools/lib/dataset.ts";
 import { allLocales, languageName, textOf } from "../lib/format.ts";
 import { t, type Lang } from "../lib/ui.ts";
 import References from "./References.astro";
@@ -45,6 +46,7 @@ const others = [...allLocales(collection, id)].filter(([locale]) => locale !== l
         {others.map(([locale, other]) => (
           <li>
             <span class="muted">{languageName(locale, lang)}:</span> <span lang={locale}>{other.names?.full ?? other.names?.display}</span>
+            {isMachineTranslation(other) && <span class="muted"> ({t(lang, "machineShort")})</span>}
           </li>
         ))}
       </ul>

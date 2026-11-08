@@ -1,0 +1,23 @@
+{
+  "id": "ephraim-the-bulgarian-of-serbia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Efrem Bulgarul, Patriarhul Serbiei",
+    "full": "Sfântul Ierarh Efrem Bulgarul, Patriarhul Serbiei",
+    "short": "Efrem Bulgarul, Patriarhul Serbiei",
+    "given": "Efrem"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/15/101735-saint-ephraim-the-bulgarian-patriarch-of-serbia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

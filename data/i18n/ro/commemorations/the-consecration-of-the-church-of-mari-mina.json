@@ -1,0 +1,20 @@
+{
+  "id": "the-consecration-of-the-church-of-mari-mina",
+  "locale": "ro",
+  "names": {
+    "display": "Sfințirea bisericii Sf. Mina din Mariut"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/10_15.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

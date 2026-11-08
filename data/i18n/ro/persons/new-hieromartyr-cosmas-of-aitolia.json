@@ -1,0 +1,23 @@
+{
+  "id": "new-hieromartyr-cosmas-of-aitolia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Noul Sfințit Mc. Cosma Etolianul, întocmai cu Apostolii",
+    "full": "Sfântul Noul Sfințit Mucenic Cosma Etolianul, întocmai cu Apostolii",
+    "short": "Cosma Etolianul, întocmai cu Apostolii",
+    "given": "Cosma"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/24/102390-repose-of-the-new-hieromartyr-cosmas-of-aitolia-equal-of-the-apo",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

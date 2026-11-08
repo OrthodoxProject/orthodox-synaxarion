@@ -1,0 +1,20 @@
+{
+  "id": "theodora-5-and-theopiste-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Teodora și fiica sa, Teopista"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/29/100349-venerable-theodora-and-her-daughter-theopiste",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "teofil",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Theophilus the Myrrh-gusher",
+    "short": "Theophilus the Myrrh-gusher",
+    "given": "Theophilus"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-teofil-izvoratorul-de-mir",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

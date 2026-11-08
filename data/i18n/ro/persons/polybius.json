@@ -1,0 +1,23 @@
+{
+  "id": "polybius",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Polivie, episcop în Cipru",
+    "full": "Sfântul Ierarh Polivie, episcop în Cipru",
+    "short": "Polivie, episcop în Cipru",
+    "given": "Polivie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/12/101361-saint-polybius-bishop-in-cyprus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

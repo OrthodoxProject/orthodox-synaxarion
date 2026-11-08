@@ -1,0 +1,22 @@
+{
+  "id": "meletie-marturisitorul",
+  "locale": "en",
+  "names": {
+    "display": "Saint Meletius the Confessor",
+    "short": "Meletius the Confessor",
+    "given": "Meletius"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-meletie-marturisitorul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

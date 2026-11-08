@@ -1,0 +1,28 @@
+{
+  "id": "serapion-of-egypt",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Serapion din Egipt",
+    "full": "Sfântul Cuvios Serapion din Egipt",
+    "short": "Serapion din Egipt",
+    "given": "Serapion"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/07/101022-venerable-serapion-of-egypt",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/14/101379-venerable-serapion-of-egypt",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

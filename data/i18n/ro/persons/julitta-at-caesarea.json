@@ -1,0 +1,23 @@
+{
+  "id": "julitta-at-caesarea",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Iulita din Cezareea",
+    "full": "Sfânta Muceniță Iulita din Cezareea",
+    "short": "Iulita din Cezareea",
+    "given": "Iulita"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/31/102155-martyr-julitta-at-caesarea",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

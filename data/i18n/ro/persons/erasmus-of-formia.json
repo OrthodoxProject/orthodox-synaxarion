@@ -1,0 +1,23 @@
+{
+  "id": "erasmus-of-formia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Mărt. Erasm, Episcopul Formiei, în Campania",
+    "full": "Sfântul Ierarh Mărturisitor Erasm, Episcopul Formiei, în Campania",
+    "short": "Erasm, Episcopul Formiei, în Campania",
+    "given": "Erasm"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/04/101292-holy-confessor-erasmus-bishop-of-formia-in-campania",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

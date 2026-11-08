@@ -1,0 +1,23 @@
+{
+  "id": "euthymius-of-karelia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Eftimie, luminătorul Kareliei, Finlanda",
+    "full": "Sfântul Cuvios Eftimie, luminătorul Kareliei, Finlanda",
+    "short": "Eftimie, luminătorul Kareliei, Finlanda",
+    "given": "Eftimie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/18/101144-venerable-euthymius-enlightener-of-karelia-finland-and-the-right",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

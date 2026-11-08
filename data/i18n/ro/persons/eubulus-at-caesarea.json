@@ -1,0 +1,23 @@
+{
+  "id": "eubulus-at-caesarea",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Euvul din Cezareea Capadociei",
+    "full": "Sfântul Mucenic Euvul din Cezareea Capadociei",
+    "short": "Euvul din Cezareea Capadociei",
+    "given": "Euvul"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/03/100417-martyr-eubulus-at-caesarea-cappadocia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

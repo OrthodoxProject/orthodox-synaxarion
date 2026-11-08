@@ -1,0 +1,22 @@
+{
+  "id": "glicherie-preotul",
+  "locale": "en",
+  "names": {
+    "display": "Hieromartyr Glycerius the Priest",
+    "short": "Glycerius the Priest",
+    "given": "Glycerius"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-sfintit-mucenic-glicherie-preotul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

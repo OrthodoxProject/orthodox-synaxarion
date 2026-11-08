@@ -1,0 +1,38 @@
+{
+  "id": "angelina-of-serbia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Anghelina din Serbia",
+    "full": "Sfânta Anghelina din Serbia",
+    "short": "Anghelina din Serbia",
+    "given": "Anghelina"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/01/101863-saint-angelina-of-serbia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/30/108053-venerable-angelina-of-serbia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/10/103517-righteous-king-john-of-serbia-and-his-parents-righteous-stephen",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

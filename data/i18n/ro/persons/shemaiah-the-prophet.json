@@ -1,0 +1,23 @@
+{
+  "id": "shemaiah-the-prophet",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Proroc Semaia",
+    "full": "Sfântul Proroc Semaia",
+    "short": "Semaia",
+    "given": "Semaia"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/09/100136-prophet-shemaiah-samaia-or-semeias",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

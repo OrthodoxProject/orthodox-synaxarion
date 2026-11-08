@@ -1,0 +1,23 @@
+{
+  "id": "stephen-of-makhrishche",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ștefan, egumenul de la Mahrișce, Vologda",
+    "full": "Sfântul Cuvios Ștefan, egumenul de la Mahrișce, Vologda",
+    "short": "Ștefan, egumenul de la Mahrișce, Vologda",
+    "given": "Ștefan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/14/102024-venerable-stephen-abbot-of-makhrishche-vologda",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "meletius-of-kharkov",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Meletie, Arhiepiscopul de Harkov și Ahtirsk",
+    "full": "Sfântul Ierarh Meletie, Arhiepiscopul de Harkov și Ahtirsk",
+    "short": "Meletie, Arhiepiscopul de Harkov și Ahtirsk",
+    "given": "Meletie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/12/100507-saint-meletius-archbishop-of-kharkov-and-akhtyrsk",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/28/109070-saint-meletius-archbishop-of-kharkov-and-akhtyrsk",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

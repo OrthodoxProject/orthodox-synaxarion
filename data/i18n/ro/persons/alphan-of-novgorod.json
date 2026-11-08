@@ -1,0 +1,23 @@
+{
+  "id": "alphan-of-novgorod",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Alfan și frații săi, din Novgorod, întemeietorii Mănăstirii Sokolnițki",
+    "full": "Sfântul Cuvios Alfan și frații săi, din Novgorod, întemeietorii Mănăstirii Sokolnițki",
+    "short": "Alfan și frații săi, din Novgorod, întemeietorii Mănăstirii Sokolnițki",
+    "given": "Alfan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/04/101286-venerable-alphan-with-his-brothers-of-novgorod-founders-of-the-s",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

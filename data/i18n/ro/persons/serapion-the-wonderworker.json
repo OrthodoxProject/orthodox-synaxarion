@@ -1,0 +1,23 @@
+{
+  "id": "serapion-the-wonderworker",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Serapion făcătorul de minuni, egumenul Mănăstirii Sfântului Ioan Botezătorul",
+    "full": "Sfântul Cuvios Serapion făcătorul de minuni, egumenul Mănăstirii Sfântului Ioan Botezătorul",
+    "short": "Serapion făcătorul de minuni, egumenul Mănăstirii Sfântului Ioan Botezătorul",
+    "given": "Serapion"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/24/205476-venerable-serapion-the-wonderworker-abbot-of-saint-john-the-bapt",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "nicolae-planas",
+  "locale": "en",
+  "names": {
+    "display": "Saint Nicholas Planas, Patron of Married Couples",
+    "short": "Nicholas Planas, Patron of Married Couples",
+    "given": "Nicholas"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-nicolae-planas-ocrotitorul-celor-casatoriti",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

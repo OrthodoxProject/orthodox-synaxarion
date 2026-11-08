@@ -1,0 +1,23 @@
+{
+  "id": "anatole-i-of-optina",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Anatolie I de la Optina",
+    "full": "Sfântul Cuvios Anatolie I de la Optina",
+    "short": "Anatolie I de la Optina",
+    "given": "Anatolie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/25/148990-venerable-anatole-i-of-optina",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

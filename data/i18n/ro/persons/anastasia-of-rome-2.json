@@ -1,0 +1,23 @@
+{
+  "id": "anastasia-of-rome-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Anastasia Romana",
+    "full": "Sfânta Cuvioasă Muceniță Anastasia Romana",
+    "short": "Anastasia Romana",
+    "given": "Anastasia"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/29/103099-monastic-martyr-anastasia-of-rome",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

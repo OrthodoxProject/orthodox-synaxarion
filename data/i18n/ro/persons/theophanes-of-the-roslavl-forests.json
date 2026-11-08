@@ -1,0 +1,23 @@
+{
+  "id": "theophanes-of-the-roslavl-forests",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Teofan din pădurile Roslavlului",
+    "full": "Sfântul Cuvios Teofan din pădurile Roslavlului",
+    "short": "Teofan din pădurile Roslavlului",
+    "given": "Teofan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/15/105911-saint-theophanes-of-the-roslavl-forests",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "emilian-of-rome",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Emilian din Roma",
+    "full": "Sfântul Emilian din Roma",
+    "short": "Emilian din Roma",
+    "given": "Emilian"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/07/100694-saint-emilian-of-rome",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

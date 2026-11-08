@@ -1,0 +1,23 @@
+{
+  "id": "boniface-the-merciful-of-ferentino",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Bonifatie cel Milostiv, Episcopul de Ferentino",
+    "full": "Sfântul Ierarh Bonifatie cel Milostiv, Episcopul de Ferentino",
+    "short": "Bonifatie cel Milostiv, Episcopul de Ferentino",
+    "given": "Bonifatie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/19/103591-saint-boniface-the-merciful-bishop-of-ferentino",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

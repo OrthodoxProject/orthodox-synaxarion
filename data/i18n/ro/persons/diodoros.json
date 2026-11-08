@@ -1,0 +1,28 @@
+{
+  "id": "diodoros",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Diodor, egumenul de pe Dealul Gheorghe",
+    "full": "Sfântul Cuvios Diodor, egumenul de pe Dealul Gheorghe",
+    "short": "Diodor, egumenul de pe Dealul Gheorghe",
+    "given": "Diodor"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/20/103342-venerable-diodoros-igoumen-of-george-hill",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/27/103408-repose-of-venerable-diodorus-igoumen-of-george-hill",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

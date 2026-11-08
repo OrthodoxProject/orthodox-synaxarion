@@ -1,0 +1,22 @@
+{
+  "id": "vars-of-edesa",
+  "locale": "en",
+  "names": {
+    "display": "Saint Barses, Bishop of Edessa",
+    "short": "Barses, Bishop of Edessa",
+    "given": "Barses"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-vars-episcopul-edesei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

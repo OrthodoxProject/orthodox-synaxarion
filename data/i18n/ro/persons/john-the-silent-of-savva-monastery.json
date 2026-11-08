@@ -1,0 +1,28 @@
+{
+  "id": "john-the-silent-of-savva-monastery",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ioan Isihastul, de la Mănăstirea Sfântul Sava",
+    "full": "Sfântul Cuvios Ioan Isihastul, de la Mănăstirea Sfântul Sava",
+    "short": "Ioan Isihastul, de la Mănăstirea Sfântul Sava",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/30/100952-venerable-john-the-silent-of-saint-savva-monastery",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/03/103468-venerable-john-the-silent-of-saint-sabbas-monastery",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

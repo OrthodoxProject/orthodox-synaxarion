@@ -1,0 +1,23 @@
+{
+  "id": "euphrosyne-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Eufrosina, marea cneaghină a Moscovei",
+    "full": "Sfânta Eufrosina, marea cneaghină a Moscovei",
+    "short": "Eufrosina, marea cneaghină a Moscovei",
+    "given": "Eufrosina"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/17/101407-saint-euphrosyn-great-princess-of-moscow",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

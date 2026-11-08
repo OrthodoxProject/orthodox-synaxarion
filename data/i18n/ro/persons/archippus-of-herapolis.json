@@ -1,0 +1,23 @@
+{
+  "id": "archippus-of-herapolis",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Arhip din Ierapole",
+    "full": "Sfântul Arhip din Ierapole",
+    "short": "Arhip din Ierapole",
+    "given": "Arhip"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/06/102521-saint-archippus-of-herapolis",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

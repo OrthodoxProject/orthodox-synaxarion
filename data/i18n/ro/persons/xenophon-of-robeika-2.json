@@ -1,0 +1,23 @@
+{
+  "id": "xenophon-of-robeika-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Xenofont, egumenul de la Robeika, Novgorod",
+    "full": "Sfântul Cuvios Xenofont, egumenul de la Robeika, Novgorod",
+    "short": "Xenofont, egumenul de la Robeika, Novgorod",
+    "given": "Xenofont"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/28/107807-venerable-xenophon-abbot-of-robeika-novgorod",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "valent-diaconul",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Valens the Deacon",
+    "short": "Valens the Deacon",
+    "given": "Valens"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-valent-diaconul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-sfintiti-mc-pamfil-preotul-si-valent-diaconul-sf-ier-flavian-arhiepiscopul-constantinopolului/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

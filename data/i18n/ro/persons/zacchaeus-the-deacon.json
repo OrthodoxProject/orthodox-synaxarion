@@ -1,0 +1,23 @@
+{
+  "id": "zacchaeus-the-deacon",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Zaheu diaconul",
+    "full": "Sfântul Mucenic Zaheu diaconul",
+    "short": "Zaheu diaconul",
+    "given": "Zaheu"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/18/103324-martyrs-zacchaeus-the-deacon-and-alphaeus-of-caesarea-in-palesti",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

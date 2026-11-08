@@ -1,0 +1,23 @@
+{
+  "id": "polydorus-of-cyprus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Polidor din Cipru",
+    "full": "Sfântul Mucenic Polidor din Cipru",
+    "short": "Polidor din Cipru",
+    "given": "Polidor"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/03/205392-martyr-polydorus-of-cyprus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

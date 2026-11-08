@@ -1,0 +1,20 @@
+{
+  "id": "david-2-and-constantine",
+  "locale": "en",
+  "names": {
+    "display": "Martyrs David and Constantine, Princes of Georgia"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfintii-mucenici-david-constantin-printi-ai-georgiei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

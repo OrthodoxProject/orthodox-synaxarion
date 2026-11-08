@@ -1,0 +1,23 @@
+{
+  "id": "john-climacus-of-sinai",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ioan Scărarul de la Sinai, autorul „Scării”",
+    "full": "Sfântul Cuvios Ioan Scărarul de la Sinai, autorul „Scării”",
+    "short": "Ioan Scărarul de la Sinai, autorul „Scării”",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/30/100943-venerable-john-climacus-of-sinai-author-of-the-ladder",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

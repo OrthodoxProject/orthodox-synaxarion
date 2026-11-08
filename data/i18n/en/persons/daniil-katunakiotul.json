@@ -1,0 +1,22 @@
+{
+  "id": "daniil-katunakiotul",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Daniel of Katounakia",
+    "short": "Daniel of Katounakia",
+    "given": "Daniel"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-daniil-katunakiotul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

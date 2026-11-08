@@ -1,0 +1,23 @@
+{
+  "id": "abramius-of-rostov",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Avramie, arhimandritul din Rostov",
+    "full": "Sfântul Cuvios Avramie, arhimandritul din Rostov",
+    "short": "Avramie, arhimandritul din Rostov",
+    "given": "Avramie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/29/103102-venerable-abramius-archimandrite-of-rostov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

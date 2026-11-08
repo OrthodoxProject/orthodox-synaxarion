@@ -1,0 +1,20 @@
+{
+  "id": "antiochus-and-antoninus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Antioh și Antonin, nevoitori în pustiile Siriei"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/23/100592-venerable-antiochus-and-antoninus-ascetics-of-the-syrian-deserts",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

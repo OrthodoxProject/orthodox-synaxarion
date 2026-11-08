@@ -1,0 +1,23 @@
+{
+  "id": "pimen-of-palestine",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Pimen din Palestina",
+    "full": "Sfântul Cuvios Pimen din Palestina",
+    "short": "Pimen din Palestina",
+    "given": "Pimen"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/27/102409-venerable-pimen-of-palestine",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "cedron",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Chedron, al patrulea Patriarh al Alexandriei",
+    "full": "Sfântul Ierarh Chedron, al patrulea Patriarh al Alexandriei",
+    "short": "Chedron, al patrulea Patriarh al Alexandriei",
+    "given": "Chedron"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/10_21.html?lang=en#3",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "christodoulos",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Hristodul",
+    "full": "Sfântul Mucenic Hristodul",
+    "short": "Hristodul",
+    "given": "Hristodul"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/26/100341-martyr-christodoulos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "longinus-of-koryazhemsk",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Longhin de la Koriajemsk, Vologda",
+    "full": "Sfântul Cuvios Longhin de la Koriajemsk, Vologda",
+    "short": "Longhin de la Koriajemsk, Vologda",
+    "given": "Longhin"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/10/100496-venerable-longinus-of-koryazhemsk-vologda",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

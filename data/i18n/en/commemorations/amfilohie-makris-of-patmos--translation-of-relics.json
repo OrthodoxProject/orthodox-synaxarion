@@ -1,0 +1,20 @@
+{
+  "id": "amfilohie-makris-of-patmos--translation-of-relics",
+  "locale": "en",
+  "names": {
+    "display": "Transfer of the relics of Saint Amphilochius Makris of Patmos"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/mutarea-moastelor-sfantului-amfilohie-makris-din-patmos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

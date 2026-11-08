@@ -1,0 +1,23 @@
+{
+  "id": "stephen-of-khenolakkos-monastery",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ștefan, egumenul Mănăstirii Henolacos, de lângă Calcedon",
+    "full": "Sfântul Cuvios Ștefan, egumenul Mănăstirii Henolacos, de lângă Calcedon",
+    "short": "Ștefan, egumenul Mănăstirii Henolacos, de lângă Calcedon",
+    "given": "Ștefan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/14/100194-venerable-stephen-abbot-of-khenolakkos-monastery-near-chalcedon",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

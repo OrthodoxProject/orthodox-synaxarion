@@ -1,0 +1,23 @@
+{
+  "id": "lazarus-of-bulgaria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Noul Mc. Lazăr din Bulgaria",
+    "full": "Sfântul Noul Mucenic Lazăr din Bulgaria",
+    "short": "Lazăr din Bulgaria",
+    "given": "Lazăr"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/23/108009-new-martyr-lazarus-of-bulgaria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

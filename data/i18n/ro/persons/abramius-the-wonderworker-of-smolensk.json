@@ -1,0 +1,23 @@
+{
+  "id": "abramius-the-wonderworker-of-smolensk",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Avramie făcătorul de minuni, arhimandritul din Smolensk",
+    "full": "Sfântul Cuvios Avramie făcătorul de minuni, arhimandritul din Smolensk",
+    "short": "Avramie făcătorul de minuni, arhimandritul din Smolensk",
+    "given": "Avramie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/21/102360-venerable-abramius-the-wonderworker-archimandrite-of-smolensk",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

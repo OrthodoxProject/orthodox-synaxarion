@@ -1,0 +1,23 @@
+{
+  "id": "eutropius-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Eutropie, doctor fără de arginți",
+    "full": "Sfântul Mucenic Eutropie, doctor fără de arginți",
+    "short": "Eutropie",
+    "given": "Eutropie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/17/102986-martyrs-and-unmercenaries-cosmas-and-damian-in-cilicia-and-their",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

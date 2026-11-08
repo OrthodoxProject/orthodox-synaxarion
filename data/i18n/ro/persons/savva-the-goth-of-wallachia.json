@@ -1,0 +1,23 @@
+{
+  "id": "savva-the-goth-of-wallachia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Sava Gotul, din Țara Românească",
+    "full": "Sfântul Mucenic Sava Gotul, din Țara Românească",
+    "short": "Sava Gotul, din Țara Românească",
+    "given": "Sava"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/15/101105-martyr-savva-the-goth-of-wallachia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

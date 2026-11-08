@@ -1,0 +1,22 @@
+{
+  "id": "serapion-3",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Serapion",
+    "short": "Serapion",
+    "given": "Serapion"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-serapion-0",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

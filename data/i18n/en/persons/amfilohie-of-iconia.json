@@ -1,0 +1,27 @@
+{
+  "id": "amfilohie-of-iconia",
+  "locale": "en",
+  "names": {
+    "display": "Saint Amphilochius, Bishop of Iconium",
+    "short": "Amphilochius, Bishop of Iconium",
+    "given": "Amphilochius"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-amfilohie-episcopul-iconiei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-antonie-de-la-iezerul-valcii-sf-ier-amfilohie-episcopul-iconiei-si-grigorie-episcopul-acragandelor-dezlegare-la-peste/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

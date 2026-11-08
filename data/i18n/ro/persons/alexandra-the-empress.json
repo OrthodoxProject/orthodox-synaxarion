@@ -1,0 +1,23 @@
+{
+  "id": "alexandra-the-empress",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Alexandra împărăteasa, soția lui Dioclețian",
+    "full": "Sfânta Muceniță Alexandra împărăteasa, soția lui Dioclețian",
+    "short": "Alexandra împărăteasa, soția lui Dioclețian",
+    "given": "Alexandra"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/23/101185-martyr-alexandra-the-empress-wife-of-diocletian",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "hypomone",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Ipomoni",
+    "full": "Sfânta Muceniță Ipomoni",
+    "short": "Ipomoni",
+    "given": "Ipomoni"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/05/205339-martyr-hypomone",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "cosmas-the-eunuch-and-hermit-of-palestine",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Cosma Eunucul, pustnicul din Palestina",
+    "full": "Sfântul Cuvios Cosma Eunucul, pustnicul din Palestina",
+    "short": "Cosma Eunucul, pustnicul din Palestina",
+    "given": "Cosma"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/03/102194-venerable-cosmas-the-eunuch-and-hermit-of-palestine",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

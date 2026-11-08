@@ -1,0 +1,23 @@
+{
+  "id": "maximus-of-kiev",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Maxim, Mitropolitul Kievului",
+    "full": "Sfântul Ierarh Maxim, Mitropolitul Kievului",
+    "short": "Maxim, Mitropolitul Kievului",
+    "given": "Maxim"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/06/108907-saint-maximus-metropolitan-of-kiev",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

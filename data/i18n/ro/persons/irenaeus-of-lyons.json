@@ -1,0 +1,23 @@
+{
+  "id": "irenaeus-of-lyons",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Irineu, Episcopul de Lugdunum",
+    "full": "Sfântul Sfințit Mucenic Irineu, Episcopul de Lugdunum",
+    "short": "Irineu, Episcopul de Lugdunum",
+    "given": "Irineu"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/23/102379-hieromartyr-irenaeus-bishop-of-lyons",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

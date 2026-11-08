@@ -1,0 +1,20 @@
+{
+  "id": "icon-of-theotokos-of-yuga",
+  "locale": "ro",
+  "names": {
+    "display": "Icoana Maicii Domnului de la Iuga"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/28/109019-icon-of-the-mother-of-god-of-yuga",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

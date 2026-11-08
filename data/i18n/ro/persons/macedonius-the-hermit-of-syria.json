@@ -1,0 +1,23 @@
+{
+  "id": "macedonius-the-hermit-of-syria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Macedonie Pustnicul, din Siria",
+    "full": "Sfântul Cuvios Macedonie Pustnicul, din Siria",
+    "short": "Macedonie Pustnicul, din Siria",
+    "given": "Macedonie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/24/100293-saint-macedonius-the-hermit-of-syria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

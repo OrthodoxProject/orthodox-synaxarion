@@ -1,0 +1,20 @@
+{
+  "id": "martyr-tatiana-of-rome-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Tatiana din Roma și cei care au pătimit împreună cu ea"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/12/100155-martyr-tatiana-of-rome-and-those-who-suffered-with-her",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

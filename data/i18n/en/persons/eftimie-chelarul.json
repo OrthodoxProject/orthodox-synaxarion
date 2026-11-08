@@ -1,0 +1,22 @@
+{
+  "id": "eftimie-chelarul",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Euthymius the Cellarer",
+    "short": "Euthymius the Cellarer",
+    "given": "Euthymius"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cuviosul-eftimie-chelarul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

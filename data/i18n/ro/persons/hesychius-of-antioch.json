@@ -1,0 +1,23 @@
+{
+  "id": "hesychius-of-antioch",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Isihie din Antiohia",
+    "full": "Sfântul Mucenic Isihie din Antiohia",
+    "short": "Isihie din Antiohia",
+    "given": "Isihie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/10/101344-martyr-hesychius-of-antioch",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

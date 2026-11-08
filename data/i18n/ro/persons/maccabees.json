@@ -1,0 +1,21 @@
+{
+  "id": "maccabees",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Macabei, preotul Eleazar, Șamuna și cei șapte fii ai ei",
+    "short": "Macabeii, preotul Eleazar, Șamuna și cei șapte fii ai ei"
+  },
+  "references": [
+    {
+      "source": "src:armenianchurch-ge",
+      "url": "https://armenianchurch.ge/en/kalendar-prazdnikov/description-2/july/commemoration-of-the-maccabees-sts-eleazar-the-priest-shamuna-and-her-seven-sons",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "anthony-of-apamea",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Antonie din Apameea",
+    "full": "Sfântul Mucenic Antonie din Apameea",
+    "short": "Antonie din Apameea",
+    "given": "Antonie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/09/103257-martyr-anthony-of-apamea",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

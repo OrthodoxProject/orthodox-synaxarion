@@ -1,0 +1,22 @@
+{
+  "id": "pimen-iconarul",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Pimen the Iconographer",
+    "short": "Pimen the Iconographer",
+    "given": "Pimen"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-pimen-iconarul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "stephanas-of-the-70",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ap. Ștefana",
+    "full": "Sfântul Apostol Ștefana",
+    "short": "Ștefana",
+    "given": "Ștefana"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/15/100087-apostles-fortunatus-akhaikos-and-stephanas-of-the-70",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

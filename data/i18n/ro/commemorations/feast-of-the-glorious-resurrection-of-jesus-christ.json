@@ -1,0 +1,20 @@
+{
+  "id": "feast-of-the-glorious-resurrection-of-jesus-christ",
+  "locale": "ro",
+  "names": {
+    "display": "Praznicul Slăvitei Învieri a lui Iisus Hristos"
+  },
+  "references": [
+    {
+      "source": "src:armenianchurch-ge",
+      "url": "https://armenianchurch.ge/en/kalendar-prazdnikov/description-2/april/feast-of-the-glorious-resurrection-of-jesus-christ",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "isaac-i-of-optina",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Isaachie I de la Optina",
+    "full": "Sfântul Cuvios Isaachie I de la Optina",
+    "short": "Isaachie I de la Optina",
+    "given": "Isaachie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/22/148996-venerable-isaac-i-of-optina",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/26/148997-venerable-isaac-ii-of-optina",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

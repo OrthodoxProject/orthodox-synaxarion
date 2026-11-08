@@ -1,0 +1,20 @@
+{
+  "id": "icon-of-theotokos-of-domnitsa",
+  "locale": "ro",
+  "names": {
+    "display": "Icoana Maicii Domnului de la Domnița"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/08/108960-icon-of-the-mother-of-god-of-domnitsa",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

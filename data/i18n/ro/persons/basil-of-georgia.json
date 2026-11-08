@@ -1,0 +1,23 @@
+{
+  "id": "basil-of-georgia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Vasile din Georgia, fiul regelui Bagrat al III-lea",
+    "full": "Sfântul Vasile din Georgia, fiul regelui Bagrat al III-lea",
+    "short": "Vasile din Georgia, fiul regelui Bagrat al III-lea",
+    "given": "Vasile"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/27/103849-saint-basil-of-georgia-son-of-king-bagrat-iii",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

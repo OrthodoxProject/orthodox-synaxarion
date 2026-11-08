@@ -1,0 +1,22 @@
+{
+  "id": "simeon-of-persia",
+  "locale": "en",
+  "names": {
+    "display": "Hieromartyr Simeon, Bishop of Persia",
+    "short": "Simeon, Bishop of Persia",
+    "given": "Simeon"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-sfintit-mucenic-simeon-episcopul-persiei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

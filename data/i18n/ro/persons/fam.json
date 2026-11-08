@@ -1,0 +1,15 @@
+{
+  "id": "fam",
+  "locale": "ro",
+  "names": {
+    "display": "Ava Fam",
+    "short": "Fam",
+    "given": "Fam"
+  },
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

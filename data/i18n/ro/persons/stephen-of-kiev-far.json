@@ -1,0 +1,23 @@
+{
+  "id": "stephen-of-kiev-far",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ștefan, egumenul de la Peșterile Depărtate din Kiev și Episcopul de Vladimir, în Volînia",
+    "full": "Sfântul Cuvios Ștefan, egumenul de la Peșterile Depărtate din Kiev și Episcopul de Vladimir, în Volînia",
+    "short": "Ștefan, egumenul de la Peșterile Depărtate din Kiev și Episcopul de Vladimir, în Volînia",
+    "given": "Ștefan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/27/101213-venerable-stephen-abbot-of-the-kiev-far-caves-and-bishop-of-vlad",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

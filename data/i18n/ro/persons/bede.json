@@ -1,0 +1,23 @@
+{
+  "id": "bede",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Beda, istoricul Bisericii",
+    "full": "Sfântul Cuvios Beda, istoricul Bisericii",
+    "short": "Beda, istoricul Bisericii",
+    "given": "Beda"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/27/103796-venerable-bede-the-church-historian",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

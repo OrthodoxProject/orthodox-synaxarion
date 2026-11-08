@@ -1,0 +1,23 @@
+{
+  "id": "barlaam-of-shenkursk",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Varlaam din Șenkursk",
+    "full": "Sfântul Cuvios Varlaam din Șenkursk",
+    "short": "Varlaam din Șenkursk",
+    "given": "Varlaam"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/19/101753-venerable-barlaam-of-shenkursk",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

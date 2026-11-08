@@ -1,0 +1,23 @@
+{
+  "id": "michael-the-fool-for-christ-of-the",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mihail cel nebun pentru Hristos, de la Mănăstirea Klopsk, Novgorod",
+    "full": "Sfântul Cuvios Mihail cel nebun pentru Hristos, de la Mănăstirea Klopsk, Novgorod",
+    "short": "Mihail cel nebun pentru Hristos, de la Mănăstirea Klopsk, Novgorod",
+    "given": "Mihail"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/11/100150-venerable-michael-the-fool-for-christ-of-the-klops-monastery-nov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

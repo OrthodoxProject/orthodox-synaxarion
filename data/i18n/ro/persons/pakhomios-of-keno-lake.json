@@ -1,0 +1,23 @@
+{
+  "id": "pakhomios-of-keno-lake",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Pahomie de la lacul Keno",
+    "full": "Sfântul Pahomie de la lacul Keno",
+    "short": "Pahomie de la lacul Keno",
+    "given": "Pahomie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/07/100110-saint-pakhomios-of-keno-lake",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

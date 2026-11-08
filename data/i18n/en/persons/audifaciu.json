@@ -1,0 +1,27 @@
+{
+  "id": "audifaciu",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Audifax",
+    "short": "Audifax",
+    "given": "Audifax"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfintii-mucenici-marius-marta-sotia-sa-fiii-lor-audifaciu-avacum",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-dometie-cel-milostiv-de-la-ramet-si-mama-sa-sf-cuv-filotimia-sf-cuv-sisoe-cel-mare-sf-mc-lucia-din-roma-sf-mc-marius-sotia-sa-marta-si-fiii-lor-audifaciu-si-avacum/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

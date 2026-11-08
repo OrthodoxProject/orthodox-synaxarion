@@ -1,0 +1,23 @@
+{
+  "id": "simon-of-soiga-monastery",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Simon, egumenul Mănăstirii Soiga, Vologda",
+    "full": "Sfântul Cuvios Simon, egumenul Mănăstirii Soiga, Vologda",
+    "short": "Simon, egumenul Mănăstirii Soiga, Vologda",
+    "given": "Simon"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/24/103391-venerable-simon-abbot-of-soiga-monastery-vologda",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

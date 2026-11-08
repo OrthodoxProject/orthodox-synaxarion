@@ -1,0 +1,23 @@
+{
+  "id": "john-4",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ioan, nevoitor în pustiile Siriei",
+    "full": "Sfântul Cuvios Ioan, nevoitor în pustiile Siriei",
+    "short": "Ioan, nevoitor în pustiile Siriei",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/23/100591-venerable-john-ascetic-of-the-syrian-deserts",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

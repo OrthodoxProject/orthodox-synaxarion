@@ -1,0 +1,23 @@
+{
+  "id": "theodora-of-constantinople",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Teodora din Constantinopol",
+    "full": "Sfânta Cuvioasă Teodora din Constantinopol",
+    "short": "Teodora din Constantinopol",
+    "given": "Teodora"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/30/103696-venerable-theodora-of-constantinople",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "camasa-domnului-si-stalpul-de-viata-datator",
+  "locale": "en",
+  "names": {
+    "display": "Robe of the Lord and the Life-giving Pillar"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/camasa-domnului-stalpul-de-viata-datator",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

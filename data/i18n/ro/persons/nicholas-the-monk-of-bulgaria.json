@@ -1,0 +1,23 @@
+{
+  "id": "nicholas-the-monk-of-bulgaria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Nicolae monahul, din Bulgaria",
+    "full": "Sfântul Cuvios Nicolae monahul, din Bulgaria",
+    "short": "Nicolae monahul, din Bulgaria",
+    "given": "Nicolae"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/24/103637-venerable-nicholas-the-monk-of-bulgaria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "basil-of-ancyra-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Vasile din Ancira",
+    "full": "Sfântul Mucenic Vasile din Ancira",
+    "short": "Vasile din Ancira",
+    "given": "Vasile"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/01/100004-martyr-basil-of-ancyra",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

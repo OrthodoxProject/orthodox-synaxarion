@@ -1,0 +1,23 @@
+{
+  "id": "sergius-of-malopinega",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Serghie din Malopinega",
+    "full": "Sfântul Serghie din Malopinega",
+    "short": "Serghie din Malopinega",
+    "given": "Serghie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/16/108076-saint-sergius-of-malopinega",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

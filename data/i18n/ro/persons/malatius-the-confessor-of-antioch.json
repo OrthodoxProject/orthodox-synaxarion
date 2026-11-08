@@ -1,0 +1,23 @@
+{
+  "id": "malatius-the-confessor-of-antioch",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Meletie Mărturisitorul, Patriarhul Antiohiei",
+    "full": "Sfântul Ierarh Meletie Mărturisitorul, Patriarhul Antiohiei",
+    "short": "Meletie Mărturisitorul, Patriarhul Antiohiei",
+    "given": "Meletie"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/6_18.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

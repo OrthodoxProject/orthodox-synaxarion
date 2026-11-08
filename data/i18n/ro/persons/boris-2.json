@@ -1,0 +1,23 @@
+{
+  "id": "boris-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Boris (în Botez Mihail), întocmai cu Apostolii, cneazul și botezătorul Bulgariei",
+    "full": "Sfântul Boris (în Botez Mihail), întocmai cu Apostolii, cneazul și botezătorul Bulgariei",
+    "short": "Boris, întocmai cu Apostolii, cneazul și botezătorul Bulgariei",
+    "given": "Boris"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/02/101277-saint-boris-in-baptism-michael-equal-of-the-apostles-prince-and",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

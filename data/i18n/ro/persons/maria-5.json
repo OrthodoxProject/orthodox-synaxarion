@@ -1,0 +1,23 @@
+{
+  "id": "maria-5",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Dreaptă Mc. Maria (Skobțova)",
+    "full": "Sfânta Dreaptă Muceniță Maria (Skobțova)",
+    "short": "Maria",
+    "given": "Maria"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/20/108892-righteous-martyr-maria-skobtsova",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "arsenius-of-tver",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Arsenie, Episcopul de Tver",
+    "full": "Sfântul Ierarh Arsenie, Episcopul de Tver",
+    "short": "Arsenie, Episcopul de Tver",
+    "given": "Arsenie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/02/100635-saint-arsenius-bishop-of-tver",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

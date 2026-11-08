@@ -1,0 +1,23 @@
+{
+  "id": "ephraim-of-antioch",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Efrem, Patriarhul Antiohiei",
+    "full": "Sfântul Ierarh Efrem, Patriarhul Antiohiei",
+    "short": "Efrem, Patriarhul Antiohiei",
+    "given": "Efrem"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/08/101666-saint-ephraim-patriarch-of-antioch",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

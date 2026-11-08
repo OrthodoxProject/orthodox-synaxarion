@@ -1,0 +1,23 @@
+{
+  "id": "dionysius-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Dionisie, arhimandritul Mănăstirii Sf. Sergiu",
+    "full": "Sfântul Cuvios Dionisie, arhimandritul Mănăstirii Sfântului Sergiu",
+    "short": "Dionisie, arhimandritul Mănăstirii Sf. Sergiu",
+    "given": "Dionisie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/12/101359-venerable-dionysius-archimandrite-of-saint-sergius-monastery",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

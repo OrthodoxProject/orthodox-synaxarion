@@ -1,0 +1,23 @@
+{
+  "id": "macarius-the-wonderworker-of-kalyazin",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Macarie făcătorul de minuni, egumenul de la Kaliazin",
+    "full": "Sfântul Cuvios Macarie făcătorul de minuni, egumenul de la Kaliazin",
+    "short": "Macarie făcătorul de minuni, egumenul de la Kaliazin",
+    "given": "Macarie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/17/100824-venerable-macarius-the-wonderworker-abbot-of-kalyazin",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

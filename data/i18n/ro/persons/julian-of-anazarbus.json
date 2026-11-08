@@ -1,0 +1,23 @@
+{
+  "id": "julian-of-anazarbus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Iulian din Anazarb",
+    "full": "Sfântul Mucenic Iulian din Anazarb",
+    "short": "Iulian din Anazarb",
+    "given": "Iulian"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/16/100818-martyr-julian-of-anazarbus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

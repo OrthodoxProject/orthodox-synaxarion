@@ -1,0 +1,22 @@
+{
+  "id": "lavrentie",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Lawrence",
+    "short": "Lawrence",
+    "given": "Lawrence"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-lavrentie",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

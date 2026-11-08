@@ -1,0 +1,23 @@
+{
+  "id": "gideon-coptic",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Drept Ghedeon, unul dintre judecătorii lui Israel",
+    "full": "Sfântul Drept Ghedeon, unul dintre judecătorii lui Israel",
+    "short": "Ghedeon, unul dintre judecătorii lui Israel",
+    "given": "Ghedeon"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/4_16.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

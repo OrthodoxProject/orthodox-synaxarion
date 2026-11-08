@@ -1,0 +1,23 @@
+{
+  "id": "martinian-of-belozersk",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Martinian, egumenul de la Belozersk",
+    "full": "Sfântul Cuvios Martinian, egumenul de la Belozersk",
+    "short": "Martinian, egumenul de la Belozersk",
+    "given": "Martinian"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/12/100157-venerable-martinian-abbot-of-belozersk",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

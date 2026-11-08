@@ -1,0 +1,23 @@
+{
+  "id": "nikander-wonderworker-of-pskov",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Nicandru făcătorul de minuni, din Pskov",
+    "full": "Sfântul Cuvios Nicandru făcătorul de minuni, din Pskov",
+    "short": "Nicandru făcătorul de minuni, din Pskov",
+    "given": "Nicandru"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/24/102716-venerable-nkander-wonderworker-of-pskov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

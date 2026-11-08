@@ -1,0 +1,22 @@
+{
+  "id": "afraat-persanul",
+  "locale": "en",
+  "names": {
+    "display": "Saint Aphrahat the Persian",
+    "short": "Aphrahat the Persian",
+    "given": "Aphrahat"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-afraat-persanul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

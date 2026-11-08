@@ -1,0 +1,22 @@
+{
+  "id": "suzdal-of-the-kiev-near-caves",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Suzdal de la Peșterile Apropiate din Kiev",
+    "full": "Sfântul Ierarh Suzdal de la Peșterile Apropiate din Kiev",
+    "short": "Suzdal de la Peșterile Apropiate din Kiev"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/10/107790-saint-simon-bishop-of-vladimir-and-suzdal-of-the-kiev-near-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

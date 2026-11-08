@@ -1,0 +1,23 @@
+{
+  "id": "theophilus-the-myrrhgusher-of-macedonia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Teofil Izvorâtorul de mir, din Macedonia",
+    "full": "Sfântul Cuvios Teofil Izvorâtorul de mir, din Macedonia",
+    "short": "Teofil Izvorâtorul de mir, din Macedonia",
+    "given": "Teofil"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/08/108015-venerable-theophilus-the-myrrhgusher-of-macedonia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

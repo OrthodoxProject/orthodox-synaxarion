@@ -1,0 +1,23 @@
+{
+  "id": "antonina-of-nicea-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Antonina din Niceea",
+    "full": "Sfânta Muceniță Antonina din Niceea",
+    "short": "Antonina din Niceea",
+    "given": "Antonina"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/13/101715-martyr-antonina-of-nicea",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "deliverer-icon-of-theotokos",
+  "locale": "ro",
+  "names": {
+    "display": "Icoana Maicii Domnului „Izbăvitoarea”"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/04/100225-deliverer-icon-of-the-mother-of-god",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/17/103706-deliverer-icon-of-the-mother-of-god",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

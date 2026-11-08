@@ -1,0 +1,22 @@
+{
+  "id": "sava-the-new-of-kalymnos",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Savvas the New of Kalymnos",
+    "short": "Savvas the New of Kalymnos",
+    "given": "Savvas"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-sava-cel-nou-din-kalymnos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

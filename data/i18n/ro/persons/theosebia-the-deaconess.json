@@ -1,0 +1,22 @@
+{
+  "id": "theosebia-the-deaconess",
+  "locale": "ro",
+  "names": {
+    "display": "Fericita Teosevia diaconița, sora Sfinților Vasile cel Mare și Grigorie de Nyssa",
+    "short": "Teosevia diaconița, sora Sfinților Vasile cel Mare și Grigorie de Nyssa",
+    "given": "Teosevia"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/10/100145-blessed-theosebia-the-deaconess-sister-of-saints-basil-the-great",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "cantidian",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Cantidian",
+    "full": "Sfântul Mucenic Cantidian",
+    "short": "Cantidian",
+    "given": "Cantidian"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/05/102211-martyrs-cantidius-cantidian-and-sibelius-sobel-of-egypt",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "macarius-coptic-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Macarie",
+    "full": "Sfântul Macarie",
+    "short": "Macarie",
+    "given": "Macarie"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/3_30.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "jacob-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Iacob, făcătorul de minuni de la Omuci",
+    "full": "Sfântul Cuvios Iacob, făcătorul de minuni de la Omuci",
+    "short": "Iacob, făcătorul de minuni de la Omuci",
+    "given": "Iacob"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/29/103687-venerable-theophilos-and-jacob-wonderworkers-of-omuch",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

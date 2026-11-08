@@ -1,0 +1,23 @@
+{
+  "id": "simeon-the-myroblyte",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Simeon Izvorâtorul de mir",
+    "full": "Sfântul Cuvios Simeon Izvorâtorul de mir",
+    "short": "Simeon Izvorâtorul de mir",
+    "given": "Simeon"
+  },
+  "references": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

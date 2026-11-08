@@ -1,0 +1,23 @@
+{
+  "id": "zosimas-the-hermit-of-cilicia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Zosima Pustnicul, din Cilicia",
+    "full": "Sfântul Mucenic Zosima Pustnicul, din Cilicia",
+    "short": "Zosima Pustnicul, din Cilicia",
+    "given": "Zosima"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/19/102670-martyr-zosimas-the-hermit-of-cilicia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "severus-the-presbyter-of-interocrea",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sever preotul, din Interocrea, Italia",
+    "full": "Sfântul Sever preotul, din Interocrea, Italia",
+    "short": "Sever preotul, din Interocrea, Italia",
+    "given": "Sever"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/27/101829-saint-severus-the-presbyter-of-interocrea-italy",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

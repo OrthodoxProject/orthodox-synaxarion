@@ -1,0 +1,20 @@
+{
+  "id": "icon-of-theotokos-rugul-aprins",
+  "locale": "en",
+  "names": {
+    "display": "Icon of the Mother of God \"Unburnt Bush\""
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoanei-maicii-domnului-rugul-aprins",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

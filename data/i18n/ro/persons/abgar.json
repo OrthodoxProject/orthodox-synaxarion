@@ -1,0 +1,23 @@
+{
+  "id": "abgar",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Abgar, primul mucenic al Bisericii și primul nostru rege care a crezut în Hristos",
+    "full": "Sfântul Abgar, primul mucenic al Bisericii și primul nostru rege care a crezut în Hristos",
+    "short": "Abgar, primul mucenic al Bisericii și primul nostru rege care a crezut în Hristos",
+    "given": "Abgar"
+  },
+  "references": [
+    {
+      "source": "src:armenianchurch-ge",
+      "url": "https://armenianchurch.ge/en/kalendar-prazdnikov/description-2/december/commemoration-of-st-abgar-first-martyr-of-the-church-and-our-first-king-believing-in-christ",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

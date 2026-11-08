@@ -1,0 +1,23 @@
+{
+  "id": "tornike-of-mount-athos",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Tornike (Ioan) de la Muntele Athos",
+    "full": "Sfântul Cuvios Tornike (Ioan) de la Muntele Athos",
+    "short": "Tornike de la Muntele Athos",
+    "given": "Tornike"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/12/103858-saint-john-tornike-of-mount-athos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

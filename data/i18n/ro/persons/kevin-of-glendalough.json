@@ -1,0 +1,23 @@
+{
+  "id": "kevin-of-glendalough",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Kevin de la Glendalough",
+    "full": "Sfântul Cuvios Kevin de la Glendalough",
+    "short": "Kevin de la Glendalough",
+    "given": "Kevin"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/03/100174-saint-kevin-of-glendalough",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

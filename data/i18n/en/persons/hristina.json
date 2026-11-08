@@ -1,0 +1,22 @@
+{
+  "id": "hristina",
+  "locale": "en",
+  "names": {
+    "display": "Saint Christina and the 7 holy virgins with her",
+    "short": "Christina and the 7 holy virgins with her",
+    "given": "Christina"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-hristina-cele-7-sfinte-fecioare-impreuna-cu-ea",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

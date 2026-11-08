@@ -1,0 +1,23 @@
+{
+  "id": "eustratius-of-the-kiev-near-caves",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Eustratie de la Peșterile Apropiate din Kiev",
+    "full": "Sfântul Cuvios Mucenic Eustratie de la Peșterile Apropiate din Kiev",
+    "short": "Eustratie de la Peșterile Apropiate din Kiev",
+    "given": "Eustratie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/28/100921-monastic-martyr-eustratius-of-the-kiev-near-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

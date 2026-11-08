@@ -1,0 +1,23 @@
+{
+  "id": "thomas-of-mount-maleos",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Toma de la Muntele Maleos",
+    "full": "Sfântul Cuvios Toma de la Muntele Maleos",
+    "short": "Toma de la Muntele Maleos",
+    "given": "Toma"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/07/101843-venerable-thomas-of-mount-maleos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

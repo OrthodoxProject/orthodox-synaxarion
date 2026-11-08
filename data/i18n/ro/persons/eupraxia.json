@@ -1,0 +1,23 @@
+{
+  "id": "eupraxia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Eupraxia, cneaghina Pskovului",
+    "full": "Sfânta Eupraxia, cneaghina Pskovului",
+    "short": "Eupraxia, cneaghina Pskovului",
+    "given": "Eupraxia"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/16/108928-saint-eupraxia-princess-of-pskov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

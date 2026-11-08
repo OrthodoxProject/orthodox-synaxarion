@@ -1,0 +1,23 @@
+{
+  "id": "conon-of-iconium",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Conon din Iconiu",
+    "full": "Sfântul Cuvios Mucenic Conon din Iconiu",
+    "short": "Conon din Iconiu",
+    "given": "Conon"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/06/100681-monastic-martyrs-conon-and-his-son-conon-of-iconium",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

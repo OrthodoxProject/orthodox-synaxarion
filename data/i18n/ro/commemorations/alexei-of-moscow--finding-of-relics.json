@@ -1,0 +1,20 @@
+{
+  "id": "alexei-of-moscow--finding-of-relics",
+  "locale": "ro",
+  "names": {
+    "display": "Aflarea moaștelor Sf. Ier. Alexie, Mitropolitul Moscovei și al Întregii Rusii, făcătorul de minuni"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/20/101449-uncovering-of-the-relics-of-saint-alexis-metropolitan-of-moscow",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

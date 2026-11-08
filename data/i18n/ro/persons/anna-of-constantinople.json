@@ -1,0 +1,23 @@
+{
+  "id": "anna-of-constantinople",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ana și fiul ei, Sf. Ioan, din Constantinopol",
+    "full": "Sfânta Ana și fiul ei, Sfântul Ioan, din Constantinopol",
+    "short": "Ana și fiul ei, Ioan, din Constantinopol",
+    "given": "Ana"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/13/101716-saint-anna-and-her-son-saint-john-of-constantinople",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

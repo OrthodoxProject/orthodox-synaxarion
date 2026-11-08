@@ -1,0 +1,23 @@
+{
+  "id": "flavian-the-confessor-of-constantinople",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Flavian Mărturisitorul, Patriarhul Constantinopolului",
+    "full": "Sfântul Ierarh Flavian Mărturisitorul, Patriarhul Constantinopolului",
+    "short": "Flavian Mărturisitorul, Patriarhul Constantinopolului",
+    "given": "Flavian"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/18/100556-saint-flavian-the-confessor-patriarch-of-constantinople",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "neollina",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Fecioară Neolina",
+    "full": "Sfânta Muceniță Fecioară Neolina",
+    "short": "Neolina",
+    "given": "Neolina"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/12/100098-virgin-martyrs-neollina-domnina-and-parthena",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

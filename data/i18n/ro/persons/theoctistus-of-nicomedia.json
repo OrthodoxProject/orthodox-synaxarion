@@ -1,0 +1,23 @@
+{
+  "id": "theoctistus-of-nicomedia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Teoctist din Nicomidia",
+    "full": "Sfântul Sfințit Mucenic Teoctist din Nicomidia",
+    "short": "Teoctist din Nicomidia",
+    "given": "Teoctist"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/02/102835-hieromartyr-cyprian-virgin-martyr-justina-and-martyr-theoctistus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

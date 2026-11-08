@@ -1,0 +1,27 @@
+{
+  "id": "evdochim",
+  "locale": "en",
+  "names": {
+    "display": "Righteous Eudokimos",
+    "short": "Eudokimos",
+    "given": "Eudokimos"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-dreptul-evdochim",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/inainte-praznuirea-scoaterii-sfintei-cruci-sf-si-dreptul-evdochim-sf-si-dreptul-iosif-din-arimateea-lasatul-secului-pentru-postul-adormirii-maicii-domnului/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

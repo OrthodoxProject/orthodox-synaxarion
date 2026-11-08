@@ -1,0 +1,23 @@
+{
+  "id": "sylvester-of-the-kiev-near-caves",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Silvestru de la Peșterile Apropiate din Kiev",
+    "full": "Sfântul Cuvios Silvestru de la Peșterile Apropiate din Kiev",
+    "short": "Silvestru de la Peșterile Apropiate din Kiev",
+    "given": "Silvestru"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/02/100009-venerable-sylvester-of-the-kiev-near-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

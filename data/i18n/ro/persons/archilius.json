@@ -1,0 +1,23 @@
+{
+  "id": "archilius",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Arhilie",
+    "full": "Sfântul Arhilie",
+    "short": "Arhilie",
+    "given": "Arhilie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/28/205308-saints-archilius-and-luarsaab",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

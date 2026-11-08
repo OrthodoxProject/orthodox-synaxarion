@@ -1,0 +1,22 @@
+{
+  "id": "gregory-of-antioch",
+  "locale": "ro",
+  "names": {
+    "display": "Fericitul Grigorie, Patriarhul Antiohiei",
+    "short": "Grigorie, Patriarhul Antiohiei",
+    "given": "Grigorie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/20/101159-blessed-gregory-patriarch-of-antioch",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

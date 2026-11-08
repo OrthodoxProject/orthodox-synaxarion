@@ -1,0 +1,22 @@
+{
+  "id": "anania-of-creta",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Ananias of Crete",
+    "short": "Ananias of Crete",
+    "given": "Ananias"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-anania-din-creta",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

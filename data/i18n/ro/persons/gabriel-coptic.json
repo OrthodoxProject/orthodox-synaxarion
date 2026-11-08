@@ -1,0 +1,33 @@
+{
+  "id": "gabriel-coptic",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Gavriil, al 57-lea Papă al Alexandriei",
+    "full": "Sfântul Ierarh Gavriil, al 57-lea Papă al Alexandriei",
+    "short": "Gavriil, al 57-lea Papă al Alexandriei",
+    "given": "Gavriil"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/6_21.html?lang=en#3",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/9_3.html?lang=en#3",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/11_10.html?lang=en#3",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

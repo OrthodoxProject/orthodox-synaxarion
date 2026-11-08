@@ -1,0 +1,23 @@
+{
+  "id": "isidorus-of-antioch",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Isidor din Antiohia",
+    "full": "Sfântul Isidor din Antiohia",
+    "short": "Isidor din Antiohia",
+    "given": "Isidor"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/9_19.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

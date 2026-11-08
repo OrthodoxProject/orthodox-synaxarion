@@ -1,0 +1,23 @@
+{
+  "id": "theodore-of-the-kiev-caves",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Teodor de la Lavra Peșterilor",
+    "full": "Sfântul Mucenic Teodor de la Lavra Peșterilor",
+    "short": "Teodor de la Lavra Peșterilor",
+    "given": "Teodor"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/11/102265-martyrs-basil-and-theodore-of-the-kiev-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

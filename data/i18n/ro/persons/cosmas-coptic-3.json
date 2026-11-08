@@ -1,0 +1,22 @@
+{
+  "id": "cosmas-coptic-3",
+  "locale": "ro",
+  "names": {
+    "display": "Papa Cosma, al 44-lea Patriarh",
+    "short": "Cosma, al 44-lea Patriarh",
+    "given": "Cosma"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/10_3.html?lang=en#4",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

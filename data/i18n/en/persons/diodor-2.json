@@ -1,0 +1,22 @@
+{
+  "id": "diodor-2",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Diodorus",
+    "short": "Diodorus",
+    "given": "Diodorus"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-diodor-0",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "euthymius-of-syanzhemsk",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Eftimie de la Sianjemsk, Vologda",
+    "full": "Sfântul Cuvios Eftimie de la Sianjemsk, Vologda",
+    "short": "Eftimie de la Sianjemsk, Vologda",
+    "given": "Eftimie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/20/100241-venerable-euthymius-of-syanzhemsk-vologda",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

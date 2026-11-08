@@ -1,0 +1,23 @@
+{
+  "id": "john-the-cappadocian-of-constantinople",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ioan Capadocianul, Patriarhul Constantinopolului",
+    "full": "Sfântul Ierarh Ioan Capadocianul, Patriarhul Constantinopolului",
+    "short": "Ioan Capadocianul, Patriarhul Constantinopolului",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/25/108971-saint-john-the-cappadocian-patriarch-of-constantinople",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

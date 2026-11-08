@@ -1,0 +1,23 @@
+{
+  "id": "theoctistus-of-chernigov",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Teoctist, Episcopul Cernigovului",
+    "full": "Sfântul Ierarh Teoctist, Episcopul Cernigovului",
+    "short": "Teoctist, Episcopul Cernigovului",
+    "given": "Teoctist"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/05/109007-saint-theoctistus-bishop-of-chernigov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

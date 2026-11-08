@@ -1,0 +1,23 @@
+{
+  "id": "luke-of-annes-skete-on-mount-athos",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Luca de la Schitul Sfânta Ana, Muntele Athos, și din Adrianopol",
+    "full": "Sfântul Cuvios Mucenic Luca de la Schitul Sfânta Ana, Muntele Athos, și din Adrianopol",
+    "short": "Luca de la Schitul Sfânta Ana, Muntele Athos, și din Adrianopol",
+    "given": "Luca"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/23/100875-monastic-martyr-luke-of-saint-annes-skete-on-mount-athos-and-odr",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

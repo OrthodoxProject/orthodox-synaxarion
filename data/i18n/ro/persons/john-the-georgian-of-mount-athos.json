@@ -1,0 +1,23 @@
+{
+  "id": "john-the-georgian-of-mount-athos",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ioan Ivireanul, de la Muntele Athos",
+    "full": "Sfântul Cuvios Ioan Ivireanul, de la Muntele Athos",
+    "short": "Ioan Ivireanul, de la Muntele Athos",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/12/102014-venerable-john-the-georgian-of-mount-athos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

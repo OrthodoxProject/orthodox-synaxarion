@@ -1,0 +1,23 @@
+{
+  "id": "marcian-of-iconium",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Marcian din Iconiu",
+    "full": "Sfântul Mucenic Marcian din Iconiu",
+    "short": "Marcian din Iconiu",
+    "given": "Marcian"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/13/102021-martyr-marcian-of-iconium",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "john-iv-of-georgia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ioan al IV-lea (Gură de Aur), Catolicosul Georgiei",
+    "full": "Sfântul Ierarh Ioan al IV-lea (Gură de Aur), Catolicosul Georgiei",
+    "short": "Ioan al IV-lea, Catolicosul Georgiei",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/03/103827-saint-john-chrysostom-iv-catholicos-of-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

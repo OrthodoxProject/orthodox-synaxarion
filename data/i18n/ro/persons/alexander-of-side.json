@@ -1,0 +1,23 @@
+{
+  "id": "alexander-of-side",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Alexandru din Side, în Pamfilia",
+    "full": "Sfântul Sfințit Mucenic Alexandru din Side, în Pamfilia",
+    "short": "Alexandru din Side, în Pamfilia",
+    "given": "Alexandru"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/15/100811-hieromartyr-alexander-of-sd-in-pamphylia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

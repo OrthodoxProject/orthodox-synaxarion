@@ -1,0 +1,23 @@
+{
+  "id": "maximus-of-serbia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Maxim, Arhiepiscopul Serbiei",
+    "full": "Sfântul Ierarh Maxim, Arhiepiscopul Serbiei",
+    "short": "Maxim, Arhiepiscopul Serbiei",
+    "given": "Maxim"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/18/108035-saint-maximus-archbishop-of-serbia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

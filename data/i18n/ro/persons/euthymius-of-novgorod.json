@@ -1,0 +1,23 @@
+{
+  "id": "euthymius-of-novgorod",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Eftimie, Episcopul Novgorodului",
+    "full": "Sfântul Ierarh Eftimie, Episcopul Novgorodului",
+    "short": "Eftimie, Episcopul Novgorodului",
+    "given": "Eftimie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/11/100778-saint-euthymius-bishop-of-novgorod",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "macarius-of-kiev",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Macarie, Mitropolitul Kievului",
+    "full": "Sfântul Sfințit Mucenic Macarie, Mitropolitul Kievului",
+    "short": "Macarie, Mitropolitul Kievului",
+    "given": "Macarie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/01/101259-hieromartyr-macarius-metropolitan-of-kiev",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

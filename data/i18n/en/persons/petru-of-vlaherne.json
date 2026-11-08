@@ -1,0 +1,22 @@
+{
+  "id": "petru-of-vlaherne",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Peter of Blachernae",
+    "short": "Peter of Blachernae",
+    "given": "Peter"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-petru-din-vlaherne",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "michael-coptic-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ava Mihail, al 71-lea Papă al Scaunului Sf. Marcu",
+    "full": "Sfântul Ava Mihail, al 71-lea Papă al Scaunului Sfântului Marcu",
+    "short": "Mihail, al 71-lea Papă al Scaunului Sf. Marcu",
+    "given": "Mihail"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/8_3.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

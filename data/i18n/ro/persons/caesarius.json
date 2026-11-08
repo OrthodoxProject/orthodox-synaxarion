@@ -1,0 +1,23 @@
+{
+  "id": "caesarius",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Chesarie, fratele Sf. Grigorie Teologul",
+    "full": "Sfântul Chesarie, fratele Sfântului Grigorie Teologul",
+    "short": "Chesarie, fratele Sf. Grigorie Teologul",
+    "given": "Chesarie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/09/100748-saint-caesarius-brother-of-saint-gregory-the-theologian",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

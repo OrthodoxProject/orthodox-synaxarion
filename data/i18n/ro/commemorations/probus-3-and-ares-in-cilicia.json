@@ -1,0 +1,20 @@
+{
+  "id": "probus-3-and-ares-in-cilicia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Ilie, Prov și Ares din Cilicia"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/19/103586-martyrs-elias-probus-and-ares-in-cilicia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

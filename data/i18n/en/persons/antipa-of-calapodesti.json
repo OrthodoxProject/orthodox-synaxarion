@@ -1,0 +1,27 @@
+{
+  "id": "antipa-of-calapodesti",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Antipa of Calapodești",
+    "short": "Antipa of Calapodești",
+    "given": "Antipa"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-antipa-de-la-calapodesti",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ier-grigorie-episcopul-nyssei-%e2%80%a0-sf-cuv-antipa-de-la-calapodesti-sf-ier-dometian-episcopul-melitinei/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

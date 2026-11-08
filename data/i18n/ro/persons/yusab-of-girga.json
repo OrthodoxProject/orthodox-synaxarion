@@ -1,0 +1,22 @@
+{
+  "id": "yusab-of-girga",
+  "locale": "ro",
+  "names": {
+    "display": "Ava Iosif, Episcopul de Girga, cunoscut ca El-Abbah",
+    "short": "Iosif, Episcopul de Girga, cunoscut ca El-Abbah",
+    "given": "Iosif"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/5_17.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "euthymius-5-and-chariton-of-syanzhemsk",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Eftimie și Hariton din Sianjemsk, Vologda"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/28/102743-venerable-euthymius-and-chariton-of-syanzhemsk-vologda",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

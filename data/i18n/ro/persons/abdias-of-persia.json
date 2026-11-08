@@ -1,0 +1,23 @@
+{
+  "id": "abdias-of-persia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Avdie din Persia",
+    "full": "Sfântul Mucenic Avdie din Persia",
+    "short": "Avdie din Persia",
+    "given": "Avdie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/05/102516-martyr-abdias-abidas-of-persia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

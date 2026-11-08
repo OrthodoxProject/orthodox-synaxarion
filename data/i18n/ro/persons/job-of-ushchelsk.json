@@ -1,0 +1,23 @@
+{
+  "id": "job-of-ushchelsk",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Iov de la Ușcelsk",
+    "full": "Sfântul Cuvios Iov de la Ușcelsk",
+    "short": "Iov de la Ușcelsk",
+    "given": "Iov"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/05/102207-venerable-job-of-ushchelsk",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

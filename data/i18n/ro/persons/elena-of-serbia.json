@@ -1,0 +1,33 @@
+{
+  "id": "elena-of-serbia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Elena din Serbia",
+    "full": "Sfânta Elena din Serbia",
+    "short": "Elena din Serbia",
+    "given": "Elena"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/04/108065-saint-elena-of-serbia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/30/103120-saint-helen-of-serbia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "celestine-of-rome-coptic",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Celestin, Papa Romei",
+    "full": "Sfântul Ierarh Celestin, Papa Romei",
+    "short": "Celestin, Papa Romei",
+    "given": "Celestin"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/11_3.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

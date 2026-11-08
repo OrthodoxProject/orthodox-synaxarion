@@ -1,0 +1,23 @@
+{
+  "id": "theophanes-the-merciful-of-gaza",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Teofan cel Milostiv din Gaza",
+    "full": "Sfântul Cuvios Teofan cel Milostiv din Gaza",
+    "short": "Teofan cel Milostiv din Gaza",
+    "given": "Teofan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/29/102817-venerable-theophanes-the-merciful-of-gaza",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

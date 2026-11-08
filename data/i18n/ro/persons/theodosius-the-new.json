@@ -1,0 +1,23 @@
+{
+  "id": "theodosius-the-new",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Teodosie cel Nou, Tămăduitorul din Peloponez",
+    "full": "Sfântul Teodosie cel Nou, Tămăduitorul din Peloponez",
+    "short": "Teodosie cel Nou, Tămăduitorul din Peloponez",
+    "given": "Teodosie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/07/205389-saint-theodosius-the-new-healer-of-peloponnesus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

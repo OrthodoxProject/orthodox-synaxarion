@@ -1,0 +1,23 @@
+{
+  "id": "gregory-the-iconographer-of-the-kiev-near",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Grigorie, zugravul de icoane, de la Peșterile Apropiate din Kiev",
+    "full": "Sfântul Cuvios Grigorie, zugravul de icoane, de la Peșterile Apropiate din Kiev",
+    "short": "Grigorie, zugravul de icoane, de la Peșterile Apropiate din Kiev",
+    "given": "Grigorie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/08/102230-venerable-gregory-the-iconographer-of-the-kiev-near-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

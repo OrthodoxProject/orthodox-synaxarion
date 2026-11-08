@@ -1,0 +1,22 @@
+{
+  "id": "ioan-of-valaam",
+  "locale": "en",
+  "names": {
+    "display": "Saint John of Valaam",
+    "short": "John of Valaam",
+    "given": "John"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ioan-de-valaam",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

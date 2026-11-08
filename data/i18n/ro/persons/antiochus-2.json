@@ -1,0 +1,23 @@
+{
+  "id": "antiochus-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Antioh",
+    "full": "Sfântul Antioh",
+    "short": "Antioh",
+    "given": "Antioh"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/24/148981-saint-antiochus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

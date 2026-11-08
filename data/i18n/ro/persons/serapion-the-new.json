@@ -1,0 +1,23 @@
+{
+  "id": "serapion-the-new",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Serapion cel Nou",
+    "full": "Sfântul Serapion cel Nou",
+    "short": "Serapion cel Nou",
+    "given": "Serapion"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/12/100179-saint-serapion-the-new",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "mercurius-of-smolensk",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Mercurie, Episcopul Smolenskului, de la Peșterile Apropiate din Kiev",
+    "full": "Sfântul Ierarh Mercurie, Episcopul Smolenskului, de la Peșterile Apropiate din Kiev",
+    "short": "Mercurie, Episcopul Smolenskului, de la Peșterile Apropiate din Kiev",
+    "given": "Mercurie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/07/102222-saint-mercurius-bishop-of-smolensk-kiev-near-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

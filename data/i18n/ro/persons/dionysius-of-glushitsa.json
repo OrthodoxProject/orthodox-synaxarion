@@ -1,0 +1,23 @@
+{
+  "id": "dionysius-of-glushitsa",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Dionisie, egumenul de la Glușița, Vologda",
+    "full": "Sfântul Cuvios Dionisie, egumenul de la Glușița, Vologda",
+    "short": "Dionisie, egumenul de la Glușița, Vologda",
+    "given": "Dionisie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/01/101579-venerable-dionysius-abbot-of-glushitsa-vologda",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "nifon-of-prodromu",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Niphon of Prodromou",
+    "short": "Niphon of Prodromou",
+    "given": "Niphon"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-nifon-de-la-prodromu",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

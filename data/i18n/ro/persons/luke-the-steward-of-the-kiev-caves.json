@@ -1,0 +1,23 @@
+{
+  "id": "luke-the-steward-of-the-kiev-caves",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Luca iconomul, de la Lavra Peșterilor",
+    "full": "Sfântul Cuvios Luca iconomul, de la Lavra Peșterilor",
+    "short": "Luca iconomul, de la Lavra Peșterilor",
+    "given": "Luca"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/06/103187-venerable-luke-the-steward-of-the-kiev-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

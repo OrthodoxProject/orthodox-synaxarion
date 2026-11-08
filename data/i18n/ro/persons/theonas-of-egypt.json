@@ -1,0 +1,23 @@
+{
+  "id": "theonas-of-egypt",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Teona din Egipt",
+    "full": "Sfântul Teona din Egipt",
+    "short": "Teona din Egipt",
+    "given": "Teona"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/05/101000-saint-theonas-of-egypt",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

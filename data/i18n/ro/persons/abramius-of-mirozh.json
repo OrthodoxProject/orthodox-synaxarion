@@ -1,0 +1,23 @@
+{
+  "id": "abramius-of-mirozh",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Avramie, egumenul de la Miroj, Pskov",
+    "full": "Sfântul Cuvios Avramie, egumenul de la Miroj, Pskov",
+    "short": "Avramie, egumenul de la Miroj, Pskov",
+    "given": "Avramie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/24/102719-venerable-abramius-abbot-of-mirozh-pskov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "iosif-2",
+  "locale": "en",
+  "names": {
+    "display": "Righteous Joseph, the Betrothed of the Holy Virgin Mary",
+    "short": "Joseph, the Betrothed of the Holy Virgin Mary",
+    "given": "Joseph"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-dreptul-iosif-logodnicul-sfintei-fecioare-maria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

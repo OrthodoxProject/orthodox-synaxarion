@@ -1,0 +1,23 @@
+{
+  "id": "herman-of-kazan",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Gherman, Arhiepiscopul Kazanului",
+    "full": "Sfântul Ierarh Gherman, Arhiepiscopul Kazanului",
+    "short": "Gherman, Arhiepiscopul Kazanului",
+    "given": "Gherman"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/06/103188-repose-of-saint-herman-archbishop-of-kazan",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

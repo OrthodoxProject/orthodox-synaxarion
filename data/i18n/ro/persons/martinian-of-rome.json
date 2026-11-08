@@ -1,0 +1,23 @@
+{
+  "id": "martinian-of-rome",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Martinian din Roma",
+    "full": "Sfântul Mucenic Martinian din Roma",
+    "short": "Martinian din Roma",
+    "given": "Martinian"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/11/101055-martyrs-processus-and-martinian-of-rome",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

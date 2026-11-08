@@ -1,0 +1,20 @@
+{
+  "id": "gayane-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Gaiani și însoțitoarele ei"
+  },
+  "references": [
+    {
+      "source": "src:armenianchurch-ge",
+      "url": "https://armenianchurch.ge/en/kalendar-prazdnikov/description-2/june/commemoration-of-st-gayane-and-her-companions",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

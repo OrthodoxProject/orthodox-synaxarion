@@ -1,0 +1,23 @@
+{
+  "id": "eusebius-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Eusebiu",
+    "full": "Sfântul Mucenic Eusebiu",
+    "short": "Eusebiu",
+    "given": "Eusebiu"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/24/101194-martyrs-eusebius-neon-leontius-longinus-and-others-at-nicomedia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

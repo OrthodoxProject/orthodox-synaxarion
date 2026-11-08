@@ -1,0 +1,20 @@
+{
+  "id": "burning-of-savas-relics",
+  "locale": "ro",
+  "names": {
+    "display": "Arderea moaștelor Sf. Sava"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/27/100127-the-burning-of-saint-savas-relics",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

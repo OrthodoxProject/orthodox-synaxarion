@@ -1,0 +1,20 @@
+{
+  "id": "theodosius-of-kiev-far--translation-of-relics",
+  "locale": "ro",
+  "names": {
+    "display": "Aducerea moaștelor Sf. Cuv. Teodosie de la Peșterile Depărtate din Kiev"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/14/102297-translation-of-the-relics-of-venerable-theodosius-of-the-kiev-fa",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

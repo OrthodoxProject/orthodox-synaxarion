@@ -1,0 +1,23 @@
+{
+  "id": "james-the-presbyter",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Iacob preotul",
+    "full": "Sfântul Mucenic Iacob preotul",
+    "short": "Iacob preotul",
+    "given": "Iacob"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/10/101049-martyrs-james-jacob-the-presbyter-and-azadanes-and-abdicius-deac",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

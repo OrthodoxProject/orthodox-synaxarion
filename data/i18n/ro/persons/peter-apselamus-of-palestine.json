@@ -1,0 +1,23 @@
+{
+  "id": "peter-apselamus-of-palestine",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Petru Apselam din Palestina",
+    "full": "Sfântul Mucenic Petru Apselam din Palestina",
+    "short": "Petru Apselam din Palestina",
+    "given": "Petru"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/12/100159-martyr-peter-apselamus-of-palestine",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

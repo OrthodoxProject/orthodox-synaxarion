@@ -1,0 +1,23 @@
+{
+  "id": "apamon",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Apamon (Ava Amun)",
+    "full": "Sfântul Apamon (Ava Amun)",
+    "short": "Apamon",
+    "given": "Apamon"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/11_27.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

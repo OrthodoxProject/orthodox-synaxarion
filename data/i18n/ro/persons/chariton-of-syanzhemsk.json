@@ -1,0 +1,23 @@
+{
+  "id": "chariton-of-syanzhemsk",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Hariton din Sianjemsk, Vologda",
+    "full": "Sfântul Cuvios Hariton din Sianjemsk, Vologda",
+    "short": "Hariton din Sianjemsk, Vologda",
+    "given": "Hariton"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/28/102743-venerable-euthymius-and-chariton-of-syanzhemsk-vologda",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

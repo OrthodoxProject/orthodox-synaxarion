@@ -1,0 +1,23 @@
+{
+  "id": "john-of-zedazeni-monastery",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Ioan, egumenul Mănăstirii Zedazeni",
+    "full": "Sfântul Mucenic Ioan, egumenul Mănăstirii Zedazeni",
+    "short": "Ioan, egumenul Mănăstirii Zedazeni",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/12/205497-martyr-john-abbot-of-the-zedazeni-monastery",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "romanos-of-cilicia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Roman din Cilicia",
+    "full": "Sfântul Cuvios Roman din Cilicia",
+    "short": "Roman din Cilicia",
+    "given": "Roman"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/09/205322-venerable-romans-of-cilicia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/27/103407-venerable-romans-of-cilicia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

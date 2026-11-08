@@ -1,0 +1,22 @@
+{
+  "id": "valerian-2",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Valerian",
+    "short": "Valerian",
+    "given": "Valerian"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-valerian",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

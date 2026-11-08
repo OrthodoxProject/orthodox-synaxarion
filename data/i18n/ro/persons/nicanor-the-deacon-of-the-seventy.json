@@ -1,0 +1,23 @@
+{
+  "id": "nicanor-the-deacon-of-the-seventy",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ap. Nicanor diaconul",
+    "full": "Sfântul Apostol Nicanor diaconul",
+    "short": "Nicanor diaconul",
+    "given": "Nicanor"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/28/103679-apostle-nicanor-the-deacon-of-the-seventy",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

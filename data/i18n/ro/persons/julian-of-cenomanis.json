@@ -1,0 +1,23 @@
+{
+  "id": "julian-of-cenomanis",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Iulian, Episcopul de Cenomanis (Le Mans), în Galia",
+    "full": "Sfântul Ierarh Iulian, Episcopul de Cenomanis (Le Mans), în Galia",
+    "short": "Iulian, Episcopul de Cenomanis, în Galia",
+    "given": "Iulian"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/13/102019-saint-julian-bishop-of-cenomanis-le-mans-gaul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

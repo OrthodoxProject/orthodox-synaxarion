@@ -1,0 +1,22 @@
+{
+  "id": "ilarion",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Hilarion",
+    "short": "Hilarion",
+    "given": "Hilarion"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-ilarion-0",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

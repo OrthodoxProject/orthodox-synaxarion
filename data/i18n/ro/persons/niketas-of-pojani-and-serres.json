@@ -1,0 +1,23 @@
+{
+  "id": "niketas-of-pojani-and-serres",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Noul Mc. Nichita din Pojani și Serres",
+    "full": "Sfântul Noul Mucenic Nichita din Pojani și Serres",
+    "short": "Nichita din Pojani și Serres",
+    "given": "Nichita"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/04/100992-new-martyr-niketas-of-pojani-and-serres",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

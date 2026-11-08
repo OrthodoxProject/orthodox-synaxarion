@@ -1,0 +1,23 @@
+{
+  "id": "ephraim-the-great-of-atsquri",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Efrem cel Mare din Ațkuri",
+    "full": "Sfântul Efrem cel Mare din Ațkuri",
+    "short": "Efrem cel Mare din Ațkuri",
+    "given": "Efrem"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/15/205456-saint-ephraim-the-great-of-atsquri",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

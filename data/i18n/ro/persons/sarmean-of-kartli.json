@@ -1,0 +1,23 @@
+{
+  "id": "sarmean-of-kartli",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Sarmean, Catolicosul de Kartli, Georgia",
+    "full": "Sfântul Ierarh Sarmean, Catolicosul de Kartli, Georgia",
+    "short": "Sarmean, Catolicosul de Kartli, Georgia",
+    "given": "Sarmean"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/21/103881-saint-sarmean-catholicos-of-kartli-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

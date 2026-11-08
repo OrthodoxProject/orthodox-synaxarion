@@ -1,0 +1,27 @@
+{
+  "id": "ioanichie-the-new-of-muscel",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Joannicius the New of Muscel (Argeș)",
+    "short": "Joannicius the New of Muscel",
+    "given": "Joannicius"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-ioanichie-cel-nou-de-la-muscel-arges",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-ioanichie-cel-nou-de-la-muscel-sf-sfintit-mc-ermolae-sf-mc-paraschevi-din-roma/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

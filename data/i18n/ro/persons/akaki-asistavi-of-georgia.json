@@ -1,0 +1,23 @@
+{
+  "id": "akaki-asistavi-of-georgia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Acachi Asistavi din Georgia",
+    "full": "Sfântul Acachi Asistavi din Georgia",
+    "short": "Acachi Asistavi din Georgia",
+    "given": "Acachi"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/07/103845-saint-akaki-asistavi-of-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

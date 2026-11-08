@@ -1,0 +1,23 @@
+{
+  "id": "phoebe-the-deaconess-at-cenchreae-near-corinth",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Fivi diaconița, din Chenhreea, lângă Corint",
+    "full": "Sfânta Fivi diaconița, din Chenhreea, lângă Corint",
+    "short": "Fivi diaconița, din Chenhreea, lângă Corint",
+    "given": "Fivi"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/03/102481-saint-phoebe-the-deaconess-at-cenchreae-near-corinth",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

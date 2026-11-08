@@ -1,0 +1,23 @@
+{
+  "id": "zosimus-of-syracuse",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Zosima, Episcopul Siracuzei",
+    "full": "Sfântul Ierarh Zosima, Episcopul Siracuzei",
+    "short": "Zosima, Episcopul Siracuzei",
+    "given": "Zosima"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/30/100953-saint-zosimus-bishop-of-syracuse",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

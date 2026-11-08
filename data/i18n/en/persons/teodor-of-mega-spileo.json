@@ -1,0 +1,22 @@
+{
+  "id": "teodor-of-mega-spileo",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Theodore of Mega Spilaion",
+    "short": "Theodore of Mega Spilaion",
+    "given": "Theodore"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-teodor-de-la-mega-spileo",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

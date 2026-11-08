@@ -1,0 +1,23 @@
+{
+  "id": "luke-of-batheos-ryako",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Luca, egumenul de la Bateos Riako",
+    "full": "Sfântul Cuvios Luca, egumenul de la Bateos Riako",
+    "short": "Luca, egumenul de la Bateos Riako",
+    "given": "Luca"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/07/102539-venerable-luke-abbot-of-batheos-ryako",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "augusta",
+  "locale": "ro",
+  "names": {
+    "display": "Împărăteasa Augusta, Porfirie stratilatul și cei 50 de filosofi",
+    "short": "Augusta, Porfirie stratilatul și cei 50 de filosofi",
+    "given": "Augusta"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/24/103386-empress-augusta-porphyrius-the-general-the-50-philosophers-and-t",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

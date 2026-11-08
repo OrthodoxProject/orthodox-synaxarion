@@ -1,0 +1,23 @@
+{
+  "id": "peter-the-tax-collector",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Petru Vameșul",
+    "full": "Sfântul Petru Vameșul",
+    "short": "Petru Vameșul",
+    "given": "Petru"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/22/102700-saint-peter-the-tax-collector",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

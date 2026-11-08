@@ -1,0 +1,23 @@
+{
+  "id": "donatus-of-euroea",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Donat, Episcopul Evriei, în Epir",
+    "full": "Sfântul Ierarh Donat, Episcopul Evriei, în Epir",
+    "short": "Donat, Episcopul Evriei, în Epir",
+    "given": "Donat"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/30/107780-saint-donatus-bishop-of-euroea-in-epirus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

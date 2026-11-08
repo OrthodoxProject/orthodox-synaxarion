@@ -1,0 +1,23 @@
+{
+  "id": "carterius-of-caesarea-in-cappadocia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Carterie din Cezareea Capadociei",
+    "full": "Sfântul Carterie din Cezareea Capadociei",
+    "short": "Carterie din Cezareea Capadociei",
+    "given": "Carterie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/08/100120-saint-carterius-of-caesarea-in-cappadocia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

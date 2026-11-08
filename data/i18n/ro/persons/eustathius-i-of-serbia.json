@@ -1,0 +1,28 @@
+{
+  "id": "eustathius-i-of-serbia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Eustatie I, Arhiepiscopul Serbiei",
+    "full": "Sfântul Ierarh Eustatie I, Arhiepiscopul Serbiei",
+    "short": "Eustatie I, Arhiepiscopul Serbiei",
+    "given": "Eustatie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/04/100089-repose-of-saint-eustathius-i-archbishop-of-serbia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/16/108056-saint-eustathius-of-serbia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

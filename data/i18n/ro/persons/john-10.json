@@ -1,0 +1,23 @@
+{
+  "id": "john-10",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ioan, pustnicul din Pskov",
+    "full": "Sfântul Cuvios Ioan, pustnicul din Pskov",
+    "short": "Ioan, pustnicul din Pskov",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/24/108923-saint-john-hermit-of-pskov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

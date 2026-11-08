@@ -1,0 +1,23 @@
+{
+  "id": "george-the-great-prince-of-vladimir",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Binecredinciosul Mare Cneaz Gheorghe al Vladimirului",
+    "full": "Sfântul Binecredinciosul Mare Cneaz Gheorghe al Vladimirului",
+    "short": "Gheorghe, marele cneaz al Vladimirului",
+    "given": "Gheorghe"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/04/100423-right-believing-george-the-great-prince-of-vladimir",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

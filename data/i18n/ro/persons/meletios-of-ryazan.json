@@ -1,0 +1,23 @@
+{
+  "id": "meletios-of-ryazan",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Meletie, Episcopul Riazanului",
+    "full": "Sfântul Ierarh Meletie, Episcopul Riazanului",
+    "short": "Meletie, Episcopul Riazanului",
+    "given": "Meletie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/14/100122-saint-meletios-bishop-of-ryazan",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

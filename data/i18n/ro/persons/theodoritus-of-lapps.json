@@ -1,0 +1,23 @@
+{
+  "id": "theodoritus-of-lapps",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Teodorit, luminătorul laponilor, de la Solovăț",
+    "full": "Sfântul Cuvios Teodorit, luminătorul laponilor, de la Solovăț",
+    "short": "Teodorit, luminătorul laponilor, de la Solovăț",
+    "given": "Teodorit"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/17/102321-venerable-theodoritus-enlightener-of-the-lapps-solovki",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

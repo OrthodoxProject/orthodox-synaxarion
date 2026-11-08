@@ -1,0 +1,23 @@
+{
+  "id": "gerasimus-the-new-of-carpenision",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Gherasim cel Nou din Carpenisi",
+    "full": "Sfântul Cuvios Mucenic Gherasim cel Nou din Carpenisi",
+    "short": "Gherasim cel Nou din Carpenisi",
+    "given": "Gherasim"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/03/101891-monastic-martyr-gerasimus-the-new-of-carpenision",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

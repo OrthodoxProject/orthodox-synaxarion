@@ -1,0 +1,23 @@
+{
+  "id": "serapion-of-pskov",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Serapion din Pskov",
+    "full": "Sfântul Cuvios Serapion din Pskov",
+    "short": "Serapion din Pskov",
+    "given": "Serapion"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/15/101391-venerable-serapion-of-pskov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

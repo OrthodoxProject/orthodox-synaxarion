@@ -1,0 +1,20 @@
+{
+  "id": "theophany-of-our-lord-god-and-savior-jesus",
+  "locale": "ro",
+  "names": {
+    "display": "Sfânta Arătare a Domnului, Dumnezeului și Mântuitorului nostru Iisus Hristos (Botezul Domnului Hristos)"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/5_11.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

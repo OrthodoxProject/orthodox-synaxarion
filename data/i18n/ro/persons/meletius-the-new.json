@@ -1,0 +1,23 @@
+{
+  "id": "meletius-the-new",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Meletie cel Nou",
+    "full": "Sfântul Cuvios Meletie cel Nou",
+    "short": "Meletie cel Nou",
+    "given": "Meletie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/01/108079-saint-meletius-the-new",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

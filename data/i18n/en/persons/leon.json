@@ -1,0 +1,22 @@
+{
+  "id": "leon",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Leo",
+    "short": "Leo",
+    "given": "Leo"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-leon",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

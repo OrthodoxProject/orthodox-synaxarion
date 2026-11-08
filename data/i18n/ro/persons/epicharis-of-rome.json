@@ -1,0 +1,23 @@
+{
+  "id": "epicharis-of-rome",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Epiharia din Roma",
+    "full": "Sfânta Muceniță Epiharia din Roma",
+    "short": "Epiharia din Roma",
+    "given": "Epiharia"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/27/102739-martyr-epicharis-of-rome",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

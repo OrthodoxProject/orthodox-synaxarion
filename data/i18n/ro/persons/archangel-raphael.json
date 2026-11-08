@@ -1,0 +1,23 @@
+{
+  "id": "archangel-raphael",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Arh. Rafail",
+    "full": "Sfântul Arhanghel Rafail",
+    "short": "Rafail",
+    "given": "Rafail"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/13_3.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

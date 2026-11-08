@@ -1,0 +1,23 @@
+{
+  "id": "nofer-the-anchorite",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ava Nofer Pustnicul",
+    "full": "Sfântul Ava Nofer Pustnicul",
+    "short": "Nofer Pustnicul",
+    "given": "Nofer"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/10_16.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

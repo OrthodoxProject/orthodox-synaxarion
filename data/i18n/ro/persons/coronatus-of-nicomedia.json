@@ -1,0 +1,23 @@
+{
+  "id": "coronatus-of-nicomedia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Coronat, Episcopul Nicomidiei",
+    "full": "Sfântul Ierarh Coronat, Episcopul Nicomidiei",
+    "short": "Coronat, Episcopul Nicomidiei",
+    "given": "Coronat"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/12/102591-saint-coronatus-bishop-of-nicomedia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

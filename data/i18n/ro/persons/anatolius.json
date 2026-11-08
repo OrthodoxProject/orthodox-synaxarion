@@ -1,0 +1,23 @@
+{
+  "id": "anatolius",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Anatolie",
+    "full": "Sfântul Mucenic Anatolie",
+    "short": "Anatolie",
+    "given": "Anatolie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/23/101186-martyrs-anatolius-and-protoleon-soldiers-converted-by-witnessing",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

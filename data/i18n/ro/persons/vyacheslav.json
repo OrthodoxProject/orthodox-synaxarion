@@ -1,0 +1,23 @@
+{
+  "id": "vyacheslav",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Viaceslav (Leontiev), preotul",
+    "full": "Sfântul Mucenic Viaceslav (Leontiev), preotul",
+    "short": "Viaceslav, preotul",
+    "given": "Viaceslav"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/04/100657-martyr-vyacheslav-leontiev-the-priest",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "theodota-at-nicea",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Teodota din Niceea",
+    "full": "Sfânta Muceniță Teodota din Niceea",
+    "short": "Teodota din Niceea",
+    "given": "Teodota"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/17/102642-martyr-theodota-at-nicea",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

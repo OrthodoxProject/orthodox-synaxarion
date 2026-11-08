@@ -1,0 +1,20 @@
+{
+  "id": "demitrius-the-second--enthronement",
+  "locale": "ro",
+  "names": {
+    "display": "Întronizarea Papei Dimitrie al II-lea, al 111-lea Patriarh al Alexandriei"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/10_10.html?lang=en#4",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "longinus-of-asistavi",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Longhin din Asistavi",
+    "full": "Sfântul Mucenic Longhin din Asistavi",
+    "short": "Longhin din Asistavi",
+    "given": "Longhin"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/16/103895-martyr-longinus-of-asistavi",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

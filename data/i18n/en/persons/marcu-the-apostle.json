@@ -1,0 +1,22 @@
+{
+  "id": "marcu-the-apostle",
+  "locale": "en",
+  "names": {
+    "display": "Apostle Mark",
+    "short": "Mark",
+    "given": "Mark"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-apostol-marcu",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "philaret-the-merciful-of-amnia-in-asia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Drept Filaret cel Milostiv, din Amnia, în Asia Mică",
+    "full": "Sfântul Drept Filaret cel Milostiv, din Amnia, în Asia Mică",
+    "short": "Filaret cel Milostiv, din Amnia, în Asia Mică",
+    "given": "Filaret"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/01/103453-righteous-philaret-the-merciful-of-amnia-in-asia-minor",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "marcellus-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Marcel",
+    "full": "Sfântul Mucenic Marcel",
+    "short": "Marcel",
+    "given": "Marcel"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/15/103307-martyrs-elpidius-marcellus-and-eustochius-who-suffered-under-jul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

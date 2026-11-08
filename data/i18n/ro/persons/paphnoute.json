@@ -1,0 +1,23 @@
+{
+  "id": "paphnoute",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Pafnutie",
+    "full": "Sfântul Pafnutie",
+    "short": "Pafnutie",
+    "given": "Pafnutie"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/6_15.html?lang=en#3",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

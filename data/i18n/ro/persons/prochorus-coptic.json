@@ -1,0 +1,23 @@
+{
+  "id": "prochorus-coptic",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Prohor, unul dintre cei 70 de ucenici",
+    "full": "Sfântul Prohor, unul dintre cei 70 de ucenici",
+    "short": "Prohor, unul dintre cei 70 de ucenici",
+    "given": "Prohor"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/5_20.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

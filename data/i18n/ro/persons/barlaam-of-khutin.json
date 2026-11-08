@@ -1,0 +1,23 @@
+{
+  "id": "barlaam-of-khutin",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Varlaam de la Hutin",
+    "full": "Sfântul Cuvios Varlaam de la Hutin",
+    "short": "Varlaam de la Hutin",
+    "given": "Varlaam"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/24/101587-venerable-barlaam-of-khutin",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

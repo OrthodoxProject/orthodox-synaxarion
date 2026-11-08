@@ -1,0 +1,23 @@
+{
+  "id": "stephen-of-piperi",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ștefan din Piperi, Serbia",
+    "full": "Sfântul Cuvios Ștefan din Piperi, Serbia",
+    "short": "Ștefan din Piperi, Serbia",
+    "given": "Ștefan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/20/108046-venerable-stephen-of-piperi-serbia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

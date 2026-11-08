@@ -1,0 +1,23 @@
+{
+  "id": "photeine-of-cyprus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Fotini din Cipru, făcătoarea de minuni",
+    "full": "Sfânta Fotini din Cipru, făcătoarea de minuni",
+    "short": "Fotini din Cipru, făcătoarea de minuni",
+    "given": "Fotini"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/02/100534-saint-photeine-of-cyprus-wonderworker",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

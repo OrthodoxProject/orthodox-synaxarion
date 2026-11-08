@@ -1,0 +1,23 @@
+{
+  "id": "gerasimus-of-vologda",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Gherasim din Vologda",
+    "full": "Sfântul Cuvios Gherasim din Vologda",
+    "short": "Gherasim din Vologda",
+    "given": "Gherasim"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/04/100650-venerable-gerasimus-of-vologda",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

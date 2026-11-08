@@ -1,0 +1,20 @@
+{
+  "id": "theophilus-the-deacon-and-helladius",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Teofil diaconul și Eladie din Libia"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/08/100121-martyrs-theophilus-the-deacon-and-helladius-in-libya",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

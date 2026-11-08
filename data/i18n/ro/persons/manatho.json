@@ -1,0 +1,23 @@
+{
+  "id": "manatho",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Fecioară Manato",
+    "full": "Sfânta Muceniță Fecioară Manato",
+    "short": "Manato",
+    "given": "Manato"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/06/100357-holy-virgin-martyr-manatho",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

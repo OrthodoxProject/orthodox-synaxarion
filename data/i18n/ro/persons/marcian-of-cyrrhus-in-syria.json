@@ -1,0 +1,23 @@
+{
+  "id": "marcian-of-cyrrhus-in-syria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Marcian din Cir, Siria",
+    "full": "Sfântul Cuvios Marcian din Cir, Siria",
+    "short": "Marcian din Cir, Siria",
+    "given": "Marcian"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/18/100223-venerable-marcian-of-cyrrhus-in-syria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

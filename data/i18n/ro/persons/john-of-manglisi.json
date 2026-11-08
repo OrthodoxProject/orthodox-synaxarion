@@ -1,0 +1,23 @@
+{
+  "id": "john-of-manglisi",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ioan, Episcopul de Manglisi",
+    "full": "Sfântul Cuvios Ioan, Episcopul de Manglisi",
+    "short": "Ioan, Episcopul de Manglisi",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/28/103831-venerable-john-bishop-of-manglisi",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

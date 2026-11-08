@@ -1,0 +1,23 @@
+{
+  "id": "ciaran-of-clonmacnoise",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ciaran de la Clonmacnoise",
+    "full": "Sfântul Ciaran de la Clonmacnoise",
+    "short": "Ciaran de la Clonmacnoise",
+    "given": "Ciaran"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/09/102553-saint-ciaran-of-clonmacnoise",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

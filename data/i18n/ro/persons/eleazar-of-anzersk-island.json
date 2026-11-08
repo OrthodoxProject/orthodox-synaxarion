@@ -1,0 +1,23 @@
+{
+  "id": "eleazar-of-anzersk-island",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Eleazar din insula Anzer, Solovăț",
+    "full": "Sfântul Cuvios Eleazar din insula Anzer, Solovăț",
+    "short": "Eleazar din insula Anzer, Solovăț",
+    "given": "Eleazar"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/13/100167-venerable-eleazar-of-anzersk-island-solovki",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

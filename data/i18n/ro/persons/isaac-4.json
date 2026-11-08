@@ -1,0 +1,23 @@
+{
+  "id": "isaac-4",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Noul Mc. Isaac",
+    "full": "Sfântul Noul Mucenic Isaac",
+    "short": "Isaac",
+    "given": "Isaac"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/16/102634-new-martyrs-isaac-and-joseph-of-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

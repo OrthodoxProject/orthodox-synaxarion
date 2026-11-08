@@ -1,0 +1,23 @@
+{
+  "id": "sahak-partev",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Sahak Partev",
+    "full": "Sfântul Ierarh Sahak Partev",
+    "short": "Sahak Partev",
+    "given": "Sahak"
+  },
+  "references": [
+    {
+      "source": "src:armenianchurch-ge",
+      "url": "https://armenianchurch.ge/en/kalendar-prazdnikov/description-2/february/commemoration-of-the-pontiff-st-sahak-partev",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "maximus-the-new",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Maxim cel Nou",
+    "full": "Sfântul Maxim cel Nou",
+    "short": "Maxim cel Nou",
+    "given": "Maxim"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/18/109029-saint-maximus-the-new",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

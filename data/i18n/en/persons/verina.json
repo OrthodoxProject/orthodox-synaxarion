@@ -1,0 +1,22 @@
+{
+  "id": "verina",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Verina",
+    "short": "Verina",
+    "given": "Verina"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-verina",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

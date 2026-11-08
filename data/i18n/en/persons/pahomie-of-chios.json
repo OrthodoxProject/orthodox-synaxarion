@@ -1,0 +1,22 @@
+{
+  "id": "pahomie-of-chios",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Pachomius of Chios",
+    "short": "Pachomius of Chios",
+    "given": "Pachomius"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-pahomie-din-chios",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "nikon-i",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Nicon I",
+    "full": "Sfântul Nicon I",
+    "short": "Nicon I",
+    "given": "Nicon"
+  },
+  "references": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

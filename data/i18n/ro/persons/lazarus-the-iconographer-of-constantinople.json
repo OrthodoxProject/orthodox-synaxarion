@@ -1,0 +1,23 @@
+{
+  "id": "lazarus-the-iconographer-of-constantinople",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Lazăr, zugravul de icoane, din Constantinopol",
+    "full": "Sfântul Cuvios Lazăr, zugravul de icoane, din Constantinopol",
+    "short": "Lazăr, zugravul de icoane, din Constantinopol",
+    "given": "Lazăr"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/17/103317-venerable-lazarus-the-iconographer-of-constantinople",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

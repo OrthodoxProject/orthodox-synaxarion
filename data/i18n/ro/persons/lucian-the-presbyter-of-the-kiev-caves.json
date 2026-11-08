@@ -1,0 +1,23 @@
+{
+  "id": "lucian-the-presbyter-of-the-kiev-caves",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Lucian preotul, de la Lavra Peșterilor",
+    "full": "Sfântul Sfințit Mucenic Lucian preotul, de la Lavra Peșterilor",
+    "short": "Lucian preotul, de la Lavra Peșterilor",
+    "given": "Lucian"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/15/102975-hieromartyr-lucian-the-presbyter-of-the-kiev-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

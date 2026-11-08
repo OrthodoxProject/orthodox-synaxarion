@@ -1,0 +1,23 @@
+{
+  "id": "barnabas-coptic",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Barnaba, unul dintre cei 70 de Apostoli",
+    "full": "Sfântul Barnaba, unul dintre cei 70 de Apostoli",
+    "short": "Barnaba, unul dintre cei 70 de Apostoli",
+    "given": "Barnaba"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/4_21.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

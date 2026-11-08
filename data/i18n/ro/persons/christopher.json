@@ -1,0 +1,23 @@
+{
+  "id": "christopher",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Hristofor",
+    "full": "Sfântul Mucenic Hristofor",
+    "short": "Hristofor",
+    "given": "Hristofor"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/19/101147-martyrs-christopher-theonas-and-anthony-at-rome",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

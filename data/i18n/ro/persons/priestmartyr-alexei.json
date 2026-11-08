@@ -1,0 +1,23 @@
+{
+  "id": "priestmartyr-alexei",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Alexie (Medvedkov)",
+    "full": "Sfântul Sfințit Mucenic Alexie (Medvedkov)",
+    "short": "Alexie",
+    "given": "Alexie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/20/108894-priestmartyr-alexei-medvedkov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

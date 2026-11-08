@@ -1,0 +1,23 @@
+{
+  "id": "paul-the-simple-of-egypt",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Pavel cel Simplu, din Egipt",
+    "full": "Sfântul Cuvios Pavel cel Simplu, din Egipt",
+    "short": "Pavel cel Simplu, din Egipt",
+    "given": "Pavel"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/04/102866-venerable-paul-the-simple-of-egypt",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "hannah",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Dreaptă Ana, prorocița, mama Prorocului Samuel",
+    "full": "Sfânta Dreaptă Ana, prorocița, mama Prorocului Samuel",
+    "short": "Ana, prorocița, mama Prorocului Samuel",
+    "given": "Ana"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/2_6.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

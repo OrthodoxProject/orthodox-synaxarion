@@ -1,0 +1,23 @@
+{
+  "id": "anthusa-at-rome",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Antuza din Roma",
+    "full": "Sfânta Muceniță Antuza din Roma",
+    "short": "Antuza din Roma",
+    "given": "Antuza"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/08/103505-martyr-anthusa-at-rome",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

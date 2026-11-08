@@ -1,0 +1,23 @@
+{
+  "id": "gregory-of-crete",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Grigorie din Creta",
+    "full": "Sfântul Cuvios Grigorie din Creta",
+    "short": "Grigorie din Creta",
+    "given": "Grigorie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/05/100104-venerable-gregory-of-crete",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

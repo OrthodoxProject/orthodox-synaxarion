@@ -1,0 +1,23 @@
+{
+  "id": "artemius-of-verkola",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Drept Artemie din Verkola",
+    "full": "Sfântul Drept Artemie din Verkola",
+    "short": "Artemie din Verkola",
+    "given": "Artemie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/23/101789-righteous-artemius-of-verkola",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

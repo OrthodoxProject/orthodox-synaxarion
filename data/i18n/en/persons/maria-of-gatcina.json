@@ -1,0 +1,22 @@
+{
+  "id": "maria-of-gatcina",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Martyr Mary of Gatchina",
+    "short": "Mary of Gatchina",
+    "given": "Mary"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-mucenita-maria-din-gatcina",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "sigfrid",
+  "locale": "en",
+  "names": {
+    "display": "Saint Sigfrid, Enlightener of Sweden",
+    "short": "Sigfrid, Enlightener of Sweden",
+    "given": "Sigfrid"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-sigfrid-luminatorul-suediei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

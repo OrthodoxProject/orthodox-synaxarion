@@ -1,0 +1,23 @@
+{
+  "id": "james-of-zheleznoborov",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Iacob, egumenul de la Jeleznoborov",
+    "full": "Sfântul Cuvios Iacob, egumenul de la Jeleznoborov",
+    "short": "Iacob, egumenul de la Jeleznoborov",
+    "given": "Iacob"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/11/101053-venerable-james-abbot-of-zheleznoborov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

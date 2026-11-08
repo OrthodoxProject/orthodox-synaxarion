@@ -1,0 +1,23 @@
+{
+  "id": "niketas-of-nisyros-near-rhodes",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Noul Mc. Nichita din Nisiros, lângă Rodos",
+    "full": "Sfântul Noul Mucenic Nichita din Nisiros, lângă Rodos",
+    "short": "Nichita din Nisiros, lângă Rodos",
+    "given": "Nichita"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/21/205376-new-martyr-niktas-of-nisyros-near-rhodes",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

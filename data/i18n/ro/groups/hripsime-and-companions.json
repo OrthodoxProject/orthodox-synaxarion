@@ -1,0 +1,20 @@
+{
+  "id": "hripsime-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ripsimia și însoțitoarele ei"
+  },
+  "references": [
+    {
+      "source": "src:armenianchurch-ge",
+      "url": "https://armenianchurch.ge/en/kalendar-prazdnikov/description-2/june/commemoration-of-st-hripsime-and-her-companions",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "nicostrat",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Nicostratus",
+    "short": "Nicostratus",
+    "given": "Nicostratus"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-nicostrat",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ier-nectarie-de-la-eghina-sf-mc-claudiu-castor-sempronian-si-nicostrat-sf-mc-onisifor-si-porfirie-sf-cuv-matrona/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

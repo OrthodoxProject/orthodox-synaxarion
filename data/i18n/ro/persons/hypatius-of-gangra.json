@@ -1,0 +1,23 @@
+{
+  "id": "hypatius-of-gangra",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ipatie din Gangra",
+    "full": "Sfântul Ierarh Ipatie din Gangra",
+    "short": "Ipatie din Gangra",
+    "given": "Ipatie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/16/205397-saint-hypatius-of-gangra",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

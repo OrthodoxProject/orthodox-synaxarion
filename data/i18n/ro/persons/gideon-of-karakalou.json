@@ -1,0 +1,23 @@
+{
+  "id": "gideon-of-karakalou",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Ghedeon de la Caracalu, Muntele Athos",
+    "full": "Sfântul Cuvios Mucenic Ghedeon de la Caracalu, Muntele Athos",
+    "short": "Ghedeon de la Caracalu, Muntele Athos",
+    "given": "Ghedeon"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/30/103697-monastic-martyr-gideon-of-karakalou-mount-athos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

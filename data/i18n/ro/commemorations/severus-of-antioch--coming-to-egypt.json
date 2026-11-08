@@ -1,0 +1,20 @@
+{
+  "id": "severus-of-antioch--coming-to-egypt",
+  "locale": "ro",
+  "names": {
+    "display": "Venirea Sf. Ier. Sever, Patriarhul Antiohiei, în Egipt"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/2_2.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

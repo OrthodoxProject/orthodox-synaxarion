@@ -1,0 +1,22 @@
+{
+  "id": "simeon-of-mega-spileo",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Simeon of Mega Spilaion",
+    "short": "Simeon of Mega Spilaion",
+    "given": "Simeon"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-simeon-de-la-mega-spileo",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

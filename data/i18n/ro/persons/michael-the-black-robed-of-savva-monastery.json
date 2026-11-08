@@ -1,0 +1,33 @@
+{
+  "id": "michael-the-black-robed-of-savva-monastery",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Mihail „Cernorizețul”, de la Mănăstirea Sfântul Sava",
+    "full": "Sfântul Mucenic Mihail „Cernorizețul”, de la Mănăstirea Sfântul Sava",
+    "short": "Mihail „Cernorizețul”, de la Mănăstirea Sfântul Sava",
+    "given": "Mihail"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/23/101501-martyr-michael-the-black-robed-of-saint-savva-monastery",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/29/100347-martyr-michael-the-black-robed-of-saint-savva-monastery",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/29/102129-martyr-michael",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

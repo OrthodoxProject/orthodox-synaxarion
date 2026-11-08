@@ -1,0 +1,23 @@
+{
+  "id": "makarios",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Macarie, egumenul de la Pelechete",
+    "full": "Sfântul Cuvios Macarie, egumenul de la Pelechete",
+    "short": "Macarie, egumenul de la Pelechete",
+    "given": "Macarie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/01/100967-venerable-makarios-igoumen-of-pelket",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

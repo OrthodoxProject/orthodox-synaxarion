@@ -1,0 +1,23 @@
+{
+  "id": "glykeria-of-novgorod",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Dreaptă Fecioară Glicheria din Novgorod",
+    "full": "Sfânta Dreaptă Fecioară Glicheria din Novgorod",
+    "short": "Glicheria din Novgorod",
+    "given": "Glicheria"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/13/101365-righteous-virgin-glykera-of-novgorod",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

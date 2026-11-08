@@ -1,0 +1,22 @@
+{
+  "id": "romil-of-ravanita",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Romilus of Ravanica",
+    "short": "Romilus of Ravanica",
+    "given": "Romilus"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-romil-de-ravanita",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

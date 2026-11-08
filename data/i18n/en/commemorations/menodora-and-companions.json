@@ -1,0 +1,25 @@
+{
+  "id": "menodora-and-companions",
+  "locale": "en",
+  "names": {
+    "display": "Martyrs Menodora, Metrodora and Nymphodora"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfintele-mucenite-minodora-mitrodora-nimfodora",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-minodora-mitrodora-si-nimfodora-sf-imparateasa-pulheria/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

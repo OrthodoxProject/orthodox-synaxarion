@@ -1,0 +1,23 @@
+{
+  "id": "ashot-curapalati",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Așot Curapalati, regele de Artanuji",
+    "full": "Sfântul Mucenic Așot Curapalati, regele de Artanuji",
+    "short": "Așot Curapalati, regele de Artanuji",
+    "given": "Așot"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/29/103811-martyr-ashot-curapalati-king-of-artanuji",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "xenophon-of-robeika",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Xenofont de la Robeika",
+    "full": "Sfântul Cuvios Xenofont de la Robeika",
+    "short": "Xenofont de la Robeika",
+    "given": "Xenofont"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/26/100319-saint-xenophon-of-robeika",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

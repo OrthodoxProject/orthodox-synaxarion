@@ -1,0 +1,23 @@
+{
+  "id": "admiral-theodore-ushakov-of-the-russian-naval",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Drept Teodor Ușakov, amiralul flotei ruse",
+    "full": "Sfântul Drept Teodor Ușakov, amiralul flotei ruse",
+    "short": "Teodor Ușakov, amiralul flotei ruse",
+    "given": "Teodor"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/02/104101-righteous-admiral-theodore-ushakov-of-the-russian-naval-fleet",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

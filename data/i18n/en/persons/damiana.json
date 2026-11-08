@@ -1,0 +1,22 @@
+{
+  "id": "damiana",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Demiana and the 40 Virgins",
+    "short": "Demiana and the 40 Virgins",
+    "given": "Demiana"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-damiana-cele-40-de-fecioare",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "raphael-of-serbia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Rafail din Serbia",
+    "full": "Sfântul Sfințit Mucenic Rafail din Serbia",
+    "short": "Rafail din Serbia",
+    "given": "Rafail"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/21/108058-hieromartyr-raphael-of-serbia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "theodore-of-rostov-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Teodor din Rostov",
+    "full": "Sfântul Teodor din Rostov",
+    "short": "Teodor din Rostov",
+    "given": "Teodor"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/22/108924-saints-paul-and-theodore-of-rostov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

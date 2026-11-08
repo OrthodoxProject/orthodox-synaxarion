@@ -1,0 +1,23 @@
+{
+  "id": "jacob-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Iacob, starețul de la Chqondidi",
+    "full": "Sfântul Iacob, starețul de la Chqondidi",
+    "short": "Iacob, starețul de la Chqondidi",
+    "given": "Iacob"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/13/205434-saint-anthony-metropolitan-of-chqondidi-and-saint-jacob-elder-of",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

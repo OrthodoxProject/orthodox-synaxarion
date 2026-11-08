@@ -1,0 +1,23 @@
+{
+  "id": "terence-of-iconium",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Terentie, Episcopul Iconiului",
+    "full": "Sfântul Sfințit Mucenic Terentie, Episcopul Iconiului",
+    "short": "Terentie, Episcopul Iconiului",
+    "given": "Terentie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/21/101773-hieromartyr-terence-bishop-of-iconium",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

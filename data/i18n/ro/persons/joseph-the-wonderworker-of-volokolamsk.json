@@ -1,0 +1,23 @@
+{
+  "id": "joseph-the-wonderworker-of-volokolamsk",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Iosif făcătorul de minuni, egumenul de la Volokolamsk",
+    "full": "Sfântul Cuvios Iosif făcătorul de minuni, egumenul de la Volokolamsk",
+    "short": "Iosif făcătorul de minuni, egumenul de la Volokolamsk",
+    "given": "Iosif"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/18/102996-venerable-joseph-the-wonderworker-igumen-of-volokolamsk",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

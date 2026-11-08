@@ -1,0 +1,23 @@
+{
+  "id": "daniel-ii-of-serbia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Daniil al II-lea, Arhiepiscopul Serbiei",
+    "full": "Sfântul Ierarh Daniil al II-lea, Arhiepiscopul Serbiei",
+    "short": "Daniil al II-lea, Arhiepiscopul Serbiei",
+    "given": "Daniil"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/20/103597-saint-daniel-ii-archbishop-of-serbia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

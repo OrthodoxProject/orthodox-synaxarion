@@ -1,0 +1,27 @@
+{
+  "id": "ilaria",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Hilaria",
+    "short": "Hilaria",
+    "given": "Hilaria"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-ilaria",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-hrisant-si-daria-claudiu-si-ilaria-sf-mc-marian-diaconul/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "hypatius-the-healer-of-the-kiev-caves",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ipatie Tămăduitorul, de la Lavra Peșterilor",
+    "full": "Sfântul Cuvios Ipatie Tămăduitorul, de la Lavra Peșterilor",
+    "short": "Ipatie Tămăduitorul, de la Lavra Peșterilor",
+    "given": "Ipatie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/31/100957-venerable-hypatius-the-healer-of-the-kiev-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

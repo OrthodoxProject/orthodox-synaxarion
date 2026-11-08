@@ -1,0 +1,22 @@
+{
+  "id": "xenofon-ctitorul",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Xenophon the Founder",
+    "short": "Xenophon the Founder",
+    "given": "Xenophon"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cuviosul-xenofon-ctitorul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

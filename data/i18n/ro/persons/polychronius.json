@@ -1,0 +1,23 @@
+{
+  "id": "polychronius",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Policronie, nevoitorul din pustiile Siriei",
+    "full": "Sfântul Cuvios Policronie, nevoitorul din pustiile Siriei",
+    "short": "Policronie, nevoitorul din pustiile Siriei",
+    "given": "Policronie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/23/100596-venerable-polychronius-ascetic-of-the-syrian-deserts",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

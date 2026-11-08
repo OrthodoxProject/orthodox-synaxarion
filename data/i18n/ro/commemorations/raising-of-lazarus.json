@@ -1,0 +1,20 @@
+{
+  "id": "raising-of-lazarus",
+  "locale": "ro",
+  "names": {
+    "display": "Pomenirea învierii lui Lazăr"
+  },
+  "references": [
+    {
+      "source": "src:armenianchurch-ge",
+      "url": "https://armenianchurch.ge/en/kalendar-prazdnikov/description-2/march/commemoration-of-raising-of-lazarus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

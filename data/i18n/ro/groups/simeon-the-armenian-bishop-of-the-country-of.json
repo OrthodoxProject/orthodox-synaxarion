@@ -1,0 +1,20 @@
+{
+  "id": "simeon-the-armenian-bishop-of-the-country-of",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Simeon Armeanul, episcopul țării Persiei, și cei 150 împreună cu el"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/8_19.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

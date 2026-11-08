@@ -1,0 +1,22 @@
+{
+  "id": "nicholas-of-pskov-the-fool-for-christ",
+  "locale": "ro",
+  "names": {
+    "display": "Fericitul Nicolae (Salos) din Pskov, cel nebun pentru Hristos",
+    "short": "Nicolae din Pskov, cel nebun pentru Hristos",
+    "given": "Nicolae"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/28/100616-blessed-nicholas-salos-of-pskov-the-fool-for-christ",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

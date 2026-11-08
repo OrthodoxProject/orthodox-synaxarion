@@ -1,0 +1,23 @@
+{
+  "id": "john-psykhaitis",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mărt. Ioan Psihaitul",
+    "full": "Sfântul Cuvios Mărturisitor Ioan Psihaitul",
+    "short": "Ioan Psihaitul",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/26/101541-venerable-confessor-john-psykhaitis",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "micah",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mihei, ucenicul Sf. Cuv. Sergiu de Radonej",
+    "full": "Sfântul Cuvios Mihei, ucenicul Sfântului Cuvios Sergiu de Radonej",
+    "short": "Mihei, ucenicul Sf. Cuv. Sergiu de Radonej",
+    "given": "Mihei"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/06/101307-venerable-micah-disciple-of-venerable-sergius-of-radonezh",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

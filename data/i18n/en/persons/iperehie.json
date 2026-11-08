@@ -1,0 +1,22 @@
+{
+  "id": "iperehie",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Hyperechius",
+    "short": "Hyperechius",
+    "given": "Hyperechius"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfintii-mucenici-marchian-nicandru-iperehie-apolon-leonid-arie-gheorghe-selneniad-irineu-pamvon",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

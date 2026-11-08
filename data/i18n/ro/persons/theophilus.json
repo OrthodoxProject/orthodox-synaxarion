@@ -1,0 +1,23 @@
+{
+  "id": "theophilus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Teofil",
+    "full": "Sfântul Cuvios Teofil",
+    "short": "Teofil",
+    "given": "Teofil"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/21/103013-venerable-theophilus-and-jacob-abbots-of-omutch-pskov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

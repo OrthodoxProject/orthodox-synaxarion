@@ -1,0 +1,23 @@
+{
+  "id": "conan-of-pethukla-monastery",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Conan, egumenul Mănăstirii Pethukla",
+    "full": "Sfântul Cuvios Conan, egumenul Mănăstirii Pethukla",
+    "short": "Conan, egumenul Mănăstirii Pethukla",
+    "given": "Conan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/19/109055-venerable-conan-abbot-of-the-pethukla-monastery",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

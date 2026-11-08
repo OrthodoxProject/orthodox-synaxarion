@@ -1,0 +1,23 @@
+{
+  "id": "michael-the-soldier-of-potouka",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Drept Mihail Ostașul, din Potuka, Bulgaria",
+    "full": "Sfântul Drept Mihail Ostașul, din Potuka, Bulgaria",
+    "short": "Mihail Ostașul, din Potuka, Bulgaria",
+    "given": "Mihail"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/22/103372-righteous-michael-the-soldier-of-potouka-bulgaria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "mattheos",
+  "locale": "ro",
+  "names": {
+    "display": "Papa Matei, al 100-lea Papă al Alexandriei",
+    "short": "Matei, al 100-lea Papă al Alexandriei",
+    "given": "Matei"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/7_25.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

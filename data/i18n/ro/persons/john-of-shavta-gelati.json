@@ -1,0 +1,28 @@
+{
+  "id": "john-of-shavta-gelati",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ioan de la Șavta-Gelati",
+    "full": "Sfântul Ioan de la Șavta-Gelati",
+    "short": "Ioan de la Șavta-Gelati",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/09/103857-saint-john-of-shavta-gelati",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/russian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

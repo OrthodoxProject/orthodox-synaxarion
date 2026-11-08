@@ -1,0 +1,23 @@
+{
+  "id": "theotimus-of-lesser-scythia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Teotim, Episcopul Tomisului",
+    "full": "Sfântul Ierarh Teotim, Episcopul Tomisului",
+    "short": "Teotim, Episcopul Tomisului",
+    "given": "Teotim"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/20/103714-saint-theotimus-bishop-of-lesser-scythia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

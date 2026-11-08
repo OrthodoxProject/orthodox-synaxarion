@@ -1,0 +1,20 @@
+{
+  "id": "the-commemoration-of-the-appearance-of-the-bodies",
+  "locale": "ro",
+  "names": {
+    "display": "Pomenirea arătării trupurilor Sf. Ioan Botezătorul și Sf. Proroc Elisei"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/10_2.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

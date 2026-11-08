@@ -1,0 +1,22 @@
+{
+  "id": "olav-al-norvegiei",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Olaf, King of Norway",
+    "short": "Olaf, King of Norway",
+    "given": "Olaf"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-rege-martir-olav-al-norvegiei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

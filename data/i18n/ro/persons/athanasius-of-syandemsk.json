@@ -1,0 +1,23 @@
+{
+  "id": "athanasius-of-syandemsk",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Atanasie, egumenul de la Siandemsk, Vologda",
+    "full": "Sfântul Cuvios Atanasie, egumenul de la Siandemsk, Vologda",
+    "short": "Atanasie, egumenul de la Siandemsk, Vologda",
+    "given": "Atanasie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/18/100221-venerable-athanasius-abbot-of-syandemsk-vologda",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

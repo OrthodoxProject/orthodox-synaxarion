@@ -1,0 +1,23 @@
+{
+  "id": "takla-haymanot",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Takla Haimanot Etiopianul",
+    "full": "Sfântul Takla Haimanot Etiopianul",
+    "short": "Takla Haimanot Etiopianul",
+    "given": "Takla Haimanot"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/12_24.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

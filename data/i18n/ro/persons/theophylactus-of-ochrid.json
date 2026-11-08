@@ -1,0 +1,23 @@
+{
+  "id": "theophylactus-of-ochrid",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Teofilact al Ohridei",
+    "full": "Sfântul Ierarh Teofilact al Ohridei",
+    "short": "Teofilact al Ohridei",
+    "given": "Teofilact"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/31/205436-saint-theophylactus-of-ochrid",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

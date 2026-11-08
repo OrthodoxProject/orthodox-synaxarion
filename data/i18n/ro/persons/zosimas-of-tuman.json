@@ -1,0 +1,23 @@
+{
+  "id": "zosimas-of-tuman",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Zosima de la Tuman",
+    "full": "Sfântul Cuvios Zosima de la Tuman",
+    "short": "Zosima de la Tuman",
+    "given": "Zosima"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/08/108054-venerable-zosimas-of-tuman",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

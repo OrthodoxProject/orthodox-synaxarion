@@ -1,0 +1,23 @@
+{
+  "id": "macarius-of-kanev",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Macarie, arhimandritul din Kanev și Pereiaslavl",
+    "full": "Sfântul Sfințit Mucenic Macarie, arhimandritul din Kanev și Pereiaslavl",
+    "short": "Macarie, arhimandritul din Kanev și Pereiaslavl",
+    "given": "Macarie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/07/102535-hieromartyr-macarius-archimandrite-of-kanev-and-pereyaslavl",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "tryphon-of-vyatka",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Trifon, egumenul de la Viatka",
+    "full": "Sfântul Cuvios Trifon, egumenul de la Viatka",
+    "short": "Trifon, egumenul de la Viatka",
+    "given": "Trifon"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/08/102901-venerable-tryphon-abbot-of-vyatka",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

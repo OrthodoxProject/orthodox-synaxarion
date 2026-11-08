@@ -1,0 +1,23 @@
+{
+  "id": "ammonius-of-esna",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Amonie, Episcopul de Esna (Latopolis)",
+    "full": "Sfântul Ierarh Amonie, Episcopul de Esna (Latopolis)",
+    "short": "Amonie, Episcopul de Esna",
+    "given": "Amonie"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/4_14.html?lang=en#4",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "thais-of-egypt",
+  "locale": "ro",
+  "names": {
+    "display": "Fericita Taisia din Egipt",
+    "short": "Taisia din Egipt",
+    "given": "Taisia"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/10/101346-blessed-thais-of-egypt",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/08/102902-venerable-thais-of-egypt",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

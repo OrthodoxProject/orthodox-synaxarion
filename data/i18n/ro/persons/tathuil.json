@@ -1,0 +1,23 @@
+{
+  "id": "tathuil",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Tatuil și sora sa, Vevea",
+    "full": "Sfântul Mucenic Tatuil și sora sa, Vevea",
+    "short": "Tatuil și sora sa, Vevea",
+    "given": "Tatuil"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/05/102506-martyr-tathuil-and-his-sister-bebaia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "solochon-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Solohon, Pamfamir și Pamfalon din Calcedon"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/17/101408-martyrs-solochon-pamphamer-and-pamphalon-at-chalcedon",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

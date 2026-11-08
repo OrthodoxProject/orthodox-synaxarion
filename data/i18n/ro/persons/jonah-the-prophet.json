@@ -1,0 +1,28 @@
+{
+  "id": "jonah-the-prophet",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Proroc Iona",
+    "full": "Sfântul Proroc Iona",
+    "short": "Iona",
+    "given": "Iona"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/22/102696-prophet-jonah",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/22/102697-saint-jonah-the-presbyter-father-of-saint-theophanes-the-hymnogr",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

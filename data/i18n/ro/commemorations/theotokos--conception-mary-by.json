@@ -1,0 +1,20 @@
+{
+  "id": "theotokos--conception-mary-by",
+  "locale": "ro",
+  "names": {
+    "display": "Zămislirea Sfintei Fecioare Maria de către Ana"
+  },
+  "references": [
+    {
+      "source": "src:armenianchurch-ge",
+      "url": "https://armenianchurch.ge/en/kalendar-prazdnikov/description-2/december/conception-of-st-mary-by-anna",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

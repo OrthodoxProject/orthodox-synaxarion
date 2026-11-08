@@ -1,0 +1,23 @@
+{
+  "id": "pimen-of-salosi",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Pimen cel nebun pentru Hristos",
+    "full": "Sfântul Pimen cel nebun pentru Hristos",
+    "short": "Pimen cel nebun pentru Hristos",
+    "given": "Pimen"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/16/103830-saints-pimen-of-salosi-and-anton-meskhi-enlighteners-of-dagestan",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

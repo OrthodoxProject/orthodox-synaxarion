@@ -1,0 +1,20 @@
+{
+  "id": "icon-of-theotokos-the-milkgiver",
+  "locale": "ro",
+  "names": {
+    "display": "Icoana Maicii Domnului „Hrănitoarea cu lapte”"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/12/100162-icon-of-the-mother-of-god-the-milkgiver",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

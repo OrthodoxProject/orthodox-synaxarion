@@ -1,0 +1,23 @@
+{
+  "id": "archpriest-vasily-martysz",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Noul Mc. Vasile Martysz, protoiereul",
+    "full": "Sfântul Noul Mucenic Vasile Martysz, protoiereul",
+    "short": "Vasile Martysz, protoiereul",
+    "given": "Vasile"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/04/148978-new-martyr-archpriest-vasily-martysz",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

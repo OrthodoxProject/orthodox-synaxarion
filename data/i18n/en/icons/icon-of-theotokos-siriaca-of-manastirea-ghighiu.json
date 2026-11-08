@@ -1,0 +1,20 @@
+{
+  "id": "icon-of-theotokos-siriaca-of-manastirea-ghighiu",
+  "locale": "en",
+  "names": {
+    "display": "Icon of the Mother of God \"Siriaca\" of Ghighiu Monastery"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoane-maicii-domnului-siriaca-de-la-manastirea-ghighiu",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

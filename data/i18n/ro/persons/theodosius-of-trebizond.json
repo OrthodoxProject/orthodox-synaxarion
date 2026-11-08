@@ -1,0 +1,23 @@
+{
+  "id": "theodosius-of-trebizond",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Teodosie, Mitropolitul Trapezuntului",
+    "full": "Sfântul Cuvios Teodosie, Mitropolitul Trapezuntului",
+    "short": "Teodosie, Mitropolitul Trapezuntului",
+    "given": "Teodosie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/11/100152-venerable-theodosius-metropolitan-of-trebizond",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

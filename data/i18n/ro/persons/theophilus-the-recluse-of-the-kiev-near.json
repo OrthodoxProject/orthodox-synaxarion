@@ -1,0 +1,23 @@
+{
+  "id": "theophilus-the-recluse-of-the-kiev-near",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Teofil Zăvorâtul, de la Peșterile Apropiate din Kiev",
+    "full": "Sfântul Cuvios Teofil Zăvorâtul, de la Peșterile Apropiate din Kiev",
+    "short": "Teofil Zăvorâtul, de la Peșterile Apropiate din Kiev",
+    "given": "Teofil"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/24/103047-venerable-theophilus-the-recluse-of-the-kiev-near-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

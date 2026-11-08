@@ -1,0 +1,23 @@
+{
+  "id": "concordius-of-spoleto",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Concordie din Spoleto",
+    "full": "Sfântul Mucenic Concordie din Spoleto",
+    "short": "Concordie din Spoleto",
+    "given": "Concordie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/04/101607-martyr-concordius-of-spoleto",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

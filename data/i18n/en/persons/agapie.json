@@ -1,0 +1,22 @@
+{
+  "id": "agapie",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Agapius",
+    "short": "Agapius",
+    "given": "Agapius"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-agapie",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

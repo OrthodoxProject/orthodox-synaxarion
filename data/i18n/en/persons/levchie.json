@@ -1,0 +1,22 @@
+{
+  "id": "levchie",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Leucius",
+    "short": "Leucius",
+    "given": "Leucius"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-levchie",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ephraim-the-wonderworker",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Efrem făcătorul de minuni, ucenicul Sf. Avramie și arhimandritul din Smolensk",
+    "full": "Sfântul Cuvios Efrem făcătorul de minuni, ucenicul Sfântului Avramie și arhimandritul din Smolensk",
+    "short": "Efrem făcătorul de minuni, ucenicul Sf. Avramie și arhimandritul din Smolensk",
+    "given": "Efrem"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/21/102361-venerable-ephraim-the-wonderworker-disciple-of-abramius-and-arch",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

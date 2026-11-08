@@ -1,0 +1,23 @@
+{
+  "id": "hakob-the-orthodox",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Hakob (Iacob) Ortodoxul",
+    "full": "Sfântul Hakob (Iacob) Ortodoxul",
+    "short": "Hakob Ortodoxul",
+    "given": "Hakob"
+  },
+  "references": [
+    {
+      "source": "src:armenianchurch-ge",
+      "url": "https://armenianchurch.ge/en/kalendar-prazdnikov/description-2/december/commemoration-of-st-hakob-jacob-the-orthodox",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

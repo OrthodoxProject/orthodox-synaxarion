@@ -1,0 +1,23 @@
+{
+  "id": "anastasia-of-thessalonica",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Anastasia din Tesalonic",
+    "full": "Sfânta Muceniță Anastasia din Tesalonic",
+    "short": "Anastasia din Tesalonic",
+    "given": "Anastasia"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/30/103117-martyr-anastasia-of-thessalonica",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

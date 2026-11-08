@@ -1,0 +1,22 @@
+{
+  "id": "ita-of-irlanda",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Ita of Ireland",
+    "short": "Ita of Ireland",
+    "given": "Ita"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-ita-din-irlanda",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

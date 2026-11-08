@@ -1,0 +1,23 @@
+{
+  "id": "oleg",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Oleg, cneazul Brianskului",
+    "full": "Sfântul Oleg, cneazul Brianskului",
+    "short": "Oleg, cneazul Brianskului",
+    "given": "Oleg"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/20/102680-saint-oleg-prince-of-briansk",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

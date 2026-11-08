@@ -1,0 +1,22 @@
+{
+  "id": "mavrichie",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Maurice",
+    "short": "Maurice",
+    "given": "Maurice"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-mavrichie",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "jude-the-brother-of-the-lord",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ap. Iuda, ruda Domnului",
+    "full": "Sfântul Apostol Iuda, ruda Domnului",
+    "short": "Iuda, ruda Domnului",
+    "given": "Iuda"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/19/101752-apostle-jude-the-brother-of-the-lord",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

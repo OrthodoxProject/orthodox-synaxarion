@@ -1,0 +1,22 @@
+{
+  "id": "lev-of-optina",
+  "locale": "en",
+  "names": {
+    "display": "Saint Leo of Optina",
+    "short": "Leo of Optina",
+    "given": "Leo"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-lev-de-la-optina",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "metrophanes-of-voronezh",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Mitrofan (în schimă Macarie), Episcopul Voronejului",
+    "full": "Sfântul Ierarh Mitrofan (în schimă Macarie), Episcopul Voronejului",
+    "short": "Mitrofan, Episcopul Voronejului",
+    "given": "Mitrofan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/23/103378-saint-metrophanes-in-schema-macarius-bishop-of-voronezh",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

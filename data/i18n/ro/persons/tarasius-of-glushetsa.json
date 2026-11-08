@@ -1,0 +1,23 @@
+{
+  "id": "tarasius-of-glushetsa",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Tarasie de la Glușița",
+    "full": "Sfântul Cuvios Tarasie de la Glușița",
+    "short": "Tarasie de la Glușița",
+    "given": "Tarasie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/12/108929-saint-tarasius-of-glushetsa",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

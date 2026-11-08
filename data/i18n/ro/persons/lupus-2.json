@@ -1,0 +1,23 @@
+{
+  "id": "lupus-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Lup",
+    "full": "Sfântul Mucenic Lup",
+    "short": "Lup",
+    "given": "Lup"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/26/103062-martyr-lupus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

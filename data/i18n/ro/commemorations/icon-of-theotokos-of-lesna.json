@@ -1,0 +1,20 @@
+{
+  "id": "icon-of-theotokos-of-lesna",
+  "locale": "ro",
+  "names": {
+    "display": "Icoana Maicii Domnului de la Lesna"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/14/108955-icon-of-the-mother-of-god-of-lesna",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "nestor-of-decani-sr",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Nestor de la Decani",
+    "full": "Sfântul Nestor de la Decani",
+    "short": "Nestor de la Decani",
+    "given": "Nestor"
+  },
+  "references": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

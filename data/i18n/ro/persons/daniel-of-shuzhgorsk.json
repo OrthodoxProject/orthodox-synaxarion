@@ -1,0 +1,23 @@
+{
+  "id": "daniel-of-shuzhgorsk",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Daniil, egumenul de la Șujgorsk, Novgorod",
+    "full": "Sfântul Cuvios Daniil, egumenul de la Șujgorsk, Novgorod",
+    "short": "Daniil, egumenul de la Șujgorsk, Novgorod",
+    "given": "Daniil"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/21/102685-venerable-daniel-abbot-of-shuzhgorsk-novgorod",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

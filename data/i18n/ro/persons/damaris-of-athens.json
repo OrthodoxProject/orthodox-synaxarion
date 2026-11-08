@@ -1,0 +1,23 @@
+{
+  "id": "damaris-of-athens",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Damaris din Atena",
+    "full": "Sfânta Damaris din Atena",
+    "short": "Damaris din Atena",
+    "given": "Damaris"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/03/206394-saint-damaris-of-athens",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

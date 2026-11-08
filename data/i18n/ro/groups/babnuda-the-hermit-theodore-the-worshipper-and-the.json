@@ -1,0 +1,20 @@
+{
+  "id": "babnuda-the-hermit-theodore-the-worshipper-and-the",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Babnuda (Pafnutie) Pustnicul, Teodor Închinătorul și cei o sută de mucenici"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/8_25.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

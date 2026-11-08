@@ -1,0 +1,23 @@
+{
+  "id": "christos-of-preveza",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Hristos din Preveza",
+    "full": "Sfântul Mucenic Hristos din Preveza",
+    "short": "Hristos din Preveza",
+    "given": "Hristos"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/05/205385-martyr-christos-of-preveza",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

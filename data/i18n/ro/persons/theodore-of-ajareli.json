@@ -1,0 +1,23 @@
+{
+  "id": "theodore-of-ajareli",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Teodor din Ajareli",
+    "full": "Sfântul Teodor din Ajareli",
+    "short": "Teodor din Ajareli",
+    "given": "Teodor"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/26/205307-saint-theodore-of-ajareli",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

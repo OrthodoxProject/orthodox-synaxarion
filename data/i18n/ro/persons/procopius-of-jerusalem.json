@@ -1,0 +1,23 @@
+{
+  "id": "procopius-of-jerusalem",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Procopie din Ierusalim",
+    "full": "Sfântul Procopie din Ierusalim",
+    "short": "Procopie din Ierusalim",
+    "given": "Procopie"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/11_14.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

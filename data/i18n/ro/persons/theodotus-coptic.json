@@ -1,0 +1,23 @@
+{
+  "id": "theodotus-coptic",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Teodot, episcopul",
+    "full": "Sfântul Ierarh Teodot, episcopul",
+    "short": "Teodot, episcopul",
+    "given": "Teodot"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/7_6.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ephraim-the-wonderworker-of-novy-torg",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Efrem făcătorul de minuni, egumenul din Novîi Torg",
+    "full": "Sfântul Cuvios Efrem făcătorul de minuni, egumenul din Novîi Torg",
+    "short": "Efrem făcătorul de minuni, egumenul din Novîi Torg",
+    "given": "Efrem"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/28/100330-venerable-ephraim-the-wonderworker-abbot-of-novy-torg",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

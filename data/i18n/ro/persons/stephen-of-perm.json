@@ -1,0 +1,23 @@
+{
+  "id": "stephen-of-perm",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ștefan, Episcopul Permului",
+    "full": "Sfântul Ierarh Ștefan, Episcopul Permului",
+    "short": "Ștefan, Episcopul Permului",
+    "given": "Ștefan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/26/101208-saint-stephen-bishop-of-perm",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

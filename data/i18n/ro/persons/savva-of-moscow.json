@@ -1,0 +1,23 @@
+{
+  "id": "savva-of-moscow",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Sava, egumenul din Moscova",
+    "full": "Sfântul Cuvios Sava, egumenul din Moscova",
+    "short": "Sava, egumenul din Moscova",
+    "given": "Sava"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/13/107800-venerable-savva-abbot-of-moscow",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

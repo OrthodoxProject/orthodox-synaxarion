@@ -1,0 +1,23 @@
+{
+  "id": "kozman-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Cozman",
+    "full": "Sfântul Mucenic Cozman",
+    "short": "Cozman",
+    "given": "Cozman"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/17/205492-martyr-kozman",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

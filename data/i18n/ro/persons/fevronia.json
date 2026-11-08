@@ -1,0 +1,23 @@
+{
+  "id": "fevronia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Fevronia, făcătoarea de minuni din Murom",
+    "full": "Sfânta Fevronia, făcătoarea de minuni din Murom",
+    "short": "Fevronia, făcătoarea de minuni din Murom",
+    "given": "Fevronia"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/25/101811-saints-peter-and-fevronia-tonsured-david-and-euphrosyne-wonderwo",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

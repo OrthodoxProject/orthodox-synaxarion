@@ -1,0 +1,28 @@
+{
+  "id": "paphnutius-the-recluse-of-the-kiev-caves",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Pafnutie Zăvorâtul, de la Lavra Peșterilor",
+    "full": "Sfântul Cuvios Pafnutie Zăvorâtul, de la Lavra Peșterilor",
+    "short": "Pafnutie Zăvorâtul, de la Lavra Peșterilor",
+    "given": "Pafnutie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/15/100527-venerable-paphnutius-the-recluse-of-the-kiev-caves",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/15/100528-venerable-paphnutius-and-euphrosyn-of-alexandria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

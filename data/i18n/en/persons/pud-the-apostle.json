@@ -1,0 +1,27 @@
+{
+  "id": "pud-the-apostle",
+  "locale": "en",
+  "names": {
+    "display": "Apostle Pudens",
+    "short": "Pudens",
+    "given": "Pudens"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-apostol-pud",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ap-aristarh-pud-si-trofim-sf-mc-crescent-harti/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

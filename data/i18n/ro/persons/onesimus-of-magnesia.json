@@ -1,0 +1,23 @@
+{
+  "id": "onesimus-of-magnesia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Onisim din Magnezia",
+    "full": "Sfântul Cuvios Onisim din Magnezia",
+    "short": "Onisim din Magnezia",
+    "given": "Onisim"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/14/102027-venerable-onesimus-of-magnesia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

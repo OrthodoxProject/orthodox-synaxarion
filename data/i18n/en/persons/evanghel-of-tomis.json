@@ -1,0 +1,27 @@
+{
+  "id": "evanghel-of-tomis",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Evangelus, Bishop of Tomis",
+    "short": "Evangelus, Bishop of Tomis",
+    "given": "Evangelus"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-evanghel-episcopul-tomisului",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-mare-mc-chiriachi-sf-cuv-toma-din-maleon-sf-mc-evanghel/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

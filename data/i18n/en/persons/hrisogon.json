@@ -1,0 +1,22 @@
+{
+  "id": "hrisogon",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Chrysogonus",
+    "short": "Chrysogonus",
+    "given": "Chrysogonus"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-hrisogon",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

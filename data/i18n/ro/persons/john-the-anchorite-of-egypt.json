@@ -1,0 +1,23 @@
+{
+  "id": "john-the-anchorite-of-egypt",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ioan Pustnicul, din Egipt",
+    "full": "Sfântul Cuvios Ioan Pustnicul, din Egipt",
+    "short": "Ioan Pustnicul, din Egipt",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/29/100939-venerable-john-the-anchorite-of-egypt",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

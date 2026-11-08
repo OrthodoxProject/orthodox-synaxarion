@@ -1,0 +1,23 @@
+{
+  "id": "hilarion-of-suzdal",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ilarion, Mitropolitul de Suzdal și Iuriev",
+    "full": "Sfântul Ierarh Ilarion, Mitropolitul de Suzdal și Iuriev",
+    "short": "Ilarion, Mitropolitul de Suzdal și Iuriev",
+    "given": "Ilarion"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/14/108906-saint-hilarion-metropolitan-of-suzdal-and-yuriev",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

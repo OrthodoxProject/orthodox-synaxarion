@@ -1,0 +1,23 @@
+{
+  "id": "clement-the-stylite-who-lived-as-an",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Clement Stâlpnicul, care s-a nevoit pe Muntele Sagmata, în Beoția",
+    "full": "Sfântul Cuvios Clement Stâlpnicul, care s-a nevoit pe Muntele Sagmata, în Beoția",
+    "short": "Clement Stâlpnicul, care s-a nevoit pe Muntele Sagmata, în Beoția",
+    "given": "Clement"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/27/100305-saint-clement-the-stylite-who-lived-as-an-ascetic-on-mount-sgmat",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

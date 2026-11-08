@@ -1,0 +1,20 @@
+{
+  "id": "exaltation-of-the-cross--forefeast",
+  "locale": "ro",
+  "names": {
+    "display": "Înainte-prăznuirea Înălțării Sfintei Cruci"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/13/102592-forefeast-of-the-elevation-of-the-cross",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

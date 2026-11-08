@@ -1,0 +1,20 @@
+{
+  "id": "hilarion-of-gdov-and-pskov-lake",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ilarion, egumenul de la Gdov și de la lacul Pskov"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/21/103012-venerable-hilarion-abbot-of-gdov-and-pskov-lake",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

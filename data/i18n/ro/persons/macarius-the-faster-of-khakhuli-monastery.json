@@ -1,0 +1,23 @@
+{
+  "id": "macarius-the-faster-of-khakhuli-monastery",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Macarie Postitorul, egumenul Mănăstirii Hahuli",
+    "full": "Sfântul Cuvios Macarie Postitorul, egumenul Mănăstirii Hahuli",
+    "short": "Macarie Postitorul, egumenul Mănăstirii Hahuli",
+    "given": "Macarie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/21/205500-venerable-macarius-the-faster-abbot-of-the-khakhuli-monastery",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

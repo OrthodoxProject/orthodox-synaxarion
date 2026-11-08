@@ -1,0 +1,23 @@
+{
+  "id": "urban-of-rome",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Urban, Papa Romei",
+    "full": "Sfântul Sfințit Mucenic Urban, Papa Romei",
+    "short": "Urban, Papa Romei",
+    "given": "Urban"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/25/101533-hieromartyr-urban-pope-of-rome",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

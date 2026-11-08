@@ -1,0 +1,23 @@
+{
+  "id": "sedhom-bishay-in-domiat",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sedhom Bișai din Damietta",
+    "full": "Sfântul Sedhom Bișai din Damietta",
+    "short": "Sedhom Bișai din Damietta",
+    "given": "Sedhom"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/7_17.html?lang=en#4",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

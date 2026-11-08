@@ -1,0 +1,22 @@
+{
+  "id": "lavrentie-of-cernigov",
+  "locale": "en",
+  "names": {
+    "display": "Saint Lawrence of Chernigov",
+    "short": "Lawrence of Chernigov",
+    "given": "Lawrence"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-lavrentie-de-cernigov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "theodosios-the-younger",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Împărat Teodosie cel Tânăr",
+    "full": "Sfântul Împărat Teodosie cel Tânăr",
+    "short": "Teodosie cel Tânăr",
+    "given": "Teodosie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/29/100346-emperor-theodosios-the-younger",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

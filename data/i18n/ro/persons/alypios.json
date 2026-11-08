@@ -1,0 +1,23 @@
+{
+  "id": "alypios",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Alipie, zugravul de icoane, de la Peșterile Apropiate din Kiev",
+    "full": "Sfântul Cuvios Alipie, zugravul de icoane, de la Peșterile Apropiate din Kiev",
+    "short": "Alipie, zugravul de icoane, de la Peșterile Apropiate din Kiev",
+    "given": "Alipie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/17/102310-venerable-alypios-iconographer-of-the-kiev-near-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

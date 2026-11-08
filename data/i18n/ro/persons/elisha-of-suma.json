@@ -1,0 +1,23 @@
+{
+  "id": "elisha-of-suma",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Elisei din Suma, Solovăț",
+    "full": "Sfântul Cuvios Elisei din Suma, Solovăț",
+    "short": "Elisei din Suma, Solovăț",
+    "given": "Elisei"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/14/101722-venerable-elisha-of-suma-solovki",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

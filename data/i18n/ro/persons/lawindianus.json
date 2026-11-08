@@ -1,0 +1,23 @@
+{
+  "id": "lawindianus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Lavindian (Leontie)",
+    "full": "Sfântul Lavindian (Leontie)",
+    "short": "Lavindian",
+    "given": "Lavindian"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/5_1.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

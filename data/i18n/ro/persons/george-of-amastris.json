@@ -1,0 +1,23 @@
+{
+  "id": "george-of-amastris",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Gheorghe, Episcopul Amastridei, la Marea Neagră",
+    "full": "Sfântul Ierarh Gheorghe, Episcopul Amastridei, la Marea Neagră",
+    "short": "Gheorghe, Episcopul Amastridei, la Marea Neagră",
+    "given": "Gheorghe"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/21/100577-saint-george-bishop-of-amastris-on-the-black-sea",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

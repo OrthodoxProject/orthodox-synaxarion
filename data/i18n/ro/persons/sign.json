@@ -1,0 +1,21 @@
+{
+  "id": "sign",
+  "locale": "ro",
+  "names": {
+    "display": "Marele semn pe care l-a arătat Domnul pe vremea Sf. Papă Teofil",
+    "short": "Semnul pe care l-a arătat Domnul pe vremea Sf. Papă Teofil"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/12_14.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

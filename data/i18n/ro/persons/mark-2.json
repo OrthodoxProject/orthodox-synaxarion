@@ -1,0 +1,23 @@
+{
+  "id": "mark-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Marcu",
+    "full": "Sfântul Mucenic Marcu",
+    "short": "Marcu",
+    "given": "Marcu"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/03/101888-martyrs-mark-and-mocius",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

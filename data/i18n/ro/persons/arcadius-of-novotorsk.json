@@ -1,0 +1,33 @@
+{
+  "id": "arcadius-of-novotorsk",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Arcadie din Novotorsk",
+    "full": "Sfântul Cuvios Arcadie din Novotorsk",
+    "short": "Arcadie din Novotorsk",
+    "given": "Arcadie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/11/205398-venerable-arcadius-of-novotorsk",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/14/102298-venerable-arcadius-of-novotorsk",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/13/103537-venerable-arcadius-of-novotorsk",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

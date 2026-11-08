@@ -1,0 +1,23 @@
+{
+  "id": "euthymius-of-suzdal",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Eftimie din Suzdal",
+    "full": "Sfântul Cuvios Eftimie din Suzdal",
+    "short": "Eftimie din Suzdal",
+    "given": "Eftimie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/01/100964-venerable-euthymius-of-suzdal",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

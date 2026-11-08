@@ -1,0 +1,23 @@
+{
+  "id": "mark-the-anchorite-of-athens",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Marcu Pustnicul, din Atena",
+    "full": "Sfântul Cuvios Marcu Pustnicul, din Atena",
+    "short": "Marcu Pustnicul, din Atena",
+    "given": "Marcu"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/05/101003-venerable-mark-the-anchorite-of-athens",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

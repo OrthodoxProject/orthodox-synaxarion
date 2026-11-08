@@ -1,0 +1,23 @@
+{
+  "id": "paul-of-tamouh",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Pavel din Tamuh",
+    "full": "Sfântul Pavel din Tamuh",
+    "short": "Pavel din Tamuh",
+    "given": "Pavel"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/2_7.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

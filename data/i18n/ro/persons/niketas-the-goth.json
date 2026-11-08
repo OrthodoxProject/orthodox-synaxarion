@@ -1,0 +1,23 @@
+{
+  "id": "niketas-the-goth",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mare Mc. Nichita Gotul",
+    "full": "Sfântul Mare Mucenic Nichita Gotul",
+    "short": "Nichita Gotul",
+    "given": "Nichita"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/15/102615-greatmartyr-niketas-the-goth",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

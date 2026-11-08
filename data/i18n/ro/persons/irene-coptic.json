@@ -1,0 +1,23 @@
+{
+  "id": "irene-coptic",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Irina",
+    "full": "Sfânta Irina",
+    "short": "Irina",
+    "given": "Irina"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/12_21.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

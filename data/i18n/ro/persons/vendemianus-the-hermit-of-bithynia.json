@@ -1,0 +1,23 @@
+{
+  "id": "vendemianus-the-hermit-of-bithynia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Vendimian Pustnicul, din Bitinia",
+    "full": "Sfântul Cuvios Vendimian Pustnicul, din Bitinia",
+    "short": "Vendimian Pustnicul, din Bitinia",
+    "given": "Vendimian"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/01/100405-venerable-vendemianus-the-hermit-of-bithynia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

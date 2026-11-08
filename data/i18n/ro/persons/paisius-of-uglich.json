@@ -1,0 +1,28 @@
+{
+  "id": "paisius-of-uglich",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Paisie din Uglici",
+    "full": "Sfântul Cuvios Paisie din Uglici",
+    "short": "Paisie din Uglici",
+    "given": "Paisie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/08/100119-saint-paisius-of-uglich",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/06/101634-venerable-paisius-abbot-of-uglich",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

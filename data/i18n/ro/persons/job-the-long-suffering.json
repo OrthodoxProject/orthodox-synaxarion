@@ -1,0 +1,23 @@
+{
+  "id": "job-the-long-suffering",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Drept Iov cel mult-pătimitor",
+    "full": "Sfântul Drept Iov cel mult-pătimitor",
+    "short": "Iov cel mult-pătimitor",
+    "given": "Iov"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/06/101301-righteous-job-the-long-suffering",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

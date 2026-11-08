@@ -1,0 +1,23 @@
+{
+  "id": "constantine-of-synnada",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Constantin din Sinada",
+    "full": "Sfântul Cuvios Constantin din Sinada",
+    "short": "Constantin din Sinada",
+    "given": "Constantin"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/26/103650-venerable-constantine-of-synnada",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

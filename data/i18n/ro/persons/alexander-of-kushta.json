@@ -1,0 +1,23 @@
+{
+  "id": "alexander-of-kushta",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Alexandru, egumenul de la Kușta, Vologda",
+    "full": "Sfântul Cuvios Alexandru, egumenul de la Kușta, Vologda",
+    "short": "Alexandru, egumenul de la Kușta, Vologda",
+    "given": "Alexandru"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/09/101672-venerable-alexander-abbot-of-kushta-vologda",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

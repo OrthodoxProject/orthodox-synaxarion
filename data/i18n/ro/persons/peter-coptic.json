@@ -1,0 +1,23 @@
+{
+  "id": "peter-coptic",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Petru, pecetea mucenicilor, al 17-lea Papă al Alexandriei",
+    "full": "Sfântul Ierarh Petru, pecetea mucenicilor, al 17-lea Papă al Alexandriei",
+    "short": "Petru, pecetea mucenicilor, al 17-lea Papă al Alexandriei",
+    "given": "Petru"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/3_29.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

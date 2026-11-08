@@ -1,0 +1,22 @@
+{
+  "id": "hagi-gheorghe-athonitul",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Hadji-George the Athonite",
+    "short": "Hadji-George the Athonite",
+    "given": "Hadji-George"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-hagi-gheorghe-athonitul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

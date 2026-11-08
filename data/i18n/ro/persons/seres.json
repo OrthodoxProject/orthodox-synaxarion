@@ -1,0 +1,23 @@
+{
+  "id": "seres",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Noul Mc. Seres",
+    "full": "Sfântul Noul Mucenic Seres",
+    "short": "Seres",
+    "given": "Seres"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/01/101265-new-martyr-acacius-martyr-of-mount-athos-and-seres",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

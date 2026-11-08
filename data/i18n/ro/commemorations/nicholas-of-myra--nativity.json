@@ -1,0 +1,20 @@
+{
+  "id": "nicholas-of-myra--nativity",
+  "locale": "ro",
+  "names": {
+    "display": "Nașterea Sf. Ier. Nicolae, făcătorul de minuni"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/29/206397-nativity-of-saint-nicholas-the-wonderworker",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

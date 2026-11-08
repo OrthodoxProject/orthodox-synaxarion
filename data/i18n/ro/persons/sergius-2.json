@@ -1,0 +1,23 @@
+{
+  "id": "sergius-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Serghie (Srebrianski), noul mărturisitor din Tver",
+    "full": "Sfântul Cuvios Serghie (Srebrianski), noul mărturisitor din Tver",
+    "short": "Serghie, noul mărturisitor din Tver",
+    "given": "Serghie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/23/103912-venerable-sergius-srebryansky-the-new-confessor-of-tver",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

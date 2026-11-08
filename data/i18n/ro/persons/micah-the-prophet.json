@@ -1,0 +1,23 @@
+{
+  "id": "micah-the-prophet",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Proroc Miheia",
+    "full": "Sfântul Proroc Miheia",
+    "short": "Miheia",
+    "given": "Miheia"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/05/100100-prophet-micah",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

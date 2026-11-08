@@ -1,0 +1,22 @@
+{
+  "id": "prov",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Probus",
+    "short": "Probus",
+    "given": "Probus"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-prov-0",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

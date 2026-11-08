@@ -1,0 +1,23 @@
+{
+  "id": "stephen-the-new-light-of-constantinople",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ștefan „Noua Lumină” din Constantinopol",
+    "full": "Sfântul Ștefan „Noua Lumină” din Constantinopol",
+    "short": "Ștefan „Noua Lumină” din Constantinopol",
+    "given": "Ștefan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/09/103509-saint-stephen-the-new-light-of-constantinople",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

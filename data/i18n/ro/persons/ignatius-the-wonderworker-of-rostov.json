@@ -1,0 +1,23 @@
+{
+  "id": "ignatius-the-wonderworker-of-rostov",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ignatie făcătorul de minuni, Episcopul Rostovului",
+    "full": "Sfântul Ierarh Ignatie făcătorul de minuni, Episcopul Rostovului",
+    "short": "Ignatie făcătorul de minuni, Episcopul Rostovului",
+    "given": "Ignatie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/28/101554-saint-ignatius-the-wonderworker-bishop-of-rostov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

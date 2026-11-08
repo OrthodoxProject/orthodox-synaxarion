@@ -1,0 +1,23 @@
+{
+  "id": "crescens-of-the-seventy",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ap. Crescent",
+    "full": "Sfântul Apostol Crescent",
+    "short": "Crescent",
+    "given": "Crescent"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/30/102133-apostle-crescens-of-the-seventy",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

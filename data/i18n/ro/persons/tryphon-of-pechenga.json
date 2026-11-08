@@ -1,0 +1,23 @@
+{
+  "id": "tryphon-of-pechenga",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Trifon, egumenul de la Pecenga",
+    "full": "Sfântul Cuvios Trifon, egumenul de la Pecenga",
+    "short": "Trifon, egumenul de la Pecenga",
+    "given": "Trifon"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/15/103552-venerable-tryphon-abbot-of-pechenga",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

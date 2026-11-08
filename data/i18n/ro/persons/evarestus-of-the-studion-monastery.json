@@ -1,0 +1,23 @@
+{
+  "id": "evarestus-of-the-studion-monastery",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Evarest de la Mănăstirea Studion",
+    "full": "Sfântul Cuvios Evarest de la Mănăstirea Studion",
+    "short": "Evarest de la Mănăstirea Studion",
+    "given": "Evarest"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/26/103651-venerable-evarestus-of-the-studion-monastery",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

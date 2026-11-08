@@ -1,0 +1,23 @@
+{
+  "id": "bishai-anoub",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Bișai Anub",
+    "full": "Sfântul Bișai Anub",
+    "short": "Bișai Anub",
+    "given": "Bișai"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/10_19.html?lang=en#4",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

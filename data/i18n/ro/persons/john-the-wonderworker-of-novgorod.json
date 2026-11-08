@@ -1,0 +1,23 @@
+{
+  "id": "john-the-wonderworker-of-novgorod",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ioan făcătorul de minuni, Arhiepiscopul Novgorodului",
+    "full": "Sfântul Ierarh Ioan făcătorul de minuni, Arhiepiscopul Novgorodului",
+    "short": "Ioan făcătorul de minuni, Arhiepiscopul Novgorodului",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/07/102533-saint-john-the-wonderworker-archbishop-of-novgorod",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

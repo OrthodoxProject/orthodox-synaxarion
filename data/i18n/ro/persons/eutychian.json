@@ -1,0 +1,23 @@
+{
+  "id": "eutychian",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Eutihian",
+    "full": "Sfântul Mucenic Eutihian",
+    "short": "Eutihian",
+    "given": "Eutihian"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/17/102317-martyrs-straton-philip-eutychian-and-cyprian-of-nicomedia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

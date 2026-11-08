@@ -1,0 +1,20 @@
+{
+  "id": "99-martyred-fathers-of-crete",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții 99 de Părinți mucenici din Creta"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/07/102897-99-martyred-fathers-of-crete",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

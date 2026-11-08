@@ -5,15 +5,23 @@ import Provenance from "../../../components/Provenance.astro";
 import Texts from "../../../components/Texts.astro";
 import Base from "../../../layouts/Base.astro";
 import { bibleRefText, commName, edtfText, languageName, linkOf, localeOf, nameOf, placeText, readingRoleText, ruleText, vocab } from "../../../lib/format.ts";
-import { ds, feastIds, href, record } from "../../../lib/site.ts";
+import { redirectPage } from "../../../lib/redirect.ts";
+import { aliasesOf, ds, feastIds, href, record } from "../../../lib/site.ts";
 import { LANGS, t, type Lang } from "../../../lib/ui.ts";
 
 export function getStaticPaths() {
-  return LANGS.flatMap((lang) => feastIds().map((id) => ({ params: { lang, id } })));
+  return LANGS.flatMap((lang) => [
+    ...feastIds().map((id) => ({ params: { lang, id } })),
+    // Every former id, even of a saint's day: a merge can join a feast with a page to a saint's day shown on its saint's page.
+    ...aliasesOf("commemorations").map(({ alias, id }) => ({ params: { lang, id: alias }, props: { movedTo: `comm:${id}` } })),
+  ]);
 }
 
 type Rec = Record<string, any>;
 const lang = Astro.params.lang as Lang;
+// The old address of a former id leads to where the commemoration is shown now: its page, or its saint's.
+const { movedTo } = Astro.props as { movedTo?: string };
+if (movedTo) return redirectPage(movedTo, lang);
 const id = Astro.params.id as string;
 const ref = `comm:${id}`;
 const rec = record("commemorations", id) as Rec;

@@ -149,6 +149,18 @@ describe("English titles", () => {
     // "and the North Caucasus people" is part of the title of the second saint.
     assert.deepEqual(parseEn("Saints Pimen of Salosi and Anton Meskhi, Enlighteners of Dagestan and the North Caucasus people").names.map((n) => n.given), ["Pimen", "Anton"]);
   });
+  it("does not take a second place followed by more words about the saint for a second saint", () => {
+    const innocent = parseEn("Saint Innocent of Komél and Vologda disciple of Saint Nilus of Sora");
+    assert.equal(innocent.kind, "saint");
+    assert.deepEqual(innocent.names.map((n) => n.text), ["Innocent of Komél and Vologda disciple of Saint Nilus of Sora"]);
+    assert.deepEqual(parseEn("Saint Simon, Bishop of Vladimir and Suzdal of the Kiev Near Caves").names.map((n) => n.text), ["Simon, Bishop of Vladimir and Suzdal of the Kiev Near Caves"]);
+    // A name with its own epithet or place is a second saint.
+    assert.deepEqual(parseEn("Saint Gregory of Nyssa and Basil the Great").names.map((n) => n.given), ["Gregory", "Basil"]);
+    assert.deepEqual(
+      parseEn("Commemoration of St. John the Patriarch of Jerusalem, Armenian Patriarch St. John of Otzoon, St. John of Vorotan and St. Gregory of Datev").names.map((n) => n.given),
+      ["John", "Gregory"],
+    );
+  });
   it("does not take a title for a name", () => {
     const joachim = parseEn("Holy and Righteous Ancestors of God, Joachim and Anna");
     assert.equal(joachim.kind, "saints");
@@ -448,6 +460,23 @@ describe("matching the sources", () => {
     const russian = builder.lines.get("russian")?.get("01-15") ?? [];
     assert.equal(russian.length, 1);
     assert.equal(russian[0]?.clusters.length, 2);
+  });
+
+  it("writes one saint for a line that names him with two places (St Innocent of Komél and Vologda)", () => {
+    const innocent: SourceData = {
+      ...data,
+      doxologia: [],
+      oca: [2026, 2028].map((year) => ({ id: "900003", title: "Saint Innocent of Komél and Vologda disciple of Saint Nilus of Sora", path: `/saints/lives/${year}/03/19/900003-saint-innocent`, year, month: 3, day: 19, order: 0 })),
+    };
+    const existing = loadExisting(join(REPO_ROOT, "tests", "fixtures", "minimal", "data"));
+    const builder = new Builder(existing);
+    builder.russian(ocaUnits(innocent, [2026, 2028]).fixed);
+    const output = new RecordWriter(existing, { clusters: builder.clusters, lines: builder.lines, movable: builder.movable, stats: builder.stats }).write();
+    const persons = [...output.files.keys()].filter((k) => k.startsWith("persons/"));
+    assert.equal(persons.length, 1);
+    const id = persons[0]?.replace(/^persons\/|\.json$/g, "");
+    assert.equal(output.files.get(`i18n/en/persons/${id}.json`)?.names.display, "Saint Innocent of Komél and Vologda disciple of Saint Nilus of Sora");
+    assert.deepEqual(output.files.get(`commemorations/${id}--repose.json`)?.subjects, [`person:${id}`]);
   });
 
   it("finds a saint of the Russian list on the Menaion date, not on the civil date (St Seraphim of Sarov)", () => {

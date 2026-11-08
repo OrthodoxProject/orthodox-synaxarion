@@ -1,9 +1,8 @@
 {
-  "id": "innocent-of-komel-and-vologda-disciple-of-nilus-of-sora",
+  "id": "innocent-of-komel--repose",
   "kind": "repose",
   "subjects": [
-    "person:innocent-of-komel",
-    "person:vologda-disciple-of-nilus-of-sora"
+    "person:innocent-of-komel"
   ],
   "date_rule": {
     "type": "fixed",
@@ -26,5 +25,8 @@
     "notes": [
       "Importat automat din oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "innocent-of-komel-and-vologda-disciple-of-nilus-of-sora"
+  ]
 }

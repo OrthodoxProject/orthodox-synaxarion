@@ -13,7 +13,7 @@ import { isAllowed, parseRobots } from "../tools/lib/import/robots.ts";
 import { parseMonth } from "../tools/lib/import/sources/doxologia.ts";
 import { parseDay } from "../tools/lib/import/sources/oca.ts";
 import { splitTitle, type PatriarhiaDay, type PatriarhiaItem } from "../tools/lib/import/sources/patriarhia.ts";
-import { cleanOverlayTitle, doxologiaUnits, julianMenaionDate, ocaUnits, overlayUnits, type SourceData } from "../tools/lib/import/units.ts";
+import { cleanOverlayTitle, copticUnits, doxologiaUnits, julianMenaionDate, ocaUnits, overlayUnits, parseCopticTitle, type SourceData } from "../tools/lib/import/units.ts";
 import { REPO_ROOT } from "../tools/lib/validate.ts";
 
 describe("robots.txt", () => {
@@ -96,6 +96,13 @@ describe("Romanian titles", () => {
     assert.equal(abbreviateRo("Sfântul Mucenic Pigasie"), "Sf. Mc. Pigasie");
     assert.equal(abbreviateRo("Sfânta Cuvioasă Parascheva"), "Sf. Cuv. Parascheva");
   });
+  it("does not take a second see or a second epithet for a second saint", () => {
+    assert.deepEqual(parseRo("Sfântul Ierarh Filaret, Mitropolitul Moscovei și Kolomnei").names.map((n) => n.text), ["Filaret, Mitropolitul Moscovei și Kolomnei"]);
+    assert.deepEqual(parseRo("Sfântul Grigorie Kallidis, Arhiepiscopul Irakliei și Redestului").names.map((n) => n.text), ["Grigorie Kallidis, Arhiepiscopul Irakliei și Redestului"]);
+    assert.deepEqual(parseRo("Sfântul Iustin Martirul și Filosoful").names.map((n) => n.text), ["Iustin Martirul și Filosoful"]);
+    // After a comma, "și" names another saint.
+    assert.deepEqual(parseRo("Sf. Ier. Epifanie, arhiepiscopul Ciprului, și Gherman, patriarhul Constantinopolului").names.map((n) => n.given), ["Epifanie", "Gherman"]);
+  });
 });
 
 describe("English titles", () => {
@@ -134,6 +141,96 @@ describe("English titles", () => {
   it("does not take a place for a second saint", () => {
     assert.equal(parseEn("Nicholas of Ohrid and Žiča").names.length, 1);
     assert.equal(parseEn("Holy New Martyr Gorazd, Bishop of Slovakia and the Czech Lands").names.length, 1);
+    assert.deepEqual(parseEn("Martyr Gorazd of Prague, Bohemia and Moravo-Cilezsk").names.map((n) => n.text), ["Gorazd of Prague, Bohemia and Moravo-Cilezsk"]);
+    assert.equal(parseEn("Hieromartyr Joanicus, Metropolitan of Montenegro and the Coast").names.length, 1);
+    assert.equal(parseEn("Venerable Theodore Trichinas “the Hair-Shirt Wearer” and Hermit Near Constantinople").names.length, 1);
+    // Saints named after a place stay saints.
+    assert.deepEqual(parseEn("Holy and Righteous Ancestors of God, Joachim and Anna").names.length, 2);
+  });
+  it("does not take an epithet or a title for a saint", () => {
+    assert.deepEqual(parseEn("Saint Damiane (Demetrius), King and Hymnographer").names.map((n) => n.text), ["Damiane, King and Hymnographer"]);
+    assert.equal(parseEn("Saint Theophanes the Confessor and Hymnographer, Bishop of Nicea").names.length, 1);
+    const slavs = parseEn("Equals of the Apostles and Teachers of the Slavs, Cyril and Methodius");
+    assert.equal(slavs.kind, "saints");
+    assert.deepEqual(slavs.holiness, ["equal_to_apostles"]);
+    assert.deepEqual(slavs.names.map((n) => n.given), ["Cyril", "Methodius"]);
+    assert.deepEqual(parseEn("Equals of the Apostles, Emperor Mirian and Empress Nana of Georgia").names.map((n) => n.text), ["Mirian", "Nana of Georgia"]);
+  });
+  it("reads a saint named with his mother as two saints", () => {
+    const p = parseEn("Equal of the Apostles and Emperor Constantine with his Mother Helen");
+    assert.equal(p.kind, "saints");
+    assert.deepEqual(p.names.map((n) => n.given), ["Constantine", "Helen"]);
+    assert.equal(p.names[1]?.gender, "female");
+  });
+  it("reads events in the life of a saint as events, not as saints", () => {
+    const nicholas = parseEn("Nativity of Saint Nicholas the Wonderworker");
+    assert.equal(nicholas.kind, "event");
+    assert.equal(nicholas.subject?.names[0]?.given, "Nicholas");
+    const andrew = parseEn("Entrance of the Apostle Andrew into Georgia");
+    assert.equal(andrew.kind, "event");
+    assert.deepEqual(andrew.subject?.holiness, ["apostle"]);
+    assert.equal(parseEn("The Meeting of the Mother of God and Saint Elizabeth").subject?.names[0]?.given, "Theotokos");
+    assert.equal(parseEn("Commemoration of the Shepherds in Bethlehem who were watching their flocks, and went to see the Lord").kind, "event");
+    const herman = parseEn("First Translation of the relics of Saint Herman, Archbishop of Kazan");
+    assert.equal(herman.kind, "relics_translation");
+    assert.equal(herman.subject?.names[0]?.given, "Herman");
+  });
+  it("recognises the feasts of the Theotokos and the days of an afterfeast", () => {
+    assert.equal(parseEn("The Nativity of our Most Holy Lady the Mother of God and Ever-Virgin Mary").feast, "nativity-of-the-theotokos");
+    assert.equal(parseEn("The Dormition of our Most Holy Lady the Mother of God and Ever-Virgin Mary").feast, "dormition-of-the-theotokos");
+    const second = parseEn("Second Day of the Nativity of our Lord");
+    assert.equal(second.kind, "afterfeast");
+    assert.equal(second.feast, "nativity-of-christ");
+  });
+});
+
+describe("Coptic titles", () => {
+  it("read relocations of relics as translations of the saint's relics", () => {
+    const simon = parseCopticTitle("The Relocation of the Body of St. Simon (Simeon) the Stylite to the city of Antioch.");
+    assert.equal(simon.kind, "relics_translation");
+    assert.equal(simon.subject?.names[0]?.text, "Simon the Stylite");
+    const john = parseCopticTitle("The Commemoration of the Relocation of the relics of St. John Chrysostom.");
+    assert.equal(john.kind, "relics_translation");
+    assert.equal(john.subject?.title, "Saint John Chrysostom");
+    const apakir = parseCopticTitle("The Commemoration of the Relocation of the Relics of Sts. Apakir and John.");
+    assert.deepEqual(apakir.subject?.names.map((n) => n.given), ["Apakir", "John"]);
+    assert.equal(apakir.subject?.title, "Saints Apakir and John");
+    const john2 = parseCopticTitle("The Arrival of the Holy Relic of St. John, the Short, to the Wilderness of Scetis.");
+    assert.equal(john2.kind, "relics_translation");
+    assert.equal(john2.subject?.names[0]?.text, "John, the Short");
+  });
+  it("read events as events of their saint", () => {
+    const severus = parseCopticTitle("The Coming of Saint Severus, Patriarch of Antioch, to Egypt");
+    assert.equal(severus.kind, "event");
+    assert.equal(severus.subject?.names[0]?.text, "Severus, Patriarch of Antioch");
+    assert.equal(parseCopticTitle("Raising of Lazarus from the dead.").subject?.names[0]?.text, "Lazarus");
+    assert.equal(parseCopticTitle("Consultation of the Chief Priests to put the righteous Lazarus to death").subject?.names[0]?.text, "Lazarus");
+    assert.equal(parseCopticTitle("The Commemoration of the Preaching of St. Bartholomew, the Apostle.").kind, "event");
+    // A church named after a saint is not the saint.
+    const cathedral = parseCopticTitle("The Inauguration of the New St. Mark Cathedral in the Monastery of Anba Rowais.");
+    assert.equal(cathedral.kind, "event");
+    assert.equal(cathedral.subject, undefined);
+    assert.equal(parseCopticTitle("The Beginning of the Fast of the Nativity (Advent) in the Coptic Church.").subject, undefined);
+  });
+  it("read numbered groups", () => {
+    const elders = parseCopticTitle("The Martyrdom of the Forty-Nine Saints, the Elders of Sheheat (Scetis).");
+    assert.equal(elders.kind, "group");
+    assert.equal(elders.count, 49);
+    assert.ok(elders.holiness.includes("martyr"));
+  });
+  it("split a line that names a saint and another commemoration", () => {
+    const timothy = parseCopticTitle("The Martyrdom of St. Timothy and the Relocation of the Body of St. Theodore, the Prince, to Shotb.");
+    assert.equal(timothy.kind, "saint");
+    assert.deepEqual(timothy.names.map((n) => n.text), ["Timothy"]);
+    assert.equal(timothy.also?.[0]?.kind, "relics_translation");
+    assert.equal(timothy.also?.[0]?.subject?.names[0]?.text, "Theodore, the Prince");
+    const luke = parseCopticTitle("The Commemoration of the Departure of St. Luke the Stylite and the Relocation of His Holy Relics.");
+    assert.equal(luke.title, "Saint Luke the Stylite");
+    assert.equal(luke.also?.[0]?.ofLine, true);
+    assert.equal(luke.also?.[0]?.title, "Relocation of the Holy Relics of Saint Luke the Stylite");
+    const two = parseCopticTitle("The Commemoration of the Martyrdom of St. Archelaus and the Martyrdom of Elisha the Hegumen.");
+    assert.deepEqual(two.names.map((n) => n.text), ["Archelaus", "Elisha the Hegumen"]);
+    assert.equal(two.title, "Saints Archelaus and Elisha the Hegumen");
   });
 });
 
@@ -308,5 +405,36 @@ describe("matching the sources", () => {
     const persons = [...output.files.keys()].filter((k) => k.startsWith("persons/"));
     assert.deepEqual(persons, ["persons/seraphim-of-sarov.json"]);
     assert.equal(output.files.get("i18n/en/persons/seraphim-of-sarov.json")?.names.display, "Venerable Seraphim, Wonderworker of Sarov");
+  });
+
+  it("keeps the two commemorations of one Coptic line on the same calendar line", () => {
+    const coptic: SourceData = {
+      accessed: "2026-11-08",
+      patriarhia: [],
+      doxologia: [],
+      oca: [],
+      coptic: [
+        { month: 3, day: 5, n: 2, title: "The Martyrdom of St. Timothy and the Relocation of the Body of St. Theodore, the Prince, to Shotb." },
+        { month: 4, day: 17, n: 1, title: "The Commemoration of the Departure of St. Luke the Stylite and the Relocation of His Holy Relics." },
+        { month: 2, day: 21, n: 2, title: "The Commemoration of the Relocation of the Body of Lazarus." },
+      ],
+      armenian: [],
+      overlays: [],
+    };
+    const existing = loadExisting(join(REPO_ROOT, "tests", "fixtures", "minimal", "data"));
+    const builder = new Builder(existing);
+    builder.coptic(copticUnits(coptic));
+    const output = new RecordWriter(existing, { clusters: builder.clusters, lines: builder.lines, movable: builder.movable, stats: builder.stats }).write();
+    const line = (date: string): string[] => output.files.get(`traditions/coptic/menaion/${date}.json`)?.entries.map((e: { commemorations: string[] }) => e.commemorations);
+    assert.deepEqual(line("03/05"), [["comm:timothy--repose", "comm:theodore--translation-of-relics"]]);
+    assert.equal(output.files.get("i18n/en/persons/theodore.json")?.names.display, "Saint Theodore, the Prince");
+    // "the Relocation of His Holy Relics": the relics of the saint of the line.
+    assert.deepEqual(line("04/17"), [["comm:luke-the-stylite--repose", "comm:luke-the-stylite--translation-of-relics"]]);
+    assert.deepEqual(output.files.get("commemorations/luke-the-stylite--translation-of-relics.json")?.subjects, ["person:luke-the-stylite"]);
+    // No person is named after a relocation.
+    const persons = [...output.files.keys()].filter((k) => k.startsWith("persons/")).sort();
+    assert.deepEqual(persons, ["persons/luke-the-stylite.json", "persons/theodore.json", "persons/timothy.json"]);
+    const lazarus = line("02/21")[0]?.[0]?.replace(/^comm:/, "");
+    assert.notEqual(output.files.get(`commemorations/${lazarus}.json`)?.kind, "repose");
   });
 });

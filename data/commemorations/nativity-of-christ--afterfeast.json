@@ -4,9 +4,9 @@
   "date_rule": {
     "type": "fixed",
     "month": 12,
-    "day": 28
+    "day": 26
   },
-  "duration_days": 3,
+  "duration_days": 5,
   "parent_feast": "comm:nativity-of-christ",
   "external_ids": {
     "oca": "103663"
@@ -26,6 +26,16 @@
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/12/30/103689-afterfeast-of-the-nativity-of-our-lord-and-savior-jesus-christ",
       "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/26/103647-second-day-of-the-nativity-of-our-lord",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/27/103658-third-day-of-the-nativity-of-our-lord",
+      "accessed": "2026-11-08"
     }
   ],
   "editorial": {
@@ -34,5 +44,9 @@
     "notes": [
       "Importat automat din oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "second-day-of-the-nativity-of-our--repose",
+    "third-day-of-the-nativity-of-our--repose"
+  ]
 }

@@ -1,0 +1,32 @@
+{
+  "id": "herman-of-kazan--translation-of-relics-2",
+  "kind": "relics_translation",
+  "subjects": [
+    "person:herman-of-kazan"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 23
+  },
+  "external_ids": {
+    "oca": "101790"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/23/101790-second-translation-of-the-relics-of-saint-herman-archbishop-of-k",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  },
+  "aliases": [
+    "second-translation-of-the-relics-of-herman--repose"
+  ]
+}

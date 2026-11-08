@@ -1,9 +1,6 @@
 {
   "id": "closing-of-the-pagan-temples-and-opening-of",
-  "kind": "repose",
-  "subjects": [
-    "group:closing-of-the-pagan-temples-and-opening-of"
-  ],
+  "kind": "event",
   "date_rule": {
     "type": "fixed",
     "month": 10,

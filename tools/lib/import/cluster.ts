@@ -289,14 +289,20 @@ export function addCitation(list: Citation[], c: Citation): void {
 /** Singular English honorific for one name of a list ("Martyrs" → "Martyr"). */
 const SINGULAR_EN = new Set(["martyrs", "hieromartyrs", "apostles", "prophets", "confessors", "venerables", "monks", "nuns", "virgins", "leaders", "fathers", "mothers", "hierarchs", "bishops", "passion-bearers", "newmartyrs", "wonderworkers", "princes", "myrrhbearers", "archangels", "deacons", "presbyters", "priests", "forefathers", "brothers", "sisters"]);
 
-export function singularEn(honorific: string): string {
-  return honorific
-    .split(/\s+/)
-    .filter(Boolean)
-    .map((w) => {
+/** Titles of a woman named after a man in the same line ("Emperor Constantine with his Mother Helen"). */
+const FEMALE_EN: Record<string, string> = { emperor: "Empress", king: "Queen", prince: "Princess", tsar: "Tsaritsa" };
+
+export function singularEn(honorific: string, gender?: Gender): string {
+  const words = honorific.split(/\s+/).filter(Boolean);
+  return words
+    .map((w, i) => {
       const lw = w.toLowerCase().replace(/[,:]$/, "");
       if (lw === "unmercenaries") return "Unmercenary";
       if (lw === "saints" || lw === "sts.") return "Saint";
+      if (lw === "equals") return w.replace(/s([,:]?)$/i, "$1");
+      if (gender === "female" && FEMALE_EN[lw]) return w.replace(/^\w+/, FEMALE_EN[lw] ?? "");
+      // "Equals of the Apostles", "Leaders of the Apostles": the apostles stay many.
+      if (i >= 2 && words[i - 1]?.toLowerCase() === "the" && words[i - 2]?.toLowerCase() === "of") return w;
       return SINGULAR_EN.has(lw) ? w.replace(/s([,:]?)$/i, "$1") : w;
     })
     .join(" ")
@@ -353,6 +359,6 @@ export function displayOf(parsed: ParsedTitle, part: NamePart, lang: "ro" | "en"
     }
     return { display: parsed.title.replace(/\.$/, "").trim() };
   }
-  const honorific = lang === "ro" ? singularRo(parsed.honorific, part.gender) : singularEn(parsed.honorific);
+  const honorific = lang === "ro" ? singularRo(parsed.honorific, part.gender) : singularEn(parsed.honorific, part.gender);
   return { display: `${honorific ? `${honorific} ` : ""}${part.text}`.trim() };
 }

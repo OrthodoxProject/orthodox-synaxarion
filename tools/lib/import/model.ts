@@ -96,5 +96,12 @@ export interface ParsedTitle {
   icon?: string;
   /** Ordinal of an ecumenical council (for kind council). */
   council?: number;
+  /**
+   * Other commemorations named by the same line: "The Martyrdom of St. Timothy
+   * and the Relocation of the Body of St. Theodore" is also a translation of relics.
+   */
+  also?: ParsedTitle[];
+  /** For a part of `also`: its subject is the saint of the line ("and the Relocation of His Holy Relics"). */
+  ofLine?: boolean;
   title: string;
 }

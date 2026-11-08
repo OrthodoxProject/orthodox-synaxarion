@@ -31,6 +31,13 @@
         "comm:olympia-of-insula-lesvos--repose"
       ],
       "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:chiril-2--repose",
+        "comm:metodie--repose"
+      ],
+      "confidence": "low"
     }
   ]
 }

@@ -28,6 +28,36 @@
       "source": "src:st-takla-synaxarium",
       "url": "https://st-takla.org/books/en/church/synaxarium/09-bashans/27-pashans-lazarus.html",
       "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/2_21.html?lang=en#2",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:st-takla-synaxarium",
+      "url": "https://st-takla.org/books/en/church/synaxarium/02-babah/21-baba-lazarus.html",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/7_21.html?lang=en#3",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:st-takla-synaxarium",
+      "url": "https://st-takla.org/books/en/church/synaxarium/07-baramhat/21-paramhat-lazarus.html",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/7_20.html?lang=en#2",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:st-takla-synaxarium",
+      "url": "https://st-takla.org/books/en/church/synaxarium/07-baramhat/20-paramhat-lazarus.html",
+      "accessed": "2026-11-08"
     }
   ],
   "editorial": {
@@ -38,5 +68,10 @@
       "Chipul sfințeniei nu reiese din titlu; „righteous” e provizoriu.",
       "Genul nu reiese din sursă; e de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "relocation-of-the-body-of-lazarus",
+    "consultation-of-the-chief-priests-to-put",
+    "raising-of-lazarus-from-the-dead"
+  ]
 }

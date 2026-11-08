@@ -24,6 +24,11 @@
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/09/05/102502-holy-prophet-zachariah-and-righteous-elizabeth-parents-of-saint",
       "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/30/109950-the-meeting-of-the-mother-of-god-and-saint-elizabeth",
+      "accessed": "2026-11-08"
     }
   ],
   "editorial": {
@@ -32,5 +37,8 @@
     "notes": [
       "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "elizabeth-3"
+  ]
 }

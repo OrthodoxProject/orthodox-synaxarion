@@ -1,0 +1,42 @@
+{
+  "id": "gorazd-of-prague--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:gorazd-of-prague"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 4
+  },
+  "external_ids": {
+    "oca": "102375"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/04/102375-martyr-gorazd-of-prague-bohemia-and-moravo-cilezsk",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/russian_saints.json",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gorazd_Pavl%C3%ADk"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  },
+  "aliases": [
+    "gorazd-of-slovakia-and-czech-lands",
+    "gorazd-of-prague-and-moravo-cilezsk"
+  ]
+}

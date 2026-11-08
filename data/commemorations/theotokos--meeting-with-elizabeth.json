@@ -1,0 +1,33 @@
+{
+  "id": "theotokos--meeting-with-elizabeth",
+  "kind": "event",
+  "subjects": [
+    "person:theotokos",
+    "person:elizabeth-the-prophet"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 30
+  },
+  "external_ids": {
+    "oca": "109950"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/30/109950-the-meeting-of-the-mother-of-god-and-saint-elizabeth",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  },
+  "aliases": [
+    "meeting-of-the-mother-of-god-and-elizabeth-3"
+  ]
+}

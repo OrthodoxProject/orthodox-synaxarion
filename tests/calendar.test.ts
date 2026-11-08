@@ -76,14 +76,29 @@ describe("Romanian Orthodox Church, 2026 (against the official calendar)", () =>
   const data = loadTradition(DATA, "romanian");
   const computed = new Map<string, Day>(buildYear(data, 2026, false).map((d) => [d.date, d]));
   const official = data.overrides.get(2026)?.days as Array<Record<string, any>>;
+  // Feast-day dispensations that no rule of the fasting model gives: only the official calendar has them.
+  const fastingGaps = [
+    { date: "2026-06-11", field: "fasting", computed: "oil_wine", official: "fish" },
+    { date: "2026-12-02", field: "fasting", computed: "strict", official: "fish" },
+  ];
 
   for (const o of official) {
     for (const key of ["tone", "eothinon", "fasting"] as const) {
       if (o[key] === undefined) continue;
+      if (key === "fasting" && fastingGaps.some((g) => g.date === o.date)) continue;
       it(`${o.date}: ${key} ${o[key]}`, () => assert.equal(computed.get(o.date)?.[key], o[key]));
     }
   }
-  it("agrees with every official tone, eothinon and fasting value", () => assert.deepEqual(compareWithOverrides(data, 2026), []));
+  it("agrees with every official tone, eothinon and fasting value, except two feast-day dispensations", () =>
+    assert.deepEqual(compareWithOverrides(data, 2026), fastingGaps));
+  it("gives fish only on the days the official calendar prints it", () => {
+    const fish = new Set(official.filter((o) => o.fasting === "fish").map((o) => o.date as string));
+    assert.deepEqual(
+      [...computed.values()].filter((d) => d.fasting === "fish" && !fish.has(d.date)).map((d) => d.date),
+      [],
+    );
+  });
+  it("gives no fish on the first Sunday of the Nativity fast, 15 November", () => assert.equal(day("romanian", "2026-11-15").fasting, "oil_wine"));
 
   it("puts the fixed lines of 7 November in calendar order", () =>
     assert.deepEqual(comms("romanian", "2026-11-07").slice(0, 2), ["comm:33-martyrs-of-melitene", "comm:lazarus-of-galesion--repose"]));
@@ -148,6 +163,26 @@ describe("Romanian Orthodox Church, other years", () => {
   });
   it("finds Moșii de toamnă on the Saturday before 8 November in 2027", () =>
     assert.deepEqual(datesOf("romanian", 2027, "comm:memorial-saturday-autumn"), ["2027-11-06"]));
+  it("gives fish on the weekends of the Nativity fast only from the Entry of the Theotokos (2027)", () => {
+    assert.equal(day("romanian", "2027-11-20").fasting, "oil_wine");
+    assert.equal(day("romanian", "2027-11-27").fasting, "fish");
+  });
+  it("gives fish on weekdays of the Nativity fast with a cross, but not on Wednesday and Friday (2027)", () => {
+    assert.equal(day("romanian", "2027-11-30").fasting, "fish"); // St Andrew, Tuesday
+    assert.equal(day("romanian", "2027-12-01").fasting, "strict"); // a blue cross on a Wednesday
+    assert.equal(day("romanian", "2027-12-02").fasting, "fish"); // Sts Paisius and Cleopa, Thursday
+  });
+  it("gives fish on Wednesdays and Fridays from Thomas Sunday to Pentecost (2027)", () => {
+    assert.equal(day("romanian", "2027-05-12").fasting, "fish");
+    assert.equal(day("romanian", "2027-06-11").fasting, "fish");
+    assert.equal(day("romanian", "2027-06-23").fasting, "fast_free");
+  });
+  it("gives fish in the Apostles' fast on weekends and on days with a cross (2028)", () => {
+    assert.equal(day("romanian", "2028-06-13").fasting, "oil_wine");
+    assert.equal(day("romanian", "2028-06-15").fasting, "fish");
+    assert.equal(day("romanian", "2028-06-16").fasting, "oil_wine");
+    assert.equal(day("romanian", "2028-06-17").fasting, "fish");
+  });
 });
 
 describe("other traditions", () => {

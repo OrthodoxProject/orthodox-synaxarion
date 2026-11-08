@@ -4,9 +4,41 @@
   "source": {
     "source": "src:calendar-patriarhia",
     "url": "https://calendar.patriarhia.ro/",
-    "accessed": "2026-11-07"
+    "accessed": "2026-11-08"
   },
   "days": [
+    {
+      "date": "2026-01-02",
+      "fasting": "fast_free"
+    },
+    {
+      "date": "2026-01-05",
+      "fasting": "strict"
+    },
+    {
+      "date": "2026-02-04",
+      "fasting": "fast_free"
+    },
+    {
+      "date": "2026-02-06",
+      "fasting": "fast_free"
+    },
+    {
+      "date": "2026-02-18",
+      "fasting": "no_meat"
+    },
+    {
+      "date": "2026-02-20",
+      "fasting": "no_meat"
+    },
+    {
+      "date": "2026-03-25",
+      "fasting": "fish"
+    },
+    {
+      "date": "2026-04-05",
+      "fasting": "fish"
+    },
     {
       "date": "2026-04-10",
       "flags": {
@@ -33,6 +65,14 @@
       }
     },
     {
+      "date": "2026-04-15",
+      "fasting": "fast_free"
+    },
+    {
+      "date": "2026-04-17",
+      "fasting": "fast_free"
+    },
+    {
       "date": "2026-04-19",
       "readings": [
         {
@@ -48,6 +88,122 @@
       ],
       "tone": 1,
       "eothinon": 1
+    },
+    {
+      "date": "2026-04-22",
+      "fasting": "fish"
+    },
+    {
+      "date": "2026-04-24",
+      "fasting": "fish"
+    },
+    {
+      "date": "2026-04-29",
+      "fasting": "fish"
+    },
+    {
+      "date": "2026-05-01",
+      "fasting": "fish"
+    },
+    {
+      "date": "2026-05-06",
+      "fasting": "fish"
+    },
+    {
+      "date": "2026-05-08",
+      "fasting": "fish"
+    },
+    {
+      "date": "2026-05-13",
+      "fasting": "fish"
+    },
+    {
+      "date": "2026-05-15",
+      "fasting": "fish"
+    },
+    {
+      "date": "2026-05-20",
+      "fasting": "fish"
+    },
+    {
+      "date": "2026-05-22",
+      "fasting": "fish"
+    },
+    {
+      "date": "2026-05-27",
+      "fasting": "fish"
+    },
+    {
+      "date": "2026-05-29",
+      "fasting": "fish"
+    },
+    {
+      "date": "2026-06-03",
+      "fasting": "fast_free"
+    },
+    {
+      "date": "2026-06-05",
+      "fasting": "fast_free"
+    },
+    {
+      "date": "2026-06-08",
+      "fasting": "fish"
+    },
+    {
+      "date": "2026-06-11",
+      "fasting": "fish"
+    },
+    {
+      "date": "2026-06-13",
+      "fasting": "fish"
+    },
+    {
+      "date": "2026-06-14",
+      "fasting": "fish"
+    },
+    {
+      "date": "2026-06-15",
+      "fasting": "fish"
+    },
+    {
+      "date": "2026-06-16",
+      "fasting": "fish"
+    },
+    {
+      "date": "2026-06-20",
+      "fasting": "fish"
+    },
+    {
+      "date": "2026-06-21",
+      "fasting": "fish"
+    },
+    {
+      "date": "2026-06-22",
+      "fasting": "fish"
+    },
+    {
+      "date": "2026-06-24",
+      "fasting": "fish"
+    },
+    {
+      "date": "2026-06-27",
+      "fasting": "fish"
+    },
+    {
+      "date": "2026-06-28",
+      "fasting": "fish"
+    },
+    {
+      "date": "2026-08-06",
+      "fasting": "fish"
+    },
+    {
+      "date": "2026-08-29",
+      "fasting": "strict"
+    },
+    {
+      "date": "2026-09-14",
+      "fasting": "strict"
     },
     {
       "date": "2026-11-01",
@@ -119,6 +275,18 @@
       "sunday_after_pentecost": 24
     },
     {
+      "date": "2026-11-21",
+      "fasting": "fish"
+    },
+    {
+      "date": "2026-11-22",
+      "fasting": "fish"
+    },
+    {
+      "date": "2026-11-23",
+      "fasting": "fish"
+    },
+    {
       "date": "2026-11-28",
       "readings": [
         {
@@ -167,6 +335,26 @@
       ]
     },
     {
+      "date": "2026-11-30",
+      "fasting": "fish"
+    },
+    {
+      "date": "2026-12-01",
+      "fasting": "fish"
+    },
+    {
+      "date": "2026-12-02",
+      "fasting": "fish"
+    },
+    {
+      "date": "2026-12-03",
+      "fasting": "fish"
+    },
+    {
+      "date": "2026-12-05",
+      "fasting": "fish"
+    },
+    {
       "date": "2026-12-06",
       "readings": [
         {
@@ -200,6 +388,22 @@
       "sunday_after_pentecost": 27
     },
     {
+      "date": "2026-12-07",
+      "fasting": "fish"
+    },
+    {
+      "date": "2026-12-12",
+      "fasting": "fish"
+    },
+    {
+      "date": "2026-12-13",
+      "fasting": "fish"
+    },
+    {
+      "date": "2026-12-19",
+      "fasting": "fish"
+    },
+    {
       "date": "2026-12-25",
       "readings": [
         {
@@ -217,6 +421,10 @@
       "flags": {
         "public_holiday": true
       }
+    },
+    {
+      "date": "2026-12-30",
+      "fasting": "fast_free"
     }
   ]
 }

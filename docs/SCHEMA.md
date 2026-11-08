@@ -145,7 +145,7 @@ npm run import
 
 | Sursă | Ce se ia | Unde ajunge |
 |---|---|---|
-| calendar.patriarhia.ro | titlul oficial al fiecărei zile din 2026, cu crucile și culorile lor | calendarul BOR (`romanian`), `official_titles` și semnele rândurilor |
+| calendar.patriarhia.ro | titlul oficial al fiecărei zile din 2026, cu crucile și culorile lor și cu notele de post | calendarul BOR (`romanian`), `official_titles`, semnele rândurilor și postul din `overrides/<an>.json` |
 | doxologia.ro | sfinții fiecărei zile din calendarul lunar, cu pagina fiecăruia | calendarul BOR, numele în română, `external_ids.doxologia` |
 | oca.org (Lives of the Saints) | pomenirile fiecărei zile, cu ID-ul OCA | calendarul rusesc (`russian`), numele în engleză, `external_ids.oca` |
 | orthodox-calendar | listele de sfinți locali ruși și sârbi (doar indexul: zi, nume, link) | `russian`, `serbian`; lista românească doar completează sfinții deja găsiți |
@@ -160,6 +160,7 @@ Cum lucrează:
 - **Pomenirile fixe ale OCA** sunt cele care cad în aceeași zi în 2026 și în 2028; celelalte țin de ciclul mobil și se lasă deoparte. La fel, duminicile, Săptămâna Mare și celelalte zile mobile din calendarul românesc.
 - **Patriarhia Ecumenică și Biserica Sârbă** primesc pomenirile pe care le au și calendarul BOR, și cel al OCA (Mineiul bizantin comun), cu `confidence: low`, plus sfinții locali sârbi. Biserica Greciei rămâne de completat.
 - **Sfinții universali** (Maica Domnului, arhanghelii, apostolii, prorocii, Sf. Ioan Botezătorul) din sinaxarul copt și din calendarul armean trimit la aceleași persoane ca în calendarele bizantine.
+- **Postul din calendarul oficial** (notele „Dezlegare la pește”, „Harți”, „Post” și „Dezlegare la brânză, lapte, ouă și pește” din titlul zilei) ajunge în `data/traditions/romanian/overrides/<an>.json`. Calendarul oficial tipărește toate dezlegările la pește, deci o zi în care [modelul de post](#calendarul-calculat) ar da pește, iar calendarul nu, primește postul modelului fără dezlegare. Postul deja scris pentru o zi nu se rescrie; valorile care diferă de calendarul oficial se numără în raport la `patriarhia.fasting-kept`.
 - **Înregistrările existente nu se rescriu**: importul le recunoaște și le pune doar în calendarele în care lipseau; rândurile noi se adaugă după cele existente ale zilei. Toate înregistrările noi sunt ciorne, cu sursele lor și cu nota „Importat automat … de verificat” în `editorial.notes`.
 
 Ce rămâne de lucru după import: numele în limba care lipsește (sfinții găsiți doar în română sau doar în engleză apar ca avertismente `i18n.missing-locale`), zilele armene, chipul sfințeniei acolo unde titlul nu-l spune (notat în `editorial.notes`), și revizuirea potrivirilor făcute automat.
@@ -230,13 +231,13 @@ Cum calculează motorul (`tools/lib/calendar.ts`, `tools/lib/days.ts`):
 - **Mutări** (`transfers`): perioadele se măsoară în zile față de Paști: săptămâna brânzei −55…−49, Postul Mare −48…−9, Săptămâna Mare −6…−1, Paștile 0, Săptămâna Luminată 1…6, Triodul −70…−1, Penticostarul 0…56. `before_pascha` înseamnă între −70 și −1. Se mută doar rândurile cu dată fixă.
 - **Glasul**: glasul 1 începe în Duminica Tomii și se schimbă duminica, ciclic; de la Florii până în Sâmbăta Luminată nu există glasul săptămânii.
 - **Voscresna**: în duminicile Penticostarului are valori fixe (Toma 1, Mironosițe 3, Slăbănog 4, Samarineancă 7, Orb 8, Sfinții Părinți 10); de la Duminica Tuturor Sfinților ciclul de 11 începe cu 1. Floriile, Paștile și Rusaliile nu au voscresnă.
-- **Postul** (`fasting_model: "romanian"`): perioadele de post, miercurea și vinerea, harțile și câteva dezlegări fixe (Bunavestire, Florii, Schimbarea la Față, Intrarea în biserică, Sf. Nicolae). Celelalte dezlegări de la praznice vin din calendarul oficial.
-- **Calendarul oficial** (`overrides/<an>.json`) are întâietate. `npm run generate` arată zilele în care glasul, voscresna sau postul calculate diferă de el, iar testele cer să nu existe diferențe pentru 2026.
+- **Postul** (`fasting_model: "romanian"`): perioadele de post, miercurea și vinerea, harțile și dezlegările la pește, cum le tipăresc calendarele oficiale din 2025 și 2026. Pește se dă miercurea și vinerea de la Duminica Tomii la Rusalii; sâmbăta și duminica în Postul Sf. Petru și Pavel și în Postul Crăciunului, aici doar de la Intrarea în biserică (21 noiembrie) până la 19 decembrie; în aceste două posturi, și lunea, marțea și joia cu un sfânt cu cruce, iar miercurea și vinerea doar la un praznic cu (†) roșu; plus Bunavestirea, Floriile, Schimbarea la Față, Intrarea în biserică și Sf. Nicolae. Dezlegările de la sfinți sunt aproximative: zilele exacte vin din calendarul oficial.
+- **Calendarul oficial** (`overrides/<an>.json`) are întâietate. `npm run generate` arată zilele în care glasul, voscresna sau postul calculate diferă de el. Pentru 2026, testele cer să nu existe alte diferențe decât două dezlegări pe care nicio regulă nu le dă (11 iunie și 2 decembrie) și ca modelul să nu dea pește în nicio zi în care calendarul oficial nu dă.
 - Pomenirile cu regula `unspecified` nu apar în zile; comanda le numără separat.
 
 ## Limitări
 
-- postul urmează doar modelul românesc, simplificat; celelalte tradiții primesc postul doar din calendarul oficial;
+- postul urmează doar modelul românesc; în anii fără calendar oficial importat, dezlegările de la sfinți sunt aproximative; celelalte tradiții primesc postul doar din calendarul oficial;
 - lecturile zilei (ciclul Apostolului și al Evangheliei) și numerotarea duminicilor după Rusalii (saltul lucan) nu se calculează încă; vin doar din calendarul oficial;
 - site-ul, wiki-ul, API-ul și fișierele ICS nu se generează încă;
 - schemele nu au `$id`; se leagă între ele prin căi relative.

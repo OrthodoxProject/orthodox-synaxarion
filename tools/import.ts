@@ -3,8 +3,9 @@
  * dataset: calendar.patriarhia.ro and doxologia.ro (Romanian calendar), the OCA
  * lives of the saints (Russian calendar), the local lists of orthodox-calendar,
  * the Coptic Synaxarium (copticchurch.net, st-takla.org) and the Armenian
- * calendar (armenianchurch.ge). Only facts are taken: names, days, crosses and
- * links; texts of lives and hymns are not copied.
+ * calendar (armenianchurch.ge). Only facts are taken: names, days, crosses,
+ * links and the fasting printed in the official Romanian calendar, which goes
+ * to the yearly overrides; texts of lives and hymns are not copied.
  *
  *   npm run import                    # download what is missing, then write data/
  *   node tools/import.ts --offline    # use only pages already in build/cache/
@@ -22,6 +23,7 @@ import { dirname, join, resolve } from "node:path";
 import { parseArgs } from "node:util";
 import { Builder } from "./lib/import/build.ts";
 import { loadExisting } from "./lib/import/existing.ts";
+import { fastingOverrides } from "./lib/import/fasting.ts";
 import { PoliteFetcher } from "./lib/import/fetch.ts";
 import { RecordWriter } from "./lib/import/records.ts";
 import * as armenian from "./lib/import/sources/armenian.ts";
@@ -83,7 +85,14 @@ builder.armenian(armenianUnits(data));
 
 const output = new RecordWriter(existing, { clusters: builder.clusters, lines: builder.lines, movable: builder.movable, stats: builder.stats }).write();
 
-const report = new Map([...builder.stats, ...output.stats]);
+// The fasting printed in the official calendar goes to the yearly overrides of the Romanian calendar.
+const romanian = existing.dataset.traditions.get("romanian");
+const fasting = romanian
+  ? fastingOverrides(dataDir, data.patriarhia, romanian, { source: "src:calendar-patriarhia", url: patriarhia.PATRIARHIA_URL, accessed })
+  : { files: new Map<string, Record<string, unknown>>(), stats: new Map<string, number>() };
+for (const [rel, doc] of fasting.files) output.files.set(rel, doc);
+
+const report = new Map([...builder.stats, ...output.stats, ...fasting.stats]);
 log("\nSources:");
 for (const [k, v] of [...report].sort()) log(`  ${k.padEnd(28)} ${v}`);
 log(`  ${"oca.movable (skipped)".padEnd(28)} ${new Set(ocaSplit.movable.map((x) => x.id)).size}`);

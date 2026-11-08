@@ -159,14 +159,23 @@ export function eothinonOf(jdn: number, paschalion: "julian" | "gregorian"): num
 
 export type FastingLevel = "fast_free" | "no_fast" | "no_meat" | "fish" | "oil_wine" | "strict";
 
+/** What the calendar lines of a day show, for the feast-day dispensations of the fasting model. */
+export interface DayMarks {
+  /** A commemoration of the day is printed with a cross. */
+  cross?: boolean;
+  /** A great feast of the day is printed with the red cross in parentheses, (†). */
+  great?: boolean;
+}
+
 /**
- * Fasting model "romanian": a simplified rule for the common Romanian
- * practice (fasting periods, Wednesdays and Fridays, fast-free weeks, a few
- * fixed dispensations). Used only by traditions that declare
- * `fasting_model: "romanian"`; other feast-day dispensations come from the
- * yearly overrides.
+ * Fasting model "romanian": the rules of the Romanian Orthodox calendar, as
+ * printed in the official calendars of 2025 and 2026 (fasting periods,
+ * Wednesdays and Fridays, fast-free weeks, fish on weekends and feasts).
+ * Feast-day dispensations follow the crosses of the day, which only
+ * approximates the official calendar: the yearly overrides give the exact
+ * days. Used only by traditions that declare `fasting_model: "romanian"`.
  */
-export function fastingOf(jdn: number, style: DateStyle, paschalion: "julian" | "gregorian"): FastingLevel {
+export function fastingOf(jdn: number, style: DateStyle, paschalion: "julian" | "gregorian", marks: DayMarks = {}): FastingLevel {
   const civilYear = jdnToGregorian(jdn).year;
   const pascha = paschaJdn(civilYear, paschalion);
   const o = jdn - pascha;
@@ -174,6 +183,9 @@ export function fastingOf(jdn: number, style: DateStyle, paschalion: "julian" | 
   const church = jdnToChurchDate(jdn, style);
   const md = church.month * 100 + church.day;
   const weekend = wd === 5 || wd === 6;
+  const wedFri = wd === 2 || wd === 4;
+  // Feast-day fish in the Nativity and Apostles' fasts: a cross on Monday, Tuesday or Thursday, a great feast on Wednesday or Friday.
+  const feast = wedFri ? marks.great === true : marks.cross === true;
 
   // Fast-free weeks
   if (o >= 0 && o <= 6) return "fast_free";
@@ -188,13 +200,16 @@ export function fastingOf(jdn: number, style: DateStyle, paschalion: "julian" | 
     if (o === -2) return "strict";
     return weekend ? "oil_wine" : "strict";
   }
+  // From Thomas Sunday to Pentecost, fish on Wednesdays and Fridays
+  if (o >= 7 && o <= 48) return wedFri ? "fish" : "no_fast";
   // Fixed strict days
   if (md === 829 || md === 914 || md === 105) return "strict";
-  // Nativity fast (15 Nov – 24 Dec)
+  // Nativity fast (15 Nov – 24 Dec): fish on weekends and feasts only from the Entry of the Theotokos to 19 December
   if (md >= 1115 && md <= 1224) {
     if (md === 1121 || md === 1206) return "fish";
-    if (md <= 1219 && weekend) return "fish";
     if (md >= 1220) return weekend ? "oil_wine" : "strict";
+    if (md >= 1121 && (weekend || feast)) return "fish";
+    if (weekend) return "oil_wine";
     return wd === 1 || wd === 3 ? "oil_wine" : "strict";
   }
   // Dormition fast (1–14 Aug)
@@ -202,13 +217,13 @@ export function fastingOf(jdn: number, style: DateStyle, paschalion: "julian" | 
     if (md === 806) return "fish";
     return weekend ? "oil_wine" : "strict";
   }
-  // Apostles' fast (Monday after All Saints – 28 June)
+  // Apostles' fast (Monday after All Saints – 28 June): fish on weekends and feasts
   const allSaints = pascha + 56;
   if (jdn > allSaints && jdn < churchDateToJdn(civilYear, 6, 29, style)) {
-    return wd === 2 || wd === 4 ? "oil_wine" : "fish";
+    return weekend || feast ? "fish" : "oil_wine";
   }
   // Wednesdays and Fridays
-  if (wd === 2 || wd === 4) return "strict";
+  if (wedFri) return "strict";
   return "no_fast";
 }
 

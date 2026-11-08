@@ -62,6 +62,8 @@ The website is in Romanian and English:
 
 Day pages are built for the current year and the next one; set `SITE_YEARS=2026,2027` to choose other years. Machine translations are left out until someone has reviewed them.
 
+Pages end with a "Report a mistake" link to the correction form among the repository's issues, with the page's public address already filled in as the place of the mistake (on the home page, the address of today's day page).
+
 ### Publishing on GitHub Pages
 
 The `Site` workflow (`.github/workflows/pages.yml`) builds and publishes the website on every push to `main` and every night, so that "today" stays current. To turn it on, open the repository's Settings → Pages and set Source to "GitHub Actions" (needed only once). GitHub turns off scheduled workflows in repositories with no activity for 60 days; if that happens, turn it back on from the Actions tab.

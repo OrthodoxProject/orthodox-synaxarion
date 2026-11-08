@@ -1,7 +1,7 @@
 ---
 import "../styles/global.css";
 import { DEFAULT_TRADITION, asset, href, monthHref, todayIso } from "../lib/site.ts";
-import { LANGS, REPOSITORY_URL, t, type Lang } from "../lib/ui.ts";
+import { LANGS, REPOSITORY_URL, correctionUrl, t, type Lang } from "../lib/ui.ts";
 
 interface Props {
   lang: Lang;
@@ -10,12 +10,16 @@ interface Props {
   /** Path after the language, used for the other-language link and hreflang. */
   segments?: Array<string | number>;
   current?: "today" | "calendar" | "saints" | "search";
+  /** Page that "Report a mistake" names in the correction form: this one by default, or false for no link. */
+  report?: string | false;
 }
 
-const { lang, title, description, segments = [], current } = Astro.props;
+const { lang, title, description, segments = [], current, report } = Astro.props;
 const today = todayIso();
 const other = LANGS.filter((l) => l !== lang);
 const pageTitle = title === t(lang, "siteName") ? title : `${title} · ${t(lang, "siteName")}`;
+// The page's public address, from the configured site, so that it never names the development server.
+const reportUrl = report !== false && Astro.site ? correctionUrl(new URL(report ?? Astro.url.pathname, Astro.site).href) : undefined;
 ---
 
 <!doctype html>
@@ -43,6 +47,13 @@ const pageTitle = title === t(lang, "siteName") ? title : `${title} · ${t(lang,
     </header>
     <main class="wrap">
       <slot />
+      {
+        reportUrl && (
+          <p class="report">
+            <a href={reportUrl} rel="nofollow">{t(lang, "reportMistake")}</a>
+          </p>
+        )
+      }
     </main>
     <footer class="site-footer">
       <div class="wrap">

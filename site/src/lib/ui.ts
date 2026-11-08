@@ -105,6 +105,17 @@ const ro = {
   century: "secolul",
   bc: "î.Hr.",
   or: "sau",
+  otherCalendars: "Data în alte calendare",
+  calendars: "Calendare",
+  calendarsChristian: "Calendare creștine",
+  calendarsReligions: "Alte religii",
+  calendarsOther: "Alte calendare",
+  calendarsIntro: "Aceeași zi în calendarele Bisericilor, ale altor religii și în câteva calendare istorice și astronomice. Fiecare calendar are o pagină cu descrierea, istoria, metoda de calcul și sursele lui.",
+  calendarsNote: "Zilele calendarelor ebraic, islamic și bahá'í încep la apusul soarelui; aici e data lor din timpul zilei.",
+  calendarsToday: "Azi, {date}",
+  aboutCalendars: "Despre aceste calendare",
+  aboutCalendar: "Despre {name}",
+  calendarDetails: "Descriere, istorie, metoda de calcul și surse",
 };
 
 export type UiKey = keyof typeof ro;
@@ -213,6 +224,17 @@ const en: Record<UiKey, string> = {
   century: "century",
   bc: "BC",
   or: "or",
+  otherCalendars: "This date in other calendars",
+  calendars: "Calendars",
+  calendarsChristian: "Christian calendars",
+  calendarsReligions: "Other religions",
+  calendarsOther: "Other calendars",
+  calendarsIntro: "The same day in the calendars of the Churches, of other religions and in some historical and astronomical calendars. Each calendar has a page with its description, history, method of calculation and sources.",
+  calendarsNote: "Days of the Hebrew, Islamic and Bahá'í calendars begin at sunset; the dates here are their daytime dates.",
+  calendarsToday: "Today, {date}",
+  aboutCalendars: "About these calendars",
+  aboutCalendar: "About {name}",
+  calendarDetails: "Description, history, method and sources",
 };
 
 export const UI: Record<Lang, Record<UiKey, string>> = { ro, en };

@@ -1,0 +1,40 @@
+---
+import Base from "../../../layouts/Base.astro";
+import { CALENDAR_GROUPS, GROUP_TITLES, calendarDate, calendarDoc } from "../../../lib/calendars.ts";
+import { dateText } from "../../../lib/format.ts";
+import { href, todayIso } from "../../../lib/site.ts";
+import { LANGS, t, type Lang } from "../../../lib/ui.ts";
+
+export function getStaticPaths() {
+  return LANGS.map((lang) => ({ params: { lang } }));
+}
+
+const lang = Astro.params.lang as Lang;
+const today = todayIso();
+---
+
+<Base lang={lang} title={t(lang, "calendars")} description={t(lang, "calendarsIntro")} segments={["calendars"]}>
+  <h1>{t(lang, "calendars")}</h1>
+  <p class="summary">{t(lang, "calendarsIntro")}</p>
+  <p class="muted">{t(lang, "calendarsToday", { date: dateText(today, lang) })}</p>
+  {
+    CALENDAR_GROUPS.map((group) => (
+      <section>
+        <h2>{t(lang, GROUP_TITLES[group.id])}</h2>
+        <ul class="calendar-index">
+          {group.calendars.map((id) => {
+            const doc = calendarDoc(id, lang);
+            const value = calendarDate(id, today, lang);
+            return (
+              <li>
+                <a href={href(lang, "calendars", id)}>{doc.title}</a>
+                {value && <span class="calendar-index-date"> · {value.text}</span>}
+                <span class="muted calendar-index-summary">{doc.summary}</span>
+              </li>
+            );
+          })}
+        </ul>
+      </section>
+    ))
+  }
+</Base>

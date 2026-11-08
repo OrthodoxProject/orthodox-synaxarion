@@ -1,5 +1,6 @@
 ---
 import DayView from "../../components/DayView.astro";
+import OtherCalendars from "../../components/OtherCalendars.astro";
 import Base from "../../layouts/Base.astro";
 import { lineTitle, longDateText, traditionName } from "../../lib/format.ts";
 import { DEFAULT_TRADITION, asset, calendarTraditions, dayHref, dayOf, href, monthHref, shiftIso, siteYears, todayIso } from "../../lib/site.ts";
@@ -62,6 +63,7 @@ const report = day && dayHref(lang, tradition, today);
   <p>
     <a href={asset(`${lang}/${tradition}.ics`)}>{t(lang, "subscribe")}</a>
   </p>
+  <OtherCalendars date={today} lang={lang} />
 
   <script is:inline define:vars={{ buildDate: today, years: siteYears(), dayBase: href(lang, tradition) }}>
     // The page is rebuilt every night; if the reader's date differs, open that day instead.

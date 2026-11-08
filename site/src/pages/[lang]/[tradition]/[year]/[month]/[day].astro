@@ -1,5 +1,6 @@
 ---
 import DayView from "../../../../../components/DayView.astro";
+import OtherCalendars from "../../../../../components/OtherCalendars.astro";
 import Base from "../../../../../layouts/Base.astro";
 import { longDateText, monthName, traditionName } from "../../../../../lib/format.ts";
 import { calendarTraditions, dayHref, daysOf, monthHref, shiftIso, siteYears } from "../../../../../lib/site.ts";
@@ -51,4 +52,5 @@ const title = longDateText(day.date, day.weekday, lang);
         ))
     }
   </ul>
+  <OtherCalendars date={day.date} lang={lang} />
 </Base>

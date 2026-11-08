@@ -57,8 +57,11 @@ The website is in Romanian and English:
 - `/<lang>/<tradition>/<year>/<month>/` and `/<lang>/<tradition>/<year>/<month>/<day>/`: each tradition's calendar, with tone, fasting and readings
 - `/<lang>/saints/<id>/`, `/<lang>/groups/<id>/` and `/<lang>/feasts/<id>/`: saints, groups of saints and feasts, with their days in every tradition
 - `/<lang>/search/`: full-text search
+- `/<lang>/calendars/` and `/<lang>/calendars/<calendar>/`: today in 18 calendars (Gregorian, Julian, Byzantine, Coptic, Ethiopian, Armenian, Syriac, Hebrew, Islamic, Bahá'í, Buddhist, Sikh, Persian, Indian, Chinese, Japanese, Roman and the Julian Day), with a page for each calendar: description, history, method of calculation and references
 - `/<lang>/<tradition>.ics`: a calendar feed to subscribe to from a phone or a calendar app
 - `/api/v1/traditions.json` and `/api/v1/<tradition>/<year>.json`: the generated days as JSON (records of `schema/build/day.schema.json`)
+
+At the end of every day page and of the home page, a closed panel, "This date in other calendars", gives the same day in these calendars; the "i" next to each one shows its description and leads to its page. The conversions are in `tools/lib/calendar-systems.ts`, and the pages are the Markdown files of `docs/calendars/ro/` and `docs/calendars/en/`, which can also be read on GitHub.
 
 Day pages are built for the current year and the next one; set `SITE_YEARS=2026,2027` to choose other years. Machine translations are left out until someone has reviewed them.
 
@@ -94,7 +97,8 @@ The labels are listed in `.github/labels.yml`. `npm run labels` checks the list 
 
 - `schema/`: JSON Schema (draft 2020-12) for every kind of data file
 - `data/`: the dataset (language-neutral records, traditions' calendars, and `data/i18n/<locale>/` for every text)
-- `tools/`: validator, formatter, calendar generator, wiki generator and importer (TypeScript, run directly by Node)
+- `docs/`: the data guide and the pages about the calendars (`docs/calendars/`)
+- `tools/`: validator, formatter, calendar generator, conversions to other calendars, wiki generator and importer (TypeScript, run directly by Node)
 - `site/`: the website (Astro pages that read `data/` through the tools)
 - `tests/`: tests for the tools
 - `.github/`: the issue forms, the label list and the workflows

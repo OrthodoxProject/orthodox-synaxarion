@@ -1,0 +1,128 @@
+---
+// The day in other calendars, in a closed panel at the end of the page. Each
+// calendar has an info button whose description opens on hover or click and
+// leads to the calendar's page.
+import { CALENDAR_GROUPS, GROUP_TITLES, calendarDate, calendarDoc } from "../lib/calendars.ts";
+import { href } from "../lib/site.ts";
+import { t, type Lang } from "../lib/ui.ts";
+
+interface Props {
+  /** Gregorian date, YYYY-MM-DD. */
+  date: string;
+  lang: Lang;
+}
+
+const { date, lang } = Astro.props;
+const lowerFirst = (s: string): string => s.charAt(0).toLocaleLowerCase(lang) + s.slice(1);
+const groups = CALENDAR_GROUPS.map((group) => ({
+  title: t(lang, GROUP_TITLES[group.id]),
+  rows: group.calendars.flatMap((id) => {
+    const value = calendarDate(id, date, lang);
+    return value ? [{ id, value, doc: calendarDoc(id, lang) }] : [];
+  }),
+}));
+---
+
+<details class="other-calendars" data-pagefind-ignore>
+  <summary>{t(lang, "otherCalendars")}</summary>
+  {
+    groups.map((group) => (
+      <section>
+        <h3>{group.title}</h3>
+        <dl class="calendar-dates">
+          {group.rows.map(({ id, value, doc }) => (
+            <div>
+              <dt>
+                {doc.label}{" "}
+                <button type="button" class="calendar-info" popovertarget={`calendar-tip-${id}`} aria-label={t(lang, "aboutCalendar", { name: lowerFirst(doc.title) })}>
+                  i
+                </button>
+                <div id={`calendar-tip-${id}`} popover class="calendar-tip">
+                  <p>{doc.summary}</p>
+                  <a href={href(lang, "calendars", id)}>{t(lang, "calendarDetails")} →</a>
+                </div>
+              </dt>
+              <dd>
+                {value.text}
+                {value.detail && <span class="muted"> · {value.detail}</span>}
+                {value.native && " "}
+                {value.native && (
+                  <span class="native" lang={value.native.lang} dir={value.native.dir}>
+                    {value.native.text}
+                  </span>
+                )}
+              </dd>
+            </div>
+          ))}
+        </dl>
+      </section>
+    ))
+  }
+  <p class="muted calendar-note">
+    {t(lang, "calendarsNote")} <a href={href(lang, "calendars")}>{t(lang, "aboutCalendars")} →</a>
+  </p>
+</details>
+
+<script>
+  // A description opens while the mouse rests on its button and stays open once the button is
+  // clicked or tapped; a second click, Escape or a click elsewhere closes it. Without this
+  // script the button still opens it, in the middle of the screen.
+  let open: { button: HTMLElement; tip: HTMLElement } | undefined;
+
+  function place(button: HTMLElement, tip: HTMLElement): void {
+    tip.classList.add("placed");
+    const box = button.getBoundingClientRect();
+    const width = tip.offsetWidth;
+    const height = tip.offsetHeight;
+    const left = Math.max(8, Math.min(box.left - 8, document.documentElement.clientWidth - width - 8));
+    const below = box.bottom + 6;
+    const above = box.top - height - 6;
+    tip.style.left = `${left}px`;
+    tip.style.top = `${below + height > window.innerHeight - 8 && above >= 8 ? above : below}px`;
+  }
+
+  for (const button of document.querySelectorAll<HTMLButtonElement>(".calendar-info")) {
+    const tip = document.getElementById(button.getAttribute("popovertarget") ?? "");
+    if (!tip || typeof tip.showPopover !== "function") continue;
+    let pinned = false;
+    let timer: number | undefined;
+    const isOpen = (): boolean => tip.matches(":popover-open");
+    const show = (pin: boolean): void => {
+      window.clearTimeout(timer);
+      pinned ||= pin;
+      if (!isOpen()) tip.showPopover();
+      place(button, tip);
+    };
+    const hideSoon = (): void => {
+      window.clearTimeout(timer);
+      timer = window.setTimeout(() => {
+        if (!pinned && isOpen()) tip.hidePopover();
+      }, 250);
+    };
+    button.addEventListener("click", (event) => {
+      event.preventDefault();
+      if (pinned && isOpen()) tip.hidePopover();
+      else show(true);
+    });
+    for (const element of [button, tip]) {
+      element.addEventListener("pointerenter", (event) => {
+        if (event.pointerType === "mouse") show(false);
+      });
+      element.addEventListener("pointerleave", (event) => {
+        if (event.pointerType === "mouse") hideSoon();
+      });
+    }
+    tip.addEventListener("toggle", (event) => {
+      if ((event as ToggleEvent).newState === "open") open = { button, tip };
+      else {
+        pinned = false;
+        if (open?.tip === tip) open = undefined;
+      }
+    });
+  }
+
+  // An open description follows its button when the page scrolls or the window changes size.
+  for (const type of ["scroll", "resize"]) {
+    window.addEventListener(type, () => open && place(open.button, open.tip), { passive: true });
+  }
+</script>

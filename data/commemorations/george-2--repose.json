@@ -17,6 +17,15 @@
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/07/04/205319-hieromartyr-george",
       "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:wikipedia",
+      "url": "https://en.wikipedia.org/wiki/George_of_Slavonia"
     }
   ],
   "editorial": {
@@ -25,5 +34,8 @@
     "notes": [
       "Importat automat din oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "george-of-slavonia--repose"
+  ]
 }

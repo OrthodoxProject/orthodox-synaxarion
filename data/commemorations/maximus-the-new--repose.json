@@ -17,6 +17,15 @@
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/01/18/109029-saint-maximus-the-new",
       "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Maximus_of_Ungro-Wallachia"
     }
   ],
   "editorial": {
@@ -25,5 +34,8 @@
     "notes": [
       "Importat automat din oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "maximus-of-ungro-wallachia--repose"
+  ]
 }

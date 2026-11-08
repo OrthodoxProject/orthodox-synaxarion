@@ -22,6 +22,11 @@
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/11/01/100356-virgin-martyr-helen-of-sinope",
       "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/russian_saints.json",
+      "accessed": "2026-11-08"
     }
   ],
   "editorial": {
@@ -30,5 +35,8 @@
     "notes": [
       "Importat automat din doxologia.ro, oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "helen-of-sinope-2--repose"
+  ]
 }

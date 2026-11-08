@@ -4,12 +4,20 @@
   "names": {
     "display": "Martyr Sabinus of Egypt",
     "short": "Sabinus of Egypt",
-    "given": "Sabinus"
+    "given": "Sabinus",
+    "variants": [
+      "Martyr Sabinus (Abibus) of Egypt"
+    ]
   },
   "references": [
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/03/16/100813-martyr-sabinus-of-egypt",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/13/100793-martyr-sabinus-abibus-of-egypt",
       "accessed": "2026-11-08"
     }
   ],

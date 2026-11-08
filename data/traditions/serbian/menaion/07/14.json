@@ -4,11 +4,6 @@
   "entries": [
     {
       "commemorations": [
-        "comm:angelina-of-serbia--07-14"
-      ]
-    },
-    {
-      "commemorations": [
         "comm:aquila-of-the-seventy--repose"
       ],
       "confidence": "low"
@@ -24,6 +19,11 @@
         "comm:nikodemos-the-hagiorite--repose"
       ],
       "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:slobodan-of-donja-kamenica-sr--repose"
+      ]
     }
   ]
 }

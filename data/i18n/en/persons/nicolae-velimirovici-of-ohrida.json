@@ -1,0 +1,20 @@
+{
+  "id": "nicolae-velimirovici-of-ohrida",
+  "locale": "en",
+  "names": {
+    "display": "Saint Nicholas of Ohrid",
+    "short": "Nicholas of Ohrid",
+    "given": "Nicholas"
+  },
+  "references": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -2,12 +2,9 @@
   "id": "cyril-of-alexandria",
   "locale": "en",
   "names": {
-    "display": "Venerable Schemamonk Cyril",
+    "display": "Saint Cyril, Archbishop of Alexandria",
     "short": "Cyril",
-    "given": "Cyril",
-    "variants": [
-      "Saint Cyril, Archbishop of Alexandria"
-    ]
+    "given": "Cyril"
   },
   "references": [
     {
@@ -18,6 +15,11 @@
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/06/09/101595-saint-cyril-archbishop-of-alexandria",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/18/100220-saint-cyril-archbishop-of-alexandria",
       "accessed": "2026-11-08"
     }
   ],

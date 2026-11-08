@@ -19,6 +19,11 @@
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/03/31/100954-repose-of-saint-innocent-metropolitan-of-moscow-enlightener-of-t",
       "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/06/102884-glorification-of-saint-innocent-metropolitan-of-moscow-enlighten",
+      "accessed": "2026-11-08"
     }
   ],
   "editorial": {
@@ -27,5 +32,8 @@
     "notes": [
       "Importat automat din doxologia.ro, oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "innocent-of-moscow-2"
+  ]
 }

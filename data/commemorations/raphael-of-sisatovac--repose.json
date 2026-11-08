@@ -17,6 +17,15 @@
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/08/21/205316-hieromartyr-raphael-of-sisatovac",
       "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Raphael_of_%C5%A0i%C5%A1atovac"
     }
   ],
   "editorial": {
@@ -25,5 +34,8 @@
     "notes": [
       "Importat automat din oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "raphael-of-sisatovac--09-03"
+  ]
 }

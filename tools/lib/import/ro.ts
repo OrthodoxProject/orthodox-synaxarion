@@ -470,9 +470,12 @@ export function parseRo(original: string): ParsedTitle {
     return { ...base, kind: "synaxis", subject: inner };
   }
   if ((m = /^(?:Pomenirea minunii(?: din Colose a)?|Ar[ăa]tarea Maicii Domnului|Adormirea|Mutarea|Pomenirea)\s+(.*)$/i.exec(title))) {
-    const inner = parseRo(nominative(trimDestination(m[1] ?? "")));
-    // "Adormirea Sfântului Apostol Ioan", "Mutarea Sf. Ap. și Evanghelist Ioan" are the saint's own day.
-    if (/^(Adormirea|Mutarea)/i.test(title) && (inner.kind === "saint" || inner.kind === "saints")) return { ...inner, title: original };
+    // Only the saint's own words turn to the nominative: "Sfânta Ana, mama Preasfintei Născătoare de Dumnezeu".
+    const subject = trimDestination(m[1] ?? "");
+    const comma = subject.indexOf(",");
+    const inner = parseRo(comma < 0 ? nominative(subject) : `${nominative(subject.slice(0, comma))}${subject.slice(comma)}`);
+    // "Adormirea Sfântului Apostol Ioan", "Mutarea Sf. Ap. și Evanghelist Ioan" are the saint's own day; the saint's name has no "Adormirea".
+    if (/^(Adormirea|Mutarea)/i.test(title) && (inner.kind === "saint" || inner.kind === "saints")) return inner;
     return { ...base, kind: "event", subject: inner };
   }
   if (/^(Înnoirea|Târnosirea|Cămașa|Cutremurul|Pomenirea cutremurului|Cinstirea|Închinarea)/i.test(title)) return { ...base, kind: "event" };

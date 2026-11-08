@@ -13,6 +13,11 @@
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/08/03/102192-venerable-anthony-the-roman-and-abbot-of-novgorod",
       "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/russian_saints.json",
+      "accessed": "2026-11-08"
     }
   ],
   "editorial": {
@@ -22,5 +27,8 @@
       "Importat automat din oca.org; de verificat.",
       "Genul nu reiese din sursă; e de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "ven-anthony-the-roman-of-novgorod"
+  ]
 }

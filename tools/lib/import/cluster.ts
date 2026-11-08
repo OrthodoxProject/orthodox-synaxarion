@@ -116,6 +116,47 @@ export function holinessCompatible(a: Set<HolinessType>, b: Set<HolinessType>): 
   return false;
 }
 
+/**
+ * The stricter test for the bare names of the orthodox-calendar lists: a
+ * martyr is not a hierarch ("New Martyr Nicolas Karamos" is not "Nicholas of
+ * Myra"), a monk is not a martyr ("Justin of Ćelije" is not "Justin the
+ * Philosopher"). Monks and hierarchs go together (a bishop was a monk first);
+ * "righteous" says nothing, since the importers use it when the title is silent.
+ */
+export function holinessAgrees(a: Set<HolinessType>, b: Set<HolinessType>): boolean {
+  const kinds = (h: Set<HolinessType>): Set<string> => {
+    const out = new Set<string>();
+    for (const x of h) {
+      if (MARTYR_LIKE.has(x)) out.add("martyr");
+      if (x === "hierarch" || x === "hieromartyr" || x === "venerable" || x === "venerable_martyr" || x === "hermit" || x === "stylite" || x === "recluse") out.add("monastic");
+      if (x === "apostle" || x === "evangelist" || x === "equal_to_apostles") out.add("apostle");
+      if (x === "prophet" || x === "forefather") out.add("prophet");
+      if (x === "archangel") out.add("angel");
+    }
+    return out;
+  };
+  const ka = kinds(a);
+  const kb = kinds(b);
+  if (ka.size === 0 || kb.size === 0) return true;
+  for (const x of ka) if (kb.has(x)) return true;
+  return false;
+}
+
+/** Regnal number of a name ("Sava II", "Eustathius I, Archbishop of Serbia", "Sava al III-lea"). */
+export function numeralOf(part: NamePart): string | undefined {
+  return /(?:^|\s)(?:al\s+)?([IVX]{1,4})(?:-lea)?(?=[\s,]|$)/.exec(part.text)?.[1];
+}
+
+/** Two names whose places ("of Gornjak" / "of Grigoriou") or numbers ("I" / "II") disagree. */
+export function namesConflict(a: NamePart, b: NamePart): boolean {
+  const na = numeralOf(a);
+  const nb = numeralOf(b);
+  if (na && nb && na !== nb) return true;
+  const pa = placeKeys(a);
+  const pb = placeKeys(b);
+  return pa.length > 0 && pb.length > 0 && !pa.some((x) => pb.some((y) => x === y || nameSimilarity(x, y) >= 0.75));
+}
+
 /** Common words of English and Romanian titles, normalised so that both languages compare. */
 const EPITHETS: Array<[RegExp, string]> = [
   [/^(mare|marele|great)$/, "great"],
@@ -196,6 +237,10 @@ export function personScore(a: NamePart, b: NamePart, crossLanguage: boolean): n
   const pb = placeKeys(b);
   if (pa.length > 0 && pb.length > 0 && !pa.some((x) => pb.some((y) => x === y || nameSimilarity(x, y) >= 0.75))) score -= crossLanguage ? 0.3 : 0.1;
   if (a.gender && b.gender && a.gender !== b.gender && !a.genderGuess && !b.genderGuess) score -= 0.3;
+  // "Eustathius I" and "Eustathius II" are two archbishops.
+  const na = numeralOf(a);
+  const nb = numeralOf(b);
+  if (na && nb && na !== nb) score -= 1;
   return score;
 }
 

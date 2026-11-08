@@ -4,12 +4,25 @@
   "names": {
     "display": "Hieromartyr Hermogenes, Patriarch of Moscow, Wonderworker of All Russia",
     "short": "Hermogenes, Patriarch of Moscow, Wonderworker of All Russia",
-    "given": "Hermogenes"
+    "given": "Hermogenes",
+    "variants": [
+      "Hieromartyr Hermogenes, Patriarch of Moscow and All Russia"
+    ]
   },
   "references": [
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/02/17/100548-hieromartyr-hermogenes-patriarch-of-moscow-wonderworker-of-all-r",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/12/101358-hieromartyr-hermogenes-patriarch-of-moscow-and-all-russia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/russian_saints.json",
       "accessed": "2026-11-08"
     }
   ],

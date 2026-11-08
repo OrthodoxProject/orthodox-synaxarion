@@ -24,6 +24,11 @@
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/10/31/103127-apostle-aristobulus-of-the-seventy",
       "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/16/100816-apostle-aristobulus-of-the-seventy-bishop-of-britain",
+      "accessed": "2026-11-08"
     }
   ],
   "editorial": {
@@ -32,5 +37,8 @@
     "notes": [
       "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "aristobulus-of-the-seventy-2"
+  ]
 }

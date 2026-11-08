@@ -27,6 +27,15 @@
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/10/21/103019-venerable-bessarion-sarai-the-confessor-in-romania",
       "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bessarion_Sarai"
     }
   ],
   "editorial": {
@@ -35,5 +44,8 @@
     "notes": [
       "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "bessarion-sarai--repose"
+  ]
 }

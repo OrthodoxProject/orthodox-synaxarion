@@ -27,6 +27,11 @@
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/01/18/100224-venerable-schemamonk-cyril-and-schemanun-maria-the-parents-of-sa",
       "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/18/100220-saint-cyril-archbishop-of-alexandria",
+      "accessed": "2026-11-08"
     }
   ],
   "editorial": {
@@ -35,5 +40,8 @@
     "notes": [
       "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "cyril-of-alexandria-2--repose"
+  ]
 }

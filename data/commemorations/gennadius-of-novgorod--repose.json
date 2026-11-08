@@ -17,6 +17,15 @@
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/12/04/103476-saint-gennadius-archbishop-of-novgorod",
       "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/russian_saints.json",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gennady_of_Novgorod"
     }
   ],
   "editorial": {
@@ -25,5 +34,8 @@
     "notes": [
       "Importat automat din oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "gennadius-of-novgorod--12-17"
+  ]
 }

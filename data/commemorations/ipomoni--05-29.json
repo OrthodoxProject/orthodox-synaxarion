@@ -14,6 +14,15 @@
       "source": "src:doxologia",
       "url": "https://doxologia.ro/sfanta-cuvioasa-ipomoni",
       "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hypomone"
     }
   ],
   "editorial": {
@@ -22,5 +31,8 @@
     "notes": [
       "Importat automat din doxologia.ro; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "hypomone-2--repose"
+  ]
 }

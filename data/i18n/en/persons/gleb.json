@@ -4,12 +4,20 @@
   "names": {
     "display": "Martyr and Passion-Bearer Gleb",
     "short": "Gleb",
-    "given": "Gleb"
+    "given": "Gleb",
+    "variants": [
+      "Passion-Bearer Gleb (in Baptism David)"
+    ]
   },
   "references": [
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/07/24/102082-martyrs-and-passion-bearers-boris-and-gleb",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/05/102505-passion-bearer-gleb-in-baptism-david",
       "accessed": "2026-11-08"
     }
   ],

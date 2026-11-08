@@ -17,6 +17,15 @@
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/05/22/101463-saint-john-vladimir-prince-of-bulgaria-greatmartyr-and-miracle-w",
       "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:wikipedia",
+      "url": "https://en.wikipedia.org/wiki/John_Vladimir_%D0%88"
     }
   ],
   "editorial": {
@@ -25,5 +34,8 @@
     "notes": [
       "Importat automat din oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "john-vladimir-2--repose"
+  ]
 }

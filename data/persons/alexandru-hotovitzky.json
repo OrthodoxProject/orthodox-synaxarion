@@ -6,12 +6,18 @@
     "confessor"
   ],
   "external_ids": {
-    "doxologia": "sfantul-preot-marturisitor-alexandru-hotovitzky"
+    "doxologia": "sfantul-preot-marturisitor-alexandru-hotovitzky",
+    "oca": "103471"
   },
   "sources": [
     {
       "source": "src:doxologia",
       "url": "https://doxologia.ro/sfantul-preot-marturisitor-alexandru-hotovitzky",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/04/103471-glorification-of-the-priestmartyr-alexander-hotovitzky",
       "accessed": "2026-11-08"
     }
   ],
@@ -21,5 +27,8 @@
     "notes": [
       "Importat automat din doxologia.ro; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "priestmartyr-alexander-hotovitzky"
+  ]
 }

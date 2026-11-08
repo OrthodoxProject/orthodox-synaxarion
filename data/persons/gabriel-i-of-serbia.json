@@ -18,6 +18,11 @@
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/12/13/108071-hieromartyrgabrielofserbia",
       "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
     }
   ],
   "editorial": {
@@ -27,5 +32,8 @@
       "Importat automat din oca.org; de verificat.",
       "Genul nu reiese din sursă; e de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "gabriel-i"
+  ]
 }

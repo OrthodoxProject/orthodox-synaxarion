@@ -2,9 +2,12 @@
   "id": "eustathius-ii",
   "locale": "en",
   "names": {
-    "display": "Saint Eustathius II Ј",
+    "display": "Saint Eustathius II",
     "short": "Eustathius II Ј",
-    "given": "Eustathius"
+    "given": "Eustathius",
+    "variants": [
+      "Saint Eustathius of Serbia"
+    ]
   },
   "references": [
     {

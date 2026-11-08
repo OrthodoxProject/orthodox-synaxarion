@@ -22,6 +22,15 @@
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/12/17/108074-martyr-avakum-the-deacon-of-serbia",
       "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Habakkuk_the_Deacon"
     }
   ],
   "editorial": {
@@ -30,5 +39,8 @@
     "notes": [
       "Importat automat din doxologia.ro, oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "habakkuk-the-deacon--repose"
+  ]
 }

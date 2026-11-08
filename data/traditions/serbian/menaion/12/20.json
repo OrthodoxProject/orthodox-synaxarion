@@ -4,11 +4,6 @@
   "entries": [
     {
       "commemorations": [
-        "comm:gregory-of-gornjak--repose"
-      ]
-    },
-    {
-      "commemorations": [
         "comm:ignatius-the-god-bearer-of-antioch--repose"
       ],
       "confidence": "low"
@@ -24,6 +19,11 @@
         "comm:icon-of-theotokos-of-novgorod"
       ],
       "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:daniel-ii-of-serbia--repose"
+      ]
     }
   ]
 }

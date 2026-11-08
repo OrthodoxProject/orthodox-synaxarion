@@ -19,6 +19,11 @@
       "source": "src:calendar-patriarhia",
       "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-chiric-si-iulita-sf-vladimir-luminatorul-rusiei/",
       "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/15/102031-holy-great-prince-vladimir-basil-in-baptism-equal-of-the-apostle",
+      "accessed": "2026-11-08"
     }
   ],
   "editorial": {
@@ -27,5 +32,11 @@
     "notes": [
       "Importat automat din doxologia.ro, calendar.patriarhia.ro; de verificat."
     ]
+  },
+  "aliases": [
+    "vladimir-2--repose"
+  ],
+  "external_ids": {
+    "oca": "102031"
   }
 }

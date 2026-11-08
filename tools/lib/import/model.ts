@@ -35,7 +35,8 @@ export type HolinessType =
  *   known as such ("the 40 Martyrs of Sebaste");
  * - feast: a feast of the Lord, of the Theotokos or of the Cross, or another
  *   fixed event of the FEASTS table; forefeast, afterfeast, leavetaking;
- * - relics_translation, relics_finding, synaxis, event: about a saint (subject);
+ * - relics_translation, relics_finding, synaxis, event, glorification: about a
+ *   saint (subject);
  * - icon: a feast of an icon (of the Theotokos, mostly);
  * - council: the Fathers of a council;
  * - movable: part of the movable cycle (skipped); skip: not a commemoration.
@@ -52,6 +53,7 @@ export type TitleKind =
   | "relics_finding"
   | "synaxis"
   | "event"
+  | "glorification"
   | "icon"
   | "council"
   | "angels"
@@ -88,7 +90,7 @@ export interface ParsedTitle {
   count?: number;
   /** Id of a feast of the FEASTS table (for feast, forefeast, afterfeast, leavetaking). */
   feast?: string;
-  /** The saint a relics, synaxis or event line is about. */
+  /** The saint a relics, synaxis, event or glorification line is about. */
   subject?: ParsedTitle;
   /** Name of the icon (for kind icon), as written. */
   icon?: string;

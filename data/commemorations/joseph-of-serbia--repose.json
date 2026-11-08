@@ -22,6 +22,15 @@
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/04/20/108040-saint-joseph-of-serbia",
       "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Joasaph_of_Meteora_%D0%88"
     }
   ],
   "editorial": {
@@ -30,5 +39,8 @@
     "notes": [
       "Importat automat din doxologia.ro, oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "joasaph-of-meteora--repose"
+  ]
 }

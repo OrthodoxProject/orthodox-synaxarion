@@ -4,11 +4,6 @@
   "entries": [
     {
       "commemorations": [
-        "comm:john-vladimir-2--repose"
-      ]
-    },
-    {
-      "commemorations": [
         "comm:metrophanes-of-constantinopol--repose"
       ],
       "confidence": "low"
@@ -24,6 +19,11 @@
         "comm:sophia-of-ainos--repose"
       ],
       "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:joanicus-of-montenegro-and-coast"
+      ]
     }
   ]
 }

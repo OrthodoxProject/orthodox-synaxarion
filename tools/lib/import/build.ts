@@ -18,20 +18,40 @@ import {
   addRef,
   displayOf,
   extraKeys,
+  holinessAgrees,
   holinessCompatible,
+  namesConflict,
   newSlot,
+  numeralOf,
   personScore,
   type Cluster,
   type GroupSubject,
   type Slot,
 } from "./cluster.ts";
 import type { Existing, ExistingLine } from "./existing.ts";
-import type { NamePart, ParsedTitle } from "./model.ts";
+import type { HolinessType, NamePart, ParsedTitle } from "./model.ts";
 import { parseEn } from "./en.ts";
 import { fold, givenSimilarity } from "./names.ts";
 import { mmdd, type Unit } from "./units.ts";
 
 export type Confidence = "low" | "medium" | "high";
+
+/**
+ * Extra conditions for the bare names of the orthodox-calendar lists:
+ * - agree: on the Menaion date, the kind of holiness must agree (a martyr is
+ *   not a hierarch), and a match on the first name alone must not have other
+ *   places or another regnal number ("Gregory of Gornjak" is not "Gregory of
+ *   Grigoriou");
+ * - sameGender: a match on the first name alone keeps the gender ("Dosithea"
+ *   is not "Dositheus");
+ * - anyHoliness: on the civil date, the kind of holiness the list gives apart
+ *   from the title is not trusted ("Venerable" for a bishop).
+ */
+export interface MatchRules {
+  agree?: boolean;
+  anyHoliness?: boolean;
+  sameGender?: boolean;
+}
 
 /** What a unit matched: the clusters, the persons its names landed on, and the names left over. */
 export interface MatchResult {
@@ -318,6 +338,7 @@ export class Builder {
       case "feast":
       case "council":
       case "event":
+      case "glorification":
       case "relics_translation":
       case "relics_finding":
       case "synaxis":
@@ -418,7 +439,7 @@ export class Builder {
    * clusters (in order), the slots its names landed on, and the names that
    * matched nothing.
    */
-  match(u: Unit, pool: Cluster[]): { clusters: Cluster[]; pairs: Array<[NamePart, Slot]>; rest: NamePart[] } {
+  match(u: Unit, pool: Cluster[], rules: MatchRules = {}): { clusters: Cluster[]; pairs: Array<[NamePart, Slot]>; rest: NamePart[] } {
     const p = u.parsed;
     const none = { clusters: [] as Cluster[], pairs: [] as Array<[NamePart, Slot]>, rest: p.names };
     const sameKind = (k: string): Cluster[] => pool.filter((c) => c.kind === k);
@@ -438,6 +459,7 @@ export class Builder {
       case "relics_translation":
       case "relics_finding":
       case "event":
+      case "glorification":
       case "synaxis":
       case "angels": {
         const kinds = p.kind === "relics_translation" || p.kind === "relics_finding" ? ["relics_translation", "relics_finding"] : [p.kind];
@@ -456,7 +478,7 @@ export class Builder {
         const best = this.bestByScore(groups, (c) => groupScore(this, u, c));
         if (best && best.score >= 1) return { ...none, clusters: [best.item], rest: [] };
         if (p.names.length >= 1) {
-          const byNames = this.matchNames(u, pool);
+          const byNames = this.matchNames(u, pool, rules);
           // A group matches persons only through its leading name.
           if (byNames.pairs.length > 0) return { ...byNames, rest: [] };
         }
@@ -464,7 +486,7 @@ export class Builder {
       }
       case "saint":
       case "saints":
-        return this.matchNames(u, pool);
+        return this.matchNames(u, pool, rules);
       default:
         return none;
     }
@@ -479,15 +501,18 @@ export class Builder {
     return best;
   }
 
-  private matchNames(u: Unit, pool: Cluster[]): { clusters: Cluster[]; pairs: Array<[NamePart, Slot]>; rest: NamePart[] } {
+  private matchNames(u: Unit, pool: Cluster[], rules: MatchRules = {}): { clusters: Cluster[]; pairs: Array<[NamePart, Slot]>; rest: NamePart[] } {
     const p = u.parsed;
+    const holiness = new Set(p.holiness);
+    const fits = (other: Set<HolinessType>): boolean => (rules.agree ? holinessAgrees(holiness, other) : holinessCompatible(holiness, other));
     const taken = new Set<Slot>();
     const scored: Array<{ part: NamePart; slot: Slot; cluster: Cluster; score: number }> = [];
     for (const part of p.names) {
       for (const c of pool) {
         if (!PERSON_KINDS.has(c.kind) && !(c.kind === "group" && c.slots.length > 0)) continue;
         for (const slot of c.slots) {
-          const score = this.slotScore(part, u.lang, slot) + (holinessCompatible(new Set(p.holiness), slot.holiness) ? 0 : -0.15);
+          if (rules.agree && !fits(slot.holiness)) continue;
+          const score = this.slotScore(part, u.lang, slot) + (fits(slot.holiness) ? 0 : -0.15);
           // A second unit of the same source and day lands on a person only when it names it exactly.
           const again = slot.matched.has(`${u.source}@${mmdd(u.month, u.day)}`);
           if (score >= (again ? Math.max(1, this.threshold(u.lang, slot)) : this.threshold(u.lang, slot))) scored.push({ part, slot, cluster: c, score });
@@ -515,7 +540,11 @@ export class Builder {
         for (const slot of c.slots) {
           const name = slot[u.lang];
           if (!name || taken.has(slot) || slot.matched.has(`${u.source}@${mmdd(u.month, u.day)}`)) continue;
-          if (givenSimilarity(part, name.part) >= 1 && holinessCompatible(new Set(p.holiness), slot.holiness)) same.push({ slot, cluster: c });
+          if (givenSimilarity(part, name.part) < 1) continue;
+          if (!rules.anyHoliness && !fits(slot.holiness)) continue;
+          if (rules.agree && namesConflict(part, name.part)) continue;
+          if (rules.sameGender && part.gender && slot.gender && part.gender !== slot.gender) continue;
+          same.push({ slot, cluster: c });
         }
       }
       const only = same.length === 1 ? same[0] : undefined;
@@ -528,7 +557,14 @@ export class Builder {
     // A name may be the leader of a group of the other source ("Sf. Mc. Terentie" / "Sfântul Mucenic Terentie cu cei 7 fii ai săi").
     for (const part of p.names) {
       if (usedParts.has(part)) continue;
-      const groups = pool.filter((c) => c.kind === "group" && c.group && c.slots.length === 0 && c.group.names.some((n) => givenSimilarity(part, n) >= 1));
+      const groups = pool.filter(
+        (c) =>
+          c.kind === "group" &&
+          c.group &&
+          c.slots.length === 0 &&
+          (!rules.agree || fits(c.group.holiness)) &&
+          c.group.names.some((n) => givenSimilarity(part, n) >= 1 && !(rules.agree && namesConflict(part, n))),
+      );
       const only = groups.length === 1 ? groups[0] : undefined;
       if (!only) continue;
       usedParts.add(part);
@@ -536,7 +572,7 @@ export class Builder {
     }
     // A list of names may also be one group of the other source ("Sf. Mc. In, Pin și Rim").
     if (pairs.length === 0 && clusters.length === 0 && p.names.length >= 1) {
-      const groups = pool.filter((c) => c.kind === "group" && c.group);
+      const groups = pool.filter((c) => c.kind === "group" && c.group && (!rules.agree || fits(c.group.holiness)));
       const best = this.bestByScore(groups, (c) => groupNamesScore(u, c));
       if (best && best.score >= 0.67) return { clusters: [best.item], pairs: [], rest: [] };
     }
@@ -637,6 +673,17 @@ export class Builder {
         if (extra) out.push(extra);
       }
       return out;
+    }
+    // A glorification on the day the saints are already kept is their day ("Sf. Zabulon și Suzana" / "Glorification of Saints Zabulon and Sosanna").
+    const subject = u.parsed.subject;
+    if (u.parsed.kind === "glorification" && subject && (subject.kind === "saint" || subject.kind === "saints")) {
+      const own: Unit = { ...u, parsed: subject };
+      const r = this.match(own, pool);
+      if (r.pairs.length > 0 && r.rest.length === 0) {
+        this.absorb(own, r);
+        this.count(`${u.source}.matched`);
+        return r.clusters;
+      }
     }
     const c = this.clusterFrom(u);
     if (c) this.count(`${u.source}.new`);
@@ -853,9 +900,32 @@ export class Builder {
       if (!u.tradition) continue;
       const k = u.parsed.kind;
       if (k === "movable" || k === "skip") continue;
-      const clusters = this.place(u);
-      if (clusters.length > 0) this.addLine(u.tradition, u.month, u.day, withDiffers({ clusters }, u.month, u.day));
+      const at = this.placeListed(u);
+      if (at.clusters.length > 0) this.addLine(u.tradition, at.month, at.day, withDiffers({ clusters: at.clusters }, at.month, at.day));
     }
+  }
+
+  /**
+   * A line of the lists of the Julian-calendar Churches, on its Menaion date
+   * first, where a bare name ("Helen of Dečani") must not take another saint
+   * of the same first name. The OCA keeps some saints of the 20th century on
+   * their civil day (Sf. Patriarh Tihon on 7 April, the Royal Martyrs on 17
+   * July), so a line that matches nothing on its Menaion date is looked for on
+   * the day listed.
+   */
+  private placeListed(u: Unit): { clusters: Cluster[]; month: number; day: number } {
+    const here = { month: u.month, day: u.day };
+    const pool = this.candidates(u.month, u.day);
+    const result = this.match(u, pool, { agree: true, sameGender: true });
+    if (!u.listed || this.exactFor(u).length > 0) return { clusters: this.place(u, pool, result), ...here };
+    const civil: Unit = { ...u, month: u.listed.month, day: u.listed.day };
+    delete civil.leapDay;
+    if (this.exactFor(civil).length > 0) return { clusters: this.place(civil), ...u.listed };
+    if (result.clusters.length === 0) {
+      const late = this.match(civil, this.candidates(civil.month, civil.day), { anyHoliness: u.holinessFromList === true, sameGender: true });
+      if (late.clusters.length > 0 && late.rest.length === 0) return { clusters: this.place(civil, undefined, late), ...u.listed };
+    }
+    return { clusters: this.place(u, pool, result), ...here };
   }
 
   /**
@@ -1007,7 +1077,7 @@ function oneSubject(u: Unit): void {
 function identityKey(u: Unit, part: NamePart): string | null {
   const extra = extraKeys(part);
   if (extra.length === 0) return null;
-  return `${u.family}|${u.lang}|${part.eq ?? part.key}|${[...new Set(extra)].sort().join(",")}`;
+  return `${u.family}|${u.lang}|${part.eq ?? part.key}|${numeralOf(part) ?? ""}|${[...new Set(extra)].sort().join(",")}`;
 }
 
 /** "a Maicii Domnului din Tinos" → "Icoana Maicii Domnului din Tinos". */

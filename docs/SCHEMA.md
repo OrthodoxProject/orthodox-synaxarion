@@ -148,7 +148,7 @@ npm run import
 | calendar.patriarhia.ro | titlul oficial al fiecărei zile din 2026, cu crucile și culorile lor și cu notele de post | calendarul BOR (`romanian`), `official_titles`, semnele rândurilor și postul din `overrides/<an>.json` |
 | doxologia.ro | sfinții fiecărei zile din calendarul lunar, cu pagina fiecăruia | calendarul BOR, numele în română, `external_ids.doxologia` |
 | oca.org (Lives of the Saints) | pomenirile fiecărei zile, cu ID-ul OCA | calendarul rusesc (`russian`), numele în engleză, `external_ids.oca` |
-| orthodox-calendar | listele de sfinți locali ruși și sârbi (doar indexul: zi, nume, link) | `russian`, `serbian`; lista românească doar completează sfinții deja găsiți |
+| orthodox-calendar | listele de sfinți locali ruși și sârbi (doar indexul: zi, nume, link, chipul sfințeniei) | `russian`, `serbian`, la data din Minei; lista românească doar completează sfinții deja găsiți |
 | copticchurch.net, st-takla.org | sinaxarul copt, cu linkurile zilelor | calendarul copt (`coptic`), numele în engleză |
 | armenianchurch.ge | praznicele și pomenirile armene, grupate pe luni | `traditions/armenian/movable.json`, cu regulă `unspecified` |
 
@@ -156,7 +156,10 @@ Cum lucrează:
 
 - **Descărcarea** respectă `robots.txt` și pauza cerută de fiecare site (OCA cere 10 secunde între pagini), deci prima rulare durează cam două ore. Paginile rămân în `build/cache/` (necomis); `--offline` lucrează doar cu ele, `--dry-run` doar raportează. Ca să descarci din nou (de exemplu calendarul unui an nou), șterge `build/cache/`.
 - **O nouă rulare** recunoaște ce a importat deja (după ID-ul OCA, pagina doxologia, titlul oficial al rândului sau linkul sursei) și adaugă doar ce lipsește.
-- **Aceeași pomenire din surse diferite** devine o singură înregistrare: în aceeași zi, numele se compară după o cheie de transliterare (*Pigasie* / *Pegasius*, *Hristofor* / *Christopher*), după un tabel de echivalențe (*Ioan* / *John*, *Vasile* / *Basil*) și după epitete și locuri (*din Veria* nu e *of Dymsk*). Același sfânt în altă zi (aceeași pagină doxologia, același nume complet) rămâne aceeași persoană, cu încă o pomenire.
+- **Aceeași pomenire din surse diferite** devine o singură înregistrare: în aceeași zi, numele se compară după o cheie de transliterare (*Pigasie* / *Pegasius*, *Hristofor* / *Christopher*), după un tabel de echivalențe (*Ioan* / *John*, *Vasile* / *Basil*) și după epitete, locuri și numere (*din Veria* nu e *of Dymsk*, *Eustatie I* nu e *Eustatie al II-lea*). Același sfânt în altă zi (aceeași pagină doxologia, același nume complet) rămâne aceeași persoană, cu încă o pomenire.
+- **Listele rusă și sârbă din orthodox-calendar** dau ziua civilă în care aceste Biserici, pe stil vechi, țin pomenirea: Sf. Serafim de Sarov apare pe 15 ianuarie, iar ziua lui din Minei e 2 ianuarie. Importul caută sfântul la data din Minei (cu 13 zile mai devreme, socotit ca într-un an bisect: 1 martie e 17 februarie); dacă nu-l găsește acolo, îl caută la data civilă, unde OCA ține câțiva sfinți din secolul XX (Sf. Tihon, Sfinții Mucenici Împărătești). Numele fără titlu din liste (*Basil of Ostrog*) iau chipul sfințeniei din listă și se potrivesc cu un alt sfânt doar dacă se potrivesc și chipul sfințeniei, și locul.
+- **Numele unei persoane** e numele sfântului, nu titlul pomenirii: din *Repose of Venerable Seraphim, Wonderworker of Sarov* sau *Adormirea Sfântului Apostol Ioan* rămâne numele sfântului, iar *Glorification of Saint John of Kronstadt* devine o pomenire `glorification` a Sf. Ioan de Kronstadt. Aducerile de moaște (*Relocation of the relics of …*) și evenimentele (*Commemoration of the Great Earthquake …*) nu devin persoane.
+- **Dublurile unite** păstrează ID-ul publicat, iar celălalt trece în `aliases`; importul nu dă unei înregistrări noi un ID aflat în `aliases`.
 - **Pomenirile fixe ale OCA** sunt cele care cad în aceeași zi în 2026 și în 2028; celelalte țin de ciclul mobil și se lasă deoparte. La fel, duminicile, Săptămâna Mare și celelalte zile mobile din calendarul românesc.
 - **Patriarhia Ecumenică și Biserica Sârbă** primesc pomenirile pe care le au și calendarul BOR, și cel al OCA (Mineiul bizantin comun), cu `confidence: low`, plus sfinții locali sârbi. Biserica Greciei rămâne de completat.
 - **Sfinții universali** (Maica Domnului, arhanghelii, apostolii, prorocii, Sf. Ioan Botezătorul) din sinaxarul copt și din calendarul armean trimit la aceleași persoane ca în calendarele bizantine.
@@ -194,8 +197,8 @@ Datele din `data/` au pornit de la 17 cazuri-limită alese ca să pună schema l
 
 Restul vine din [importul din surse](#importul-din-surse). Pe scurt, acum:
 
-- 3.923 de persoane (1.561 cu nume în română, 3.252 în engleză, 890 în ambele), 355 de grupuri, 4.769 de pomeniri, 306 icoane;
-- calendarul BOR are toate cele 366 de zile (1.625 de rânduri, 765 cu titlul oficial), cel rusesc 366 de zile (2.855 de rânduri), cele ale Patriarhiei Ecumenice și Serbiei câte 354 de zile (896 și 979 de rânduri, cu încredere scăzută), cel copt 365 de zile (696 de rânduri); cele 146 de pomeniri armene așteaptă regula zilei;
+- 3.804 persoane (1.558 cu nume în română, 3.143 în engleză, 897 în ambele), 355 de grupuri, 4.658 de pomeniri, 306 icoane;
+- calendarul BOR are toate cele 366 de zile (1.625 de rânduri, 765 cu titlul oficial), cel rusesc 366 de zile (2.801 rânduri), cele ale Patriarhiei Ecumenice și Serbiei câte 354 de zile (896 și 970 de rânduri, cu încredere scăzută), cel copt 365 de zile (696 de rânduri); cele 146 de pomeniri armene așteaptă regula zilei;
 - 8 tradiții: BOR, Patriarhia Ecumenică, Biserica Greciei, Rusia, Serbia (Biserici răsăritene), copți și armeni (Biserici orientale), Biserica Asiriană a Răsăritului;
 - texte în 8 limbi: română, engleză, greacă (modernă și bizantină), rusă, sârbă (chirilică), armeană, arabă.
 

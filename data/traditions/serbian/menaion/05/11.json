@@ -4,11 +4,6 @@
   "entries": [
     {
       "commemorations": [
-        "comm:isaiah-of-onogost--repose"
-      ]
-    },
-    {
-      "commemorations": [
         "comm:commemoration-of-the-founding-of-constantinople"
       ],
       "confidence": "low"
@@ -36,6 +31,11 @@
         "comm:olympia-of-insula-lesvos--repose"
       ],
       "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:nicodemus-i-of-pec--repose"
+      ]
     }
   ]
 }

@@ -2,7 +2,7 @@
   "id": "stephen-of-decani",
   "locale": "en",
   "names": {
-    "display": "Repose of Saint Stephen of Dečani, Serbia",
+    "display": "Saint Stephen of Dečani, Serbia",
     "short": "Stephen of Dečani, Serbia",
     "given": "Stephen"
   },
@@ -10,6 +10,11 @@
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/11/11/103284-repose-of-saint-stephen-of-deani-serbia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
       "accessed": "2026-11-08"
     }
   ],

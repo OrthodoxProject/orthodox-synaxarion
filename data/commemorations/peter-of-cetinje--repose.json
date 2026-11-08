@@ -20,8 +20,12 @@
     },
     {
       "source": "src:orthodox-calendar",
-      "locator": "backend/app/data/traditions/russian_saints.json",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
       "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Peter_of_Cetinje"
     }
   ],
   "editorial": {
@@ -30,5 +34,8 @@
     "notes": [
       "Importat automat din oca.org, orthodox-calendar; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "peter-of-cetinje--10-31"
+  ]
 }

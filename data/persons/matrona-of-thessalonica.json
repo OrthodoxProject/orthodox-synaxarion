@@ -24,6 +24,11 @@
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/03/27/100913-martyr-matrona-of-thessalonica",
       "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/russian_saints.json",
+      "accessed": "2026-11-08"
     }
   ],
   "editorial": {
@@ -32,5 +37,8 @@
     "notes": [
       "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "matrona-of-thessalonica-2"
+  ]
 }

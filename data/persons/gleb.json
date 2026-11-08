@@ -11,6 +11,11 @@
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/07/24/102082-martyrs-and-passion-bearers-boris-and-gleb",
       "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/05/102505-passion-bearer-gleb-in-baptism-david",
+      "accessed": "2026-11-08"
     }
   ],
   "editorial": {
@@ -20,5 +25,11 @@
       "Importat automat din oca.org; de verificat.",
       "Genul nu reiese din sursă; e de verificat."
     ]
+  },
+  "aliases": [
+    "gleb-2"
+  ],
+  "external_ids": {
+    "oca": "102505"
   }
 }

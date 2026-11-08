@@ -13,6 +13,11 @@
       "source": "src:doxologia",
       "url": "https://doxologia.ro/sfantul-sava-al-iii-lea",
       "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
     }
   ],
   "editorial": {
@@ -22,5 +27,8 @@
       "Importat automat din doxologia.ro; de verificat.",
       "Chipul sfințeniei nu reiese din titlu; „righteous” e provizoriu."
     ]
-  }
+  },
+  "aliases": [
+    "sava-iii"
+  ]
 }

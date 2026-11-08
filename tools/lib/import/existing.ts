@@ -31,7 +31,7 @@ export interface Existing {
   /** Existing persons as slots, by id. */
   persons: Map<string, Slot>;
   groups: Map<string, GroupSubject>;
-  /** All ids in use, by collection. */
+  /** All ids in use, by collection, with the former ids kept in `aliases`. */
   ids: Map<string, Set<string>>;
   /**
    * Commemorations by what identifies them in a source: "oca:<id>", "doxologia:<slug>",
@@ -105,6 +105,7 @@ const KIND_MAP: Record<string, ClusterKind> = {
   icon: "icon",
   council: "council",
   event: "event",
+  glorification: "glorification",
   angels: "angels",
   forefeast: "forefeast",
   afterfeast: "afterfeast",
@@ -117,7 +118,12 @@ const KIND_MAP: Record<string, ClusterKind> = {
 export function loadExisting(dataDir: string): Existing {
   const ds = loadDataset(dataDir);
   const existing: Existing = { dataset: ds, menaion: new Map(), movable: new Map(), clusters: new Map(), persons: new Map(), groups: new Map(), ids: new Map(), exact: new Map() };
-  for (const [collection, records] of ds.records) existing.ids.set(collection, new Set(records.keys()));
+  for (const [collection, records] of ds.records) {
+    // A merged record keeps the other id in `aliases`: that id is not free for a new record.
+    const ids = new Set(records.keys());
+    for (const rec of records.values()) for (const alias of (rec.aliases ?? []) as string[]) ids.add(alias);
+    existing.ids.set(collection, ids);
+  }
 
   const traditionsDir = join(dataDir, "traditions");
   for (const tradition of readdirSync(traditionsDir)) {

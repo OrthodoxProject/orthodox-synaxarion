@@ -13,6 +13,16 @@
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/07/10/101994-venerable-anthony-of-the-kiev-far-caves-founder-of-monasticism-i",
       "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/02/102463-venerable-anthony-of-the-kiev-far-caves",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/russian_saints.json",
+      "accessed": "2026-11-08"
     }
   ],
   "editorial": {
@@ -22,5 +32,9 @@
       "Importat automat din oca.org; de verificat.",
       "Genul nu reiese din sursă; e de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "anthony-of-the-kiev-far-caves-2",
+    "ven-anthony"
+  ]
 }

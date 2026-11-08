@@ -66,7 +66,7 @@ const EQUIVALENTS: string[][] = [
   ["eustatie", "eustathius", "eustace", "eustathios"],
   ["evdochia", "eudocia", "evdokia"],
   ["avraam", "abraham"],
-  ["avacum", "habakkuk", "abbacum", "avvakum"],
+  ["avacum", "habakkuk", "abbacum", "avvakum", "avakum"],
   ["avdie", "obadiah", "abdias"],
   ["agheu", "haggai", "aggeus"],
   ["sofonie", "zephaniah", "sophonias"],

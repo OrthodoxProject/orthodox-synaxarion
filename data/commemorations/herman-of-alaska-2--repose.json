@@ -1,8 +1,8 @@
 {
   "id": "herman-of-alaska-2--repose",
-  "kind": "repose",
+  "kind": "glorification",
   "subjects": [
-    "person:herman-of-alaska-2"
+    "person:herman-of-alaska"
   ],
   "date_rule": {
     "type": "fixed",
@@ -17,6 +17,15 @@
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/08/09/102241-glorification-of-venerable-herman-of-alaska-wonderworker-of-all",
       "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/russian_saints.json",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Herman_of_Alaska"
     }
   ],
   "editorial": {
@@ -25,5 +34,8 @@
     "notes": [
       "Importat automat din oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "commemoration-of-the-canonization-1970-of-st-herman"
+  ]
 }

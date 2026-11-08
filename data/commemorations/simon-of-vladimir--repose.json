@@ -1,9 +1,8 @@
 {
-  "id": "simon-of-vladimir-and-suzdal-of-the-kiev-near-caves",
+  "id": "simon-of-vladimir--repose",
   "kind": "repose",
   "subjects": [
-    "person:simon-of-vladimir",
-    "person:suzdal-of-the-kiev-near-caves"
+    "person:simon-of-vladimir"
   ],
   "date_rule": {
     "type": "fixed",
@@ -26,5 +25,8 @@
     "notes": [
       "Importat automat din oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "simon-of-vladimir-and-suzdal-of-the-kiev-near-caves"
+  ]
 }

@@ -1,6 +1,13 @@
+<div align="center">
+
+<img src="docs/logo.svg" alt="An Orthodox cross over an open book, inside a golden halo" width="160">
+
 # orthodox-synaxarion
 
 Orthodox Saints of the World: an open, structured, multilingual synaxarion of the Orthodox Churches (Eastern Orthodox, Oriental Orthodox and the Assyrian Church of the East), as JSON data validated by JSON Schema. A [website](https://orthodoxproject.github.io/orthodox-synaxarion/) with search, a static API and calendar feeds is generated from it, and so is the documentation [wiki](https://github.com/OrthodoxProject/orthodox-synaxarion/wiki).
+
+</div>
+
 
 **Status:** schema v0.1, with 17 edge-case examples. All records are drafts awaiting review.
 

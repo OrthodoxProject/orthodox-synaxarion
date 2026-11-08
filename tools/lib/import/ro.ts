@@ -305,7 +305,16 @@ export function splitHonorifics(title: string): { honorific: string; rest: strin
 }
 
 const FEMALE_RO = /(a|ia|ea)$/;
-const MALE_ENDING_A = new Set(["cleopa", "aitala", "achepsima", "samona", "sava", "luca", "toma", "iona", "ilia", "nichita", "zosima", "cosma", "iuda", "mina", "foca", "dima", "matia", "zaharia", "ieremia", "isaia", "osea", "iezechia", "andreia", "agapia", "sila", "barnaba", "varnava", "acvila", "zaheia", "ahila", "mamanta", "nicola", "akakia", "zahei", "ermia", "ilie", "mihea", "parmena", "ioachima", "nicandra"]);
+const MALE_ENDING_A = new Set([
+  "cleopa", "aitala", "achepsima", "samona", "sava", "luca", "toma", "iona", "ilia", "nichita", "zosima", "cosma", "iuda", "mina", "foca", "dima", "matia", "zaharia", "ieremia", "isaia", "osea", "iezechia", "andreia", "sila", "barnaba", "varnava", "acvila", "zaheia", "ahila", "mamanta", "nicola", "akakia", "zahei", "ermia", "ilie", "mihea", "parmena", "ioachima", "nicandra",
+  // Men's names that end like women's ("Anania", "Vavila", "Oprea").
+  "achila", "agava", "agripa", "anania", "antipa", "areta", "arhilia", "artema", "ascala", "atenagora",
+  "aulimpa", "azaria", "babnuda", "balana", "barsoma", "bata", "beda", "beza", "bidzina", "bisada",
+  "chifa", "columba", "cucsa", "dasia", "dosa", "dula", "gavdela", "hedra", "heracla", "hristea",
+  "iosua", "iuhanna", "kuksa", "marcura", "mari-mina", "maruta", "matra", "mausima", "miheia", "nehrua",
+  "niceta", "oprea", "papa", "papia", "pisora", "rabula", "salva", "semaia", "senuda", "sina",
+  "stefana", "suhia", "teona", "uarsenufa", "urosita", "varula", "vavila", "zevina", "zina",
+]);
 
 /** Gender of a Romanian first name, when the ending tells it. */
 export function genderOfRoName(given: string): Gender | undefined {

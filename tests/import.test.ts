@@ -15,7 +15,7 @@ import { isAllowed, parseRobots } from "../tools/lib/import/robots.ts";
 import { parseMonth } from "../tools/lib/import/sources/doxologia.ts";
 import { parseDay } from "../tools/lib/import/sources/oca.ts";
 import { splitTitle, type PatriarhiaDay, type PatriarhiaItem } from "../tools/lib/import/sources/patriarhia.ts";
-import { armenianUnits, cleanOverlayTitle, copticUnits, doxologiaUnits, julianMenaionDate, ocaUnits, overlayUnits, parseCopticTitle, type SourceData } from "../tools/lib/import/units.ts";
+import { armenianUnits, cleanOverlayTitle, copticUnits, doxologiaUnits, julianMenaionDate, ocaUnits, overlayUnits, parseCopticTitle, patriarhiaUnits, type SourceData } from "../tools/lib/import/units.ts";
 import { REPO_ROOT } from "../tools/lib/validate.ts";
 
 describe("robots.txt", () => {
@@ -104,6 +104,15 @@ describe("Romanian titles", () => {
     assert.deepEqual(parseRo("Sfântul Iustin Martirul și Filosoful").names.map((n) => n.text), ["Iustin Martirul și Filosoful"]);
     // After a comma, "și" names another saint.
     assert.deepEqual(parseRo("Sf. Ier. Epifanie, arhiepiscopul Ciprului, și Gherman, patriarhul Constantinopolului").names.map((n) => n.given), ["Epifanie", "Gherman"]);
+  });
+  it("reads men's names that end like women's as men's names", () => {
+    // The official calendar's abbreviations ("Sf. Ap.", "Sf. Mc.") do not tell the gender: the name does.
+    for (const title of ["Sf. Ap. Anania", "Sf. Ap. Achila", "Sf. Sfințit Mc. Vavila, Episcopul Antiohiei", "Sf. Ier. Niceta de Remesiana", "Sf. Cuv. Antipa de la Calapodești", "Sf. Mc. Oprea", "Sf. Mc. Hristea"]) {
+      assert.equal(parseRo(title).gender, "male", title);
+    }
+    // Women's names keep their endings, Agapia (the Virgin Martyr Agape) too.
+    assert.deepEqual(parseRo("Sf. Mc. Agapia, Irina și Hionia").names.map((n) => n.gender), ["female", "female", "female"]);
+    for (const title of ["Sf. Mc. Agripina", "Sf. Mc. Antonina"]) assert.equal(parseRo(title).gender, "female", title);
   });
 });
 
@@ -220,6 +229,17 @@ describe("English titles", () => {
     const second = parseEn("Second Day of the Nativity of our Lord");
     assert.equal(second.kind, "afterfeast");
     assert.equal(second.feast, "nativity-of-christ");
+  });
+  it("reads men's names that end like women's as men's names", () => {
+    for (const title of ["Venerable Constantine of Synnada", "Martyr Valentine", "Saint Augustine of Canterbury, Evangelizer of England", "Apostle Aquila of the Seventy", "Hieromartyr Kuksha", "Saint Columba of Iona, Enlightener of Scotland", "Urošica"]) {
+      assert.equal(parseEn(title).gender, "male", title);
+    }
+    assert.deepEqual(parseEn("Martyrs Inna, Pinna, and Rimma, disciples of Apostle Andrew in Scythia").names.map((n) => n.gender), ["male", "male", "male"]);
+    for (const title of ["The Departure of St. Shenouda (Shenoute), the Archimandrite.", "The Martyrdom of St. Mina (Menas), the Monk.", "The Departure of St. Takla Haymanot, the Ethiopian.", "Commemoration of Anba Marcura."]) {
+      assert.equal(parseCopticTitle(title).gender, "male", title);
+    }
+    // Women's names keep their endings.
+    for (const title of ["Martyr Aquilina", "Martyr Valentina", "Saint Constantia of Paphos"]) assert.equal(parseEn(title).gender, "female", title);
   });
 });
 
@@ -519,6 +539,28 @@ describe("matching the sources", () => {
     const groupName = (ref: string): string => output.files.get(`i18n/en/groups/${ref.replace(/^group:/, "")}.json`)?.names.display;
     assert.equal(groupName(martyrs?.subjects[0]), "Holy Martyrs Alphaeus, Zacchaeus, Romanus and John");
     assert.equal(groupName(thomas?.subjects[0]), "Saints Thomas, Victor, and Isaac of the City of Ashmunen");
+  });
+
+  it("writes a man whose name ends like a woman's as a man (Apostle Aquila, Sf. Ap. Achila)", () => {
+    const aquila: SourceData = {
+      accessed: "2026-11-08",
+      patriarhia: [{ year: 2026, month: 7, day: 14, url: "https://calendar.patriarhia.ro/", items: [{ text: "Sf. Ap. Achila", cross: null, color: "black" }], title: "Sf. Ap. Achila", subtitle: "", publicHoliday: false }],
+      doxologia: [],
+      oca: [2026, 2028].map((year) => ({ id: "900003", title: "Apostle Aquila of the Seventy", path: `/saints/lives/${year}/07/14/900003-apostle-aquila-of-the-seventy`, year, month: 7, day: 14, order: 0 })),
+      coptic: [],
+      armenian: [],
+      overlays: [],
+    };
+    const existing = loadExisting(join(REPO_ROOT, "tests", "fixtures", "minimal", "data"));
+    const builder = new Builder(existing);
+    builder.romanian([], patriarhiaUnits(aquila), [{ month: 7, day: 14 }]);
+    builder.russian(ocaUnits(aquila, [2026, 2028]).fixed);
+    const output = new RecordWriter(existing, { clusters: builder.clusters, lines: builder.lines, movable: builder.movable, stats: builder.stats }).write();
+    const persons = [...output.files.keys()].filter((k) => k.startsWith("persons/"));
+    assert.equal(persons.length, 1);
+    const person = output.files.get(persons[0] ?? "");
+    assert.equal(person?.gender, "male");
+    assert.ok(!person?.editorial.notes.some((n: string) => n.startsWith("Genul nu reiese")));
   });
 });
 

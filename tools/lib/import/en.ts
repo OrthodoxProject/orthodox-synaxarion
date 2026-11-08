@@ -214,6 +214,12 @@ const MALE_ENDING_A = new Set([
   "hezekiah",
   "nehemiah",
   "zephaniah",
+  // Men's names that end like women's ("Constantine", "Aquila", "Shenouda").
+  "agrippa", "ahijah", "antipa", "aquila", "askala", "augustine", "babnuda", "balanah", "barsoma", "bata",
+  "beza", "bisada", "celestine", "cleopa", "columba", "constantine", "cosma", "dada", "dasya", "dosa",
+  "hedra", "inna", "kuksha", "marcura", "mari-mina", "maruta", "matra", "mina", "nehroua", "oprea",
+  "ouarshenoufa", "pinna", "pisora", "rimma", "shalva", "shemaiah", "shenouda", "sina", "takla", "urosica",
+  "valentine", "varnava", "youhanna",
   "luka",
   "jona",
   "nikola",

@@ -370,6 +370,144 @@ main {
   color: var(--muted);
 }
 
+/* The day in other calendars: a closed panel at the end of the page. */
+.other-calendars {
+  margin: 2.5rem 0 0;
+  font-size: 0.92rem;
+}
+
+.other-calendars > summary {
+  width: fit-content;
+  color: var(--muted);
+  cursor: pointer;
+}
+
+.other-calendars > summary:hover {
+  color: var(--accent);
+}
+
+.other-calendars h3 {
+  margin: 1.1rem 0 0.3rem;
+  font-family: var(--sans);
+  font-size: 0.76rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+.calendar-dates {
+  margin: 0;
+}
+
+.calendar-dates > div {
+  display: grid;
+  grid-template-columns: 16rem 1fr;
+  gap: 0 1rem;
+  padding: 0.25rem 0;
+  border-top: 1px solid var(--border);
+}
+
+.calendar-dates dt {
+  color: var(--muted);
+}
+
+.calendar-dates dd {
+  margin: 0;
+}
+
+.native {
+  margin-left: 0.6rem;
+  color: var(--muted);
+}
+
+.calendar-note {
+  margin: 1rem 0 0;
+}
+
+.calendar-info {
+  position: relative;
+  display: inline-grid;
+  place-items: center;
+  width: 1.15rem;
+  height: 1.15rem;
+  margin-left: 0.35rem;
+  padding: 0;
+  border: 1px solid currentColor;
+  border-radius: 50%;
+  background: none;
+  color: var(--muted);
+  font: italic 700 0.72rem/1 var(--serif);
+  vertical-align: 0.08em;
+  cursor: pointer;
+}
+
+/* A larger target for fingers than the drawn circle. */
+.calendar-info::after {
+  content: "";
+  position: absolute;
+  inset: -0.35rem;
+}
+
+.calendar-info:hover,
+.calendar-info:focus-visible {
+  color: var(--accent);
+}
+
+.calendar-tip {
+  max-width: min(22rem, calc(100vw - 16px));
+  padding: 0.6rem 0.8rem;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--card);
+  color: var(--fg);
+  box-shadow: 0 6px 24px rgb(0 0 0 / 0.18);
+  font-size: 0.88rem;
+  line-height: 1.45;
+}
+
+/* Placed next to its button by the page's script; otherwise in the middle of the screen. */
+.calendar-tip.placed {
+  inset: auto;
+  margin: 0;
+}
+
+.calendar-tip p {
+  margin: 0 0 0.4rem;
+}
+
+.calendar-today {
+  font-size: 1.05rem;
+}
+
+.calendar-index {
+  list-style: none;
+  padding: 0;
+}
+
+.calendar-index li {
+  padding: 0.35rem 0;
+  border-top: 1px solid var(--border);
+}
+
+.calendar-index-summary {
+  display: block;
+  font-size: 0.9rem;
+}
+
+.calendar-page code {
+  font-size: 0.9em;
+}
+
+.calendar-page pre {
+  overflow-x: auto;
+  padding: 0.6rem 0.8rem;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: var(--card);
+  font-size: 0.85rem;
+}
+
 /* Search components take the site's colors, in light and dark mode. */
 .search {
   --pf-text: var(--fg);
@@ -402,5 +540,9 @@ main {
 
   .facts dt {
     margin-top: 0.4rem;
+  }
+
+  .calendar-dates > div {
+    grid-template-columns: 1fr;
   }
 }

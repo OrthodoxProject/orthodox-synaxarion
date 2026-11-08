@@ -1012,7 +1012,8 @@ export class Builder {
   /**
    * The person of the Byzantine calendars a Coptic or Armenian name designates:
    * St John the Baptist, or the only apostle, prophet or evangelist of that
-   * name (of a compatible kind of holiness, when `holinessMustFit`).
+   * name (of a compatible kind of holiness, when `holinessMustFit`), or of
+   * that name and epithet ("St. John the Evangelist").
    */
   private universalFor(part: NamePart, holiness: Set<HolinessType>, text: string, holinessMustFit: boolean): Slot | undefined {
     // Many Johns are apostles or prophets: "the Baptist" names one.
@@ -1026,7 +1027,10 @@ export class Builder {
       const other = s.en?.part ?? s.ro?.part;
       return other !== undefined && givenSimilarity(part, other) >= 0.9 && (!holinessMustFit || holinessCompatible(holiness, s.holiness));
     });
-    return found.length === 1 ? found[0] : undefined;
+    if (found.length === 1) return found[0];
+    const epithets = (["apostle", "prophet", "evangelist"] as const).filter((h) => new RegExp(`\\bthe ${h}\\b`, "i").test(text));
+    const named = epithets.length > 0 ? found.filter((s) => epithets.every((h) => s.holiness.has(h))) : [];
+    return named.length === 1 ? named[0] : undefined;
   }
 
   /**

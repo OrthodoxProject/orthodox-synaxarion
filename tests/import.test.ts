@@ -508,6 +508,7 @@ describe("Coptic and Armenian lines on universal saints", () => {
       ...person("elizabeth-the-prophet", ["righteous", "prophet"], "Holy Prophet Elizabeth, parents of Saint John the Baptist", "Dreapta Elisabeta, mama Sfântului Ioan Botezătorul"),
       ...person("john-the-baptist", ["prophet"], "Holy Prophet, Forerunner, and Baptist John", "Sf. Proroc Ioan Botezătorul"),
       ...person("john-the-theologian", ["apostle", "evangelist"], "Apostle and Evangelist John the Theologian", "Sf. Ap. și Ev. Ioan"),
+      ...person("john-mark", ["apostle"], "Apostle John, called Mark", "Sf. Ap. Ioan Marcu"),
       ...person("zachariah-the-prophet-2", ["prophet"], "Holy Prophet Zachariah", "Sf. Proroc Zaharia, tatăl Sfântului Ioan Botezătorul"),
     });
     try {
@@ -520,6 +521,7 @@ describe("Coptic and Armenian lines on universal saints", () => {
         { month: 1, day: 2, n: 1, title: "The Martyrdom of St. John the Baptist." },
         { month: 1, day: 26, n: 1, title: "The Angels' Annunciation of John the Baptist to Zacharias" },
         { month: 10, day: 30, n: 1, title: "The Nativity of St. John, the Baptist." },
+        { month: 5, day: 4, n: 1, title: "The Departure of St. John the Evangelist and Theologian" },
       ];
       const armenianPage = "https://armenianchurch.ge/en/kalendar-prazdnikov/description-2/";
       const armenian: SourceData["armenian"] = [
@@ -558,6 +560,8 @@ describe("Coptic and Armenian lines on universal saints", () => {
         assert.equal(of(url)?.kind, "event", url);
       }
       assert.deepEqual(subjects(`${armenianPage}april/beheading`), ["person:john-the-baptist"]);
+      // Of the apostles named John, "the Evangelist" names one.
+      assert.deepEqual(subjects(copticLine("5_4#1")), ["person:john-the-theologian"]);
       assert.deepEqual([...output.files.keys()].filter((k) => k.startsWith("persons/")).sort(), ["persons/anna.json", "persons/mary-of-egypt.json"]);
     } finally {
       rmSync(dir, { recursive: true, force: true });

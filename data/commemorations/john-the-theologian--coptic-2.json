@@ -1,10 +1,15 @@
 {
-  "id": "john-the-evangelist",
-  "kind": "saint",
-  "gender": "male",
-  "holiness_types": [
-    "righteous"
+  "id": "john-the-theologian--coptic-2",
+  "kind": "repose",
+  "subjects": [
+    "person:john-the-theologian"
   ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 16,
+    "calendar": "coptic"
+  },
   "external_ids": {
     "copticchurch": "9_16#1"
   },
@@ -19,9 +24,10 @@
     "status": "draft",
     "confidence": "low",
     "notes": [
-      "Importat automat din copticchurch.net; de verificat.",
-      "Chipul sfințeniei nu reiese din titlu; „righteous” e provizoriu.",
-      "Genul nu reiese din sursă; e de verificat."
+      "Importat automat din copticchurch.net; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "john-the-evangelist--repose"
+  ]
 }

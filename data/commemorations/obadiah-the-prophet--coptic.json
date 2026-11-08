@@ -1,8 +1,8 @@
 {
-  "id": "obadiah--repose",
+  "id": "obadiah-the-prophet--coptic",
   "kind": "repose",
   "subjects": [
-    "person:obadiah"
+    "person:obadiah-the-prophet"
   ],
   "date_rule": {
     "type": "fixed",
@@ -26,5 +26,8 @@
     "notes": [
       "Importat automat din copticchurch.net; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "obadiah--repose"
+  ]
 }

@@ -1,0 +1,34 @@
+{
+  "id": "meeting-of-the-vladimir-icon-of-theotokos",
+  "kind": "icon",
+  "subjects": [
+    "icon:meeting-of-the-vladimir-icon-of-theotokos"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 21
+  },
+  "external_ids": {
+    "oca": "101458"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoane-maicii-domnului-din-vladimir",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/21/101458-meeting-of-the-vladimir-icon-of-the-mother-of-god",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, oca.org; de verificat."
+    ]
+  }
+}

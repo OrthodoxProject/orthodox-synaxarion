@@ -1,0 +1,18 @@
+{
+  "id": "icon-of-theotokos-socola",
+  "locale": "ro",
+  "names": {
+    "display": "Icoana Maicii Domnului de la Mănăstirea Socola"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoane-maicii-domnului-de-la-manastirea-socola",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

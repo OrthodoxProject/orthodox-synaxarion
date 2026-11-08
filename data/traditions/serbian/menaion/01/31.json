@@ -1,0 +1,42 @@
+{
+  "tradition": "serbian",
+  "date": "01-31",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:maximus-of-ungro-wallachia--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:cyrus--repose",
+        "comm:john--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:victorinus--repose",
+        "comm:victor--repose",
+        "comm:nikephoros--repose",
+        "comm:claudius--repose",
+        "comm:diodorus--repose",
+        "comm:serapion--repose",
+        "comm:papias-of-egypt--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:tryphaine-at-cyzicus--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:arsenius-of-paros--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

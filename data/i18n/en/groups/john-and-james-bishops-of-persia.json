@@ -1,0 +1,18 @@
+{
+  "id": "john-and-james-bishops-of-persia",
+  "locale": "en",
+  "names": {
+    "display": "Saints John and James, Bishops of Persia"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/3_4.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

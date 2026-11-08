@@ -18,10 +18,16 @@
   "sources": [
     {
       "source": "src:copticchurch-synaxarium"
+    },
+    {
+      "source": "src:st-takla-synaxarium"
     }
   ],
   "editorial": {
     "status": "draft",
-    "confidence": "medium"
+    "confidence": "medium",
+    "notes": [
+      "Calendarul pe zile e importat automat din sinaxarul copt (copticchurch.net, cu legăturile din st-takla.org)."
+    ]
   }
 }

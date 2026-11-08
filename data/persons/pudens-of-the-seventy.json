@@ -1,0 +1,26 @@
+{
+  "id": "pudens-of-the-seventy",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "apostle"
+  ],
+  "external_ids": {
+    "oca": "101084"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/15/101084-apostle-pudens-of-the-seventy",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat.",
+      "Genul nu reiese din sursă; e de verificat."
+    ]
+  }
+}

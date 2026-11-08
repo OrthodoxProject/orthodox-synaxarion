@@ -1,0 +1,21 @@
+{
+  "id": "afrodisie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Afrodisie",
+    "full": "Sfântul Mucenic Afrodisie",
+    "short": "Afrodisie",
+    "given": "Afrodisie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-afrodisie",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

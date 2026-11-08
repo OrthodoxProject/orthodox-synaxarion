@@ -1,0 +1,20 @@
+{
+  "id": "julian-of-cenomanis",
+  "locale": "en",
+  "names": {
+    "display": "Saint Julian, Bishop of Cenomanis (Le Mans), Gaul",
+    "short": "Julian, Bishop of Cenomanis, Gaul",
+    "given": "Julian"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/13/102019-saint-julian-bishop-of-cenomanis-le-mans-gaul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

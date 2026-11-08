@@ -1,0 +1,39 @@
+{
+  "id": "45-martyrs-at-nicopolis-in-armenia",
+  "kind": "repose",
+  "subjects": [
+    "group:45-martyrs-at-nicopolis-in-armenia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 10
+  },
+  "external_ids": {
+    "oca": "101984"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfintii-45-de-mucenici-din-nicopolea-armeniei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-45-de-mucenici-din-nicopolea-armeniei/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/10/101984-45-holy-martyrs-at-nicopolis-in-armenia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

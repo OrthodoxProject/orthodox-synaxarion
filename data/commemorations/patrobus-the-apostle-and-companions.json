@@ -1,0 +1,33 @@
+{
+  "id": "patrobus-the-apostle-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:patrobus-the-apostle",
+    "person:hermes-the-apostle",
+    "person:linus-the-apostle",
+    "person:gaius-the-apostle",
+    "person:philologus-of-seventy"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 5
+  },
+  "external_ids": {
+    "oca": "103179"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/05/103179-apostles-patrobus-hermes-linus-gaius-and-philologus-of-the-seven",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

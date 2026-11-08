@@ -1,0 +1,22 @@
+{
+  "id": "sahak-partev",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "hierarch"
+  ],
+  "sources": [
+    {
+      "source": "src:armenianchurch-ge",
+      "url": "https://armenianchurch.ge/en/kalendar-prazdnikov/description-2/february/commemoration-of-the-pontiff-st-sahak-partev",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din armenianchurch.ge; de verificat."
+    ]
+  }
+}

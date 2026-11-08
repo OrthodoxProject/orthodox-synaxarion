@@ -1,0 +1,23 @@
+{
+  "id": "maximus-the-confessor--translation-of-relics",
+  "locale": "en",
+  "names": {
+    "display": "Translation of the relics of Saint Maximus the Confessor"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/13/102285-translation-of-the-relics-of-saint-maximus-the-confessor",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/13/102286-uncovering-of-the-relics-of-venerable-maximus-of-moscow-the-fool",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

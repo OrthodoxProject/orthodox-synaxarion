@@ -1,0 +1,31 @@
+{
+  "id": "icon-of-theotokos-indrumatoarea-of-manastirea-neamt",
+  "kind": "icon",
+  "subjects": [
+    "icon:icon-of-theotokos-indrumatoarea-of-manastirea-neamt"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 9
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoane-maicii-domnului-indrumatoarea-de-la-manastirea-neamt",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-cinstirea-sfintei-icoane-a-maicii-domnului-indrumatoarea-de-la-manastirea-neamt-sf-sfintit-mc-pangratie-episcopul-tavromeniei/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro; de verificat."
+    ]
+  }
+}

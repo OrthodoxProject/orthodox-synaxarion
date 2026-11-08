@@ -1,0 +1,21 @@
+{
+  "id": "ioan-of-antiohia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ioan, Arhiepiscopul Antiohiei",
+    "full": "Sfântul Ierarh Ioan, Arhiepiscopul Antiohiei",
+    "short": "Ioan, Arhiepiscopul Antiohiei",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-ioan-arhiepiscopul-antiohiei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

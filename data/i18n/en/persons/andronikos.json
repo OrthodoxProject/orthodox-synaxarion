@@ -1,0 +1,20 @@
+{
+  "id": "andronikos",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Andronikos, Disciple of Saint Sergius",
+    "short": "Andronikos, Disciple of Saint Sergius",
+    "given": "Andronikos"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/13/101714-venerable-andronikos-disciple-of-saint-sergius",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

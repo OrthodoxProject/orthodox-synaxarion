@@ -1,0 +1,32 @@
+{
+  "tradition": "serbian",
+  "date": "10-31",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:peter-of-cetinje--10-31"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:apelles-the-apostle--repose",
+        "comm:amplias-the-apostle--repose",
+        "comm:urban-the-apostle--repose",
+        "comm:narcissus-of-the-70--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:aristobulus-of-the-seventy--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:100-000-martyrs-of-tbilisi-by-the-mongols"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

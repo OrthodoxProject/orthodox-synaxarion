@@ -1,0 +1,20 @@
+{
+  "id": "stephen-of-makhrishche",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Stephen, Abbot of Makhrishche, Vologda",
+    "short": "Stephen, Abbot of Makhrishche, Vologda",
+    "given": "Stephen"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/14/102024-venerable-stephen-abbot-of-makhrishche-vologda",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

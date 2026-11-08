@@ -1,0 +1,21 @@
+{
+  "id": "hanani-the-prophet",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Proroc Anania",
+    "full": "Sfântul Proroc Anania",
+    "short": "Anania",
+    "given": "Anania"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-proroc-anania",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "euthymius-5-and-chariton-of-syanzhemsk",
+  "kind": "repose",
+  "subjects": [
+    "person:euthymius-5",
+    "person:chariton-of-syanzhemsk"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 28
+  },
+  "external_ids": {
+    "oca": "102743"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/28/102743-venerable-euthymius-and-chariton-of-syanzhemsk-vologda",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

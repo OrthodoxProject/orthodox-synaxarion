@@ -1,0 +1,20 @@
+{
+  "id": "nahum-the-prophet",
+  "locale": "en",
+  "names": {
+    "display": "Prophet Nahum",
+    "short": "Nahum",
+    "given": "Nahum"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/01/103452-prophet-nahum",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "serghie-marturisitorul",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "venerable",
+    "confessor"
+  ],
+  "external_ids": {
+    "doxologia": "sfantul-cuvios-serghie-marturisitorul"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-serghie-marturisitorul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/odovania-injumatatirii-cincizecimii-sf-mc-glicheria-sf-serghie-marturisitorul-dezlegare-la-peste/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro; de verificat."
+    ]
+  }
+}

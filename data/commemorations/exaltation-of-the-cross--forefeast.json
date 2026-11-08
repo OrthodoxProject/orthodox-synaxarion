@@ -1,0 +1,27 @@
+{
+  "id": "exaltation-of-the-cross--forefeast",
+  "kind": "forefeast",
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 13
+  },
+  "parent_feast": "comm:exaltation-of-the-cross",
+  "external_ids": {
+    "oca": "102592"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/13/102592-forefeast-of-the-elevation-of-the-cross",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

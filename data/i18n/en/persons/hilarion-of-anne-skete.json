@@ -1,0 +1,20 @@
+{
+  "id": "hilarion-of-anne-skete",
+  "locale": "en",
+  "names": {
+    "display": "Monastic Martyr Hilarion of Saint Anne Skete, Mount Athos",
+    "short": "Hilarion of Saint Anne Skete, Mount Athos",
+    "given": "Hilarion"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/20/102681-monastic-martyr-hilarion-of-saint-anne-skete-mount-athos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

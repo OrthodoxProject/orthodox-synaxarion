@@ -1,0 +1,29 @@
+{
+  "id": "timothy-of-prusa",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Timotei, Episcopul Prusei",
+    "full": "Sfântul Sfințit Mucenic Timotei, Episcopul Prusei",
+    "short": "Timotei, Episcopul Prusei",
+    "given": "Timotei",
+    "variants": [
+      "Sf. Sfințit Mc. Timotei, episcopul Prusei"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-sfintit-mucenic-timotei-episcopul-prusei-0",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-alexandru-si-antonina-sf-sfintit-mc-timotei-episcopul-prusei/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

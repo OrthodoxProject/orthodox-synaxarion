@@ -1,0 +1,30 @@
+{
+  "tradition": "serbian",
+  "date": "06-22",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:eusebius-of-samosata--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:zeno--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:galacteon--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:alban-of-verulamul-britaniei--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

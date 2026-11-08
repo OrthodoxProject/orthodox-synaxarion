@@ -1,0 +1,29 @@
+{
+  "id": "gideon--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:gideon"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 26
+  },
+  "external_ids": {
+    "oca": "100092"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/26/100092-the-righteous-gideon",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

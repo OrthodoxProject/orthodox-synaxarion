@@ -1,0 +1,26 @@
+{
+  "id": "anthony-the-roman-and-abbot-of-novgorod",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "venerable"
+  ],
+  "external_ids": {
+    "oca": "102192"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/03/102192-venerable-anthony-the-roman-and-abbot-of-novgorod",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat.",
+      "Genul nu reiese din sursă; e de verificat."
+    ]
+  }
+}

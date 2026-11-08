@@ -1,0 +1,25 @@
+{
+  "id": "agapit-of-lavra-pecerska",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "venerable"
+  ],
+  "external_ids": {
+    "doxologia": "sfantul-cuvios-agapit-de-la-lavra-pecerska"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-agapit-de-la-lavra-pecerska",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

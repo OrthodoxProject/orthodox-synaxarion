@@ -1,0 +1,19 @@
+{
+  "id": "john-of-herakleia",
+  "locale": "en",
+  "names": {
+    "display": "John of Herakleia",
+    "given": "John"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/10_4.html?lang=en#3",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

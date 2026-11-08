@@ -1,0 +1,26 @@
+{
+  "id": "tatiana",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Tatiana, diaconița",
+    "full": "Sfânta Muceniță Tatiana, diaconița",
+    "short": "Tatiana, diaconița",
+    "given": "Tatiana"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-tatiana-diaconita",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-tatiana-diaconita-si-eutasia-duminica-dupa-botezul-domnului-ap-efeseni-4-7-13-ev-matei-4-12-17-inceputul-propovaduirii-domnului-glas-4-voscr-7/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

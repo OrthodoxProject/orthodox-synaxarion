@@ -1,0 +1,20 @@
+{
+  "id": "menas-of-egypt",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Menas of Egypt",
+    "short": "Menas of Egypt",
+    "given": "Menas"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/11/103277-martyr-menas-of-egypt",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

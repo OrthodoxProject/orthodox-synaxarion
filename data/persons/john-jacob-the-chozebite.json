@@ -1,0 +1,36 @@
+{
+  "id": "john-jacob-the-chozebite",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "venerable"
+  ],
+  "external_ids": {
+    "doxologia": "sfantul-cuvios-ioan-iacob-de-la-neamt",
+    "oca": "149012"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-ioan-iacob-de-la-neamt",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/inainte-praznuirea-schimbarii-la-fata-a-domnului-%e2%80%a0-sf-cuv-ioan-iacob-de-la-neamt-sf-mc-evsignie-sf-nona-mama-sf-ier-grigorie-teologul-sf-ier-fabian-episcopul-romei/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/05/149012-saint-john-jacob-the-chozebite",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

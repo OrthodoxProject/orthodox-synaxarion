@@ -1,0 +1,29 @@
+{
+  "id": "cassian-of-uglich--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:cassian-of-uglich"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 2
+  },
+  "external_ids": {
+    "oca": "102840"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/02/102840-venerable-cassian-of-uglich",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

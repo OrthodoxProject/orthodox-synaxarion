@@ -1,0 +1,20 @@
+{
+  "id": "hellius-of-egypt",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Hellius of Egypt",
+    "short": "Hellius of Egypt",
+    "given": "Hellius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/14/102026-venerable-hellius-of-egypt",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

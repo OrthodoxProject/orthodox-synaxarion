@@ -1,0 +1,20 @@
+{
+  "id": "sabiana-of-samtskhe-monastery",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Sabiana, Abbess of the Samtskhe Monastery",
+    "short": "Sabiana, Abbess of the Samtskhe Monastery",
+    "given": "Sabiana"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/31/205473-venerable-sabiana-abbess-of-the-samtskhe-monastery",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

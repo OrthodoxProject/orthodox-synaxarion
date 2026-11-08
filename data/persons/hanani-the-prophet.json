@@ -1,0 +1,31 @@
+{
+  "id": "hanani-the-prophet",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "prophet"
+  ],
+  "external_ids": {
+    "doxologia": "sfantul-proroc-anania",
+    "oca": "100254"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-proroc-anania",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/27/100254-prophet-hanani",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, oca.org; de verificat."
+    ]
+  }
+}

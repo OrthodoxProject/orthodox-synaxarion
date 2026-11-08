@@ -1,0 +1,21 @@
+{
+  "id": "alexander-nevsky",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Alexandru Nevski",
+    "full": "Sfântul Alexandru Nevski",
+    "short": "Alexandru Nevski",
+    "given": "Alexandru"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-alexandru-nevski",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

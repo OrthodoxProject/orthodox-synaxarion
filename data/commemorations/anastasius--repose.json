@@ -1,0 +1,29 @@
+{
+  "id": "anastasius--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:anastasius"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 21
+  },
+  "external_ids": {
+    "oca": "100256"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/21/100256-martyr-anastasius-disciple-of-venerable-maximus-the-confessor",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

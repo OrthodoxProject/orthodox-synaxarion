@@ -1,0 +1,29 @@
+{
+  "id": "theophano-the-wonderworker",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Teofana Împărăteasa",
+    "full": "Sfânta Teofana Împărăteasa",
+    "short": "Teofana Împărăteasa",
+    "given": "Teofana",
+    "variants": [
+      "Sf. Teofana împărăteasa"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-teofana-imparateasa",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-proroc-agheu-sf-teofana-imparateasa/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

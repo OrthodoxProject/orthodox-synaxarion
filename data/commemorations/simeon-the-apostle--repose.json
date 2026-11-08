@@ -1,0 +1,31 @@
+{
+  "id": "simeon-the-apostle--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:simeon-the-apostle"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 27
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-sfintit-mucenic-simeon-ruda-domnului",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ap-simeon-rudenia-domnului-episcopul-ierusalimului/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "anthony-of-chqondidi",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "hierarch"
+  ],
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/13/205434-saint-anthony-metropolitan-of-chqondidi-and-saint-jacob-elder-of",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat.",
+      "Genul nu reiese din sursă; e de verificat."
+    ]
+  }
+}

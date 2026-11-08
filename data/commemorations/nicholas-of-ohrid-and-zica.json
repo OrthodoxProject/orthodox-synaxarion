@@ -1,0 +1,31 @@
+{
+  "id": "nicholas-of-ohrid-and-zica",
+  "kind": "repose",
+  "subjects": [
+    "person:nicholas-of-ohrid",
+    "person:zica"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 31
+  },
+  "sources": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nicholas_of_Ohrid_and_%C5%BDi%C4%8Da"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din orthodox-calendar, Wikipedia; de verificat."
+    ]
+  }
+}

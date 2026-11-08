@@ -1,0 +1,21 @@
+{
+  "id": "george-of-the-iveron-monastery-on-mount",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Gheorghe Ivirul",
+    "full": "Sfântul Cuvios Gheorghe Ivirul",
+    "short": "Gheorghe Ivirul",
+    "given": "Gheorghe"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-gheorghe-ivirul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

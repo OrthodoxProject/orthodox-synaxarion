@@ -1,0 +1,18 @@
+{
+  "id": "10-000-martyrs",
+  "locale": "en",
+  "names": {
+    "display": "10,000 Martyrs"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/13/100176-10000-martyrs",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

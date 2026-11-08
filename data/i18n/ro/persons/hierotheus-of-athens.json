@@ -1,0 +1,29 @@
+{
+  "id": "hierotheus-of-athens",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Ierotei, Episcopul Atenei",
+    "full": "Sfântul Sfințit Mucenic Ierotei, Episcopul Atenei",
+    "short": "Ierotei, Episcopul Atenei",
+    "given": "Ierotei",
+    "variants": [
+      "Sf. Sfințit Mc. Ierotei, episcopul Atenei Duminica a 19-a după Rusalii"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-sfintit-mucenic-ierotei-episcopul-atenei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-preot-marturisitor-dumitru-staniloae-sf-sfintit-mc-ierotei-episcopul-atenei-duminica-a-19-a-dupa-rusalii-ap-2-corinteni-11-31-33-12-1-9-ev-luca-6-31-36-predica-de-pe-munte/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "manetha-of-c-sarea-in-palestine--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:manetha-of-c-sarea-in-palestine"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 13
+  },
+  "external_ids": {
+    "oca": "206386"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/13/206386-martyr-manetha-of-csarea-in-palestine",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

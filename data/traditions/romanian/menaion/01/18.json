@@ -1,0 +1,23 @@
+{
+  "tradition": "romanian",
+  "date": "01-18",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:atanasie-of-alexandria--repose",
+        "comm:cyril-of-alexandria--repose"
+      ],
+      "symbol": "red-plain"
+    },
+    {
+      "commemorations": [
+        "comm:hristofor-papoulakos--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:alexie-susania--repose"
+      ]
+    }
+  ]
+}

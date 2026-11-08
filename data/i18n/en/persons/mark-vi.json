@@ -1,0 +1,20 @@
+{
+  "id": "mark-vi",
+  "locale": "en",
+  "names": {
+    "display": "Pope Mark (Marcus) VI, the 101st. Patriarch",
+    "short": "Mark VI, the 101st. Patriarch",
+    "given": "Mark"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/8_15.html?lang=en#4",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

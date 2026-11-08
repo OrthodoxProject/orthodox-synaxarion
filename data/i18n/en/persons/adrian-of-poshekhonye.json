@@ -1,0 +1,20 @@
+{
+  "id": "adrian-of-poshekhonye",
+  "locale": "en",
+  "names": {
+    "display": "Monastic Martyr Adrian of Poshekhonye, Yaroslavl",
+    "short": "Adrian of Poshekhonye, Yaroslavl",
+    "given": "Adrian"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/05/100663-monastic-martyr-adrian-of-poshekhonye-yaroslavl",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

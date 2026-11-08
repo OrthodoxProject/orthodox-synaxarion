@@ -1,0 +1,26 @@
+{
+  "id": "dionisie-of-zakynthos--translation-of-relics",
+  "kind": "relics_translation",
+  "subjects": [
+    "person:dionisie-of-zakynthos"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 24
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/mutarea-moastelor-sfantului-ierarh-dionisie-din-zakynthos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

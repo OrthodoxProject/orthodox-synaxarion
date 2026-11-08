@@ -1,0 +1,21 @@
+{
+  "id": "vasile-of-tesalonic",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Vasile, Episcopul Tesalonicului",
+    "full": "Sfântul Vasile, Episcopul Tesalonicului",
+    "short": "Vasile, Episcopul Tesalonicului",
+    "given": "Vasile"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-vasile-episcopul-tesalonicului",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

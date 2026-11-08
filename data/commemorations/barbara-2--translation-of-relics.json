@@ -1,0 +1,29 @@
+{
+  "id": "barbara-2--translation-of-relics",
+  "kind": "relics_translation",
+  "subjects": [
+    "person:barbara-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 11
+  },
+  "external_ids": {
+    "oca": "149025"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/11/149025-transfer-of-the-relics-of-saint-barbara",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

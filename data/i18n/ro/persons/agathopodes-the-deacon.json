@@ -1,0 +1,21 @@
+{
+  "id": "agathopodes-the-deacon",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Agatopod",
+    "full": "Sfântul Mucenic Agatopod",
+    "short": "Agatopod",
+    "given": "Agatopod"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-agatopod",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

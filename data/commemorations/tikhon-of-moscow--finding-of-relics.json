@@ -1,0 +1,29 @@
+{
+  "id": "tikhon-of-moscow--finding-of-relics",
+  "kind": "relics_finding",
+  "subjects": [
+    "person:tikhon-of-moscow"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 22
+  },
+  "external_ids": {
+    "oca": "100253"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/22/100253-finding-of-the-relics-of-saint-tikhon-of-moscow",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

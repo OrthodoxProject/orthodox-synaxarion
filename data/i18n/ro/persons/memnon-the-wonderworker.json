@@ -1,0 +1,29 @@
+{
+  "id": "memnon-the-wonderworker",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Memnon, făcătorul de minuni",
+    "full": "Sfântul Cuvios Memnon, făcătorul de minuni",
+    "short": "Memnon, făcătorul de minuni",
+    "given": "Memnon",
+    "variants": [
+      "Sf. Cuv. Memnon"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-memnon-facatorul-de-minuni",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-9-mucenici-din-cizic-sf-cuv-memnon-dezlegare-la-peste/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

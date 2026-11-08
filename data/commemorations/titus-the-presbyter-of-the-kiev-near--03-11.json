@@ -1,0 +1,26 @@
+{
+  "id": "titus-the-presbyter-of-the-kiev-near--03-11",
+  "kind": "repose",
+  "subjects": [
+    "person:titus-the-presbyter-of-the-kiev-near"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 11
+  },
+  "sources": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/russian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din orthodox-calendar; de verificat."
+    ]
+  }
+}

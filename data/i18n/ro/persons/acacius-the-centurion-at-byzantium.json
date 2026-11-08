@@ -1,0 +1,26 @@
+{
+  "id": "acacius-the-centurion-at-byzantium",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Acachie",
+    "full": "Sfântul Mucenic Acachie",
+    "short": "Acachie",
+    "given": "Acachie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-acachie",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/aratarea-pe-cer-a-semnului-sfintei-cruci-in-ierusalim-sf-mc-acachie-si-codrat/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

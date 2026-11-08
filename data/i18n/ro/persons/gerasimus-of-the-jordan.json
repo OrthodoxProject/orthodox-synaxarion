@@ -1,0 +1,26 @@
+{
+  "id": "gerasimus-of-the-jordan",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Gherasim de la Iordan",
+    "full": "Sfântul Cuvios Gherasim de la Iordan",
+    "short": "Gherasim de la Iordan",
+    "given": "Gherasim"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-gherasim-de-la-iordan",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-gherasim-de-la-iordan-sf-mc-pavel-si-sora-sa-iuliana/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "januarius-of-benevento",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Ianuarie, Episcop de Benevent",
+    "full": "Sfântul Sfințit Mucenic Ianuarie, Episcop de Benevent",
+    "short": "Ianuarie, Episcop de Benevent",
+    "given": "Ianuarie",
+    "variants": [
+      "Sf. Sfințit Mc. Ianuarie, episcop de Benevent"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-sfintit-mucenic-ianuarie-episcop-de-benevent",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-sfintit-mc-ianuarie-episcop-de-benevent-sf-mc-teodor-din-perga-sf-mc-alexandra-imparateasa/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

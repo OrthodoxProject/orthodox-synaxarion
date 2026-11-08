@@ -1,0 +1,20 @@
+{
+  "id": "jonah-of-novgorod",
+  "locale": "en",
+  "names": {
+    "display": "Repose of Saint Jonah, Archbishop of Novgorod",
+    "short": "Jonah, Archbishop of Novgorod",
+    "given": "Jonah"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/05/103178-repose-of-saint-jonah-archbishop-of-novgorod",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

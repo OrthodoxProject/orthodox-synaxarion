@@ -1,0 +1,29 @@
+{
+  "id": "neofit-cretanul-of-tarii",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Martir Neofit Cretanul, Mitropolitul Țării Românești",
+    "full": "Sfântul Ierarh Martir Neofit Cretanul, Mitropolitul Țării Românești",
+    "short": "Neofit Cretanul, Mitropolitul Țării Românești",
+    "given": "Neofit",
+    "variants": [
+      "Sf. Ier. Martir Neofit Cretanul, mitropolitul Țării Românești"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-martir-neofit-cretanul-mitropolitul-tarii-romanesti",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ier-martir-neofit-cretanul-mitropolitul-tarii-romanesti-sf-ier-tihon-episcopul-amatundei-dezlegare-la-peste/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

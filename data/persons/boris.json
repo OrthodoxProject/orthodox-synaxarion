@@ -1,0 +1,24 @@
+{
+  "id": "boris",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "martyr",
+    "passion_bearer"
+  ],
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/24/102082-martyrs-and-passion-bearers-boris-and-gleb",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat.",
+      "Genul nu reiese din sursă; e de verificat."
+    ]
+  }
+}

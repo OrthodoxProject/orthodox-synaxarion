@@ -1,0 +1,29 @@
+{
+  "id": "zosimus-of-phoenicia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:zosimus-of-phoenicia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 8
+  },
+  "external_ids": {
+    "oca": "101667"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/08/101667-venerable-zosimus-of-phoenicia-syria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

@@ -20,10 +20,20 @@
     {
       "source": "src:orthodox-calendar",
       "locator": "backend/app/config.py"
+    },
+    {
+      "source": "src:oca-lives"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json"
     }
   ],
   "editorial": {
     "status": "draft",
-    "confidence": "medium"
+    "confidence": "medium",
+    "notes": [
+      "Calendarul pe zile e importat automat: pomenirile comune calendarului BOR și calendarului OCA (Mineiul bizantin comun), cu încredere scăzută, plus sfinții locali din lista orthodox-calendar. De verificat cu calendarul oficial al Bisericii Ortodoxe Sârbe."
+    ]
   }
 }

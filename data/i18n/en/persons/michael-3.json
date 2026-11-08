@@ -1,0 +1,28 @@
+{
+  "id": "michael-3",
+  "locale": "en",
+  "names": {
+    "display": "Saint Michael, first Metropolitan of Kiev",
+    "short": "Michael, first Metropolitan of Kiev",
+    "given": "Michael",
+    "variants": [
+      "Our Father among the Saints Michael, Metropolitan of Kiev (992)"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/15/103805-saint-michael-first-metropolitan-of-kiev",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/30/102820-saint-michael-first-metropolitan-of-kiev",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

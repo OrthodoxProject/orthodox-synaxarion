@@ -1,0 +1,20 @@
+{
+  "id": "neofit-dohiaritul",
+  "locale": "ro",
+  "names": {
+    "display": "Cuviosul Neofit Dohiaritul",
+    "short": "Neofit Dohiaritul",
+    "given": "Neofit"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cuviosul-neofit-dohiaritul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

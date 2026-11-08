@@ -1,0 +1,20 @@
+{
+  "id": "florus",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Florus",
+    "short": "Florus",
+    "given": "Florus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/18/102324-martyrs-florus-and-laurus-of-illyria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

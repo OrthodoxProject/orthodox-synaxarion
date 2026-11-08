@@ -1,0 +1,21 @@
+{
+  "id": "mamant",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mamant",
+    "full": "Sfântul Cuvios Mamant",
+    "short": "Mamant",
+    "given": "Mamant"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-mamant",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

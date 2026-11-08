@@ -1,0 +1,20 @@
+{
+  "id": "ephraim-the-wonderworker",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Ephraim the Wonderworker, disciple of Abramius, and Archimandrite of Smolensk",
+    "short": "Ephraim the Wonderworker, disciple of Abramius and Archimandrite of Smolensk",
+    "given": "Ephraim"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/21/102361-venerable-ephraim-the-wonderworker-disciple-of-abramius-and-arch",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

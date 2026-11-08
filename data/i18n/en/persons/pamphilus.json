@@ -1,0 +1,20 @@
+{
+  "id": "pamphilus",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Pamphilus",
+    "short": "Pamphilus",
+    "given": "Pamphilus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/12/108996-martyrs-pamphilus-and-capiton",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

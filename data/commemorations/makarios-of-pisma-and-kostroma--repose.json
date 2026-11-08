@@ -1,0 +1,29 @@
+{
+  "id": "makarios-of-pisma-and-kostroma--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:makarios-of-pisma-and-kostroma"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 10
+  },
+  "external_ids": {
+    "oca": "100144"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/10/100144-venerable-makarios-of-pisma-and-kostroma",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

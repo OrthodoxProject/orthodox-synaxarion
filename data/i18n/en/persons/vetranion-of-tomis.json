@@ -1,0 +1,20 @@
+{
+  "id": "vetranion-of-tomis",
+  "locale": "en",
+  "names": {
+    "display": "Saint Vetranion of Tomis",
+    "short": "Vetranion of Tomis",
+    "given": "Vetranion"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/25/100246-saint-vetranion-of-tomis",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "euthymius-the-new-of-iveron-monastery",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Eftimie Ivirul",
+    "full": "Sfântul Cuvios Eftimie Ivirul",
+    "short": "Eftimie Ivirul",
+    "given": "Eftimie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-eftimie-ivirul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

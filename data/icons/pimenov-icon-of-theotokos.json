@@ -1,0 +1,26 @@
+{
+  "id": "pimenov-icon-of-theotokos",
+  "subject": "theotokos",
+  "depicts": [
+    "person:theotokos"
+  ],
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoanei-maicii-domnului-pimenovskaia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/06/101640-pimenov-icon-of-the-mother-of-god",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, oca.org; de verificat."
+    ]
+  }
+}

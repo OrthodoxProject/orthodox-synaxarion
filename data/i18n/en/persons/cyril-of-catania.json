@@ -1,0 +1,20 @@
+{
+  "id": "cyril-of-catania",
+  "locale": "en",
+  "names": {
+    "display": "Saint Cyril, Bishop of Catania",
+    "short": "Cyril, Bishop of Catania",
+    "given": "Cyril"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/21/100859-saint-cyril-bishop-of-catania",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

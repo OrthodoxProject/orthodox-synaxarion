@@ -1,0 +1,34 @@
+{
+  "id": "john-iv",
+  "locale": "en",
+  "names": {
+    "display": "Saint John IV, 48th Pope of Alexandria",
+    "short": "John IV, 48th Pope of Alexandria",
+    "given": "John",
+    "variants": [
+      "Saint Yoannis the 16th, the 103rd Pope of Alexandria",
+      "Saint Yoannis XV, 99th Pope of Alexandria"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/5_16.html?lang=en#2",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/10_10.html?lang=en#3",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/13_5.html?lang=en#4",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

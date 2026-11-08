@@ -1,0 +1,29 @@
+{
+  "id": "niketas-the-goth--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:niketas-the-goth"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 15
+  },
+  "external_ids": {
+    "oca": "102615"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/15/102615-greatmartyr-niketas-the-goth",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

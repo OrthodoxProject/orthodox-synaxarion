@@ -1,0 +1,20 @@
+{
+  "id": "ioannikios",
+  "locale": "en",
+  "names": {
+    "display": "Saint Ioannikios, Father Confessor of the Dormition Holy Mountain Hermitage",
+    "short": "Ioannikios, Father Confessor of the Dormition Holy Mountain Hermitage",
+    "given": "Ioannikios"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/10/100383-saint-ioannikios-father-confessor-of-the-dormition-holy-mountain",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

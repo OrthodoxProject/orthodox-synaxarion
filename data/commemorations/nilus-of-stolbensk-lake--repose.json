@@ -1,0 +1,29 @@
+{
+  "id": "nilus-of-stolbensk-lake--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:nilus-of-stolbensk-lake"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 7
+  },
+  "external_ids": {
+    "oca": "103487"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/07/103487-venerable-nilus-of-stolbensk-lake",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

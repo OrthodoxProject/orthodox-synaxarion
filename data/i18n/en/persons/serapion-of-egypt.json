@@ -1,0 +1,25 @@
+{
+  "id": "serapion-of-egypt",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Serapion of Egypt",
+    "short": "Serapion of Egypt",
+    "given": "Serapion"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/07/101022-venerable-serapion-of-egypt",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/14/101379-venerable-serapion-of-egypt",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

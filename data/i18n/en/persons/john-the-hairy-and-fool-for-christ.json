@@ -1,0 +1,25 @@
+{
+  "id": "john-the-hairy-and-fool-for-christ",
+  "locale": "en",
+  "names": {
+    "display": "Blessed John “the Hairy” and Fool-For-Christ at Rostov",
+    "short": "John \"the Hairy\" and Fool-For-Christ at Rostov",
+    "given": "John"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/03/102480-blessed-john-the-hairy-and-fool-for-christ-at-rostov",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/12/103288-blessed-john-the-hairy-and-fool-for-christ-at-rostov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "icon-of-theotokos-the-nurturer",
+  "kind": "icon",
+  "subjects": [
+    "icon:icon-of-theotokos-the-nurturer"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 5
+  },
+  "external_ids": {
+    "oca": "100671"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/05/100671-icon-of-the-mother-of-god-the-nurturer",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

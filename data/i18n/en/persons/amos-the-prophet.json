@@ -1,0 +1,20 @@
+{
+  "id": "amos-the-prophet",
+  "locale": "en",
+  "names": {
+    "display": "Prophet Amos",
+    "short": "Amos",
+    "given": "Amos"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/15/101724-prophet-amos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

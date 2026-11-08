@@ -1,0 +1,20 @@
+{
+  "id": "athanasius-the-new",
+  "locale": "en",
+  "names": {
+    "display": "Saint Athanasius the New, Wonderworker and Archbishop of Christianopolis",
+    "short": "Athanasius the New, Wonderworker and Archbishop of Christianopolis",
+    "given": "Athanasius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/17/205359-saint-athanasius-the-new-wonderworker-and-archbishop-of-christia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

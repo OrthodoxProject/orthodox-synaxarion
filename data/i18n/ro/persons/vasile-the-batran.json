@@ -1,0 +1,21 @@
+{
+  "id": "vasile-the-batran",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Vasile cel Bătrân, tatăl Sfântului Vasile cel Mare",
+    "full": "Sfântul Vasile cel Bătrân, tatăl Sfântului Vasile cel Mare",
+    "short": "Vasile cel Bătrân, tatăl Sfântului Vasile cel Mare",
+    "given": "Vasile"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-vasile-cel-batran-tatal-sfantului-vasile-cel-mare",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "moses-the-prophet",
+  "locale": "en",
+  "names": {
+    "display": "Holy Prophet and God-seer Moses",
+    "short": "Moses",
+    "given": "Moses"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/04/102490-holy-prophet-and-god-seer-moses",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

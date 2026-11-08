@@ -1,0 +1,26 @@
+{
+  "id": "theodore-graptus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Teodor Mărturisitorul",
+    "full": "Sfântul Cuvios Teodor Mărturisitorul",
+    "short": "Teodor Mărturisitorul",
+    "given": "Teodor"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-teodor-marturisitorul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ap-intaiul-mc-si-arhidiacon-stefan-sf-cuv-teodor-marturisitorul-duminica-dupa-nasterea-domnului-a-sfintilor-iosif-logodnicul-david-prorocul-si-iacob-rudenia-domnului-ap-gala/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

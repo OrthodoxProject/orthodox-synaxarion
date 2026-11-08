@@ -1,0 +1,20 @@
+{
+  "id": "paul-4",
+  "locale": "en",
+  "names": {
+    "display": "Saint Paul, Physician of Corinth",
+    "short": "Paul, Physician of Corinth",
+    "given": "Paul"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/28/101838-saint-paul-physician-of-corinth",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

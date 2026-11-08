@@ -1,0 +1,30 @@
+{
+  "id": "eutasia",
+  "kind": "saint",
+  "gender": "female",
+  "holiness_types": [
+    "martyr"
+  ],
+  "external_ids": {
+    "doxologia": "sfanta-mucenita-eutasia"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-eutasia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-tatiana-diaconita-si-eutasia-duminica-dupa-botezul-domnului-ap-efeseni-4-7-13-ev-matei-4-12-17-inceputul-propovaduirii-domnului-glas-4-voscr-7/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro; de verificat."
+    ]
+  }
+}

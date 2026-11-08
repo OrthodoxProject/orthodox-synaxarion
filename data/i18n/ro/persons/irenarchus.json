@@ -1,0 +1,26 @@
+{
+  "id": "irenarchus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Irinarh",
+    "full": "Sfântul Mucenic Irinarh",
+    "short": "Irinarh",
+    "given": "Irinarh"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-irinarh",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-marturisitor-arsenie-de-la-prislop-sf-cuv-mc-stefan-cel-nou-sf-mc-irinarh-dezlegare-la-peste/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

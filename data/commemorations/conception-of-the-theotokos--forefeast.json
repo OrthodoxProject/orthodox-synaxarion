@@ -1,0 +1,24 @@
+{
+  "id": "conception-of-the-theotokos--forefeast",
+  "kind": "forefeast",
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 8
+  },
+  "parent_feast": "comm:conception-of-the-theotokos",
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/inainte-praznuirea-sfintei-ana",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

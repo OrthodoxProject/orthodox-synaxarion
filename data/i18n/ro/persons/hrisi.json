@@ -1,0 +1,21 @@
+{
+  "id": "hrisi",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Hrisi",
+    "full": "Sfânta Muceniță Hrisi",
+    "short": "Hrisi",
+    "given": "Hrisi"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-hrisi",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ignatius-brianchaninov-of-caucasus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ignatie Briancianinov",
+    "full": "Sfântul Ierarh Ignatie Briancianinov",
+    "short": "Ignatie Briancianinov",
+    "given": "Ignatie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-ignatie-briancianinov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

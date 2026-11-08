@@ -1,0 +1,39 @@
+{
+  "id": "michael-maleinos--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:michael-maleinos"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 12
+  },
+  "external_ids": {
+    "oca": "103802"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-mihail-maleinul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-cinstirea-sfintei-icoane-a-maicii-domnului-prodromita-de-la-muntele-athos-sf-mc-proclu-si-ilarie-sf-cuv-mihail-maleinul-sf-veronica-sf-cuv-paisie-aghioritul-duminica-a-6-a-dupa/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/12/103802-venerable-michael-maleinos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "agathadorus",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "martyr"
+  ],
+  "external_ids": {
+    "doxologia": "sfantul-mucenic-agatodor"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-agatodor",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-aducerea-moastelor-sfantului-apostol-andrei-la-iasi-sf-mc-carp-papil-agatodor-agatonica-si-florentie/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/13/102953-martyrs-carpus-papylus-agathadorus-and-agathonica-at-pergamum",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

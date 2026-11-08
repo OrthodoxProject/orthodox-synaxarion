@@ -1,0 +1,26 @@
+{
+  "id": "olivian",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Olivian",
+    "full": "Sfântul Sfințit Mucenic Olivian",
+    "short": "Olivian",
+    "given": "Olivian"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-sfintit-mucenic-olivian",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/odovania-praznicului-inaltarii-domnului-sf-mc-teodosia-fecioara-sf-sfintit-mc-olivian-dezlegare-la-peste/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

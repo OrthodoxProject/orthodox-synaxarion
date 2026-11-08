@@ -1,0 +1,36 @@
+{
+  "id": "leonidas-2-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:leonidas-2",
+    "person:chariessa",
+    "person:nice",
+    "person:galina",
+    "person:kalista",
+    "person:nunechia",
+    "person:basilissa-3",
+    "person:theodora-3"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 16
+  },
+  "external_ids": {
+    "oca": "101109"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/16/101109-martyrs-leonidas-chariessa-nice-galina-kalista-nunechia-basiliss",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

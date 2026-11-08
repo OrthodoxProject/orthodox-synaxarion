@@ -1,0 +1,26 @@
+{
+  "id": "filofteia-of-pasarea--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:filofteia-of-pasarea"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 13
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-filofteia-de-la-pasarea-mama-sfantului-ierarh-calinic-de-la-cernica",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

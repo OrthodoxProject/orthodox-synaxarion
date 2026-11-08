@@ -1,0 +1,20 @@
+{
+  "id": "phoebe-the-deaconess-at-cenchreae-near-corinth",
+  "locale": "en",
+  "names": {
+    "display": "Saint Phoebe the Deaconess at Cenchreae near Corinth",
+    "short": "Phoebe the Deaconess at Cenchreae near Corinth",
+    "given": "Phoebe"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/03/102481-saint-phoebe-the-deaconess-at-cenchreae-near-corinth",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

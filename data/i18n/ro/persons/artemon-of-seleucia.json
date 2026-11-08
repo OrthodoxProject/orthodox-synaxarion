@@ -1,0 +1,29 @@
+{
+  "id": "artemon-of-seleucia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Artemon, Episcopul Seleuciei",
+    "full": "Sfântul Ierarh Artemon, Episcopul Seleuciei",
+    "short": "Artemon, Episcopul Seleuciei",
+    "given": "Artemon",
+    "variants": [
+      "Sf. Ier. Artemon, episcopul Seleuciei"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-artemon-episcopul-seleuciei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/inainte-praznuirea-bunei-vestiri-sf-ier-artemon-episcopul-seleuciei/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

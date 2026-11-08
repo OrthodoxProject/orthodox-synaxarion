@@ -1,0 +1,29 @@
+{
+  "id": "martyrs-paul-and-two-sisters-chionia-and-alevtina",
+  "kind": "repose",
+  "subjects": [
+    "group:martyrs-paul-and-two-sisters-chionia-and-alevtina"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 16
+  },
+  "external_ids": {
+    "oca": "102035"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/16/102035-martyrs-paul-and-two-sisters-chionia-thea-and-alevtina-valentina",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

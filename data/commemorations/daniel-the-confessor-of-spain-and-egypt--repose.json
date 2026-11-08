@@ -1,0 +1,29 @@
+{
+  "id": "daniel-the-confessor-of-spain-and-egypt--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:daniel-the-confessor-of-spain-and-egypt"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 17
+  },
+  "external_ids": {
+    "oca": "103563"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/17/103563-venerable-daniel-the-confessor-in-schema-stephen-of-spain-and-eg",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

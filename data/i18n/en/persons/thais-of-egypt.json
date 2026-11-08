@@ -1,0 +1,28 @@
+{
+  "id": "thais-of-egypt",
+  "locale": "en",
+  "names": {
+    "display": "Blessed Thais of Egypt",
+    "short": "Thais of Egypt",
+    "given": "Thais",
+    "variants": [
+      "Venerable Thais of Egypt"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/10/101346-blessed-thais-of-egypt",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/08/102902-venerable-thais-of-egypt",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

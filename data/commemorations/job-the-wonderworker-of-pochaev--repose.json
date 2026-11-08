@@ -1,0 +1,34 @@
+{
+  "id": "job-the-wonderworker-of-pochaev--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:job-the-wonderworker-of-pochaev"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 28
+  },
+  "external_ids": {
+    "oca": "103087"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-iov-de-la-poceaev",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/28/103087-repose-of-venerable-job-the-wonderworker-abbot-of-pochaev",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, oca.org; de verificat."
+    ]
+  }
+}

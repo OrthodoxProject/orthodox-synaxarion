@@ -1,0 +1,20 @@
+{
+  "id": "sarah",
+  "locale": "en",
+  "names": {
+    "display": "Saint Sarah, and her two sons",
+    "short": "Sarah, her two sons",
+    "given": "Sarah"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/8_25.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

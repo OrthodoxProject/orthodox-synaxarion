@@ -1,0 +1,20 @@
+{
+  "id": "leander-of-seville",
+  "locale": "en",
+  "names": {
+    "display": "Saint Leander of Seville",
+    "short": "Leander of Seville",
+    "given": "Leander"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/27/205329-saint-leander-of-seville",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

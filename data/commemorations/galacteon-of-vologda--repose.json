@@ -1,0 +1,29 @@
+{
+  "id": "galacteon-of-vologda--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:galacteon-of-vologda"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 24
+  },
+  "external_ids": {
+    "oca": "102717"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/24/102717-monastic-martyr-galacteon-of-vologda",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

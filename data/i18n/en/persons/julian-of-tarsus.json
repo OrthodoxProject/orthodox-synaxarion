@@ -1,0 +1,20 @@
+{
+  "id": "julian-of-tarsus",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Julian of Tarsus, in Cilicia",
+    "short": "Julian of Tarsus, in Cilicia",
+    "given": "Julian"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/21/101772-martyr-julian-of-tarsus-in-cilicia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

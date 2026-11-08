@@ -1,0 +1,29 @@
+{
+  "id": "procopius-of-vyatka-the-fool-for-christ--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:procopius-of-vyatka-the-fool-for-christ"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 21
+  },
+  "external_ids": {
+    "oca": "103606"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/21/103606-blessed-procopius-of-vyatka-the-fool-for-christ",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

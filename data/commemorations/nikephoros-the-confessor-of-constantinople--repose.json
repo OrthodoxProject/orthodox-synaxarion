@@ -1,0 +1,39 @@
+{
+  "id": "nikephoros-the-confessor-of-constantinople--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:nikephoros-the-confessor-of-constantinople"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 2
+  },
+  "external_ids": {
+    "oca": "101581"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-nichifor-patriarhul-constantinopolului",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-mare-mc-ioan-cel-nou-de-la-suceava-sf-ier-nichifor-marturisitorul-patriarhul-constantinopolului/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/02/101581-saint-nikephoros-the-confessor-patriarch-of-constantinople",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

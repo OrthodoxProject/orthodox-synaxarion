@@ -1,0 +1,20 @@
+{
+  "id": "hypomone",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Hypomone",
+    "short": "Hypomone",
+    "given": "Hypomone"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/05/205339-martyr-hypomone",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

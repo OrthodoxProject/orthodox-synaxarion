@@ -1,0 +1,21 @@
+{
+  "id": "helen-of-sinope",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Elena din Sinope",
+    "full": "Sfânta Muceniță Elena din Sinope",
+    "short": "Elena din Sinope",
+    "given": "Elena"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-elena-din-sinope",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

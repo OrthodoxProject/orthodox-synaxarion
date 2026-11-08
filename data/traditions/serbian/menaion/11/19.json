@@ -1,0 +1,30 @@
+{
+  "tradition": "serbian",
+  "date": "11-19",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:obadiah-the-prophet--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:barlaam-of-caesarea--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:hilarion-the-wonderworker--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:philaret-of-moscow-and-kolomnei"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

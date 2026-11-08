@@ -1,0 +1,26 @@
+{
+  "id": "george-the-confessor-of-constantinople",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "confessor"
+  ],
+  "external_ids": {
+    "oca": "101369"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/13/101369-saint-george-the-confessor-with-his-wife-and-children-of-constan",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat.",
+      "Genul nu reiese din sursă; e de verificat."
+    ]
+  }
+}

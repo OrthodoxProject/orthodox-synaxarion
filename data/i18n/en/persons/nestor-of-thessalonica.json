@@ -1,0 +1,20 @@
+{
+  "id": "nestor-of-thessalonica",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Nestor of Thessalonica",
+    "short": "Nestor of Thessalonica",
+    "given": "Nestor"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/27/103066-martyr-nestor-of-thessalonica",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

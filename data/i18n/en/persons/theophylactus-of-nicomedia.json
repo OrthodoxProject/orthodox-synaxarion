@@ -1,0 +1,20 @@
+{
+  "id": "theophylactus-of-nicomedia",
+  "locale": "en",
+  "names": {
+    "display": "Saint Theophylactus, Bishop of Nicomedia",
+    "short": "Theophylactus, Bishop of Nicomedia",
+    "given": "Theophylactus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/08/100698-saint-theophylactus-bishop-of-nicomedia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

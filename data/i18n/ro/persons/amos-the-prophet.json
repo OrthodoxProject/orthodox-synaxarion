@@ -1,0 +1,26 @@
+{
+  "id": "amos-the-prophet",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Proroc Amos",
+    "full": "Sfântul Proroc Amos",
+    "short": "Amos",
+    "given": "Amos"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-proroc-amos",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-proroc-amos-%e2%80%a0-sf-mc-isihie-fericitii-augustin-si-ieronim-dezlegare-la-peste/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

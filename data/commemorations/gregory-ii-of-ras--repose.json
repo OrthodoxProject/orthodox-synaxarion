@@ -1,0 +1,30 @@
+{
+  "id": "gregory-ii-of-ras--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:gregory-ii-of-ras"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 12
+  },
+  "sources": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gregory_II_of_Ras"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din orthodox-calendar, Wikipedia; de verificat."
+    ]
+  }
+}

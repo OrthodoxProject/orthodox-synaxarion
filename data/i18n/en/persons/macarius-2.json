@@ -1,0 +1,20 @@
+{
+  "id": "macarius-2",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Macarius",
+    "short": "Macarius",
+    "given": "Macarius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/06/102518-martyrs-eudoxius-zeno-and-macarius",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

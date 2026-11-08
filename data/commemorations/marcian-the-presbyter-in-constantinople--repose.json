@@ -1,0 +1,34 @@
+{
+  "id": "marcian-the-presbyter-in-constantinople--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:marcian-the-presbyter-in-constantinople"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 10
+  },
+  "external_ids": {
+    "oca": "100142"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-marchian",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/10/100142-saint-marcian-the-presbyter-in-constantinople",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, oca.org; de verificat."
+    ]
+  }
+}

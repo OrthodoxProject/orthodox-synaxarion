@@ -1,0 +1,26 @@
+{
+  "id": "mary-magdalene",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mironosiță și întocmai cu Apostolii Maria Magdalena",
+    "full": "Sfânta Mironosiță și întocmai cu Apostolii Maria Magdalena",
+    "short": "Maria Magdalena",
+    "given": "Maria"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mironosita-intocmai-cu-apostolii-maria-magdalena",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-preot-marturisitor-ilie-lacatusu-sf-mironosita-si-intocmai-cu-apostolii-maria-magdalena-sf-cuv-mc-marcela/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

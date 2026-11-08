@@ -1,0 +1,20 @@
+{
+  "id": "basil-the-great-of-caesarea",
+  "locale": "en",
+  "names": {
+    "display": "Saint Basil the Great, Archbishop of Caesarea in Cappadocia",
+    "short": "Basil the Great, Archbishop of Caesarea in Cappadocia",
+    "given": "Basil"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/01/100003-saint-basil-the-great-archbishop-of-caesarea-in-cappadocia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

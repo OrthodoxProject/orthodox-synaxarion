@@ -1,0 +1,21 @@
+{
+  "id": "thecla",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Tecla",
+    "full": "Sfânta Muceniță Tecla",
+    "short": "Tecla",
+    "given": "Tecla"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-tecla-0",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "dius-of-antioch",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "venerable"
+  ],
+  "external_ids": {
+    "doxologia": "sfantul-cuvios-die",
+    "oca": "102054"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-die",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-macrina-sora-sf-vasile-cel-mare-sfintii-din-familia-sf-vasile-cel-mare-sf-cuv-die-aflarea-moastelor-sf-cuv-serafim-de-sarov-duminica-a-7-a-dupa-rusalii-a-sf-parinti-de-la-sinodul/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/19/102054-venerable-dius-abbot-of-antioch",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

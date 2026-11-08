@@ -1,0 +1,21 @@
+{
+  "id": "peter-of-moscow",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Petru, Mitropolitul Moscovei",
+    "full": "Sfântul Ierarh Petru, Mitropolitul Moscovei",
+    "short": "Petru, Mitropolitul Moscovei",
+    "given": "Petru"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-petru-mitropolitul-moscovei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

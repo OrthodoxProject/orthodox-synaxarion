@@ -1,0 +1,29 @@
+{
+  "id": "vendemianus-the-hermit-of-bithynia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:vendemianus-the-hermit-of-bithynia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 1
+  },
+  "external_ids": {
+    "oca": "100405"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/01/100405-venerable-vendemianus-the-hermit-of-bithynia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

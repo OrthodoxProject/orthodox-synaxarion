@@ -1,0 +1,29 @@
+{
+  "id": "nectarius-kephalas-of-pentapolis--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:nectarius-kephalas-of-pentapolis"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 9
+  },
+  "external_ids": {
+    "oca": "103251"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/09/103251-saint-nectarius-kephalas-metropolitan-of-pentapolis",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

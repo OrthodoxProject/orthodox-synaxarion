@@ -1,0 +1,20 @@
+{
+  "id": "hierotheus-the-younger-of-iveron",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Hierotheus the Younger of Ivḗron, Mount Athos",
+    "short": "Hierotheus the Younger of Ivḗron, Mount Athos",
+    "given": "Hierotheus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/13/102609-venerable-hierotheus-the-younger-of-ivron-mount-athos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

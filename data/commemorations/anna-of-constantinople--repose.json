@@ -1,0 +1,29 @@
+{
+  "id": "anna-of-constantinople--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:anna-of-constantinople"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 13
+  },
+  "external_ids": {
+    "oca": "101716"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/13/101716-saint-anna-and-her-son-saint-john-of-constantinople",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

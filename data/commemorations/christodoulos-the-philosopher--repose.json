@@ -1,0 +1,29 @@
+{
+  "id": "christodoulos-the-philosopher--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:christodoulos-the-philosopher"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 18
+  },
+  "external_ids": {
+    "oca": "205475"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/18/205475-venerable-christodoulos-the-philosopher",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

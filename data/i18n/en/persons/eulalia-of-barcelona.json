@@ -1,0 +1,20 @@
+{
+  "id": "eulalia-of-barcelona",
+  "locale": "en",
+  "names": {
+    "display": "Virgin Martyr Eulalia of Barcelona",
+    "short": "Eulalia of Barcelona",
+    "given": "Eulalia"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/22/102374-virgin-martyr-eulalia-of-barcelona-and-the-martyr-felix",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

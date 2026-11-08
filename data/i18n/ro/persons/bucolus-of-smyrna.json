@@ -1,0 +1,26 @@
+{
+  "id": "bucolus-of-smyrna",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Vucol, Episcopul Smirnei",
+    "full": "Sfântul Ierarh Vucol, Episcopul Smirnei",
+    "short": "Vucol, Episcopul Smirnei",
+    "given": "Vucol"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-vucol-episcopul-smirnei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ier-vucol-episcopul-smirnei-si-fotie-patriarhul-constantinopolului-sf-cuv-varsanufie-cel-mare-si-ioan-din-gaza-harti/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

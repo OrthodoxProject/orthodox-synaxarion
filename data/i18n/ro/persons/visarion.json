@@ -1,0 +1,26 @@
+{
+  "id": "visarion",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Visarion",
+    "full": "Sfântul Cuvios Visarion",
+    "short": "Visarion",
+    "given": "Visarion"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-visarion",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ier-leon-episcopul-cataniei-sf-cuv-visarion-zi-aliturgica-dezlegare-la-branza-lapte-oua-si-peste/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

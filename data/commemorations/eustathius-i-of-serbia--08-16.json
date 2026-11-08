@@ -1,0 +1,29 @@
+{
+  "id": "eustathius-i-of-serbia--08-16",
+  "kind": "repose",
+  "subjects": [
+    "person:eustathius-i-of-serbia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 16
+  },
+  "external_ids": {
+    "oca": "108056"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/16/108056-saint-eustathius-of-serbia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

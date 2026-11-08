@@ -1,0 +1,20 @@
+{
+  "id": "hesychius-of-antioch",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Hesychius of Antioch",
+    "short": "Hesychius of Antioch",
+    "given": "Hesychius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/10/101344-martyr-hesychius-of-antioch",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

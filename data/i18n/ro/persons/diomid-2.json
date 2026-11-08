@@ -1,0 +1,21 @@
+{
+  "id": "diomid-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Diomid",
+    "full": "Sfântul Mucenic Diomid",
+    "short": "Diomid",
+    "given": "Diomid"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-diomid-0",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

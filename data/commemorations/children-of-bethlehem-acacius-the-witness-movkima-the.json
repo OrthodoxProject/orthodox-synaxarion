@@ -1,0 +1,26 @@
+{
+  "id": "children-of-bethlehem-acacius-the-witness-movkima-the",
+  "kind": "repose",
+  "subjects": [
+    "group:children-of-bethlehem-acacius-the-witness-movkima-the"
+  ],
+  "date_rule": {
+    "type": "unspecified",
+    "note": "Zi mobilă în calendarul armean; regula e de stabilit."
+  },
+  "sources": [
+    {
+      "source": "src:armenianchurch-ge",
+      "url": "https://armenianchurch.ge/en/kalendar-prazdnikov/description-2/june/commemoration-of-the-children-of-bethlehem-acacius-the-witness-movkima-the-priest-and-kotriatos-the-soldier",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din armenianchurch.ge; de verificat.",
+      "În calendarul armenianchurch.ge apare în luna iunie; ziua se stabilește după regulile calendarului armean (de completat)."
+    ]
+  }
+}

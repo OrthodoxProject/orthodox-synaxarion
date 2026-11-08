@@ -1,0 +1,20 @@
+{
+  "id": "haggai-the-prophet",
+  "locale": "en",
+  "names": {
+    "display": "Prophet Haggai",
+    "short": "Haggai",
+    "given": "Haggai"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/16/103556-prophet-haggai",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

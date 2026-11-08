@@ -1,0 +1,26 @@
+{
+  "id": "vladimir-icon-of-theotokos-of-seliger",
+  "subject": "theotokos",
+  "depicts": [
+    "person:theotokos"
+  ],
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoane-maicii-domnului-din-vladimir-seligersk",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/07/103493-vladimir-icon-of-the-mother-of-god-of-seliger",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, oca.org; de verificat."
+    ]
+  }
+}

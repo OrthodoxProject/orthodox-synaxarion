@@ -1,0 +1,29 @@
+{
+  "id": "jonah-of-pertomsk--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:jonah-of-pertomsk"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 12
+  },
+  "external_ids": {
+    "oca": "101703"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/12/101703-venerable-jonah-of-pertomsk-solovki",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

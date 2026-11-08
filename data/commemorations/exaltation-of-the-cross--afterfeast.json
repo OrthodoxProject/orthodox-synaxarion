@@ -1,0 +1,53 @@
+{
+  "id": "exaltation-of-the-cross--afterfeast",
+  "kind": "afterfeast",
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 15
+  },
+  "duration_days": 6,
+  "parent_feast": "comm:exaltation-of-the-cross",
+  "external_ids": {
+    "oca": "102614"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/15/102614-afterfeast-of-the-elevation-of-the-cross",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/16/102625-afterfeast-of-the-elevation-of-the-cross",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/17/102637-afterfeast-of-the-elevation-of-the-cross",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/18/102652-afterfeast-of-the-elevation-of-the-cross",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/19/102663-afterfeast-of-the-elevation-of-the-cross",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/20/102673-afterfeast-of-the-elevation-of-the-cross",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

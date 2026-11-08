@@ -1,0 +1,20 @@
+{
+  "id": "serapion-of-zarzma",
+  "locale": "en",
+  "names": {
+    "display": "Saint Serapion of Zarzma",
+    "short": "Serapion of Zarzma",
+    "given": "Serapion"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/29/103899-saint-serapion-of-zarzma",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

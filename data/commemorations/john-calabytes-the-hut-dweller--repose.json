@@ -1,0 +1,39 @@
+{
+  "id": "john-calabytes-the-hut-dweller--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:john-calabytes-the-hut-dweller"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 15
+  },
+  "external_ids": {
+    "oca": "100197"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-ioan-colibasul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-pavel-tebeul-si-ioan-colibasul/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/15/100197-venerable-john-calabytes-the-hut-dweller",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

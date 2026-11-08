@@ -1,0 +1,30 @@
+{
+  "tradition": "serbian",
+  "date": "01-28",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:ephraim-the-syrian--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:palladius-the-hermit-of-antioch--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:isaac-the-syrian-of-nineveh--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:totemsk-sumorin-icon-of-theotokos"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

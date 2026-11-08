@@ -1,0 +1,20 @@
+{
+  "id": "juliana-olshanskaya",
+  "kind": "saint",
+  "gender": "female",
+  "holiness_types": [
+    "right_believing"
+  ],
+  "sources": [
+    {
+      "source": "src:doxologia"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

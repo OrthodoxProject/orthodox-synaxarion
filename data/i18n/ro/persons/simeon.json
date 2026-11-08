@@ -1,0 +1,29 @@
+{
+  "id": "simeon",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. și Drept. Simeon, primitorul de Dumnezeu",
+    "full": "Sfântul și Dreptul Simeon, primitorul de Dumnezeu",
+    "short": "Simeon, primitorul de Dumnezeu",
+    "given": "Simeon",
+    "variants": [
+      "Sf. și Dreptul Simeon, primitorul de Dumnezeu"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-dreptul-simeon-primitorul-de-dumnezeu",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-si-dreptul-simeon-primitorul-de-dumnezeu-sf-prorocita-ana/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

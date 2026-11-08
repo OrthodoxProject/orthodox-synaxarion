@@ -1,0 +1,20 @@
+{
+  "id": "pisora-the-bishop",
+  "locale": "en",
+  "names": {
+    "display": "Saint Pisora the Bishop",
+    "short": "Pisora the Bishop",
+    "given": "Pisora"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/1_9.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

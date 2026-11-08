@@ -1,0 +1,39 @@
+{
+  "id": "andrew-stratelates--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:andrew-stratelates"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 19
+  },
+  "external_ids": {
+    "oca": "102340"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-andrei-stratilat",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-andrei-stratilat-timotei-agapie-si-tecla/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/19/102340-martyr-andrew-stratelates-and-2593-soldiers-with-him-in-cilicia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

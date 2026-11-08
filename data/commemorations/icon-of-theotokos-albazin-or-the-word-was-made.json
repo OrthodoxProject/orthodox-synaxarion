@@ -1,0 +1,29 @@
+{
+  "id": "icon-of-theotokos-albazin-or-the-word-was-made",
+  "kind": "icon",
+  "subjects": [
+    "icon:icon-of-theotokos-albazin-or-the-word-was-made"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 9
+  },
+  "external_ids": {
+    "oca": "100750"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/09/100750-icon-of-the-mother-of-god-albazin-or-the-word-was-made-flesh",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

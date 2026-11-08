@@ -1,0 +1,21 @@
+{
+  "id": "matrona-of-chios",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Matrona din Chios",
+    "full": "Sfânta Cuvioasă Matrona din Chios",
+    "short": "Matrona din Chios",
+    "given": "Matrona"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-matrona-din-chios",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

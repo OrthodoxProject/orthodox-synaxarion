@@ -1,0 +1,29 @@
+{
+  "id": "gerasimus-the-new-ascetic-of-cephalonia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Gherasim din Kefalonia",
+    "full": "Sfântul Cuvios Gherasim din Kefalonia",
+    "short": "Gherasim din Kefalonia",
+    "given": "Gherasim",
+    "variants": [
+      "Sf. Cuv. Gherasim din Chefalonia"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-gherasim-din-kefalonia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mare-mc-artemie-sf-cuv-gherasim-din-chefalonia/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

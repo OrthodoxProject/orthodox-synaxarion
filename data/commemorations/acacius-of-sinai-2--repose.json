@@ -1,0 +1,34 @@
+{
+  "id": "acacius-of-sinai-2--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:acacius-of-sinai-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 29
+  },
+  "external_ids": {
+    "oca": "103447"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-acachie",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/29/103447-venerable-acacius-of-sinai-who-is-mentioned-in-the-ladder",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, oca.org; de verificat."
+    ]
+  }
+}

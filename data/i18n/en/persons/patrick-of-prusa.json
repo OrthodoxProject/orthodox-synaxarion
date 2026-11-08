@@ -1,0 +1,20 @@
+{
+  "id": "patrick-of-prusa",
+  "locale": "en",
+  "names": {
+    "display": "Hieromartyr Patrick, Bishop of Prusa, and his companions",
+    "short": "Patrick, Bishop of Prusa",
+    "given": "Patrick"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/19/101435-hieromartyr-patrick-bishop-of-prusa-and-his-companions",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

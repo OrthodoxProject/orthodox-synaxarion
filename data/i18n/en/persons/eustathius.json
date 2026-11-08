@@ -1,0 +1,20 @@
+{
+  "id": "eustathius",
+  "locale": "en",
+  "names": {
+    "display": "Saint Eustathius and His Two Sons",
+    "short": "Eustathius, His Two Sons",
+    "given": "Eustathius"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/1_27.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

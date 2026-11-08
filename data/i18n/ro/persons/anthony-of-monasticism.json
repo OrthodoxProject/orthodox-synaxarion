@@ -1,0 +1,21 @@
+{
+  "id": "anthony-of-monasticism",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Antonie Stilitul din Georgia",
+    "full": "Sfântul Antonie Stilitul din Georgia",
+    "short": "Antonie Stilitul din Georgia",
+    "given": "Antonie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-antonie-stilitul-din-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

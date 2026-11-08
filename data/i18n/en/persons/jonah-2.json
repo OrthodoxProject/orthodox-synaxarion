@@ -1,0 +1,20 @@
+{
+  "id": "jonah-2",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Jonah, disciple of Tryphon of Pechenga",
+    "short": "Jonah, disciple of Tryphon of Pechenga",
+    "given": "Jonah"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/15/103553-martyr-jonah-disciple-of-tryphon-of-pechenga",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "dionisie-vatopedinul-of-colciu",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Dionisie Vatopedinul de la Colciu",
+    "full": "Sfântul Cuvios Dionisie Vatopedinul de la Colciu",
+    "short": "Dionisie Vatopedinul de la Colciu",
+    "given": "Dionisie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-dionisie-vatopedinul-de-la-colciu",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-dionisie-vatopedinul-de-la-colciu-sf-sfintit-mc-mochie-preotul-sf-ier-metodie-si-sf-cuv-chiril-luminatorii-slavilor/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

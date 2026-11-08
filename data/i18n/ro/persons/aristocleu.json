@@ -1,0 +1,29 @@
+{
+  "id": "aristocleu",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Aristocleu, preotul",
+    "full": "Sfântul Mucenic Aristocleu, preotul",
+    "short": "Aristocleu, preotul",
+    "given": "Aristocleu",
+    "variants": [
+      "Sf. Sfințit Mc. Aristocle preotul"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-aristocleu-preotul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-agripina-sf-sfintit-mc-aristocle-preotul/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "olympia-of-insula-lesvos",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Olimpia din Insula Lesvos",
+    "full": "Sfânta Muceniță Olimpia din Insula Lesvos",
+    "short": "Olimpia din Insula Lesvos",
+    "given": "Olimpia"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-olimpia-din-insula-lesvos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

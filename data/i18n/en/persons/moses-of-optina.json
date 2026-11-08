@@ -1,0 +1,20 @@
+{
+  "id": "moses-of-optina",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Moses of Optina",
+    "short": "Moses of Optina",
+    "given": "Moses"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/16/149000-venerable-moses-of-optina",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

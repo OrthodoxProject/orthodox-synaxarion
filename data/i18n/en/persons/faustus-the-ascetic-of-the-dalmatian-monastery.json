@@ -1,0 +1,20 @@
+{
+  "id": "faustus-the-ascetic-of-the-dalmatian-monastery",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Faustus the Ascetic of the Dalmatian Monastery at Constantinople",
+    "short": "Faustus the Ascetic of the Dalmatian Monastery at Constantinople",
+    "given": "Faustus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/03/102191-venerable-faustus-the-ascetic-of-the-dalmatian-monastery-at-cons",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

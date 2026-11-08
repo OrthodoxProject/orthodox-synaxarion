@@ -1,0 +1,39 @@
+{
+  "id": "theodosia-of-tyre--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:theodosia-of-tyre"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 29
+  },
+  "external_ids": {
+    "oca": "107796"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-teodosia-fecioara",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/odovania-praznicului-inaltarii-domnului-sf-mc-teodosia-fecioara-sf-sfintit-mc-olivian-dezlegare-la-peste/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/29/107796-holy-virgin-martyr-theodosa-of-tyre",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

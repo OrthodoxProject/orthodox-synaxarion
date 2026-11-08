@@ -1,0 +1,29 @@
+{
+  "id": "mark-the-ascetic-of-egypt--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:mark-the-ascetic-of-egypt"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 5
+  },
+  "external_ids": {
+    "oca": "100669"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/05/100669-saint-mark-the-ascetic-of-egypt",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

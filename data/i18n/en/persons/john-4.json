@@ -1,0 +1,20 @@
+{
+  "id": "john-4",
+  "locale": "en",
+  "names": {
+    "display": "Venerable John, Ascetic of the Syrian Deserts",
+    "short": "John, Ascetic of the Syrian Deserts",
+    "given": "John"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/23/100591-venerable-john-ascetic-of-the-syrian-deserts",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

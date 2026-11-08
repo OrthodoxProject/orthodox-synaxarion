@@ -1,0 +1,18 @@
+{
+  "tradition": "serbian",
+  "date": "10-18",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:luke-the-apostle--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:julian-the-hermit-of-mesopotamia--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "pambo",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Pamvon",
+    "short": "Pamvon",
+    "given": "Pamvon"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfintii-mucenici-marchian-nicandru-iperehie-apolon-leonid-arie-gheorghe-selneniad-irineu-pamvon",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

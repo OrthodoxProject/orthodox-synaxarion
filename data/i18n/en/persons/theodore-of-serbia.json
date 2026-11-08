@@ -1,0 +1,20 @@
+{
+  "id": "theodore-of-serbia",
+  "locale": "en",
+  "names": {
+    "display": "Saint Theodore (Komogovin) of Serbia",
+    "short": "Theodore of Serbia",
+    "given": "Theodore"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/18/108039-saint-theodore-komogovin-of-serbia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "tradition": "romanian",
+  "date": "08-03",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:iraclie-of-basarabia--repose"
+      ],
+      "symbol": "blue-half-parenthesized"
+    },
+    {
+      "commemorations": [
+        "comm:isaac-the-ascetic-of-the-dalmatian-monastery--repose",
+        "comm:dalmatus-the-ascetic-of-the-dalmatian-monastery--repose",
+        "comm:faustus-the-ascetic-of-the-dalmatian-monastery--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:salome--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:theodora-of-thessalonica--08-03"
+      ]
+    }
+  ]
+}

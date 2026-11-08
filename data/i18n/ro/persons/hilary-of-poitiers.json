@@ -1,0 +1,21 @@
+{
+  "id": "hilary-of-poitiers",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ilarie de Poitiers",
+    "full": "Sfântul Ilarie de Poitiers",
+    "short": "Ilarie de Poitiers",
+    "given": "Ilarie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ilarie-de-poitiers",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

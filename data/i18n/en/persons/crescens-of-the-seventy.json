@@ -1,0 +1,20 @@
+{
+  "id": "crescens-of-the-seventy",
+  "locale": "en",
+  "names": {
+    "display": "Apostle Crescens of the Seventy",
+    "short": "Crescens of the Seventy",
+    "given": "Crescens"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/30/102133-apostle-crescens-of-the-seventy",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

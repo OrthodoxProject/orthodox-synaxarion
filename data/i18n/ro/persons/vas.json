@@ -1,0 +1,21 @@
+{
+  "id": "vas",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Vas",
+    "full": "Sfântul Mucenic Vas",
+    "short": "Vas",
+    "given": "Vas"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-vas",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

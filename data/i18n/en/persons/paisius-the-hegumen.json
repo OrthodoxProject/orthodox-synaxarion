@@ -1,0 +1,20 @@
+{
+  "id": "paisius-the-hegumen",
+  "locale": "en",
+  "names": {
+    "display": "Saint Paisius the Hegumen",
+    "short": "Paisius the Hegumen",
+    "given": "Paisius"
+  },
+  "references": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

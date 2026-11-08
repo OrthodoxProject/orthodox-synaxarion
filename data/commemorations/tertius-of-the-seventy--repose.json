@@ -1,0 +1,29 @@
+{
+  "id": "tertius-of-the-seventy--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:tertius-of-the-seventy"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 30
+  },
+  "external_ids": {
+    "oca": "103111"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/30/103111-apostle-tertius-of-the-seventy",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

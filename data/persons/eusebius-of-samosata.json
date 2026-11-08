@@ -1,0 +1,36 @@
+{
+  "id": "eusebius-of-samosata",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "hieromartyr"
+  ],
+  "external_ids": {
+    "doxologia": "sfantul-sfintit-mucenic-eusebiu-episcopul-samosatelor",
+    "oca": "101779"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-sfintit-mucenic-eusebiu-episcopul-samosatelor",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ier-grigorie-dascalul-mitropolitul-tarii-romanesti-sf-sfintit-mc-eusebiu-episcopul-samosatei-dezlegare-la-peste/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/22/101779-hieromartyr-eusebius-bishop-of-samosata",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

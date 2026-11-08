@@ -1,0 +1,26 @@
+{
+  "id": "sergius-of-radonezh--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:sergius-of-radonezh"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 8
+  },
+  "sources": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/russian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din orthodox-calendar; de verificat."
+    ]
+  }
+}

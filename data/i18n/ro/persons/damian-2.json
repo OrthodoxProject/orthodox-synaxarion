@@ -1,0 +1,21 @@
+{
+  "id": "damian-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Damian, tămăduitorul de la Lavra Pecerska",
+    "full": "Sfântul Cuvios Damian, tămăduitorul de la Lavra Pecerska",
+    "short": "Damian, tămăduitorul de la Lavra Pecerska",
+    "given": "Damian"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-damian-tamaduitorul-de-la-lavra-pecerska",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

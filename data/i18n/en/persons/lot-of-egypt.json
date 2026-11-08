@@ -1,0 +1,20 @@
+{
+  "id": "lot-of-egypt",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Lot of Egypt",
+    "short": "Lot of Egypt",
+    "given": "Lot"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/22/100498-venerable-lot-of-egypt",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

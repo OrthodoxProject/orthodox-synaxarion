@@ -1,0 +1,21 @@
+{
+  "id": "sofia-doctorita",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Sofia Doctorița",
+    "full": "Sfânta Muceniță Sofia Doctorița",
+    "short": "Sofia Doctorița",
+    "given": "Sofia"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-sofia-doctorita",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

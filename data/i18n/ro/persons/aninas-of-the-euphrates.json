@@ -1,0 +1,21 @@
+{
+  "id": "aninas-of-the-euphrates",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Anin",
+    "full": "Sfântul Cuvios Anin",
+    "short": "Anin",
+    "given": "Anin"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-anin",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

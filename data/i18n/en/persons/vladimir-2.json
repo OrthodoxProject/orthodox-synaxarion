@@ -1,0 +1,20 @@
+{
+  "id": "vladimir-2",
+  "locale": "en",
+  "names": {
+    "display": "Holy Great Prince Vladimir (Basil in Baptism), Equal of the Apostles, and Enlightener of Rus'",
+    "short": "Vladimir, Equal of the Apostles and Enlightener of Rus'",
+    "given": "Vladimir"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/15/102031-holy-great-prince-vladimir-basil-in-baptism-equal-of-the-apostle",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

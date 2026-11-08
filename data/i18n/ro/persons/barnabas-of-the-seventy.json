@@ -1,0 +1,26 @@
+{
+  "id": "barnabas-of-the-seventy",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ap. Barnaba",
+    "full": "Sfântul Apostol Barnaba",
+    "short": "Barnaba",
+    "given": "Barnaba"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-apostol-barnaba",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ap-bartolomeu-si-barnaba-sf-ier-luca-arhiepiscopul-crimeei-cinstirea-sfintei-icoane-a-maicii-domnului-axion-estin-dezlegare-la-peste/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

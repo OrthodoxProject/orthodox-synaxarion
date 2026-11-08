@@ -1,0 +1,26 @@
+{
+  "id": "icon-of-theotokos-pantanassa-izbavitoarea-de-cancer--10-15",
+  "kind": "icon",
+  "subjects": [
+    "icon:icon-of-theotokos-pantanassa-izbavitoarea-de-cancer"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 15
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoane-maicii-domnului-pantanassa-izbavitoarea-de-cancer",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "jeremiah-the-prophet",
+  "locale": "en",
+  "names": {
+    "display": "Prophet Jeremiah",
+    "short": "Jeremiah",
+    "given": "Jeremiah"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/01/101254-prophet-jeremiah",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "melchizedek--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:melchizedek"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 22
+  },
+  "external_ids": {
+    "oca": "205365"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/22/205365-righteous-melchizedek-king-of-salem",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

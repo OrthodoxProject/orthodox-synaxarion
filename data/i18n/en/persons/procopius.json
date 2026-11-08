@@ -1,0 +1,20 @@
+{
+  "id": "procopius",
+  "locale": "en",
+  "names": {
+    "display": "Saint Procopius",
+    "short": "Procopius",
+    "given": "Procopius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/16/108950-saint-procopius",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

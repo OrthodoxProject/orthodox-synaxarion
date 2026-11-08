@@ -1,0 +1,30 @@
+{
+  "id": "upright-haggai-the-prophet--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:upright-haggai-the-prophet"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 20,
+    "calendar": "coptic"
+  },
+  "external_ids": {
+    "copticchurch": "4_20#1"
+  },
+  "sources": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/4_20.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din copticchurch.net; de verificat."
+    ]
+  }
+}

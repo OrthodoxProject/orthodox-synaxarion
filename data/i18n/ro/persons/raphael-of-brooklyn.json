@@ -1,0 +1,21 @@
+{
+  "id": "raphael-of-brooklyn",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Rafail din Brooklyn",
+    "full": "Sfântul Ierarh Rafail din Brooklyn",
+    "short": "Rafail din Brooklyn",
+    "given": "Rafail"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-rafail-din-brooklyn",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

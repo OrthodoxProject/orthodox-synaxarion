@@ -1,0 +1,20 @@
+{
+  "id": "ignatius-of-constantinople",
+  "locale": "en",
+  "names": {
+    "display": "Saint Ignatius, Patriarch of Constantinople",
+    "short": "Ignatius, Patriarch of Constantinople",
+    "given": "Ignatius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/23/103041-saint-ignatius-patriarch-of-constantinople",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "ioan-of-lavra-veche--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:ioan-of-lavra-veche"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 19
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-ioan-de-la-lavra-veche",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-ioan-de-la-lavra-veche-sf-sfintit-mc-pafnutie-duminica-a-2-a-dupa-pasti-a-sf-apostol-toma-ap-fapte-5-12-20-ev-ioan-20-19-31-glas-1-voscr-1/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro; de verificat."
+    ]
+  }
+}

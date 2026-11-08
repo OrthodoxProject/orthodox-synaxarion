@@ -1,0 +1,29 @@
+{
+  "id": "paul-the-confessor-of-plousias--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:paul-the-confessor-of-plousias"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 7
+  },
+  "external_ids": {
+    "oca": "100693"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/07/100693-saint-paul-the-confessor-bishop-of-plousias-in-bithynia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pelagia-of-antioch",
+  "kind": "saint",
+  "gender": "female",
+  "holiness_types": [
+    "virgin",
+    "martyr"
+  ],
+  "external_ids": {
+    "oca": "102903"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/08/102903-virgin-martyr-pelagia-of-antioch",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

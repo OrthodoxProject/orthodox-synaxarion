@@ -1,0 +1,20 @@
+{
+  "id": "thomas-the-apostle",
+  "locale": "en",
+  "names": {
+    "display": "Holy, Glorious Apostle Thomas",
+    "short": "Thomas",
+    "given": "Thomas"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/06/102885-holy-glorious-apostle-thomas",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

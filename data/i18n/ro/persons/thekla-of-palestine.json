@@ -1,0 +1,26 @@
+{
+  "id": "thekla-of-palestine",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Tecla",
+    "full": "Sfânta Muceniță Tecla",
+    "short": "Tecla",
+    "given": "Tecla"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-tecla",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-andrei-stratilat-timotei-agapie-si-tecla/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

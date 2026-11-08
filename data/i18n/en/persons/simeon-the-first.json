@@ -1,0 +1,20 @@
+{
+  "id": "simeon-the-first",
+  "locale": "en",
+  "names": {
+    "display": "Saint Simeon the First, 42nd Pope of Alexandria",
+    "short": "Simeon the First, 42nd Pope of Alexandria",
+    "given": "Simeon"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/11_24.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

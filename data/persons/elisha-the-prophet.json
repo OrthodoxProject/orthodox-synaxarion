@@ -1,0 +1,46 @@
+{
+  "id": "elisha-the-prophet",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "prophet"
+  ],
+  "external_ids": {
+    "doxologia": "sfantul-proroc-elisei",
+    "oca": "101718"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-proroc-elisei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/proroc-elisei-sf-ier-metodie-marturisitorul-patriarhul-constantinopolului-dezlegare-la-peste-duminica-a-2-a-dupa-rusalii-a-sfintilor-romani-ap-romani-2-10-16-al-sf-romani-2-corinteni-5/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/14/101718-prophet-elisha",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/10_20.html?lang=en#1",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:armenianchurch-ge",
+      "url": "https://armenianchurch.ge/en/kalendar-prazdnikov/description-2/july/commemoration-of-the-prophet-elisha",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org, copticchurch.net, armenianchurch.ge; de verificat."
+    ]
+  }
+}

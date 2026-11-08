@@ -1,0 +1,29 @@
+{
+  "id": "niketas-of-the-roslavl-forests--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:niketas-of-the-roslavl-forests"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 29
+  },
+  "external_ids": {
+    "oca": "105910"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/29/105910-saint-niktas-of-the-roslavl-forests",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

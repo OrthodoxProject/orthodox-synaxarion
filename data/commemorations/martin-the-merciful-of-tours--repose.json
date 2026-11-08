@@ -1,0 +1,29 @@
+{
+  "id": "martin-the-merciful-of-tours--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:martin-the-merciful-of-tours"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 12
+  },
+  "external_ids": {
+    "oca": "205432"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/12/205432-saint-martin-the-merciful-bishop-of-tours",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "kalista",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Kalista",
+    "short": "Kalista",
+    "given": "Kalista"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/16/101109-martyrs-leonidas-chariessa-nice-galina-kalista-nunechia-basiliss",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "filoteea-of-atena",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Filoteea din Atena",
+    "full": "Sfânta Cuvioasă Filoteea din Atena",
+    "short": "Filoteea din Atena",
+    "given": "Filoteea"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-filoteea-din-atena",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

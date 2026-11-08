@@ -1,0 +1,20 @@
+{
+  "id": "john-the-russian-and-confessor",
+  "locale": "en",
+  "names": {
+    "display": "Saint John the Russian and Confessor, whose relics are on the island of Euboia",
+    "short": "John the Russian and Confessor, whose relics are on the island of Euboia",
+    "given": "John"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/27/101545-saint-john-the-russian-and-confessor-whose-relics-are-on-the-isl",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

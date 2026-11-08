@@ -1,0 +1,23 @@
+{
+  "tradition": "serbian",
+  "date": "12-26",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:gabriel-i--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:euthymius-of-sardis--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:nikodemos-the-sanctified-of-tismana--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

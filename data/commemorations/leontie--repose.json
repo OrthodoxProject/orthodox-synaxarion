@@ -1,0 +1,26 @@
+{
+  "id": "leontie--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:leontie"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 16
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-leontie",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "paulinus-the-merciful-of-nola",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Paulin cel Milostiv, episcopul Nolei",
+    "full": "Sfântul Ierarh Paulin cel Milostiv, episcopul Nolei",
+    "short": "Paulin cel Milostiv, episcopul Nolei",
+    "given": "Paulin"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-paulin-cel-milostiv-episcopul-nolei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

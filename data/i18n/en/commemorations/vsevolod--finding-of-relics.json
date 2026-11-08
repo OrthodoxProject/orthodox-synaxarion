@@ -1,0 +1,18 @@
+{
+  "id": "vsevolod--finding-of-relics",
+  "locale": "en",
+  "names": {
+    "display": "Uncovering of the relics of Saint Vsévolod (Gabriel) of Pskov"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/27/103405-uncovering-of-the-relics-of-saint-vsvolod-gabriel-of-pskov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

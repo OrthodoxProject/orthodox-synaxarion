@@ -1,0 +1,26 @@
+{
+  "id": "narcissus-of-the-70",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ap. Narcis",
+    "full": "Sfântul Apostol Narcis",
+    "short": "Narcis",
+    "given": "Narcis"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-apostol-narcis",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ap-apelie-stahie-amplie-urban-aristobul-si-narcis-sf-mc-epimah/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

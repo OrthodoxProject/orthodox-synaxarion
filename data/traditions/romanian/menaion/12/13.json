@@ -1,0 +1,37 @@
+{
+  "tradition": "romanian",
+  "date": "12-13",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:dosoftei-of-moldova--repose"
+      ],
+      "symbol": "blue-half-parenthesized"
+    },
+    {
+      "commemorations": [
+        "comm:eustratius--repose",
+        "comm:auxentius--repose",
+        "comm:eugene-4--repose",
+        "comm:mardarius--repose",
+        "comm:orestes-2--repose"
+      ],
+      "symbol": "red-plain"
+    },
+    {
+      "commemorations": [
+        "comm:lucy-of-syracuse--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:herman-of-alaska--12-13"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:otilia--repose"
+      ]
+    }
+  ]
+}

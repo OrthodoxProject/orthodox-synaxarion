@@ -1,0 +1,20 @@
+{
+  "id": "xenia-of-kalamata",
+  "locale": "en",
+  "names": {
+    "display": "Holy Great Martyr Xenia of Kalamata",
+    "short": "Xenia of Kalamata",
+    "given": "Xenia"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/03/100266-holy-great-martyr-xenia-of-kalamata",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

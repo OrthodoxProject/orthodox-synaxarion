@@ -1,0 +1,21 @@
+{
+  "id": "moses-the-hungarian-of-the-kiev-near",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Moise Ungurul",
+    "full": "Sfântul Cuvios Moise Ungurul",
+    "short": "Moise Ungurul",
+    "given": "Moise"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-moise-ungurul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

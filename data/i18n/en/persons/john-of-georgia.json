@@ -1,0 +1,20 @@
+{
+  "id": "john-of-georgia",
+  "locale": "en",
+  "names": {
+    "display": "Saint John of Georgia",
+    "short": "John of Georgia",
+    "given": "John"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/21/205505-saint-john-of-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

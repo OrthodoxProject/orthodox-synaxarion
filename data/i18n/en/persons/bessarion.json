@@ -1,0 +1,20 @@
+{
+  "id": "bessarion",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Bessarion, Wonderworker of Egypt",
+    "short": "Bessarion, Wonderworker of Egypt",
+    "given": "Bessarion"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/06/101631-venerable-bessarion-wonderworker-of-egypt",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

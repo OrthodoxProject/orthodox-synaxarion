@@ -1,0 +1,19 @@
+{
+  "id": "ari",
+  "locale": "en",
+  "names": {
+    "display": "St.Ari, the Priest of Shatanouf",
+    "given": "StAri"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/12_9.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

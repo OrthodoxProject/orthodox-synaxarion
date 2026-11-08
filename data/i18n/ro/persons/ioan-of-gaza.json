@@ -1,0 +1,26 @@
+{
+  "id": "ioan-of-gaza",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ioan din Gaza",
+    "full": "Sfântul Cuvios Ioan din Gaza",
+    "short": "Ioan din Gaza",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-ioan-din-gaza",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ier-vucol-episcopul-smirnei-si-fotie-patriarhul-constantinopolului-sf-cuv-varsanufie-cel-mare-si-ioan-din-gaza-harti/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

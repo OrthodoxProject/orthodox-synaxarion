@@ -1,0 +1,24 @@
+{
+  "id": "one-hundred-and-fifty-believers-by-the-hand-coptic",
+  "kind": "martyrs",
+  "holiness_types": [
+    "martyr"
+  ],
+  "external_ids": {
+    "copticchurch": "8_8#2"
+  },
+  "sources": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/8_8.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din copticchurch.net; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "commemoration-of-the-165-fathers-of-the-fifth",
+  "kind": "council_fathers",
+  "count": {
+    "value": 165,
+    "precision": "exact"
+  },
+  "external_ids": {
+    "oca": "102090"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/25/102090-commemoration-of-the-holy-165-fathers-of-the-fifth-ecumenical-co",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "gabriel-of-imereti",
+  "locale": "en",
+  "names": {
+    "display": "Saint Gabriel, Bishop of Imereti",
+    "short": "Gabriel, Bishop of Imereti",
+    "given": "Gabriel"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/25/205442-saint-gabriel-bishop-of-imereti",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

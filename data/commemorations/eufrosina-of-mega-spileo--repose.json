@@ -1,0 +1,26 @@
+{
+  "id": "eufrosina-of-mega-spileo--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:eufrosina-of-mega-spileo"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 18
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-eufrosina-de-la-mega-spileo",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

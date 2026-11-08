@@ -1,0 +1,18 @@
+{
+  "id": "saints-of-familia-sfantului-vasile-the-great",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții din familia Sfântului Vasile cel Mare"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfintii-din-familia-sfantului-vasile-cel-mare",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

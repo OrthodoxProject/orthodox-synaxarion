@@ -1,0 +1,29 @@
+{
+  "id": "icon-of-theotokos-the-unexpected-joy",
+  "kind": "icon",
+  "subjects": [
+    "icon:icon-of-theotokos-the-unexpected-joy"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 25
+  },
+  "external_ids": {
+    "oca": "100313"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/25/100313-icon-of-the-mother-of-god-the-unexpected-joy",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

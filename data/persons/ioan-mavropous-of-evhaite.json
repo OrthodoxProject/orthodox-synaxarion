@@ -1,0 +1,25 @@
+{
+  "id": "ioan-mavropous-of-evhaite",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "hierarch"
+  ],
+  "external_ids": {
+    "doxologia": "sfantul-ioan-mavropous-mitropolitul-evhaitelor"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ioan-mavropous-mitropolitul-evhaitelor",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

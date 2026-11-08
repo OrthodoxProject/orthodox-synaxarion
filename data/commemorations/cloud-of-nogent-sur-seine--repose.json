@@ -1,0 +1,29 @@
+{
+  "id": "cloud-of-nogent-sur-seine--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:cloud-of-nogent-sur-seine"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 7
+  },
+  "external_ids": {
+    "oca": "102540"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/07/102540-venerable-cloud-clodoald-abbot-founder-of-nogent-sur-seine-near",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "zenobios",
+  "kind": "saint",
+  "gender": "female",
+  "holiness_types": [
+    "martyr",
+    "hieromartyr"
+  ],
+  "external_ids": {
+    "doxologia": "sfanta-mucenita-zenovia-sora-sfantului-mucenic-zenovie"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-zenovia-sora-sfantului-mucenic-zenovie",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-sfintit-mc-zenovie-episcopul-ciliciei-si-sora-sa-zenovia-sf-ap-cleopa/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/30/103110-hieromartyr-zenobios-and-his-sister-zenobia-of-aeg-in-cilicia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

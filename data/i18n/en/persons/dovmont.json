@@ -1,0 +1,20 @@
+{
+  "id": "dovmont",
+  "locale": "en",
+  "names": {
+    "display": "Blessed Dovmont (Timothy), Prince of Pskov",
+    "short": "Dovmont, Prince of Pskov",
+    "given": "Dovmont"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/20/101450-blessed-dovmont-timothy-prince-of-pskov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "royal-passionbearers-tsar-nicholas-tsaritsa-alexandra-tsarevich-aleksy",
+  "kind": "martyrs",
+  "holiness_types": [
+    "right_believing",
+    "martyr"
+  ],
+  "external_ids": {
+    "doxologia": "sfintii-tari-mucenici-romanov-nicolae-alexandra-fiii-lor-olga-tatiana-maria-anastasia-alexei",
+    "oca": "103789"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfintii-tari-mucenici-romanov-nicolae-alexandra-fiii-lor-olga-tatiana-maria-anastasia-alexei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/17/103789-royal-passionbearers-tsar-nicholas-nikolai-tsaritsa-alexandra-ts",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, oca.org; de verificat."
+    ]
+  }
+}

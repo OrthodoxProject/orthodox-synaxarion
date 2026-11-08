@@ -1,0 +1,29 @@
+{
+  "id": "neophytos-of-vatopaidi-monastery-on-mount-athos--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:neophytos-of-vatopaidi-monastery-on-mount-athos"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 21
+  },
+  "external_ids": {
+    "oca": "100257"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/21/100257-venerable-nephytos-of-vatopaidi-monastery-on-mount-athos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

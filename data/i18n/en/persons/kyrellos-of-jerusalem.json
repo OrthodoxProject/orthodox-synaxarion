@@ -1,0 +1,20 @@
+{
+  "id": "kyrellos-of-jerusalem",
+  "locale": "en",
+  "names": {
+    "display": "Saint Kyrellos (Cyril), Bishop of Jerusalem",
+    "short": "Kyrellos, Bishop of Jerusalem",
+    "given": "Kyrellos"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/7_22.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "vitalius-of-castronovo--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:vitalius-of-castronovo"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 9
+  },
+  "external_ids": {
+    "oca": "100291"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/09/100291-venerable-vitalius-of-castronovo",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

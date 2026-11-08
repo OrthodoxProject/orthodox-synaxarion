@@ -1,0 +1,46 @@
+{
+  "id": "euphemia-the-all-praised",
+  "kind": "saint",
+  "gender": "female",
+  "holiness_types": [
+    "great_martyr"
+  ],
+  "external_ids": {
+    "doxologia": "sfanta-mare-mucenita-eufimia",
+    "oca": "102002"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mare-mucenita-eufimia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mare-mc-eufimia-sf-olga-cea-intocmai-cu-apostolii-si-luminatoarea-rusiei/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-marturisitor-sofian-de-la-antim-sf-mare-mc-eufimia-sf-mc-meletina-si-ludmila/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/11/102002-greatmartyr-euphemia-the-all-praised",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/16/102626-great-martyr-euphemia-the-all-praised",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

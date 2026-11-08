@@ -1,0 +1,20 @@
+{
+  "id": "meletius-of-antioch",
+  "locale": "en",
+  "names": {
+    "display": "Saint Meletius, Archbishop of Antioch",
+    "short": "Meletius, Archbishop of Antioch",
+    "given": "Meletius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/12/100505-saint-meletius-archbishop-of-antioch",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

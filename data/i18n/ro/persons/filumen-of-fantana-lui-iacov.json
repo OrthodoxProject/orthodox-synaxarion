@@ -1,0 +1,34 @@
+{
+  "id": "filumen-of-fantana-lui-iacov",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Filumen de la Fântâna lui Iacov",
+    "full": "Sfântul Sfințit Mucenic Filumen de la Fântâna lui Iacov",
+    "short": "Filumen de la Fântâna lui Iacov",
+    "given": "Filumen",
+    "variants": [
+      "Sf. Mc. Filumen"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-sfintit-mucenic-filumen-de-la-fantana-lui-iacov",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-filumen",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-paramon-si-filumen-sf-cuv-pitirun-dezlegare-la-peste/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

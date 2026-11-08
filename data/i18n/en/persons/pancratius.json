@@ -1,0 +1,20 @@
+{
+  "id": "pancratius",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Pancratius",
+    "short": "Pancratius",
+    "given": "Pancratius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/12/108487-martyr-pancratius",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

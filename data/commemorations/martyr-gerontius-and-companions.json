@@ -1,0 +1,29 @@
+{
+  "id": "martyr-gerontius-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "group:martyr-gerontius-and-companions"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 12
+  },
+  "external_ids": {
+    "oca": "103872"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/12/103872-martyr-gerontius-and-those-with-him-of-saint-david-gareji-monast",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

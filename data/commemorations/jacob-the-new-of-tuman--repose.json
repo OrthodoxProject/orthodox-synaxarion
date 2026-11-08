@@ -1,0 +1,30 @@
+{
+  "id": "jacob-the-new-of-tuman--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:jacob-the-new-of-tuman"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 21
+  },
+  "sources": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jacob_the_New_of_Tuman_%D0%88"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din orthodox-calendar, Wikipedia; de verificat."
+    ]
+  }
+}

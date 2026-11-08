@@ -1,0 +1,26 @@
+{
+  "id": "icon-of-theotokos-igorevskaia",
+  "kind": "icon",
+  "subjects": [
+    "icon:icon-of-theotokos-igorevskaia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 5
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoanei-maicii-domnului-igorevskaia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

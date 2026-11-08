@@ -1,0 +1,29 @@
+{
+  "id": "damian-of-philotheou--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:damian-of-philotheou"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 23
+  },
+  "external_ids": {
+    "oca": "100602"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/23/100602-monastic-martyr-damian-of-philotheou",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

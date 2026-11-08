@@ -1,0 +1,34 @@
+{
+  "id": "seraphim-of-vyritsa--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:seraphim-of-vyritsa"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 21
+  },
+  "external_ids": {
+    "oca": "103710"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-serafim-de-virita",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/21/103710-venerable-seraphim-of-vyritsa",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, oca.org; de verificat."
+    ]
+  }
+}

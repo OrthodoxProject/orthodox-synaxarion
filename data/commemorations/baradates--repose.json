@@ -1,0 +1,29 @@
+{
+  "id": "baradates--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:baradates"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 22
+  },
+  "external_ids": {
+    "oca": "100587"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/22/100587-venerable-baradates-hermit-of-syria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

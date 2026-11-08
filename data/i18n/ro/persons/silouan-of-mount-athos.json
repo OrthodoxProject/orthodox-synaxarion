@@ -1,0 +1,26 @@
+{
+  "id": "silouan-of-mount-athos",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Siluan Athonitul",
+    "full": "Sfântul Cuvios Siluan Athonitul",
+    "short": "Siluan Athonitul",
+    "given": "Siluan"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-siluan-athonitul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-intaia-mucenita-si-intocmai-cu-apostolii-tecla-sf-cuv-siluan-athonitul/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "albian-of-anaea--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:albian-of-anaea"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 4
+  },
+  "external_ids": {
+    "oca": "101293"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/04/101293-hieromartyr-albian-bishop-of-anaea-in-asia-minor",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "irenarchus-the-recluse-of-rostov--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:irenarchus-the-recluse-of-rostov"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 13
+  },
+  "external_ids": {
+    "oca": "100166"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/13/100166-venerable-irenarchus-the-recluse-of-rostov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

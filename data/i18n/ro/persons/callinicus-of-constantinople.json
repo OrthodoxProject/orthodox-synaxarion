@@ -1,0 +1,21 @@
+{
+  "id": "callinicus-of-constantinople",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Calinic, Patriarhul Constantinopolului",
+    "full": "Sfântul Ierarh Calinic, Patriarhul Constantinopolului",
+    "short": "Calinic, Patriarhul Constantinopolului",
+    "given": "Calinic"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-calinic-patriarhul-constantinopolului",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

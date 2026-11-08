@@ -1,0 +1,21 @@
+{
+  "id": "zotic-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Zotic",
+    "full": "Sfântul Mucenic Zotic",
+    "short": "Zotic",
+    "given": "Zotic"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-zotic",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

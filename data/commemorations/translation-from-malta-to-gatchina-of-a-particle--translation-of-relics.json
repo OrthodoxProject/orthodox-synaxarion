@@ -1,0 +1,26 @@
+{
+  "id": "translation-from-malta-to-gatchina-of-a-particle--translation-of-relics",
+  "kind": "event",
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 12
+  },
+  "external_ids": {
+    "oca": "102950"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/12/102950-translation-from-malta-to-gatchina-of-a-particle-of-the-life-giv",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

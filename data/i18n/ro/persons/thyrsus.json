@@ -1,0 +1,21 @@
+{
+  "id": "thyrsus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Tirs",
+    "full": "Sfântul Mucenic Tirs",
+    "short": "Tirs",
+    "given": "Tirs"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-tirs-0",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

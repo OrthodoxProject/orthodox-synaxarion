@@ -1,0 +1,20 @@
+{
+  "id": "laurence-of-komel",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Laurence, Abbot of Komel",
+    "short": "Laurence, Abbot of Komel",
+    "given": "Laurence"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/16/101396-venerable-laurence-abbot-of-komel",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

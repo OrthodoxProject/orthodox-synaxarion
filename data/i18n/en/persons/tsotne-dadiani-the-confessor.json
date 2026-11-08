@@ -1,0 +1,20 @@
+{
+  "id": "tsotne-dadiani-the-confessor",
+  "locale": "en",
+  "names": {
+    "display": "Saint Tsotne Dadiani the Confessor",
+    "short": "Tsotne Dadiani the Confessor",
+    "given": "Tsotne"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/30/205479-saint-tsotne-dadiani-the-confessor",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "savva-of-benephali",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Savva of Benephali",
+    "short": "Savva of Benephali",
+    "given": "Savva"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/27/102411-venerable-savva-of-benephali",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

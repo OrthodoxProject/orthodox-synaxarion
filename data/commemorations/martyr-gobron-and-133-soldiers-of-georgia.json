@@ -1,0 +1,29 @@
+{
+  "id": "martyr-gobron-and-133-soldiers-of-georgia",
+  "kind": "repose",
+  "subjects": [
+    "group:martyr-gobron-and-133-soldiers-of-georgia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 17
+  },
+  "external_ids": {
+    "oca": "103318"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/17/103318-martyr-gobron-michael-and-133-soldiers-of-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

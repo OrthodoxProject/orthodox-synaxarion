@@ -1,0 +1,20 @@
+{
+  "id": "demetrius-of-basarabov",
+  "locale": "en",
+  "names": {
+    "display": "Saint Demetrius of Basarabov",
+    "short": "Demetrius of Basarabov",
+    "given": "Demetrius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/27/108027-saint-demetrius-of-basarabov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

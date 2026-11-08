@@ -1,0 +1,30 @@
+{
+  "id": "probus-3-and-ares-in-cilicia",
+  "kind": "repose",
+  "subjects": [
+    "person:probus-3",
+    "person:ares-in-cilicia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 19
+  },
+  "external_ids": {
+    "oca": "103586"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/19/103586-martyrs-elias-probus-and-ares-in-cilicia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

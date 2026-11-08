@@ -1,0 +1,26 @@
+{
+  "id": "gavriil-georgianul--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:gavriil-georgianul"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 2
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-marturisitor-gavriil-georgianul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

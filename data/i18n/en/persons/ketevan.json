@@ -1,0 +1,20 @@
+{
+  "id": "ketevan",
+  "locale": "en",
+  "names": {
+    "display": "Greatmartyr Ketevan, Queen of Georgia",
+    "short": "Ketevan, Queen of Georgia",
+    "given": "Ketevan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/13/102608-greatmartyr-ketevan-queen-of-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "liberius-of-rome",
+  "locale": "en",
+  "names": {
+    "display": "Saint Liberius, Pope of Rome",
+    "short": "Liberius, Pope of Rome",
+    "given": "Liberius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/27/102408-saint-liberius-pope-of-rome",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

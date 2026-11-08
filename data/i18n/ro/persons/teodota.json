@@ -1,0 +1,21 @@
+{
+  "id": "teodota",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Teodota",
+    "full": "Sfânta Muceniță Teodota",
+    "short": "Teodota",
+    "given": "Teodota"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-teodota",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

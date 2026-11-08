@@ -1,0 +1,20 @@
+{
+  "id": "solomonia",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Solomonia, mother of the Holy Seven Maccabee Martyrs",
+    "short": "Solomonia, mother of the Holy Seven Maccabee Martyrs",
+    "given": "Solomonia"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/01/102170-martyr-solomonia-mother-of-the-holy-seven-maccabee-martyrs",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

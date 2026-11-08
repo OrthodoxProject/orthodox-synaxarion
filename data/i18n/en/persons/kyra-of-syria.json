@@ -1,0 +1,20 @@
+{
+  "id": "kyra-of-syria",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Kyra of Syria",
+    "short": "Kyra of Syria",
+    "given": "Kyra"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/28/100619-venerable-marina-and-kyra-of-syria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

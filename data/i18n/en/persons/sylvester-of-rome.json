@@ -1,0 +1,20 @@
+{
+  "id": "sylvester-of-rome",
+  "locale": "en",
+  "names": {
+    "display": "Saint Sylvester, Pope of Rome",
+    "short": "Sylvester, Pope of Rome",
+    "given": "Sylvester"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/02/100007-saint-sylvester-pope-of-rome",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

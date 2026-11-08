@@ -1,0 +1,20 @@
+{
+  "id": "bassian-of-constantinople",
+  "locale": "en",
+  "names": {
+    "display": "Saint Bassian of Constantinople",
+    "short": "Bassian of Constantinople",
+    "given": "Bassian"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/10/102932-saint-bassian-of-constantinople",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

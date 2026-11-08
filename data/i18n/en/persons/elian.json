@@ -1,0 +1,20 @@
+{
+  "id": "elian",
+  "locale": "en",
+  "names": {
+    "display": "Saint Elian, Missionary to Cornwall, England",
+    "short": "Elian, Missionary to Cornwall, England",
+    "given": "Elian"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/13/108891-saint-elian-missionary-to-cornwall-england",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

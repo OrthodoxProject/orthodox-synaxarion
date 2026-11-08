@@ -1,0 +1,21 @@
+{
+  "id": "gligheria-of-adrianopol",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Gligheria din Adrianopol",
+    "full": "Sfânta Muceniță Gligheria din Adrianopol",
+    "short": "Gligheria din Adrianopol",
+    "given": "Gligheria"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-gligheria-din-adrianopol",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

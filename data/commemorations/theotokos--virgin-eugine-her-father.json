@@ -1,0 +1,27 @@
+{
+  "id": "theotokos--virgin-eugine-her-father",
+  "kind": "event",
+  "subjects": [
+    "person:theotokos",
+    "group:eugine-her-father-philippus-her-mother-klothia-and"
+  ],
+  "date_rule": {
+    "type": "unspecified",
+    "note": "Zi mobilă în calendarul armean; regula e de stabilit."
+  },
+  "sources": [
+    {
+      "source": "src:armenianchurch-ge",
+      "url": "https://armenianchurch.ge/en/kalendar-prazdnikov/description-2/august/virgineugine",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din armenianchurch.ge; de verificat.",
+      "În calendarul armenianchurch.ge apare în luna august; ziua se stabilește după regulile calendarului armean (de completat)."
+    ]
+  }
+}

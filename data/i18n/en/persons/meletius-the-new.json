@@ -1,0 +1,20 @@
+{
+  "id": "meletius-the-new",
+  "locale": "en",
+  "names": {
+    "display": "Saint Meletius the New",
+    "short": "Meletius the New",
+    "given": "Meletius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/01/108079-saint-meletius-the-new",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

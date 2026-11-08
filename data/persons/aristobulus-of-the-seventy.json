@@ -1,0 +1,36 @@
+{
+  "id": "aristobulus-of-the-seventy",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "apostle"
+  ],
+  "external_ids": {
+    "doxologia": "sfantul-apostol-aristobul",
+    "oca": "103127"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-apostol-aristobul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ap-apelie-stahie-amplie-urban-aristobul-si-narcis-sf-mc-epimah/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/31/103127-apostle-aristobulus-of-the-seventy",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "theophilus-and-jacob-of-omutch",
+  "kind": "repose",
+  "subjects": [
+    "person:theophilus",
+    "person:jacob-of-omutch"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 21
+  },
+  "external_ids": {
+    "oca": "103013"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/21/103013-venerable-theophilus-and-jacob-abbots-of-omutch-pskov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

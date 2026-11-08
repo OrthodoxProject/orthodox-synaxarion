@@ -1,0 +1,21 @@
+{
+  "id": "vars-of-edesa",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Vars, Episcopul Edesei",
+    "full": "Sfântul Ierarh Vars, Episcopul Edesei",
+    "short": "Vars, Episcopul Edesei",
+    "given": "Vars"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-vars-episcopul-edesei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

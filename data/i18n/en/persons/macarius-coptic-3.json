@@ -1,0 +1,20 @@
+{
+  "id": "macarius-coptic-3",
+  "locale": "en",
+  "names": {
+    "display": "Anba Macarius, the Fifty-Ninth Pope of Alexandria",
+    "short": "Macarius, Fifty-Ninth Pope of Alexandria",
+    "given": "Macarius"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/7_24.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

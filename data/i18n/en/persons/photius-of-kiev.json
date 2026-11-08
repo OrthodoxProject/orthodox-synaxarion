@@ -1,0 +1,20 @@
+{
+  "id": "photius-of-kiev",
+  "locale": "en",
+  "names": {
+    "display": "Saint Photius, Metropolitan of Kiev",
+    "short": "Photius, Metropolitan of Kiev",
+    "given": "Photius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/02/101867-saint-photius-metropolitan-of-kiev",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "john-of-suzdal",
+  "locale": "en",
+  "names": {
+    "display": "Saint John, Bishop of Suzdal",
+    "short": "John, Bishop of Suzdal",
+    "given": "John"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/15/102974-saint-john-bishop-of-suzdal",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

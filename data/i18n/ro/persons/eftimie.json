@@ -1,0 +1,21 @@
+{
+  "id": "eftimie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Eftimie, fratele Cuvioasei Parascheva de la Iași",
+    "full": "Sfântul Ierarh Eftimie, fratele Cuvioasei Parascheva de la Iași",
+    "short": "Eftimie, fratele Cuvioasei Parascheva de la Iași",
+    "given": "Eftimie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-eftimie-fratele-cuvioasei-parascheva-de-la-iasi",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

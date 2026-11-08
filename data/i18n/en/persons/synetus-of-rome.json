@@ -1,0 +1,20 @@
+{
+  "id": "synetus-of-rome",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Synetus of Rome",
+    "short": "Synetus of Rome",
+    "given": "Synetus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/12/103529-martyr-synetus-of-rome",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

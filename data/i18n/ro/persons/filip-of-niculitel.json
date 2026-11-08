@@ -1,0 +1,25 @@
+{
+  "id": "filip-of-niculitel",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Filip de la Niculițel",
+    "short": "Filip de la Niculițel",
+    "given": "Filip"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfintii-mucenici-zotic-atal-camasie-filip-de-la-niculitel",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-mc-zotic-atal-camasie-si-filip-de-la-niculitel-sf-ier-mitrofan-arhiepiscopul-constantinopolului-sf-mironosite-maria-si-marta-surorile-dreptului-lazar/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

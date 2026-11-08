@@ -1,0 +1,20 @@
+{
+  "id": "mocius",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Mocius",
+    "short": "Mocius",
+    "given": "Mocius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/03/101888-martyrs-mark-and-mocius",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

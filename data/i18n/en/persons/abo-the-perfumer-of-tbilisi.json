@@ -1,0 +1,20 @@
+{
+  "id": "abo-the-perfumer-of-tbilisi",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Abo the Perfumer, of Tbilisi, Georgia",
+    "short": "Abo the Perfumer, of Tbilisi, Georgia",
+    "given": "Abo"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/08/100132-martyr-abo-the-perfumer-of-tbilisi-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

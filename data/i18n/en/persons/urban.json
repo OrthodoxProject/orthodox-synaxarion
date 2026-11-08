@@ -1,0 +1,20 @@
+{
+  "id": "urban",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Urban",
+    "short": "Urban",
+    "given": "Urban"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/05/102512-martyrs-urban-theodore-medimnus-and-77-companions-at-nicomedia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

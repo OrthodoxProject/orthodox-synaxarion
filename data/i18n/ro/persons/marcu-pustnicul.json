@@ -1,0 +1,26 @@
+{
+  "id": "marcu-pustnicul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Marcu Pustnicul",
+    "full": "Sfântul Cuvios Marcu Pustnicul",
+    "short": "Marcu Pustnicul",
+    "given": "Marcu"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-marcu-pustnicul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-conon-din-isauria-si-conon-gradinarul-sf-cuv-marcu-pustnicul/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

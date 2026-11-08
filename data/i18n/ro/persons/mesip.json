@@ -1,0 +1,21 @@
+{
+  "id": "mesip",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Mesip",
+    "full": "Sfântul Mucenic Mesip",
+    "short": "Mesip",
+    "given": "Mesip"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-mesip",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "tradition": "serbian",
+  "date": "12-21",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:juliana-of-nicomedia--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:peter-of-moscow--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:themistocles-of-myra-in-lycia--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "commemoration-of-the-earthquake-of-447",
+  "kind": "event",
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 25
+  },
+  "external_ids": {
+    "oca": "100302"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/25/100302-commemoration-of-the-earthquake-of-447",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

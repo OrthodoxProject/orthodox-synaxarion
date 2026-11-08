@@ -1,0 +1,20 @@
+{
+  "id": "mattias-iv",
+  "locale": "en",
+  "names": {
+    "display": "Saint Mattias IV (Mattheos), 102nd Patriarch of Alexandria",
+    "short": "Mattias IV, 102nd Patriarch of Alexandria",
+    "given": "Mattias"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/12_16.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

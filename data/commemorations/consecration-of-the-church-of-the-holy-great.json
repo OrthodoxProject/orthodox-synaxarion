@@ -1,0 +1,26 @@
+{
+  "id": "consecration-of-the-church-of-the-holy-great",
+  "kind": "event",
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 3
+  },
+  "external_ids": {
+    "oca": "103161"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/03/103161-consecration-of-the-church-of-the-holy-great-martyr-george-in-ly",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

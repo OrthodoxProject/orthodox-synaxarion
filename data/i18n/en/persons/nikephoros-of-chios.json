@@ -1,0 +1,20 @@
+{
+  "id": "nikephoros-of-chios",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Nikēphóros of Chios",
+    "short": "Nikēphóros of Chios",
+    "given": "Nikēphóros"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/01/101262-venerable-nikphros-of-chios",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

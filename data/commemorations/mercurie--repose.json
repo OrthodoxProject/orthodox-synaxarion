@@ -1,0 +1,31 @@
+{
+  "id": "mercurie--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:mercurie"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 25
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mare-mucenic-mercurie",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/odovania-praznicului-intrarii-in-biserica-a-maicii-domnului-%e2%80%a0-sf-mare-mc-ecaterina-sf-mare-mc-mercurie/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro; de verificat."
+    ]
+  }
+}

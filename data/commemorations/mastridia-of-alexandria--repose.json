@@ -1,0 +1,29 @@
+{
+  "id": "mastridia-of-alexandria--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:mastridia-of-alexandria"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 24
+  },
+  "external_ids": {
+    "oca": "103389"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/24/103389-virgin-martyr-mastridia-of-alexandria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

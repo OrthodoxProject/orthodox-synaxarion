@@ -1,0 +1,21 @@
+{
+  "id": "anna-of-novgorod",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ana din Novgorod",
+    "full": "Sfânta Cuvioasă Ana din Novgorod",
+    "short": "Ana din Novgorod",
+    "given": "Ana"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-ana-din-novgorod",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

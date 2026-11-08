@@ -1,0 +1,39 @@
+{
+  "id": "epistemis--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:epistemis"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 5
+  },
+  "external_ids": {
+    "oca": "103176"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-epistimia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-galaction-si-epistimia/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/05/103176-martyrs-galaction-and-his-wife-epistemis-at-emesa",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

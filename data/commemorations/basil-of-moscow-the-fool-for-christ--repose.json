@@ -1,0 +1,29 @@
+{
+  "id": "basil-of-moscow-the-fool-for-christ--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:basil-of-moscow-the-fool-for-christ"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 2
+  },
+  "external_ids": {
+    "oca": "102185"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/02/102185-blessed-basil-of-moscow-the-fool-for-christ",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

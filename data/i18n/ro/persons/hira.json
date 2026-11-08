@@ -1,0 +1,21 @@
+{
+  "id": "hira",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Hira",
+    "full": "Sfânta Muceniță Hira",
+    "short": "Hira",
+    "given": "Hira"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-hira",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

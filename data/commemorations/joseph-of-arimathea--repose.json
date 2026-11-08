@@ -1,0 +1,39 @@
+{
+  "id": "joseph-of-arimathea--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:joseph-of-arimathea"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 31
+  },
+  "external_ids": {
+    "oca": "109009"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-dreptul-iosif-din-arimateea",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/inainte-praznuirea-scoaterii-sfintei-cruci-sf-si-dreptul-evdochim-sf-si-dreptul-iosif-din-arimateea-lasatul-secului-pentru-postul-adormirii-maicii-domnului/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/31/109009-righteous-joseph-of-arimathea",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

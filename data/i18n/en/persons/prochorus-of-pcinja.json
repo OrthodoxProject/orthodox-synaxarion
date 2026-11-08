@@ -1,0 +1,20 @@
+{
+  "id": "prochorus-of-pcinja",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Prochorus of Pcinja",
+    "short": "Prochorus of Pcinja",
+    "given": "Prochorus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/19/108068-venerable-prochorus-of-pcinja",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

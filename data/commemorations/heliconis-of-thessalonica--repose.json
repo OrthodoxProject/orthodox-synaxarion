@@ -1,0 +1,34 @@
+{
+  "id": "heliconis-of-thessalonica--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:heliconis-of-thessalonica"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 28
+  },
+  "external_ids": {
+    "oca": "101556"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-eliconida",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/28/101556-martyr-heliconis-of-thessalonica",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, oca.org; de verificat."
+    ]
+  }
+}

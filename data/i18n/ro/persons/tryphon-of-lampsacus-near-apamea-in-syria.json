@@ -1,0 +1,26 @@
+{
+  "id": "tryphon-of-lampsacus-near-apamea-in-syria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Trifon",
+    "full": "Sfântul Mucenic Trifon",
+    "short": "Trifon",
+    "given": "Trifon"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-trifon-0",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/inainte-praznuirea-intampinarii-domnului-sf-mc-trifon-sf-mc-perpetua-si-felicitas-duminica-a-33-a-dupa-rusalii-a-vamesului-si-a-fariseului-ap-2-timotei-3-10-15-ev-luca-18-10-14-glas-1/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

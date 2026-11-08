@@ -1,0 +1,26 @@
+{
+  "id": "conon-of-isauria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Conon din Isauria",
+    "full": "Sfântul Mucenic Conon din Isauria",
+    "short": "Conon din Isauria",
+    "given": "Conon"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-conon-din-isauria",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-conon-din-isauria-si-conon-gradinarul-sf-cuv-marcu-pustnicul/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "artemon-of-laodikeia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Artemon preotul, din Laodiceea",
+    "full": "Sfântul Sfințit Mucenic Artemon preotul, din Laodiceea",
+    "short": "Artemon preotul, din Laodiceea",
+    "given": "Artemon"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-sfintit-mucenic-artemon-preotul-din-laodiceea",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ephraim",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "venerable_martyr"
+  ],
+  "external_ids": {
+    "doxologia": "sfantul-cuvios-mucenic-efrem-cel-nou",
+    "oca": "107785"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-mucenic-efrem-cel-nou",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-matrona-de-la-hurezi-sf-mare-mc-irina-sf-cuv-mc-efrem-cel-nou/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/05/107785-new-martyr-ephraim",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

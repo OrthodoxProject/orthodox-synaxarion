@@ -1,0 +1,21 @@
+{
+  "id": "maximus-the-greek",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Maxim Grecul",
+    "full": "Sfântul Maxim Grecul",
+    "short": "Maxim Grecul",
+    "given": "Maxim"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-maxim-grecul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

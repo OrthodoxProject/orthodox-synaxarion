@@ -1,0 +1,27 @@
+{
+  "id": "entrance-of-mary-into-the-temple-at",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "righteous"
+  ],
+  "external_ids": {
+    "copticchurch": "4_3#1"
+  },
+  "sources": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/4_3.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din copticchurch.net; de verificat.",
+      "Chipul sfințeniei nu reiese din titlu; „righteous” e provizoriu.",
+      "Genul nu reiese din sursă; e de verificat."
+    ]
+  }
+}

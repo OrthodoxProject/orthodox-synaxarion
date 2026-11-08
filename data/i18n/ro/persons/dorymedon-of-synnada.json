@@ -1,0 +1,26 @@
+{
+  "id": "dorymedon-of-synnada",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Dorimedont",
+    "full": "Sfântul Mucenic Dorimedont",
+    "short": "Dorimedont",
+    "given": "Dorimedont"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-dorimedont",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-trofim-savatie-si-dorimedont/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

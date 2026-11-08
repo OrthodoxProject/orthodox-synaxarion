@@ -1,0 +1,20 @@
+{
+  "id": "john-the-short-of-egypt",
+  "locale": "en",
+  "names": {
+    "display": "Venerable John the Short, of Egypt",
+    "short": "John the Short, of Egypt",
+    "given": "John"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/09/103258-venerable-john-the-short-of-egypt",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

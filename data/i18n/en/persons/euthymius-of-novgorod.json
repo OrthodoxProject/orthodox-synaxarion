@@ -1,0 +1,23 @@
+{
+  "id": "euthymius-of-novgorod",
+  "locale": "en",
+  "names": {
+    "display": "Saint Euthymius, Bishop of Novgorod",
+    "short": "Euthymius, Bishop of Novgorod",
+    "given": "Euthymius",
+    "variants": [
+      "St Euthymius, Bishop of Novgorod"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/11/100778-saint-euthymius-bishop-of-novgorod",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

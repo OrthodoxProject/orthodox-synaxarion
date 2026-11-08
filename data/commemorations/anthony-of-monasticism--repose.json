@@ -1,0 +1,34 @@
+{
+  "id": "anthony-of-monasticism--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:anthony-of-monasticism"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 19
+  },
+  "external_ids": {
+    "oca": "103810"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-antonie-stilitul-din-georgia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/19/103810-saint-anthony-founder-of-monasticism-in-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, oca.org; de verificat."
+    ]
+  }
+}

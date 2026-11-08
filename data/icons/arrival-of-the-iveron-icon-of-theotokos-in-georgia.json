@@ -1,0 +1,26 @@
+{
+  "id": "arrival-of-the-iveron-icon-of-theotokos-in-georgia",
+  "subject": "theotokos",
+  "depicts": [
+    "person:theotokos"
+  ],
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/aducerea-icoanei-maicii-domnului-din-iviron-georgia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/26/205488-arrival-of-the-ivron-icon-of-the-mother-of-god-in-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, oca.org; de verificat."
+    ]
+  }
+}

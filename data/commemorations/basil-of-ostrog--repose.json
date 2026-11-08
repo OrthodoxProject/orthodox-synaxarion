@@ -1,0 +1,30 @@
+{
+  "id": "basil-of-ostrog--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:basil-of-ostrog"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 12
+  },
+  "sources": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Basil_of_Ostrog"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din orthodox-calendar, Wikipedia; de verificat."
+    ]
+  }
+}

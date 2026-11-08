@@ -1,0 +1,20 @@
+{
+  "id": "theodosius-the-great",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Theodosius the Great, the Cenobiarch",
+    "short": "Theodosius the Great, Cenobiarch",
+    "given": "Theodosius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/11/100149-venerable-theodosius-the-great-the-cenobiarch",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "juvenal-of-alaska--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:juvenal-of-alaska"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 24
+  },
+  "external_ids": {
+    "oca": "102714"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/24/102714-martyr-juvenal-of-alaska",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "icon-of-theotokos-dulcea-sarutare-glykophilousa",
+  "kind": "icon",
+  "subjects": [
+    "icon:icon-of-theotokos-dulcea-sarutare-glykophilousa"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 27
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoanei-maicii-domnului-dulcea-sarutare-glykophilousa",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

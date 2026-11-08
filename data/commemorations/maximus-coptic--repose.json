@@ -1,0 +1,35 @@
+{
+  "id": "maximus-coptic--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:maximus-coptic"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 14,
+    "calendar": "coptic"
+  },
+  "external_ids": {
+    "copticchurch": "5_14#2"
+  },
+  "sources": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/5_14.html?lang=en#2",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:st-takla-synaxarium",
+      "url": "https://st-takla.org/books/en/church/synaxarium/05-topah/14-toba-maximus.html",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din copticchurch.net, st-takla.org; de verificat."
+    ]
+  }
+}

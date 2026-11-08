@@ -6,6 +6,30 @@
       "commemorations": [
         "comm:nicholas-of-myra--translation-of-relics"
       ]
+    },
+    {
+      "commemorations": [
+        "comm:isaiah-the-prophet--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:christopher-of-lycia--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:shio-the-anchorite-of-georgia--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:joseph-of-optina--repose"
+      ],
+      "confidence": "low"
     }
   ]
 }

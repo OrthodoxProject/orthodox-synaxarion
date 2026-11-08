@@ -1,0 +1,39 @@
+{
+  "id": "daniel-the-stylite-of-constantinople--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:daniel-the-stylite-of-constantinople"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 11
+  },
+  "external_ids": {
+    "oca": "103520"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-daniil-stalpnicul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-daniil-stalpnicul-si-luca-cel-nou/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/11/103520-venerable-daniel-the-stylite-of-constantinople",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

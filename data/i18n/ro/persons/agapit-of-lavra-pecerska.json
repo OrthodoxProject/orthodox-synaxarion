@@ -1,0 +1,21 @@
+{
+  "id": "agapit-of-lavra-pecerska",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Agapit de la Lavra Pecerska",
+    "full": "Sfântul Cuvios Agapit de la Lavra Pecerska",
+    "short": "Agapit de la Lavra Pecerska",
+    "given": "Agapit"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-agapit-de-la-lavra-pecerska",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

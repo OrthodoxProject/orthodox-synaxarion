@@ -1,0 +1,29 @@
+{
+  "id": "savva--finding-of-relics",
+  "kind": "relics_finding",
+  "subjects": [
+    "person:savva"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 19
+  },
+  "external_ids": {
+    "oca": "100232"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/19/100232-opening-of-the-relics-of-venerable-savva-of-storozhev-or-zvenigo",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

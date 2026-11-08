@@ -1,0 +1,30 @@
+{
+  "id": "apolinaria",
+  "kind": "saint",
+  "gender": "female",
+  "holiness_types": [
+    "venerable"
+  ],
+  "external_ids": {
+    "doxologia": "sfanta-cuvioasa-apolinaria"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-apolinaria",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/soborul-sf-70-de-apostoli-sf-cuv-teoctist-din-sicilia-nichifor-cel-lepros-si-apolinaria/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro; de verificat."
+    ]
+  }
+}

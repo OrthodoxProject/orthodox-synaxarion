@@ -1,0 +1,24 @@
+{
+  "tradition": "serbian",
+  "date": "05-28",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:niketas-of-chalcedon--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:eutychius-of-melitene--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:heliconis-of-thessalonica--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

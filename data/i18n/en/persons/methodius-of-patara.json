@@ -1,0 +1,20 @@
+{
+  "id": "methodius-of-patara",
+  "locale": "en",
+  "names": {
+    "display": "Hieromartyr Methodius, Bishop of Patara",
+    "short": "Methodius, Bishop of Patara",
+    "given": "Methodius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/20/101759-hieromartyr-methodius-bishop-of-patara",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

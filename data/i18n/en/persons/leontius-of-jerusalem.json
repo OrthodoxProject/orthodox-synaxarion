@@ -1,0 +1,20 @@
+{
+  "id": "leontius-of-jerusalem",
+  "locale": "en",
+  "names": {
+    "display": "Saint Leontius, Patriarch of Jerusalem",
+    "short": "Leontius, Patriarch of Jerusalem",
+    "given": "Leontius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/14/101380-saint-leontius-patriarch-of-jerusalem",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

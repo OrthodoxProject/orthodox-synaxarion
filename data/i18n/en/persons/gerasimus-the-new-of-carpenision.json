@@ -1,0 +1,20 @@
+{
+  "id": "gerasimus-the-new-of-carpenision",
+  "locale": "en",
+  "names": {
+    "display": "Monastic Martyr Gerasimus the New of Carpenision",
+    "short": "Gerasimus the New of Carpenision",
+    "given": "Gerasimus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/03/101891-monastic-martyr-gerasimus-the-new-of-carpenision",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

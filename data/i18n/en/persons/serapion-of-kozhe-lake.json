@@ -1,0 +1,20 @@
+{
+  "id": "serapion-of-kozhe-lake",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Serapion of Kozhe Lake",
+    "short": "Serapion of Kozhe Lake",
+    "given": "Serapion"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/27/107806-venerable-serapion-of-kozhe-lake",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "auxentius-of-constantinople",
+  "locale": "en",
+  "names": {
+    "display": "New Martyr Auxentius of Constantinople",
+    "short": "Auxentius of Constantinople",
+    "given": "Auxentius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/25/100310-new-martyr-auxentius-of-constantinople",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

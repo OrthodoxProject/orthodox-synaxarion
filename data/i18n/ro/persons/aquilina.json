@@ -1,0 +1,21 @@
+{
+  "id": "aquilina",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Achilina",
+    "full": "Sfânta Muceniță Achilina",
+    "short": "Achilina",
+    "given": "Achilina"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-achilina",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

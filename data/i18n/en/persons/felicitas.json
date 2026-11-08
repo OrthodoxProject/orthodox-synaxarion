@@ -1,0 +1,20 @@
+{
+  "id": "felicitas",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Felicitas",
+    "short": "Felicitas",
+    "given": "Felicitas"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/01/100398-martyrs-perpetua-a-woman-of-carthage-and-the-catechumens-saturus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "saints-of-alaska",
+  "locale": "en",
+  "names": {
+    "display": "Saints of Alaska"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/24/102712-synaxis-of-all-saints-of-alaska",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

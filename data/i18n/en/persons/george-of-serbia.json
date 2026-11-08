@@ -1,0 +1,20 @@
+{
+  "id": "george-of-serbia",
+  "locale": "en",
+  "names": {
+    "display": "Hieromartyr George of Serbia",
+    "short": "George of Serbia",
+    "given": "George"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/04/108049-hieromartyr-george-of-serbia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

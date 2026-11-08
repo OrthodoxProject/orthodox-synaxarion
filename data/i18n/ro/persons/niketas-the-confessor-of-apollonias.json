@@ -1,0 +1,21 @@
+{
+  "id": "niketas-the-confessor-of-apollonias",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Nichita Mărturisitorul, Episcopul Apoloniadei",
+    "full": "Sfântul Ierarh Nichita Mărturisitorul, Episcopul Apoloniadei",
+    "short": "Nichita Mărturisitorul, Episcopul Apoloniadei",
+    "given": "Nichita"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-nichita-marturisitorul-episcopul-apoloniadei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

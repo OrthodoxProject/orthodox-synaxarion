@@ -1,0 +1,21 @@
+{
+  "id": "sigfrid",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Sigfrid, Luminătorul Suediei",
+    "full": "Sfântul Ierarh Sigfrid, Luminătorul Suediei",
+    "short": "Sigfrid, Luminătorul Suediei",
+    "given": "Sigfrid"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-sigfrid-luminatorul-suediei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

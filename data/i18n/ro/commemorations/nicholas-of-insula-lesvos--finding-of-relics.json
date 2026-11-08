@@ -1,0 +1,18 @@
+{
+  "id": "nicholas-of-insula-lesvos--finding-of-relics",
+  "locale": "ro",
+  "names": {
+    "display": "Aflarea moaștelor Sfântului Mucenic Nicolae din Lesvos"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/aflarea-moastelor-sfantului-mucenic-nicolae-din-lesvos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

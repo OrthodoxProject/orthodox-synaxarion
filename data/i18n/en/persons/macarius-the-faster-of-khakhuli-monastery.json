@@ -1,0 +1,20 @@
+{
+  "id": "macarius-the-faster-of-khakhuli-monastery",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Macarius the Faster, Abbot of the Khakhuli Monastery",
+    "short": "Macarius the Faster, Abbot of the Khakhuli Monastery",
+    "given": "Macarius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/21/205500-venerable-macarius-the-faster-abbot-of-the-khakhuli-monastery",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

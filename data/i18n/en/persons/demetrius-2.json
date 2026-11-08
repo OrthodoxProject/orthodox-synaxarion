@@ -1,0 +1,20 @@
+{
+  "id": "demetrius-2",
+  "locale": "en",
+  "names": {
+    "display": "Saint Demetrius, New Martyr of Sliven",
+    "short": "Demetrius, New Martyr of Sliven",
+    "given": "Demetrius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/30/108004-saint-demetrius-new-martyr-of-sliven",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "anthousa-the-confessor",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Anthousa the Confessor",
+    "short": "Anthousa the Confessor",
+    "given": "Anthousa"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/27/102101-venerable-anthousa-the-confessor",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

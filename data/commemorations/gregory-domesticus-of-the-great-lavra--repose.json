@@ -1,0 +1,29 @@
+{
+  "id": "gregory-domesticus-of-the-great-lavra--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:gregory-domesticus-of-the-great-lavra"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 1
+  },
+  "external_ids": {
+    "oca": "102833"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/01/102833-venerable-gregory-domesticus-of-the-great-lavra-mount-athos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

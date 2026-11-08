@@ -1,0 +1,29 @@
+{
+  "id": "averkios-the-wonderworker-of-hieropolis",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Averchie, Episcopul Ierapolei, cel întocmai cu Apostolii",
+    "full": "Sfântul Ierarh Averchie, Episcopul Ierapolei, cel întocmai cu Apostolii",
+    "short": "Averchie, Episcopul Ierapolei, cel întocmai cu Apostolii",
+    "given": "Averchie",
+    "variants": [
+      "Sf. Ier. Averchie, episcopul Ierapolei, cel întocmai cu Apostolii"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-averchie-episcopul-ierapolei-cel-intocmai-cu-apostolii",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ier-averchie-episcopul-ierapolei-cel-intocmai-cu-apostolii-sf-7-tineri-din-efes/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "nun-martyr-eugenia-of-rome--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:nun-martyr-eugenia-of-rome"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 24
+  },
+  "external_ids": {
+    "oca": "103631"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/24/103631-nun-martyr-eugenia-of-rome",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

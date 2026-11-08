@@ -1,0 +1,21 @@
+{
+  "id": "elizabeth-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Elisabeta, ducesa Rusiei",
+    "full": "Sfânta Cuvioasă Muceniță Elisabeta, ducesa Rusiei",
+    "short": "Elisabeta, ducesa Rusiei",
+    "given": "Elisabeta"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-mucenita-elisabeta-ducesa-rusiei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

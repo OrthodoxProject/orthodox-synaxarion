@@ -1,0 +1,39 @@
+{
+  "id": "malachi-the-prophet--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:malachi-the-prophet"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 3
+  },
+  "external_ids": {
+    "oca": "100013"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-proroc-maleahi",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-proroc-maleahi-sf-mc-gordie-zi-aliturgica-harti/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/03/100013-holy-prophet-malachi",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

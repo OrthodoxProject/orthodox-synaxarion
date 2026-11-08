@@ -1,0 +1,29 @@
+{
+  "id": "andrew-the-apostle",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ap. Andrei, cel Întâi Chemat, Ocrotitorul României",
+    "full": "Sfântul Apostol Andrei, cel Întâi Chemat, Ocrotitorul României",
+    "short": "Andrei, cel Întâi Chemat, Ocrotitorul României",
+    "given": "Andrei",
+    "variants": [
+      "Sf. Ap. Andrei cel întâi chemat, Ocrotitorul României"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-apostol-andrei-cel-intai-chemat-ocrotitorul-romaniei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ap-andrei-cel-intai-chemat-ocrotitorul-romaniei-%e2%80%a0-sf-ier-andrei-saguna-mitropolitul-transilvaniei-sf-ier-frumentie-episcopul-etiopiei-dezlegare-la-peste-duminica/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "paulinus--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:paulinus"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 18
+  },
+  "external_ids": {
+    "oca": "101429"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-paulin",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-petru-dionisie-si-paulin/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/18/101429-martyrs-heraclius-paulinus-and-benedimus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

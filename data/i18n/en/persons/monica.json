@@ -1,0 +1,20 @@
+{
+  "id": "monica",
+  "locale": "en",
+  "names": {
+    "display": "Saint Monica",
+    "short": "Monica",
+    "given": "Monica"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/04/148979-saint-monica",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

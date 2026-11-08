@@ -1,0 +1,20 @@
+{
+  "id": "luarsaab",
+  "locale": "en",
+  "names": {
+    "display": "Saint Luarsaab",
+    "short": "Luarsaab",
+    "given": "Luarsaab"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/28/205308-saints-archilius-and-luarsaab",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

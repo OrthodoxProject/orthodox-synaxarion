@@ -1,0 +1,30 @@
+{
+  "id": "nicetas--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:nicetas"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 13
+  },
+  "sources": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/russian_saints.json",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nicetas_of_Novgorod"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din orthodox-calendar, Wikipedia; de verificat."
+    ]
+  }
+}

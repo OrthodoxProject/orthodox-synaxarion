@@ -1,0 +1,20 @@
+{
+  "id": "george-2",
+  "locale": "en",
+  "names": {
+    "display": "Hieromartyr George",
+    "short": "George",
+    "given": "George"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/04/205319-hieromartyr-george",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

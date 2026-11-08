@@ -1,0 +1,21 @@
+{
+  "id": "acacius-the-confessor",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Acachie Mărturisitorul, Episcopul Melitinei",
+    "full": "Sfântul Ierarh Acachie Mărturisitorul, Episcopul Melitinei",
+    "short": "Acachie Mărturisitorul, Episcopul Melitinei",
+    "given": "Acachie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-acachie-marturisitorul-episcopul-melitinei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

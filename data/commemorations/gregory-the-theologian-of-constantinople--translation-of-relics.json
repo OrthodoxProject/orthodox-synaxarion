@@ -1,0 +1,29 @@
+{
+  "id": "gregory-the-theologian-of-constantinople--translation-of-relics",
+  "kind": "relics_translation",
+  "subjects": [
+    "person:gregory-the-theologian-of-constantinople"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 19
+  },
+  "external_ids": {
+    "oca": "100215"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/19/100215-the-transfer-of-the-relics-of-saint-gregory-the-theologian",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

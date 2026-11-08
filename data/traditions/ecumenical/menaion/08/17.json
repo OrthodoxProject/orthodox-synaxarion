@@ -1,0 +1,25 @@
+{
+  "tradition": "ecumenical",
+  "date": "08-17",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:myron-the-presbyter-of-cyzicus--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:thyrsus--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:straton--repose",
+        "comm:cyprian-of-nicomedia--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

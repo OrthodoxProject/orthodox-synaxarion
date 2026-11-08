@@ -1,0 +1,21 @@
+{
+  "id": "alban-of-verulamul-britaniei",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Alban din Verulamul Britaniei",
+    "full": "Sfântul Mucenic Alban din Verulamul Britaniei",
+    "short": "Alban din Verulamul Britaniei",
+    "given": "Alban"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-alban-din-verulamul-britaniei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

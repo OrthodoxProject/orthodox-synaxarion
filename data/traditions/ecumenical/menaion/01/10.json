@@ -1,0 +1,30 @@
+{
+  "tradition": "ecumenical",
+  "date": "01-10",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:gregory-of-nyssa--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:dometian-of-melitene--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:marcian-the-presbyter-in-constantinople--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:theophan-the-recluse-of-tambov--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

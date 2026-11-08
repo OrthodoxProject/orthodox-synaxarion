@@ -1,0 +1,43 @@
+{
+  "id": "ignatius-the-martyr-of-mount-athos",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "new_martyr",
+    "martyr",
+    "venerable_martyr"
+  ],
+  "external_ids": {
+    "doxologia": "sfantul-nou-mucenic-ignatie",
+    "oca": "101264"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-nou-mucenic-ignatie",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-proroc-ieremia-sf-cuv-mc-eftimie-ignatie-si-acachie-sf-tamara-sf-cuv-isidora-dezlegare-la-peste/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/01/101264-new-martyr-ignatius-the-martyr-of-mount-athos",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/08/102904-monastic-martyr-ignatius-the-monk-of-bulgaria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

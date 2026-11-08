@@ -1,0 +1,20 @@
+{
+  "id": "theodota-2",
+  "locale": "en",
+  "names": {
+    "display": "Saint Theodota, mother of the Unmercenaries Cosmas",
+    "short": "Theodota, mother of the Unmercenaries Cosmas",
+    "given": "Theodota"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/01/103135-saint-theodota-mother-of-the-unmercenaries-cosmas-and-damian",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

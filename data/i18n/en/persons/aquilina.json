@@ -1,0 +1,20 @@
+{
+  "id": "aquilina",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Aquilina",
+    "short": "Aquilina",
+    "given": "Aquilina"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/07/101019-martyrs-rufinus-the-deacon-aquilina-and-200-soldiers-with-them-a",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

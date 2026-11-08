@@ -1,0 +1,20 @@
+{
+  "id": "alexis-the-man-of-god",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Alexis the Man of God",
+    "short": "Alexis the Man of God",
+    "given": "Alexis"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/17/100822-venerable-alexis-the-man-of-god",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

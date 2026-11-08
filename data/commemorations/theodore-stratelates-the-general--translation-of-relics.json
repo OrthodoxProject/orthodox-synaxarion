@@ -1,0 +1,39 @@
+{
+  "id": "theodore-stratelates-the-general--translation-of-relics",
+  "kind": "relics_translation",
+  "subjects": [
+    "person:theodore-stratelates-the-general"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 8
+  },
+  "external_ids": {
+    "oca": "101662"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/aducerea-moastelor-sfantului-mare-mucenic-teodor-stratilat",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-mc-nicandru-si-marcian-aducerea-moastelor-sf-mare-mc-teodor-stratilat-inceputul-postului-sf-ap-petru-si-pavel-dezlegare-la-peste/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/08/101662-translation-of-the-relics-of-the-greatmartyr-theodore-stratelate",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

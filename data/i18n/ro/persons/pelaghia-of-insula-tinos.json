@@ -1,0 +1,21 @@
+{
+  "id": "pelaghia-of-insula-tinos",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Pelaghia din insula Tinos",
+    "full": "Sfânta Cuvioasă Pelaghia din insula Tinos",
+    "short": "Pelaghia din insula Tinos",
+    "given": "Pelaghia"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-pelaghia-din-insula-tinos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

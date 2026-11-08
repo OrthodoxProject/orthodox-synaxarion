@@ -1,0 +1,26 @@
+{
+  "id": "samson",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Samson, primitorul de străini",
+    "full": "Sfântul Cuvios Samson, primitorul de străini",
+    "short": "Samson, primitorul de străini",
+    "given": "Samson"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-samson-primitorul-de-straini",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-samson-primitorul-de-straini-sf-mironosita-ioana-dezlegare-la-peste/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

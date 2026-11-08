@@ -1,0 +1,20 @@
+{
+  "id": "xenophon",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Xenophon, his wife, Mary, their two sons, Arcadius",
+    "short": "Xenophon, his wife, Mary, their two sons, Arcadius",
+    "given": "Xenophon"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/26/100314-venerable-xenophon-his-wife-mary-and-their-two-sons-arcadius-and",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

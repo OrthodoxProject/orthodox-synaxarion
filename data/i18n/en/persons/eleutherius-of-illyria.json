@@ -1,0 +1,20 @@
+{
+  "id": "eleutherius-of-illyria",
+  "locale": "en",
+  "names": {
+    "display": "Hieromartyr Eleutherius, Bishop of Illyria, his mother, Evanthia",
+    "short": "Eleutherius, Bishop of Illyria, his mother, Evanthia",
+    "given": "Eleutherius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/15/103548-hieromartyr-eleutherius-bishop-of-illyria-his-mother-martyr-evan",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

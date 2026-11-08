@@ -1,0 +1,31 @@
+{
+  "id": "callista-and-her-brothers-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:callista-and-her-brothers",
+    "person:evodius",
+    "person:hermogenes-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 1
+  },
+  "external_ids": {
+    "oca": "102453"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/01/102453-martyrs-callista-and-her-brothers-evodius-and-hermogenes-at-nico",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "joseph-of-serbia",
+  "locale": "en",
+  "names": {
+    "display": "Saint Joseph of Serbia",
+    "short": "Joseph of Serbia",
+    "given": "Joseph"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/20/108040-saint-joseph-of-serbia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

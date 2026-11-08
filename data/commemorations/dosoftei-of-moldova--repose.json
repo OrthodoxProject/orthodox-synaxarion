@@ -1,0 +1,40 @@
+{
+  "id": "dosoftei-of-moldova--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:dosoftei-of-moldova"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 13
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-dosoftei-mitropolitul-moldovei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ier-dosoftei-mitropolitul-moldovei-%e2%80%a0-sf-mari-mc-eustratie-auxentie-evghenie-mardarie-si-orest-sf-mc-lucia-din-siracuza-dezlegare-la-peste-duminica-a-28-a-dupa-rusa/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/romanian_saints.json",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dosoftei"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, orthodox-calendar, Wikipedia; de verificat."
+    ]
+  }
+}

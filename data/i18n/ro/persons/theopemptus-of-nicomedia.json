@@ -1,0 +1,26 @@
+{
+  "id": "theopemptus-of-nicomedia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Teopempt",
+    "full": "Sfântul Mucenic Teopempt",
+    "short": "Teopempt",
+    "given": "Teopempt"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-teopempt",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-teopempt-si-teonas-sf-cuv-sinclitichia-ajunul-botezului-domnului-post-duminica-dinaintea-botezului-domnului-ap-2-timotei-4-5-8-ev-marcu-1-1-8-predica-sfantului-ioan-botezatoru/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "euthymius-the-great",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Eftimie cel Mare",
+    "full": "Sfântul Cuvios Eftimie cel Mare",
+    "short": "Eftimie cel Mare",
+    "given": "Eftimie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-eftimie-cel-mare",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-eftimie-cel-mare-sf-mc-in-pin-si-rim-sf-mc-eusebiu/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

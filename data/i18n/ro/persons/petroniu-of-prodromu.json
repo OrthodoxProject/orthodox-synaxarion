@@ -1,0 +1,26 @@
+{
+  "id": "petroniu-of-prodromu",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Petroniu de la Prodromu",
+    "full": "Sfântul Cuvios Petroniu de la Prodromu",
+    "short": "Petroniu de la Prodromu",
+    "given": "Petroniu"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-petroniu-de-la-prodromu",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-intaia-si-a-doua-aflare-a-capului-sf-proroc-ioan-botezatorul-%e2%80%a0-sf-cuv-petroniu-de-la-prodromu-zi-aliturgica-canonul-mare/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

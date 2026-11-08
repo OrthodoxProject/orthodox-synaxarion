@@ -1,0 +1,39 @@
+{
+  "id": "40-martyrs-of-sebaste",
+  "kind": "repose",
+  "subjects": [
+    "group:40-martyrs-of-sebaste"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 9
+  },
+  "external_ids": {
+    "oca": "100706"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfintii-40-de-mucenici-din-sevastia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-40-de-mucenici-din-sevastia/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/09/100706-40-holy-martyrs-of-sebaste",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

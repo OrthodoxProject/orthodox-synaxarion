@@ -1,0 +1,25 @@
+{
+  "id": "joseph-of-dionysiou-2",
+  "locale": "en",
+  "names": {
+    "display": "Monastic Martyr Joseph of Dionysiou, Mount Athos",
+    "short": "Joseph of Dionysiou, Mount Athos",
+    "given": "Joseph"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/14/102613-monastic-martyr-joseph-of-dionysiou-mount-athos",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/26/103065-monastic-martyr-joseph-of-dionysiou-mount-athos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

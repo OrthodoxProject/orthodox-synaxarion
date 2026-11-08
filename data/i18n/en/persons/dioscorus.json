@@ -1,0 +1,20 @@
+{
+  "id": "dioscorus",
+  "locale": "en",
+  "names": {
+    "display": "New Martyr Dioscorus",
+    "short": "Dioscorus",
+    "given": "Dioscorus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/11/205356-new-martyr-dioscorus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "parigorie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Parigorie",
+    "full": "Sfântul Mucenic Parigorie",
+    "short": "Parigorie",
+    "given": "Parigorie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-parigorie",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

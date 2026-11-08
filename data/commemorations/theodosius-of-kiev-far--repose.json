@@ -1,0 +1,29 @@
+{
+  "id": "theodosius-of-kiev-far--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:theodosius-of-kiev-far"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 3
+  },
+  "external_ids": {
+    "oca": "101280"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/03/101280-venerable-theodosius-abbot-of-the-kiev-far-caves-monastery-and-f",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

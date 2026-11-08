@@ -1,0 +1,30 @@
+{
+  "tradition": "serbian",
+  "date": "01-09",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:polyeuktos-of-melitene-in-armenia--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:philip-of-moscow--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:peter-of-sebaste--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:eustratius-the-wonderworker--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

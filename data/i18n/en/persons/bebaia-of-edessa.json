@@ -1,0 +1,25 @@
+{
+  "id": "bebaia-of-edessa",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Bebaia of Edessa",
+    "short": "Bebaia of Edessa",
+    "given": "Bebaia"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/29/148983-martyrs-sarbelus-and-bebaia-of-edessa",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/15/102976-martyrs-sarbelius-and-bebaia-of-edessa",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "pahomie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Pahomie",
+    "full": "Sfântul Cuvios Pahomie",
+    "short": "Pahomie",
+    "given": "Pahomie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-pahomie",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

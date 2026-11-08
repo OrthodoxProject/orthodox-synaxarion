@@ -1,0 +1,20 @@
+{
+  "id": "theocteristus-of-symbola",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Theocteristus, Abbot of Symbola on Mount Olympus, Bithynia",
+    "short": "Theocteristus, Abbot of Symbola on Mount Olympus, Bithynia",
+    "given": "Theocteristus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/10/103274-venerable-theocteristus-abbot-of-symbola-on-mount-olympus-bithyn",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

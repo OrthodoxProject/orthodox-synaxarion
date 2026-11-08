@@ -1,0 +1,29 @@
+{
+  "id": "joannicius-of-devic--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:joannicius-of-devic"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 2
+  },
+  "external_ids": {
+    "oca": "108070"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/02/108070-venerable-joannicius-of-devic",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "uros-the-weak",
+  "locale": "en",
+  "names": {
+    "display": "Saint Uroš the Weak",
+    "short": "Uroš the Weak",
+    "given": "Uroš"
+  },
+  "references": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

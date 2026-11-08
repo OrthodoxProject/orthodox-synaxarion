@@ -1,0 +1,29 @@
+{
+  "id": "john-the-hymnographer-of-mount-athos--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:john-the-hymnographer-of-mount-athos"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 1
+  },
+  "external_ids": {
+    "oca": "102832"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/01/102832-venerable-john-koukouzelis-the-hymnographer-of-mount-athos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

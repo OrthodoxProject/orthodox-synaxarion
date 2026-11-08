@@ -1,0 +1,31 @@
+{
+  "id": "john-of-shavta-gelati",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "confessor"
+  ],
+  "external_ids": {
+    "oca": "103857"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/09/103857-saint-john-of-shavta-gelati",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/russian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org, orthodox-calendar; de verificat.",
+      "Genul nu reiese din sursă; e de verificat."
+    ]
+  }
+}

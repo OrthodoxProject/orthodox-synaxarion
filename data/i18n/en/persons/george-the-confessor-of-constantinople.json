@@ -1,0 +1,20 @@
+{
+  "id": "george-the-confessor-of-constantinople",
+  "locale": "en",
+  "names": {
+    "display": "Saint George the Confessor, with his wife and children, of Constantinople",
+    "short": "George the Confessor, with his wife and children, of Constantinople",
+    "given": "George"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/13/101369-saint-george-the-confessor-with-his-wife-and-children-of-constan",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

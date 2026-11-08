@@ -1,0 +1,32 @@
+{
+  "tradition": "romanian",
+  "date": "01-10",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:gregory-of-nyssa--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:antipa-of-calapodesti--repose"
+      ],
+      "symbol": "blue-half-parenthesized"
+    },
+    {
+      "commemorations": [
+        "comm:dometian-of-melitene--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:theophan-the-recluse-of-tambov--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:marcian-the-presbyter-in-constantinople--repose"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "icon-of-theotokos-of-lydda-or-the-roman",
+  "kind": "icon",
+  "subjects": [
+    "icon:icon-of-theotokos-of-lydda-or-the-roman"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 26
+  },
+  "external_ids": {
+    "oca": "101825"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/26/101825-icon-of-the-mother-of-god-of-lydda-or-the-roman",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

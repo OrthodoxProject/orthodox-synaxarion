@@ -1,0 +1,20 @@
+{
+  "id": "john-scholasticus-of-constantinople",
+  "locale": "en",
+  "names": {
+    "display": "Saint John “Scholasticus”, Patriarch of Constantinople",
+    "short": "John \"Scholasticus\", Patriarch of Constantinople",
+    "given": "John"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/21/109057-saint-john-scholasticus-patriarch-of-constantinople",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

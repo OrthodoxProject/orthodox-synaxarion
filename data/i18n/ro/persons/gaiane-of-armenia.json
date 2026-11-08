@@ -1,0 +1,26 @@
+{
+  "id": "gaiane-of-armenia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Gaiani",
+    "full": "Sfânta Muceniță Gaiani",
+    "short": "Gaiani",
+    "given": "Gaiani"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-gaiani",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ier-grigorie-luminatorul-arhiepiscopul-armeniei-sf-mc-ripsimia-si-gaiani/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

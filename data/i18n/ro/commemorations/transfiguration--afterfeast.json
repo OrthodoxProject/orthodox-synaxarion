@@ -1,0 +1,18 @@
+{
+  "id": "transfiguration--afterfeast",
+  "locale": "ro",
+  "names": {
+    "display": "După-prăznuirea Schimbării la Față a Domnului"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/dupa-praznuirea-schimbarii-la-fata-domnului",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

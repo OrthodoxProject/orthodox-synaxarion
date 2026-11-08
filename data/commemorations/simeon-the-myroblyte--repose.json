@@ -1,0 +1,30 @@
+{
+  "id": "simeon-the-myroblyte--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:simeon-the-myroblyte"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 26
+  },
+  "sources": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Simeon_the_Myroblyte"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din orthodox-calendar, Wikipedia; de verificat."
+    ]
+  }
+}

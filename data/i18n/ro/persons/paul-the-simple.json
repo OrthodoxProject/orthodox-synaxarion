@@ -1,0 +1,21 @@
+{
+  "id": "paul-the-simple",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Pavel cel Simplu",
+    "full": "Sfântul Cuvios Pavel cel Simplu",
+    "short": "Pavel cel Simplu",
+    "given": "Pavel"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-pavel-cel-simplu",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

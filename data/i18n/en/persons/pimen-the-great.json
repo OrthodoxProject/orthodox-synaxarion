@@ -1,0 +1,20 @@
+{
+  "id": "pimen-the-great",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Pimen the Great",
+    "short": "Pimen the Great",
+    "given": "Pimen"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/27/102404-venerable-pimen-the-great",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

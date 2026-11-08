@@ -1,0 +1,21 @@
+{
+  "id": "alexis-toth",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Preot Mărt. Alexie Toth",
+    "full": "Sfântul Preot Mărturisitor Alexie Toth",
+    "short": "Alexie Toth",
+    "given": "Alexie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-preot-marturisitor-alexie-toth",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

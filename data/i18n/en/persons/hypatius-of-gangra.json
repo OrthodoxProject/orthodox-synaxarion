@@ -1,0 +1,20 @@
+{
+  "id": "hypatius-of-gangra",
+  "locale": "en",
+  "names": {
+    "display": "Saint Hypatius of Gangra",
+    "short": "Hypatius of Gangra",
+    "given": "Hypatius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/16/205397-saint-hypatius-of-gangra",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

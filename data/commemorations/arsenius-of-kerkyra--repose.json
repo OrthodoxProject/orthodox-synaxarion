@@ -1,0 +1,29 @@
+{
+  "id": "arsenius-of-kerkyra--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:arsenius-of-kerkyra"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 19
+  },
+  "external_ids": {
+    "oca": "100235"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/19/100235-saint-arsenius-archbishop-of-kerkyra",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

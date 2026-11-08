@@ -1,0 +1,20 @@
+{
+  "id": "domna-of-tomsk",
+  "locale": "en",
+  "names": {
+    "display": "Saint Domna of Tomsk",
+    "short": "Domna of Tomsk",
+    "given": "Domna"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/16/105703-saint-domna-of-tomsk",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

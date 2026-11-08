@@ -1,0 +1,20 @@
+{
+  "id": "theodotus-2",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Theodotus",
+    "short": "Theodotus",
+    "given": "Theodotus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/04/101898-martyr-theodotus-and-theodotia-at-caesarea-in-cappadocia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

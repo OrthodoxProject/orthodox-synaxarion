@@ -1,0 +1,35 @@
+{
+  "id": "aglaia-of-rome",
+  "kind": "saint",
+  "gender": "female",
+  "holiness_types": [
+    "venerable"
+  ],
+  "external_ids": {
+    "doxologia": "sfanta-cuvioasa-aglaia"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-aglaia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-mucenita-evloghia-de-la-samurcasesti-sf-mc-bonifatie-sf-aglaia-sf-ier-grichentie-episcopul-etiopiei-dezlegare-la-peste/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/19/103583-martyr-boniface-at-tarsus-in-cilicia-and-righteous-aglaa-of-rome",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

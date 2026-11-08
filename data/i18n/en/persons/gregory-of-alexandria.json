@@ -1,0 +1,20 @@
+{
+  "id": "gregory-of-alexandria",
+  "locale": "en",
+  "names": {
+    "display": "Saint Gregory, Archbishop of Alexandria",
+    "short": "Gregory, Archbishop of Alexandria",
+    "given": "Gregory"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/05/103184-saint-gregory-archbishop-of-alexandria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

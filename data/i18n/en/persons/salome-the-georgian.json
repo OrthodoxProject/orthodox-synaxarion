@@ -1,0 +1,20 @@
+{
+  "id": "salome-the-georgian",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Salome the Georgian",
+    "short": "Salome the Georgian",
+    "given": "Salome"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/20/205478-martyr-salome-the-georgian",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

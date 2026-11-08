@@ -1,0 +1,18 @@
+{
+  "id": "theotokos--feast-discovery-marys",
+  "locale": "en",
+  "names": {
+    "display": "Feast of the Discovery of St. Mary’s Box"
+  },
+  "references": [
+    {
+      "source": "src:armenianchurch-ge",
+      "url": "https://armenianchurch.ge/en/kalendar-prazdnikov/description-2/june/feast-of-the-discovery-of-st-mary-s-box",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

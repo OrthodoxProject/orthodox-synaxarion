@@ -1,0 +1,39 @@
+{
+  "id": "gregory-palamas-of-thessalonica--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:gregory-palamas-of-thessalonica"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 14
+  },
+  "external_ids": {
+    "oca": "103303"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-grigorie-palama-arhiepiscopul-tesalonicului",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ap-filip-unul-dintre-cei-12-apostoli-sf-ier-grigorie-palama-arhiepiscopul-tesalonicului-sfintii-palamiti-lasatul-secului-pentru-postul-nasterii-domnului/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/14/103303-saint-gregory-palamas-archbishop-of-thessalonica",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

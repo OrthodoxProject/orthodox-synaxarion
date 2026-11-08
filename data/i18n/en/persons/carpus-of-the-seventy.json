@@ -1,0 +1,20 @@
+{
+  "id": "carpus-of-the-seventy",
+  "locale": "en",
+  "names": {
+    "display": "Apostle Carpus of the Seventy",
+    "short": "Carpus of the Seventy",
+    "given": "Carpus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/26/101535-apostle-carpus-of-the-seventy",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

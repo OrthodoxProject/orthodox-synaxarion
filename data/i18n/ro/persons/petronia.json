@@ -1,0 +1,26 @@
+{
+  "id": "petronia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Petronia",
+    "full": "Sfânta Muceniță Petronia",
+    "short": "Petronia",
+    "given": "Petronia"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-petronia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-chiriac-sihastrul-sf-mc-petronia/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

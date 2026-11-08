@@ -1,0 +1,28 @@
+{
+  "id": "justinian-the-great",
+  "locale": "ro",
+  "names": {
+    "display": "Binecredinciosul Împărat Justinian cel Mare",
+    "short": "Justinian cel Mare",
+    "given": "Justinian",
+    "variants": [
+      "Binecredinciosul Împărat Iustinian cel Mare"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/binecredinciosul-imparat-justinian-cel-mare",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/aducerea-moastelor-sf-intai-mc-si-arhidiacon-stefan-dreptul-gamaliel-binecredinciosul-imparat-iustinian-cel-mare-duminica-a-9-a-dupa-rusalii-ap-1-corinteni-3-9-17-ev-matei-14-22-34-potolir/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

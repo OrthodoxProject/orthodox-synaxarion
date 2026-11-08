@@ -1,0 +1,34 @@
+{
+  "id": "paulinus-the-merciful-of-nola--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:paulinus-the-merciful-of-nola"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 23
+  },
+  "external_ids": {
+    "oca": "100283"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-paulin-cel-milostiv-episcopul-nolei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/23/100283-saint-paulinus-the-merciful-bishop-of-nola",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, oca.org; de verificat."
+    ]
+  }
+}

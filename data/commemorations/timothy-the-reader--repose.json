@@ -1,0 +1,39 @@
+{
+  "id": "timothy-the-reader--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:timothy-the-reader"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 3
+  },
+  "external_ids": {
+    "oca": "101278"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-timotei-1",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-irodion-de-la-lainici-sf-mc-timotei-si-sotia-sa-mavra-duminica-a-4-a-dupa-pasti-vindecarea-slabanogului-de-la-vitezda-ap-fapte-9-32-42-ev-ioan-5-1-15-glas-3-voscr-5/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/03/101278-martyr-timothy-the-reader-and-his-wife-maura-in-egypt",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

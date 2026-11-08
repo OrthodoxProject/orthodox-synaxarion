@@ -1,0 +1,25 @@
+{
+  "id": "severus-of-antioch",
+  "locale": "en",
+  "names": {
+    "display": "Saint Severus, Patriarch of Antioch",
+    "short": "Severus, Patriarch of Antioch",
+    "given": "Severus"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/6_9.html?lang=en#1",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/6_14.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

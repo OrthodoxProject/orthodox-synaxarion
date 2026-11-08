@@ -1,0 +1,29 @@
+{
+  "id": "karion-of-egypt--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:karion-of-egypt"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 5
+  },
+  "external_ids": {
+    "oca": "103480"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/05/103480-venerable-karion-cyrion-and-his-son-venerable-zachariah-of-egypt",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

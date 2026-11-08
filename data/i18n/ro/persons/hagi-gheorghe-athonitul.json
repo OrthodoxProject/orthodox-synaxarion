@@ -1,0 +1,21 @@
+{
+  "id": "hagi-gheorghe-athonitul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Hagi-Gheorghe Athonitul",
+    "full": "Sfântul Cuvios Hagi-Gheorghe Athonitul",
+    "short": "Hagi-Gheorghe Athonitul",
+    "given": "Hagi-Gheorghe"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-hagi-gheorghe-athonitul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

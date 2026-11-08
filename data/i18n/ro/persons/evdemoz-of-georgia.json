@@ -1,0 +1,21 @@
+{
+  "id": "evdemoz-of-georgia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Evdemoz din Georgia",
+    "full": "Sfântul Mucenic Evdemoz din Georgia",
+    "short": "Evdemoz din Georgia",
+    "given": "Evdemoz"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-evdemoz-din-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

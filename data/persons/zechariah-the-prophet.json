@@ -1,0 +1,22 @@
+{
+  "id": "zechariah-the-prophet",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "prophet"
+  ],
+  "sources": [
+    {
+      "source": "src:armenianchurch-ge",
+      "url": "https://armenianchurch.ge/en/kalendar-prazdnikov/description-2/june/commemoration-of-the-prophet-zechariah",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din armenianchurch.ge; de verificat."
+    ]
+  }
+}

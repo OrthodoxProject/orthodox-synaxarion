@@ -1,0 +1,26 @@
+{
+  "id": "isaiah-the-prophet",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Proroc Isaia",
+    "full": "Sfântul Proroc Isaia",
+    "short": "Isaia",
+    "given": "Isaia"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-proroc-isaia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-proroc-isaia-sf-mc-hristofor-aducerea-la-bari-a-moastelor-sf-ier-nicolae/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

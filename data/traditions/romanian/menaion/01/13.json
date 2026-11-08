@@ -1,0 +1,28 @@
+{
+  "tradition": "romanian",
+  "date": "01-13",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:hermylus--repose",
+        "comm:stratonicus-of-belgrade--repose"
+      ],
+      "symbol": "blue-plain"
+    },
+    {
+      "commemorations": [
+        "comm:james-of-nisibis--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:hilary-of-poitiers--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:maximus-kavsokalyvites-of-mount-athos--repose"
+      ]
+    }
+  ]
+}

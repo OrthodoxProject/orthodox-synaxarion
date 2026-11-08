@@ -1,0 +1,21 @@
+{
+  "id": "teodora-of-vasta",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Teodora din Vasta",
+    "full": "Sfânta Teodora din Vasta",
+    "short": "Teodora din Vasta",
+    "given": "Teodora"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-teodora-din-vasta",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

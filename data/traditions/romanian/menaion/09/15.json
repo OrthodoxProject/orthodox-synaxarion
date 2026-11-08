@@ -1,0 +1,39 @@
+{
+  "tradition": "romanian",
+  "date": "09-15",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:joseph-the-new-of-partos--repose"
+      ],
+      "symbol": "blue-half-parenthesized"
+    },
+    {
+      "commemorations": [
+        "comm:nichita-romanul--repose"
+      ],
+      "symbol": "blue-plain"
+    },
+    {
+      "commemorations": [
+        "comm:bessarion-of-larissa--repose"
+      ],
+      "symbol": "black-plain"
+    },
+    {
+      "commemorations": [
+        "comm:simeon-al-tesalonicului--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:joseph-of-alaverdi--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:icon-of-theotokos-of-novoniketa"
+      ]
+    }
+  ]
+}

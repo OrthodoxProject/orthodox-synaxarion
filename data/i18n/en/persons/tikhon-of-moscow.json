@@ -1,0 +1,20 @@
+{
+  "id": "tikhon-of-moscow",
+  "locale": "en",
+  "names": {
+    "display": "Repose of Saint Tikhon, Patriarch of Moscow, Enlightener of North America",
+    "short": "Tikhon, Patriarch of Moscow, Enlightener of North America",
+    "given": "Tikhon"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/07/101016-repose-of-saint-tikhon-patriarch-of-moscow-enlightener-of-north",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

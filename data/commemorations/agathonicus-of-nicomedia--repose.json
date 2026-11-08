@@ -1,0 +1,39 @@
+{
+  "id": "agathonicus-of-nicomedia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:agathonicus-of-nicomedia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 22
+  },
+  "external_ids": {
+    "oca": "102364"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-agatonic",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-agatonic-si-cei-impreuna-cu-el/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/22/102364-martyr-agathonicus-of-nicomedia-and-those-with-him-who-suffered",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

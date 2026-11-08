@@ -1,0 +1,35 @@
+{
+  "id": "cecilia",
+  "kind": "saint",
+  "gender": "female",
+  "holiness_types": [
+    "martyr"
+  ],
+  "external_ids": {
+    "doxologia": "sfanta-mucenita-cecilia"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-cecilia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ap-filimon-arhip-onisim-si-apfia-sf-mc-cecilia-dezlegare-la-peste-duminica-a-26-a-dupa-rusalii-ap-efeseni-5-8-19-ev-luca-12-16-21-pilda-bogatului-caruia-i-a-rodit-tarina-glas-8/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/22/103365-virgin-martyr-cecilia-and-the-holy-martyrs-valerian-tiburtius-an",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

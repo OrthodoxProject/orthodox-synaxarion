@@ -1,0 +1,39 @@
+{
+  "id": "george-the-chozebite--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:george-the-chozebite"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 8
+  },
+  "external_ids": {
+    "oca": "100112"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-gheorghe-hozevitul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-gheorghe-hozevitul-sf-cuv-domnica/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/08/100112-venerable-george-the-chozebite-abbot",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

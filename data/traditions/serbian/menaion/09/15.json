@@ -1,0 +1,30 @@
+{
+  "tradition": "serbian",
+  "date": "09-15",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:joseph-of-alaverdi--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:joseph-the-new-of-partos--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:bessarion-of-larissa--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:icon-of-theotokos-of-novoniketa"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

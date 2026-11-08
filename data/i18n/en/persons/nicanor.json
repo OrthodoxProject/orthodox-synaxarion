@@ -1,0 +1,20 @@
+{
+  "id": "nicanor",
+  "locale": "en",
+  "names": {
+    "display": "Saint Nicanor, Wonderworker of Mount Calistratus",
+    "short": "Nicanor, Wonderworker of Mount Calistratus",
+    "given": "Nicanor"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/07/205386-saint-nicanor-wonderworker-of-mount-calistratus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

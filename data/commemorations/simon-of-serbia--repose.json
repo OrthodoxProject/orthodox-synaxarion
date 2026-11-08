@@ -1,0 +1,29 @@
+{
+  "id": "simon-of-serbia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:simon-of-serbia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 24
+  },
+  "external_ids": {
+    "oca": "108062"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/24/108062-venerable-simon-of-serbia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "martyr-timothy-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "group:martyr-timothy-and-companions"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 28
+  },
+  "external_ids": {
+    "oca": "103425"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/28/103425-martyr-timothy-and-his-companions-at-tiberiopolis",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

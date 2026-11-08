@@ -1,0 +1,20 @@
+{
+  "id": "hosea-the-prophet",
+  "locale": "en",
+  "names": {
+    "display": "Prophet Hosea",
+    "short": "Hosea",
+    "given": "Hosea"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/17/102983-prophet-hosea",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "apollo",
+  "locale": "en",
+  "names": {
+    "display": "Saint Apollo, friend of Anba Abib",
+    "short": "Apollo, friend of Anba Abib",
+    "given": "Apollo"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/6_5.html?lang=en#3",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

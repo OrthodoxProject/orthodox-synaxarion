@@ -1,0 +1,20 @@
+{
+  "id": "porphyrios",
+  "locale": "en",
+  "names": {
+    "display": "Saint Porphyrios, Wonderworker of Kavsokaliva",
+    "short": "Porphyrios, Wonderworker of Kavsokaliva",
+    "given": "Porphyrios"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/02/100403-saint-porphyrios-wonderworker-of-kavsokaliva",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

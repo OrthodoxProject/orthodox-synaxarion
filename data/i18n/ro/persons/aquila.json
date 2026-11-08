@@ -1,0 +1,21 @@
+{
+  "id": "aquila",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Achila",
+    "full": "Sfântul Mucenic Achila",
+    "short": "Achila",
+    "given": "Achila"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-achila",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

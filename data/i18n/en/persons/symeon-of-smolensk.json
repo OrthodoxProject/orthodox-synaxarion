@@ -1,0 +1,20 @@
+{
+  "id": "symeon-of-smolensk",
+  "locale": "en",
+  "names": {
+    "display": "Metropolitan Symeon of Smolensk",
+    "short": "Symeon of Smolensk",
+    "given": "Symeon"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/04/100447-metropolitan-symeon-of-smolensk",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "seraphim-of-labodeia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:seraphim-of-labodeia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 6
+  },
+  "external_ids": {
+    "oca": "205354"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/06/205354-saint-seraphim-of-labodeia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

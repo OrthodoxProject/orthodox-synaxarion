@@ -1,0 +1,36 @@
+{
+  "id": "nonna",
+  "kind": "saint",
+  "gender": "female",
+  "holiness_types": [
+    "righteous"
+  ],
+  "external_ids": {
+    "doxologia": "sfanta-nona-mama-sfantului-grigorie-teologul",
+    "oca": "102214"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-nona-mama-sfantului-grigorie-teologul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/inainte-praznuirea-schimbarii-la-fata-a-domnului-%e2%80%a0-sf-cuv-ioan-iacob-de-la-neamt-sf-mc-evsignie-sf-nona-mama-sf-ier-grigorie-teologul-sf-ier-fabian-episcopul-romei/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/05/102214-righteous-nonna-mother-of-saint-gregory-the-theologian",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

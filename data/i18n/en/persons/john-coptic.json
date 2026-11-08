@@ -1,0 +1,20 @@
+{
+  "id": "john-coptic",
+  "locale": "en",
+  "names": {
+    "display": "Saint John, Archpriest of Scetis",
+    "short": "John, Archpriest of Scetis",
+    "given": "John"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/4_30.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

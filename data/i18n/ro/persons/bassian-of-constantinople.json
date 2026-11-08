@@ -1,0 +1,26 @@
+{
+  "id": "bassian-of-constantinople",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Vasian",
+    "full": "Sfântul Cuvios Vasian",
+    "short": "Vasian",
+    "given": "Vasian"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-vasian",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-evlampie-si-sora-sa-evlampia-sf-cuv-vasian-si-teofil-marturisitorul/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

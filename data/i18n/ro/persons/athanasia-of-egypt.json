@@ -1,0 +1,26 @@
+{
+  "id": "athanasia-of-egypt",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Atanasia",
+    "full": "Sfânta Cuvioasă Atanasia",
+    "short": "Atanasia",
+    "given": "Atanasia"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-atanasia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ap-iacob-al-lui-alfeu-sf-cuv-andronic-si-atanasia/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "julian-the-hermit-of-mesopotamia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Iulian",
+    "full": "Sfântul Cuvios Iulian",
+    "short": "Iulian",
+    "given": "Iulian"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-iulian",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

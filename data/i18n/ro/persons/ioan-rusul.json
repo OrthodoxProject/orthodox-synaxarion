@@ -1,0 +1,26 @@
+{
+  "id": "ioan-rusul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mărt. Ioan Rusul",
+    "full": "Sfântul Mărturisitor Ioan Rusul",
+    "short": "Ioan Rusul",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-marturisitor-ioan-rusul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-iuliu-veteranul-sf-sfintiti-mc-eladie-si-terapont-episcopul-sardei-sf-mart-ioan-rusul-dezlegare-la-peste/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

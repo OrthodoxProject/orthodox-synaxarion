@@ -1,0 +1,21 @@
+{
+  "id": "florentina-of-cartagina",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Florentina din Cartagina",
+    "full": "Sfânta Cuvioasă Florentina din Cartagina",
+    "short": "Florentina din Cartagina",
+    "given": "Florentina"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-florentina-din-cartagina",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

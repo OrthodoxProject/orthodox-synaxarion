@@ -1,0 +1,21 @@
+{
+  "id": "hristina",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Hristina și cele 7 sfinte fecioare împreună cu ea",
+    "full": "Sfânta Hristina și cele 7 sfinte fecioare împreună cu ea",
+    "short": "Hristina, cele 7 sfinte fecioare împreună cu ea",
+    "given": "Hristina"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-hristina-cele-7-sfinte-fecioare-impreuna-cu-ea",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

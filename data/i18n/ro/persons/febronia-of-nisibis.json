@@ -1,0 +1,35 @@
+{
+  "id": "febronia-of-nisibis",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mare Mc. Fevronia",
+    "full": "Sfânta Mare Muceniță Fevronia",
+    "short": "Fevronia",
+    "given": "Fevronia",
+    "variants": [
+      "Sf. Fevronia, Cneaghină de Murom",
+      "Sf. Cuv. Mc. Fevronia"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mare-mucenita-fevronia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-fevronia-cneaghina-de-murom",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-mc-fevronia-sf-mc-orentie-si-fratii-sai-sf-mc-livia/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

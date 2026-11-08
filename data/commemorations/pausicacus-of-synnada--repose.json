@@ -1,0 +1,29 @@
+{
+  "id": "pausicacus-of-synnada--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:pausicacus-of-synnada"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 13
+  },
+  "external_ids": {
+    "oca": "101368"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/13/101368-saint-pausicacus-bishop-of-synnada",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

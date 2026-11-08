@@ -1,0 +1,21 @@
+{
+  "id": "camelia-of-ecoulives",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Camelia din Ecoulives",
+    "full": "Sfânta Cuvioasă Camelia din Ecoulives",
+    "short": "Camelia din Ecoulives",
+    "given": "Camelia"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-camelia-din-ecoulives",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

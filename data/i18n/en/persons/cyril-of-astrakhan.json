@@ -1,0 +1,20 @@
+{
+  "id": "cyril-of-astrakhan",
+  "locale": "en",
+  "names": {
+    "display": "Saint Cyril of Astrakhan",
+    "short": "Cyril of Astrakhan",
+    "given": "Cyril"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/18/205335-saint-cyril-of-astrakhan",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

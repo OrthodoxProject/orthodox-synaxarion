@@ -1,0 +1,20 @@
+{
+  "id": "sebastiana-the-martyr",
+  "locale": "en",
+  "names": {
+    "display": "Saint Sebastiana the Martyr, disciple of Saint Paul the Apostle, at Heraclea",
+    "short": "Sebastiana the Martyr, disciple of Saint Paul the Apostle, at Heraclea",
+    "given": "Sebastiana"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/16/102628-saint-sebastiana-the-martyr-disciple-of-saint-paul-the-apostle-a",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

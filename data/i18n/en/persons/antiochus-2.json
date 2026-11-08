@@ -1,0 +1,20 @@
+{
+  "id": "antiochus-2",
+  "locale": "en",
+  "names": {
+    "display": "Saint Antiochus",
+    "short": "Antiochus",
+    "given": "Antiochus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/24/148981-saint-antiochus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

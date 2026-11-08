@@ -1,0 +1,29 @@
+{
+  "id": "priestmartyr-john-kochurov--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:priestmartyr-john-kochurov"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 31
+  },
+  "external_ids": {
+    "oca": "103122"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/31/103122-priestmartyr-john-kochurov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

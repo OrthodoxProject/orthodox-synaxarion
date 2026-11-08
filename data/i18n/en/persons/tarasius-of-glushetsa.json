@@ -1,0 +1,20 @@
+{
+  "id": "tarasius-of-glushetsa",
+  "locale": "en",
+  "names": {
+    "display": "Saint Tarasius of Glushetsa",
+    "short": "Tarasius of Glushetsa",
+    "given": "Tarasius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/12/108929-saint-tarasius-of-glushetsa",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

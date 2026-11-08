@@ -1,0 +1,21 @@
+{
+  "id": "lavrentie-of-cernigov",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Lavrentie de Cernigov",
+    "full": "Sfântul Lavrentie de Cernigov",
+    "short": "Lavrentie de Cernigov",
+    "given": "Lavrentie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-lavrentie-de-cernigov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "cosmas-the-hymnographer-of-maiuma",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Cosma, Episcopul Maiumei",
+    "full": "Sfântul Ierarh Cosma, Episcopul Maiumei",
+    "short": "Cosma, Episcopul Maiumei",
+    "given": "Cosma",
+    "variants": [
+      "Sf. Ier. Cosma, episcopul Maiumei"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-cosma-episcopul-maiumei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-prov-tarah-si-andronic-sf-ier-cosma-episcopul-maiumei/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "antonie-the-new-of-veria--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:antonie-the-new-of-veria"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 17
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-antonie-cel-nou-de-la-veria",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-antonie-cel-mare-sf-cuv-antonie-cel-nou-din-veria/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro; de verificat."
+    ]
+  }
+}

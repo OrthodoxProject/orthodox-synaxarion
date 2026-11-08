@@ -1,0 +1,20 @@
+{
+  "id": "youannis-the-second",
+  "locale": "en",
+  "names": {
+    "display": "Pope Youannis the Second, the 30th. Patriarch of the See of St. Mark",
+    "short": "Youannis the Second, the 30th. Patriarch of the See of St. Mark",
+    "given": "Youannis"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/9_27.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

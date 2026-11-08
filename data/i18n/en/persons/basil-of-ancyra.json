@@ -1,0 +1,20 @@
+{
+  "id": "basil-of-ancyra",
+  "locale": "en",
+  "names": {
+    "display": "Hieromartyr Basil of Ancyra",
+    "short": "Basil of Ancyra",
+    "given": "Basil"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/22/100861-hieromartyr-basil-of-ancyra",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

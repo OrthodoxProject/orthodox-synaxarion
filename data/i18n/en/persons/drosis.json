@@ -1,0 +1,20 @@
+{
+  "id": "drosis",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Drosίs, daughter of Emperor Trajan",
+    "short": "Drosίs, daughter of Emperor Trajan",
+    "given": "Drosίs"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/22/100862-martyr-dross-daughter-of-emperor-trajan",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

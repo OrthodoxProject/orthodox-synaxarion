@@ -1,0 +1,18 @@
+{
+  "id": "alexander-nevsky--translation-of-relics",
+  "locale": "en",
+  "names": {
+    "display": "Translation of the relics of Saint Alexander Nevsky"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/30/102424-translation-of-the-relics-of-saint-alexander-nevsky",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

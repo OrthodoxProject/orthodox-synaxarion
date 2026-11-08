@@ -1,0 +1,20 @@
+{
+  "id": "daniel-of-shuzhgorsk",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Daniel, Abbot of Shuzhgorsk, Novgorod",
+    "short": "Daniel, Abbot of Shuzhgorsk, Novgorod",
+    "given": "Daniel"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/21/102685-venerable-daniel-abbot-of-shuzhgorsk-novgorod",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

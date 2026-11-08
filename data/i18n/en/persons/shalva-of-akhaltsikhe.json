@@ -1,0 +1,20 @@
+{
+  "id": "shalva-of-akhaltsikhe",
+  "locale": "en",
+  "names": {
+    "display": "Saint Shalva of Akhaltsikhe",
+    "short": "Shalva of Akhaltsikhe",
+    "given": "Shalva"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/17/103860-saint-shalva-of-akhaltsikhe",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

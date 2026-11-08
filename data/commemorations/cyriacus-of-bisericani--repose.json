@@ -1,0 +1,34 @@
+{
+  "id": "cyriacus-of-bisericani--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:cyriacus-of-bisericani"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 31
+  },
+  "external_ids": {
+    "oca": "103702"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/31/103702-venerable-cyriacus-of-bisericani-romania",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/31/103703-venerable-cyriacus-of-tazlau-romania",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

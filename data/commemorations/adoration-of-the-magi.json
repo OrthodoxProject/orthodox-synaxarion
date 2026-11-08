@@ -1,0 +1,29 @@
+{
+  "id": "adoration-of-the-magi",
+  "kind": "repose",
+  "subjects": [
+    "group:adoration-of-the-magi"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 25
+  },
+  "external_ids": {
+    "oca": "103639"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/25/103639-the-adoration-of-the-magi-melchior-caspar-and-balthasar",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

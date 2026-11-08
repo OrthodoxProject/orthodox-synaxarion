@@ -1,0 +1,21 @@
+{
+  "id": "gaian",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Gaian",
+    "full": "Sfântul Mucenic Gaian",
+    "short": "Gaian",
+    "given": "Gaian"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-gaian",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

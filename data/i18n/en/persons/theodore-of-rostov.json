@@ -1,0 +1,20 @@
+{
+  "id": "theodore-of-rostov",
+  "locale": "en",
+  "names": {
+    "display": "Saint Theodore, Archbishop of Rostov",
+    "short": "Theodore, Archbishop of Rostov",
+    "given": "Theodore"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/28/103424-saint-theodore-archbishop-of-rostov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

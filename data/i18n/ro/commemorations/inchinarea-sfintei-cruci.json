@@ -1,0 +1,18 @@
+{
+  "id": "inchinarea-sfintei-cruci",
+  "locale": "ro",
+  "names": {
+    "display": "Închinarea Sfintei Cruci"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/inchinarea-sfintei-cruci",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

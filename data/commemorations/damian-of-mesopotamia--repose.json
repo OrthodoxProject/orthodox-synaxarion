@@ -1,0 +1,29 @@
+{
+  "id": "damian-of-mesopotamia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:damian-of-mesopotamia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 1
+  },
+  "external_ids": {
+    "oca": "103133"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/01/103133-holy-wonderworkers-and-unmercenaries-cosmas-and-damian-of-mesopo",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

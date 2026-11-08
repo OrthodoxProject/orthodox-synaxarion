@@ -1,0 +1,39 @@
+{
+  "id": "florus--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:florus"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 18
+  },
+  "external_ids": {
+    "oca": "102324"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-flor",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-flor-si-lavru/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/18/102324-martyrs-florus-and-laurus-of-illyria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

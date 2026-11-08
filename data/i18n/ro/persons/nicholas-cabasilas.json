@@ -1,0 +1,26 @@
+{
+  "id": "nicholas-cabasilas",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Nicolae Cabasila",
+    "full": "Sfântul Nicolae Cabasila",
+    "short": "Nicolae Cabasila",
+    "given": "Nicolae"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-nicolae-cabasila",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-sfintit-mc-metodie-episcopul-patarelor-sf-ier-calist-patriarhul-constantinopolului-sf-nicolae-cabasila-dezlegare-la-peste/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

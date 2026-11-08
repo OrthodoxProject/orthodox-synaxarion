@@ -1,0 +1,20 @@
+{
+  "id": "laurus-of-illyria",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Laurus of Illyria",
+    "short": "Laurus of Illyria",
+    "given": "Laurus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/18/102324-martyrs-florus-and-laurus-of-illyria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

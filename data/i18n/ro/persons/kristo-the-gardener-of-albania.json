@@ -1,0 +1,26 @@
+{
+  "id": "kristo-the-gardener-of-albania",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Hristea",
+    "full": "Sfântul Mucenic Hristea",
+    "short": "Hristea",
+    "given": "Hristea"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-hristea",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ier-meletie-arhiepiscopul-antiohiei-sf-mc-hristea/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

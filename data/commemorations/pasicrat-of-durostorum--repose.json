@@ -1,0 +1,31 @@
+{
+  "id": "pasicrat-of-durostorum--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:pasicrat-of-durostorum"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 24
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-pasicrat-din-durostorum",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ierarhi-ilie-iorest-simion-stefan-si-sava-brancovici-mitropolitii-transilvaniei-sf-ier-iosif-marturisitorul-din-maramures-sf-mc-pasicrat-si-valentin-sf-cuv-elisabeta-dezlega/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro; de verificat."
+    ]
+  }
+}

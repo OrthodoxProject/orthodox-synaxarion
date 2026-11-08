@@ -1,0 +1,20 @@
+{
+  "id": "xenophon-of-robeika-2",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Xenophon, Abbot of Robeika, Novgorod",
+    "short": "Xenophon, Abbot of Robeika, Novgorod",
+    "given": "Xenophon"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/28/107807-venerable-xenophon-abbot-of-robeika-novgorod",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

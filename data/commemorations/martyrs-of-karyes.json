@@ -1,0 +1,29 @@
+{
+  "id": "martyrs-of-karyes",
+  "kind": "repose",
+  "subjects": [
+    "group:martyrs-of-karyes"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 5
+  },
+  "external_ids": {
+    "oca": "108908"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/05/108908-monastic-martyrs-of-karyes",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

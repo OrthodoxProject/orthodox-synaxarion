@@ -1,0 +1,48 @@
+{
+  "tradition": "serbian",
+  "date": "11-11",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:menas-of-egypt--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:victor-at-damascus--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:vincent-of-spain--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:stephanida-of-damascus--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:theodore-the-confessor-of-studion--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:martyrius-of-zelenets--11-11"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:stephen-of-decani--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

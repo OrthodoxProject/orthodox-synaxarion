@@ -1,0 +1,26 @@
+{
+  "id": "marcu-pustnicul--05-20",
+  "kind": "repose",
+  "subjects": [
+    "person:marcu-pustnicul"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 20
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-marcu-pustnicul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

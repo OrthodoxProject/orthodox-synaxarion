@@ -1,0 +1,20 @@
+{
+  "id": "alexei-of-moscow",
+  "locale": "en",
+  "names": {
+    "display": "Saint Alexei, Metropolitan of Moscow, Wonderworker of All Russia",
+    "short": "Alexei, Metropolitan of Moscow, Wonderworker of All Russia",
+    "given": "Alexei"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/12/100506-saint-alexei-metropolitan-of-moscow-wonderworker-of-all-russia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

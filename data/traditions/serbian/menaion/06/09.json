@@ -1,0 +1,28 @@
+{
+  "tradition": "serbian",
+  "date": "06-09",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:cyril-of-alexandria--06-09"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:thecla--repose",
+        "comm:mariamne--repose",
+        "comm:martha-2--repose",
+        "comm:mary-3--repose",
+        "comm:ennatha-2--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:david-gareji--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

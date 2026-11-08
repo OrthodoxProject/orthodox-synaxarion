@@ -1,0 +1,34 @@
+{
+  "id": "theodulus-the-reader-at-thessalonica--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:theodulus-the-reader-at-thessalonica"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 5
+  },
+  "external_ids": {
+    "oca": "100997"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-teodul-1",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/05/100997-martyrs-agathopodes-the-deacon-and-theodulus-the-reader-at-thess",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, oca.org; de verificat."
+    ]
+  }
+}

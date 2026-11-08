@@ -1,0 +1,20 @@
+{
+  "id": "john-the-baptist",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "prophet"
+  ],
+  "sources": [
+    {
+      "source": "src:doxologia"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

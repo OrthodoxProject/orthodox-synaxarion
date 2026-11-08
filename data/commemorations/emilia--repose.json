@@ -1,0 +1,39 @@
+{
+  "id": "emilia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:emilia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 1
+  },
+  "external_ids": {
+    "oca": "100005"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-emilia-mama-sfantului-ierarh-vasile-cel-mare",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-taierea-imprejur-cea-dupa-trup-a-domnului-%e2%80%a0-sf-ier-vasile-cel-mare-arhiepiscopul-cezareei-capadociei-si-mama-sa-sf-emilia-anul-nou-tedeum-harti/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/01/100005-saint-emilia-mother-of-saint-basil-the-great",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

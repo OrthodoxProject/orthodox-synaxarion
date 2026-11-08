@@ -1,0 +1,29 @@
+{
+  "id": "james-the-solitary-of-syria--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:james-the-solitary-of-syria"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 26
+  },
+  "external_ids": {
+    "oca": "103400"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/26/103400-venerable-james-the-solitary-of-syria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

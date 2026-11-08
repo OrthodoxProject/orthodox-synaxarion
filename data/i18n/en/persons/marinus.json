@@ -1,0 +1,20 @@
+{
+  "id": "marinus",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Marinus",
+    "short": "Marinus",
+    "given": "Marinus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/17/100823-martyr-marinus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

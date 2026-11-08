@@ -1,0 +1,26 @@
+{
+  "id": "stephen-the-new",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Ștefan cel Nou",
+    "full": "Sfântul Cuvios Mucenic Ștefan cel Nou",
+    "short": "Ștefan cel Nou",
+    "given": "Ștefan"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-mucenic-stefan-cel-nou",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-marturisitor-arsenie-de-la-prislop-sf-cuv-mc-stefan-cel-nou-sf-mc-irinarh-dezlegare-la-peste/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "simon-of-yurievets--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:simon-of-yurievets"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 4
+  },
+  "external_ids": {
+    "oca": "108918"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/04/108918-blessed-simon-of-yurievets",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

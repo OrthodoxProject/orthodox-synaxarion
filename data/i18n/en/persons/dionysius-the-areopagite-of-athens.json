@@ -1,0 +1,20 @@
+{
+  "id": "dionysius-the-areopagite-of-athens",
+  "locale": "en",
+  "names": {
+    "display": "Hieromartyr Dionysius the Areopagite, Bishop of Athens",
+    "short": "Dionysius the Areopagite, Bishop of Athens",
+    "given": "Dionysius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/03/102843-hieromartyr-dionysius-the-areopagite-bishop-of-athens",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "seven-lakes-icon-of-theotokos",
+  "subject": "theotokos",
+  "depicts": [
+    "person:theotokos"
+  ],
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/26/101824-seven-lakes-icon-of-the-mother-of-god",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/28/109022-seven-lakes-icon-of-the-mother-of-god",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/13/102963-seven-lakes-icon-of-the-mother-of-god",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

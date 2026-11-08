@@ -1,0 +1,30 @@
+{
+  "id": "vukasin-of-klepci-2--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:vukasin-of-klepci-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 29
+  },
+  "sources": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vuka%C5%A1in_of_Klepci"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din orthodox-calendar, Wikipedia; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "synaxis-of-john-the-baptist",
+  "kind": "synaxis",
+  "subjects": [
+    "person:john-the-baptist"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 7
+  },
+  "external_ids": {
+    "oca": "100109"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/soborul-sfantului-proroc-ioan-botezatorul-inaintemergatorul-domnului",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-soborul-sf-proroc-ioan-botezatorul/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/07/100109-synaxis-of-the-holy-glorious-prophet-forerunner-and-baptist-john",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

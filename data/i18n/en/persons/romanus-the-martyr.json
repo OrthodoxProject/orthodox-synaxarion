@@ -1,0 +1,20 @@
+{
+  "id": "romanus-the-martyr",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Romanus the Martyr",
+    "short": "Romanus the Martyr",
+    "given": "Romanus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/05/100105-venerable-romanus-the-martyr",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

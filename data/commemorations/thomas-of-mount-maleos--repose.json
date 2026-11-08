@@ -1,0 +1,29 @@
+{
+  "id": "thomas-of-mount-maleos--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:thomas-of-mount-maleos"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 7
+  },
+  "external_ids": {
+    "oca": "101843"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/07/101843-venerable-thomas-of-mount-maleos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "xenophon-of-robeika",
+  "locale": "en",
+  "names": {
+    "display": "Saint Xenophon of Robeika",
+    "short": "Xenophon of Robeika",
+    "given": "Xenophon"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/26/100319-saint-xenophon-of-robeika",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "theodora",
+  "locale": "en",
+  "names": {
+    "display": "Righteous Theodora, wife of Emperor Theophilus the Iconoclast",
+    "short": "Theodora, wife of Emperor Theophilus the Iconoclast",
+    "given": "Theodora"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/11/100504-righteous-theodora-wife-of-emperor-theophilus-the-iconoclast",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

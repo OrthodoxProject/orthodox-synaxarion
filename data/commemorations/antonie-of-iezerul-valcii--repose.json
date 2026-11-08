@@ -1,0 +1,31 @@
+{
+  "id": "antonie-of-iezerul-valcii--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:antonie-of-iezerul-valcii"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 23
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-antonie-de-la-iezerul-valcii",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-antonie-de-la-iezerul-valcii-sf-ier-amfilohie-episcopul-iconiei-si-grigorie-episcopul-acragandelor-dezlegare-la-peste/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro; de verificat."
+    ]
+  }
+}

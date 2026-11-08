@@ -1,0 +1,26 @@
+{
+  "id": "theodore-stratelates-the-general",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mare Mc. Teodor Stratilat",
+    "full": "Sfântul Mare Mucenic Teodor Stratilat",
+    "short": "Teodor Stratilat",
+    "given": "Teodor"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mare-mucenic-teodor-stratilat",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mare-mc-teodor-stratilat-sf-proroc-zaharia-duminica-a-34-a-dupa-rusalii-a-intoarcerii-fiului-risipitor-ap-1-corinteni-6-12-20-ev-luca-15-11-32-glas-2-voscr-2/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

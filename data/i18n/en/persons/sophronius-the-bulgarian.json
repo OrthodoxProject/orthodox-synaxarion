@@ -1,0 +1,20 @@
+{
+  "id": "sophronius-the-bulgarian",
+  "locale": "en",
+  "names": {
+    "display": "Saint Sophronius the Bulgarian",
+    "short": "Sophronius the Bulgarian",
+    "given": "Sophronius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/28/108012-saint-sophronius-the-bulgarian",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

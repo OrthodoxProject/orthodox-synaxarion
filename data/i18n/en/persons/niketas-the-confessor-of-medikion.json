@@ -1,0 +1,20 @@
+{
+  "id": "niketas-the-confessor-of-medikion",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Niketas the Confessor, Abbot of Medikion",
+    "short": "Niketas the Confessor, Abbot of Medikion",
+    "given": "Niketas"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/03/100975-venerable-niketas-the-confessor-abbot-of-medikion",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "thalassius",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Thalassius, Hermit of Syria",
+    "short": "Thalassius, Hermit of Syria",
+    "given": "Thalassius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/22/100585-venerable-thalassius-hermit-of-syria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

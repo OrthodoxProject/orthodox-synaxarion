@@ -1,0 +1,20 @@
+{
+  "tradition": "ecumenical",
+  "date": "08-12",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:anicetus--repose",
+        "comm:photius-of-nicomedia--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:pamphilus--repose",
+        "comm:capiton--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

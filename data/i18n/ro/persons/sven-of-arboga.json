@@ -1,0 +1,21 @@
+{
+  "id": "sven-of-arboga",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Sven de la Arboga",
+    "full": "Sfântul Cuvios Mucenic Sven de la Arboga",
+    "short": "Sven de la Arboga",
+    "given": "Sven"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-mucenic-sven-de-la-arboga",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

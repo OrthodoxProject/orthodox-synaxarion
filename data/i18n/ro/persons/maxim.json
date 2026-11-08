@@ -1,0 +1,21 @@
+{
+  "id": "maxim",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Maxim",
+    "full": "Sfântul Mucenic Maxim",
+    "short": "Maxim",
+    "given": "Maxim"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-maxim",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

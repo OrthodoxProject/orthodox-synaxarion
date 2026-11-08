@@ -1,0 +1,38 @@
+{
+  "id": "nativity-of-the-theotokos--afterfeast",
+  "kind": "afterfeast",
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 9
+  },
+  "duration_days": 3,
+  "parent_feast": "comm:nativity-of-the-theotokos",
+  "external_ids": {
+    "oca": "102545"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/09/102545-afterfeast-of-the-nativity-of-the-mother-of-god",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/10/102556-afterfeast-of-the-nativity-of-the-mother-of-god",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/11/102569-afterfeast-of-the-nativity-of-the-mother-of-god",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

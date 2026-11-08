@@ -1,0 +1,20 @@
+{
+  "id": "evagrisi",
+  "locale": "en",
+  "names": {
+    "display": "Saint Evagrisi, disciple of Saint Shio",
+    "short": "Evagrisi, disciple of Saint Shio",
+    "given": "Evagrisi"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/04/103812-saint-evagrisi-disciple-of-saint-shio",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

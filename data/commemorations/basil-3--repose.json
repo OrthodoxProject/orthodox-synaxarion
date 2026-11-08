@@ -1,0 +1,29 @@
+{
+  "id": "basil-3--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:basil-3"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 28
+  },
+  "external_ids": {
+    "oca": "100237"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/28/100237-hieromartyr-basil",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

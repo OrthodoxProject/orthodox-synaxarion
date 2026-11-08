@@ -1,0 +1,36 @@
+{
+  "id": "domnina-the-younger-of-syria",
+  "kind": "saint",
+  "gender": "female",
+  "holiness_types": [
+    "venerable"
+  ],
+  "external_ids": {
+    "doxologia": "sfanta-cuvioasa-domnina",
+    "oca": "100632"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-domnina",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-mc-evdochia-sf-cuv-domnina-duminica-intai-din-post-a-ortodoxiei-ap-evrei-11-24-26-32-40-ev-ioan-1-43-51-chemarea-lui-filip-si-a-lui-natanael-glas-5-voscr-5/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/01/100632-saint-domnina-the-younger-of-syria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

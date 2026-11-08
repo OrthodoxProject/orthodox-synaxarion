@@ -1,0 +1,18 @@
+{
+  "id": "macarius-coptic-5--translation-of-relics",
+  "locale": "en",
+  "names": {
+    "display": "The Translocation of the Body of St. Macarius to His Monastery in Scetis"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/12_19.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

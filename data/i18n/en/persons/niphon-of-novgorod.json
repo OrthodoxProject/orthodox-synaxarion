@@ -1,0 +1,20 @@
+{
+  "id": "niphon-of-novgorod",
+  "locale": "en",
+  "names": {
+    "display": "Saint Niphon, Bishop of Novgorod",
+    "short": "Niphon, Bishop of Novgorod",
+    "given": "Niphon"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/08/101030-saint-niphon-bishop-of-novgorod",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

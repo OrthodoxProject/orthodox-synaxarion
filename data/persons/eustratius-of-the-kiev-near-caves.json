@@ -1,0 +1,26 @@
+{
+  "id": "eustratius-of-the-kiev-near-caves",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "venerable_martyr"
+  ],
+  "external_ids": {
+    "oca": "100921"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/28/100921-monastic-martyr-eustratius-of-the-kiev-near-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat.",
+      "Genul nu reiese din sursă; e de verificat."
+    ]
+  }
+}

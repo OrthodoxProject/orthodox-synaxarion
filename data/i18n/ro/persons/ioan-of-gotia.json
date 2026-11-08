@@ -1,0 +1,29 @@
+{
+  "id": "ioan-of-gotia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ioan, Episcopul Goției",
+    "full": "Sfântul Ierarh Ioan, Episcopul Goției",
+    "short": "Ioan, Episcopul Goției",
+    "given": "Ioan",
+    "variants": [
+      "Sf. Ier. Ioan, episcopul Goției"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-ioan-episcopul-gotiei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-david-din-tesalonic-sf-ier-ioan-episcopul-gotiei/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

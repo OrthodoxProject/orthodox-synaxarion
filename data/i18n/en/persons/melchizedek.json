@@ -1,0 +1,20 @@
+{
+  "id": "melchizedek",
+  "locale": "en",
+  "names": {
+    "display": "Righteous Melchizedek, King of Salem",
+    "short": "Melchizedek, King of Salem",
+    "given": "Melchizedek"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/22/205365-righteous-melchizedek-king-of-salem",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

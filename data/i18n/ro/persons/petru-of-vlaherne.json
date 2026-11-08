@@ -1,0 +1,21 @@
+{
+  "id": "petru-of-vlaherne",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Petru din Vlaherne",
+    "full": "Sfântul Mucenic Petru din Vlaherne",
+    "short": "Petru din Vlaherne",
+    "given": "Petru"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-petru-din-vlaherne",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

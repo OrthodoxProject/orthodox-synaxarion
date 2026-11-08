@@ -1,0 +1,29 @@
+{
+  "id": "kazan-kaplunovka-icon-of-theotokos",
+  "kind": "icon",
+  "subjects": [
+    "icon:kazan-kaplunovka-icon-of-theotokos"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 11
+  },
+  "external_ids": {
+    "oca": "102582"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/11/102582-kazan-kaplunovka-icon-of-the-mother-of-god-1689",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

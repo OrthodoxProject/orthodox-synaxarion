@@ -1,0 +1,26 @@
+{
+  "id": "mary",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mironosiță Maria lui Cleopa",
+    "full": "Sfânta Mironosiță Maria lui Cleopa",
+    "short": "Maria lui Cleopa",
+    "given": "Maria"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mironosita-maria-lui-cleopa",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ier-mihail-marturisitorul-episcopul-sinadei-sf-mironosita-maria-lui-cleopa/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

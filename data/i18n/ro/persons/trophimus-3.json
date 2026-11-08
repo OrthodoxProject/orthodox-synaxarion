@@ -1,0 +1,26 @@
+{
+  "id": "trophimus-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Trofim",
+    "full": "Sfântul Mucenic Trofim",
+    "short": "Trofim",
+    "given": "Trofim"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-trofim",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-trofim-savatie-si-dorimedont/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

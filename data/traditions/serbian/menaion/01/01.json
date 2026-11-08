@@ -1,0 +1,24 @@
+{
+  "tradition": "serbian",
+  "date": "01-01",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:circumcision-of-the-lord"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:basil-the-great-of-caesarea--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:emilia--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

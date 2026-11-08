@@ -1,0 +1,26 @@
+{
+  "id": "james-the-persian",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mare Mc. Iacob Persul",
+    "full": "Sfântul Mare Mucenic Iacob Persul",
+    "short": "Iacob Persul",
+    "given": "Iacob"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mare-mucenic-iacob-persul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mare-mc-iacob-persul-sf-cuv-natanael-si-pinufrie/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

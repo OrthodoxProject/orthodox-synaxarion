@@ -1,0 +1,19 @@
+{
+  "id": "child-schemamonk-bogolep",
+  "locale": "en",
+  "names": {
+    "display": "Child Schemamonk Bogolep",
+    "given": "Child"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/29/109011-child-schemamonk-bogolep",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

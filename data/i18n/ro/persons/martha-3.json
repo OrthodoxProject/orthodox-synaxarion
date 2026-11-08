@@ -1,0 +1,26 @@
+{
+  "id": "martha-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Marta",
+    "full": "Sfânta Cuvioasă Marta",
+    "short": "Marta",
+    "given": "Marta"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-marta",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-olimpia-de-la-farcasa-sf-ier-andrei-arhiepiscopul-cretei-sf-cuv-marta/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

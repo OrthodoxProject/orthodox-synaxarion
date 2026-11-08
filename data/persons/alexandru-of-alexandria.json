@@ -1,0 +1,25 @@
+{
+  "id": "alexandru-of-alexandria",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "hierarch"
+  ],
+  "external_ids": {
+    "doxologia": "sfantul-ierarh-alexandru-arhiepiscopul-alexandriei"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-alexandru-arhiepiscopul-alexandriei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

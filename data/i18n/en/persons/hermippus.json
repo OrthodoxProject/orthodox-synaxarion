@@ -1,0 +1,20 @@
+{
+  "id": "hermippus",
+  "locale": "en",
+  "names": {
+    "display": "Hieromartyr Hermippus",
+    "short": "Hermippus",
+    "given": "Hermippus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/26/102092-hieromartyr-hermolaus-and-martyrs-hermippus-and-hermocrates-at-n",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

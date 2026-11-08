@@ -1,0 +1,30 @@
+{
+  "id": "joshua-son-of-nun",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "prophet"
+  ],
+  "external_ids": {
+    "copticchurch": "10_26#1"
+  },
+  "sources": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/10_26.html?lang=en#1",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:st-takla-synaxarium",
+      "url": "https://st-takla.org/books/en/church/synaxarium/10-bawoonah/26-paona-joshua.html",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din copticchurch.net, st-takla.org; de verificat."
+    ]
+  }
+}

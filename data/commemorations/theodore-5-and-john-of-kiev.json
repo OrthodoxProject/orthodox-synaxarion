@@ -1,0 +1,30 @@
+{
+  "id": "theodore-5-and-john-of-kiev",
+  "kind": "repose",
+  "subjects": [
+    "person:theodore-5",
+    "person:john-of-kiev"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 12
+  },
+  "external_ids": {
+    "oca": "102009"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/12/102009-martyrs-theodore-and-his-son-john-of-kiev",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

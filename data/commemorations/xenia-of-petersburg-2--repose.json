@@ -1,0 +1,26 @@
+{
+  "id": "xenia-of-petersburg-2--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:xenia-of-petersburg-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 6
+  },
+  "sources": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/russian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din orthodox-calendar; de verificat."
+    ]
+  }
+}

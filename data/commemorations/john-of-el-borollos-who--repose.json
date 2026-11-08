@@ -1,0 +1,30 @@
+{
+  "id": "john-of-el-borollos-who--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:john-of-el-borollos-who"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 19,
+    "calendar": "coptic"
+  },
+  "external_ids": {
+    "copticchurch": "4_19#1"
+  },
+  "sources": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/4_19.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din copticchurch.net; de verificat."
+    ]
+  }
+}

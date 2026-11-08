@@ -1,0 +1,20 @@
+{
+  "id": "nicanor-the-apostle",
+  "locale": "en",
+  "names": {
+    "display": "Holy Apostle Nicanor",
+    "short": "Nicanor",
+    "given": "Nicanor"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/28/102109-holy-apostles-of-the-seventy-and-deacons-prochorus-nicanor-timon",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

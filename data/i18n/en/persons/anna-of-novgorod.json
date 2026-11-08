@@ -1,0 +1,20 @@
+{
+  "id": "anna-of-novgorod",
+  "locale": "en",
+  "names": {
+    "display": "Princess Anna of Novgorod",
+    "short": "Anna of Novgorod",
+    "given": "Anna"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/10/100494-princess-anna-of-novgorod",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

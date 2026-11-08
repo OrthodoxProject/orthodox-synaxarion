@@ -1,0 +1,20 @@
+{
+  "id": "philaret-of-moscow",
+  "locale": "en",
+  "names": {
+    "display": "Repose of Saint Philaret (Drozdov), Metropolitan of Moscow",
+    "short": "Philaret, Metropolitan of Moscow",
+    "given": "Philaret"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/19/103337-repose-of-saint-philaret-drozdov-metropolitan-of-moscow",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

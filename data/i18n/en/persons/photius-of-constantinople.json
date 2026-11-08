@@ -1,0 +1,20 @@
+{
+  "id": "photius-of-constantinople",
+  "locale": "en",
+  "names": {
+    "display": "Saint Photius, Patriarch of Constantinople",
+    "short": "Photius, Patriarch of Constantinople",
+    "given": "Photius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/06/100442-saint-photius-patriarch-of-constantinople",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

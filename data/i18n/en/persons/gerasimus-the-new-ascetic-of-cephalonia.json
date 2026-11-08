@@ -1,0 +1,25 @@
+{
+  "id": "gerasimus-the-new-ascetic-of-cephalonia",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Gerasimus the New Ascetic of Cephalonia",
+    "short": "Gerasimus the New Ascetic of Cephalonia",
+    "given": "Gerasimus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/16/108993-venerable-gerasimus-the-new-ascetic-of-cephalonia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/20/103007-venerable-gerasimus-the-new-ascetic-of-cephalonia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

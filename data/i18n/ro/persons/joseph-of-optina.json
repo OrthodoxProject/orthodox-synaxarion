@@ -1,0 +1,21 @@
+{
+  "id": "joseph-of-optina",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Iosif de la Optina",
+    "full": "Sfântul Iosif de la Optina",
+    "short": "Iosif de la Optina",
+    "given": "Iosif"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-iosif-de-la-optina",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

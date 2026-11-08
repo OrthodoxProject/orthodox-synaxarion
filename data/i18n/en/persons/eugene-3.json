@@ -1,0 +1,20 @@
+{
+  "id": "eugene-3",
+  "locale": "en",
+  "names": {
+    "display": "The Holy Hieromartyr Eugene",
+    "short": "Eugene",
+    "given": "Eugene"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/07/100685-the-holy-hieromartyrs-of-cherson-basil-ephraim-capito-eugene-aet",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

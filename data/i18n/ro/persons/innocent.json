@@ -1,0 +1,26 @@
+{
+  "id": "innocent",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Nicon",
+    "full": "Sfântul Cuvios Nicon",
+    "short": "Nicon",
+    "given": "Nicon"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-nicon",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-alipie-stalpnicul-nicon-si-stelian-paflagonul/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

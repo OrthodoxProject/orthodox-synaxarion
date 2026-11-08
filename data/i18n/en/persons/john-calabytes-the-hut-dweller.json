@@ -1,0 +1,20 @@
+{
+  "id": "john-calabytes-the-hut-dweller",
+  "locale": "en",
+  "names": {
+    "display": "Venerable John Calabytes “the Hut-Dweller”",
+    "short": "John Calabytes \"the Hut-Dweller\"",
+    "given": "John"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/15/100197-venerable-john-calabytes-the-hut-dweller",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

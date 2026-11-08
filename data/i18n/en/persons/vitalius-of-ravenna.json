@@ -1,0 +1,20 @@
+{
+  "id": "vitalius-of-ravenna",
+  "locale": "en",
+  "names": {
+    "display": "Hieromartyr Vitalius, Bishop of Ravenna",
+    "short": "Vitalius, Bishop of Ravenna",
+    "given": "Vitalius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/23/205390-hieromartyr-vitalius-bishop-of-ravenna",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

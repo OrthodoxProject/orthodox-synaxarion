@@ -1,0 +1,20 @@
+{
+  "id": "procopius-of-varna",
+  "locale": "en",
+  "names": {
+    "display": "New Martyr Procopius of Varna",
+    "short": "Procopius of Varna",
+    "given": "Procopius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/25/108014-new-martyr-procopius-of-varna",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

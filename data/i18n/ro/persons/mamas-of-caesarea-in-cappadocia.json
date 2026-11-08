@@ -1,0 +1,26 @@
+{
+  "id": "mamas-of-caesarea-in-cappadocia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Mamant",
+    "full": "Sfântul Mucenic Mamant",
+    "short": "Mamant",
+    "given": "Mamant"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-mamant",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-mamant-sf-ier-ioan-postitorul-patriarhul-constantinopolului/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "natalie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Natalie",
+    "full": "Sfântul Mucenic Natalie",
+    "short": "Natalie",
+    "given": "Natalie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-natalie",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

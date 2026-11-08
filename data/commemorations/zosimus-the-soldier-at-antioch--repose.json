@@ -1,0 +1,29 @@
+{
+  "id": "zosimus-the-soldier-at-antioch--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:zosimus-the-soldier-at-antioch"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 19
+  },
+  "external_ids": {
+    "oca": "101754"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/19/101754-martyr-zosimus-the-soldier-at-antioch-in-pisidia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

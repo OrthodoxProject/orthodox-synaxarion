@@ -1,0 +1,20 @@
+{
+  "id": "donatus-of-euroea",
+  "locale": "en",
+  "names": {
+    "display": "Saint Donatus, Bishop of Euroea in Epirus",
+    "short": "Donatus, Bishop of Euroea in Epirus",
+    "given": "Donatus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/30/107780-saint-donatus-bishop-of-euroea-in-epirus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

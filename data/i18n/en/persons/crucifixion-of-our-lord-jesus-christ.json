@@ -1,0 +1,19 @@
+{
+  "id": "crucifixion-of-our-lord-jesus-christ",
+  "locale": "en",
+  "names": {
+    "display": "Crucifixion of Our Lord Jesus Christ",
+    "given": "Crucifixion"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/7_27.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

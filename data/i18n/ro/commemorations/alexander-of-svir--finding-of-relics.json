@@ -1,0 +1,18 @@
+{
+  "id": "alexander-of-svir--finding-of-relics",
+  "locale": "ro",
+  "names": {
+    "display": "Descoperirea moaștelor Sfântului Alexandru din Svir"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/descoperirea-moastelor-sfantului-alexandru-din-svir",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

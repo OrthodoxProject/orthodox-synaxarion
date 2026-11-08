@@ -1,0 +1,32 @@
+{
+  "id": "niketas-the-confessor-of-apollonias",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "hierarch",
+    "confessor"
+  ],
+  "external_ids": {
+    "doxologia": "sfantul-ierarh-nichita-marturisitorul-episcopul-apoloniadei",
+    "oca": "100856"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-nichita-marturisitorul-episcopul-apoloniadei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/20/100856-saint-niktas-the-confessor-archbishop-of-apollonias-in-bithynia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, oca.org; de verificat."
+    ]
+  }
+}

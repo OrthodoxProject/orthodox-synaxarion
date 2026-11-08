@@ -1,0 +1,25 @@
+{
+  "id": "pulcheria",
+  "kind": "saint",
+  "gender": "female",
+  "holiness_types": [
+    "right_believing"
+  ],
+  "external_ids": {
+    "oca": "102566"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/10/102566-right-believing-pulcheria-byzantine-empress",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

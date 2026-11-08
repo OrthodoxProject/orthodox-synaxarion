@@ -1,0 +1,36 @@
+{
+  "id": "anastasia-the-deliverer-from-poisons",
+  "kind": "saint",
+  "gender": "female",
+  "holiness_types": [
+    "great_martyr"
+  ],
+  "external_ids": {
+    "doxologia": "sfanta-mare-mucenita-anastasia",
+    "oca": "103609"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mare-mucenita-anastasia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ier-petru-movila-mitropolitul-kievului-sf-mare-mc-anastasia/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/22/103609-great-martyr-anastasia-the-deliverer-from-poisons-her-teacher-ma",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

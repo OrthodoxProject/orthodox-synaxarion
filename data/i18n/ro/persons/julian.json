@@ -1,0 +1,21 @@
+{
+  "id": "julian",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Iulian",
+    "full": "Sfântul Mucenic Iulian",
+    "short": "Iulian",
+    "given": "Iulian"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-iulian",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

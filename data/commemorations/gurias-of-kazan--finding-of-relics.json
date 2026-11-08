@@ -1,0 +1,29 @@
+{
+  "id": "gurias-of-kazan--finding-of-relics",
+  "kind": "relics_finding",
+  "subjects": [
+    "person:gurias-of-kazan"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 4
+  },
+  "external_ids": {
+    "oca": "102850"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/04/102850-uncovering-of-the-relics-of-saint-gurias-first-archbishop-of-kaz",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

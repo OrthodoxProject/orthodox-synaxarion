@@ -1,0 +1,20 @@
+{
+  "id": "sabinus-of-catania",
+  "locale": "en",
+  "names": {
+    "display": "Saint Sabinus, Bishop of Catania",
+    "short": "Sabinus, Bishop of Catania",
+    "given": "Sabinus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/15/102978-saint-sabinus-bishop-of-catania",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

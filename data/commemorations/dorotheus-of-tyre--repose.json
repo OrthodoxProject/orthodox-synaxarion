@@ -1,0 +1,29 @@
+{
+  "id": "dorotheus-of-tyre--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:dorotheus-of-tyre"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 5
+  },
+  "external_ids": {
+    "oca": "101610"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/05/101610-hieromartyr-dorotheus-bishop-of-tyre",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

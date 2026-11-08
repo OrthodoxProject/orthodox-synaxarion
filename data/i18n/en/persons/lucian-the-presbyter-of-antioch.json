@@ -1,0 +1,20 @@
+{
+  "id": "lucian-the-presbyter-of-antioch",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Lucian the Presbyter of Antioch",
+    "short": "Lucian the Presbyter of Antioch",
+    "given": "Lucian"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/15/102973-martyr-lucian-the-presbyter-of-antioch",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

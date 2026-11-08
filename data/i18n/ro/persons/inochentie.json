@@ -1,0 +1,26 @@
+{
+  "id": "inochentie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Inochentie",
+    "full": "Sfântul Mucenic Inochentie",
+    "short": "Inochentie",
+    "given": "Inochentie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-inochentie",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-manuil-savel-ismail-inochentie-si-felix/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

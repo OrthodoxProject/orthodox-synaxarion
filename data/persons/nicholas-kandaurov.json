@@ -1,0 +1,27 @@
+{
+  "id": "nicholas-kandaurov",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "righteous"
+  ],
+  "external_ids": {
+    "oca": "205326"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/17/205326-saint-nicholas-kandaurov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat.",
+      "Chipul sfințeniei nu reiese din titlu; „righteous” e provizoriu.",
+      "Genul nu reiese din sursă; e de verificat."
+    ]
+  }
+}

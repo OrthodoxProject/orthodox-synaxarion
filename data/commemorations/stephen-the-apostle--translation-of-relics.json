@@ -1,0 +1,39 @@
+{
+  "id": "stephen-the-apostle--translation-of-relics",
+  "kind": "relics_translation",
+  "subjects": [
+    "person:stephen-the-apostle"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 2
+  },
+  "external_ids": {
+    "oca": "102181"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/aducerea-moastelor-sfantului-intai-mucenic-arhidiacon-stefan",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/aducerea-moastelor-sf-intai-mc-si-arhidiacon-stefan-dreptul-gamaliel-binecredinciosul-imparat-iustinian-cel-mare-duminica-a-9-a-dupa-rusalii-ap-1-corinteni-3-9-17-ev-matei-14-22-34-potolir/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/02/102181-translation-of-the-relics-of-the-protomartyr-and-archdeacon-step",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

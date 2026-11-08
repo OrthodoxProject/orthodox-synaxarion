@@ -1,0 +1,30 @@
+{
+  "tradition": "ecumenical",
+  "date": "03-16",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:sabinus-of-egypt--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:papas-of-lyconia--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:christodoulos-of-patmos--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:demetrius-the-devoted--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

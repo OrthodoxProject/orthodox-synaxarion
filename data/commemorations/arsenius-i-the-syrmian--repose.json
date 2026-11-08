@@ -1,0 +1,30 @@
+{
+  "id": "arsenius-i-the-syrmian--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:arsenius-i-the-syrmian"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 10
+  },
+  "sources": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Arsenius_I_the_Syrmian"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din orthodox-calendar, Wikipedia; de verificat."
+    ]
+  }
+}

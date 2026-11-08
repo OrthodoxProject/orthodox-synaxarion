@@ -1,0 +1,29 @@
+{
+  "id": "ignatius-of-loma-and-yaroslav--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:ignatius-of-loma-and-yaroslav"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 28
+  },
+  "external_ids": {
+    "oca": "103678"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/28/103678-venerable-ignatius-of-loma-and-yaroslav",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

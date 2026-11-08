@@ -1,0 +1,20 @@
+{
+  "id": "maximus-of-ephesus",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Maximus of Ephesus",
+    "short": "Maximus of Ephesus",
+    "given": "Maximus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/30/101251-martyr-maximus-of-ephesus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

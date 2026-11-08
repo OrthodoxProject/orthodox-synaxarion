@@ -1,0 +1,29 @@
+{
+  "id": "herodion-of-iloezersk--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:herodion-of-iloezersk"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 28
+  },
+  "external_ids": {
+    "oca": "102744"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/28/102744-venerable-herodion-abbot-of-iloezersk",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

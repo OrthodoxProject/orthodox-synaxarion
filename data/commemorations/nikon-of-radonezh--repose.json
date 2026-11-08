@@ -1,0 +1,29 @@
+{
+  "id": "nikon-of-radonezh--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:nikon-of-radonezh"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 17
+  },
+  "external_ids": {
+    "oca": "103316"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/17/103316-venerable-nikon-abbot-of-radonezh-disciple-of-venerable-sergius",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

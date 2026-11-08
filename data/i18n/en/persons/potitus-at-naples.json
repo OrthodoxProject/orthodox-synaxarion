@@ -1,0 +1,20 @@
+{
+  "id": "potitus-at-naples",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Potitus at Naples",
+    "short": "Potitus at Naples",
+    "given": "Potitus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/01/101861-martyr-potitus-at-naples",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

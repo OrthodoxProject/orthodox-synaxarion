@@ -1,0 +1,29 @@
+{
+  "id": "anastasius-of-epirus--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:anastasius-of-epirus"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 18
+  },
+  "external_ids": {
+    "oca": "205396"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/18/205396-new-martyr-anastasius-of-epirus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "natalia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Natalia, soția Sfântului Mucenic Adrian",
+    "full": "Sfânta Muceniță Natalia, soția Sfântului Mucenic Adrian",
+    "short": "Natalia, soția Sfântului Mucenic Adrian",
+    "given": "Natalia"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-natalia-sotia-sfantului-mucenic-adrian",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-adrian-si-natalia-sotia-sa/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

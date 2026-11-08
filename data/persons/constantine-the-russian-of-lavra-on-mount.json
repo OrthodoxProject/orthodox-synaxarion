@@ -1,0 +1,25 @@
+{
+  "id": "constantine-the-russian-of-lavra-on-mount",
+  "kind": "saint",
+  "gender": "female",
+  "holiness_types": [
+    "hieromartyr"
+  ],
+  "external_ids": {
+    "oca": "103653"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/26/103653-hieromartyr-constantine-the-russian-of-lavra-on-mount-athos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

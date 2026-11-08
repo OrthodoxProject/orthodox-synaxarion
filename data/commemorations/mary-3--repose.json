@@ -1,0 +1,34 @@
+{
+  "id": "mary-3--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:mary-3"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 9
+  },
+  "external_ids": {
+    "oca": "101673"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-maria-0",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/09/101673-five-nuns-beheaded-in-persia-martyrs-thecla-mariamne-martha-mary",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, oca.org; de verificat."
+    ]
+  }
+}

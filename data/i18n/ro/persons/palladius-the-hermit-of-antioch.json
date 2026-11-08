@@ -1,0 +1,26 @@
+{
+  "id": "palladius-the-hermit-of-antioch",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Paladie",
+    "full": "Sfântul Cuvios Paladie",
+    "short": "Paladie",
+    "given": "Paladie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-paladie",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-efrem-sirul-isaac-sirul-paladie-si-iacob-sihastrul/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "seleuc",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Seleuc",
+    "full": "Sfântul Mucenic Seleuc",
+    "short": "Seleuc",
+    "given": "Seleuc"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-seleuc",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

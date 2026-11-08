@@ -1,0 +1,29 @@
+{
+  "id": "nicholas-sviatosha-prince-of-chernigov-and-wonderworker--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:nicholas-sviatosha-prince-of-chernigov-and-wonderworker"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 14
+  },
+  "external_ids": {
+    "oca": "102969"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/14/102969-venerable-nicholas-sviatosha-prince-of-chernigov-and-wonderworke",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

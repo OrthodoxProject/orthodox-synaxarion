@@ -1,0 +1,20 @@
+{
+  "id": "kyriakos-the-anchorite",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Kyriakos the Anchorite",
+    "short": "Kyriakos the Anchorite",
+    "given": "Kyriakos"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/29/102813-venerable-kyriakos-the-anchorite",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

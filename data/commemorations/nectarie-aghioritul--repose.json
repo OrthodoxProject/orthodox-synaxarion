@@ -1,0 +1,26 @@
+{
+  "id": "nectarie-aghioritul--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:nectarie-aghioritul"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 11
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-nectarie-aghioritul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

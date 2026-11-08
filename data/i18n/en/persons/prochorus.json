@@ -1,0 +1,20 @@
+{
+  "id": "prochorus",
+  "locale": "en",
+  "names": {
+    "display": "Saint Prochorus, Abbot in the Vranski Desert on the River Pshina in Bulgaria",
+    "short": "Prochorus, Abbot in the Vranski Desert on the River Pshina in Bulgaria",
+    "given": "Prochorus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/15/100199-saint-prochorus-abbot-in-the-vranski-desert-on-the-river-pshina",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

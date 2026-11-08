@@ -1,0 +1,29 @@
+{
+  "id": "cyril-of-jerusalem",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Chiril, Arhiepiscopul Ierusalimului",
+    "full": "Sfântul Ierarh Chiril, Arhiepiscopul Ierusalimului",
+    "short": "Chiril, Arhiepiscopul Ierusalimului",
+    "given": "Chiril",
+    "variants": [
+      "Sf. Ier. Chiril, arhiepiscopul Ierusalimului"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-chiril-arhiepiscopul-ierusalimului",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ier-chiril-arhiepiscopul-ierusalimului/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

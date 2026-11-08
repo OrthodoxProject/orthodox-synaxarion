@@ -6,6 +6,13 @@
       "commemorations": [
         "comm:gregory-the-illuminator--repose"
       ]
+    },
+    {
+      "commemorations": [
+        "comm:rhipsime--repose",
+        "comm:gaiane-of-armenia--repose"
+      ],
+      "confidence": "low"
     }
   ]
 }

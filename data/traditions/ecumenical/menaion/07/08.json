@@ -6,6 +6,36 @@
       "commemorations": [
         "comm:kazan-icon--appearance"
       ]
+    },
+    {
+      "commemorations": [
+        "comm:our-lady-of-sitka-icon-of-theotokos"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:procopius-of-caesarea--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:tenderness-icon-of-theotokos-in-novgorod"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:epictetus-and-astion"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:miracle-of-the-annunciation-icon-of-theotokos-at-ustiug"
+      ],
+      "confidence": "low"
     }
   ]
 }

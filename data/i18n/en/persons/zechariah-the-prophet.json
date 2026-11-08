@@ -1,0 +1,20 @@
+{
+  "id": "zechariah-the-prophet",
+  "locale": "en",
+  "names": {
+    "display": "Prophet Zechariah",
+    "short": "Zechariah",
+    "given": "Zechariah"
+  },
+  "references": [
+    {
+      "source": "src:armenianchurch-ge",
+      "url": "https://armenianchurch.ge/en/kalendar-prazdnikov/description-2/june/commemoration-of-the-prophet-zechariah",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

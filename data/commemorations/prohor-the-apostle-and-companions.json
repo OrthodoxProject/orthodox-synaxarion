@@ -1,0 +1,42 @@
+{
+  "id": "prohor-the-apostle-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:prohor-the-apostle",
+    "person:nicanor-the-apostle",
+    "person:timon-the-apostle",
+    "person:parmenas-the-apostle"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 28
+  },
+  "external_ids": {
+    "oca": "102109"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfintii-apostoli-diaconi-prohor-nicanor-timon-parmena-dintre-cei-70",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ap-si-diaconi-prohor-nicanor-timon-si-parmena-sf-cuv-pavel-de-la-xiropotamu/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/28/102109-holy-apostles-of-the-seventy-and-deacons-prochorus-nicanor-timon",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

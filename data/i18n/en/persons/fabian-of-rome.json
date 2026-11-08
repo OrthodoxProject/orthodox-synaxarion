@@ -1,0 +1,20 @@
+{
+  "id": "fabian-of-rome",
+  "locale": "en",
+  "names": {
+    "display": "Hieromartyr Fabian, Pope of Rome",
+    "short": "Fabian, Pope of Rome",
+    "given": "Fabian"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/05/102209-hieromartyr-fabian-pope-of-rome-and-martyr-pontious",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

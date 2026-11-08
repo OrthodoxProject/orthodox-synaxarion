@@ -1,0 +1,29 @@
+{
+  "id": "persian-martyrs-in-martyropolis-in-mesopotamia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:persian-martyrs-in-martyropolis-in-mesopotamia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 16
+  },
+  "external_ids": {
+    "oca": "100546"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/16/100546-persian-martyrs-in-martyropolis-in-mesopotamia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

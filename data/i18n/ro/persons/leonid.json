@@ -1,0 +1,21 @@
+{
+  "id": "leonid",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Leonid",
+    "full": "Sfântul Mucenic Leonid",
+    "short": "Leonid",
+    "given": "Leonid"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-leonid",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

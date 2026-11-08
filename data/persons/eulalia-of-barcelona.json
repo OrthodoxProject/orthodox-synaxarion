@@ -1,0 +1,23 @@
+{
+  "id": "eulalia-of-barcelona",
+  "kind": "saint",
+  "gender": "female",
+  "holiness_types": [
+    "virgin",
+    "martyr"
+  ],
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/22/102374-virgin-martyr-eulalia-of-barcelona-and-the-martyr-felix",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

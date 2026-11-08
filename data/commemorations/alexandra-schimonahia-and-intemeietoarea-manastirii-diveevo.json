@@ -1,0 +1,27 @@
+{
+  "id": "alexandra-schimonahia-and-intemeietoarea-manastirii-diveevo",
+  "kind": "repose",
+  "subjects": [
+    "person:alexandra-schimonahia",
+    "person:intemeietoarea-manastirii-diveevo"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 13
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-alexandra-schimonahia-stareta-intemeietoarea-manastirii-diveevo",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "theodora--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:theodora"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 11
+  },
+  "external_ids": {
+    "oca": "100504"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-teodora-imparateasa",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-sfintit-mc-vlasie-episcopul-sevastiei-sf-teodora-imparateasa/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/11/100504-righteous-theodora-wife-of-emperor-theophilus-the-iconoclast",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "abraham-2--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:abraham-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 9
+  },
+  "external_ids": {
+    "oca": "102909"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/09/102909-righteous-forefather-abraham",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

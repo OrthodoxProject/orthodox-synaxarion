@@ -1,0 +1,18 @@
+{
+  "id": "synaxis-of-archangel-suriel",
+  "locale": "en",
+  "names": {
+    "display": "The Commemoration of the Archangel Suriel"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/5_27.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

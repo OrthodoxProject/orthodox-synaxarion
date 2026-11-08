@@ -1,0 +1,27 @@
+{
+  "id": "commemoration-of-the-miracle-at-the-monastery-of",
+  "kind": "event",
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 6
+  },
+  "sources": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/russian_saints.json",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kuksha_of_the_Kiev_Caves"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din orthodox-calendar, Wikipedia; de verificat."
+    ]
+  }
+}

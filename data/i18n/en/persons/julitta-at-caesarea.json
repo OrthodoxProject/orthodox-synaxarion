@@ -1,0 +1,20 @@
+{
+  "id": "julitta-at-caesarea",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Julitta at Caesarea",
+    "short": "Julitta at Caesarea",
+    "given": "Julitta"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/31/102155-martyr-julitta-at-caesarea",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

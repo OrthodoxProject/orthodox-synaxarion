@@ -1,0 +1,26 @@
+{
+  "id": "dius-of-antioch",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Die",
+    "full": "Sfântul Cuvios Die",
+    "short": "Die",
+    "given": "Die"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-die",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-macrina-sora-sf-vasile-cel-mare-sfintii-din-familia-sf-vasile-cel-mare-sf-cuv-die-aflarea-moastelor-sf-cuv-serafim-de-sarov-duminica-a-7-a-dupa-rusalii-a-sf-parinti-de-la-sinodul/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

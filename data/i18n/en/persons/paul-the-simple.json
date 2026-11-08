@@ -1,0 +1,20 @@
+{
+  "id": "paul-the-simple",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Paul the Simple, disciple of Venerable Anthony the Great",
+    "short": "Paul the Simple, disciple of Venerable Anthony the Great",
+    "given": "Paul"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/07/100692-venerable-paul-the-simple-disciple-of-venerable-anthony-the-grea",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

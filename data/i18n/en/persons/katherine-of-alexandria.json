@@ -1,0 +1,20 @@
+{
+  "id": "katherine-of-alexandria",
+  "locale": "en",
+  "names": {
+    "display": "Great Martyr Katherine of Alexandria",
+    "short": "Katherine of Alexandria",
+    "given": "Katherine"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/24/103382-great-martyr-katherine-of-alexandria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

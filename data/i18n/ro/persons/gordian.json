@@ -1,0 +1,21 @@
+{
+  "id": "gordian",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Gordian",
+    "full": "Sfântul Mucenic Gordian",
+    "short": "Gordian",
+    "given": "Gordian"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-gordian",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

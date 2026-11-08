@@ -1,0 +1,39 @@
+{
+  "id": "mocius-the-presbyter-of-amphipolis-in-macedonia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:mocius-the-presbyter-of-amphipolis-in-macedonia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 11
+  },
+  "external_ids": {
+    "oca": "101349"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-sfintit-mucenic-mochie",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-dionisie-vatopedinul-de-la-colciu-sf-sfintit-mc-mochie-preotul-sf-ier-metodie-si-sf-cuv-chiril-luminatorii-slavilor/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/11/101349-hieromartyr-mocius-the-presbyter-of-amphipolis-in-macedonia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

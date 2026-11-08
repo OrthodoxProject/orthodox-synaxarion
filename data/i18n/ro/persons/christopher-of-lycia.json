@@ -1,0 +1,26 @@
+{
+  "id": "christopher-of-lycia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Hristofor",
+    "full": "Sfântul Mucenic Hristofor",
+    "short": "Hristofor",
+    "given": "Hristofor"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-hristofor",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-proroc-isaia-sf-mc-hristofor-aducerea-la-bari-a-moastelor-sf-ier-nicolae/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

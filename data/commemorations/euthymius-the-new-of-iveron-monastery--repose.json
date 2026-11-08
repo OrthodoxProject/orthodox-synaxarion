@@ -1,0 +1,34 @@
+{
+  "id": "euthymius-the-new-of-iveron-monastery--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:euthymius-the-new-of-iveron-monastery"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 13
+  },
+  "external_ids": {
+    "oca": "101371"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-eftimie-ivirul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/13/101371-saint-euthymius-the-new-founder-of-the-ivron-monastery-and-his-f",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, oca.org; de verificat."
+    ]
+  }
+}

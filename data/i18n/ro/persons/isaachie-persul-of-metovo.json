@@ -1,0 +1,21 @@
+{
+  "id": "isaachie-persul-of-metovo",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Isaachie Persul din Mețovo",
+    "full": "Sfântul Mucenic Isaachie Persul din Mețovo",
+    "short": "Isaachie Persul din Mețovo",
+    "given": "Isaachie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-isaachie-persul-din-metovo",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

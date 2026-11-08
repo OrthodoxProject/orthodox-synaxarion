@@ -1,0 +1,21 @@
+{
+  "id": "anthousa-the-confessor",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Antuza",
+    "full": "Sfânta Cuvioasă Antuza",
+    "short": "Antuza",
+    "given": "Antuza"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-antuza",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "icon-of-theotokos-of-damascus",
+  "kind": "icon",
+  "subjects": [
+    "icon:icon-of-theotokos-of-damascus"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 4
+  },
+  "external_ids": {
+    "oca": "108910"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/04/108910-icon-of-the-mother-of-god-of-damascus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

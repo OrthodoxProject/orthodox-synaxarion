@@ -1,0 +1,21 @@
+{
+  "id": "pappias",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Papias",
+    "full": "Sfântul Mucenic Papias",
+    "short": "Papias",
+    "given": "Papias"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-papias",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

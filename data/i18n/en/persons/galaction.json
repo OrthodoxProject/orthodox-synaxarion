@@ -1,0 +1,20 @@
+{
+  "id": "galaction",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Galaction, his wife",
+    "short": "Galaction, his wife",
+    "given": "Galaction"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/05/103176-martyrs-galaction-and-his-wife-epistemis-at-emesa",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "tradition": "ecumenical",
+  "date": "02-22",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:thalassius--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:limnaeus--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:athanasius-the-confessor-of-constantinople--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

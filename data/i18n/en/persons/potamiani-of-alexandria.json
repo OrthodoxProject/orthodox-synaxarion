@@ -1,0 +1,20 @@
+{
+  "id": "potamiani-of-alexandria",
+  "locale": "en",
+  "names": {
+    "display": "Saint Potamiani of Alexandria",
+    "short": "Potamiani of Alexandria",
+    "given": "Potamiani"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/07/100544-saint-potamiani-of-alexandria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

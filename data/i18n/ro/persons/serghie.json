@@ -1,0 +1,21 @@
+{
+  "id": "serghie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Serghie",
+    "full": "Sfântul Mucenic Serghie",
+    "short": "Serghie",
+    "given": "Serghie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-serghie",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

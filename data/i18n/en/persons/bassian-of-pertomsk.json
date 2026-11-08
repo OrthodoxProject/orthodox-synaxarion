@@ -1,0 +1,20 @@
+{
+  "id": "bassian-of-pertomsk",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Bassian of Pertomsk, Solovki",
+    "short": "Bassian of Pertomsk, Solovki",
+    "given": "Bassian"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/12/101702-venerable-bassian-of-pertomsk-solovki",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

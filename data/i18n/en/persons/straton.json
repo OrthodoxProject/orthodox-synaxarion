@@ -1,0 +1,20 @@
+{
+  "id": "straton",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Straton",
+    "short": "Straton",
+    "given": "Straton"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/17/102317-martyrs-straton-philip-eutychian-and-cyprian-of-nicomedia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

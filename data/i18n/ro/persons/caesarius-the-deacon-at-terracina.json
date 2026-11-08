@@ -1,0 +1,26 @@
+{
+  "id": "caesarius-the-deacon-at-terracina",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Chesarie, diaconul",
+    "full": "Sfântul Mucenic Chesarie, diaconul",
+    "short": "Chesarie, diaconul",
+    "given": "Chesarie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-chesarie-diaconul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-mari-mc-serghie-si-vah-sf-mc-iulian-preotul-chesarie-diaconul-si-polihronie/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

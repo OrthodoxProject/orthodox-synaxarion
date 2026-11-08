@@ -1,0 +1,20 @@
+{
+  "id": "martinian",
+  "locale": "en",
+  "names": {
+    "display": "Saint Martinian",
+    "short": "Martinian",
+    "given": "Martinian"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/13/100513-saints-martinian-zoe-and-photina-of-caesarea-in-palestine",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

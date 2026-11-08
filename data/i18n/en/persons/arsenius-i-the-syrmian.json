@@ -1,0 +1,20 @@
+{
+  "id": "arsenius-i-the-syrmian",
+  "locale": "en",
+  "names": {
+    "display": "Saint Arsenius I the Syrmian",
+    "short": "Arsenius I the Syrmian",
+    "given": "Arsenius"
+  },
+  "references": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

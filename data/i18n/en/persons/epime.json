@@ -1,0 +1,20 @@
+{
+  "id": "epime",
+  "locale": "en",
+  "names": {
+    "display": "Saint Epime (Pimanon)",
+    "short": "Epime",
+    "given": "Epime"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/11_8.html?lang=en#4",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

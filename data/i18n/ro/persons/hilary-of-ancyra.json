@@ -1,0 +1,26 @@
+{
+  "id": "hilary-of-ancyra",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Ilarie",
+    "full": "Sfântul Mucenic Ilarie",
+    "short": "Ilarie",
+    "given": "Ilarie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-ilarie",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-cinstirea-sfintei-icoane-a-maicii-domnului-prodromita-de-la-muntele-athos-sf-mc-proclu-si-ilarie-sf-cuv-mihail-maleinul-sf-veronica-sf-cuv-paisie-aghioritul-duminica-a-6-a-dupa/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

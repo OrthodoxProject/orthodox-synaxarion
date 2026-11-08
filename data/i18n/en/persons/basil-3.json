@@ -1,0 +1,20 @@
+{
+  "id": "basil-3",
+  "locale": "en",
+  "names": {
+    "display": "Hieromartyr Basil",
+    "short": "Basil",
+    "given": "Basil"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/28/100237-hieromartyr-basil",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

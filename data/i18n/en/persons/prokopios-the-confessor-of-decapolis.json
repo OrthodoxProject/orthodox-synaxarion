@@ -1,0 +1,20 @@
+{
+  "id": "prokopios-the-confessor-of-decapolis",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Prokopios the Confessor of Decapolis",
+    "short": "Prokopios the Confessor of Decapolis",
+    "given": "Prokopios"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/27/100614-venerable-prokopios-the-confessor-of-decapolis",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

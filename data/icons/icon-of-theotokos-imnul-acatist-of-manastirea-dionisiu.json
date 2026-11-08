@@ -1,0 +1,21 @@
+{
+  "id": "icon-of-theotokos-imnul-acatist-of-manastirea-dionisiu",
+  "subject": "theotokos",
+  "depicts": [
+    "person:theotokos"
+  ],
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoanei-maicii-domnului-imnul-acatist-de-la-manastirea-dionisiu",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

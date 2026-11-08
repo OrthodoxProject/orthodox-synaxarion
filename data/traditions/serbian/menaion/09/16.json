@@ -1,0 +1,29 @@
+{
+  "tradition": "serbian",
+  "date": "09-16",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:joannicius-of-serbia--09-16"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:euphemia-the-all-praised--09-16"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:melitine-of-marcianopolis--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:ludmilla-the-grandmother-of-wenceslaus--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

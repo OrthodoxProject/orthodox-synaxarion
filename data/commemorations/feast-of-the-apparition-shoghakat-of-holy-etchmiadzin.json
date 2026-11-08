@@ -1,0 +1,23 @@
+{
+  "id": "feast-of-the-apparition-shoghakat-of-holy-etchmiadzin",
+  "kind": "event",
+  "date_rule": {
+    "type": "unspecified",
+    "note": "Zi mobilă în calendarul armean; regula e de stabilit."
+  },
+  "sources": [
+    {
+      "source": "src:armenianchurch-ge",
+      "url": "https://armenianchurch.ge/en/kalendar-prazdnikov/description-2/august/feast-of-the-apparition-shoghakat-of-holy-etchmiadzin",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din armenianchurch.ge; de verificat.",
+      "În calendarul armenianchurch.ge apare în luna august; ziua se stabilește după regulile calendarului armean (de completat)."
+    ]
+  }
+}

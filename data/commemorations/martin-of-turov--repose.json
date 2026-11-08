@@ -1,0 +1,29 @@
+{
+  "id": "martin-of-turov--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:martin-of-turov"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 27
+  },
+  "external_ids": {
+    "oca": "101832"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/27/101832-venerable-martin-of-turov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

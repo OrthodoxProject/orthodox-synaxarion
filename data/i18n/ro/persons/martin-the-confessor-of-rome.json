@@ -1,0 +1,21 @@
+{
+  "id": "martin-the-confessor-of-rome",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Martin Mărturisitorul, Episcopul Romei",
+    "full": "Sfântul Ierarh Martin Mărturisitorul, Episcopul Romei",
+    "short": "Martin Mărturisitorul, Episcopul Romei",
+    "given": "Martin"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-martin-marturisitorul-episcopul-romei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

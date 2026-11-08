@@ -1,0 +1,20 @@
+{
+  "id": "theonas-of-egypt",
+  "locale": "en",
+  "names": {
+    "display": "Saint Theonas of Egypt",
+    "short": "Theonas of Egypt",
+    "given": "Theonas"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/05/101000-saint-theonas-of-egypt",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

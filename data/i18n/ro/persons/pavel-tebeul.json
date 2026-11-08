@@ -1,0 +1,26 @@
+{
+  "id": "pavel-tebeul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Pavel Tebeul",
+    "full": "Sfântul Cuvios Pavel Tebeul",
+    "short": "Pavel Tebeul",
+    "given": "Pavel"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-pavel-tebeul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-pavel-tebeul-si-ioan-colibasul/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

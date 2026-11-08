@@ -1,0 +1,21 @@
+{
+  "id": "ahila",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ahila",
+    "full": "Sfântul Cuvios Ahila",
+    "short": "Ahila",
+    "given": "Ahila"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-ahila",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

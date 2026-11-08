@@ -1,0 +1,29 @@
+{
+  "id": "phoebe-the-deaconess-at-cenchreae-near-corinth--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:phoebe-the-deaconess-at-cenchreae-near-corinth"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 3
+  },
+  "external_ids": {
+    "oca": "102481"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/03/102481-saint-phoebe-the-deaconess-at-cenchreae-near-corinth",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

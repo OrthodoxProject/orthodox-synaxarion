@@ -1,0 +1,29 @@
+{
+  "id": "founders-icon-of-theotokos-at-vatopedi-monastery",
+  "kind": "icon",
+  "subjects": [
+    "icon:founders-icon-of-theotokos-at-vatopedi-monastery"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 12
+  },
+  "external_ids": {
+    "oca": "100538"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/12/100538-founders-icon-of-the-mother-of-god-at-vatopedi-monastery",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

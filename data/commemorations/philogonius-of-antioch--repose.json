@@ -1,0 +1,29 @@
+{
+  "id": "philogonius-of-antioch--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:philogonius-of-antioch"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 20
+  },
+  "external_ids": {
+    "oca": "103596"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/20/103596-saint-philogonius-bishop-of-antioch",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

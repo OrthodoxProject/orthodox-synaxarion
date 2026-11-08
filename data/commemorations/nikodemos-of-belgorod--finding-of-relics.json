@@ -1,0 +1,29 @@
+{
+  "id": "nikodemos-of-belgorod--finding-of-relics",
+  "kind": "relics_finding",
+  "subjects": [
+    "person:nikodemos-of-belgorod"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 20
+  },
+  "external_ids": {
+    "oca": "100315"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/20/100315-the-uncovering-of-the-relics-of-the-hieromartyr-ikdmos-bishop-of",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

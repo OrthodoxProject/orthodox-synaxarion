@@ -1,0 +1,21 @@
+{
+  "id": "ioan-of-valaam",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ioan de Valaam",
+    "full": "Sfântul Ioan de Valaam",
+    "short": "Ioan de Valaam",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ioan-de-valaam",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

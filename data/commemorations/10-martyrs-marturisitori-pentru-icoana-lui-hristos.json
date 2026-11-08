@@ -1,0 +1,31 @@
+{
+  "id": "10-martyrs-marturisitori-pentru-icoana-lui-hristos",
+  "kind": "repose",
+  "subjects": [
+    "group:10-martyrs-marturisitori-pentru-icoana-lui-hristos"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 9
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfintii-10-mucenici-marturisitori-pentru-icoana-lui-hristos",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ap-matia-sf-10-mc-care-au-patimit-pentru-icoana-lui-hristos-duminica-a-10-a-dupa-rusalii-ap-1-corinteni-4-9-16-ev-matei-17-14-23-vindecarea-lunaticului-glas-1-voscr-10/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro; de verificat."
+    ]
+  }
+}

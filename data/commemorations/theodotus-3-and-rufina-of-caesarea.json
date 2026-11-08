@@ -1,0 +1,30 @@
+{
+  "id": "theodotus-3-and-rufina-of-caesarea",
+  "kind": "repose",
+  "subjects": [
+    "person:theodotus-3",
+    "person:rufina-of-caesarea"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 2
+  },
+  "external_ids": {
+    "oca": "102460"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/02/102460-martyrs-theodotus-and-rufina-of-caesarea-in-cappadocia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

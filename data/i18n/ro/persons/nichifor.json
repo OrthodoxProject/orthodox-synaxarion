@@ -1,0 +1,21 @@
+{
+  "id": "nichifor",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Nichifor",
+    "full": "Sfântul Mucenic Nichifor",
+    "short": "Nichifor",
+    "given": "Nichifor"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-nichifor-0",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

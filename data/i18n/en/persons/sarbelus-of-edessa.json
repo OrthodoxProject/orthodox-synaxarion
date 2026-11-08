@@ -1,0 +1,20 @@
+{
+  "id": "sarbelus-of-edessa",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Sarbelus of Edessa",
+    "short": "Sarbelus of Edessa",
+    "given": "Sarbelus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/05/102508-martyr-sarbelus-of-edessa",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

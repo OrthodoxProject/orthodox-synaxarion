@@ -1,0 +1,25 @@
+{
+  "id": "therapon-of-monza",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Therapon, Abbot of Monza",
+    "short": "Therapon, Abbot of Monza",
+    "given": "Therapon"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/27/101550-venerable-therapon-abbot-of-monza",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/12/103527-venerable-therapon-abbot-of-monza",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

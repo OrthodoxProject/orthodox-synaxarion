@@ -1,0 +1,39 @@
+{
+  "id": "kyriakos-the-anchorite--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:kyriakos-the-anchorite"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 29
+  },
+  "external_ids": {
+    "oca": "102813"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-chiriac-sihastrul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-chiriac-sihastrul-sf-mc-petronia/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/29/102813-venerable-kyriakos-the-anchorite",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

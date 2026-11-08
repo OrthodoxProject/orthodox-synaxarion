@@ -1,0 +1,29 @@
+{
+  "id": "theophanes-the-confessor",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Teofan Mărturisitorul, Episcopul Niceei",
+    "full": "Sfântul Ierarh Teofan Mărturisitorul, Episcopul Niceei",
+    "short": "Teofan Mărturisitorul, Episcopul Niceei",
+    "given": "Teofan",
+    "variants": [
+      "Sf. Ier. Teofan Mărturisitorul, episcopul Niceei"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-teofan-marturisitorul-episcopul-niceei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ap-filip-unul-dintre-cei-7-diaconi-sf-ier-teofan-marturisitorul-episcopul-niceei-duminica-a-21-a-dupa-rusalii-a-sfintilor-parinti-de-la-sinodul-al-vii-lea-ecumenic-ap-galateni-2-16-20/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

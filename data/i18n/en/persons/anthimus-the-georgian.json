@@ -1,0 +1,20 @@
+{
+  "id": "anthimus-the-georgian",
+  "locale": "en",
+  "names": {
+    "display": "Saint Anthimus the Georgian",
+    "short": "Anthimus the Georgian",
+    "given": "Anthimus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/27/149021-saint-anthimus-the-georgian",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

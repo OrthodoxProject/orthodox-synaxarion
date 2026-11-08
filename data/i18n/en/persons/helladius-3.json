@@ -1,0 +1,20 @@
+{
+  "id": "helladius-3",
+  "locale": "en",
+  "names": {
+    "display": "Hieromartyr Helladius, Bishop in the East",
+    "short": "Helladius, Bishop in the East",
+    "given": "Helladius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/28/101557-hieromartyr-helladius-bishop-in-the-east",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

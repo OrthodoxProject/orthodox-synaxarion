@@ -1,0 +1,34 @@
+{
+  "id": "cyril-of-alexandria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Chiril, Arhiepiscopul Alexandriei",
+    "full": "Sfântul Ierarh Chiril, Arhiepiscopul Alexandriei",
+    "short": "Chiril, Arhiepiscopul Alexandriei",
+    "given": "Chiril",
+    "variants": [
+      "Sf. Ier. Chiril, arhiepiscopul Alexandriei"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-chiril-arhiepiscopul-alexandriei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ier-atanasie-si-chiril-arhiepiscopii-alexandriei/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ier-chiril-arhiepiscopul-alexandriei/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

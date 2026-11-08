@@ -1,0 +1,20 @@
+{
+  "id": "baradates",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Baradates, Hermit of Syria",
+    "short": "Baradates, Hermit of Syria",
+    "given": "Baradates"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/22/100587-venerable-baradates-hermit-of-syria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

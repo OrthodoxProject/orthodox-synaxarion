@@ -1,0 +1,20 @@
+{
+  "id": "theodore-of-mitilini",
+  "locale": "en",
+  "names": {
+    "display": "New Martyr Theodore",
+    "short": "Theodore",
+    "given": "Theodore"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/30/109042-new-martyr-theodore",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

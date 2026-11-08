@@ -1,0 +1,30 @@
+{
+  "id": "philip-coptic--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:philip-coptic"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 14,
+    "calendar": "coptic"
+  },
+  "external_ids": {
+    "copticchurch": "2_14#1"
+  },
+  "sources": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/2_14.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din copticchurch.net; de verificat."
+    ]
+  }
+}

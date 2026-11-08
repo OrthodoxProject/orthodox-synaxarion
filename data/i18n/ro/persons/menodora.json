@@ -1,0 +1,25 @@
+{
+  "id": "menodora",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Minodora",
+    "short": "Minodora",
+    "given": "Minodora"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfintele-mucenite-minodora-mitrodora-nimfodora",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-minodora-mitrodora-si-nimfodora-sf-imparateasa-pulheria/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

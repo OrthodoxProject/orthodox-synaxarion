@@ -1,0 +1,39 @@
+{
+  "id": "epiphanius-of-cyprus--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:epiphanius-of-cyprus"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 12
+  },
+  "external_ids": {
+    "oca": "101356"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-epifanie-arhiepiscopul-ciprului",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-mc-ioan-valahul-sf-ier-epifanie-arhiepiscopul-ciprului-si-gherman-patriarhul-constantinopolului/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/12/101356-saint-epiphanius-bishop-of-cyprus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

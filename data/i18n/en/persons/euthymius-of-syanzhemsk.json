@@ -1,0 +1,20 @@
+{
+  "id": "euthymius-of-syanzhemsk",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Euthymius of Syanzhemsk, Vologda",
+    "short": "Euthymius of Syanzhemsk, Vologda",
+    "given": "Euthymius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/20/100241-venerable-euthymius-of-syanzhemsk-vologda",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

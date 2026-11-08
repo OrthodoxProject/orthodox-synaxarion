@@ -1,0 +1,35 @@
+{
+  "id": "dionysios-the-rhetorician-and-metrophanes",
+  "kind": "repose",
+  "subjects": [
+    "person:dionysios-the-rhetorician",
+    "person:metrophanes"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 9
+  },
+  "external_ids": {
+    "oca": "101978"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfintii-cuviosi-dionisie-retorul-mitrofan-duhovnicul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/09/101978-saint-dionysios-the-rhetorician-and-his-disciple-saint-mtrophns",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, oca.org; de verificat."
+    ]
+  }
+}

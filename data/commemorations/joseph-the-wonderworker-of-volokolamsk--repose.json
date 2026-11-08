@@ -1,0 +1,29 @@
+{
+  "id": "joseph-the-wonderworker-of-volokolamsk--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:joseph-the-wonderworker-of-volokolamsk"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 18
+  },
+  "external_ids": {
+    "oca": "102996"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/18/102996-venerable-joseph-the-wonderworker-igumen-of-volokolamsk",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

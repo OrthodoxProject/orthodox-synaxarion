@@ -1,0 +1,21 @@
+{
+  "id": "tihon-of-zadonsk",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Tihon din Zadonsk",
+    "full": "Sfântul Ierarh Tihon din Zadonsk",
+    "short": "Tihon din Zadonsk",
+    "given": "Tihon"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-tihon-din-zadonsk",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

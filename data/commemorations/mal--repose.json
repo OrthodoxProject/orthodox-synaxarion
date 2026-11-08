@@ -1,0 +1,26 @@
+{
+  "id": "mal--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:mal"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 16
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-mal",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "john-the-new-of-epirus",
+  "locale": "en",
+  "names": {
+    "display": "New Martyr John the New of Epirus",
+    "short": "John the New of Epirus",
+    "given": "John"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/18/101143-new-martyr-john-the-new-of-epirus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

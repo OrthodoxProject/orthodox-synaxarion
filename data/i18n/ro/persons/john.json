@@ -1,0 +1,26 @@
+{
+  "id": "john",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Doctor fără de arginți, făcătorul de minuni, Ioan",
+    "full": "Sfântul Doctor fără de arginți, făcătorul de minuni, Ioan",
+    "short": "Ioan",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-doctor-fara-de-arginti-facatorul-de-minuni-ioan",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-doctori-fara-de-arginti-chir-si-ioan/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

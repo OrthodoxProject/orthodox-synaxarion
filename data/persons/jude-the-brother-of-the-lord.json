@@ -1,0 +1,26 @@
+{
+  "id": "jude-the-brother-of-the-lord",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "apostle"
+  ],
+  "external_ids": {
+    "oca": "101752"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/19/101752-apostle-jude-the-brother-of-the-lord",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat.",
+      "Genul nu reiese din sursă; e de verificat."
+    ]
+  }
+}

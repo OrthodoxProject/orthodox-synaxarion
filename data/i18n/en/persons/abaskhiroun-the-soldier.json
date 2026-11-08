@@ -1,0 +1,20 @@
+{
+  "id": "abaskhiroun-the-soldier",
+  "locale": "en",
+  "names": {
+    "display": "Saint Abaskhiroun the Soldier",
+    "short": "Abaskhiroun the Soldier",
+    "given": "Abaskhiroun"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/10_7.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

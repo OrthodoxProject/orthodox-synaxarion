@@ -1,0 +1,20 @@
+{
+  "id": "sava-ii-brankovic",
+  "locale": "en",
+  "names": {
+    "display": "Saint Sava II Branković",
+    "short": "Sava II Branković",
+    "given": "Sava"
+  },
+  "references": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

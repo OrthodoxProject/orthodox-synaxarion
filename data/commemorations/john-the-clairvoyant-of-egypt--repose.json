@@ -1,0 +1,29 @@
+{
+  "id": "john-the-clairvoyant-of-egypt--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:john-the-clairvoyant-of-egypt"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 27
+  },
+  "external_ids": {
+    "oca": "100916"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/27/100916-venerable-john-the-clairvoyant-anchorite-of-egypt",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

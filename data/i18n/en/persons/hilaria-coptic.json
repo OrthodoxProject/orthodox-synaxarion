@@ -1,0 +1,20 @@
+{
+  "id": "hilaria-coptic",
+  "locale": "en",
+  "names": {
+    "display": "Saint Hilaria",
+    "short": "Hilaria",
+    "given": "Hilaria"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/11_25.html?lang=en#3",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

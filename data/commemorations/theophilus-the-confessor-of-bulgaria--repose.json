@@ -1,0 +1,39 @@
+{
+  "id": "theophilus-the-confessor-of-bulgaria--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:theophilus-the-confessor-of-bulgaria"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 10
+  },
+  "external_ids": {
+    "oca": "102933"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-teofil-marturisitorul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-evlampie-si-sora-sa-evlampia-sf-cuv-vasian-si-teofil-marturisitorul/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/10/102933-saint-theophilus-the-confessor-of-bulgaria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "362-martyrs-of-africa",
+  "kind": "martyrs",
+  "count": {
+    "value": 362,
+    "precision": "exact"
+  },
+  "holiness_types": [
+    "martyr"
+  ],
+  "external_ids": {
+    "oca": "100094"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/08/100094-362-martyrs-of-africa-62-clergy-and-300-laypeople",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

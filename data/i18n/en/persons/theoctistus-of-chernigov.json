@@ -1,0 +1,20 @@
+{
+  "id": "theoctistus-of-chernigov",
+  "locale": "en",
+  "names": {
+    "display": "Saint Theoctistus, Bishop of Chernigov",
+    "short": "Theoctistus, Bishop of Chernigov",
+    "given": "Theoctistus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/05/109007-saint-theoctistus-bishop-of-chernigov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "epicharis-of-rome",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Epicharis of Rome",
+    "short": "Epicharis of Rome",
+    "given": "Epicharis"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/27/102739-martyr-epicharis-of-rome",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

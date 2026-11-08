@@ -1,0 +1,26 @@
+{
+  "id": "philip-the-apostle",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ap. Filip, unul dintre cei 12 Apostoli",
+    "full": "Sfântul Apostol Filip, unul dintre cei 12 Apostoli",
+    "short": "Filip, unul dintre cei 12 Apostoli",
+    "given": "Filip"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-apostol-filip-unul-dintre-cei-12-apostoli",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ap-filip-unul-dintre-cei-12-apostoli-sf-ier-grigorie-palama-arhiepiscopul-tesalonicului-sfintii-palamiti-lasatul-secului-pentru-postul-nasterii-domnului/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

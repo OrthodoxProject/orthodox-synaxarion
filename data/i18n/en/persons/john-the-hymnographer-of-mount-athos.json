@@ -1,0 +1,20 @@
+{
+  "id": "john-the-hymnographer-of-mount-athos",
+  "locale": "en",
+  "names": {
+    "display": "Venerable John (Koukouzelis) the Hymnographer of Mount Athos",
+    "short": "John the Hymnographer of Mount Athos",
+    "given": "John"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/01/102832-venerable-john-koukouzelis-the-hymnographer-of-mount-athos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

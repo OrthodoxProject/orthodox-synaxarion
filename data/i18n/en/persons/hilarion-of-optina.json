@@ -1,0 +1,20 @@
+{
+  "id": "hilarion-of-optina",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Hilarion of Optina",
+    "short": "Hilarion of Optina",
+    "given": "Hilarion"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/18/148994-venerable-hilarion-of-optina",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

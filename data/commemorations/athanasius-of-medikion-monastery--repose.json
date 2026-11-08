@@ -1,0 +1,29 @@
+{
+  "id": "athanasius-of-medikion-monastery--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:athanasius-of-medikion-monastery"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 26
+  },
+  "external_ids": {
+    "oca": "103063"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/26/103063-venerable-athanasius-of-medikion-monastery",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

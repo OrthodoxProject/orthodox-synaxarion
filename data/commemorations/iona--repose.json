@@ -1,0 +1,31 @@
+{
+  "id": "iona--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:iona"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 29
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-iona",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-sfintiti-mc-marcu-episcopul-aretuselor-si-chiril-diaconul-sf-mc-iona-si-varahisie-sf-ier-diadoh-episcopul-foticeei-duminica-a-5-a-din-post-a-sf-cuv-maria-egipteanca-ap-evrei-9-11/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro; de verificat."
+    ]
+  }
+}

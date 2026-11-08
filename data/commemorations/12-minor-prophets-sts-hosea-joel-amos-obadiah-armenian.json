@@ -1,0 +1,26 @@
+{
+  "id": "12-minor-prophets-sts-hosea-joel-amos-obadiah-armenian",
+  "kind": "repose",
+  "subjects": [
+    "group:12-minor-prophets-sts-hosea-joel-amos-obadiah-armenian"
+  ],
+  "date_rule": {
+    "type": "unspecified",
+    "note": "Zi mobilă în calendarul armean; regula e de stabilit."
+  },
+  "sources": [
+    {
+      "source": "src:armenianchurch-ge",
+      "url": "https://armenianchurch.ge/en/kalendar-prazdnikov/description-2/july/commemoration-of-sts-sophia-and-her-three-daughters-pistos-yelpis-and-agapie",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din armenianchurch.ge; de verificat.",
+      "În calendarul armenianchurch.ge apare în luna iulie; ziua se stabilește după regulile calendarului armean (de completat)."
+    ]
+  }
+}

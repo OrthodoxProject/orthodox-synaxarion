@@ -1,0 +1,29 @@
+{
+  "id": "anna-of-kashin--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:anna-of-kashin"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 2
+  },
+  "external_ids": {
+    "oca": "102839"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/02/102839-repose-of-the-holy-right-believing-princess-anna-of-kashin",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

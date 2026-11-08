@@ -1,0 +1,23 @@
+{
+  "tradition": "serbian",
+  "date": "08-08",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:sava-iii--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:emilian-of-kyzikos--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:icon-of-theotokos-of-tolga--08-08"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

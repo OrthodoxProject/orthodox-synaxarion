@@ -1,0 +1,29 @@
+{
+  "id": "sabinus-of-cyprus--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:sabinus-of-cyprus"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 12
+  },
+  "external_ids": {
+    "oca": "101360"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/12/101360-saint-sabinus-archbishop-of-cyprus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

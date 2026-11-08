@@ -1,0 +1,18 @@
+{
+  "id": "seven-ascetic-saints-in-tounar-mount",
+  "locale": "en",
+  "names": {
+    "display": "Seven Ascetic Saints in Tounar Mount"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/10_29.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

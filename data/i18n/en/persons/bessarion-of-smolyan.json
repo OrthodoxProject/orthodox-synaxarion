@@ -1,0 +1,20 @@
+{
+  "id": "bessarion-of-smolyan",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Bessarion, Bishop of Smolyan",
+    "short": "Bessarion, Bishop of Smolyan",
+    "given": "Bessarion"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/29/108018-martyr-bessarion-bishop-of-smolyan",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

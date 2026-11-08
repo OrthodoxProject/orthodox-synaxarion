@@ -1,0 +1,20 @@
+{
+  "id": "abramius-of-rostov",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Abramius, Archimandrite of Rostov",
+    "short": "Abramius, Archimandrite of Rostov",
+    "given": "Abramius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/29/103102-venerable-abramius-archimandrite-of-rostov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

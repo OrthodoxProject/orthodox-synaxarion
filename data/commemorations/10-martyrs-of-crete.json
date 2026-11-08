@@ -1,0 +1,39 @@
+{
+  "id": "10-martyrs-of-crete",
+  "kind": "repose",
+  "subjects": [
+    "group:10-martyrs-of-crete"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 23
+  },
+  "external_ids": {
+    "oca": "103616"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfintii-10-mucenici-din-creta",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-antonina-de-la-tismana-sfintii-10-mucenici-din-creta-sf-ier-pavel-arhiepiscopul-neocezareei/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/23/103616-10-holy-martyrs-of-crete",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

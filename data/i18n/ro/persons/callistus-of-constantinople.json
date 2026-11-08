@@ -1,0 +1,29 @@
+{
+  "id": "callistus-of-constantinople",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Calist, Patriarhul Constantinopolului",
+    "full": "Sfântul Ierarh Calist, Patriarhul Constantinopolului",
+    "short": "Calist, Patriarhul Constantinopolului",
+    "given": "Calist",
+    "variants": [
+      "Sf. Ier. Calist, patriarhul Constantinopolului"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-calist-patriarhul-constantinopolului",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-sfintit-mc-metodie-episcopul-patarelor-sf-ier-calist-patriarhul-constantinopolului-sf-nicolae-cabasila-dezlegare-la-peste/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

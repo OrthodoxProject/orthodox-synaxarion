@@ -1,0 +1,29 @@
+{
+  "id": "gerasimus-of-perm--01-29",
+  "kind": "repose",
+  "subjects": [
+    "person:gerasimus-of-perm"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 29
+  },
+  "external_ids": {
+    "oca": "100337"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/29/100337-saint-gerasimus-bishop-of-perm",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "gregory-of-gornjak--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:gregory-of-gornjak"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 20
+  },
+  "sources": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gregory_of_Gornjak"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din orthodox-calendar, Wikipedia; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "platon-of-banja-luka--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:platon-of-banja-luka"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 5
+  },
+  "sources": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Platon_of_Banja_Luka"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din orthodox-calendar, Wikipedia; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "euthymius-the-new-of-iveron-monastery",
+  "locale": "en",
+  "names": {
+    "display": "Saint Euthymius the New, Founder of the Ivḗron Monastery, and his fellow Georgian Saints of Mount Athos",
+    "short": "Euthymius the New, Founder of the Ivḗron Monastery and his fellow Georgian Saints of Mount Athos",
+    "given": "Euthymius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/13/101371-saint-euthymius-the-new-founder-of-the-ivron-monastery-and-his-f",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

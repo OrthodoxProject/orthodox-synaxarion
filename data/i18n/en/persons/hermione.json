@@ -1,0 +1,20 @@
+{
+  "id": "hermione",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Hermione, daughter of Saint Philip the Deacon",
+    "short": "Hermione, daughter of Saint Philip the Deacon",
+    "given": "Hermione"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/04/102492-martyr-hermione-daughter-of-saint-philip-the-deacon",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

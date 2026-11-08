@@ -1,0 +1,33 @@
+{
+  "id": "heiromartyr-theokteristus--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:heiromartyr-theokteristus"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 29,
+    "non_leap": {
+      "month": 2,
+      "day": 28
+    }
+  },
+  "external_ids": {
+    "oca": "100624"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/28/100624-heiromartyr-theokteristus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

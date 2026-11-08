@@ -1,0 +1,23 @@
+{
+  "id": "synaxis-of-archangel-gabriel",
+  "locale": "ro",
+  "names": {
+    "display": "Soborul Sfântului Arhanghel Gavriil"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/soborul-sfantului-arhanghel-gavriil",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/odovania-praznicului-bunei-vestiri-soborul-sf-arhanghel-gavriil-sf-mc-montanus-preotul-si-sotia-sa-maxima-sfintii-26-de-mucenici-din-gotia-dacia/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

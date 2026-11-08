@@ -1,0 +1,20 @@
+{
+  "id": "platon-of-ancyra",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Platon of Ancyra",
+    "short": "Platon of Ancyra",
+    "given": "Platon"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/18/103321-martyr-platon-of-ancyra",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

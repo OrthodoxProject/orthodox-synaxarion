@@ -1,0 +1,26 @@
+{
+  "id": "serapion-of-thmuis",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Serapion",
+    "full": "Sfântul Cuvios Serapion",
+    "short": "Serapion",
+    "given": "Serapion"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-serapion",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ier-iacob-marturisitorul-sf-cuv-serapion-pomenirea-celor-adormiti/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

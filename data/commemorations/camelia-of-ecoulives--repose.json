@@ -1,0 +1,26 @@
+{
+  "id": "camelia-of-ecoulives--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:camelia-of-ecoulives"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 3
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-camelia-din-ecoulives",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

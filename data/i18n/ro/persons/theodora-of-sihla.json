@@ -1,0 +1,26 @@
+{
+  "id": "theodora-of-sihla",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Teodora de la Sihla",
+    "full": "Sfânta Cuvioasă Teodora de la Sihla",
+    "short": "Teodora de la Sihla",
+    "given": "Teodora"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-teodora-de-la-sihla",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-teodora-de-la-sihla-%e2%80%a0-sf-cuv-pafnutie-parvu-zugravul-sf-cuv-mc-dometie-persul-sf-ier-narcis-arhiepiscopul-ierusalimului-sf-cuv-nicanor/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

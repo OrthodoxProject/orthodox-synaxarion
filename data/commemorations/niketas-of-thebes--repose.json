@@ -1,0 +1,29 @@
+{
+  "id": "niketas-of-thebes--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:niketas-of-thebes"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 23
+  },
+  "external_ids": {
+    "oca": "100482"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/23/100482-niktas-of-thebes-and-those-with-him",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

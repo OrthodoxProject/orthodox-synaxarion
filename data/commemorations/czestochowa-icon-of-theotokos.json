@@ -1,0 +1,29 @@
+{
+  "id": "czestochowa-icon-of-theotokos",
+  "kind": "icon",
+  "subjects": [
+    "icon:czestochowa-icon-of-theotokos"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 6
+  },
+  "external_ids": {
+    "oca": "103919"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/06/103919-czestochowa-icon-of-the-mother-of-god",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

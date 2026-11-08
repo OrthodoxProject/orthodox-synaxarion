@@ -1,0 +1,33 @@
+{
+  "tradition": "romanian",
+  "date": "09-09",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:ioachim-and-anna"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:chiriac-of-tazlau--repose"
+      ],
+      "symbol": "blue-half-parenthesized"
+    },
+    {
+      "commemorations": [
+        "comm:onufrie-of-vorona--repose"
+      ],
+      "symbol": "blue-half-parenthesized"
+    },
+    {
+      "commemorations": [
+        "comm:severian-of-sebaste--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:fathers-of-the-third-ecumenical-council"
+      ]
+    }
+  ]
+}

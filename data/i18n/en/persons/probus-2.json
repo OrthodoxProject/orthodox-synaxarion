@@ -1,0 +1,20 @@
+{
+  "id": "probus-2",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Probus",
+    "short": "Probus",
+    "given": "Probus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/23/101791-martyrs-eustochius-gaius-probus-lollius-and-urban-of-ancyra",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

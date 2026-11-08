@@ -1,0 +1,29 @@
+{
+  "id": "iachint-of-tarii",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Iachint, Mitropolitul Țării Românești",
+    "full": "Sfântul Ierarh Iachint, Mitropolitul Țării Românești",
+    "short": "Iachint, Mitropolitul Țării Românești",
+    "given": "Iachint",
+    "variants": [
+      "Sf. Ier. Iachint, mitropolitul Țării Românești"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-iachint-mitropolitul-tarii-romanesti",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ier-iachint-mitropolitul-tarii-romanesti-%e2%80%a0-sf-cuv-teofana-basarab-sf-mc-terentie-sotia-sa-neonila-si-cei-7-fii-sf-cuv-stefan-savaitul-sf-ier-firmilian-episcopul/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

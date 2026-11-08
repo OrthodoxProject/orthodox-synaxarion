@@ -1,0 +1,29 @@
+{
+  "id": "hosea-the-prophet",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Proroc Osea",
+    "full": "Sfântul Proroc Osea",
+    "short": "Osea",
+    "given": "Osea",
+    "variants": [
+      "Sf. Proroc Oseea"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-proroc-osea",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-proroc-oseea-sf-cuv-mc-andrei-criteanul/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

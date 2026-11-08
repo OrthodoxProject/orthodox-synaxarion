@@ -1,0 +1,31 @@
+{
+  "id": "alexandru-of-basarabia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:alexandru-of-basarabia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 8
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-preot-mucenic-alexandru-din-basarabia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-preot-mucenic-alexandru-din-basarabia-sf-ier-emilian-marturisitorul-episcopul-cizicului-si-miron-episcopul-cretei/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro; de verificat."
+    ]
+  }
+}

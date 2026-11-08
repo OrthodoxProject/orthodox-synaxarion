@@ -1,0 +1,20 @@
+{
+  "id": "leucius-of-brindisi",
+  "locale": "en",
+  "names": {
+    "display": "Saint Leucius, Bishop of Brindisi",
+    "short": "Leucius, Bishop of Brindisi",
+    "given": "Leucius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/20/101768-saint-leucius-bishop-of-brindisi",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

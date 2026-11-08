@@ -1,0 +1,20 @@
+{
+  "id": "rimmas",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Rimmas, disciples of the Apostle Andrew, in Scythia",
+    "short": "Rimmas, disciples of the Apostle Andrew, in Scythia",
+    "given": "Rimmas"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/20/100242-martyrs-innas-pinnas-and-rimmas-disciples-of-the-apostle-andrew",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

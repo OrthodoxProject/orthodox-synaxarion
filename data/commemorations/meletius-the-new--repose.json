@@ -1,0 +1,29 @@
+{
+  "id": "meletius-the-new--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:meletius-the-new"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 1
+  },
+  "external_ids": {
+    "oca": "108079"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/01/108079-saint-meletius-the-new",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

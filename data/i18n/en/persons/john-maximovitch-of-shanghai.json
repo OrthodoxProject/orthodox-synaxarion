@@ -1,0 +1,20 @@
+{
+  "id": "john-maximovitch-of-shanghai",
+  "locale": "en",
+  "names": {
+    "display": "Saint John [Maximovitch], Archbishop of Shanghai",
+    "short": "John [Maximovitch], Archbishop of Shanghai",
+    "given": "John"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/02/206392-saint-john-maximovitch-archbishop-of-shanghai-and-san-francisco",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

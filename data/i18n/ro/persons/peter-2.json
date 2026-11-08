@@ -1,0 +1,21 @@
+{
+  "id": "peter-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Petru, Cneaz de Murom",
+    "full": "Sfântul Petru, Cneaz de Murom",
+    "short": "Petru, Cneaz de Murom",
+    "given": "Petru"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-petru-cneaz-de-murom",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

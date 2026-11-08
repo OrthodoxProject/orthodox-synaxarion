@@ -1,0 +1,21 @@
+{
+  "id": "nicolae-of-corint",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Nicolae din Corint",
+    "full": "Sfântul Mucenic Nicolae din Corint",
+    "short": "Nicolae din Corint",
+    "given": "Nicolae"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-nicolae-din-corint",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

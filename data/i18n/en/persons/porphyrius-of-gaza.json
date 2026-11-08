@@ -1,0 +1,20 @@
+{
+  "id": "porphyrius-of-gaza",
+  "locale": "en",
+  "names": {
+    "display": "Saint Porphyrius, Bishop of Gaza",
+    "short": "Porphyrius, Bishop of Gaza",
+    "given": "Porphyrius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/26/100606-saint-porphyrius-bishop-of-gaza",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

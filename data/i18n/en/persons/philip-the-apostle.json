@@ -1,0 +1,20 @@
+{
+  "id": "philip-the-apostle",
+  "locale": "en",
+  "names": {
+    "display": "Holy, All-Praised Apostle Philip",
+    "short": "Philip",
+    "given": "Philip"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/14/103299-holy-all-praised-apostle-philip",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

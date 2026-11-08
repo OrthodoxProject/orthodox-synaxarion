@@ -1,0 +1,29 @@
+{
+  "id": "eufrasie-of-ienopola",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Eufrasie, Episcopul Ienopolei",
+    "full": "Sfântul Ierarh Eufrasie, Episcopul Ienopolei",
+    "short": "Eufrasie, Episcopul Ienopolei",
+    "given": "Eufrasie",
+    "variants": [
+      "Sf. Ier. Eufrasie, episcopul Ionopolei"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-eufrasie-episcopul-ienopolei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mare-mc-marina-sf-ier-eufrasie-episcopul-ionopolei/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

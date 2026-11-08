@@ -1,0 +1,39 @@
+{
+  "id": "methodius-of-constantinople--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:methodius-of-constantinople"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 14
+  },
+  "external_ids": {
+    "oca": "101719"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-metodie-patriarhul-constantinopolului",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/proroc-elisei-sf-ier-metodie-marturisitorul-patriarhul-constantinopolului-dezlegare-la-peste-duminica-a-2-a-dupa-rusalii-a-sfintilor-romani-ap-romani-2-10-16-al-sf-romani-2-corinteni-5/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/14/101719-saint-methodius-patriarch-of-constantinople",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "menas",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Mina",
+    "full": "Sfântul Mucenic Mina",
+    "short": "Mina",
+    "given": "Mina"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-mina",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-mina-ermoghen-si-evgraf/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

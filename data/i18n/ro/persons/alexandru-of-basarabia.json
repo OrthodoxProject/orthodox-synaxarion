@@ -1,0 +1,29 @@
+{
+  "id": "alexandru-of-basarabia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Preot Mc. Alexandru din Basarabia",
+    "full": "Sfântul Preot Mucenic Alexandru din Basarabia",
+    "short": "Alexandru din Basarabia",
+    "given": "Alexandru",
+    "variants": [
+      "Sf. Preot Mucenic Alexandru din Basarabia"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-preot-mucenic-alexandru-din-basarabia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-preot-mucenic-alexandru-din-basarabia-sf-ier-emilian-marturisitorul-episcopul-cizicului-si-miron-episcopul-cretei/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

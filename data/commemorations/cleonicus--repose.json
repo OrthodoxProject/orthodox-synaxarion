@@ -1,0 +1,39 @@
+{
+  "id": "cleonicus--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:cleonicus"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 3
+  },
+  "external_ids": {
+    "oca": "100642"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-cleonic",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-eutropie-cleonic-si-vasilisc/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/03/100642-martyrs-eutropius-cleonicus-and-basiliscus-of-amasea",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

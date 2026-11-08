@@ -1,0 +1,21 @@
+{
+  "id": "ioan-colov",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ioan Colov",
+    "full": "Sfântul Cuvios Ioan Colov",
+    "short": "Ioan Colov",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-ioan-colov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

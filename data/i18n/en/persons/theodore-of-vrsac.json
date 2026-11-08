@@ -1,0 +1,20 @@
+{
+  "id": "theodore-of-vrsac",
+  "locale": "en",
+  "names": {
+    "display": "Saint Theodore of Vrsac, Serbia",
+    "short": "Theodore of Vrsac, Serbia",
+    "given": "Theodore"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/16/108044-saint-theodore-of-vrsac-serbia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

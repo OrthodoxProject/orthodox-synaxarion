@@ -1,0 +1,20 @@
+{
+  "id": "montanus-the-presbyter-of-singidunum",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Montanus the Presbyter of Singidunum",
+    "short": "Montanus the Presbyter of Singidunum",
+    "given": "Montanus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/26/100911-martyr-montanus-the-presbyter-of-singidunum-and-his-wife-maxima",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

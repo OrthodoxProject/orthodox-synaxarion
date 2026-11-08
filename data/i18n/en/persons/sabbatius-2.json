@@ -1,0 +1,20 @@
+{
+  "id": "sabbatius-2",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Sabbatius, Wonderworker of Solovki",
+    "short": "Sabbatius, Wonderworker of Solovki",
+    "given": "Sabbatius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/27/102735-venerable-sabbatius-wonderworker-of-solovki",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

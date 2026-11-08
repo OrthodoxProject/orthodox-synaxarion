@@ -1,0 +1,30 @@
+{
+  "tradition": "ecumenical",
+  "date": "06-15",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:amos-the-prophet--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:jerome-of-stridon--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:lazarus-the-great-martyr-of-serbia--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:augustine-of-hippo--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

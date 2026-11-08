@@ -1,0 +1,21 @@
+{
+  "id": "theoktiste-of-the-isle-of-lesbos",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Teoctista",
+    "full": "Sfânta Cuvioasă Teoctista",
+    "short": "Teoctista",
+    "given": "Teoctista"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-teoctista",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

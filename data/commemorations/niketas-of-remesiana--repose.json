@@ -1,0 +1,29 @@
+{
+  "id": "niketas-of-remesiana--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:niketas-of-remesiana"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 22
+  },
+  "external_ids": {
+    "oca": "101786"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/22/101786-hieromartyr-niktas-of-remesiana",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "cosmas-of-anne-skete--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:cosmas-of-anne-skete"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 3
+  },
+  "external_ids": {
+    "oca": "103470"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/03/103470-monastic-martyr-cosmas-of-saint-anne-skete-mount-athos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

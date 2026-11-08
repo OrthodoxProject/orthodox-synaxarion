@@ -1,0 +1,29 @@
+{
+  "id": "nativity-of-the-theotokos",
+  "kind": "feast_of_theotokos",
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 8
+  },
+  "default_rank": "great_feast",
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/nasterea-maicii-domnului",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-nasterea-maicii-domnului/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro; de verificat."
+    ]
+  }
+}

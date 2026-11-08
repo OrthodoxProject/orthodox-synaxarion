@@ -1,0 +1,19 @@
+{
+  "id": "micah-coptic",
+  "locale": "en",
+  "names": {
+    "display": "Micah, the Prophet",
+    "given": "Micah"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/12_22.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

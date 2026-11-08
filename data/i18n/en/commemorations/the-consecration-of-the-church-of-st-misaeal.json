@@ -1,0 +1,18 @@
+{
+  "id": "the-consecration-of-the-church-of-st-misaeal",
+  "locale": "en",
+  "names": {
+    "display": "The Consecration of the Church of St. Misaeal (Misayil), the Anchorite"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/4_13.html?lang=en#3",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

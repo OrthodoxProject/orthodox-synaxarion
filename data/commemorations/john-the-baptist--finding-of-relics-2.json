@@ -1,0 +1,39 @@
+{
+  "id": "john-the-baptist--finding-of-relics-2",
+  "kind": "relics_finding",
+  "subjects": [
+    "person:john-the-baptist"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 25
+  },
+  "external_ids": {
+    "oca": "101531"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/treia-aflare-capului-sfantului-ioan-inaintemergatorul-botezatorul-domnului",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-a-treia-aflare-a-capului-sf-proroc-ioan-botezatorul/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/25/101531-third-finding-of-the-honorable-head-of-the-holy-glorious-prophet",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

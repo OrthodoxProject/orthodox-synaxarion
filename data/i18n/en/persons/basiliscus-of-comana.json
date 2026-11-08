@@ -1,0 +1,20 @@
+{
+  "id": "basiliscus-of-comana",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Basiliscus, Bishop of Comana",
+    "short": "Basiliscus, Bishop of Comana",
+    "given": "Basiliscus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/22/101461-martyr-basiliscus-bishop-of-comana",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

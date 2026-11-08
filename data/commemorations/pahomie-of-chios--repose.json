@@ -1,0 +1,26 @@
+{
+  "id": "pahomie-of-chios--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:pahomie-of-chios"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 14
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-pahomie-din-chios",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

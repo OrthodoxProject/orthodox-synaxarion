@@ -1,0 +1,44 @@
+{
+  "id": "onuphrius-the-great--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:onuphrius-the-great"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 12
+  },
+  "external_ids": {
+    "oca": "107799"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-onufrie-cel-mare",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-onufrie-cel-mare-si-petru-athonitul/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/12/107799-venerable-onuphrius-the-great",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/12/101704-venerable-onouphrios-and-auxentios-of-vologda",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

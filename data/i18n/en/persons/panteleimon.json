@@ -1,0 +1,20 @@
+{
+  "id": "panteleimon",
+  "locale": "en",
+  "names": {
+    "display": "Greatmartyr and Healer Panteleimon",
+    "short": "Panteleimon",
+    "given": "Panteleimon"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/27/102099-greatmartyr-and-healer-panteleimon",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

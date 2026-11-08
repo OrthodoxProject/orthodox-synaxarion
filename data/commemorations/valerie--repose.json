@@ -1,0 +1,31 @@
+{
+  "id": "valerie--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:valerie"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 23
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-valerie",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-mare-mc-gheorghe-purtatorul-de-biruinta-sf-mc-valerie/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro; de verificat."
+    ]
+  }
+}

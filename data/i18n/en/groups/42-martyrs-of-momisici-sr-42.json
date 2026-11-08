@@ -1,0 +1,18 @@
+{
+  "id": "42-martyrs-of-momisici-sr-42",
+  "locale": "en",
+  "names": {
+    "display": "Holy 42 Martyrs of Momišići [ sr ] 42"
+  },
+  "references": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

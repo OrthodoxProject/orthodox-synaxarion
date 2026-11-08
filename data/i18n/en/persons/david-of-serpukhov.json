@@ -1,0 +1,20 @@
+{
+  "id": "david-of-serpukhov",
+  "locale": "en",
+  "names": {
+    "display": "Saint David of Serpukhov",
+    "short": "David of Serpukhov",
+    "given": "David"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/18/108927-saint-david-of-serpukhov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

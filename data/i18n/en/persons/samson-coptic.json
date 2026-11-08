@@ -1,0 +1,19 @@
+{
+  "id": "samson-coptic",
+  "locale": "en",
+  "names": {
+    "display": "Samson, One of the Judges of Israel",
+    "given": "Samson"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/7_30.html?lang=en#3",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

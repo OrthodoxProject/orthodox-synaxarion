@@ -1,0 +1,20 @@
+{
+  "id": "philaret-of-moscow",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Filaret, Mitropolitul Moscovei",
+    "short": "Filaret, Mitropolitul Moscovei",
+    "given": "Filaret"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-filaret-mitropolitul-moscovei-kolomnei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

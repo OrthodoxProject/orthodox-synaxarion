@@ -1,0 +1,24 @@
+{
+  "id": "transfiguration-of-our-lord-god",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "righteous"
+  ],
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/06/102215-the-holy-transfiguration-of-our-lord-god-and-savior-jesus-christ",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat.",
+      "Chipul sfințeniei nu reiese din titlu; „righteous” e provizoriu.",
+      "Genul nu reiese din sursă; e de verificat."
+    ]
+  }
+}

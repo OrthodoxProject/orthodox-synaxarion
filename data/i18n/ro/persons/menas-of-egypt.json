@@ -1,0 +1,26 @@
+{
+  "id": "menas-of-egypt",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mare Mc. Mina",
+    "full": "Sfântul Mare Mucenic Mina",
+    "short": "Mina",
+    "given": "Mina"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mare-mucenic-mina",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-mare-mc-mina-sf-mc-victor-vichentie-si-stefanida-sf-cuv-teodor-studitul/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

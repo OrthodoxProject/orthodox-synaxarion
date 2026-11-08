@@ -1,0 +1,23 @@
+{
+  "id": "synaxis-of-the-theotokos",
+  "locale": "ro",
+  "names": {
+    "display": "Soborul Maicii Domnului"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/soborul-maicii-domnului",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-soborul-maicii-domnului-%e2%80%a0-sf-cuv-nicodim-cel-sfintit-de-la-tismana-%e2%80%a0-sf-cuv-mc-gherasim-de-la-tismana/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

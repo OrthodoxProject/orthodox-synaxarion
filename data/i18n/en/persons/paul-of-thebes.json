@@ -1,0 +1,20 @@
+{
+  "id": "paul-of-thebes",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Paul of Thebes",
+    "short": "Paul of Thebes",
+    "given": "Paul"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/15/100196-venerable-paul-of-thebes",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

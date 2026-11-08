@@ -1,0 +1,37 @@
+{
+  "id": "anastasius-of-sinai",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "venerable",
+    "hierarch"
+  ],
+  "external_ids": {
+    "doxologia": "sfantul-cuvios-anastasie-sinaitul",
+    "oca": "101161"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-anastasie-sinaitul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-anastasie-sinaitul-patriarhul-antiohiei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/20/101161-venerable-anastasius-abbot-of-sinai",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, oca.org; de verificat."
+    ]
+  }
+}

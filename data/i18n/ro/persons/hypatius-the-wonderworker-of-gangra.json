@@ -1,0 +1,29 @@
+{
+  "id": "hypatius-the-wonderworker-of-gangra",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Ipatie, Episcopul Gangrei",
+    "full": "Sfântul Sfințit Mucenic Ipatie, Episcopul Gangrei",
+    "short": "Ipatie, Episcopul Gangrei",
+    "given": "Ipatie",
+    "variants": [
+      "Sf. Sfințit Mc. Ipatie, episcopul Gangrei"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-sfintit-mucenic-ipatie-episcopul-gangrei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-sfintit-mc-ipatie-episcopul-gangrei-sf-mc-veniamin-diaconul/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

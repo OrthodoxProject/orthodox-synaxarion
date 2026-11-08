@@ -1,0 +1,20 @@
+{
+  "id": "augustine-of-canterbury",
+  "locale": "en",
+  "names": {
+    "display": "Saint Augustine of Canterbury, Evangelizer of England",
+    "short": "Augustine of Canterbury, Evangelizer of England",
+    "given": "Augustine"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/26/101542-saint-augustine-of-canterbury-evangelizer-of-england",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

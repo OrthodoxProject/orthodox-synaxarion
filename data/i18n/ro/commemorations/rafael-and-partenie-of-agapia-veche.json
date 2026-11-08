@@ -1,0 +1,23 @@
+{
+  "id": "rafael-and-partenie-of-agapia-veche",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Cuvioși Rafael și Partenie de la Agapia Veche"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfintii-cuviosi-rafael-partenie-de-la-agapia-veche",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-rafael-si-partenie-de-la-agapia-veche-sf-cuv-simeon-si-ioan-pustnicul-sf-proroc-iezechiel/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

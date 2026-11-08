@@ -1,0 +1,20 @@
+{
+  "tradition": "ecumenical",
+  "date": "05-10",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:simon-the-zealot--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:philadelphus--repose",
+        "comm:cyprian--repose",
+        "comm:alphius--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

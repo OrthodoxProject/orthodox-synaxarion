@@ -1,0 +1,20 @@
+{
+  "id": "cornelius-of-paleostrov-2",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Cornelius of Paleostrov, Olonets",
+    "short": "Cornelius of Paleostrov, Olonets",
+    "given": "Cornelius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/21/108977-venerable-cornelius-of-paleostrov-olonets",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

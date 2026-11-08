@@ -1,0 +1,21 @@
+{
+  "id": "antioh",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Antioh, doctorul din Antiohia",
+    "full": "Sfântul Mucenic Antioh, doctorul din Antiohia",
+    "short": "Antioh, doctorul din Antiohia",
+    "given": "Antioh"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-antioh-doctorul-din-antiohia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

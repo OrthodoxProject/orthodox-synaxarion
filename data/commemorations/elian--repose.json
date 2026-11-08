@@ -1,0 +1,29 @@
+{
+  "id": "elian--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:elian"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 13
+  },
+  "external_ids": {
+    "oca": "108891"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/13/108891-saint-elian-missionary-to-cornwall-england",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

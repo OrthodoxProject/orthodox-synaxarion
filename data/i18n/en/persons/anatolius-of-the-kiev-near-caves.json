@@ -1,0 +1,28 @@
+{
+  "id": "anatolius-of-the-kiev-near-caves",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Anatolius of the Kiev Near Caves",
+    "short": "Anatolius of the Kiev Near Caves",
+    "given": "Anatolius",
+    "variants": [
+      "Venerable Anatolius the Recluse of the Kiev Far Caves"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/03/101874-venerable-anatolius-of-the-kiev-near-caves",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/03/101875-venerable-anatolius-the-recluse-of-the-kiev-far-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

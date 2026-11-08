@@ -1,0 +1,30 @@
+{
+  "id": "victor-2-and-sosthenes-at-chalcedon",
+  "kind": "repose",
+  "subjects": [
+    "person:victor-2",
+    "person:sosthenes-at-chalcedon"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 16
+  },
+  "external_ids": {
+    "oca": "102630"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/16/102630-martyrs-victor-and-sosthenes-at-chalcedon",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

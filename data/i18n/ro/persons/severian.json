@@ -1,0 +1,21 @@
+{
+  "id": "severian",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Severian",
+    "full": "Sfântul Mucenic Severian",
+    "short": "Severian",
+    "given": "Severian"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-severian",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

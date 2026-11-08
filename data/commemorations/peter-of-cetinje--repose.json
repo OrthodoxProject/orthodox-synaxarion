@@ -1,0 +1,34 @@
+{
+  "id": "peter-of-cetinje--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:peter-of-cetinje"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 18
+  },
+  "external_ids": {
+    "oca": "108067"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/18/108067-saint-peter-of-cetinje",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/russian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org, orthodox-calendar; de verificat."
+    ]
+  }
+}

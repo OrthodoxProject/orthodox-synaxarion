@@ -1,0 +1,39 @@
+{
+  "id": "gerasimus-of-the-jordan--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:gerasimus-of-the-jordan"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 4
+  },
+  "external_ids": {
+    "oca": "100649"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-gherasim-de-la-iordan",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-gherasim-de-la-iordan-sf-mc-pavel-si-sora-sa-iuliana/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/04/100649-venerable-gerasimus-of-the-jordan",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

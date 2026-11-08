@@ -1,0 +1,29 @@
+{
+  "id": "myron-of-crete--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:myron-of-crete"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 20
+  },
+  "external_ids": {
+    "oca": "205344"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/20/205344-new-martyr-myron-of-crete",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

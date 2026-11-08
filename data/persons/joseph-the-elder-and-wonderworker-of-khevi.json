@@ -1,0 +1,32 @@
+{
+  "id": "joseph-the-elder-and-wonderworker-of-khevi",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "venerable",
+    "wonderworker"
+  ],
+  "external_ids": {
+    "doxologia": "sfantul-iosif-din-khevi-georgia",
+    "oca": "103892"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-iosif-din-khevi-georgia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/07/103892-venerable-joseph-the-elder-and-wonderworker-of-khevi-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "tradition": "serbian",
+  "date": "04-18",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:john-3--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:cosmas-of-chalcedon--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:maximov-icon-of-theotokos"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

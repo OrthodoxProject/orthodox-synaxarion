@@ -1,0 +1,24 @@
+{
+  "id": "athanasius-of-thessalonika",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "martyr",
+    "new_martyr"
+  ],
+  "sources": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/russian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din orthodox-calendar; de verificat.",
+      "Genul nu reiese din sursă; e de verificat."
+    ]
+  }
+}

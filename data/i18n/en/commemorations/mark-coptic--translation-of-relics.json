@@ -1,0 +1,18 @@
+{
+  "id": "mark-coptic--translation-of-relics",
+  "locale": "en",
+  "names": {
+    "display": "The Turning Over of the Relics of the Great St. Mark the Apostle by the hand of Pope Paul the Sixth, Pope of Rome"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/10_15.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

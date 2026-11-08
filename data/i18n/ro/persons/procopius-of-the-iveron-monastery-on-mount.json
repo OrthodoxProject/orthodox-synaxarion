@@ -1,0 +1,21 @@
+{
+  "id": "procopius-of-the-iveron-monastery-on-mount",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Procopie",
+    "full": "Sfântul Mucenic Procopie",
+    "short": "Procopie",
+    "given": "Procopie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-procopie",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

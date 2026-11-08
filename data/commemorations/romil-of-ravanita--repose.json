@@ -1,0 +1,26 @@
+{
+  "id": "romil-of-ravanita--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:romil-of-ravanita"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 18
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-romil-de-ravanita",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

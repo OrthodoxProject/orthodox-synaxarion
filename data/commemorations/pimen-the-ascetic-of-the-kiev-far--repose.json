@@ -1,0 +1,29 @@
+{
+  "id": "pimen-the-ascetic-of-the-kiev-far--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:pimen-the-ascetic-of-the-kiev-far"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 8
+  },
+  "external_ids": {
+    "oca": "101330"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/08/101330-venerable-pimen-the-ascetic-of-the-kiev-far-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "theophanes-the-confessor-of-sigriane",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Teofan Mărturisitorul",
+    "full": "Sfântul Cuvios Teofan Mărturisitorul",
+    "short": "Teofan Mărturisitorul",
+    "given": "Teofan"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-teofan-marturisitorul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-teofan-marturisitorul-sf-ier-grigorie-dialogul-episcopul-romei-sf-cuv-simeon-noul-teolog/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

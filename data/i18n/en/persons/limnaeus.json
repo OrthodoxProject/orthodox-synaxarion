@@ -1,0 +1,20 @@
+{
+  "id": "limnaeus",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Limnaeus, Hermit of Syria",
+    "short": "Limnaeus, Hermit of Syria",
+    "given": "Limnaeus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/22/100586-venerable-limnaeus-hermit-of-syria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

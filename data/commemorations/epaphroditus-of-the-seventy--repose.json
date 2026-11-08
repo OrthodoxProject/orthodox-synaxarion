@@ -1,0 +1,29 @@
+{
+  "id": "epaphroditus-of-the-seventy--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:epaphroditus-of-the-seventy"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 30
+  },
+  "external_ids": {
+    "oca": "100950"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/30/100950-apostle-epaphroditus-of-the-seventy",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

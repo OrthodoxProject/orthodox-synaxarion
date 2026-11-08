@@ -1,0 +1,20 @@
+{
+  "id": "mary-2",
+  "locale": "en",
+  "names": {
+    "display": "Righteous Mary, the sisters of Lazarus",
+    "short": "Mary, the sisters of Lazarus",
+    "given": "Mary"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/04/103797-righteous-martha-and-mary-the-sisters-of-lazarus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "eduard",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Eduard, regele Angliei",
+    "full": "Sfântul Mucenic Eduard, regele Angliei",
+    "short": "Eduard, regele Angliei",
+    "given": "Eduard"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-eduard-regele-angliei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

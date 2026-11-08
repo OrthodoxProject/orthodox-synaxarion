@@ -1,0 +1,39 @@
+{
+  "id": "seraphim-of-sarov--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:seraphim-of-sarov"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 2
+  },
+  "external_ids": {
+    "oca": "100008"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-serafim-de-sarov",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/inainte-praznuirea-botezului-domnului-sf-ier-silvestru-episcopul-romei-sf-cuv-serafim-de-sarov/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/02/100008-repose-of-venerable-seraphim-wonderworker-of-sarov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

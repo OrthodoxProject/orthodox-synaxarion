@@ -1,0 +1,20 @@
+{
+  "id": "elizabeth-2",
+  "locale": "en",
+  "names": {
+    "display": "Grand Duchess Elizabeth",
+    "short": "Elizabeth",
+    "given": "Elizabeth"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/18/101915-grand-duchess-elizabeth",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

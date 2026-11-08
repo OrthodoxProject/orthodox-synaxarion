@@ -1,0 +1,28 @@
+{
+  "id": "onesiphorus",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Onesiphorus",
+    "short": "Onesiphorus",
+    "given": "Onesiphorus",
+    "variants": [
+      "Venerable Onesiphorus the Confessor of the Kiev Near Caves"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/09/103252-martyrs-onesiphorus-and-porphyrius-of-ephesus",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/09/103255-venerable-onesiphorus-the-confessor-of-the-kiev-near-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

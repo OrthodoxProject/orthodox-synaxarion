@@ -1,0 +1,20 @@
+{
+  "id": "schema-monk-cyril",
+  "locale": "en",
+  "names": {
+    "display": "Saint Schema-monk Cyril",
+    "short": "Schema-monk Cyril",
+    "given": "Schema-monk"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/28/102755-schema-monk-cyril-and-schema-nun-maria-the-parents-of-saint-serg",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

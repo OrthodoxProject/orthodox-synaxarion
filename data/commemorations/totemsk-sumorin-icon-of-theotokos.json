@@ -1,0 +1,34 @@
+{
+  "id": "totemsk-sumorin-icon-of-theotokos",
+  "kind": "icon",
+  "subjects": [
+    "icon:totemsk-sumorin-icon-of-theotokos"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 28
+  },
+  "external_ids": {
+    "oca": "100334"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoanei-maicii-domnului-totemsk-sumorinskaya",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/28/100334-totemsk-sumorin-icon-of-the-mother-of-god",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, oca.org; de verificat."
+    ]
+  }
+}

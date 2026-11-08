@@ -1,0 +1,20 @@
+{
+  "id": "menodora",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Menodora",
+    "short": "Menodora",
+    "given": "Menodora"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/10/102557-martyrs-menodora-metrodora-and-nymphodora-at-nicomedia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

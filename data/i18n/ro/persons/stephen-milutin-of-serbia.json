@@ -1,0 +1,21 @@
+{
+  "id": "stephen-milutin-of-serbia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ștefan Milutin, țarul sârbilor",
+    "full": "Sfântul Ștefan Milutin, țarul sârbilor",
+    "short": "Ștefan Milutin, țarul sârbilor",
+    "given": "Ștefan"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-stefan-milutin-tarul-sarbilor",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

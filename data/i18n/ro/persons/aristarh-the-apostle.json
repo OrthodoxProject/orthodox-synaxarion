@@ -1,0 +1,21 @@
+{
+  "id": "aristarh-the-apostle",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ap. Aristarh",
+    "full": "Sfântul Apostol Aristarh",
+    "short": "Aristarh",
+    "given": "Aristarh"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-apostol-aristarh",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "peter-6",
+  "locale": "en",
+  "names": {
+    "display": "Hierarch Peter, first Catholicos of Georgia",
+    "short": "Peter, first Catholicos of Georgia",
+    "given": "Peter"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/30/205466-hierarch-peter-first-catholicos-of-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "irina-of-lesvos--finding-of-relics",
+  "kind": "relics_finding",
+  "subjects": [
+    "person:irina-of-lesvos"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 12
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/aflarea-moastelor-sfintei-mucenite-irina-din-lesvos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "menas-of-polotsk",
+  "locale": "en",
+  "names": {
+    "display": "Saint Menas, Bishop of Polotsk",
+    "short": "Menas, Bishop of Polotsk",
+    "given": "Menas"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/20/101771-saint-menas-bishop-of-polotsk",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

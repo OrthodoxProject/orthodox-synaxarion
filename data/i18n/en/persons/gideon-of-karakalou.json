@@ -1,0 +1,20 @@
+{
+  "id": "gideon-of-karakalou",
+  "locale": "en",
+  "names": {
+    "display": "Monastic Martyr Gideon of Karakalou, Mount Athos",
+    "short": "Gideon of Karakalou, Mount Athos",
+    "given": "Gideon"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/30/103697-monastic-martyr-gideon-of-karakalou-mount-athos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

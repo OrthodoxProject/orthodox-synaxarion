@@ -1,0 +1,36 @@
+{
+  "tradition": "ecumenical",
+  "date": "01-14",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:savva-i--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:fathers-slain-at-sinai-and-raithu"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:nino-of-georgia--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:platon--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:theophany--leavetaking"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

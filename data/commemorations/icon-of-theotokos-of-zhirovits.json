@@ -1,0 +1,29 @@
+{
+  "id": "icon-of-theotokos-of-zhirovits",
+  "kind": "icon",
+  "subjects": [
+    "icon:icon-of-theotokos-of-zhirovits"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 7
+  },
+  "external_ids": {
+    "oca": "101325"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/07/101325-icon-of-the-mother-of-god-of-zhirovits",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

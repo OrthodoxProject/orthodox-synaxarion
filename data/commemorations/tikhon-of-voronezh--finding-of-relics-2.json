@@ -1,0 +1,29 @@
+{
+  "id": "tikhon-of-voronezh--finding-of-relics-2",
+  "kind": "relics_finding",
+  "subjects": [
+    "person:tikhon-of-voronezh"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 13
+  },
+  "external_ids": {
+    "oca": "102294"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/13/102294-second-finding-of-the-relics-of-saint-tikhon-wonderworker-of-zad",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

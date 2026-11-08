@@ -1,0 +1,20 @@
+{
+  "id": "macarius-of-ovruch",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Macarius, Archimandrite of Ovruch",
+    "short": "Macarius, Archimandrite of Ovruch",
+    "given": "Macarius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/13/101366-venerable-macarius-archimandrite-of-ovruch",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

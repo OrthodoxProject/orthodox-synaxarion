@@ -1,0 +1,31 @@
+{
+  "id": "iraclie-of-basarabia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:iraclie-of-basarabia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 3
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-marturisitor-iraclie-din-basarabia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-marturisitor-iraclie-din-basarabia-sf-cuv-isaachie-dalmat-si-faust-sf-mironosita-salomeea-sf-cuv-teodora-din-tesalonic/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro; de verificat."
+    ]
+  }
+}

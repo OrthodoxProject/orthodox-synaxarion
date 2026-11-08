@@ -1,0 +1,25 @@
+{
+  "id": "augustine-of-hippo",
+  "locale": "ro",
+  "names": {
+    "display": "Fericitul Augustin",
+    "short": "Augustin",
+    "given": "Augustin"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/fericitul-augustin",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-proroc-amos-%e2%80%a0-sf-mc-isihie-fericitii-augustin-si-ieronim-dezlegare-la-peste/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

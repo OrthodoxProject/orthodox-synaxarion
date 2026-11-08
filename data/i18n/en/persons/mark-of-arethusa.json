@@ -1,0 +1,20 @@
+{
+  "id": "mark-of-arethusa",
+  "locale": "en",
+  "names": {
+    "display": "Hieromartyr Mark, Bishop of Arethusa, who suffered under Julian the Apostate",
+    "short": "Mark, Bishop of Arethusa, who suffered under Julian the Apostate",
+    "given": "Mark"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/29/100936-hieromartyr-mark-bishop-of-arethusa-who-suffered-under-julian-th",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

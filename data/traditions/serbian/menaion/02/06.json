@@ -1,0 +1,36 @@
+{
+  "tradition": "serbian",
+  "date": "02-06",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:bucolus-of-smyrna--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:photius-of-constantinople--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:barsanuphius-the-great--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:julian-of-emesa--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:arsenius-of-iqalto--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

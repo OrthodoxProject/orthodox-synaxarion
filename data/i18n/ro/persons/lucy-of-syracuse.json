@@ -1,0 +1,29 @@
+{
+  "id": "lucy-of-syracuse",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Lucia, fecioara",
+    "full": "Sfânta Muceniță Lucia, fecioara",
+    "short": "Lucia, fecioara",
+    "given": "Lucia",
+    "variants": [
+      "Sf. Mc. Lucia din Siracuza"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-lucia-fecioara",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ier-dosoftei-mitropolitul-moldovei-%e2%80%a0-sf-mari-mc-eustratie-auxentie-evghenie-mardarie-si-orest-sf-mc-lucia-din-siracuza-dezlegare-la-peste-duminica-a-28-a-dupa-rusa/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "theodosios-the-younger",
+  "locale": "en",
+  "names": {
+    "display": "Emperor Theodosios the Younger",
+    "short": "Theodosios the Younger",
+    "given": "Theodosios"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/29/100346-emperor-theodosios-the-younger",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

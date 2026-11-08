@@ -1,0 +1,24 @@
+{
+  "tradition": "serbian",
+  "date": "04-30",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:james-the-brother-of-john-the-theologian--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:ignatius-brianchaninov-of-caucasus--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:argyra--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

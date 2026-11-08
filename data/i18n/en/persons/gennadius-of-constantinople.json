@@ -1,0 +1,20 @@
+{
+  "id": "gennadius-of-constantinople",
+  "locale": "en",
+  "names": {
+    "display": "Saint Gennadius, Patriarch of Constantinople",
+    "short": "Gennadius, Patriarch of Constantinople",
+    "given": "Gennadius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/31/102444-saint-gennadius-patriarch-of-constantinople",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

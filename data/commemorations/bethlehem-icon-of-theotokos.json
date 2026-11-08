@@ -1,0 +1,29 @@
+{
+  "id": "bethlehem-icon-of-theotokos",
+  "kind": "icon",
+  "subjects": [
+    "icon:bethlehem-icon-of-theotokos"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 26
+  },
+  "external_ids": {
+    "oca": "108175"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/26/108175-bethlehem-icon-of-the-mother-of-god",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

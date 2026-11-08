@@ -1,0 +1,30 @@
+{
+  "id": "manuel-3-and-theodosius",
+  "kind": "repose",
+  "subjects": [
+    "person:manuel-3",
+    "person:theodosius"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 27
+  },
+  "external_ids": {
+    "oca": "100914"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/27/100914-martyrs-manuel-and-theodosius",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

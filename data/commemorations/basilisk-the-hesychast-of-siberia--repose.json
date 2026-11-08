@@ -1,0 +1,29 @@
+{
+  "id": "basilisk-the-hesychast-of-siberia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:basilisk-the-hesychast-of-siberia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 29
+  },
+  "external_ids": {
+    "oca": "100304"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/29/100304-venerable-basilisk-the-hesychast-of-siberia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

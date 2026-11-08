@@ -1,0 +1,30 @@
+{
+  "id": "stanislav-of-licka-jesenica--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:stanislav-of-licka-jesenica"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 17
+  },
+  "sources": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Stanislav_of_Li%C4%8Dka_Jesenica"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din orthodox-calendar, Wikipedia; de verificat."
+    ]
+  }
+}

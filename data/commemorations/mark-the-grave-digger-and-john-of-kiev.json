@@ -1,0 +1,30 @@
+{
+  "id": "mark-the-grave-digger-and-john-of-kiev",
+  "kind": "repose",
+  "subjects": [
+    "person:mark-the-grave-digger",
+    "person:john-of-kiev"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 29
+  },
+  "external_ids": {
+    "oca": "103684"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/29/103684-venerable-mark-the-grave-digger-theophilus-and-john-of-the-kiev",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

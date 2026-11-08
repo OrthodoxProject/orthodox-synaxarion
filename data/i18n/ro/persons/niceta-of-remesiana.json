@@ -1,0 +1,26 @@
+{
+  "id": "niceta-of-remesiana",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Niceta de Remesiana",
+    "full": "Sfântul Ierarh Niceta de Remesiana",
+    "short": "Niceta de Remesiana",
+    "given": "Niceta"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-niceta-de-remesiana",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-nasterea-sf-proroc-ioan-botezatorul-sanzienele-sau-dragaica-%e2%80%a0-aducerea-moastelor-sf-mare-mc-ioan-cel-nou-de-la-suceava-%e2%80%a0-sf-ier-niceta-de-remesiana-dezlegare-la-p/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "nun-martyr-barbara--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:nun-martyr-barbara"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 18
+  },
+  "external_ids": {
+    "oca": "101916"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/18/101916-nun-martyr-barbara",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

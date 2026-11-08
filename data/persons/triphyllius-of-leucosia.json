@@ -1,0 +1,36 @@
+{
+  "id": "triphyllius-of-leucosia",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "hierarch"
+  ],
+  "external_ids": {
+    "doxologia": "sfantul-ierarh-trifilie-episcopul-levcosiei-din-cipru",
+    "oca": "101713"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-trifilie-episcopul-levcosiei-din-cipru",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-achilina-sf-ier-trifilie-episcopul-lefcosiei-din-cipru-dezlegare-la-peste/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/13/101713-saint-triphyllius-bishop-of-leucosia-nicosia-cyprus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

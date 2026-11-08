@@ -1,0 +1,21 @@
+{
+  "id": "gelasius",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Ghelasie",
+    "full": "Sfântul Mucenic Ghelasie",
+    "short": "Ghelasie",
+    "given": "Ghelasie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-ghelasie",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

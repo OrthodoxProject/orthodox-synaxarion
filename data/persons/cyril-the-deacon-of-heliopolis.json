@@ -1,0 +1,36 @@
+{
+  "id": "cyril-the-deacon-of-heliopolis",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "hieromartyr"
+  ],
+  "external_ids": {
+    "doxologia": "sfantul-sfintit-mucenic-chiril-diaconul",
+    "oca": "100937"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-sfintit-mucenic-chiril-diaconul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-sfintiti-mc-marcu-episcopul-aretuselor-si-chiril-diaconul-sf-mc-iona-si-varahisie-sf-ier-diadoh-episcopul-foticeei-duminica-a-5-a-din-post-a-sf-cuv-maria-egipteanca-ap-evrei-9-11/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/29/100937-martyr-cyril-the-deacon-of-heliopolis-and-those-with-him-who-suf",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

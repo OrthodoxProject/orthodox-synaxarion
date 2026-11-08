@@ -1,0 +1,29 @@
+{
+  "id": "arethas",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mare Mc. Areta",
+    "full": "Sfântul Mare Mucenic Areta",
+    "short": "Areta",
+    "given": "Areta",
+    "variants": [
+      "Sf. Mare Mucenic Areta"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mare-mucenic-areta",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mare-mucenic-areta-sf-mc-marcu-sotirih-si-valentin/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

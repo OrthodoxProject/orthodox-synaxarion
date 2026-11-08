@@ -1,0 +1,26 @@
+{
+  "id": "urban-the-apostle",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ap. Urban",
+    "full": "Sfântul Apostol Urban",
+    "short": "Urban",
+    "given": "Urban"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-apostol-urban",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ap-apelie-stahie-amplie-urban-aristobul-si-narcis-sf-mc-epimah/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "macarius-the-great-of-egypt--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:macarius-the-great-of-egypt"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 19
+  },
+  "external_ids": {
+    "oca": "100226"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-macarie-egipteanul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/19/100226-venerable-macarius-the-great-of-egypt",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "euphrosynos",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Euphrosynos, Igoumen of Pskov",
+    "short": "Euphrosynos, Igoumen of Pskov",
+    "given": "Euphrosynos"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/15/101390-venerable-euphrosynos-igoumen-of-pskov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

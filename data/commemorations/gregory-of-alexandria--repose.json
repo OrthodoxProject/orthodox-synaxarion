@@ -1,0 +1,29 @@
+{
+  "id": "gregory-of-alexandria--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:gregory-of-alexandria"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 5
+  },
+  "external_ids": {
+    "oca": "103184"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/05/103184-saint-gregory-archbishop-of-alexandria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

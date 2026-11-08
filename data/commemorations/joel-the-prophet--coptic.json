@@ -1,0 +1,35 @@
+{
+  "id": "joel-the-prophet--coptic",
+  "kind": "repose",
+  "subjects": [
+    "person:joel-the-prophet"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 21,
+    "calendar": "coptic"
+  },
+  "external_ids": {
+    "copticchurch": "2_21#3"
+  },
+  "sources": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/2_21.html?lang=en#3",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:st-takla-synaxarium",
+      "url": "https://st-takla.org/books/en/church/synaxarium/02-babah/21-baba-joel.html",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din copticchurch.net, st-takla.org; de verificat."
+    ]
+  }
+}

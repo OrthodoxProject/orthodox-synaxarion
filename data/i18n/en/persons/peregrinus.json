@@ -1,0 +1,20 @@
+{
+  "id": "peregrinus",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Peregrinus",
+    "short": "Peregrinus",
+    "given": "Peregrinus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/07/101953-martyrs-peregrinus-lucian-ompeius-hesychius-papius-saturninus-an",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

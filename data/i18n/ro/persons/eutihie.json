@@ -1,0 +1,26 @@
+{
+  "id": "eutihie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Eutihie",
+    "full": "Sfântul Sfințit Mucenic Eutihie",
+    "short": "Eutihie",
+    "given": "Eutihie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-sfintit-mucenic-eutihie",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-sfintit-mc-eutihie-sf-mc-tation/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

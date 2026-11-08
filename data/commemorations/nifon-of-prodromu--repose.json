@@ -1,0 +1,26 @@
+{
+  "id": "nifon-of-prodromu--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:nifon-of-prodromu"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 13
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-nifon-de-la-prodromu",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

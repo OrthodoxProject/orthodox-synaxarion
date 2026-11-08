@@ -1,0 +1,31 @@
+{
+  "id": "crescent--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:crescent"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 15
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-crescent",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ap-aristarh-pud-si-trofim-sf-mc-crescent-harti/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro; de verificat."
+    ]
+  }
+}

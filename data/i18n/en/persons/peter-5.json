@@ -1,0 +1,20 @@
+{
+  "id": "peter-5",
+  "locale": "en",
+  "names": {
+    "display": "Saint Peter",
+    "short": "Peter",
+    "given": "Peter"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/10/102567-saints-peter-and-paul-bishops-of-nicaea",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

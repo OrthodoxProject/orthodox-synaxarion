@@ -1,0 +1,20 @@
+{
+  "id": "euphrosyne-of-polotsk",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Euphrosyne, Abbess of Polotsk",
+    "short": "Euphrosyne, Abbess of Polotsk",
+    "given": "Euphrosyne"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/23/101499-venerable-euphrosyne-abbess-of-polotsk",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

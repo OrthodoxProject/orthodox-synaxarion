@@ -1,0 +1,39 @@
+{
+  "id": "cyrus--translation-of-relics",
+  "kind": "relics_translation",
+  "subjects": [
+    "person:cyrus"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 28
+  },
+  "external_ids": {
+    "oca": "101834"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/aducerea-moastelor-sfintilor-mucenici-doctori-fara-de-arginti-chir-ioan",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/aducerea-moastelor-sf-mc-doctori-fara-de-arginti-chir-si-ioan-dezlegare-la-peste-duminica-a-4-a-dupa-rusalii-ap-romani-6-18-23-ev-matei-8-5-13-vindecarea-slugii-sutasului-glas-3-voscr/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/28/101834-translation-of-the-relics-of-the-holy-and-wonderworking-unmercen",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

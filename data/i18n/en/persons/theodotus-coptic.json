@@ -1,0 +1,20 @@
+{
+  "id": "theodotus-coptic",
+  "locale": "en",
+  "names": {
+    "display": "Saint Theodotus, the bishop",
+    "short": "Theodotus, the bishop",
+    "given": "Theodotus"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/7_6.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

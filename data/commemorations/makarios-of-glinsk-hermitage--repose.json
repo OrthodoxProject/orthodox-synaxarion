@@ -1,0 +1,29 @@
+{
+  "id": "makarios-of-glinsk-hermitage--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:makarios-of-glinsk-hermitage"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 21
+  },
+  "external_ids": {
+    "oca": "100352"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/21/100352-saint-makarios-of-glinsk-hermitage",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

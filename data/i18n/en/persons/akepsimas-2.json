@@ -1,0 +1,20 @@
+{
+  "id": "akepsimas-2",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Akepsimas",
+    "short": "Akepsimas",
+    "given": "Akepsimas"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/11/103523-martyrs-akepsimas-and-aithalas-of-egypt",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "nine-martyrs-at-cyzicus",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții 9 Mucenici din Cizic"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfintii-9-mucenici-din-cizic",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

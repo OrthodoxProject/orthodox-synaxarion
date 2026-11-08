@@ -1,0 +1,20 @@
+{
+  "id": "julitta",
+  "locale": "en",
+  "names": {
+    "display": "Saint Julitta",
+    "short": "Julitta",
+    "given": "Julitta"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/15/102041-saint-quiricus-krykos-and-his-mother-julitta",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

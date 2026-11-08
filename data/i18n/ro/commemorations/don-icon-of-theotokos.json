@@ -1,0 +1,18 @@
+{
+  "id": "don-icon-of-theotokos",
+  "locale": "ro",
+  "names": {
+    "display": "Cinstirea Sfintei Icoane a Maicii Domnului din Don"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoane-maicii-domnului-din-don",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

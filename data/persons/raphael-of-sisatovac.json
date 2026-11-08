@@ -1,0 +1,31 @@
+{
+  "id": "raphael-of-sisatovac",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "hieromartyr"
+  ],
+  "external_ids": {
+    "oca": "205316"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/21/205316-hieromartyr-raphael-of-sisatovac",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org, orthodox-calendar; de verificat.",
+      "Genul nu reiese din sursă; e de verificat."
+    ]
+  }
+}

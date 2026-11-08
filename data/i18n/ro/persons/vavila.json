@@ -1,0 +1,21 @@
+{
+  "id": "vavila",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Vavila",
+    "full": "Sfântul Mucenic Vavila",
+    "short": "Vavila",
+    "given": "Vavila"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-vavila",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

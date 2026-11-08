@@ -1,0 +1,31 @@
+{
+  "id": "alexie--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:alexie"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 17
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-alexie-omul-lui-dumnezeu",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-alexie-omul-lui-dumnezeu/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro; de verificat."
+    ]
+  }
+}

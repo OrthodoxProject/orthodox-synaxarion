@@ -1,0 +1,21 @@
+{
+  "id": "hristofor-papoulakos",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Hristofor Papoulakos",
+    "full": "Sfântul Cuvios Hristofor Papoulakos",
+    "short": "Hristofor Papoulakos",
+    "given": "Hristofor"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-hristofor-papoulakos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "michael",
+  "locale": "en",
+  "names": {
+    "display": "Holy Martyr and Confessor Michael and his councilor, Theodore, Wonderworkers of Chernigov",
+    "short": "Michael, his councilor, Theodore, Wonderworkers of Chernigov",
+    "given": "Michael"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/20/102678-holy-martyr-and-confessor-michael-and-his-councilor-theodore-won",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

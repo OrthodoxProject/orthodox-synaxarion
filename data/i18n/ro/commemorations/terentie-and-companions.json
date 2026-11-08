@@ -1,0 +1,23 @@
+{
+  "id": "terentie-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici Terentie, Pompie, African, Maxim, Macarie și Dima"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfintii-mucenici-terentie-pompie-african-maxim-macarie-dima",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sfanta-si-marea-vineri-zi-aliturgica-denia-prohodului-domnului-sf-mc-terentie-pompei-african-maxim-si-dima/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

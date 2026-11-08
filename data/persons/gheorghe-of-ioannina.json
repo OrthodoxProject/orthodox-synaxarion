@@ -1,0 +1,26 @@
+{
+  "id": "gheorghe-of-ioannina",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "new_martyr",
+    "martyr"
+  ],
+  "external_ids": {
+    "doxologia": "sfantul-noul-mucenic-gheorghe-din-ioannina"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-noul-mucenic-gheorghe-din-ioannina",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

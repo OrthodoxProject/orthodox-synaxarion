@@ -1,0 +1,20 @@
+{
+  "id": "aquila-of-kiev-caves",
+  "locale": "en",
+  "names": {
+    "display": "Saint Aquila, Deacon, of the Kiev Caves",
+    "short": "Aquila, Deacon, of the Kiev Caves",
+    "given": "Aquila"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/04/100090-saint-aquila-deacon-of-the-kiev-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

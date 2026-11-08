@@ -1,0 +1,26 @@
+{
+  "id": "john-maximovitch-of-shanghai",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ioan Maximovici",
+    "full": "Sfântul Ierarh Ioan Maximovici",
+    "short": "Ioan Maximovici",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-ioan-maximovici",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/asezarea-vesmantului-nascatoarei-de-dumnezeu-in-biserica-vlaherne-%e2%80%a0-sf-voievod-stefan-cel-mare-sf-ier-iuvenalie-arhiepiscopul-ierusalimului-sf-ier-ioan-maximovici/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

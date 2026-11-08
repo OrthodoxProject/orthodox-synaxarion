@@ -1,0 +1,37 @@
+{
+  "tradition": "ecumenical",
+  "date": "01-04",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:synaxis-of-seventy-apostles"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:theoctistus-of-kucumia-siciliei--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:zosimus-the-hermit--repose",
+        "comm:athanasius-the-commentarisius-of-cilicia--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:nikephoros-the-leper--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:euthymius--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

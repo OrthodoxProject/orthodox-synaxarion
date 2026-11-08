@@ -1,0 +1,20 @@
+{
+  "id": "maximus-the-new",
+  "locale": "en",
+  "names": {
+    "display": "Saint Maximus the New",
+    "short": "Maximus the New",
+    "given": "Maximus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/18/109029-saint-maximus-the-new",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

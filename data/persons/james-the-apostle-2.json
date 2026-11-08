@@ -1,0 +1,26 @@
+{
+  "id": "james-the-apostle-2",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "apostle"
+  ],
+  "external_ids": {
+    "oca": "103039"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/23/103039-apostle-james-the-brother-of-the-lord",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat.",
+      "Genul nu reiese din sursă; e de verificat."
+    ]
+  }
+}

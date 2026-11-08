@@ -1,0 +1,21 @@
+{
+  "id": "suniva-of-norvegia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Suniva din Norvegia",
+    "full": "Sfânta Muceniță Suniva din Norvegia",
+    "short": "Suniva din Norvegia",
+    "given": "Suniva"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-suniva-din-norvegia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

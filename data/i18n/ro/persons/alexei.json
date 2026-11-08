@@ -1,0 +1,21 @@
+{
+  "id": "alexei",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Alexie (Kabaliuk) Carpatinul",
+    "full": "Sfântul Cuvios Alexie (Kabaliuk) Carpatinul",
+    "short": "Alexie (Kabaliuk) Carpatinul",
+    "given": "Alexie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-alexie-kabaliuk-carpatinul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

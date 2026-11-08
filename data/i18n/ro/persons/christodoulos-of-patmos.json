@@ -1,0 +1,26 @@
+{
+  "id": "christodoulos-of-patmos",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Hristodul din Patmos",
+    "full": "Sfântul Cuvios Hristodul din Patmos",
+    "short": "Hristodul din Patmos",
+    "given": "Hristodul"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-hristodul-din-patmos",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-sabin-egipteanul-sf-cuv-hristodul-din-patmos/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

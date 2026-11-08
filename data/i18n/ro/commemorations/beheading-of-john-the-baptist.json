@@ -1,0 +1,23 @@
+{
+  "id": "beheading-of-john-the-baptist",
+  "locale": "ro",
+  "names": {
+    "display": "Tăierea Capului Sfântului Proroc Ioan Botezătorul"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/taierea-capului-sfantului-proroc-ioan-botezatorul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-taierea-capului-sf-proroc-ioan-botezatorul-post/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

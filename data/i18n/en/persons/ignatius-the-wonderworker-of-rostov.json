@@ -1,0 +1,20 @@
+{
+  "id": "ignatius-the-wonderworker-of-rostov",
+  "locale": "en",
+  "names": {
+    "display": "Saint Ignatius the Wonderworker, Bishop of Rostov",
+    "short": "Ignatius the Wonderworker, Bishop of Rostov",
+    "given": "Ignatius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/28/101554-saint-ignatius-the-wonderworker-bishop-of-rostov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

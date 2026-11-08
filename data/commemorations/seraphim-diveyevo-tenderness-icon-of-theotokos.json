@@ -1,0 +1,29 @@
+{
+  "id": "seraphim-diveyevo-tenderness-icon-of-theotokos",
+  "kind": "icon",
+  "subjects": [
+    "icon:seraphim-diveyevo-tenderness-icon-of-theotokos"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 28
+  },
+  "external_ids": {
+    "oca": "102122"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/28/102122-seraphim-diveyevo-tenderness-icon-of-the-mother-of-god",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

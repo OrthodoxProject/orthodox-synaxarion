@@ -1,0 +1,20 @@
+{
+  "id": "sedhom-bishay-in-domiat",
+  "locale": "en",
+  "names": {
+    "display": "Saint Sedhom Bishay in Domiat",
+    "short": "Sedhom Bishay in Domiat",
+    "given": "Sedhom"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/7_17.html?lang=en#4",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

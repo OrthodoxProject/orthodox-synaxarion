@@ -1,0 +1,24 @@
+{
+  "id": "martyrs-julian-and-companions",
+  "kind": "martyrs",
+  "holiness_types": [
+    "martyr"
+  ],
+  "external_ids": {
+    "oca": "100123"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/08/100123-martyrs-julian-and-his-wife-basilissa-and-those-with-them-in-egy",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

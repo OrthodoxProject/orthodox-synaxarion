@@ -1,0 +1,29 @@
+{
+  "id": "parthenios-of-lampsakos",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Partenie, Episcopul Lampsacului",
+    "full": "Sfântul Ierarh Partenie, Episcopul Lampsacului",
+    "short": "Partenie, Episcopul Lampsacului",
+    "given": "Partenie",
+    "variants": [
+      "Sf. Ier. Partenie, episcopul Lampsacului"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-partenie-episcopul-lampsacului",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ier-partenie-episcopul-lampsacului-sf-cuv-luca-din-elada/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

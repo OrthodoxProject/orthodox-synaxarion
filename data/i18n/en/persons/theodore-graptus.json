@@ -1,0 +1,20 @@
+{
+  "id": "theodore-graptus",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Theodore Graptus, “the branded,” Confessor",
+    "short": "Theodore Graptus, \"the branded, \" Confessor",
+    "given": "Theodore"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/27/103660-venerable-theodore-graptus-the-branded-confessor",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

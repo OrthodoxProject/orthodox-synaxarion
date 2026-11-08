@@ -1,0 +1,36 @@
+{
+  "id": "mark-of-ephesus",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "hierarch"
+  ],
+  "external_ids": {
+    "doxologia": "sfantul-ierarh-marcu-mitropolitul-efesului",
+    "oca": "100228"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-marcu-mitropolitul-efesului",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-macarie-cel-mare-si-macarie-alexandrinul-sf-ier-marcu-mitropolitul-efesului-sf-mc-eufrasia-duminica-a-29-a-dupa-rusalii-apostolul-duminicii-a-28-a-coloseni-1-12-18-ev-luca-17-1/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/19/100228-saint-mark-archbishop-of-ephesus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

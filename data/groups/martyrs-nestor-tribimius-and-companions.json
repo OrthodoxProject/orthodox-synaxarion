@@ -1,0 +1,24 @@
+{
+  "id": "martyrs-nestor-tribimius-and-companions",
+  "kind": "martyrs",
+  "holiness_types": [
+    "martyr"
+  ],
+  "external_ids": {
+    "oca": "100627"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/01/100627-martyrs-nestor-tribimius-and-those-with-them",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

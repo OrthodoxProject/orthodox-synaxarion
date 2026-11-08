@@ -1,0 +1,26 @@
+{
+  "id": "helen",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Elena",
+    "full": "Sfânta Muceniță Elena",
+    "short": "Elena",
+    "given": "Elena"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-elena",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ap-carp-si-alfeu-sf-mc-averchie-si-elena/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

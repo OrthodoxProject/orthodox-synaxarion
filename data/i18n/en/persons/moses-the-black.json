@@ -1,0 +1,20 @@
+{
+  "id": "moses-the-black",
+  "locale": "en",
+  "names": {
+    "display": "Great Saint Anba Moses the Black",
+    "short": "Moses the Black",
+    "given": "Moses"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/10_24.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

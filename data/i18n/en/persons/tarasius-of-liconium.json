@@ -1,0 +1,20 @@
+{
+  "id": "tarasius-of-liconium",
+  "locale": "en",
+  "names": {
+    "display": "Righteous Tarasius of Liconium",
+    "short": "Tarasius of Liconium",
+    "given": "Tarasius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/09/100749-righteous-tarasius-of-liconium",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

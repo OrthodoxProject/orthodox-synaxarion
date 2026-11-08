@@ -1,0 +1,20 @@
+{
+  "id": "helen",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Helen, children of the Apostle Alphæus",
+    "short": "Helen, children of the Apostle Alphæus",
+    "given": "Helen"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/26/101539-martyrs-abercius-and-helen-children-of-the-apostle-alphus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "parthena",
+  "kind": "saint",
+  "gender": "female",
+  "holiness_types": [
+    "virgin",
+    "martyr"
+  ],
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/12/100098-virgin-martyrs-neollina-domnina-and-parthena",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

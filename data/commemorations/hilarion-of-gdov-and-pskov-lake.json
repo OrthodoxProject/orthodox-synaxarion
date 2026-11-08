@@ -1,0 +1,30 @@
+{
+  "id": "hilarion-of-gdov-and-pskov-lake",
+  "kind": "repose",
+  "subjects": [
+    "person:hilarion-of-gdov",
+    "person:pskov-lake"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 21
+  },
+  "external_ids": {
+    "oca": "103012"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/21/103012-venerable-hilarion-abbot-of-gdov-and-pskov-lake",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

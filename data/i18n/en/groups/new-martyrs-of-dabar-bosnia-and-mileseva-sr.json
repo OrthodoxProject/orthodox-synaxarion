@@ -1,0 +1,18 @@
+{
+  "id": "new-martyrs-of-dabar-bosnia-and-mileseva-sr",
+  "locale": "en",
+  "names": {
+    "display": "New Martyrs of Dabar-Bosnia and Mileševa [ sr ]"
+  },
+  "references": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

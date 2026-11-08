@@ -1,0 +1,20 @@
+{
+  "id": "mark-the-apostle",
+  "locale": "en",
+  "names": {
+    "display": "Apostle and Evangelist Mark",
+    "short": "Mark",
+    "given": "Mark"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/25/101204-apostle-and-evangelist-mark",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

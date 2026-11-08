@@ -1,0 +1,34 @@
+{
+  "id": "100-000-martyrs-of-tbilisi-by-the-mongols",
+  "kind": "martyrs",
+  "count": {
+    "value": 100000,
+    "precision": "exact"
+  },
+  "holiness_types": [
+    "martyr"
+  ],
+  "external_ids": {
+    "doxologia": "cei-o-suta-de-mii-de-mucenici-din-tbilisi-georgia",
+    "oca": "103901"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cei-o-suta-de-mii-de-mucenici-din-tbilisi-georgia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/31/103901-100000-martyrs-of-tbilisi-by-the-mongols",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, oca.org; de verificat."
+    ]
+  }
+}

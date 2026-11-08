@@ -1,0 +1,20 @@
+{
+  "id": "theodosius-of-trnovo",
+  "locale": "en",
+  "names": {
+    "display": "Saint Theodosius of Trnovo",
+    "short": "Theodosius of Trnovo",
+    "given": "Theodosius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/27/108029-saint-theodosius-of-trnovo",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

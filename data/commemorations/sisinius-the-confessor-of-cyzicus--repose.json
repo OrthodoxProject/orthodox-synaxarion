@@ -1,0 +1,29 @@
+{
+  "id": "sisinius-the-confessor-of-cyzicus--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:sisinius-the-confessor-of-cyzicus"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 23
+  },
+  "external_ids": {
+    "oca": "103379"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/23/103379-sisinius-the-confessor-bishop-of-cyzicus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

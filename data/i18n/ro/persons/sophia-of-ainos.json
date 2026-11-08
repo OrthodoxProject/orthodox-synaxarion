@@ -1,0 +1,21 @@
+{
+  "id": "sophia-of-ainos",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Sofia",
+    "full": "Sfânta Cuvioasă Sofia",
+    "short": "Sofia",
+    "given": "Sofia"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-sofia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

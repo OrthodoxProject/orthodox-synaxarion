@@ -1,0 +1,20 @@
+{
+  "id": "tychicus-the-apostle",
+  "locale": "en",
+  "names": {
+    "display": "Holy Apostle Tychicus",
+    "short": "Tychicus",
+    "given": "Tychicus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/08/103496-holy-apostles-of-the-seventy-sosthenes-apollos-cephas-tychicus-e",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

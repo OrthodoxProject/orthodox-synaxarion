@@ -1,0 +1,30 @@
+{
+  "id": "athanasius-of-great-lavra-and-coenobitic-monasticism-on-mount-athos",
+  "kind": "repose",
+  "subjects": [
+    "person:athanasius-of-great-lavra",
+    "person:coenobitic-monasticism-on-mount-athos"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 5
+  },
+  "external_ids": {
+    "oca": "101908"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/05/101908-venerable-athanasius-founder-of-the-great-lavra-and-coenobitic-m",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

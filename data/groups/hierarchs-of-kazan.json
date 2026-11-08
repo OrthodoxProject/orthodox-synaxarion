@@ -1,0 +1,24 @@
+{
+  "id": "hierarchs-of-kazan",
+  "kind": "other",
+  "holiness_types": [
+    "hierarch"
+  ],
+  "external_ids": {
+    "oca": "102852"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/04/102852-synaxis-of-the-hierarchs-of-kazan",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "joannicius-of-serbia",
+  "locale": "en",
+  "names": {
+    "display": "Hieromartyr Joannicius of Serbia",
+    "short": "Joannicius of Serbia",
+    "given": "Joannicius",
+    "variants": [
+      "Saint Joannicius, first Patriarch of Serbia",
+      "Joannicius II of Serbia Ј"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/04/108048-hieromartyr-joannicius-of-serbia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/03/102484-saint-joannicius-first-patriarch-of-serbia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

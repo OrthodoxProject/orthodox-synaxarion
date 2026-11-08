@@ -1,0 +1,29 @@
+{
+  "id": "peter-of-sebaste",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Petru al Sevastiei",
+    "full": "Sfântul Ierarh Petru al Sevastiei",
+    "short": "Petru al Sevastiei",
+    "given": "Petru",
+    "variants": [
+      "Sf. Ier. Petru, episcopul Sevastiei"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-petru-al-sevastiei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-polieuct-sf-ier-petru-episcopul-sevastiei/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

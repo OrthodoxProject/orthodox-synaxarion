@@ -1,0 +1,21 @@
+{
+  "id": "filimon",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Filimon",
+    "full": "Sfântul Mucenic Filimon",
+    "short": "Filimon",
+    "given": "Filimon"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-filimon-0",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

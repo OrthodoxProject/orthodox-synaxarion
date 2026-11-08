@@ -1,0 +1,20 @@
+{
+  "id": "nestor-of-magydos",
+  "locale": "en",
+  "names": {
+    "display": "Hieromartyr Nestor, Bishop of Magydos in Pamphylia",
+    "short": "Nestor, Bishop of Magydos in Pamphylia",
+    "given": "Nestor"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/28/100618-hieromartyr-nestor-bishop-of-magydos-in-pamphylia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

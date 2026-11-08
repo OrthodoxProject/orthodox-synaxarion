@@ -1,0 +1,20 @@
+{
+  "id": "genevieve-of-paris",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Genevieve of Paris",
+    "short": "Genevieve of Paris",
+    "given": "Genevieve"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/03/100015-venerable-genevieve-of-paris",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

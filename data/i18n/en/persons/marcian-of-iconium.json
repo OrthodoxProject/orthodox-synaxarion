@@ -1,0 +1,20 @@
+{
+  "id": "marcian-of-iconium",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Marcian of Iconium",
+    "short": "Marcian of Iconium",
+    "given": "Marcian"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/13/102021-martyr-marcian-of-iconium",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "zosimus-the-hermit",
+  "locale": "en",
+  "names": {
+    "display": "Confessor Zosimus the Hermit",
+    "short": "Zosimus the Hermit",
+    "given": "Zosimus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/04/100091-confessors-zosimus-the-hermit-and-athanasius-the-commentarisius",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

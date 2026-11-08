@@ -1,0 +1,24 @@
+{
+  "tradition": "serbian",
+  "date": "12-16",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:haggai-the-prophet--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:marinus-of-rome--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:theophano-the-wonderworker--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

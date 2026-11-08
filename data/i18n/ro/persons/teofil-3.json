@@ -1,0 +1,21 @@
+{
+  "id": "teofil-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Teofil",
+    "full": "Sfântul Cuvios Teofil",
+    "short": "Teofil",
+    "given": "Teofil"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-teofil",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

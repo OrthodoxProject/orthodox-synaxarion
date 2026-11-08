@@ -1,0 +1,21 @@
+{
+  "id": "iosif-of-tesalonic",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Iosif, Arhiepiscopul Tesalonicului",
+    "full": "Sfântul Ierarh Iosif, Arhiepiscopul Tesalonicului",
+    "short": "Iosif, Arhiepiscopul Tesalonicului",
+    "given": "Iosif"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-iosif-arhiepiscopul-tesalonicului",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

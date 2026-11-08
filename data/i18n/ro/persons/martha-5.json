@@ -1,0 +1,21 @@
+{
+  "id": "martha-5",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Marta, mama Sfântului Cuvios Simeon Stâlpnicul",
+    "full": "Sfânta Cuvioasă Marta, mama Sfântului Cuvios Simeon Stâlpnicul",
+    "short": "Marta, mama Sfântului Cuvios Simeon Stâlpnicul",
+    "given": "Marta"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-marta-mama-sfantului-cuvios-simeon-stalpnicul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

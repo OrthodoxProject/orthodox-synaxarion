@@ -1,0 +1,20 @@
+{
+  "id": "zacharias-of-jerusalem",
+  "locale": "en",
+  "names": {
+    "display": "Saint Zacharias, Patriarch of Jerusalem",
+    "short": "Zacharias, Patriarch of Jerusalem",
+    "given": "Zacharias"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/21/109058-saint-zacharias-patriarch-of-jerusalem",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

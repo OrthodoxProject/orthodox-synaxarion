@@ -1,0 +1,34 @@
+{
+  "id": "gerontios-of-skete--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:gerontios-of-skete"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 26
+  },
+  "external_ids": {
+    "oca": "102097"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-gherontie-athonitul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/26/102097-venerable-gerntios-the-founder-of-the-skt-of-saint-anna-on-mount",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "ephraim-the-syrian",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Ephraim the Syrian",
+    "short": "Ephraim the Syrian",
+    "given": "Ephraim"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/28/100328-venerable-ephraim-the-syrian",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

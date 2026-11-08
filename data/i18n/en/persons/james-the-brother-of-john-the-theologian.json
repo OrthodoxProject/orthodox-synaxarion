@@ -1,0 +1,20 @@
+{
+  "id": "james-the-brother-of-john-the-theologian",
+  "locale": "en",
+  "names": {
+    "display": "Apostle James the Brother of Saint John the Theologian",
+    "short": "James the Brother of Saint John the Theologian",
+    "given": "James"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/30/101248-apostle-james-the-brother-of-saint-john-the-theologian",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "gelasius",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Gelasius",
+    "short": "Gelasius",
+    "given": "Gelasius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/06/205373-martyr-gelasius",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

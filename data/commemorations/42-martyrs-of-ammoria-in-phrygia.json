@@ -1,0 +1,39 @@
+{
+  "id": "42-martyrs-of-ammoria-in-phrygia",
+  "kind": "repose",
+  "subjects": [
+    "group:42-martyrs-of-ammoria-in-phrygia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 6
+  },
+  "external_ids": {
+    "oca": "100672"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfintii-42-de-mucenici-din-amoreea",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-42-de-mucenici-din-amoreea-aflarea-sfintei-cruci/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/06/100672-42-martyrs-of-ammoria-in-phrygia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

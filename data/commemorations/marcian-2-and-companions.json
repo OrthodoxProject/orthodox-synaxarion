@@ -1,0 +1,43 @@
+{
+  "id": "marcian-2-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:marcian-2",
+    "person:nicander",
+    "person:iperehie",
+    "person:appolonius",
+    "person:leonidas",
+    "person:arius",
+    "person:gorgias",
+    "person:selenia",
+    "person:irene-of-egypt",
+    "person:pambo"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 5
+  },
+  "external_ids": {
+    "oca": "101616"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfintii-mucenici-marchian-nicandru-iperehie-apolon-leonid-arie-gheorghe-selneniad-irineu-pamvon",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/05/101616-martyrs-marcian-nicander-hyperechius-appolonius-leonidas-arius-g",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, oca.org; de verificat."
+    ]
+  }
+}

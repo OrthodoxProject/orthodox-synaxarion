@@ -1,0 +1,21 @@
+{
+  "id": "mavrichie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Mavrichie",
+    "full": "Sfântul Mucenic Mavrichie",
+    "short": "Mavrichie",
+    "given": "Mavrichie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-mavrichie",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

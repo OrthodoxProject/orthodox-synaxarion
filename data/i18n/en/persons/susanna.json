@@ -1,0 +1,20 @@
+{
+  "id": "susanna",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Susanna, Queen of Georgia",
+    "short": "Susanna, Queen of Georgia",
+    "given": "Susanna"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/28/102417-martyr-susanna-queen-of-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

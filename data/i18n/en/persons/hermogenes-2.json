@@ -1,0 +1,20 @@
+{
+  "id": "hermogenes-2",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Hermogenes, at Nicomedia",
+    "short": "Hermogenes, at Nicomedia",
+    "given": "Hermogenes"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/01/102453-martyrs-callista-and-her-brothers-evodius-and-hermogenes-at-nico",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

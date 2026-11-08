@@ -1,0 +1,21 @@
+{
+  "id": "joad-the-prophet",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Proroc Ioad",
+    "full": "Sfântul Proroc Ioad",
+    "short": "Ioad",
+    "given": "Ioad"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-proroc-ioad",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

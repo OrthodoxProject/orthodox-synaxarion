@@ -1,0 +1,21 @@
+{
+  "id": "demetrius-of-rostov",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Dimitrie, Mitropolitul Rostovului",
+    "full": "Sfântul Ierarh Dimitrie, Mitropolitul Rostovului",
+    "short": "Dimitrie, Mitropolitul Rostovului",
+    "given": "Dimitrie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-dimitrie-mitropolitul-rostovului",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

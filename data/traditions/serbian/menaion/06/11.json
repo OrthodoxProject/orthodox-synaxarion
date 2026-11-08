@@ -1,0 +1,29 @@
+{
+  "tradition": "serbian",
+  "date": "06-11",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:hypomone-2--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:bartholomew-of-the-twelve--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:barnabas-of-the-seventy--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:synaxis-of-the-axion-estin-icon-of-theotokos"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "sergius-the-wonderworker-of-radonezh--translation-of-relics",
+  "kind": "relics_translation",
+  "subjects": [
+    "person:sergius-the-wonderworker-of-radonezh"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 11
+  },
+  "external_ids": {
+    "oca": "102571"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/11/102571-translation-of-the-relics-of-venerable-sergius-and-herman-wonder",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

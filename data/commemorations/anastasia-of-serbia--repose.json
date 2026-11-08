@@ -1,0 +1,29 @@
+{
+  "id": "anastasia-of-serbia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:anastasia-of-serbia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 21
+  },
+  "external_ids": {
+    "oca": "108050"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/21/108050-venerable-anastasia-of-serbia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

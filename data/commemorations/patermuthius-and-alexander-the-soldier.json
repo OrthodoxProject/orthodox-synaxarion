@@ -1,0 +1,30 @@
+{
+  "id": "patermuthius-and-alexander-the-soldier",
+  "kind": "repose",
+  "subjects": [
+    "person:patermuthius",
+    "person:alexander-the-soldier"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 9
+  },
+  "external_ids": {
+    "oca": "101972"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/09/101972-martyrs-patermuthius-coprius-and-alexander-the-soldier-in-egypt",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

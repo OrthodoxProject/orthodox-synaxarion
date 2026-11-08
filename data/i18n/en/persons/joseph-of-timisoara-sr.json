@@ -1,0 +1,20 @@
+{
+  "id": "joseph-of-timisoara-sr",
+  "locale": "en",
+  "names": {
+    "display": "Saint Joseph of Timișoara [ sr",
+    "short": "Joseph of Timișoara [ sr",
+    "given": "Joseph"
+  },
+  "references": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

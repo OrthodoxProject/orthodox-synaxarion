@@ -1,0 +1,29 @@
+{
+  "id": "matrona-of-moscow",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Matrona din Moscova",
+    "full": "Sfânta Matrona din Moscova",
+    "short": "Matrona din Moscova",
+    "given": "Matrona",
+    "variants": [
+      "Sf. Matrona de la Moscova"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-matrona-din-moscova",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ier-atanasie-al-iii-lea-patelarie-patriarhul-constantinopolului-aducerea-moastelor-sf-ier-atanasie-cel-mare-arhiepiscopul-alexandriei-sf-matrona-de-la-moscova/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

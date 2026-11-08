@@ -1,0 +1,26 @@
+{
+  "id": "marina-of-antioch",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mare Mc. Marina",
+    "full": "Sfânta Mare Muceniță Marina",
+    "short": "Marina",
+    "given": "Marina"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mare-mucenita-marina",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mare-mc-marina-sf-ier-eufrasie-episcopul-ionopolei/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

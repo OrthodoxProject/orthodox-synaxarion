@@ -1,0 +1,20 @@
+{
+  "id": "paulinus-the-merciful-of-nola",
+  "locale": "en",
+  "names": {
+    "display": "Saint Paulinus the Merciful, Bishop of Nola",
+    "short": "Paulinus the Merciful, Bishop of Nola",
+    "given": "Paulinus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/23/100283-saint-paulinus-the-merciful-bishop-of-nola",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

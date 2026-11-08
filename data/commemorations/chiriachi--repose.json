@@ -1,0 +1,26 @@
+{
+  "id": "chiriachi--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:chiriachi"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 19
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-chiriachi",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

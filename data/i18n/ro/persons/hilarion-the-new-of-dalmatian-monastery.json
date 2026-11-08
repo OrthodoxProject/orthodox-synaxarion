@@ -1,0 +1,29 @@
+{
+  "id": "hilarion-the-new-of-dalmatian-monastery",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ilarion cel Nou, egumenul Mănăstirii Dalmaților",
+    "full": "Sfântul Cuvios Ilarion cel Nou, egumenul Mănăstirii Dalmaților",
+    "short": "Ilarion cel Nou, egumenul Mănăstirii Dalmaților",
+    "given": "Ilarion",
+    "variants": [
+      "Sf. Cuv. Ilarion cel Nou, egumenul Mănăstirii lui Dalmat"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-ilarion-cel-nou-egumenul-manastirii-dalmatilor",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/odovania-praznicului-pogorarii-sfantului-duh-sf-cuv-ilarion-cel-nou-egumenul-manastirii-lui-dalmat-sf-cuv-visarion/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

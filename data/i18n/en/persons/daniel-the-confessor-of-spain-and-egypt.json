@@ -1,0 +1,20 @@
+{
+  "id": "daniel-the-confessor-of-spain-and-egypt",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Daniel the Confessor (in Schema Stephen) of Spain, and Egypt",
+    "short": "Daniel the Confessor of Spain and Egypt",
+    "given": "Daniel"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/17/103563-venerable-daniel-the-confessor-in-schema-stephen-of-spain-and-eg",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

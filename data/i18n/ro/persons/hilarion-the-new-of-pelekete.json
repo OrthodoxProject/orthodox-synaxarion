@@ -1,0 +1,26 @@
+{
+  "id": "hilarion-the-new-of-pelekete",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ilarion cel Nou, egumenul Pelechitului",
+    "full": "Sfântul Cuvios Ilarion cel Nou, egumenul Pelechitului",
+    "short": "Ilarion cel Nou, egumenul Pelechitului",
+    "given": "Ilarion"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-ilarion-cel-nou-egumenul-pelechitului",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-ilarion-cel-nou-egumenul-pelechitului-si-stefan-facatorul-de-minuni-pomenirea-celor-adormiti/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

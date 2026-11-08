@@ -1,0 +1,20 @@
+{
+  "id": "john-the-new-of-sochi",
+  "locale": "en",
+  "names": {
+    "display": "New Martyr John the New of Sochi, who suffered at Belgrade",
+    "short": "John the New of Sochi, who suffered at Belgrade",
+    "given": "John"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/02/101582-new-martyr-john-the-new-of-sochi-who-suffered-at-belgrade",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

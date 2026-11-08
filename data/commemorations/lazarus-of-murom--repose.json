@@ -1,0 +1,29 @@
+{
+  "id": "lazarus-of-murom--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:lazarus-of-murom"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 8
+  },
+  "external_ids": {
+    "oca": "100699"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/08/100699-venerable-lazarus-of-murom",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

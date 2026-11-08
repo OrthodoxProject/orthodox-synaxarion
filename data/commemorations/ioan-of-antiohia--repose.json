@@ -1,0 +1,26 @@
+{
+  "id": "ioan-of-antiohia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:ioan-of-antiohia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 18
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-ioan-arhiepiscopul-antiohiei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

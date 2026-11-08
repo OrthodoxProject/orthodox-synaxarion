@@ -1,0 +1,29 @@
+{
+  "id": "sopatra-of-constantinople--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:sopatra-of-constantinople"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 9
+  },
+  "external_ids": {
+    "oca": "103260"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/09/103260-saint-sopatra-of-constantinople",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

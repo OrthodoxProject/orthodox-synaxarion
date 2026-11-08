@@ -1,0 +1,29 @@
+{
+  "id": "autonomus--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:autonomus"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 12
+  },
+  "external_ids": {
+    "oca": "102585"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/12/102585-hieromartyr-autonomus-bishop-in-italy",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "synaxis-of-seventy-apostles",
+  "locale": "ro",
+  "names": {
+    "display": "Soborul Sfinților 70 de Apostoli"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/soborul-sfintilor-70-de-apostoli",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/soborul-sf-70-de-apostoli-sf-cuv-teoctist-din-sicilia-nichifor-cel-lepros-si-apolinaria/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

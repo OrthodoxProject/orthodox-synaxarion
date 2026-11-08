@@ -1,0 +1,20 @@
+{
+  "id": "neophytus",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Neophytus, Co-founder of the Monastery",
+    "short": "Neophytus, Co-founder of the Monastery",
+    "given": "Neophytus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/09/103262-venerable-euthymius-founder-of-dochiariou-monastery-mount-athos1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

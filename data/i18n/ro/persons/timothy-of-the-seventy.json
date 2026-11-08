@@ -1,0 +1,26 @@
+{
+  "id": "timothy-of-the-seventy",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ap. Timotei",
+    "full": "Sfântul Apostol Timotei",
+    "short": "Timotei",
+    "given": "Timotei"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-apostol-timotei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ap-timotei-sf-cuv-mc-anastasie-persul/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

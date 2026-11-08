@@ -1,0 +1,20 @@
+{
+  "id": "pulcheria",
+  "locale": "en",
+  "names": {
+    "display": "Right-Believing Pulcheria, Byzantine Empress",
+    "short": "Pulcheria, Byzantine Empress",
+    "given": "Pulcheria"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/10/102566-right-believing-pulcheria-byzantine-empress",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

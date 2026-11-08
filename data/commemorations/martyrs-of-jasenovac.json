@@ -1,0 +1,30 @@
+{
+  "id": "martyrs-of-jasenovac",
+  "kind": "repose",
+  "subjects": [
+    "group:martyrs-of-jasenovac"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 13
+  },
+  "sources": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Holy_Martyrs_of_Jasenovac_%D0%88"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din orthodox-calendar, Wikipedia; de verificat."
+    ]
+  }
+}

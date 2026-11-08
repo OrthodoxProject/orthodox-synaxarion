@@ -1,0 +1,31 @@
+{
+  "id": "stahie-the-apostle--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:stahie-the-apostle"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 31
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-apostol-stahie",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ap-apelie-stahie-amplie-urban-aristobul-si-narcis-sf-mc-epimah/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro; de verificat."
+    ]
+  }
+}

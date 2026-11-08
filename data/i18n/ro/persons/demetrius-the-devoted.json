@@ -1,0 +1,21 @@
+{
+  "id": "demetrius-the-devoted",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Dimitrie, regele Georgiei",
+    "full": "Sfântul Dimitrie, regele Georgiei",
+    "short": "Dimitrie, regele Georgiei",
+    "given": "Dimitrie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-dimitrie-regele-georgiei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "universal-exaltation-of-the-precious-and-life-giving-cross",
+  "kind": "repose",
+  "subjects": [
+    "person:universal-exaltation-of-the-precious",
+    "person:life-giving-cross"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 14
+  },
+  "external_ids": {
+    "oca": "102610"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/14/102610-the-universal-exaltation-of-the-precious-and-life-giving-cross",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "therapontus-of-cyprus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Terapont, Episcopul Ciprului",
+    "full": "Sfântul Sfințit Mucenic Terapont, Episcopul Ciprului",
+    "short": "Terapont, Episcopul Ciprului",
+    "given": "Terapont",
+    "variants": [
+      "Sf. Sfințit Mc. Terapont, episcopul Ciprului"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-sfintit-mucenic-terapont-episcopul-ciprului",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-isidor-din-hios-sf-sfintit-mc-terapont-episcopul-ciprului/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

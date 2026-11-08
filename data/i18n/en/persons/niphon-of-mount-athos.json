@@ -1,0 +1,20 @@
+{
+  "id": "niphon-of-mount-athos",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Niphon of Mount Athos",
+    "short": "Niphon of Mount Athos",
+    "given": "Niphon"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/14/101723-venerable-niphon-of-mount-athos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

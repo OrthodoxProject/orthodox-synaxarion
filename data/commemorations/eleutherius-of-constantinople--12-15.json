@@ -1,0 +1,29 @@
+{
+  "id": "eleutherius-of-constantinople--12-15",
+  "kind": "repose",
+  "subjects": [
+    "person:eleutherius-of-constantinople"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 15
+  },
+  "external_ids": {
+    "oca": "103554"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/15/103554-martyr-eleutherius-at-constantinople",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

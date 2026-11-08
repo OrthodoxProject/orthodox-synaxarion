@@ -1,0 +1,29 @@
+{
+  "id": "hesychius-the-faster-of-bithynia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:hesychius-the-faster-of-bithynia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 5
+  },
+  "external_ids": {
+    "oca": "100670"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/05/100670-saint-hesychius-the-faster-of-bithynia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "euthymius-of-syanzhemsk--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:euthymius-of-syanzhemsk"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 20
+  },
+  "external_ids": {
+    "oca": "100241"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/20/100241-venerable-euthymius-of-syanzhemsk-vologda",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "mochie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Mochie, citețul",
+    "full": "Sfântul Mucenic Mochie, citețul",
+    "short": "Mochie, citețul",
+    "given": "Mochie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-mochie-citetul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

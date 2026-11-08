@@ -1,0 +1,20 @@
+{
+  "id": "methodius-of-peshnosha",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Methodius, Abbot of Peshnosha, Disciple of Venerable Sergius of Radonezh",
+    "short": "Methodius, Abbot of Peshnosha, Disciple of Venerable Sergius of Radonezh",
+    "given": "Methodius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/04/101602-venerable-methodius-abbot-of-peshnosha-disciple-of-venerable-ser",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

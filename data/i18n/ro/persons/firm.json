@@ -1,0 +1,21 @@
+{
+  "id": "firm",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Firm",
+    "full": "Sfântul Mucenic Firm",
+    "short": "Firm",
+    "given": "Firm"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-firm",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

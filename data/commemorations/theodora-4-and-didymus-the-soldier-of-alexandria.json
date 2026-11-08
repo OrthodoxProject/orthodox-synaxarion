@@ -1,0 +1,30 @@
+{
+  "id": "theodora-4-and-didymus-the-soldier-of-alexandria",
+  "kind": "repose",
+  "subjects": [
+    "person:theodora-4",
+    "person:didymus-the-soldier-of-alexandria"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 27
+  },
+  "external_ids": {
+    "oca": "101551"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/27/101551-virgin-martyr-theodora-and-martyr-didymus-the-soldier-of-alexand",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

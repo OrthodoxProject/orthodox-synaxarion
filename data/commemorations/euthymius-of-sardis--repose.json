@@ -1,0 +1,34 @@
+{
+  "id": "euthymius-of-sardis--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:euthymius-of-sardis"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 26
+  },
+  "external_ids": {
+    "oca": "103649"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-eftimie-episcopul-sardelor",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/26/103649-hieromartyr-euthymius-bishop-of-sardis",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, oca.org; de verificat."
+    ]
+  }
+}

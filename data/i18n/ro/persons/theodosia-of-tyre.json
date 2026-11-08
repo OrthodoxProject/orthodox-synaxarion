@@ -1,0 +1,29 @@
+{
+  "id": "theodosia-of-tyre",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Teodosia, fecioara",
+    "full": "Sfânta Muceniță Teodosia, fecioara",
+    "short": "Teodosia, fecioara",
+    "given": "Teodosia",
+    "variants": [
+      "Sf. Mc. Teodosia fecioara"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-teodosia-fecioara",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/odovania-praznicului-inaltarii-domnului-sf-mc-teodosia-fecioara-sf-sfintit-mc-olivian-dezlegare-la-peste/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

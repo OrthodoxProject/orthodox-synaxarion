@@ -1,0 +1,36 @@
+{
+  "id": "fathers-of-the-second-ecumenical-council",
+  "kind": "council",
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 22
+  },
+  "external_ids": {
+    "oca": "101462"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfintii-parinti-de-la-sinodul-al-ii-lea-ecumenic",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-vasilisc-si-marcel-sf-parinti-de-la-sinodul-al-ii-lea-ecumenic-dezlegare-la-peste/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/22/101462-commemoration-of-the-holy-fathers-of-the-second-ecumenical-counc",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

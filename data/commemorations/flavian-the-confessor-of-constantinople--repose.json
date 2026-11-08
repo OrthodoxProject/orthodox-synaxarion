@@ -1,0 +1,29 @@
+{
+  "id": "flavian-the-confessor-of-constantinople--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:flavian-the-confessor-of-constantinople"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 18
+  },
+  "external_ids": {
+    "oca": "100556"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/18/100556-saint-flavian-the-confessor-patriarch-of-constantinople",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

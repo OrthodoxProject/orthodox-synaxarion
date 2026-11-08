@@ -1,0 +1,24 @@
+{
+  "tradition": "serbian",
+  "date": "06-20",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:methodius-of-patara--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:callistus-of-constantinople--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:nicholas-cabasilas--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

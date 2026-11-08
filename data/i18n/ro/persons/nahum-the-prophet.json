@@ -1,0 +1,26 @@
+{
+  "id": "nahum-the-prophet",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Proroc Naum",
+    "full": "Sfântul Proroc Naum",
+    "short": "Naum",
+    "given": "Naum"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-proroc-naum",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-anastasia-mama-sf-ier-andrei-saguna-sf-proroc-naum-sf-filaret-cel-milostiv-tedeum-dezlegare-la-peste/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

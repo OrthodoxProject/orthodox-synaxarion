@@ -1,0 +1,30 @@
+{
+  "id": "athanasios-2-and-theodosios-of-cherepovets",
+  "kind": "repose",
+  "subjects": [
+    "person:athanasios-2",
+    "person:theodosios-of-cherepovets"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 26
+  },
+  "external_ids": {
+    "oca": "108913"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/26/108913-saints-athanasios-and-theodosios-of-cherepovets-disciples-of-sai",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

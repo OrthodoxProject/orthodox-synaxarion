@@ -1,0 +1,36 @@
+{
+  "id": "gurias",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "martyr",
+    "confessor"
+  ],
+  "external_ids": {
+    "doxologia": "sfantul-mucenic-marturisitor-gurie"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-marturisitor-gurie",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-paisie-de-la-neamt-sf-mc-si-marturisitori-gurie-samona-si-aviv-diaconul-inceputul-postului-nasterii-domnului-duminica-a-25-a-dupa-rusalii-ap-efeseni-4-1-7-ev-luca-10/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/15/103304-holy-martyrs-and-confessors-gurias-samonas-and-habibus-of-edessa",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

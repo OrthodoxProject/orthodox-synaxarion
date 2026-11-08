@@ -1,0 +1,26 @@
+{
+  "id": "icon-of-theotokos-intru-nastere-fecioria-ai-pazit",
+  "kind": "icon",
+  "subjects": [
+    "icon:icon-of-theotokos-intru-nastere-fecioria-ai-pazit"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 17
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoanei-maicii-domnului-intru-nastere-fecioria-ai-pazit",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

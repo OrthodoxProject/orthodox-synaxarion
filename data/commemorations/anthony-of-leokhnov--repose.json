@@ -1,0 +1,29 @@
+{
+  "id": "anthony-of-leokhnov--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:anthony-of-leokhnov"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 17
+  },
+  "external_ids": {
+    "oca": "102985"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/17/102985-venerable-anthony-abbot-of-leokhnov-novgorod",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

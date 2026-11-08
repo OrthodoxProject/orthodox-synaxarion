@@ -1,0 +1,39 @@
+{
+  "id": "silouan-of-mount-athos--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:silouan-of-mount-athos"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 24
+  },
+  "external_ids": {
+    "oca": "102722"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-siluan-athonitul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-intaia-mucenita-si-intocmai-cu-apostolii-tecla-sf-cuv-siluan-athonitul/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/24/102722-venerable-silouan-of-mount-athos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

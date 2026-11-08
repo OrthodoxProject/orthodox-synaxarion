@@ -1,0 +1,23 @@
+{
+  "id": "sophia-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sfânta Muceniță Sofia și fiicele sale: Pistis, Elpis și Agapis"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-sofia-fiicele-sale-pistis-elpis-agapis",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ier-dionisie-episcopul-cetatii-albe-ismail-sf-mc-sofia-intelepciunea-si-fiicele-ei-pistis-credinta-elpis-nadejdea-si-agapi-dragostea/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "agathangelus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Agatanghel",
+    "full": "Sfântul Mucenic Agatanghel",
+    "short": "Agatanghel",
+    "given": "Agatanghel"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-agatanghel",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-sfintit-mc-clement-episcopul-ancirei-sf-mc-agatanghel-sf-parinti-de-la-sinodul-al-vi-lea-ecumenic/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "ambrose-of-optina",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Ambrose of Optina",
+    "short": "Ambrose of Optina",
+    "given": "Ambrose"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/10/102934-venerable-ambrose-of-optina",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "maximus-the-soldiers",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Maximus the soldiers, at Antioch",
+    "short": "Maximus the soldiers, at Antioch",
+    "given": "Maximus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/05/102510-martyrs-juventinus-and-maximus-the-soldiers-at-antioch",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

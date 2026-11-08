@@ -1,0 +1,20 @@
+{
+  "id": "papias-of-egypt",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Papias, of Egypt",
+    "short": "Papias, of Egypt",
+    "given": "Papias"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/31/100387-martyrs-victorinus-victor-nikphros-claudius-diodorus-serapion-an",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

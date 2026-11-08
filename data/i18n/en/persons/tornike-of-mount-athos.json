@@ -1,0 +1,20 @@
+{
+  "id": "tornike-of-mount-athos",
+  "locale": "en",
+  "names": {
+    "display": "Saint (John) Tornike of Mount Athos",
+    "short": "Tornike of Mount Athos",
+    "given": "Tornike"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/12/103858-saint-john-tornike-of-mount-athos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

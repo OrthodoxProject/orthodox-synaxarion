@@ -1,0 +1,20 @@
+{
+  "id": "kanides-the-monk-of-cappadocia",
+  "locale": "en",
+  "names": {
+    "display": "Saint Kanides the Monk of Cappadocia",
+    "short": "Kanides the Monk of Cappadocia",
+    "given": "Kanides"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/10/100481-saint-kanides-the-monk-of-cappadocia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

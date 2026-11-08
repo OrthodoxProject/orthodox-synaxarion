@@ -1,0 +1,25 @@
+{
+  "tradition": "ecumenical",
+  "date": "09-23",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:conception-of-john-the-baptist"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:xanthippi--repose",
+        "comm:polyxeni-of-spain--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:icon-of-theotokos-of-slovenka"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

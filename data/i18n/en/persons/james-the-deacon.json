@@ -1,0 +1,20 @@
+{
+  "id": "james-the-deacon",
+  "locale": "en",
+  "names": {
+    "display": "Saint James the Deacon",
+    "short": "James the Deacon",
+    "given": "James"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/18/108025-saint-james-the-deacon",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

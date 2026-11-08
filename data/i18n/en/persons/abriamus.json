@@ -1,0 +1,20 @@
+{
+  "id": "abriamus",
+  "locale": "en",
+  "names": {
+    "display": "Pope Abriamus (Primus), Fifth Patriarch of Alexandria",
+    "short": "Abriamus, Fifth Patriarch of Alexandria",
+    "given": "Abriamus"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/12_3.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

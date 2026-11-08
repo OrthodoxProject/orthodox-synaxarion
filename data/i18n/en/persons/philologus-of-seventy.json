@@ -1,0 +1,20 @@
+{
+  "id": "philologus-of-seventy",
+  "locale": "en",
+  "names": {
+    "display": "Apostle Philologus, of the Seventy",
+    "short": "Philologus, of the Seventy",
+    "given": "Philologus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/05/103179-apostles-patrobus-hermes-linus-gaius-and-philologus-of-the-seven",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "john-of-trnovo",
+  "locale": "en",
+  "names": {
+    "display": "New Martyr John of Trnovo",
+    "short": "John of Trnovo",
+    "given": "John"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/16/108017-new-martyr-john-of-trnovo",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

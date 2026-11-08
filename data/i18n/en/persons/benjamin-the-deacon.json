@@ -1,0 +1,20 @@
+{
+  "id": "benjamin-the-deacon",
+  "locale": "en",
+  "names": {
+    "display": "Hieromartyr Benjamin the Deacon",
+    "short": "Benjamin the Deacon",
+    "given": "Benjamin"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/31/100959-hieromartyr-avdas-bishop-of-persia-and-martyr-benjamin-the-deaco",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

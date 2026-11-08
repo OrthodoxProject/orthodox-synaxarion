@@ -1,0 +1,31 @@
+{
+  "id": "sotirih--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:sotirih"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 24
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-sotirih",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mare-mucenic-areta-sf-mc-marcu-sotirih-si-valentin/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro; de verificat."
+    ]
+  }
+}

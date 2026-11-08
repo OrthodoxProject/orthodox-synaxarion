@@ -1,0 +1,33 @@
+{
+  "id": "cosmas-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:cosmas",
+    "person:damian-in-cilicia-and-their-brothers",
+    "person:leontius-3",
+    "person:anthimus",
+    "person:eutropius-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 17
+  },
+  "external_ids": {
+    "oca": "102986"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/17/102986-martyrs-and-unmercenaries-cosmas-and-damian-in-cilicia-and-their",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

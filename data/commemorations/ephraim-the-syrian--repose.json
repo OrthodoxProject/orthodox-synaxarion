@@ -1,0 +1,39 @@
+{
+  "id": "ephraim-the-syrian--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:ephraim-the-syrian"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 28
+  },
+  "external_ids": {
+    "oca": "100328"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-efrem-sirul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-efrem-sirul-isaac-sirul-paladie-si-iacob-sihastrul/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/28/100328-venerable-ephraim-the-syrian",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

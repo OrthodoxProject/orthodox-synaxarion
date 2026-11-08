@@ -1,0 +1,29 @@
+{
+  "id": "james-the-faster-of-phoenicia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:james-the-faster-of-phoenicia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 4
+  },
+  "external_ids": {
+    "oca": "100656"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/04/100656-saint-james-the-faster-of-phoenicia-syria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

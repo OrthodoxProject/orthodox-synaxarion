@@ -1,0 +1,41 @@
+{
+  "tradition": "romanian",
+  "date": "10-13",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:andrew-the-apostle--translation-of-relics"
+      ],
+      "symbol": "blue-plain"
+    },
+    {
+      "commemorations": [
+        "comm:carpus--repose",
+        "comm:papylus--repose",
+        "comm:agathadorus--repose",
+        "comm:agathonica--repose",
+        "comm:florentius-of-thessalonica--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:hrisi--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:icon-of-theotokos-sedmiezerskaya--10-13"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:translation-of-the-iveron-icon-of-theotokos-to-moscow"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:icon-of-theotokos-sapte-lacuri--10-13"
+      ]
+    }
+  ]
+}

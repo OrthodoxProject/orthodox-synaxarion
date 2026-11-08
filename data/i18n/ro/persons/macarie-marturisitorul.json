@@ -1,0 +1,26 @@
+{
+  "id": "macarie-marturisitorul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Macarie Mărturisitorul",
+    "full": "Sfântul Cuvios Macarie Mărturisitorul",
+    "short": "Macarie Mărturisitorul",
+    "given": "Macarie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-macarie-marturisitorul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-maria-egipteanca-sf-cuv-macarie-marturisitorul-sf-mc-gherontie-sf-cuv-varsanufie-de-la-optina/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "vizier-abu-elaala-fahd-ibn-ibrahim--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:vizier-abu-elaala-fahd-ibn-ibrahim"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 19,
+    "calendar": "coptic"
+  },
+  "external_ids": {
+    "copticchurch": "8_19#3"
+  },
+  "sources": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/8_19.html?lang=en#3",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din copticchurch.net; de verificat."
+    ]
+  }
+}

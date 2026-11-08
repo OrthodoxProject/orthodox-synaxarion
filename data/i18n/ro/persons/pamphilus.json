@@ -1,0 +1,21 @@
+{
+  "id": "pamphilus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Pamfil",
+    "full": "Sfântul Mucenic Pamfil",
+    "short": "Pamfil",
+    "given": "Pamfil"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-pamfil-0",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

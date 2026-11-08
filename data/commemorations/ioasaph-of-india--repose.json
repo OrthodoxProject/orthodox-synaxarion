@@ -1,0 +1,29 @@
+{
+  "id": "ioasaph-of-india--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:ioasaph-of-india"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 19
+  },
+  "external_ids": {
+    "oca": "100292"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/19/100292-saints-barlaam-the-monk-and-prince-ioasaph-of-india",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

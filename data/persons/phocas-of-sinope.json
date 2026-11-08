@@ -1,0 +1,41 @@
+{
+  "id": "phocas-of-sinope",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "hieromartyr"
+  ],
+  "external_ids": {
+    "doxologia": "sfantul-sfintit-mucenic-foca-episcopul-de-sinope",
+    "oca": "102695"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-sfintit-mucenic-foca-episcopul-de-sinope",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ierarh-mc-teodosie-de-la-manastirea-brazi-mitropolitul-moldovei-sf-sfintit-mc-foca-episcop-de-sinope/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/22/102695-hieromartyr-phocas-bishop-of-sinope",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/22/102699-martyr-phokas-the-gardener-of-sinope",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

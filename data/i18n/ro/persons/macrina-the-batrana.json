@@ -1,0 +1,21 @@
+{
+  "id": "macrina-the-batrana",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Macrina cea Bătrână",
+    "full": "Sfânta Macrina cea Bătrână",
+    "short": "Macrina cea Bătrână",
+    "given": "Macrina"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-macrina-cea-batrana",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

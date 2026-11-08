@@ -1,0 +1,29 @@
+{
+  "id": "mark-the-apostle",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ap. și Evanghelist Marcu",
+    "full": "Sfântul Apostol și Evanghelist Marcu",
+    "short": "Marcu",
+    "given": "Marcu",
+    "variants": [
+      "Sf. Ap. și Ev. Marcu"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-apostol-evanghelist-marcu",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ap-si-ev-marcu-%e2%80%a0-sf-cuv-vasile-de-la-poiana-marului/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

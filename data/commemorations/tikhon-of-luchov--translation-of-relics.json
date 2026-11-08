@@ -1,0 +1,29 @@
+{
+  "id": "tikhon-of-luchov--translation-of-relics",
+  "kind": "relics_translation",
+  "subjects": [
+    "person:tikhon-of-luchov"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 26
+  },
+  "external_ids": {
+    "oca": "101818"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/26/101818-translation-of-the-relics-of-saint-tikhon-of-luchov-kostroma",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

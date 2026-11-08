@@ -1,0 +1,20 @@
+{
+  "id": "antipas-of-valaam-monastery",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Antipas of Valaam Monastery",
+    "short": "Antipas of Valaam Monastery",
+    "given": "Antipas"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/10/100146-venerable-antipas-of-valaam-monastery",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

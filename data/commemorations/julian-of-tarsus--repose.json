@@ -1,0 +1,39 @@
+{
+  "id": "julian-of-tarsus--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:julian-of-tarsus"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 21
+  },
+  "external_ids": {
+    "oca": "101772"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-iulian-din-tars",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-iulian-din-tars-si-afrodisie-dezlegare-la-peste-duminica-a-3-a-dupa-rusalii-a-sfintilor-athoniti-ap-romani-5-1-10-al-sfintilor-2-corinteni-11-21-12-9-ev-matei-6-22-33/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/21/101772-martyr-julian-of-tarsus-in-cilicia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

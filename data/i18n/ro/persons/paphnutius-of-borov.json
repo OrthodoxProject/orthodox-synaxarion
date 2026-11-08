@@ -1,0 +1,21 @@
+{
+  "id": "paphnutius-of-borov",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Pafnutie din Borovsk",
+    "full": "Sfântul Cuvios Pafnutie din Borovsk",
+    "short": "Pafnutie din Borovsk",
+    "given": "Pafnutie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-pafnutie-din-borovsk",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

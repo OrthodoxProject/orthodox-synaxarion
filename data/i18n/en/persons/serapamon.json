@@ -1,0 +1,20 @@
+{
+  "id": "serapamon",
+  "locale": "en",
+  "names": {
+    "display": "Anba Serapamon, Archpriest of Abba Yehnis (John) monastery",
+    "short": "Serapamon, Archpriest of Abba Yehnis monastery",
+    "given": "Serapamon"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/7_5.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

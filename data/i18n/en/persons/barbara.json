@@ -1,0 +1,20 @@
+{
+  "id": "barbara",
+  "locale": "en",
+  "names": {
+    "display": "Greatmartyr Barbara",
+    "short": "Barbara",
+    "given": "Barbara"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/04/103472-greatmartyr-barbara-and-martyr-juliana-at-heliopolis-in-syria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

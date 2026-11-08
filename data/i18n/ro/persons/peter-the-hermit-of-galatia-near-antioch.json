@@ -1,0 +1,21 @@
+{
+  "id": "peter-the-hermit-of-galatia-near-antioch",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Petru din Galatia",
+    "full": "Sfântul Petru din Galatia",
+    "short": "Petru din Galatia",
+    "given": "Petru"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-petru-din-galatia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

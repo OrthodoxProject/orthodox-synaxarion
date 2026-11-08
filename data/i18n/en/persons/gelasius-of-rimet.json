@@ -1,0 +1,20 @@
+{
+  "id": "gelasius-of-rimet",
+  "locale": "en",
+  "names": {
+    "display": "Saint Gelasius of Rimet",
+    "short": "Gelasius of Rimet",
+    "given": "Gelasius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/30/149009-saint-gelasius-of-rimet",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

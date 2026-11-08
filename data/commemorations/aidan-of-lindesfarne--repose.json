@@ -1,0 +1,29 @@
+{
+  "id": "aidan-of-lindesfarne--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:aidan-of-lindesfarne"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 31
+  },
+  "external_ids": {
+    "oca": "102445"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/31/102445-saint-aidan-bishop-of-lindesfarne",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

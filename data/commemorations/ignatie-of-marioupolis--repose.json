@@ -1,0 +1,26 @@
+{
+  "id": "ignatie-of-marioupolis--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:ignatie-of-marioupolis"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 3
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-ignatie-de-marioupolis",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

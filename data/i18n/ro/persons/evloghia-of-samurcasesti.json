@@ -1,0 +1,29 @@
+{
+  "id": "evloghia-of-samurcasesti",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Evloghia de la Samurcășești",
+    "full": "Sfânta Cuvioasă Muceniță Evloghia de la Samurcășești",
+    "short": "Evloghia de la Samurcășești",
+    "given": "Evloghia",
+    "variants": [
+      "Sf. Cuv. Muceniță Evloghia de la Samurcășești"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-mucenita-evloghia-de-la-samurcasesti",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-mucenita-evloghia-de-la-samurcasesti-sf-mc-bonifatie-sf-aglaia-sf-ier-grichentie-episcopul-etiopiei-dezlegare-la-peste/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

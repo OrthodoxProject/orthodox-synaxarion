@@ -1,0 +1,18 @@
+{
+  "id": "hierarchs-of-moscow",
+  "locale": "en",
+  "names": {
+    "display": "Hierarchs of Moscow"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/05/102871-synaxis-of-the-hierarchs-of-moscow",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

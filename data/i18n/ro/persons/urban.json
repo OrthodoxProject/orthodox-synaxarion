@@ -1,0 +1,21 @@
+{
+  "id": "urban",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Urban",
+    "full": "Sfântul Mucenic Urban",
+    "short": "Urban",
+    "given": "Urban"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-urban",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "christos-of-preveza",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Christos of Preveza",
+    "short": "Christos of Preveza",
+    "given": "Christos"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/05/205385-martyr-christos-of-preveza",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

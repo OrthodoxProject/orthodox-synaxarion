@@ -1,0 +1,20 @@
+{
+  "id": "tarasius-of-constantinople",
+  "locale": "en",
+  "names": {
+    "display": "Saint Tarasius, Archbishop of Constantinople",
+    "short": "Tarasius, Archbishop of Constantinople",
+    "given": "Tarasius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/25/100605-saint-tarasius-archbishop-of-constantinople",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

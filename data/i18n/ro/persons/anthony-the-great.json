@@ -1,0 +1,26 @@
+{
+  "id": "anthony-the-great",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Antonie cel Mare",
+    "full": "Sfântul Cuvios Antonie cel Mare",
+    "short": "Antonie cel Mare",
+    "given": "Antonie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-antonie-cel-mare",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-antonie-cel-mare-sf-cuv-antonie-cel-nou-din-veria/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

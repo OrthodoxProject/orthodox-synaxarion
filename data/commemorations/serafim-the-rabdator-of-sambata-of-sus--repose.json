@@ -1,0 +1,31 @@
+{
+  "id": "serafim-the-rabdator-of-sambata-of-sus--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:serafim-the-rabdator-of-sambata-of-sus"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 20
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-serafim-cel-rabdator-de-la-sambata-de-sus",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/inainte-praznuirea-nasterii-domnului-sf-sfintit-mc-ignatie-teoforul-episcopul-antiohiei-%e2%80%a0-sf-cuv-serafim-cel-rabdator-de-la-sambata-de-sus-duminica-dinaintea-nasterii-domnului-a-sf/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro; de verificat."
+    ]
+  }
+}

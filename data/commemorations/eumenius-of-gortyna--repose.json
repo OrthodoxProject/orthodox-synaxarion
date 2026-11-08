@@ -1,0 +1,39 @@
+{
+  "id": "eumenius-of-gortyna--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:eumenius-of-gortyna"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 18
+  },
+  "external_ids": {
+    "oca": "102653"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-eumenie-episcopul-gortinei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-preot-mucenic-ilarion-felea-sf-ier-eumenie-episcopul-gortinei-sf-mc-ariadna/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/18/102653-saint-eumenius-bishop-of-gortyna",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "chiriachi",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Chiriachi",
+    "full": "Sfânta Muceniță Chiriachi",
+    "short": "Chiriachi",
+    "given": "Chiriachi"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-chiriachi",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "papas-of-lyconia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Papa",
+    "full": "Sfântul Mucenic Papa",
+    "short": "Papa",
+    "given": "Papa"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-papa",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

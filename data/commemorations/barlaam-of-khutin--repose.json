@@ -1,0 +1,29 @@
+{
+  "id": "barlaam-of-khutin--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:barlaam-of-khutin"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 24
+  },
+  "external_ids": {
+    "oca": "101587"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/24/101587-venerable-barlaam-of-khutin",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

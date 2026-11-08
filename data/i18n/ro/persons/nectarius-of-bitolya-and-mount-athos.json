@@ -1,0 +1,21 @@
+{
+  "id": "nectarius-of-bitolya-and-mount-athos",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Nectarie",
+    "full": "Sfântul Cuvios Nectarie",
+    "short": "Nectarie",
+    "given": "Nectarie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-nectarie",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

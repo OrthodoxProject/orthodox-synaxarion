@@ -1,0 +1,30 @@
+{
+  "tradition": "serbian",
+  "date": "11-20",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:gregory-the-decapolite--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:proclus-of-constantinople--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:dasius-of-dorostorum--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:entry-of-the-theotokos--forefeast"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

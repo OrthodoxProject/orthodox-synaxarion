@@ -1,0 +1,21 @@
+{
+  "id": "sebastiana-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Sebastiana",
+    "full": "Sfânta Muceniță Sebastiana",
+    "short": "Sebastiana",
+    "given": "Sebastiana"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-sebastiana",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

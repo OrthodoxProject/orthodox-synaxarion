@@ -1,0 +1,29 @@
+{
+  "id": "hilarion-of-verey--finding-of-relics",
+  "kind": "relics_finding",
+  "subjects": [
+    "person:hilarion-of-verey"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 11
+  },
+  "external_ids": {
+    "oca": "100180"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/11/100180-finding-of-the-relics-of-saint-hilarion-archbishop-of-verey",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

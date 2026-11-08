@@ -1,0 +1,20 @@
+{
+  "id": "salome-of-ujarma",
+  "locale": "en",
+  "names": {
+    "display": "Saint Salome of Ujarma",
+    "short": "Salome of Ujarma",
+    "given": "Salome"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/15/103809-saints-salome-of-ujarma-and-perozhavra-of-sivnia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

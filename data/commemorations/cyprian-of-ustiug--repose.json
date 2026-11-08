@@ -1,0 +1,29 @@
+{
+  "id": "cyprian-of-ustiug--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:cyprian-of-ustiug"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 29
+  },
+  "external_ids": {
+    "oca": "108940"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/29/108940-saint-cyprian-of-ustiug",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

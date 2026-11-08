@@ -1,0 +1,36 @@
+{
+  "id": "pamphilius-the-presbyter",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "martyr",
+    "hieromartyr"
+  ],
+  "external_ids": {
+    "doxologia": "sfantul-mucenic-pamfil-preotul"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-pamfil-preotul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-sfintiti-mc-pamfil-preotul-si-valent-diaconul-sf-ier-flavian-arhiepiscopul-constantinopolului/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/16/100533-martyrs-pamphilius-the-presbyter-valens-the-deacon-and-those-wit",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

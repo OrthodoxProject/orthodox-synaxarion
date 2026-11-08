@@ -1,0 +1,21 @@
+{
+  "id": "alina",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Alina",
+    "full": "Sfânta Muceniță Alina",
+    "short": "Alina",
+    "given": "Alina"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-alina",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

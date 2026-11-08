@@ -1,0 +1,20 @@
+{
+  "id": "micah-the-prophet",
+  "locale": "en",
+  "names": {
+    "display": "Prophet Micah",
+    "short": "Micah",
+    "given": "Micah"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/05/100100-prophet-micah",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

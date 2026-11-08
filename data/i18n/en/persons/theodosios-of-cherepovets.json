@@ -1,0 +1,20 @@
+{
+  "id": "theodosios-of-cherepovets",
+  "locale": "en",
+  "names": {
+    "display": "Saint Theodosios of Cherepovets, disciples of Saint Sergius of Radonezh",
+    "short": "Theodosios of Cherepovets, disciples of Saint Sergius of Radonezh",
+    "given": "Theodosios"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/26/108913-saints-athanasios-and-theodosios-of-cherepovets-disciples-of-sai",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

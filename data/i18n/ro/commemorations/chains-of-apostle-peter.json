@@ -1,0 +1,23 @@
+{
+  "id": "chains-of-apostle-peter",
+  "locale": "ro",
+  "names": {
+    "display": "Cinstirea lanțului Sfântului Apostol Petru"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-lantului-sfantului-apostol-petru",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/cinstirea-lantului-sf-ap-petru-sf-mc-danact-citetul/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

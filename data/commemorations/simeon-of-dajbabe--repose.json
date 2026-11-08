@@ -1,0 +1,30 @@
+{
+  "id": "simeon-of-dajbabe--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:simeon-of-dajbabe"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 1
+  },
+  "sources": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Simeon_of_Dajbabe"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din orthodox-calendar, Wikipedia; de verificat."
+    ]
+  }
+}

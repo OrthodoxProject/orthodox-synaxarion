@@ -1,0 +1,20 @@
+{
+  "id": "elias-of-tver",
+  "locale": "en",
+  "names": {
+    "display": "New Hieromartyr Elias (Gromoglasov) of Tver",
+    "short": "Elias of Tver",
+    "given": "Elias"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/22/103918-new-hieromartyr-elias-gromoglasov-of-tver",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

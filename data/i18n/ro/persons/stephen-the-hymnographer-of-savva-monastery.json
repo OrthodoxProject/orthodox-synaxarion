@@ -1,0 +1,29 @@
+{
+  "id": "stephen-the-hymnographer-of-savva-monastery",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ștefan Savaitul, imnograful",
+    "full": "Sfântul Cuvios Ștefan Savaitul, imnograful",
+    "short": "Ștefan Savaitul, imnograful",
+    "given": "Ștefan",
+    "variants": [
+      "Sf. Cuv. Ștefan Savaitul"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-stefan-savaitul-imnograful",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ier-iachint-mitropolitul-tarii-romanesti-%e2%80%a0-sf-cuv-teofana-basarab-sf-mc-terentie-sotia-sa-neonila-si-cei-7-fii-sf-cuv-stefan-savaitul-sf-ier-firmilian-episcopul/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dosoftei-of-moldova",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Dosoftei, Mitropolitul Moldovei",
+    "full": "Sfântul Ierarh Dosoftei, Mitropolitul Moldovei",
+    "short": "Dosoftei, Mitropolitul Moldovei",
+    "given": "Dosoftei",
+    "variants": [
+      "Sf. Ier. Dosoftei, mitropolitul Moldovei"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-dosoftei-mitropolitul-moldovei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ier-dosoftei-mitropolitul-moldovei-%e2%80%a0-sf-mari-mc-eustratie-auxentie-evghenie-mardarie-si-orest-sf-mc-lucia-din-siracuza-dezlegare-la-peste-duminica-a-28-a-dupa-rusa/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

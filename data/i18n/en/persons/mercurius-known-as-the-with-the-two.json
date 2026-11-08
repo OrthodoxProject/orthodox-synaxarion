@@ -1,0 +1,20 @@
+{
+  "id": "mercurius-known-as-the-with-the-two",
+  "locale": "en",
+  "names": {
+    "display": "Saint Mercurius Known as the Saint with the Two Swords",
+    "short": "Mercurius Known as the Saint with the Two Swords",
+    "given": "Mercurius"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/3_25.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

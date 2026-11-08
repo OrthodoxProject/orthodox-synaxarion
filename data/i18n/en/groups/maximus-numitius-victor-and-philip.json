@@ -1,0 +1,18 @@
+{
+  "id": "maximus-numitius-victor-and-philip",
+  "locale": "en",
+  "names": {
+    "display": "Saints Maximus, Numitius, Victor (Boctor), and Philip (Philopus)"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/3_1.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

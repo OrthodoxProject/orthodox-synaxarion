@@ -1,0 +1,24 @@
+{
+  "tradition": "ecumenical",
+  "date": "03-18",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:cyril-of-jerusalem--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:trophimus--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:aninas-of-the-euphrates--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

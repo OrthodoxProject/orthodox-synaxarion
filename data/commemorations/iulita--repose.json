@@ -1,0 +1,26 @@
+{
+  "id": "iulita--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:iulita"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 30
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-iulita",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

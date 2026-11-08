@@ -1,0 +1,37 @@
+{
+  "id": "cyrus",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "unmercenary",
+    "wonderworker",
+    "martyr"
+  ],
+  "external_ids": {
+    "doxologia": "sfantul-doctor-fara-de-arginti-facatorul-de-minuni-chir"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-doctor-fara-de-arginti-facatorul-de-minuni-chir",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-doctori-fara-de-arginti-chir-si-ioan/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/31/100380-holy-wonderworkers-and-unmercenaries-cyrus-and-john-and-those-wi",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

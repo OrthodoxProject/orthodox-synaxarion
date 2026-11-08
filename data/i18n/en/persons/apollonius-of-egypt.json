@@ -1,0 +1,20 @@
+{
+  "id": "apollonius-of-egypt",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Apollonius, Ascetic, of Egypt",
+    "short": "Apollonius, Ascetic, of Egypt",
+    "given": "Apollonius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/31/100958-venerable-apollonius-ascetic-of-egypt",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

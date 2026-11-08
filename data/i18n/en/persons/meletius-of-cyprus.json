@@ -1,0 +1,20 @@
+{
+  "id": "meletius-of-cyprus",
+  "locale": "en",
+  "names": {
+    "display": "Saint Meletius, Bishop of Cyprus",
+    "short": "Meletius, Bishop of Cyprus",
+    "given": "Meletius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/21/102690-saint-meletius-bishop-of-cyprus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

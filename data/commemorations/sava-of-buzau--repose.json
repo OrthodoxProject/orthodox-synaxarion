@@ -1,0 +1,26 @@
+{
+  "id": "sava-of-buzau--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:sava-of-buzau"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 13
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-sava-de-la-buzau",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "philotheus-of-philotheou-monastery",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Philotheus, founder of Philotheou Monastery, Mount Athos",
+    "short": "Philotheus, founder of Philotheou Monastery, Mount Athos",
+    "given": "Philotheus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/24/100296-venerable-philotheus-founder-of-philotheou-monastery-mount-athos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

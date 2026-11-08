@@ -1,0 +1,26 @@
+{
+  "id": "cyril-the-deacon-of-heliopolis",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Chiril, diaconul",
+    "full": "Sfântul Sfințit Mucenic Chiril, diaconul",
+    "short": "Chiril, diaconul",
+    "given": "Chiril"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-sfintit-mucenic-chiril-diaconul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-sfintiti-mc-marcu-episcopul-aretuselor-si-chiril-diaconul-sf-mc-iona-si-varahisie-sf-ier-diadoh-episcopul-foticeei-duminica-a-5-a-din-post-a-sf-cuv-maria-egipteanca-ap-evrei-9-11/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "theodore-graptus",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "venerable",
+    "confessor"
+  ],
+  "external_ids": {
+    "doxologia": "sfantul-cuvios-teodor-marturisitorul",
+    "oca": "103660"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-teodor-marturisitorul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ap-intaiul-mc-si-arhidiacon-stefan-sf-cuv-teodor-marturisitorul-duminica-dupa-nasterea-domnului-a-sfintilor-iosif-logodnicul-david-prorocul-si-iacob-rudenia-domnului-ap-gala/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/27/103660-venerable-theodore-graptus-the-branded-confessor",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

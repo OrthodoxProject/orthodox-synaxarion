@@ -1,0 +1,21 @@
+{
+  "id": "leander-of-seville",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Leandru, Arhiepiscop al Sevillei",
+    "full": "Sfântul Leandru, Arhiepiscop al Sevillei",
+    "short": "Leandru, Arhiepiscop al Sevillei",
+    "given": "Leandru"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-leandru-arhiepiscop-al-sevillei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "porphyrius-of-gaza",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Porfirie, Episcopul Gazei",
+    "full": "Sfântul Ierarh Porfirie, Episcopul Gazei",
+    "short": "Porfirie, Episcopul Gazei",
+    "given": "Porfirie",
+    "variants": [
+      "Sf. Ier. Porfirie, episcopul Gazei"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-porfirie-episcopul-gazei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ier-porfirie-episcopul-gazei-sf-mc-fotini-samarineanca-canonul-mare/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "martyrius-of-zelenets",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Martyrius of Zelenets, Pskov",
+    "short": "Martyrius of Zelenets, Pskov",
+    "given": "Martyrius",
+    "variants": [
+      "Venerable Martyrius, Abbot of Zelenets, Pskov"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/01/100626-venerable-martyrius-of-zelenets-pskov",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/11/103283-venerable-martyrius-abbot-of-zelenets-pskov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

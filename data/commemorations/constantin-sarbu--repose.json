@@ -1,0 +1,31 @@
+{
+  "id": "constantin-sarbu--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:constantin-sarbu"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 23
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-preot-mucenic-constantin-sarbu",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ap-iacob-rudenia-domnului-intaiul-episcop-al-ierusalimului-%e2%80%a0-sf-preot-mucenic-constantin-sarbu-sf-cuv-macarie-romanul/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro; de verificat."
+    ]
+  }
+}

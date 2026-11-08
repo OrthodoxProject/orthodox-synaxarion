@@ -1,0 +1,20 @@
+{
+  "id": "theoctistus-of-palestina",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Theoctistus",
+    "short": "Theoctistus",
+    "given": "Theoctistus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/03/102478-venerable-theoctistus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "tryphon-of-vyatka",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Tryphon, Abbot of Vyatka",
+    "short": "Tryphon, Abbot of Vyatka",
+    "given": "Tryphon"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/08/102901-venerable-tryphon-abbot-of-vyatka",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

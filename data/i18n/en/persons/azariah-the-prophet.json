@@ -1,0 +1,20 @@
+{
+  "id": "azariah-the-prophet",
+  "locale": "en",
+  "names": {
+    "display": "Prophet Azariah",
+    "short": "Azariah",
+    "given": "Azariah"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/03/100412-prophet-azariah",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

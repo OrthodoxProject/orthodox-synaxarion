@@ -1,0 +1,20 @@
+{
+  "id": "george-of-iberia",
+  "locale": "en",
+  "names": {
+    "display": "New Martyr George of Iberia",
+    "short": "George of Iberia",
+    "given": "George"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/02/108896-new-martyr-george-of-iberia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

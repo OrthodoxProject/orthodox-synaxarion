@@ -1,0 +1,29 @@
+{
+  "id": "gleb-andreevich--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:gleb-andreevich"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 20
+  },
+  "external_ids": {
+    "oca": "101760"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/20/101760-blessed-prince-gleb-andreevich-son-of-saint-andrew-bogoliubsky",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

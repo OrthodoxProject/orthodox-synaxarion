@@ -1,0 +1,20 @@
+{
+  "id": "macarius-of-optina",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Macarius of Optina",
+    "short": "Macarius of Optina",
+    "given": "Macarius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/07/148999-venerable-macarius-of-optina",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

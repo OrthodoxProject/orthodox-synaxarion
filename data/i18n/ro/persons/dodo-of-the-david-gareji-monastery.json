@@ -1,0 +1,21 @@
+{
+  "id": "dodo-of-the-david-gareji-monastery",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Dodo, ucenicul Sfântului David din Gareji, Georgia",
+    "full": "Sfântul Dodo, ucenicul Sfântului David din Gareji, Georgia",
+    "short": "Dodo, ucenicul Sfântului David din Gareji, Georgia",
+    "given": "Dodo"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-dodo-ucenicul-sfantului-david-din-gareji-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "peter-the-apostle",
+  "locale": "en",
+  "names": {
+    "display": "The Holy Glorious and All-Praised Leader of the Apostle Peter",
+    "short": "Peter",
+    "given": "Peter",
+    "variants": [
+      "The Holy Glorious and All-Praised Leader of the Apostles, Peter"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/29/101840-the-holy-glorious-and-all-praised-leaders-of-the-apostles-peter",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/29/101841-the-holy-glorious-and-all-praised-leader-of-the-apostles-peter",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

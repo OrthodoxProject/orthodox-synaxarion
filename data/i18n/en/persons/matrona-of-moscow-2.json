@@ -1,0 +1,20 @@
+{
+  "id": "matrona-of-moscow-2",
+  "locale": "en",
+  "names": {
+    "display": "Saint Matrona (the Blind) of Moscow (1952)",
+    "short": "Matrona of Moscow",
+    "given": "Matrona"
+  },
+  "references": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/russian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

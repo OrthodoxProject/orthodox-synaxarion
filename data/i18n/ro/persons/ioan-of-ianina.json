@@ -1,0 +1,21 @@
+{
+  "id": "ioan-of-ianina",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Ioan din Ianina",
+    "full": "Sfântul Mucenic Ioan din Ianina",
+    "short": "Ioan din Ianina",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-ioan-din-ianina",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

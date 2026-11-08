@@ -1,0 +1,20 @@
+{
+  "id": "sarapamon-of-niku",
+  "locale": "en",
+  "names": {
+    "display": "Saint Sarapamon, Bishop of Niku",
+    "short": "Sarapamon, Bishop of Niku",
+    "given": "Sarapamon"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/3_28.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

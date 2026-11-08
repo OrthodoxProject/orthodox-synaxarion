@@ -1,0 +1,27 @@
+{
+  "id": "lazarus",
+  "locale": "en",
+  "names": {
+    "display": "Lazarus, the beloved of the Lord",
+    "given": "Lazarus",
+    "variants": [
+      "Lazarus the beloved of the Lord"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/7_17.html?lang=en#1",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/9_27.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

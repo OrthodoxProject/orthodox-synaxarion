@@ -1,0 +1,29 @@
+{
+  "id": "acacius-the-younger-of-mount-athos--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:acacius-the-younger-of-mount-athos"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 12
+  },
+  "external_ids": {
+    "oca": "101069"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/12/101069-venerable-acacius-the-younger-of-mount-athos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "defender-of-orthodoxy-in-america",
+  "locale": "en",
+  "names": {
+    "display": "Saint Defender of Orthodoxy in America",
+    "short": "Defender of Orthodoxy in America",
+    "given": "Defender"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/07/101300-repose-of-saint-alexis-toth-confessor-and-defender-of-orthodoxy",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

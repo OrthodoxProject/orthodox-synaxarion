@@ -1,0 +1,29 @@
+{
+  "id": "ilie-lacatusu",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Preot Mărt. Ilie Lăcătușu",
+    "full": "Sfântul Preot Mărturisitor Ilie Lăcătușu",
+    "short": "Ilie Lăcătușu",
+    "given": "Ilie",
+    "variants": [
+      "Sf. Preot Mărturisitor Ilie Lăcătușu"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-preot-marturisitor-ilie-lacatusu",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-preot-marturisitor-ilie-lacatusu-sf-mironosita-si-intocmai-cu-apostolii-maria-magdalena-sf-cuv-mc-marcela/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

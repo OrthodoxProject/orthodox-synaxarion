@@ -1,0 +1,21 @@
+{
+  "id": "damiana",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Damiana și cele 40 de Fecioare",
+    "full": "Sfânta Muceniță Damiana și cele 40 de Fecioare",
+    "short": "Damiana, cele 40 de Fecioare",
+    "given": "Damiana"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-damiana-cele-40-de-fecioare",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

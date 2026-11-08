@@ -1,0 +1,30 @@
+{
+  "id": "zlata-of-meglen--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:zlata-of-meglen"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 12
+  },
+  "sources": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Zlata_of_Meglen"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din orthodox-calendar, Wikipedia; de verificat."
+    ]
+  }
+}

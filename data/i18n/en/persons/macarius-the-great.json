@@ -1,0 +1,20 @@
+{
+  "id": "macarius-the-great",
+  "locale": "en",
+  "names": {
+    "display": "Saint Macarius the Great",
+    "short": "Macarius the Great",
+    "given": "Macarius"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/7_27.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "isaac-coptic-4",
+  "locale": "en",
+  "names": {
+    "display": "Saint Abba Isaac",
+    "short": "Isaac",
+    "given": "Isaac"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/11_25.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ghervasie-of-patras",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ghervasie din Patras",
+    "full": "Sfântul Cuvios Ghervasie din Patras",
+    "short": "Ghervasie din Patras",
+    "given": "Ghervasie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-ghervasie-din-patras",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

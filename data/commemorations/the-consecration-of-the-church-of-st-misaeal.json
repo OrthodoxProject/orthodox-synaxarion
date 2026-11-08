@@ -1,0 +1,32 @@
+{
+  "id": "the-consecration-of-the-church-of-st-misaeal",
+  "kind": "event",
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 13,
+    "calendar": "coptic"
+  },
+  "external_ids": {
+    "copticchurch": "4_13#3"
+  },
+  "sources": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/4_13.html?lang=en#3",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:st-takla-synaxarium",
+      "url": "https://st-takla.org/books/en/church/synaxarium/04-keyahk/13-kiahk-misaeal.html",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din copticchurch.net, st-takla.org; de verificat."
+    ]
+  }
+}

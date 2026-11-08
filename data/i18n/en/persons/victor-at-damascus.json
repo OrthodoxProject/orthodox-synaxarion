@@ -1,0 +1,20 @@
+{
+  "id": "victor-at-damascus",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Victor at Damascus",
+    "short": "Victor at Damascus",
+    "given": "Victor"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/11/103278-martyr-victor-at-damascus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

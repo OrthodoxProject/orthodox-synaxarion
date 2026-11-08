@@ -1,0 +1,20 @@
+{
+  "id": "peter-of-dabar-and-bosnia",
+  "locale": "en",
+  "names": {
+    "display": "Saint Peter of Dabar and Bosnia",
+    "short": "Peter of Dabar and Bosnia",
+    "given": "Peter"
+  },
+  "references": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

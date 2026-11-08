@@ -1,0 +1,26 @@
+{
+  "id": "xenia-of-rome-and-her-two-female",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Xenia din Roma",
+    "full": "Sfânta Cuvioasă Xenia din Roma",
+    "short": "Xenia din Roma",
+    "given": "Xenia"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-xenia-din-roma",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-xenia-din-roma-sf-xenia-din-petersburg-tedeum/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

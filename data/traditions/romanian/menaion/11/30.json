@@ -1,0 +1,28 @@
+{
+  "tradition": "romanian",
+  "date": "11-30",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:andrew-the-apostle--repose"
+      ],
+      "symbol": "red-half-parenthesized"
+    },
+    {
+      "commemorations": [
+        "comm:andrei-saguna--repose"
+      ],
+      "symbol": "blue-half-parenthesized"
+    },
+    {
+      "commemorations": [
+        "comm:frumentius-of-abyssinia--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:vakhtang-gorgasali--repose"
+      ]
+    }
+  ]
+}

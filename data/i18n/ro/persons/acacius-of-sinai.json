@@ -1,0 +1,21 @@
+{
+  "id": "acacius-of-sinai",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Acachie",
+    "full": "Sfântul Cuvios Acachie",
+    "short": "Acachie",
+    "given": "Acachie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-acachie-0",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

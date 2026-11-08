@@ -1,0 +1,26 @@
+{
+  "id": "john-of-kronstadt-2--01-02",
+  "kind": "repose",
+  "subjects": [
+    "person:john-of-kronstadt-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 2
+  },
+  "sources": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/russian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din orthodox-calendar; de verificat."
+    ]
+  }
+}

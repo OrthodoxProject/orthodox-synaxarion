@@ -1,0 +1,29 @@
+{
+  "id": "gregory-palamas-of-thessalonica",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Grigorie Palama, Arhiepiscopul Tesalonicului",
+    "full": "Sfântul Ierarh Grigorie Palama, Arhiepiscopul Tesalonicului",
+    "short": "Grigorie Palama, Arhiepiscopul Tesalonicului",
+    "given": "Grigorie",
+    "variants": [
+      "Sf. Ier. Grigorie Palama, arhiepiscopul Tesalonicului"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-grigorie-palama-arhiepiscopul-tesalonicului",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ap-filip-unul-dintre-cei-12-apostoli-sf-ier-grigorie-palama-arhiepiscopul-tesalonicului-sfintii-palamiti-lasatul-secului-pentru-postul-nasterii-domnului/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

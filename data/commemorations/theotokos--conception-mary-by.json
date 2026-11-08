@@ -1,0 +1,26 @@
+{
+  "id": "theotokos--conception-mary-by",
+  "kind": "event",
+  "subjects": [
+    "person:theotokos"
+  ],
+  "date_rule": {
+    "type": "unspecified",
+    "note": "Zi mobilă în calendarul armean; regula e de stabilit."
+  },
+  "sources": [
+    {
+      "source": "src:armenianchurch-ge",
+      "url": "https://armenianchurch.ge/en/kalendar-prazdnikov/description-2/december/conception-of-st-mary-by-anna",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din armenianchurch.ge; de verificat.",
+      "În calendarul armenianchurch.ge apare în luna decembrie; ziua se stabilește după regulile calendarului armean (de completat)."
+    ]
+  }
+}

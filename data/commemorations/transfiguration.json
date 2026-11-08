@@ -1,0 +1,29 @@
+{
+  "id": "transfiguration",
+  "kind": "feast_of_the_lord",
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 6
+  },
+  "default_rank": "great_feast",
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/schimbarea-la-fata-domnului",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-schimbarea-la-fata-a-domnului-dezlegare-la-peste/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro; de verificat."
+    ]
+  }
+}

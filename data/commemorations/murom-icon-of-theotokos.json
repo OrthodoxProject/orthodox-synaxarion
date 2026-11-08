@@ -1,0 +1,34 @@
+{
+  "id": "murom-icon-of-theotokos",
+  "kind": "icon",
+  "subjects": [
+    "icon:murom-icon-of-theotokos"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 12
+  },
+  "external_ids": {
+    "oca": "101070"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoane-maicii-domnului-din-murom",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/12/101070-murom-icon-of-the-mother-of-god",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, oca.org; de verificat."
+    ]
+  }
+}

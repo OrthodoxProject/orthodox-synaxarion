@@ -1,0 +1,20 @@
+{
+  "id": "matrona-of-constantinople",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Matrona, Abbess of Constantinople",
+    "short": "Matrona, Abbess of Constantinople",
+    "given": "Matrona"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/09/103254-venerable-matrona-abbess-of-constantinople",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

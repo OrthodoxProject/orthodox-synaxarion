@@ -1,0 +1,20 @@
+{
+  "id": "abibus",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Abibus",
+    "short": "Abibus",
+    "given": "Abibus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/29/100340-martyrs-romanus-jacob-james-philotheus-hyperechius-abibus-julian",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

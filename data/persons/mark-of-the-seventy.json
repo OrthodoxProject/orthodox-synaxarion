@@ -1,0 +1,31 @@
+{
+  "id": "mark-of-the-seventy",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "apostle"
+  ],
+  "external_ids": {
+    "oca": "102733"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/27/102733-apostle-mark-of-the-seventy",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/30/103112-apostle-mark-of-the-seventy",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat.",
+      "Genul nu reiese din sursă; e de verificat."
+    ]
+  }
+}

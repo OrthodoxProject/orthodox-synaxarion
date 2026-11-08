@@ -1,0 +1,29 @@
+{
+  "id": "james-the-brother-of-john-the-theologian",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ap. Iacob, fratele Sfântului Apostol Ioan Evanghelistul",
+    "full": "Sfântul Apostol Iacob, fratele Sfântului Apostol Ioan Evanghelistul",
+    "short": "Iacob, fratele Sfântului Apostol Ioan Evanghelistul",
+    "given": "Iacob",
+    "variants": [
+      "Sf. Ap. Iacob al lui Zevedeu"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-apostol-iacob-fratele-sfantului-apostol-ioan-evanghelistul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ap-iacob-al-lui-zevedeu/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

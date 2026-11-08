@@ -1,0 +1,25 @@
+{
+  "id": "yoannis-the-nineteenth",
+  "locale": "en",
+  "names": {
+    "display": "Pope Yoannis the Nineteenth, 113th Patriarch of Alexandria",
+    "short": "Yoannis the Nineteenth, 113th Patriarch of Alexandria",
+    "given": "Yoannis"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/10_6.html?lang=en#1",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/10_14.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

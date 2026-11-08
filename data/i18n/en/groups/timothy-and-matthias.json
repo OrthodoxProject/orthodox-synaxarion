@@ -1,0 +1,18 @@
+{
+  "id": "timothy-and-matthias",
+  "locale": "en",
+  "names": {
+    "display": "Saint Timothy and Matthias"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/6_24.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

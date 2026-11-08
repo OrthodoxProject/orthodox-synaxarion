@@ -1,0 +1,21 @@
+{
+  "id": "iulita",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Iulita",
+    "full": "Sfânta Muceniță Iulita",
+    "short": "Iulita",
+    "given": "Iulita"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-iulita",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

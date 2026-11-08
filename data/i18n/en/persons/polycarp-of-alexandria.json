@@ -1,0 +1,20 @@
+{
+  "id": "polycarp-of-alexandria",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Polycarp of Alexandria",
+    "short": "Polycarp of Alexandria",
+    "given": "Polycarp"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/02/100974-martyr-polycarp-of-alexandria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

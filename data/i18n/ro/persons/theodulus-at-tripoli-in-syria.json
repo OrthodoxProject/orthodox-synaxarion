@@ -1,0 +1,26 @@
+{
+  "id": "theodulus-at-tripoli-in-syria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Teodul",
+    "full": "Sfântul Mucenic Teodul",
+    "short": "Teodul",
+    "given": "Teodul"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-teodul-0",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-leontie-ipatie-si-teodul-sf-cuv-erasm/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

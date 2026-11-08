@@ -1,0 +1,20 @@
+{
+  "id": "dometian-of-melitene",
+  "locale": "en",
+  "names": {
+    "display": "Saint Dometian, Bishop of Melitene",
+    "short": "Dometian, Bishop of Melitene",
+    "given": "Dometian"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/10/100141-saint-dometian-bishop-of-melitene",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

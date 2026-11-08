@@ -1,0 +1,26 @@
+{
+  "id": "haggai-the-prophet",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Proroc Agheu",
+    "full": "Sfântul Proroc Agheu",
+    "short": "Agheu",
+    "given": "Agheu"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-proroc-agheu",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-proroc-agheu-sf-teofana-imparateasa/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

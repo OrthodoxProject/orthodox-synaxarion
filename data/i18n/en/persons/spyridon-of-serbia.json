@@ -1,0 +1,28 @@
+{
+  "id": "spyridon-of-serbia",
+  "locale": "en",
+  "names": {
+    "display": "Saint Spyridon, Patriarch of Serbia",
+    "short": "Spyridon, Patriarch of Serbia",
+    "given": "Spyridon",
+    "variants": [
+      "Spyridon of Serbia"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/30/102437-saint-spyridon-patriarch-of-serbia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pontiff-st-james-of-nisibis-hermit-st-maruge",
+  "kind": "repose",
+  "subjects": [
+    "group:pontiff-st-james-of-nisibis-hermit-st-maruge"
+  ],
+  "date_rule": {
+    "type": "unspecified",
+    "note": "Zi mobilă în calendarul armean; regula e de stabilit."
+  },
+  "sources": [
+    {
+      "source": "src:armenianchurch-ge",
+      "url": "https://armenianchurch.ge/en/kalendar-prazdnikov/description-2/december/commemoration-of-the-pontiff-st-james-of-nisibis-hermit-st-maruge-and-bishop-st-melitus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din armenianchurch.ge; de verificat.",
+      "În calendarul armenianchurch.ge apare în luna decembrie; ziua se stabilește după regulile calendarului armean (de completat)."
+    ]
+  }
+}

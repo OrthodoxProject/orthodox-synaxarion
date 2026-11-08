@@ -1,0 +1,29 @@
+{
+  "id": "eugraphus-of-alexandria--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:eugraphus-of-alexandria"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 10
+  },
+  "external_ids": {
+    "oca": "103511"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/10/103511-martyrs-menas-hermogenes-and-eugraphus-of-alexandria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

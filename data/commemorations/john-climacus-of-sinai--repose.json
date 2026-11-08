@@ -1,0 +1,29 @@
+{
+  "id": "john-climacus-of-sinai--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:john-climacus-of-sinai"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 30
+  },
+  "external_ids": {
+    "oca": "100943"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/30/100943-venerable-john-climacus-of-sinai-author-of-the-ladder",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

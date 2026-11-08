@@ -1,0 +1,20 @@
+{
+  "id": "eustolia-of-constantinople",
+  "locale": "en",
+  "names": {
+    "display": "Saint Eustolia of Constantinople",
+    "short": "Eustolia of Constantinople",
+    "given": "Eustolia"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/09/103259-saint-eustolia-of-constantinople",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

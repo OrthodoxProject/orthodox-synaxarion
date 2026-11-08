@@ -1,0 +1,23 @@
+{
+  "id": "acvila-the-apostle-and-priscila-the-apostle",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinți Apostoli și Mucenici Acvila și soția sa, Priscila"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfinti-apostoli-mucenici-acvila-sotia-sa-priscila",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-martinian-sf-ap-acvila-si-sotia-sa-priscila-sf-ier-evloghie-patriarhul-alexandriei/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

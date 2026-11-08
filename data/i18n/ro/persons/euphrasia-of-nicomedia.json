@@ -1,0 +1,26 @@
+{
+  "id": "euphrasia-of-nicomedia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Eufrasia",
+    "full": "Sfânta Muceniță Eufrasia",
+    "short": "Eufrasia",
+    "given": "Eufrasia"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-eufrasia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-macarie-cel-mare-si-macarie-alexandrinul-sf-ier-marcu-mitropolitul-efesului-sf-mc-eufrasia-duminica-a-29-a-dupa-rusalii-apostolul-duminicii-a-28-a-coloseni-1-12-18-ev-luca-17-1/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "acacius-of-sinai",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Acacius of Sinai, who is mentioned in the Ladder",
+    "short": "Acacius of Sinai, who is mentioned in the Ladder",
+    "given": "Acacius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/07/101951-venerable-acacius-of-sinai-who-is-mentioned-in-the-ladder",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

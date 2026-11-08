@@ -1,0 +1,35 @@
+{
+  "id": "clement-of-rome-coptic--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:clement-of-rome-coptic"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 29,
+    "calendar": "coptic"
+  },
+  "external_ids": {
+    "copticchurch": "3_29#2"
+  },
+  "sources": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/3_29.html?lang=en#2",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:st-takla-synaxarium",
+      "url": "https://st-takla.org/books/en/church/synaxarium/03-hatoor/29-hator-clement.html",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din copticchurch.net, st-takla.org; de verificat."
+    ]
+  }
+}

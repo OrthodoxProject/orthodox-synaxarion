@@ -1,0 +1,21 @@
+{
+  "id": "evhie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Evhie",
+    "full": "Sfântul Mucenic Evhie",
+    "short": "Evhie",
+    "given": "Evhie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-evhie",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

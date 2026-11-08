@@ -1,0 +1,20 @@
+{
+  "id": "makarios-the-roman",
+  "locale": "en",
+  "names": {
+    "display": "Saint Makarios the Roman",
+    "short": "Makarios the Roman",
+    "given": "Makarios"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/15/149024-saint-makarios-the-roman",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

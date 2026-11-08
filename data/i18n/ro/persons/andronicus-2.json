@@ -1,0 +1,26 @@
+{
+  "id": "andronicus-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Andronic",
+    "full": "Sfântul Mucenic Andronic",
+    "short": "Andronic",
+    "given": "Andronic"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-andronic",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-prov-tarah-si-andronic-sf-ier-cosma-episcopul-maiumei/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

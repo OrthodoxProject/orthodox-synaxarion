@@ -1,0 +1,28 @@
+{
+  "id": "acvila-the-apostle",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "apostle",
+    "martyr"
+  ],
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfinti-apostoli-mucenici-acvila-sotia-sa-priscila",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-martinian-sf-ap-acvila-si-sotia-sa-priscila-sf-ier-evloghie-patriarhul-alexandriei/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro; de verificat."
+    ]
+  }
+}

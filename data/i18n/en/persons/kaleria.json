@@ -1,0 +1,20 @@
+{
+  "id": "kaleria",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Kaleria",
+    "short": "Kaleria",
+    "given": "Kaleria"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/07/101659-martyrs-kyriake-kaleria-and-mary-of-caesarea-in-palestine",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

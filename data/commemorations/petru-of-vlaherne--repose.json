@@ -1,0 +1,26 @@
+{
+  "id": "petru-of-vlaherne--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:petru-of-vlaherne"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 16
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-petru-din-vlaherne",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

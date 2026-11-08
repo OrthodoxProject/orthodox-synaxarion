@@ -1,0 +1,36 @@
+{
+  "tradition": "serbian",
+  "date": "04-24",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:savva-stratelates-the-general-of-rome--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:valentine-of-durostorum--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:elizabeth--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:savva-brancovici-of-ardeal--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:joseph-the-confessor-of-maramures--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

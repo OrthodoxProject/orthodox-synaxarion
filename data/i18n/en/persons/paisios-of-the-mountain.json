@@ -1,0 +1,20 @@
+{
+  "id": "paisios-of-the-mountain",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Paisios of the Holy Mountain",
+    "short": "Paisios of the Holy Mountain",
+    "given": "Paisios"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/12/100401-venerable-paisios-of-the-holy-mountain",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

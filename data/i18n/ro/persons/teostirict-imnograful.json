@@ -1,0 +1,21 @@
+{
+  "id": "teostirict-imnograful",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Teostirict imnograful",
+    "full": "Sfântul Cuvios Teostirict imnograful",
+    "short": "Teostirict imnograful",
+    "given": "Teostirict"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-teostirict-imnograful",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

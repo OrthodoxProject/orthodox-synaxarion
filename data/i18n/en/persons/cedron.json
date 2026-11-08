@@ -1,0 +1,20 @@
+{
+  "id": "cedron",
+  "locale": "en",
+  "names": {
+    "display": "Saint Cedron (Kardonos), the Fourth Patriarch of Alexandria",
+    "short": "Cedron, Fourth Patriarch of Alexandria",
+    "given": "Cedron"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/10_21.html?lang=en#3",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

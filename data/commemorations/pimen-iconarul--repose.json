@@ -1,0 +1,26 @@
+{
+  "id": "pimen-iconarul--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:pimen-iconarul"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 3
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-pimen-iconarul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

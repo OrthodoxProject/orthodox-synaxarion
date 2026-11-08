@@ -1,0 +1,29 @@
+{
+  "id": "eustathius-of-antioch",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Eustatie, Arhiepiscopul Antiohiei",
+    "full": "Sfântul Ierarh Eustatie, Arhiepiscopul Antiohiei",
+    "short": "Eustatie, Arhiepiscopul Antiohiei",
+    "given": "Eustatie",
+    "variants": [
+      "Sf. Ier. Eustație, arhiepiscopul Antiohiei"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-eustatie-arhiepiscopul-antiohiei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-timotei-sf-ier-eustatie-arhiepiscopul-antiohiei-sambata-sfintilor-cuviosi/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

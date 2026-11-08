@@ -1,0 +1,20 @@
+{
+  "id": "aidan-of-lindesfarne",
+  "locale": "en",
+  "names": {
+    "display": "Saint Aidan, Bishop of Lindesfarne",
+    "short": "Aidan, Bishop of Lindesfarne",
+    "given": "Aidan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/31/102445-saint-aidan-bishop-of-lindesfarne",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

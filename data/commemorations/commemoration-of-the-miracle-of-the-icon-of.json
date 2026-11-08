@@ -1,0 +1,26 @@
+{
+  "id": "commemoration-of-the-miracle-of-the-icon-of",
+  "kind": "event",
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 11
+  },
+  "external_ids": {
+    "oca": "108933"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/11/108933-commemoration-of-the-miracle-of-the-icon-of-our-lord-jesus-chris",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "relocation-of-the-relics-of-the-forty",
+  "locale": "en",
+  "names": {
+    "display": "Relocation of the Relics of the Forty-Nine Elders of the Wilderness of Shiheet (Scetis)",
+    "short": "Relocation of the Relics of the Forty-Nine Elders of the Wilderness of Shiheet",
+    "given": "Relocation"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/6_5.html?lang=en#4",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

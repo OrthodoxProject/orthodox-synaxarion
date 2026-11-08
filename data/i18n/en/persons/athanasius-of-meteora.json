@@ -1,0 +1,20 @@
+{
+  "id": "athanasius-of-meteora",
+  "locale": "en",
+  "names": {
+    "display": "Saint Athanasius of Meteora",
+    "short": "Athanasius of Meteora",
+    "given": "Athanasius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/20/205350-saint-athanasius-of-meteora",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

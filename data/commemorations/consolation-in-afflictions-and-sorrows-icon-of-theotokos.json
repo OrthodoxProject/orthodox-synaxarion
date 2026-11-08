@@ -1,0 +1,29 @@
+{
+  "id": "consolation-in-afflictions-and-sorrows-icon-of-theotokos",
+  "kind": "icon",
+  "subjects": [
+    "icon:consolation-in-afflictions-and-sorrows-icon-of-theotokos"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 19
+  },
+  "external_ids": {
+    "oca": "103338"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/19/103338-consolation-in-afflictions-and-sorrows-icon-of-the-mother-of-god",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

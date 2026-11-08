@@ -1,0 +1,29 @@
+{
+  "id": "simeon-the-ancient-of-mount-sinai--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:simeon-the-ancient-of-mount-sinai"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 26
+  },
+  "external_ids": {
+    "oca": "100323"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/26/100323-saint-simeon-the-ancient-of-mount-sinai",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "zenobios",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Zenovia, sora Sfântului Mucenic Zenovie",
+    "full": "Sfânta Muceniță Zenovia, sora Sfântului Mucenic Zenovie",
+    "short": "Zenovia, sora Sfântului Mucenic Zenovie",
+    "given": "Zenovia"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-zenovia-sora-sfantului-mucenic-zenovie",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-sfintit-mc-zenovie-episcopul-ciliciei-si-sora-sa-zenovia-sf-ap-cleopa/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

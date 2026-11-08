@@ -1,0 +1,20 @@
+{
+  "id": "theodore-the-sanctified",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Theodore the Sanctified, disciple of Venerable Pachomius the Great",
+    "short": "Theodore the Sanctified, disciple of Venerable Pachomius the Great",
+    "given": "Theodore"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/16/101393-venerable-theodore-the-sanctified-disciple-of-venerable-pachomiu",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

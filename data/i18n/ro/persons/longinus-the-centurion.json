@@ -1,0 +1,26 @@
+{
+  "id": "longinus-the-centurion",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Longhin Sutașul",
+    "full": "Sfântul Mucenic Longhin Sutașul",
+    "short": "Longhin Sutașul",
+    "given": "Longhin"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-longhin-sutasul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-longhin-sutasul/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

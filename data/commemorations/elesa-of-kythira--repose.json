@@ -1,0 +1,26 @@
+{
+  "id": "elesa-of-kythira--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:elesa-of-kythira"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 1
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-elesa-eliza-din-kythira",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

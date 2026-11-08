@@ -1,0 +1,20 @@
+{
+  "id": "sebastian-at-rome",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Sebastian at Rome, and his companions",
+    "short": "Sebastian at Rome",
+    "given": "Sebastian"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/18/103565-martyr-sebastian-at-rome-and-his-companions",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

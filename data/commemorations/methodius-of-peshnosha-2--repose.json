@@ -1,0 +1,29 @@
+{
+  "id": "methodius-of-peshnosha-2--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:methodius-of-peshnosha-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 14
+  },
+  "external_ids": {
+    "oca": "101721"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/14/101721-venerable-methodius-abbot-of-peshnosha",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "icon-of-theotokos-of-mahaira-ciprului",
+  "kind": "icon",
+  "subjects": [
+    "icon:icon-of-theotokos-of-mahaira-ciprului"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 21
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-icoanei-maicii-domnului-de-la-mahaira-ciprului",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

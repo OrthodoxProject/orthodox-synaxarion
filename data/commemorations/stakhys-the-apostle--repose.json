@@ -1,0 +1,29 @@
+{
+  "id": "stakhys-the-apostle--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:stakhys-the-apostle"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 31
+  },
+  "external_ids": {
+    "oca": "103132"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/31/103132-holy-apostles-stakhys-apelles-amplias-urban-and-narcissus-of-the",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "silvanus-of-the-seventy",
+  "locale": "en",
+  "names": {
+    "display": "Apostle Silvanus of the Seventy",
+    "short": "Silvanus of the Seventy",
+    "given": "Silvanus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/30/102132-apostle-silvanus-of-the-seventy",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

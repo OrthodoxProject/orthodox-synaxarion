@@ -1,0 +1,30 @@
+{
+  "tradition": "ecumenical",
+  "date": "10-28",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:stephen-the-hymnographer-of-savva-monastery--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:job-the-wonderworker-of-pochaev--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:demetrius-of-rostov--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:neophytus-of-urbin--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

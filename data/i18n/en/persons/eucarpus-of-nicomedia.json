@@ -1,0 +1,20 @@
+{
+  "id": "eucarpus-of-nicomedia",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Eucarpus of Nicomedia",
+    "short": "Eucarpus of Nicomedia",
+    "given": "Eucarpus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/18/100826-martyrs-trophimus-and-eucarpus-of-nicomedia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

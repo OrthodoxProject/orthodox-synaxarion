@@ -1,0 +1,32 @@
+{
+  "id": "julian-2-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:julian-2",
+    "person:eunos",
+    "person:beza",
+    "person:mekaro-of-alexandria"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 27
+  },
+  "external_ids": {
+    "oca": "109065"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/27/109065-martyrs-julian-eunos-beza-and-mekaro-of-alexandria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

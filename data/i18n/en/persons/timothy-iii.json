@@ -1,0 +1,28 @@
+{
+  "id": "timothy-iii",
+  "locale": "en",
+  "names": {
+    "display": "Saint Timothy III, 32nd Pope of Alexandria",
+    "short": "Timothy III, 32nd Pope of Alexandria",
+    "given": "Timothy",
+    "variants": [
+      "Saint Timothy II (Timotheos), 26th Pope of Alexandria"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/6_13.html?lang=en#2",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/12_7.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

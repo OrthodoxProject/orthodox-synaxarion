@@ -1,0 +1,26 @@
+{
+  "id": "twelve-archimandrites-sts-retheos-dionisios-selbestros-athanas-cyril",
+  "kind": "repose",
+  "subjects": [
+    "group:twelve-archimandrites-sts-retheos-dionisios-selbestros-athanas-cyril"
+  ],
+  "date_rule": {
+    "type": "unspecified",
+    "note": "Zi mobilă în calendarul armean; regula e de stabilit."
+  },
+  "sources": [
+    {
+      "source": "src:armenianchurch-ge",
+      "url": "https://armenianchurch.ge/en/kalendar-prazdnikov/description-2/october/commemoration-of-the-twelve-archimandrites-sts-retheos-dionisios-selbestros-athanas-cyril-of-jerusalem-ephrem-khourie-assyrian-vasil-barsegh-of-caesaria-gregory-of-nyssa-gregory-the-theoloegian-epiphan-of-cyprus-john-chrysostom-and-cyril",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din armenianchurch.ge; de verificat.",
+      "În calendarul armenianchurch.ge apare în luna octombrie; ziua se stabilește după regulile calendarului armean (de completat)."
+    ]
+  }
+}

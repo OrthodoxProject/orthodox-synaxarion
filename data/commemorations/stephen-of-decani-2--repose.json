@@ -1,0 +1,30 @@
+{
+  "id": "stephen-of-decani-2--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:stephen-of-decani-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 24
+  },
+  "sources": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Stephen_of_De%C4%8Dani"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din orthodox-calendar, Wikipedia; de verificat."
+    ]
+  }
+}

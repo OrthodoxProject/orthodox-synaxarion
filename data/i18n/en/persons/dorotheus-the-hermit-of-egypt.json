@@ -1,0 +1,20 @@
+{
+  "id": "dorotheus-the-hermit-of-egypt",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Dorotheus the Hermit of Egypt",
+    "short": "Dorotheus the Hermit of Egypt",
+    "given": "Dorotheus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/16/102632-venerable-dorotheus-the-hermit-of-egypt",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

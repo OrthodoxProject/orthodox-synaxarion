@@ -1,0 +1,21 @@
+{
+  "id": "faust-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Faust",
+    "full": "Sfântul Mucenic Faust",
+    "short": "Faust",
+    "given": "Faust"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-faust",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "luca-of-mitilini",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "new_martyr",
+    "venerable_martyr"
+  ],
+  "external_ids": {
+    "doxologia": "sfantul-cuvios-nou-mucenic-luca-din-mitilini"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-nou-mucenic-luca-din-mitilini",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

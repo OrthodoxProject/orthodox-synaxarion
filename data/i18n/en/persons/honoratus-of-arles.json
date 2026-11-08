@@ -1,0 +1,20 @@
+{
+  "id": "honoratus-of-arles",
+  "locale": "en",
+  "names": {
+    "display": "Saint Honoratus, Archbishop of Arles, founder of Lerins Monastery",
+    "short": "Honoratus, Archbishop of Arles, founder of Lerins Monastery",
+    "given": "Honoratus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/16/100213-saint-honoratus-archbishop-of-arles-founder-of-lerins-monastery",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

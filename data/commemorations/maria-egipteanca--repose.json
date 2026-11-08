@@ -1,0 +1,31 @@
+{
+  "id": "maria-egipteanca--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:maria-egipteanca"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 1
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-maria-egipteanca",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-maria-egipteanca-sf-cuv-macarie-marturisitorul-sf-mc-gherontie-sf-cuv-varsanufie-de-la-optina/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro; de verificat."
+    ]
+  }
+}

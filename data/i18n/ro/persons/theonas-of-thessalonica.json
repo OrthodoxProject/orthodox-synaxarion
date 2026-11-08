@@ -1,0 +1,21 @@
+{
+  "id": "theonas-of-thessalonica",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Teona, Arhiepiscopul Tesalonicului",
+    "full": "Sfântul Ierarh Teona, Arhiepiscopul Tesalonicului",
+    "short": "Teona, Arhiepiscopul Tesalonicului",
+    "given": "Teona"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-teona-arhiepiscopul-tesalonicului",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

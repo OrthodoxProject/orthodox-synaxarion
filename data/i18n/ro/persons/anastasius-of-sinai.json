@@ -1,0 +1,29 @@
+{
+  "id": "anastasius-of-sinai",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Anastasie Sinaitul",
+    "full": "Sfântul Cuvios Anastasie Sinaitul",
+    "short": "Anastasie Sinaitul",
+    "given": "Anastasie",
+    "variants": [
+      "Sf. Anastasie Sinaitul, Patriarhul Antiohiei"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-anastasie-sinaitul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-anastasie-sinaitul-patriarhul-antiohiei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

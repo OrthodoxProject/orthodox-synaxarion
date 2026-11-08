@@ -1,0 +1,20 @@
+{
+  "id": "abraham-coptic",
+  "locale": "en",
+  "names": {
+    "display": "Our father Abraham",
+    "short": "Abraham",
+    "given": "Abraham"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/12_28.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

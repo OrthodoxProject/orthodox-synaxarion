@@ -1,0 +1,23 @@
+{
+  "id": "icon-of-theotokos-ostrobramsk-vilnius",
+  "locale": "ro",
+  "names": {
+    "display": "Cinstirea Sfintei Icoanei a Maicii Domnului „Ostrobramsk - Vilnius”"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoanei-maicii-domnului-ostrobramsk-vilnius",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoane-maicii-domnului-din-vilnius",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

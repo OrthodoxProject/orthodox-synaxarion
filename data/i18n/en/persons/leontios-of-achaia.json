@@ -1,0 +1,20 @@
+{
+  "id": "leontios-of-achaia",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Leontios of Achaia",
+    "short": "Leontios of Achaia",
+    "given": "Leontios"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/10/205420-venerable-leontios-of-achaia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

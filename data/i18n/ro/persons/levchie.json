@@ -1,0 +1,21 @@
+{
+  "id": "levchie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Levchie",
+    "full": "Sfântul Mucenic Levchie",
+    "short": "Levchie",
+    "given": "Levchie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-levchie",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "meeting-of-the-lord--leavetaking",
+  "locale": "ro",
+  "names": {
+    "display": "Odovania Praznicului Întâmpinării Domnului"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/odovania-praznicului-intampinarii-domnului",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/odovania-praznicului-intampinarii-domnului-sf-mc-nichifor/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

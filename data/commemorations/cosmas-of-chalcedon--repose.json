@@ -1,0 +1,34 @@
+{
+  "id": "cosmas-of-chalcedon--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:cosmas-of-chalcedon"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 18
+  },
+  "external_ids": {
+    "oca": "101141"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-cosma-marturisitorul-episcopul-calcedonului",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/18/101141-saint-cosmas-bishop-of-chalcedon-and-his-fellow-ascetic-saint-au",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, oca.org; de verificat."
+    ]
+  }
+}

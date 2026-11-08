@@ -1,0 +1,20 @@
+{
+  "id": "isidore-of-pelusium-coptic",
+  "locale": "en",
+  "names": {
+    "display": "Saint Isidore of Pelusium",
+    "short": "Isidore of Pelusium",
+    "given": "Isidore"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/6_10.html?lang=en#3",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

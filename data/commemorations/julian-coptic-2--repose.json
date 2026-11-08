@@ -1,0 +1,30 @@
+{
+  "id": "julian-coptic-2--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:julian-coptic-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 13,
+    "calendar": "coptic"
+  },
+  "external_ids": {
+    "copticchurch": "9_13#1"
+  },
+  "sources": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/9_13.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din copticchurch.net; de verificat."
+    ]
+  }
+}

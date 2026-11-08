@@ -1,0 +1,26 @@
+{
+  "id": "james-the-apostle",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ap. Iacob al lui Alfeu",
+    "full": "Sfântul Apostol Iacob al lui Alfeu",
+    "short": "Iacob al lui Alfeu",
+    "given": "Iacob"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-apostol-iacob-al-lui-alfeu",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ap-iacob-al-lui-alfeu-sf-cuv-andronic-si-atanasia/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

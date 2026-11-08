@@ -1,0 +1,29 @@
+{
+  "id": "asterius-the-senator-at-caesarea--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:asterius-the-senator-at-caesarea"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 7
+  },
+  "external_ids": {
+    "oca": "102224"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/07/102224-martyr-asterius-the-senator-at-caesarea-in-palestine",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

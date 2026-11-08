@@ -1,0 +1,26 @@
+{
+  "id": "edesius-of-lycia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Edesie",
+    "full": "Sfântul Mucenic Edesie",
+    "short": "Edesie",
+    "given": "Edesie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-edesie",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-tit-facatorul-de-minuni-sf-mc-amfian-si-edesie/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "leucius-of-brindisi--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:leucius-of-brindisi"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 20
+  },
+  "external_ids": {
+    "oca": "101768"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/20/101768-saint-leucius-bishop-of-brindisi",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

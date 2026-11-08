@@ -1,0 +1,20 @@
+{
+  "id": "christopher-of-gazara",
+  "locale": "en",
+  "names": {
+    "display": "Saint Christopher of Gazara",
+    "short": "Christopher of Gazara",
+    "given": "Christopher"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/18/108982-saint-christopher-of-gazara",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

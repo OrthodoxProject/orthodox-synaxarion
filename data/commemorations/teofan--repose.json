@@ -1,0 +1,31 @@
+{
+  "id": "teofan--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:teofan"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 17
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-teofan",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ap-andronic-si-sotia-sa-iunia-sf-cuv-nectarie-si-teofan-duminica-a-6-a-dupa-pasti-vindecarea-orbului-din-nastere-ap-fapte-16-16-34-ev-ioan-9-1-38-glas-5-voscr-8/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro; de verificat."
+    ]
+  }
+}

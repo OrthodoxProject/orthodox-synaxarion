@@ -1,0 +1,25 @@
+{
+  "id": "filimon-the-apostle",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ap. Filimon",
+    "short": "Filimon",
+    "given": "Filimon"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-apostol-filimon-sotia-sa-apfia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ap-filimon-arhip-onisim-si-apfia-sf-mc-cecilia-dezlegare-la-peste-duminica-a-26-a-dupa-rusalii-ap-efeseni-5-8-19-ev-luca-12-16-21-pilda-bogatului-caruia-i-a-rodit-tarina-glas-8/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

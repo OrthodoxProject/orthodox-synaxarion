@@ -1,0 +1,20 @@
+{
+  "id": "makarios-of-zheltovod",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Makarios, Abbot of Zheltovod and Unzha",
+    "short": "Makarios, Abbot of Zheltovod and Unzha",
+    "given": "Makarios"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/25/102089-venerable-makarios-abbot-of-zheltovod-and-unzha",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

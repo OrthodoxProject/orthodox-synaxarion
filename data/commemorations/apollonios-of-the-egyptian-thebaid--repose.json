@@ -1,0 +1,29 @@
+{
+  "id": "apollonios-of-the-egyptian-thebaid--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:apollonios-of-the-egyptian-thebaid"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 31
+  },
+  "external_ids": {
+    "oca": "100325"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/31/100325-saint-apollonios-apollo-of-the-egyptian-thebaid",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

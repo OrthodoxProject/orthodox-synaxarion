@@ -1,0 +1,21 @@
+{
+  "id": "ioan-carpatiul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ioan Carpatiul",
+    "full": "Sfântul Ioan Carpatiul",
+    "short": "Ioan Carpatiul",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ioan-carpatiul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

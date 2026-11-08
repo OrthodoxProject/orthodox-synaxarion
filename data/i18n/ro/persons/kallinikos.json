@@ -1,0 +1,26 @@
+{
+  "id": "kallinikos",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Calinic",
+    "full": "Sfântul Mucenic Calinic",
+    "short": "Calinic",
+    "given": "Calinic"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-calinic",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-tirs-calinic-filimon-si-apolonie/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

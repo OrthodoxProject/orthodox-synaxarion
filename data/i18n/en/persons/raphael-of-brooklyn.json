@@ -1,0 +1,20 @@
+{
+  "id": "raphael-of-brooklyn",
+  "locale": "en",
+  "names": {
+    "display": "Repose of Saint Raphael, Bishop of Brooklyn",
+    "short": "Raphael, Bishop of Brooklyn",
+    "given": "Raphael"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/27/100610-repose-of-saint-raphael-bishop-of-brooklyn",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

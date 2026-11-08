@@ -1,0 +1,20 @@
+{
+  "id": "john-7",
+  "locale": "en",
+  "names": {
+    "display": "Right-believing John, Prince of Uglich, tonsured as Ignatius",
+    "short": "John, Prince of Uglich, tonsured as Ignatius",
+    "given": "John"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/19/101441-right-believing-john-prince-of-uglich-tonsured-as-ignatius",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

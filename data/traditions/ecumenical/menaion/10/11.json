@@ -1,0 +1,37 @@
+{
+  "tradition": "ecumenical",
+  "date": "10-11",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:philotheus-of-constantinople--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:philip-of-the-seventy--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:theophanes-the-confessor--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:synaxis-of-fathers-of-optina"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:zenaida--repose",
+        "comm:philonilla-of-tarsus--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

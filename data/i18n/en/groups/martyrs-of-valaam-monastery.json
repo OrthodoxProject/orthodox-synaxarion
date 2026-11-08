@@ -1,0 +1,18 @@
+{
+  "id": "martyrs-of-valaam-monastery",
+  "locale": "en",
+  "names": {
+    "display": "Monastic Martyrs of Valaam Monastery"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/20/100540-monastic-martyrs-of-valaam-monastery",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

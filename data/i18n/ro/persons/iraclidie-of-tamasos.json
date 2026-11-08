@@ -1,0 +1,21 @@
+{
+  "id": "iraclidie-of-tamasos",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Iraclidie, Episcop de Tamasos",
+    "full": "Sfântul Ierarh Iraclidie, Episcop de Tamasos",
+    "short": "Iraclidie, Episcop de Tamasos",
+    "given": "Iraclidie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-iraclidie-episcop-de-tamasos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

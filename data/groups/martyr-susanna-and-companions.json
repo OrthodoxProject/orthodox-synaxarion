@@ -1,0 +1,25 @@
+{
+  "id": "martyr-susanna-and-companions",
+  "kind": "martyrs",
+  "holiness_types": [
+    "virgin",
+    "martyr"
+  ],
+  "external_ids": {
+    "oca": "102268"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/11/102268-virgin-martyr-susanna-and-those-with-her-at-rome",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

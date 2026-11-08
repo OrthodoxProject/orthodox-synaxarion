@@ -1,0 +1,20 @@
+{
+  "id": "claudius-3",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Claudius, Asterius, Neon",
+    "short": "Claudius, Asterius, Neon",
+    "given": "Claudius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/29/103103-martyr-claudius-asterius-neon-and-theonilla-of-aeg-in-cilicia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

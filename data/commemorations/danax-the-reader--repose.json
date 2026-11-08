@@ -1,0 +1,29 @@
+{
+  "id": "danax-the-reader--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:danax-the-reader"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 16
+  },
+  "external_ids": {
+    "oca": "100212"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/16/100212-martyr-danax-the-reader-in-macedonia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "natanail",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Natanail",
+    "full": "Sfântul Cuvios Natanail",
+    "short": "Natanail",
+    "given": "Natanail"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-natanail",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mare-mc-iacob-persul-sf-cuv-natanael-si-pinufrie/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

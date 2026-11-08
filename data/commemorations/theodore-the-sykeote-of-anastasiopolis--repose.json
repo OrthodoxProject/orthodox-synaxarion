@@ -1,0 +1,39 @@
+{
+  "id": "theodore-the-sykeote-of-anastasiopolis--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:theodore-the-sykeote-of-anastasiopolis"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 22
+  },
+  "external_ids": {
+    "oca": "101178"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-teodor-sicheotul-episcopul-anastasiopolei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ier-teodor-sicheotul-episcopul-anastasiopolei-dezlegare-la-peste/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/22/101178-saint-theodore-the-sykeote-bishop-of-anastasiopolis",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

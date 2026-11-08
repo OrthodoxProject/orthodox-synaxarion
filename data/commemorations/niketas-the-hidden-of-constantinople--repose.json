@@ -1,0 +1,29 @@
+{
+  "id": "niketas-the-hidden-of-constantinople--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:niketas-the-hidden-of-constantinople"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 9
+  },
+  "external_ids": {
+    "oca": "102554"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/09/102554-blessed-niktas-the-hidden-of-constantinople",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

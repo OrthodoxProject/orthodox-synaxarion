@@ -1,0 +1,20 @@
+{
+  "id": "prochorus-of-georgia",
+  "locale": "en",
+  "names": {
+    "display": "Saint Prochorus of Georgia",
+    "short": "Prochorus of Georgia",
+    "given": "Prochorus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/12/103720-saint-prochorus-of-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

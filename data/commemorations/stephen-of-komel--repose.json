@@ -1,0 +1,29 @@
+{
+  "id": "stephen-of-komel--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:stephen-of-komel"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 12
+  },
+  "external_ids": {
+    "oca": "101706"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/12/101706-venerable-stephen-of-komel-abbot-of-ozersk-monastery-vologda",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

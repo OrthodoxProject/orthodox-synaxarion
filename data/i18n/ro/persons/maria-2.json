@@ -1,0 +1,21 @@
+{
+  "id": "maria-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Maria",
+    "full": "Sfânta Muceniță Maria",
+    "short": "Maria",
+    "given": "Maria"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-maria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

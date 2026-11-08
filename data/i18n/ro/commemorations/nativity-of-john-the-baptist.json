@@ -1,0 +1,23 @@
+{
+  "id": "nativity-of-john-the-baptist",
+  "locale": "ro",
+  "names": {
+    "display": "Nașterea Sfântului Ioan Botezătorul (Sânzienele – Drăgaica)"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/nasterea-sfantului-ioan-botezatorul-sanzienele-dragaica",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-nasterea-sf-proroc-ioan-botezatorul-sanzienele-sau-dragaica-%e2%80%a0-aducerea-moastelor-sf-mare-mc-ioan-cel-nou-de-la-suceava-%e2%80%a0-sf-ier-niceta-de-remesiana-dezlegare-la-p/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

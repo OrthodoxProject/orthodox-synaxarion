@@ -1,0 +1,23 @@
+{
+  "id": "annunciation--forefeast",
+  "locale": "ro",
+  "names": {
+    "display": "Înainte-prăznuirea Bunei Vestiri"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/inainte-praznuirea-bunei-vestiri",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/inainte-praznuirea-bunei-vestiri-sf-ier-artemon-episcopul-seleuciei/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

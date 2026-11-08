@@ -1,0 +1,29 @@
+{
+  "id": "publius-of-egypt--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:publius-of-egypt"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 5
+  },
+  "external_ids": {
+    "oca": "100999"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/05/100999-venerable-publius-of-egypt",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

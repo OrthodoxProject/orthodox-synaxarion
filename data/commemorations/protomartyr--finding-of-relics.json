@@ -1,0 +1,29 @@
+{
+  "id": "protomartyr--finding-of-relics",
+  "kind": "relics_finding",
+  "subjects": [
+    "person:protomartyr"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 15
+  },
+  "external_ids": {
+    "oca": "102621"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/15/102621-uncovering-of-the-relics-of-the-holy-protomartyr-and-archdeacon",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

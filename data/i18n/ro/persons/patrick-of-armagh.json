@@ -1,0 +1,21 @@
+{
+  "id": "patrick-of-armagh",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Patrick, Luminătorul Irlandei",
+    "full": "Sfântul Ierarh Patrick, Luminătorul Irlandei",
+    "short": "Patrick, Luminătorul Irlandei",
+    "given": "Patrick"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-patrick-luminatorul-irlandei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

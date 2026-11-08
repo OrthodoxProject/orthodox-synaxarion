@@ -1,0 +1,34 @@
+{
+  "id": "maximus-the-greek--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:maximus-the-greek"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 21
+  },
+  "external_ids": {
+    "oca": "100258"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-maxim-grecul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/21/100258-venerable-maximus-the-greek",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, oca.org; de verificat."
+    ]
+  }
+}

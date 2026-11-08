@@ -1,0 +1,20 @@
+{
+  "id": "ennatha-2",
+  "locale": "en",
+  "names": {
+    "display": "Five Nun Ennatha",
+    "short": "Ennatha",
+    "given": "Ennatha"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/09/101673-five-nuns-beheaded-in-persia-martyrs-thecla-mariamne-martha-mary",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

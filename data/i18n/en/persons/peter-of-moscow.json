@@ -1,0 +1,20 @@
+{
+  "id": "peter-of-moscow",
+  "locale": "en",
+  "names": {
+    "display": "Repose of Saint Peter, Metropolitan of Moscow, Wonderworker of All Russia",
+    "short": "Peter, Metropolitan of Moscow, Wonderworker of All Russia",
+    "given": "Peter"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/21/103604-repose-of-saint-peter-metropolitan-of-moscow-wonderworker-of-all",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

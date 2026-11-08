@@ -1,0 +1,26 @@
+{
+  "id": "grigoris-of-aghvank--finding-of-relics",
+  "kind": "relics_finding",
+  "subjects": [
+    "person:grigoris-of-aghvank"
+  ],
+  "date_rule": {
+    "type": "unspecified",
+    "note": "Zi mobilă în calendarul armean; regula e de stabilit."
+  },
+  "sources": [
+    {
+      "source": "src:armenianchurch-ge",
+      "url": "https://armenianchurch.ge/en/kalendar-prazdnikov/description-2/october/feast-of-discovery-of-relics-of-catholicos-st-grigoris-of-aghvank-commemoration-of-st-fathers-tatoul-varos-toumas-anton-kronides-and-the-seven-herbivorous-hermits-martyred-in-the-innaknya-monastery",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din armenianchurch.ge; de verificat.",
+      "În calendarul armenianchurch.ge apare în luna octombrie; ziua se stabilește după regulile calendarului armean (de completat)."
+    ]
+  }
+}

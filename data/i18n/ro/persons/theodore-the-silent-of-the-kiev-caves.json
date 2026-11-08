@@ -1,0 +1,21 @@
+{
+  "id": "theodore-the-silent-of-the-kiev-caves",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Teodor cel Tăcut de la Lavra Peșterilor din Kiev",
+    "full": "Sfântul Cuvios Teodor cel Tăcut de la Lavra Peșterilor din Kiev",
+    "short": "Teodor cel Tăcut de la Lavra Peșterilor din Kiev",
+    "given": "Teodor"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-teodor-cel-tacut-de-la-lavra-pesterilor-din-kiev",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

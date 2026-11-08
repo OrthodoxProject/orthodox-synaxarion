@@ -1,0 +1,39 @@
+{
+  "id": "anthimus-of-nicomedia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:anthimus-of-nicomedia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 3
+  },
+  "external_ids": {
+    "oca": "102467"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-sfintit-mucenic-antim-episcopul-nicomidiei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-neofit-si-meletie-de-la-manastirea-stanisoara-sf-sfintit-mc-antim-episcopul-nicomidiei-sf-cuv-teoctist-din-palestina/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/03/102467-hieromartyr-anthimus-bishop-of-nicomedia-and-those-with-him",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

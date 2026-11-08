@@ -1,0 +1,29 @@
+{
+  "id": "emilian-of-durostor",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Emilian de la Durostor",
+    "full": "Sfântul Mucenic Emilian de la Durostor",
+    "short": "Emilian de la Durostor",
+    "given": "Emilian",
+    "variants": [
+      "Sf. Mc. Emilian de la Durostorum"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-emilian-de-la-durostor",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-mc-emilian-de-la-durostorum-sf-cuv-pamvo/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

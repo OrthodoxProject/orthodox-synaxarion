@@ -1,0 +1,26 @@
+{
+  "id": "barsanuphius-the-great",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Varsanufie cel Mare",
+    "full": "Sfântul Cuvios Varsanufie cel Mare",
+    "short": "Varsanufie cel Mare",
+    "given": "Varsanufie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-varsanufie-cel-mare",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ier-vucol-episcopul-smirnei-si-fotie-patriarhul-constantinopolului-sf-cuv-varsanufie-cel-mare-si-ioan-din-gaza-harti/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

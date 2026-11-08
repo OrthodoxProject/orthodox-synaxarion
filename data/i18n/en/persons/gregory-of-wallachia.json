@@ -1,0 +1,20 @@
+{
+  "id": "gregory-of-wallachia",
+  "locale": "en",
+  "names": {
+    "display": "Saint Gregory, Metropolitan of Wallachia",
+    "short": "Gregory, Metropolitan of Wallachia",
+    "given": "Gregory"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/22/149028-saint-gregory-metropolitan-of-wallachia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

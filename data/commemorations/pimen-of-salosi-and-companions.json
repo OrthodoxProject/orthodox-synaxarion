@@ -1,0 +1,31 @@
+{
+  "id": "pimen-of-salosi-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:pimen-of-salosi",
+    "person:anton-meskhi-of-dagestan",
+    "person:north-caucasus-people"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 16
+  },
+  "external_ids": {
+    "oca": "103830"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/16/103830-saints-pimen-of-salosi-and-anton-meskhi-enlighteners-of-dagestan",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

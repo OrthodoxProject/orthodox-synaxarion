@@ -1,0 +1,20 @@
+{
+  "id": "neagoe-basarab",
+  "locale": "en",
+  "names": {
+    "display": "Saint Neagoe Basarab",
+    "short": "Neagoe Basarab",
+    "given": "Neagoe"
+  },
+  "references": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/romanian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

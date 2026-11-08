@@ -1,0 +1,21 @@
+{
+  "id": "hrisogon",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Hrisogon",
+    "full": "Sfântul Mucenic Hrisogon",
+    "short": "Hrisogon",
+    "given": "Hrisogon"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-hrisogon",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

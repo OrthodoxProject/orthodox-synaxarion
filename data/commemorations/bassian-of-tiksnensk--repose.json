@@ -1,0 +1,29 @@
+{
+  "id": "bassian-of-tiksnensk--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:bassian-of-tiksnensk"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 12
+  },
+  "external_ids": {
+    "oca": "102586"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/12/102586-venerable-bassian-of-tiksnensk-vologda",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

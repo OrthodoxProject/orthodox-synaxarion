@@ -1,0 +1,26 @@
+{
+  "id": "benedict-of-nursia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Benedict de Nursia",
+    "full": "Sfântul Cuvios Benedict de Nursia",
+    "short": "Benedict de Nursia",
+    "given": "Benedict"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-benedict-de-nursia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-benedict-de-nursia-sf-sfintit-mc-alexandru-preotul-pomenirea-celor-adormiti/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

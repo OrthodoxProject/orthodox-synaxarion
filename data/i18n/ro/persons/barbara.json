@@ -1,0 +1,26 @@
+{
+  "id": "barbara",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mare Mc. Varvara",
+    "full": "Sfânta Mare Muceniță Varvara",
+    "short": "Varvara",
+    "given": "Varvara"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mare-mucenita-varvara",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-mare-mc-varvara-sf-cuv-ioan-damaschin/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

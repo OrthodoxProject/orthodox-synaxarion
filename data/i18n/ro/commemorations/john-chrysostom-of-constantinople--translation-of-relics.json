@@ -1,0 +1,23 @@
+{
+  "id": "john-chrysostom-of-constantinople--translation-of-relics",
+  "locale": "ro",
+  "names": {
+    "display": "Aducerea moaștelor Sfântului Ioan Gură de Aur"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/aducerea-moastelor-sfantului-ioan-gura-de-aur",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-aducerea-moastelor-sf-ier-ioan-gura-de-aur/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

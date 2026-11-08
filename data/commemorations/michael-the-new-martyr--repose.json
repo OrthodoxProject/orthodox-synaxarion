@@ -1,0 +1,29 @@
+{
+  "id": "michael-the-new-martyr--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:michael-the-new-martyr"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 10
+  },
+  "external_ids": {
+    "oca": "205330"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/10/205330-saint-michael-the-new-martyr",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "michael-3--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:michael-3"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 15
+  },
+  "external_ids": {
+    "oca": "103805"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/15/103805-saint-michael-first-metropolitan-of-kiev",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

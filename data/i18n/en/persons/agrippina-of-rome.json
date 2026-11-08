@@ -1,0 +1,20 @@
+{
+  "id": "agrippina-of-rome",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Agrippina of Rome",
+    "short": "Agrippina of Rome",
+    "given": "Agrippina"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/23/101788-martyr-agrippina-of-rome",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

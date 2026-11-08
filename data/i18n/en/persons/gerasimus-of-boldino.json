@@ -1,0 +1,20 @@
+{
+  "id": "gerasimus-of-boldino",
+  "locale": "en",
+  "names": {
+    "display": "Saint Gerasimus of Boldino",
+    "short": "Gerasimus of Boldino",
+    "given": "Gerasimus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/01/148980-saint-gerasimus-of-boldino",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

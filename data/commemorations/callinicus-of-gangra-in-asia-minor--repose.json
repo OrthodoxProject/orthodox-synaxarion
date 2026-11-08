@@ -1,0 +1,39 @@
+{
+  "id": "callinicus-of-gangra-in-asia-minor--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:callinicus-of-gangra-in-asia-minor"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 29
+  },
+  "external_ids": {
+    "oca": "102123"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-calinic-0",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-calinic-veniamin-si-mamant-sf-mc-teodota-cu-fiii-sai/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/29/102123-martyr-callinicus-of-gangra-in-asia-minor",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

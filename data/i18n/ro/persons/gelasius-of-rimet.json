@@ -1,0 +1,26 @@
+{
+  "id": "gelasius-of-rimet",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ghelasie de la Râmeț",
+    "full": "Sfântul Ierarh Ghelasie de la Râmeț",
+    "short": "Ghelasie de la Râmeț",
+    "given": "Ghelasie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-ghelasie-de-la-ramet",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-soborul-sfintilor-12-apostoli-%e2%80%a0-sf-ier-ghelasie-de-la-ramet/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

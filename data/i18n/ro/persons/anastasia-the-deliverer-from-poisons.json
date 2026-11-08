@@ -1,0 +1,26 @@
+{
+  "id": "anastasia-the-deliverer-from-poisons",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mare Mc. Anastasia",
+    "full": "Sfânta Mare Muceniță Anastasia",
+    "short": "Anastasia",
+    "given": "Anastasia"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mare-mucenita-anastasia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ier-petru-movila-mitropolitul-kievului-sf-mare-mc-anastasia/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

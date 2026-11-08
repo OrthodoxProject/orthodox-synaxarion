@@ -1,0 +1,21 @@
+{
+  "id": "fausta",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Fausta",
+    "full": "Sfânta Muceniță Fausta",
+    "short": "Fausta",
+    "given": "Fausta"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-fausta",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

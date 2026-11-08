@@ -1,0 +1,20 @@
+{
+  "id": "macarius-of-glushetsa",
+  "locale": "en",
+  "names": {
+    "display": "Saint Macarius, Abbot of Glushetsa",
+    "short": "Macarius, Abbot of Glushetsa",
+    "given": "Macarius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/12/108930-saint-macarius-abbot-of-glushetsa",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

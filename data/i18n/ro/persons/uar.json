@@ -1,0 +1,26 @@
+{
+  "id": "uar",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Uar",
+    "full": "Sfântul Mucenic Uar",
+    "short": "Uar",
+    "given": "Uar"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-uar",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-proroc-ioil-sf-mc-uar-sf-cleopatra-sf-cuv-ioan-de-la-rila/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

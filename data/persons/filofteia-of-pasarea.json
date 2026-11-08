@@ -1,0 +1,25 @@
+{
+  "id": "filofteia-of-pasarea",
+  "kind": "saint",
+  "gender": "female",
+  "holiness_types": [
+    "venerable"
+  ],
+  "external_ids": {
+    "doxologia": "sfanta-cuvioasa-filofteia-de-la-pasarea-mama-sfantului-ierarh-calinic-de-la-cernica"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-filofteia-de-la-pasarea-mama-sfantului-ierarh-calinic-de-la-cernica",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

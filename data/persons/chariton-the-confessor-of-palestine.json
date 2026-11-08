@@ -1,0 +1,37 @@
+{
+  "id": "chariton-the-confessor-of-palestine",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "venerable",
+    "confessor"
+  ],
+  "external_ids": {
+    "doxologia": "sfantul-cuvios-hariton-marturisitorul",
+    "oca": "102742"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-hariton-marturisitorul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-hariton-marturisitorul-sf-proroc-baruh-sf-cuv-neofit-zavoratul-din-cipru-duminica-a-18-a-dupa-rusalii-ap-2-corinteni-9-6-11-ev-luca-5-1-11-pescuirea-minunata-glas-7/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/28/102742-venerable-chariton-the-confessor-abbot-of-palestine",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "herman-of-kazan",
+  "locale": "en",
+  "names": {
+    "display": "Repose of Saint Herman, Archbishop of Kazan",
+    "short": "Herman, Archbishop of Kazan",
+    "given": "Herman"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/06/103188-repose-of-saint-herman-archbishop-of-kazan",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

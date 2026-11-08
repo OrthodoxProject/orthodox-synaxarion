@@ -1,0 +1,23 @@
+{
+  "tradition": "serbian",
+  "date": "10-15",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:paisius-of-janjevo--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:euthymius-the-new-of-thessalonica-and-monk--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:lucian-the-presbyter-of-antioch--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "heliconis-of-thessalonica",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Heliconis of Thessalonica",
+    "short": "Heliconis of Thessalonica",
+    "given": "Heliconis"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/28/101556-martyr-heliconis-of-thessalonica",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

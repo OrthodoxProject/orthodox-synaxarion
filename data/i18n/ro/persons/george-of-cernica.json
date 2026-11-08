@@ -1,0 +1,29 @@
+{
+  "id": "george-of-cernica",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Gheorghe de la Cernica",
+    "full": "Sfântul Cuvios Gheorghe de la Cernica",
+    "short": "Gheorghe de la Cernica",
+    "given": "Gheorghe",
+    "variants": [
+      "Sf. Cuv. Gheorghe de la Cernica și Căldărușani"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-gheorghe-de-la-cernica",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-gheorghe-de-la-cernica-si-caldarusani-sf-proroc-sofonie-dezlegare-la-peste/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "dimitrie-the-new--translation-of-relics",
+  "locale": "ro",
+  "names": {
+    "display": "Aducerea moaștelor Sfântului Cuvios Dimitrie cel Nou la București"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/aducerea-moastelor-sfantului-cuvios-dimitrie-cel-nou-la-bucuresti",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-aducerea-moastelor-sfantului-cuvios-dimitrie-cel-nou-la-bucuresti-soborul-sf-arhanghel-gavriil-sf-cuv-stefan-savaitul-sf-mc-maria-din-persia-sf-cuv-sara-duminica-a-5-a-dupa-rusali/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

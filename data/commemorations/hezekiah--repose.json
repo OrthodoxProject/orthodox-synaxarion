@@ -1,0 +1,39 @@
+{
+  "id": "hezekiah--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:hezekiah"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 28
+  },
+  "external_ids": {
+    "oca": "108967"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/dreptul-iezechia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-moise-etiopianul-dreptul-iezechia-sf-cuv-iosif-isihastul/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/28/108967-righteous-hezekiah",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

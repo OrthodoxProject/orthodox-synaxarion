@@ -1,0 +1,23 @@
+{
+  "id": "sign-of-the-cross-over-jerusalem",
+  "locale": "ro",
+  "names": {
+    "display": "Arătarea semnului Sfintei Cruci la Ierusalim"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/aratarea-semnului-sfintei-cruci-la-ierusalim",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/aratarea-pe-cer-a-semnului-sfintei-cruci-in-ierusalim-sf-mc-acachie-si-codrat/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

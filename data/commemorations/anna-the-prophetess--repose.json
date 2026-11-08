@@ -1,0 +1,39 @@
+{
+  "id": "anna-the-prophetess--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:anna-the-prophetess"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 3
+  },
+  "external_ids": {
+    "oca": "100410"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-prorocita-ana",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-si-dreptul-simeon-primitorul-de-dumnezeu-sf-prorocita-ana/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/03/100410-holy-righteous-anna-the-prophetess",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

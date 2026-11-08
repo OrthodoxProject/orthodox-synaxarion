@@ -1,0 +1,21 @@
+{
+  "id": "sava-al-iii-lea",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sava al III-lea",
+    "full": "Sfântul Sava al III-lea",
+    "short": "Sava al III-lea",
+    "given": "Sava"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-sava-al-iii-lea",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

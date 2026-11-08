@@ -1,0 +1,21 @@
+{
+  "id": "ipatie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Ipatie",
+    "full": "Sfântul Mucenic Ipatie",
+    "short": "Ipatie",
+    "given": "Ipatie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-ipatie",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

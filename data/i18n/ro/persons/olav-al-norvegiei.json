@@ -1,0 +1,21 @@
+{
+  "id": "olav-al-norvegiei",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Rege și Martir Olav al Norvegiei",
+    "full": "Sfântul Rege și Martir Olav al Norvegiei",
+    "short": "Olav al Norvegiei",
+    "given": "Olav"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-rege-martir-olav-al-norvegiei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

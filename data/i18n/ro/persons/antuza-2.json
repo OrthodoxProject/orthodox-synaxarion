@@ -1,0 +1,26 @@
+{
+  "id": "antuza-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Antuza, mama Sfântului Ier. Ioan Gură de Aur",
+    "full": "Sfânta Antuza, mama Sfântului Ierarh Ioan Gură de Aur",
+    "short": "Antuza, mama Sfântului Ierarh Ioan Gură de Aur",
+    "given": "Antuza"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-antuza-mama-sfantului-ierarh-ioan-gura-de-aur",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ier-ioan-gura-de-aur-arhiepiscopul-constantinopolului-si-mama-sa-sf-antuza/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

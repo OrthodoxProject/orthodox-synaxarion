@@ -1,0 +1,39 @@
+{
+  "id": "simon-the-zealot--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:simon-the-zealot"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 10
+  },
+  "external_ids": {
+    "oca": "101337"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-apostol-simon-zilotul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ap-simon-zilotul-%e2%80%a0-sf-cuv-calistrat-de-la-timiseni-si-vasiova-duminica-a-5-a-dupa-pasti-a-samarinencei-ap-fapte-11-19-30-ev-ioan-4-5-42-glas-4-voscr-7/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/10/101337-apostle-simon-the-zealot",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

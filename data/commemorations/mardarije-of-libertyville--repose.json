@@ -1,0 +1,43 @@
+{
+  "id": "mardarije-of-libertyville--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:mardarije-of-libertyville"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 12
+  },
+  "external_ids": {
+    "oca": "100485"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-mardarie-uskokovic-de-libertyville",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/12/100485-saint-mardarije-uskokovic-of-libertyville",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mardarius_of_Lje%C5%A1anska"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, oca.org, orthodox-calendar, Wikipedia; de verificat."
+    ]
+  }
+}

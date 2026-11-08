@@ -1,0 +1,21 @@
+{
+  "id": "lazarus-the-great-martyr-of-serbia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mare Mc. Lazăr, Cneazul Serbiei",
+    "full": "Sfântul Mare Mucenic Lazăr, Cneazul Serbiei",
+    "short": "Lazăr, Cneazul Serbiei",
+    "given": "Lazăr"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mare-mucenic-lazar-cneazul-serbiei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

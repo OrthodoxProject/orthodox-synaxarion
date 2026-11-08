@@ -1,0 +1,39 @@
+{
+  "id": "bucolus-of-smyrna--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:bucolus-of-smyrna"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 6
+  },
+  "external_ids": {
+    "oca": "100441"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-vucol-episcopul-smirnei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ier-vucol-episcopul-smirnei-si-fotie-patriarhul-constantinopolului-sf-cuv-varsanufie-cel-mare-si-ioan-din-gaza-harti/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/06/100441-saint-bucolus-bishop-of-smyrna",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "nathaniel-of-the-seventy",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ap. Natanael",
+    "full": "Sfântul Apostol Natanael",
+    "short": "Natanael",
+    "given": "Natanael"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-apostol-natanael",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

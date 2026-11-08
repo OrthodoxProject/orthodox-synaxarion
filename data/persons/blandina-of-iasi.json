@@ -1,0 +1,30 @@
+{
+  "id": "blandina-of-iasi",
+  "kind": "saint",
+  "gender": "female",
+  "holiness_types": [
+    "confessor"
+  ],
+  "external_ids": {
+    "doxologia": "sfanta-marturisitoare-blandina-de-la-iasi"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-marturisitoare-blandina-de-la-iasi",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-simeon-cel-din-muntele-minunat/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro; de verificat."
+    ]
+  }
+}

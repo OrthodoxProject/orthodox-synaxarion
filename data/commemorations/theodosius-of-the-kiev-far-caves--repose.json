@@ -1,0 +1,29 @@
+{
+  "id": "theodosius-of-the-kiev-far-caves--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:theodosius-of-the-kiev-far-caves"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 2
+  },
+  "external_ids": {
+    "oca": "102464"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/02/102464-venerable-theodosius-of-the-kiev-far-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

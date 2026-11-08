@@ -1,0 +1,26 @@
+{
+  "id": "christina-of-tyre",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mare Mc. Hristina",
+    "full": "Sfânta Mare Muceniță Hristina",
+    "short": "Hristina",
+    "given": "Hristina"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mare-mucenita-hristina",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mare-mc-hristina-sf-mc-ermoghen/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "papias-of-egypt",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Papia",
+    "full": "Sfântul Mucenic Papia",
+    "short": "Papia",
+    "given": "Papia"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-papia-0",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

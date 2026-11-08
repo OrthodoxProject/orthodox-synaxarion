@@ -1,0 +1,20 @@
+{
+  "id": "john-the-georgian-of-mount-athos",
+  "locale": "en",
+  "names": {
+    "display": "Venerable John the Georgian of Mount Athos",
+    "short": "John the Georgian of Mount Athos",
+    "given": "John"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/12/102014-venerable-john-the-georgian-of-mount-athos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

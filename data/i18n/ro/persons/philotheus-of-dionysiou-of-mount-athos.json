@@ -1,0 +1,21 @@
+{
+  "id": "philotheus-of-dionysiou-of-mount-athos",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Filothei Dionisiatul",
+    "full": "Sfântul Cuvios Filothei Dionisiatul",
+    "short": "Filothei Dionisiatul",
+    "given": "Filothei"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-filothei-dionisiatul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

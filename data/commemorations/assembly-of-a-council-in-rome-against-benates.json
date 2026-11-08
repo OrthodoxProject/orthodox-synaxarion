@@ -1,0 +1,32 @@
+{
+  "id": "assembly-of-a-council-in-rome-against-benates",
+  "kind": "event",
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 12,
+    "calendar": "coptic"
+  },
+  "external_ids": {
+    "copticchurch": "4_12#4"
+  },
+  "sources": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/4_12.html?lang=en#4",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:st-takla-synaxarium",
+      "url": "https://st-takla.org/books/en/church/synaxarium/04-keyahk/12-kiahk-rome.html",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din copticchurch.net, st-takla.org; de verificat."
+    ]
+  }
+}

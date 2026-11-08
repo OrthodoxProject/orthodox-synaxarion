@@ -1,0 +1,21 @@
+{
+  "id": "simon-the-myrrh-gusher-of-mount-athos",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Simon Izvorâtorul de mir, ctitorul Mănăstirii Simonos Petras",
+    "full": "Sfântul Simon Izvorâtorul de mir, ctitorul Mănăstirii Simonos Petras",
+    "short": "Simon Izvorâtorul de mir, ctitorul Mănăstirii Simonos Petras",
+    "given": "Simon"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-simon-izvoratorul-de-mir-ctitorul-manastirii-simonos-petras",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

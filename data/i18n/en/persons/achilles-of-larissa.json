@@ -1,0 +1,20 @@
+{
+  "id": "achilles-of-larissa",
+  "locale": "en",
+  "names": {
+    "display": "Saint Achilles, Bishop of Larissa",
+    "short": "Achilles, Bishop of Larissa",
+    "given": "Achilles"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/15/101392-saint-achilles-bishop-of-larissa",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "theodosius-the-great",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Teodosie cel Mare, începătorul vieții călugărești de obște din Palestina",
+    "full": "Sfântul Cuvios Teodosie cel Mare, începătorul vieții călugărești de obște din Palestina",
+    "short": "Teodosie cel Mare, începătorul vieții călugărești de obște din Palestina",
+    "given": "Teodosie",
+    "variants": [
+      "Sf. Cuv. Teodosie, începătorul vieții călugărești de obște din Palestina"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-teodosie-cel-mare-incepatorul-vietii-calugaresti-de-obste-din-palestina",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-teodosie-incepatorul-vietii-calugaresti-de-obste-din-palestina-sf-cuv-vitalie/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

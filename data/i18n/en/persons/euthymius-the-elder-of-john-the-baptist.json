@@ -1,0 +1,20 @@
+{
+  "id": "euthymius-the-elder-of-john-the-baptist",
+  "locale": "en",
+  "names": {
+    "display": "Saint Euthymius the Elder of Saint John the Baptist Monastery",
+    "short": "Euthymius the Elder of Saint John the Baptist Monastery",
+    "given": "Euthymius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/08/103871-saint-euthymius-the-elder-of-saint-john-the-baptist-monastery",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

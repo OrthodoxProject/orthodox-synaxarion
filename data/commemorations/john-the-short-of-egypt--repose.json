@@ -1,0 +1,29 @@
+{
+  "id": "john-the-short-of-egypt--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:john-the-short-of-egypt"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 9
+  },
+  "external_ids": {
+    "oca": "103258"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/09/103258-venerable-john-the-short-of-egypt",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

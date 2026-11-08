@@ -1,0 +1,20 @@
+{
+  "id": "vladislav-of-serbia",
+  "locale": "en",
+  "names": {
+    "display": "Saint Vladislav of Serbia",
+    "short": "Vladislav of Serbia",
+    "given": "Vladislav"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/24/102720-saint-vladislav-of-serbia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

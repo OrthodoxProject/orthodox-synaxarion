@@ -1,0 +1,26 @@
+{
+  "id": "euthymius-of-novgorod--03-24",
+  "kind": "repose",
+  "subjects": [
+    "person:euthymius-of-novgorod"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 24
+  },
+  "sources": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/russian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din orthodox-calendar; de verificat."
+    ]
+  }
+}

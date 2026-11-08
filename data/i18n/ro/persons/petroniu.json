@@ -1,0 +1,21 @@
+{
+  "id": "petroniu",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Petroniu",
+    "full": "Sfântul Cuvios Petroniu",
+    "short": "Petroniu",
+    "given": "Petroniu"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-petroniu",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

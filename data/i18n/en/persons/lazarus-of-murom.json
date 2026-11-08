@@ -1,0 +1,20 @@
+{
+  "id": "lazarus-of-murom",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Lazarus of Murom",
+    "short": "Lazarus of Murom",
+    "given": "Lazarus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/08/100699-venerable-lazarus-of-murom",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

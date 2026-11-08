@@ -1,0 +1,29 @@
+{
+  "id": "barbarus-in-thessaly--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:barbarus-in-thessaly"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 6
+  },
+  "external_ids": {
+    "oca": "101306"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/06/101306-martyr-barbarus-in-thessaly-who-was-a-robber",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

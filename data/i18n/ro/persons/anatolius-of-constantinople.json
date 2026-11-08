@@ -1,0 +1,29 @@
+{
+  "id": "anatolius-of-constantinople",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Anatolie, Patriarhul Constantinopolului",
+    "full": "Sfântul Ierarh Anatolie, Patriarhul Constantinopolului",
+    "short": "Anatolie, Patriarhul Constantinopolului",
+    "given": "Anatolie",
+    "variants": [
+      "Sf. Ier. Anatolie, arhiepiscopul Constantinopolului"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-anatolie-patriarhul-constantinopolului",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-iachint-sf-ier-anatolie-arhiepiscopul-constantinopolului/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

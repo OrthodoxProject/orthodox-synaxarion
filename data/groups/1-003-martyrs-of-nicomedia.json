@@ -1,0 +1,28 @@
+{
+  "id": "1-003-martyrs-of-nicomedia",
+  "kind": "martyrs",
+  "count": {
+    "value": 1003,
+    "precision": "exact"
+  },
+  "holiness_types": [
+    "martyr"
+  ],
+  "external_ids": {
+    "oca": "100459"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/07/100459-1003-martyrs-of-nicomedia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

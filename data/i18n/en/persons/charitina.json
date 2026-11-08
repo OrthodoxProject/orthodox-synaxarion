@@ -1,0 +1,20 @@
+{
+  "id": "charitina",
+  "locale": "en",
+  "names": {
+    "display": "Saint Charitina, Princess of Lithuania",
+    "short": "Charitina, Princess of Lithuania",
+    "given": "Charitina"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/05/102879-saint-charitina-princess-of-lithuania",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

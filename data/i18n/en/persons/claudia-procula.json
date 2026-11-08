@@ -1,0 +1,20 @@
+{
+  "id": "claudia-procula",
+  "locale": "en",
+  "names": {
+    "display": "Saint Claudia Procula",
+    "short": "Claudia Procula",
+    "given": "Claudia"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/27/103070-saint-claudia-procula",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

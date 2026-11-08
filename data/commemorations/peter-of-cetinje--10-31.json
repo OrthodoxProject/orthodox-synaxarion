@@ -1,0 +1,30 @@
+{
+  "id": "peter-of-cetinje--10-31",
+  "kind": "repose",
+  "subjects": [
+    "person:peter-of-cetinje"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 31
+  },
+  "sources": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Peter_of_Cetinje"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din orthodox-calendar, Wikipedia; de verificat."
+    ]
+  }
+}

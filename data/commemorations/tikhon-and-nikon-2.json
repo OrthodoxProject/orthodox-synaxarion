@@ -1,0 +1,30 @@
+{
+  "id": "tikhon-and-nikon-2",
+  "kind": "repose",
+  "subjects": [
+    "person:tikhon",
+    "person:nikon-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 4
+  },
+  "external_ids": {
+    "oca": "101904"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/04/101904-venerable-tikhon-vasily-and-nikon-monks-of-solovki",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

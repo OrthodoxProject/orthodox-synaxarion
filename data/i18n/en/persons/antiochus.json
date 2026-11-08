@@ -1,0 +1,20 @@
+{
+  "id": "antiochus",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Antiochus",
+    "short": "Antiochus",
+    "given": "Antiochus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/23/100592-venerable-antiochus-and-antoninus-ascetics-of-the-syrian-deserts",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

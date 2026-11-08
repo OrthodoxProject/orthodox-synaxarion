@@ -1,0 +1,29 @@
+{
+  "id": "george-the-great-prince-of-vladimir--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:george-the-great-prince-of-vladimir"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 4
+  },
+  "external_ids": {
+    "oca": "100423"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/04/100423-right-believing-george-the-great-prince-of-vladimir",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

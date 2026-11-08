@@ -1,0 +1,29 @@
+{
+  "id": "pancharius-at-nicomedia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:pancharius-at-nicomedia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 19
+  },
+  "external_ids": {
+    "oca": "100839"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/19/100839-martyr-pancharius-at-nicomedia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

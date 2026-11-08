@@ -1,0 +1,21 @@
+{
+  "id": "ghenadie-of-corfu",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ghenadie din Corfu",
+    "full": "Sfântul Ghenadie din Corfu",
+    "short": "Ghenadie din Corfu",
+    "given": "Ghenadie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ghenadie-din-corfu",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

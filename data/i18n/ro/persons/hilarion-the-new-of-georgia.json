@@ -1,0 +1,21 @@
+{
+  "id": "hilarion-the-new-of-georgia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ilarion cel Nou din Georgia",
+    "full": "Sfântul Cuvios Ilarion cel Nou din Georgia",
+    "short": "Ilarion cel Nou din Georgia",
+    "given": "Ilarion"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-ilarion-cel-nou-din-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "heliconis-of-thessalonica",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Eliconida",
+    "full": "Sfânta Muceniță Eliconida",
+    "short": "Eliconida",
+    "given": "Eliconida"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-eliconida",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

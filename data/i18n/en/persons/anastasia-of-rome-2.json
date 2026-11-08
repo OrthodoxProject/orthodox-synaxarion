@@ -1,0 +1,20 @@
+{
+  "id": "anastasia-of-rome-2",
+  "locale": "en",
+  "names": {
+    "display": "Monastic Martyr Anastasia of Rome",
+    "short": "Anastasia of Rome",
+    "given": "Anastasia"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/29/103099-monastic-martyr-anastasia-of-rome",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

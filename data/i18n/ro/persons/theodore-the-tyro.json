@@ -1,0 +1,26 @@
+{
+  "id": "theodore-the-tyro",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mare Mc. Teodor Tiron",
+    "full": "Sfântul Mare Mucenic Teodor Tiron",
+    "short": "Teodor Tiron",
+    "given": "Teodor"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mare-mucenic-teodor-tiron",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mare-mc-teodor-tiron-sf-mariamna-sf-imparati-marcian-si-pulheria/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

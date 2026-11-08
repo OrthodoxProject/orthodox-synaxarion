@@ -1,0 +1,34 @@
+{
+  "id": "evdemoz-of-georgia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:evdemoz-of-georgia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 4
+  },
+  "external_ids": {
+    "oca": "103891"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-evdemoz-din-georgia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/04/103891-martyr-evdemoz-catholicos-of-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, oca.org; de verificat."
+    ]
+  }
+}

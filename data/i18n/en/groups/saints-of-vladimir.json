@@ -1,0 +1,18 @@
+{
+  "id": "saints-of-vladimir",
+  "locale": "en",
+  "names": {
+    "display": "Saints of Vladimir"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/23/101796-synaxis-of-the-saints-of-vladimir",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

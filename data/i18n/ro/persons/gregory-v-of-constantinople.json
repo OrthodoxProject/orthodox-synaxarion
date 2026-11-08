@@ -1,0 +1,21 @@
+{
+  "id": "gregory-v-of-constantinople",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Grigorie al V-lea, Patriarhul Constantinopolului",
+    "full": "Sfântul Grigorie al V-lea, Patriarhul Constantinopolului",
+    "short": "Grigorie al V-lea, Patriarhul Constantinopolului",
+    "given": "Grigorie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-grigorie-al-v-lea-patriarhul-constantinopolului",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

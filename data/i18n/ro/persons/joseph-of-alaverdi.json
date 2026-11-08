@@ -1,0 +1,21 @@
+{
+  "id": "joseph-of-alaverdi",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Iosif de Alaverdi, Georgia",
+    "full": "Sfântul Ierarh Iosif de Alaverdi, Georgia",
+    "short": "Iosif de Alaverdi, Georgia",
+    "given": "Iosif"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-iosif-de-alaverdi-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

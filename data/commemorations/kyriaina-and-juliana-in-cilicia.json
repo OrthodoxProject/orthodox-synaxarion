@@ -1,0 +1,30 @@
+{
+  "id": "kyriaina-and-juliana-in-cilicia",
+  "kind": "repose",
+  "subjects": [
+    "person:kyriaina",
+    "person:juliana-in-cilicia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 1
+  },
+  "external_ids": {
+    "oca": "103138"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/01/103138-martyrs-kyriaina-and-juliana-in-cilicia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

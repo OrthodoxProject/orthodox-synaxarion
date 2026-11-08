@@ -1,0 +1,18 @@
+{
+  "id": "fathers-of-optina",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Stareți de la Optina"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/soborul-sfintilor-stareti-de-la-optina",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

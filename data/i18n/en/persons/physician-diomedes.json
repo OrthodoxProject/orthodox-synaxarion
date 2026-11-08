@@ -1,0 +1,20 @@
+{
+  "id": "physician-diomedes",
+  "locale": "en",
+  "names": {
+    "display": "Holy Unmercenary Physician Diomedes",
+    "short": "Physician Diomedes",
+    "given": "Physician"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/16/102305-holy-unmercenary-physician-diomedes",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

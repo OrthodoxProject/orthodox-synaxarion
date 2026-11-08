@@ -1,0 +1,29 @@
+{
+  "id": "hilarion-of-verey--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:hilarion-of-verey"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 15
+  },
+  "external_ids": {
+    "oca": "103704"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/15/103704-hieromartyr-hilarion-archbishop-of-verey",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

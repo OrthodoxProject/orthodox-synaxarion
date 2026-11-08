@@ -1,0 +1,20 @@
+{
+  "id": "ananias-the-iconographer",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Ananias the Iconographer",
+    "short": "Ananias the Iconographer",
+    "given": "Ananias"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/17/100274-venerable-ananias-the-iconographer",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

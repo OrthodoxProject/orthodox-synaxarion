@@ -1,0 +1,20 @@
+{
+  "id": "george-the-builder",
+  "locale": "en",
+  "names": {
+    "display": "Venerable George the Builder",
+    "short": "George the Builder",
+    "given": "George"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/28/205463-venerable-george-the-builder",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

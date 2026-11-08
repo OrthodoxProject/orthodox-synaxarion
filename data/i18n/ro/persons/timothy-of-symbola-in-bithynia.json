@@ -1,0 +1,26 @@
+{
+  "id": "timothy-of-symbola-in-bithynia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Timotei",
+    "full": "Sfântul Cuvios Timotei",
+    "short": "Timotei",
+    "given": "Timotei"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-timotei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-timotei-sf-ier-eustatie-arhiepiscopul-antiohiei-sambata-sfintilor-cuviosi/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

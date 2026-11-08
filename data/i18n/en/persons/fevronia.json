@@ -1,0 +1,20 @@
+{
+  "id": "fevronia",
+  "locale": "en",
+  "names": {
+    "display": "Saint Fevronia, Wonderworkers of Murom",
+    "short": "Fevronia, Wonderworkers of Murom",
+    "given": "Fevronia"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/25/101811-saints-peter-and-fevronia-tonsured-david-and-euphrosyne-wonderwo",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

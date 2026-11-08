@@ -1,0 +1,21 @@
+{
+  "id": "alexandru-hotovitzky",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Preot Mărt. Alexandru Hotovitzky",
+    "full": "Sfântul Preot Mărturisitor Alexandru Hotovitzky",
+    "short": "Alexandru Hotovitzky",
+    "given": "Alexandru"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-preot-marturisitor-alexandru-hotovitzky",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

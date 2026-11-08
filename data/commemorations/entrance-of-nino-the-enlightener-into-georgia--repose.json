@@ -1,0 +1,29 @@
+{
+  "id": "entrance-of-nino-the-enlightener-into-georgia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:entrance-of-nino-the-enlightener-into-georgia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 19
+  },
+  "external_ids": {
+    "oca": "103847"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/19/103847-entrance-of-saint-nino-nina-the-enlightener-into-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

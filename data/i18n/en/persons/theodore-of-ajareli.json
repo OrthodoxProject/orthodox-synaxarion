@@ -1,0 +1,20 @@
+{
+  "id": "theodore-of-ajareli",
+  "locale": "en",
+  "names": {
+    "display": "Saint Theodore of Ajareli",
+    "short": "Theodore of Ajareli",
+    "given": "Theodore"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/26/205307-saint-theodore-of-ajareli",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

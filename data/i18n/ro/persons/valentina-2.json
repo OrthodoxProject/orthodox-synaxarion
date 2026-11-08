@@ -1,0 +1,21 @@
+{
+  "id": "valentina-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Valentina",
+    "full": "Sfânta Muceniță Valentina",
+    "short": "Valentina",
+    "given": "Valentina"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-valentina",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

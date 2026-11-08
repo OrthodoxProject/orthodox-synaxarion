@@ -1,0 +1,19 @@
+{
+  "id": "raising-of-lazarus-from-the-dead",
+  "locale": "en",
+  "names": {
+    "display": "Raising of Lazarus from the dead",
+    "given": "Raising"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/7_20.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

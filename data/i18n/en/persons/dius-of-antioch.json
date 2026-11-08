@@ -1,0 +1,20 @@
+{
+  "id": "dius-of-antioch",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Dius, Abbot of Antioch",
+    "short": "Dius, Abbot of Antioch",
+    "given": "Dius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/19/102054-venerable-dius-abbot-of-antioch",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

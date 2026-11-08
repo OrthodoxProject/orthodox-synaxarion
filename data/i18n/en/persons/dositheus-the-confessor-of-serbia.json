@@ -1,0 +1,20 @@
+{
+  "id": "dositheus-the-confessor-of-serbia",
+  "locale": "en",
+  "names": {
+    "display": "Saint Dositheus the Confessor, Bishop of Serbia",
+    "short": "Dositheus the Confessor, Bishop of Serbia",
+    "given": "Dositheus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/31/108073-saint-dositheus-the-confessor-bishop-of-serbia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

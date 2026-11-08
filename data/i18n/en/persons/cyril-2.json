@@ -1,0 +1,20 @@
+{
+  "id": "cyril-2",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Cyril, Igoumen of White Lake",
+    "short": "Cyril, Igoumen of White Lake",
+    "given": "Cyril"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/09/101671-venerable-cyril-igoumen-of-white-lake",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "theophany--forefeast",
+  "locale": "en",
+  "names": {
+    "display": "Forefeast of the Theophany of our Lord and Savior Jesus Christ"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/02/100006-forefeast-of-the-theophany-of-our-lord-and-savior-jesus-christ",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/03/100012-forefeast-of-the-theophany-of-our-lord-and-savior-jesus-christ",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/04/100016-forefeast-of-the-theophany-of-our-lord-and-savior-jesus-christ",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

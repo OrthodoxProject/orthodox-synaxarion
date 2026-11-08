@@ -1,0 +1,31 @@
+{
+  "id": "irodion-of-lainici--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:irodion-of-lainici"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 3
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-irodion-de-la-lainici",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-irodion-de-la-lainici-sf-mc-timotei-si-sotia-sa-mavra-duminica-a-4-a-dupa-pasti-vindecarea-slabanogului-de-la-vitezda-ap-fapte-9-32-42-ev-ioan-5-1-15-glas-3-voscr-5/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro; de verificat."
+    ]
+  }
+}

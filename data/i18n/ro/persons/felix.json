@@ -1,0 +1,26 @@
+{
+  "id": "felix",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Felix",
+    "full": "Sfântul Mucenic Felix",
+    "short": "Felix",
+    "given": "Felix"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-felix",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-manuil-savel-ismail-inochentie-si-felix/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

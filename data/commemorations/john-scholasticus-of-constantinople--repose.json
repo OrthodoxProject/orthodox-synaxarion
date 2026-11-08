@@ -1,0 +1,29 @@
+{
+  "id": "john-scholasticus-of-constantinople--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:john-scholasticus-of-constantinople"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 21
+  },
+  "external_ids": {
+    "oca": "109057"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/21/109057-saint-john-scholasticus-patriarch-of-constantinople",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

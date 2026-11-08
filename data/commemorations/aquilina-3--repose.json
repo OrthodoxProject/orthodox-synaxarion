@@ -1,0 +1,30 @@
+{
+  "id": "aquilina-3--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:aquilina-3"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 10
+  },
+  "sources": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/russian_saints.json",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Aquilina_of_Thessalonica"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din orthodox-calendar, Wikipedia; de verificat."
+    ]
+  }
+}

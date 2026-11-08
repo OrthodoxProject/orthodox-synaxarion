@@ -1,0 +1,29 @@
+{
+  "id": "athanasius-of-novolotsk--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:athanasius-of-novolotsk"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 18
+  },
+  "external_ids": {
+    "oca": "100222"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/18/100222-righteous-athanasius-of-novolotsk",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

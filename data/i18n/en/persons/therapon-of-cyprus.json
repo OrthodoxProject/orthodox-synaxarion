@@ -1,0 +1,20 @@
+{
+  "id": "therapon-of-cyprus",
+  "locale": "en",
+  "names": {
+    "display": "Hieromartyr Therapon, Bishop of Cyprus",
+    "short": "Therapon, Bishop of Cyprus",
+    "given": "Therapon"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/25/101532-hieromartyr-therapon-bishop-of-cyprus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

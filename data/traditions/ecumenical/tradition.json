@@ -27,10 +27,19 @@
     {
       "source": "src:orthodox-calendar",
       "locator": "backend/app/config.py"
+    },
+    {
+      "source": "src:oca-lives"
+    },
+    {
+      "source": "src:doxologia"
     }
   ],
   "editorial": {
     "status": "draft",
-    "confidence": "medium"
+    "confidence": "medium",
+    "notes": [
+      "Calendarul pe zile e importat automat: pomenirile pe care le au și calendarul BOR, și calendarul OCA (Mineiul bizantin comun), cu încredere scăzută. De verificat cu un calendar oficial al Patriarhiei Ecumenice."
+    ]
   }
 }

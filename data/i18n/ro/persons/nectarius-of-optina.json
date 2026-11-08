@@ -1,0 +1,21 @@
+{
+  "id": "nectarius-of-optina",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Nectarie de la Optina",
+    "full": "Sfântul Nectarie de la Optina",
+    "short": "Nectarie de la Optina",
+    "given": "Nectarie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-nectarie-de-la-optina",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

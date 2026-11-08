@@ -1,0 +1,29 @@
+{
+  "id": "apostles-of-the-seventy-archippus-and-philemon-and",
+  "kind": "repose",
+  "subjects": [
+    "group:apostles-of-the-seventy-archippus-and-philemon-and"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 19
+  },
+  "external_ids": {
+    "oca": "100557"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/19/100557-apostles-of-the-seventy-archippus-and-philemon-and-martyr-apphia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "barbara",
+  "kind": "saint",
+  "gender": "female",
+  "holiness_types": [
+    "great_martyr"
+  ],
+  "external_ids": {
+    "doxologia": "sfanta-mare-mucenita-varvara"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mare-mucenita-varvara",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-mare-mc-varvara-sf-cuv-ioan-damaschin/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/04/103472-greatmartyr-barbara-and-martyr-juliana-at-heliopolis-in-syria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

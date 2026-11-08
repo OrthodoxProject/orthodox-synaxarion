@@ -1,0 +1,29 @@
+{
+  "id": "tabitha-the-widow",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Tavita",
+    "full": "Sfânta Cuvioasă Tavita",
+    "short": "Tavita",
+    "given": "Tavita",
+    "variants": [
+      "Sf. Tavita"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-tavita",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-marcian-si-martirie-sf-tavita-duminica-a-23-a-dupa-rusalii-ap-efeseni-2-4-10-ev-luca-8-26-39-vindecarea-demonizatului-din-tinutul-gherghesenilor-glas-4-voscr-10/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

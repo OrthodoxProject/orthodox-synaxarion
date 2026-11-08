@@ -1,0 +1,24 @@
+{
+  "tradition": "ecumenical",
+  "date": "09-22",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:phocas-of-sinope--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:synaxis-of-saints-of-tula"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:cosmas-of-zographou-monastery--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

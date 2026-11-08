@@ -1,0 +1,30 @@
+{
+  "id": "spyridon-of-serbia--06-28",
+  "kind": "repose",
+  "subjects": [
+    "person:spyridon-of-serbia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 28
+  },
+  "sources": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Spyridon_of_Serbia"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din orthodox-calendar, Wikipedia; de verificat."
+    ]
+  }
+}

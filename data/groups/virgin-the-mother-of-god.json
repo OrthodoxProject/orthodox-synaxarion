@@ -1,0 +1,24 @@
+{
+  "id": "virgin-the-mother-of-god",
+  "kind": "other",
+  "holiness_types": [
+    "virgin"
+  ],
+  "external_ids": {
+    "copticchurch": "12_21#1"
+  },
+  "sources": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/12_21.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din copticchurch.net; de verificat."
+    ]
+  }
+}

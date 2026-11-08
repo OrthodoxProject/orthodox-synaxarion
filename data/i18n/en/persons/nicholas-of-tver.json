@@ -1,0 +1,20 @@
+{
+  "id": "nicholas-of-tver",
+  "locale": "en",
+  "names": {
+    "display": "New Hieromartyr Nicholas (Dmitrov) of Tver",
+    "short": "Nicholas of Tver",
+    "given": "Nicholas"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/23/103911-new-hieromartyr-nicholas-dmitrov-of-tver",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

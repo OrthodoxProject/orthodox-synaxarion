@@ -1,0 +1,25 @@
+{
+  "id": "martin-the-merciful-of-tours",
+  "locale": "en",
+  "names": {
+    "display": "Saint Martin the Merciful, Bishop of Tours",
+    "short": "Martin the Merciful, Bishop of Tours",
+    "given": "Martin"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/12/205432-saint-martin-the-merciful-bishop-of-tours",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/11/103285-saint-martin-the-merciful-bishop-of-tours",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

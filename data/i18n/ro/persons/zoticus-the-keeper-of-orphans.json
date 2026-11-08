@@ -1,0 +1,21 @@
+{
+  "id": "zoticus-the-keeper-of-orphans",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Zotic",
+    "full": "Sfântul Cuvios Zotic",
+    "short": "Zotic",
+    "given": "Zotic"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-zotic",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

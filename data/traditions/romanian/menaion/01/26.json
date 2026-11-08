@@ -1,0 +1,30 @@
+{
+  "tradition": "romanian",
+  "date": "01-26",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:iosif-the-milostiv-of-moldova--repose"
+      ],
+      "symbol": "blue-half-parenthesized"
+    },
+    {
+      "commemorations": [
+        "comm:xenophon--repose",
+        "comm:maria--repose",
+        "comm:arcadie--repose",
+        "comm:john-of-constantinople--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:david-iv--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:maria-of-gatcina--repose"
+      ]
+    }
+  ]
+}

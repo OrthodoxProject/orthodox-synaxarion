@@ -1,0 +1,20 @@
+{
+  "id": "dionysios-the-rhetorician",
+  "locale": "en",
+  "names": {
+    "display": "Saint Dionysios the Rhetorician",
+    "short": "Dionysios the Rhetorician",
+    "given": "Dionysios"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/09/101978-saint-dionysios-the-rhetorician-and-his-disciple-saint-mtrophns",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

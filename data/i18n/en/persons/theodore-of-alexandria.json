@@ -1,0 +1,28 @@
+{
+  "id": "theodore-of-alexandria",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Theodore of Alexandria",
+    "short": "Theodore of Alexandria",
+    "given": "Theodore",
+    "variants": [
+      "Hieromartyr Theodore, Archbishop of Alexandria"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/12/102590-martyr-theodore-of-alexandria",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/03/103469-hieromartyr-theodore-archbishop-of-alexandria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

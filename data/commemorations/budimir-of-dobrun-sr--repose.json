@@ -1,0 +1,30 @@
+{
+  "id": "budimir-of-dobrun-sr--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:budimir-of-dobrun-sr"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 11
+  },
+  "sources": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Budimir_of_Dobrun_%5B_sr_%5D"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din orthodox-calendar, Wikipedia; de verificat."
+    ]
+  }
+}

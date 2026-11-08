@@ -1,0 +1,29 @@
+{
+  "id": "paul-of-neocaesarea",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Pavel, Arhiepiscopul Neocezareei",
+    "full": "Sfântul Ierarh Pavel, Arhiepiscopul Neocezareei",
+    "short": "Pavel, Arhiepiscopul Neocezareei",
+    "given": "Pavel",
+    "variants": [
+      "Sf. Ier. Pavel, arhiepiscopul Neocezareei"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-pavel-arhiepiscopul-neocezareei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-antonina-de-la-tismana-sfintii-10-mucenici-din-creta-sf-ier-pavel-arhiepiscopul-neocezareei/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "james-the-confessor-of-catania",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Iacob Mărturisitorul",
+    "full": "Sfântul Ierarh Iacob Mărturisitorul",
+    "short": "Iacob Mărturisitorul",
+    "given": "Iacob"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-iacob-marturisitorul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ier-iacob-marturisitorul-sf-cuv-serapion-pomenirea-celor-adormiti/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

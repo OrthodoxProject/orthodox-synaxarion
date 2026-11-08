@@ -1,0 +1,18 @@
+{
+  "id": "the-feast-of-the-nativity-of-our-lord",
+  "locale": "en",
+  "names": {
+    "display": "The Feast of the Nativity of Our Lord Jesus Christ (Christmas)"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/4_29.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

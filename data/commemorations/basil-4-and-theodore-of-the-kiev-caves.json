@@ -1,0 +1,30 @@
+{
+  "id": "basil-4-and-theodore-of-the-kiev-caves",
+  "kind": "repose",
+  "subjects": [
+    "person:basil-4",
+    "person:theodore-of-the-kiev-caves"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 11
+  },
+  "external_ids": {
+    "oca": "102265"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/11/102265-martyrs-basil-and-theodore-of-the-kiev-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

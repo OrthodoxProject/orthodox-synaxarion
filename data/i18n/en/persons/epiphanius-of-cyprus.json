@@ -1,0 +1,20 @@
+{
+  "id": "epiphanius-of-cyprus",
+  "locale": "en",
+  "names": {
+    "display": "Saint Epiphanius, Bishop of Cyprus",
+    "short": "Epiphanius, Bishop of Cyprus",
+    "given": "Epiphanius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/12/101356-saint-epiphanius-bishop-of-cyprus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

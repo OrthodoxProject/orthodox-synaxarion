@@ -1,0 +1,26 @@
+{
+  "id": "ioan-of-sonkajanranta--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:ioan-of-sonkajanranta"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 8
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-martir-marturisitor-ioan-de-sonkajanranta",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

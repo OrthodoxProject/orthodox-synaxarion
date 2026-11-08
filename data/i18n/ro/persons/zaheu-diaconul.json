@@ -1,0 +1,26 @@
+{
+  "id": "zaheu-diaconul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Zaheu diaconul",
+    "full": "Sfântul Mucenic Zaheu diaconul",
+    "short": "Zaheu diaconul",
+    "given": "Zaheu"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-zaheu-diaconul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-platon-roman-si-zaheu/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

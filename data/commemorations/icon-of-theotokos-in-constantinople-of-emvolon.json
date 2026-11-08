@@ -1,0 +1,29 @@
+{
+  "id": "icon-of-theotokos-in-constantinople-of-emvolon",
+  "kind": "icon",
+  "subjects": [
+    "icon:icon-of-theotokos-in-constantinople-of-emvolon"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 26
+  },
+  "external_ids": {
+    "oca": "102098"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/26/102098-icon-of-the-mother-of-god-in-constantinople-of-emvolon",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

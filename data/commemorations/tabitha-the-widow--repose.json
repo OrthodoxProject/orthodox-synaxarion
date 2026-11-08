@@ -1,0 +1,39 @@
+{
+  "id": "tabitha-the-widow--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:tabitha-the-widow"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 25
+  },
+  "external_ids": {
+    "oca": "103058"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-tavita",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-marcian-si-martirie-sf-tavita-duminica-a-23-a-dupa-rusalii-ap-efeseni-2-4-10-ev-luca-8-26-39-vindecarea-demonizatului-din-tinutul-gherghesenilor-glas-4-voscr-10/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/25/103058-saint-tabitha-the-widow-raised-from-the-dead-by-the-apostle-pete",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pavel-marturisitorul-of-plusiada--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:pavel-marturisitorul-of-plusiada"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 8
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-pavel-marturisitorul-episcopul-plusiadei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "cyprian-of-carthage--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:cyprian-of-carthage"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 31
+  },
+  "external_ids": {
+    "oca": "102443"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/31/102443-hieromartyr-cyprian-bishop-of-carthage",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

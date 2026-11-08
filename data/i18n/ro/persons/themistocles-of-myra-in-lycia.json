@@ -1,0 +1,26 @@
+{
+  "id": "themistocles-of-myra-in-lycia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Temistocle",
+    "full": "Sfântul Mucenic Temistocle",
+    "short": "Temistocle",
+    "given": "Temistocle"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-temistocle",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-iuliana-din-nicomidia-sf-mc-temistocle/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

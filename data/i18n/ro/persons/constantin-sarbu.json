@@ -1,0 +1,29 @@
+{
+  "id": "constantin-sarbu",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Preot Mc. Constantin Sârbu",
+    "full": "Sfântul Preot Mucenic Constantin Sârbu",
+    "short": "Constantin Sârbu",
+    "given": "Constantin",
+    "variants": [
+      "Sf. Preot Mucenic Constantin Sârbu"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-preot-mucenic-constantin-sarbu",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ap-iacob-rudenia-domnului-intaiul-episcop-al-ierusalimului-%e2%80%a0-sf-preot-mucenic-constantin-sarbu-sf-cuv-macarie-romanul/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

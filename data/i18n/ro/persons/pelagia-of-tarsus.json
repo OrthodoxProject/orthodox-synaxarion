@@ -1,0 +1,26 @@
+{
+  "id": "pelagia-of-tarsus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Pelaghia",
+    "full": "Sfânta Muceniță Pelaghia",
+    "short": "Pelaghia",
+    "given": "Pelaghia"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-pelaghia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-mavra-de-pe-ceahlau-sf-mc-pelaghia-sf-monica/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

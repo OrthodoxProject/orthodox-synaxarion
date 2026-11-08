@@ -1,0 +1,30 @@
+{
+  "id": "eutychius-and-florentius-of-nursia",
+  "kind": "repose",
+  "subjects": [
+    "person:eutychius",
+    "person:florentius-of-nursia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 23
+  },
+  "external_ids": {
+    "oca": "102380"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/23/102380-saints-eutychius-and-florentius-of-nursia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

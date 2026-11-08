@@ -1,0 +1,30 @@
+{
+  "id": "macarius-bishop-of-edkow--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:macarius-bishop-of-edkow"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 27,
+    "calendar": "coptic"
+  },
+  "external_ids": {
+    "copticchurch": "2_27#1"
+  },
+  "sources": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/2_27.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din copticchurch.net; de verificat."
+    ]
+  }
+}

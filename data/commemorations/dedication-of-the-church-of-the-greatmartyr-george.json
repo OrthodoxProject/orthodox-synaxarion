@@ -1,0 +1,26 @@
+{
+  "id": "dedication-of-the-church-of-the-greatmartyr-george",
+  "kind": "event",
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 26
+  },
+  "external_ids": {
+    "oca": "103398"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/26/103398-dedication-of-the-church-of-the-greatmartyr-george-at-kiev",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

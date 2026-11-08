@@ -1,0 +1,21 @@
+{
+  "id": "ipomoni",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ipomoni",
+    "full": "Sfânta Cuvioasă Ipomoni",
+    "short": "Ipomoni",
+    "given": "Ipomoni"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-ipomoni",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

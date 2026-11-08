@@ -1,0 +1,21 @@
+{
+  "id": "thalassius",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Talasie",
+    "full": "Sfântul Cuvios Talasie",
+    "short": "Talasie",
+    "given": "Talasie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-talasie",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

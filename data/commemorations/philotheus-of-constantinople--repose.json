@@ -1,0 +1,34 @@
+{
+  "id": "philotheus-of-constantinople--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:philotheus-of-constantinople"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 11
+  },
+  "external_ids": {
+    "oca": "102905"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-filotei-i-kokkinos-patriarhul-constantinopolului",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/11/102905-venerable-philotheus-patriarch-of-constantinople",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, oca.org; de verificat."
+    ]
+  }
+}

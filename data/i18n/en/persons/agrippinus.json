@@ -1,0 +1,20 @@
+{
+  "id": "agrippinus",
+  "locale": "en",
+  "names": {
+    "display": "Saint Agrippinus, 10th Pope of Alexandria",
+    "short": "Agrippinus, 10th Pope of Alexandria",
+    "given": "Agrippinus"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/6_5.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

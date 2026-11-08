@@ -1,0 +1,32 @@
+{
+  "tradition": "romanian",
+  "date": "01-08",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:george-the-chozebite--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:domnica-of-constantinople--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:emilian-the-confessor-of-cyzicus--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:abo-the-perfumer-of-tbilisi--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:theophany--afterfeast"
+      ],
+      "differs_from_default": true
+    }
+  ]
+}

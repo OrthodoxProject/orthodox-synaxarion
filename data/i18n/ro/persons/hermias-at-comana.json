@@ -1,0 +1,21 @@
+{
+  "id": "hermias-at-comana",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Ermie",
+    "full": "Sfântul Mucenic Ermie",
+    "short": "Ermie",
+    "given": "Ermie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-ermie",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

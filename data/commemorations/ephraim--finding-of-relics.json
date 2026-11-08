@@ -1,0 +1,34 @@
+{
+  "id": "ephraim--finding-of-relics",
+  "kind": "relics_finding",
+  "subjects": [
+    "person:ephraim"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 3
+  },
+  "external_ids": {
+    "oca": "101303"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/descoperirea-moastelor-sfantului-mucenic-efrem-cel-nou",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/03/101303-discovery-of-the-relics-of-the-holy-great-martyr-ephraim",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "macarius",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mărt. Macarie",
+    "full": "Sfântul Cuvios Mărturisitor Macarie",
+    "short": "Macarie",
+    "given": "Macarie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-marturisitor-macarie",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

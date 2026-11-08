@@ -1,0 +1,20 @@
+{
+  "id": "lupus",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Lupus, slave of Saint Demetrius of Thessalonica",
+    "short": "Lupus, slave of Saint Demetrius of Thessalonica",
+    "given": "Lupus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/23/102378-martyr-lupus-slave-of-saint-demetrius-of-thessalonica",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "artemon-of-seleucia",
+  "locale": "en",
+  "names": {
+    "display": "Saint Artemon, Bishop of Seleucia",
+    "short": "Artemon, Bishop of Seleucia",
+    "given": "Artemon"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/24/100878-saint-artemon-bishop-of-seleucia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "valentin-of-umbria--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:valentin-of-umbria"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 30
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-valentin-episcopul-umbriei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ap-sila-silvan-crescent-epenet-si-andronic-sf-sfintit-mc-valentin-episcopul-umbriei-lasatul-secului-pentru-postul-adormirii-maicii-domnului/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro; de verificat."
+    ]
+  }
+}

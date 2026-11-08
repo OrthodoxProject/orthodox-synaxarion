@@ -1,0 +1,21 @@
+{
+  "id": "antim",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Antim, preotul",
+    "full": "Sfântul Cuvios Antim, preotul",
+    "short": "Antim, preotul",
+    "given": "Antim"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-antim-preotul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "cyprian",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Ciprian",
+    "full": "Sfântul Mucenic Ciprian",
+    "short": "Ciprian",
+    "given": "Ciprian"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-ciprian",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

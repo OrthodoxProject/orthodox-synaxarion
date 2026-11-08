@@ -1,0 +1,23 @@
+{
+  "id": "kuksha",
+  "kind": "saint",
+  "gender": "female",
+  "holiness_types": [
+    "hieromartyr",
+    "venerable"
+  ],
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/27/102405-hieromartyr-kuksha-and-venerable-pimen-of-the-kiev-near-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

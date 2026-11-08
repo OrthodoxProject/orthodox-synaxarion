@@ -1,0 +1,29 @@
+{
+  "id": "zenas-of-the-seventy--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:zenas-of-the-seventy"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 27
+  },
+  "external_ids": {
+    "oca": "102738"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/27/102738-apostle-zenas-of-the-seventy",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

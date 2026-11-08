@@ -1,0 +1,21 @@
+{
+  "id": "eudokimos-of-vatopedi-monastery-on-mount-athos",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Evdochim Vatopedinul",
+    "full": "Sfântul Evdochim Vatopedinul",
+    "short": "Evdochim Vatopedinul",
+    "given": "Evdochim"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-evdochim-vatopedinul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

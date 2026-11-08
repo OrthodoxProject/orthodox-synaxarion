@@ -1,0 +1,29 @@
+{
+  "id": "martyr-dorothy-at-caesarea-in-cappadocia-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "group:martyr-dorothy-at-caesarea-in-cappadocia-and-companions"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 6
+  },
+  "external_ids": {
+    "oca": "100445"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/06/100445-virgin-martyr-dorothy-at-caesarea-in-cappadocia-and-those-with-h",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

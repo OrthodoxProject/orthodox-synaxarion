@@ -1,0 +1,29 @@
+{
+  "id": "david-of-annes-skete--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:david-of-annes-skete"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 26
+  },
+  "external_ids": {
+    "oca": "100473"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/26/100473-new-martyr-david-of-saint-annes-skete",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

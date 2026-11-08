@@ -1,0 +1,21 @@
+{
+  "id": "david-of-evia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. David din Evia",
+    "full": "Sfântul Cuvios David din Evia",
+    "short": "David din Evia",
+    "given": "David"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-david-din-evia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

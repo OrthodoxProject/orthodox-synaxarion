@@ -1,0 +1,28 @@
+{
+  "id": "nikon",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Nikon and 199 disciples with him in Sicily",
+    "short": "Nikon",
+    "given": "Nikon",
+    "variants": [
+      "Venerable Nikon, Abbot of the Kiev Far Caves"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/23/100865-martyr-nikon-and-199-disciples-with-him-in-sicily",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/23/100867-venerable-nikon-abbot-of-the-kiev-far-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "lazarus-the-great-martyr-of-serbia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:lazarus-the-great-martyr-of-serbia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 15
+  },
+  "external_ids": {
+    "oca": "101734"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mare-mucenic-lazar-cneazul-serbiei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/15/101734-right-believing-prince-lazarus-the-great-martyr-of-serbia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, oca.org; de verificat."
+    ]
+  }
+}

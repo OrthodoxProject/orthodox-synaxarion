@@ -1,0 +1,48 @@
+{
+  "id": "savva-brancovici-of-ardeal--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:savva-brancovici-of-ardeal"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 24
+  },
+  "external_ids": {
+    "oca": "101201"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-marturisitor-sava-brancovici-mitropolitul-transilvaniei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ierarhi-ilie-iorest-simion-stefan-si-sava-brancovici-mitropolitii-transilvaniei-sf-ier-iosif-marturisitorul-din-maramures-sf-mc-pasicrat-si-valentin-sf-cuv-elisabeta-dezlega/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/24/101201-saint-savva-brancovici-metropolitan-of-ardeal-confessor-of-roman",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/romanian_saints.json",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sava_II_Brankovi%C4%87"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org, orthodox-calendar, Wikipedia; de verificat."
+    ]
+  }
+}

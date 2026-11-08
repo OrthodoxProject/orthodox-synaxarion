@@ -1,0 +1,26 @@
+{
+  "id": "macedonie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Macedonie",
+    "full": "Sfântul Mucenic Macedonie",
+    "short": "Macedonie",
+    "given": "Macedonie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-macedonie",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/odovania-praznicului-nasterii-maicii-domnului-sf-mc-avtonom-macedonie-si-teodul/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

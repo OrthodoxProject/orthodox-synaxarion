@@ -1,0 +1,35 @@
+{
+  "id": "daniel-the-archpriest-of-sheahat--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:daniel-the-archpriest-of-sheahat"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 8,
+    "calendar": "coptic"
+  },
+  "external_ids": {
+    "copticchurch": "9_8#2"
+  },
+  "sources": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/9_8.html?lang=en#2",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:st-takla-synaxarium",
+      "url": "https://st-takla.org/books/en/church/synaxarium/09-bashans/08-pashans-daniel.html",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din copticchurch.net, st-takla.org; de verificat."
+    ]
+  }
+}

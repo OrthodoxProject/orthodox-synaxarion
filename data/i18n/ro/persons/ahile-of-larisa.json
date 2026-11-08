@@ -1,0 +1,21 @@
+{
+  "id": "ahile-of-larisa",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ahile, Episcopul Larisei",
+    "full": "Sfântul Ierarh Ahile, Episcopul Larisei",
+    "short": "Ahile, Episcopul Larisei",
+    "given": "Ahile"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-ahile-episcopul-larisei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

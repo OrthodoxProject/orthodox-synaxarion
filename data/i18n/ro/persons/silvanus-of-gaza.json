@@ -1,0 +1,21 @@
+{
+  "id": "silvanus-of-gaza",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Silvan, Episcopul Gazei",
+    "full": "Sfântul Silvan, Episcopul Gazei",
+    "short": "Silvan, Episcopul Gazei",
+    "given": "Silvan"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-silvan-episcopul-gazei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

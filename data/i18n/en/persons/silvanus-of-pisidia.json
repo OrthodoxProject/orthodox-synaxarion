@@ -1,0 +1,20 @@
+{
+  "id": "silvanus-of-pisidia",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Silvanus of Pisidia",
+    "short": "Silvanus of Pisidia",
+    "given": "Silvanus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/10/101997-martyrs-bianor-and-silvanus-of-pisidia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

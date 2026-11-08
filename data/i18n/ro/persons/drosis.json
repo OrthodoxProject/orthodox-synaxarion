@@ -1,0 +1,26 @@
+{
+  "id": "drosis",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Drosida, fiica împăratului Traian",
+    "full": "Sfânta Muceniță Drosida, fiica împăratului Traian",
+    "short": "Drosida, fiica împăratului Traian",
+    "given": "Drosida"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-drosida-fiica-imparatului-traian",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-sfintit-mc-vasile-preotul-din-ancira-sf-mc-drosida-fiica-imparatului-traian-pomenirea-celor-adormiti/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

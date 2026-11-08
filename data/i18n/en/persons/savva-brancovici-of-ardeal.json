@@ -1,0 +1,28 @@
+{
+  "id": "savva-brancovici-of-ardeal",
+  "locale": "en",
+  "names": {
+    "display": "Saint Savva Brancovici, Metropolitan of Ardeal, Confessor of Romania",
+    "short": "Savva Brancovici, Metropolitan of Ardeal, Confessor of Romania",
+    "given": "Savva",
+    "variants": [
+      "Sava II Branković"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/24/101201-saint-savva-brancovici-metropolitan-of-ardeal-confessor-of-roman",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/romanian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

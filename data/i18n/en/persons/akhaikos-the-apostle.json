@@ -1,0 +1,20 @@
+{
+  "id": "akhaikos-the-apostle",
+  "locale": "en",
+  "names": {
+    "display": "Apostle Akhaikos",
+    "short": "Akhaikos",
+    "given": "Akhaikos"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/15/100087-apostles-fortunatus-akhaikos-and-stephanas-of-the-70",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

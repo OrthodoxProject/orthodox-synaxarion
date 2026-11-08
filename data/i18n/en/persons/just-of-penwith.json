@@ -1,0 +1,20 @@
+{
+  "id": "just-of-penwith",
+  "locale": "en",
+  "names": {
+    "display": "Saint Just of Penwith",
+    "short": "Just of Penwith",
+    "given": "Just"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/13/205400-saint-just-of-penwith",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

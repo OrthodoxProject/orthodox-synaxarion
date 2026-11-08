@@ -1,0 +1,30 @@
+{
+  "id": "gregory-of-armenians--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:gregory-of-armenians"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 19,
+    "calendar": "coptic"
+  },
+  "external_ids": {
+    "copticchurch": "1_19#1"
+  },
+  "sources": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/1_19.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din copticchurch.net; de verificat."
+    ]
+  }
+}

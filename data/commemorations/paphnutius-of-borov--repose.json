@@ -1,0 +1,34 @@
+{
+  "id": "paphnutius-of-borov--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:paphnutius-of-borov"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 1
+  },
+  "external_ids": {
+    "oca": "101255"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-pafnutie-din-borovsk",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/01/101255-venerable-paphnutius-abbot-of-borov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, oca.org; de verificat."
+    ]
+  }
+}

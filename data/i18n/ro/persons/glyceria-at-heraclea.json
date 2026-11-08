@@ -1,0 +1,26 @@
+{
+  "id": "glyceria-at-heraclea",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Glicheria",
+    "full": "Sfânta Muceniță Glicheria",
+    "short": "Glicheria",
+    "given": "Glicheria"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-glicheria",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/odovania-injumatatirii-cincizecimii-sf-mc-glicheria-sf-serghie-marturisitorul-dezlegare-la-peste/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

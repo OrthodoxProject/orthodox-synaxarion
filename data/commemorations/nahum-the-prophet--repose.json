@@ -1,0 +1,39 @@
+{
+  "id": "nahum-the-prophet--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:nahum-the-prophet"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 1
+  },
+  "external_ids": {
+    "oca": "103452"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-proroc-naum",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-anastasia-mama-sf-ier-andrei-saguna-sf-proroc-naum-sf-filaret-cel-milostiv-tedeum-dezlegare-la-peste/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/01/103452-prophet-nahum",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

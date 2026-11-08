@@ -1,0 +1,20 @@
+{
+  "id": "hilarion-of-pskov",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Hilarion of Pskov, Lake Gdov",
+    "short": "Hilarion of Pskov, Lake Gdov",
+    "given": "Hilarion"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/28/100922-venerable-hilarion-of-pskov-lake-gdov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "tradition": "serbian",
+  "date": "06-17",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:joannicius-i-of-montenegro--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:manuel-and-companions"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:shalva-of-akhaltsikhe--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

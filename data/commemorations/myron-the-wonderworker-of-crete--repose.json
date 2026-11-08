@@ -1,0 +1,29 @@
+{
+  "id": "myron-the-wonderworker-of-crete--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:myron-the-wonderworker-of-crete"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 8
+  },
+  "external_ids": {
+    "oca": "102233"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/08/102233-saint-myron-the-wonderworker-bishop-of-crete",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "argyra",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Arghira",
+    "full": "Sfânta Muceniță Arghira",
+    "short": "Arghira",
+    "given": "Arghira"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-arghira",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

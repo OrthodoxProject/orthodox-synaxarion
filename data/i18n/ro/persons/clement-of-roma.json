@@ -1,0 +1,26 @@
+{
+  "id": "clement-of-roma",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Clement, Episcopul Romei",
+    "full": "Sfântul Sfințit Mucenic Clement, Episcopul Romei",
+    "short": "Clement, Episcopul Romei",
+    "given": "Clement"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-sfintit-mucenic-clement-episcopul-romei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-sfintiti-mc-clement-episcopul-romei-si-petru-episcopul-alexandriei/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

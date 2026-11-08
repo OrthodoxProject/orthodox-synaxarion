@@ -1,0 +1,21 @@
+{
+  "id": "marinus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Marin",
+    "full": "Sfântul Mucenic Marin",
+    "short": "Marin",
+    "given": "Marin"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-marin-0",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

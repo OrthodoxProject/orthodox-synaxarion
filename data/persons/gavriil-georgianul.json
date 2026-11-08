@@ -1,0 +1,26 @@
+{
+  "id": "gavriil-georgianul",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "venerable",
+    "confessor"
+  ],
+  "external_ids": {
+    "doxologia": "sfantul-cuvios-marturisitor-gavriil-georgianul"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-marturisitor-gavriil-georgianul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

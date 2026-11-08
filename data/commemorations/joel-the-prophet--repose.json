@@ -1,0 +1,39 @@
+{
+  "id": "joel-the-prophet--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:joel-the-prophet"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 19
+  },
+  "external_ids": {
+    "oca": "102997"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-proroc-ioil",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-proroc-ioil-sf-mc-uar-sf-cleopatra-sf-cuv-ioan-de-la-rila/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/19/102997-prophet-joel",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

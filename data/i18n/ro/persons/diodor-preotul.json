@@ -1,0 +1,21 @@
+{
+  "id": "diodor-preotul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Diodor preotul",
+    "full": "Sfântul Mucenic Diodor preotul",
+    "short": "Diodor preotul",
+    "given": "Diodor"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-diodor-preotul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

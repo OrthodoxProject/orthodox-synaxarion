@@ -1,0 +1,26 @@
+{
+  "id": "cleopa-of-sihastria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Cleopa de la Sihăstria",
+    "full": "Sfântul Cuvios Cleopa de la Sihăstria",
+    "short": "Cleopa de la Sihăstria",
+    "given": "Cleopa"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-cleopa-de-la-sihastria",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-paisie-si-cleopa-de-la-sihastria-sf-proroc-avacum-sf-mc-miropi-sf-cuv-porfirie-cavsocalivitul-sf-ier-solomon-arhiepiscopul-efesului-dezlegare-la-peste/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

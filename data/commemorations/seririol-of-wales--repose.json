@@ -1,0 +1,29 @@
+{
+  "id": "seririol-of-wales--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:seririol-of-wales"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 1
+  },
+  "external_ids": {
+    "oca": "205324"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/01/205324-saint-seririol-of-wales",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

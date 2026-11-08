@@ -1,0 +1,24 @@
+{
+  "tradition": "serbian",
+  "date": "03-12",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:theophanes-the-confessor-of-sigriane--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:gregory-dialogus-of-rome--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:simeon-the-new-theologian--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

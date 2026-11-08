@@ -1,0 +1,29 @@
+{
+  "id": "gerasimus-of-boldino--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:gerasimus-of-boldino"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 1
+  },
+  "external_ids": {
+    "oca": "148980"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/01/148980-saint-gerasimus-of-boldino",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

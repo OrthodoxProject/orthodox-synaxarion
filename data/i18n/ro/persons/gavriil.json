@@ -1,0 +1,21 @@
+{
+  "id": "gavriil",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Gavriil",
+    "full": "Sfântul Mucenic Gavriil",
+    "short": "Gavriil",
+    "given": "Gavriil"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-gavriil",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

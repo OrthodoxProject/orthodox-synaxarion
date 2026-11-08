@@ -1,0 +1,33 @@
+{
+  "id": "holy-glorious-and-companions",
+  "kind": "other",
+  "count": {
+    "value": 12,
+    "precision": "exact"
+  },
+  "holiness_types": [
+    "apostle"
+  ],
+  "external_ids": {
+    "doxologia": "soborul-sfintilor-12-apostoli"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/soborul-sfintilor-12-apostoli",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/30/101711-synaxis-of-the-holy-glorious-and-all-praised-twelve-apostles",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "zacharias-of-sakha",
+  "locale": "en",
+  "names": {
+    "display": "Saint Zacharias, Bishop of Sakha",
+    "short": "Zacharias, Bishop of Sakha",
+    "given": "Zacharias"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/6_21.html?lang=en#4",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

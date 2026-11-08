@@ -1,0 +1,26 @@
+{
+  "id": "photius-of-constantinople",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Fotie, patriarhul Constantinopolului",
+    "full": "Sfântul Ierarh Fotie, patriarhul Constantinopolului",
+    "short": "Fotie, patriarhul Constantinopolului",
+    "given": "Fotie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-fotie-patriarhul-constantinopolului",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ier-vucol-episcopul-smirnei-si-fotie-patriarhul-constantinopolului-sf-cuv-varsanufie-cel-mare-si-ioan-din-gaza-harti/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

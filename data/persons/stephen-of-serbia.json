@@ -1,0 +1,25 @@
+{
+  "id": "stephen-of-serbia",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "right_believing"
+  ],
+  "external_ids": {
+    "oca": "108948"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/24/108948-holy-king-stephen-of-serbia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

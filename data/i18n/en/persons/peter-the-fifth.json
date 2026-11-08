@@ -1,0 +1,20 @@
+{
+  "id": "peter-the-fifth",
+  "locale": "en",
+  "names": {
+    "display": "Saint Peter the Fifth, 83rd Patriarch of Alexandria",
+    "short": "Peter the Fifth, 83rd Patriarch of Alexandria",
+    "given": "Peter"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/11_14.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

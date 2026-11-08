@@ -1,0 +1,20 @@
+{
+  "id": "serapion-of-spaso-eleazar-monastery",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Serapion of Spaso-Eleazar Monastery, Pskov",
+    "short": "Serapion of Spaso-Eleazar Monastery, Pskov",
+    "given": "Serapion"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/07/102534-venerable-serapion-of-spaso-eleazar-monastery-pskov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

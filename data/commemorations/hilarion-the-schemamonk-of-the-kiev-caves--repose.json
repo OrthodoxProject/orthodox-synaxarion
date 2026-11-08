@@ -1,0 +1,34 @@
+{
+  "id": "hilarion-the-schemamonk-of-the-kiev-caves--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:hilarion-the-schemamonk-of-the-kiev-caves"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 21
+  },
+  "external_ids": {
+    "oca": "103011"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/21/103011-venerable-hilarion-the-schemamonk-of-the-kiev-caves",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/21/108926-saint-hilarion-metropolitan-of-kiev",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

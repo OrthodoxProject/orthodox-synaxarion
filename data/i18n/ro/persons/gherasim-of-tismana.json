@@ -1,0 +1,26 @@
+{
+  "id": "gherasim-of-tismana",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Gherasim de la Tismana",
+    "full": "Sfântul Cuvios Mucenic Gherasim de la Tismana",
+    "short": "Gherasim de la Tismana",
+    "given": "Gherasim"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-mucenic-gherasim-de-la-tismana",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-soborul-maicii-domnului-%e2%80%a0-sf-cuv-nicodim-cel-sfintit-de-la-tismana-%e2%80%a0-sf-cuv-mc-gherasim-de-la-tismana/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "cvart-the-apostle--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:cvart-the-apostle"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 10
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-apostol-cvart",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ap-olimp-rodion-sosipatru-erast-tertiu-si-cvart-%e2%80%a0-sf-cuv-mc-visarion-de-la-lainici-sf-mc-orest/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "avdas-of-persia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Avdas",
+    "full": "Sfântul Ierarh Avdas",
+    "short": "Avdas",
+    "given": "Avdas"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-avdas",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

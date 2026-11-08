@@ -1,0 +1,26 @@
+{
+  "id": "elizabeth-of-pasarea",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Elisabeta de la Pasărea",
+    "full": "Sfânta Cuvioasă Elisabeta de la Pasărea",
+    "short": "Elisabeta de la Pasărea",
+    "given": "Elisabeta"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-elisabeta-de-la-pasarea",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-elisabeta-de-la-pasarea-sf-sfintit-mc-dorotei-episcopul-tirului-harti/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

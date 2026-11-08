@@ -1,0 +1,31 @@
+{
+  "id": "7-youths-seven-sleepers-of-ephesus-2",
+  "kind": "other",
+  "count": {
+    "value": 7,
+    "precision": "exact"
+  },
+  "external_ids": {
+    "doxologia": "sfintii-7-tineri-din-efes",
+    "oca": "103023"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfintii-7-tineri-din-efes",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/22/103023-7-holy-youths-seven-sleepers-of-ephesus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, oca.org; de verificat."
+    ]
+  }
+}

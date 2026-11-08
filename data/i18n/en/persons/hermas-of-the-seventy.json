@@ -1,0 +1,20 @@
+{
+  "id": "hermas-of-the-seventy",
+  "locale": "en",
+  "names": {
+    "display": "Apostle Hermas of the Seventy",
+    "short": "Hermas of the Seventy",
+    "given": "Hermas"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/31/101567-apostle-hermas-of-the-seventy",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

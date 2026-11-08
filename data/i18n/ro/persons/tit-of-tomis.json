@@ -1,0 +1,21 @@
+{
+  "id": "tit-of-tomis",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Tit, episcopul Tomisului",
+    "full": "Sfântul Mucenic Tit, episcopul Tomisului",
+    "short": "Tit, episcopul Tomisului",
+    "given": "Tit"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-tit-episcopul-tomisului",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "demetrios-of-thrace",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Dēmḗtrios of Thrace",
+    "short": "Dēmḗtrios of Thrace",
+    "given": "Dēmḗtrios"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/15/103310-martyr-dmtrios-of-thrace",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

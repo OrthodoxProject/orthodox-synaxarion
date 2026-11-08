@@ -1,0 +1,20 @@
+{
+  "id": "gregory-the-theologian",
+  "locale": "en",
+  "names": {
+    "display": "Saint Gregory the Theologian",
+    "short": "Gregory the Theologian",
+    "given": "Gregory"
+  },
+  "references": [
+    {
+      "source": "src:armenianchurch-ge",
+      "url": "https://armenianchurch.ge/en/kalendar-prazdnikov/description-2/august/commemoration-of-st-gregory-the-theologian",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "entry-of-the-most-mother-of-god--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:entry-of-the-most-mother-of-god"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 21
+  },
+  "external_ids": {
+    "oca": "103357"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/21/103357-the-entry-of-the-most-holy-mother-of-god-into-the-temple",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

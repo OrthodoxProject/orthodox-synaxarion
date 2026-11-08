@@ -1,0 +1,21 @@
+{
+  "id": "manuel-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Manuel",
+    "full": "Sfântul Cuvios Manuel",
+    "short": "Manuel",
+    "given": "Manuel"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-manuel",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

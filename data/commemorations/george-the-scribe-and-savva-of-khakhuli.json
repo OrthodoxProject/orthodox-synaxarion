@@ -1,0 +1,30 @@
+{
+  "id": "george-the-scribe-and-savva-of-khakhuli",
+  "kind": "repose",
+  "subjects": [
+    "person:george-the-scribe",
+    "person:savva-of-khakhuli"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 19
+  },
+  "external_ids": {
+    "oca": "205498"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/19/205498-venerable-george-the-scribe-and-venerable-savva-of-khakhuli",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

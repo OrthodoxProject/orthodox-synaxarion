@@ -1,0 +1,20 @@
+{
+  "id": "paul-the-confessor-of-constantinople",
+  "locale": "en",
+  "names": {
+    "display": "Saint Paul the Confessor, Archbishop of Constantinople",
+    "short": "Paul the Confessor, Archbishop of Constantinople",
+    "given": "Paul"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/06/103185-saint-paul-the-confessor-archbishop-of-constantinople",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

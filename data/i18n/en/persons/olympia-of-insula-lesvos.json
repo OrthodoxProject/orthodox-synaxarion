@@ -1,0 +1,20 @@
+{
+  "id": "olympia-of-insula-lesvos",
+  "locale": "en",
+  "names": {
+    "display": "Holy Monastic Martyr Olympia",
+    "short": "Olympia",
+    "given": "Olympia"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/11/100128-holy-monastic-martyrs-olympia-and-euphrosyn",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

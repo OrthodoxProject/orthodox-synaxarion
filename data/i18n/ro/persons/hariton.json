@@ -1,0 +1,21 @@
+{
+  "id": "hariton",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Hariton",
+    "full": "Sfântul Mucenic Hariton",
+    "short": "Hariton",
+    "given": "Hariton"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-hariton",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

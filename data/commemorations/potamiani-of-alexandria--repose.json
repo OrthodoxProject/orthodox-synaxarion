@@ -1,0 +1,29 @@
+{
+  "id": "potamiani-of-alexandria--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:potamiani-of-alexandria"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 7
+  },
+  "external_ids": {
+    "oca": "100544"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/07/100544-saint-potamiani-of-alexandria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

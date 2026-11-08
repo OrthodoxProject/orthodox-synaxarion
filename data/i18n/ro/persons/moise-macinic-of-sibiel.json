@@ -1,0 +1,26 @@
+{
+  "id": "moise-macinic-of-sibiel",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Preot Mărt. Moise Măcinic din Sibiel",
+    "full": "Sfântul Preot Mărturisitor Moise Măcinic din Sibiel",
+    "short": "Moise Măcinic din Sibiel",
+    "given": "Moise"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-preot-marturisitor-moise-macinic-din-sibiel",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-marturisitori-visarion-si-sofronie-sf-mc-oprea-sf-preoti-marturisitori-ioan-din-gales-si-moise-macinic-din-sibiel-sf-cuv-ilarion-cel-mare/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

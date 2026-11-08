@@ -1,0 +1,29 @@
+{
+  "id": "john-the-theologian",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ap. și Evanghelist Ioan",
+    "full": "Sfântul Apostol și Evanghelist Ioan",
+    "short": "Ioan",
+    "given": "Ioan",
+    "variants": [
+      "Sf. Ap. și Evanghelist Ioan Teologul"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-apostol-evanghelist-ioan",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ap-si-evanghelist-ioan-teologul-sf-cuv-arsenie-cel-mare-dezlegare-la-peste/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

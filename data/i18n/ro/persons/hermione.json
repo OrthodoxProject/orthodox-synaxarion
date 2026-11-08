@@ -1,0 +1,21 @@
+{
+  "id": "hermione",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ermioni, una dintre fiicele Sfântului Ap. Filip",
+    "full": "Sfânta Ermioni, una dintre fiicele Sfântului Apostol Filip",
+    "short": "Ermioni, una dintre fiicele Sfântului Apostol Filip",
+    "given": "Ermioni"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-ermioni-una-dintre-fiicele-sfantului-apostol-filip",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

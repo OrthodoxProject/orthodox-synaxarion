@@ -1,0 +1,29 @@
+{
+  "id": "lucian-the-presbyter-of-antioch",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Lucian preotul",
+    "full": "Sfântul Mucenic Lucian preotul",
+    "short": "Lucian preotul",
+    "given": "Lucian",
+    "variants": [
+      "Sf. Sfințit Mc. Lucian, preotul din Antiohia"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-lucian-preotul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-magdalena-de-la-malainita-sf-sfintit-mc-lucian-preotul-din-antiohia/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

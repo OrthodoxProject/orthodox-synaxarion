@@ -1,0 +1,29 @@
+{
+  "id": "earthquake-at-constantinople--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:earthquake-at-constantinople"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 26
+  },
+  "external_ids": {
+    "oca": "103060"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/26/103060-commemoration-of-the-great-earthquake-at-constantinople",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

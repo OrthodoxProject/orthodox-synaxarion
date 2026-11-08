@@ -1,0 +1,20 @@
+{
+  "id": "john-of-kronstadt",
+  "locale": "en",
+  "names": {
+    "display": "Repose of Saint John of Kronstadt",
+    "short": "John of Kronstadt",
+    "given": "John"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/20/103598-repose-of-saint-john-of-kronstadt",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

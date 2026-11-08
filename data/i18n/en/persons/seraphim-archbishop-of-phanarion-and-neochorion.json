@@ -1,0 +1,20 @@
+{
+  "id": "seraphim-archbishop-of-phanarion-and-neochorion",
+  "locale": "en",
+  "names": {
+    "display": "Hieromartyr Seraphim Archbishop of Phanarion and Neochorion",
+    "short": "Seraphim Archbishop of Phanarion and Neochorion",
+    "given": "Seraphim"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/04/108909-hieromartyr-seraphim-archbishop-of-phanarion-and-neochorion",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

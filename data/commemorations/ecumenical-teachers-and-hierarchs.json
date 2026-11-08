@@ -1,0 +1,39 @@
+{
+  "id": "ecumenical-teachers-and-hierarchs",
+  "kind": "synaxis",
+  "subjects": [
+    "group:ecumenical-teachers-and-hierarchs"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 30
+  },
+  "external_ids": {
+    "oca": "100350"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfintii-trei-ierarhi-vasile-cel-mare-grigorie-teologul-ioan-gura-de-aur",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sfintii-trei-ierarhi-vasile-cel-mare-grigorie-teologul-si-ioan-gura-de-aur-sf-sfintit-mc-ipolit-episcopul-romei/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/30/100350-synaxis-of-the-ecumenical-teachers-and-hierarchs-basil-the-great",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

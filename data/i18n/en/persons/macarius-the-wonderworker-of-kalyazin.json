@@ -1,0 +1,20 @@
+{
+  "id": "macarius-the-wonderworker-of-kalyazin",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Macarius the Wonderworker, Abbot of Kalyazin",
+    "short": "Macarius the Wonderworker, Abbot of Kalyazin",
+    "given": "Macarius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/17/100824-venerable-macarius-the-wonderworker-abbot-of-kalyazin",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

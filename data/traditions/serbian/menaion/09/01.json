@@ -1,0 +1,30 @@
+{
+  "tradition": "serbian",
+  "date": "09-01",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:church-new-year"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:martha-5--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:forty-women-martyrs-and-martyr-ammon-the-deacon"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:joshua--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

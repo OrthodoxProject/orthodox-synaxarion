@@ -1,0 +1,21 @@
+{
+  "id": "anastasius-the-fuller-of-salona-in-dalmatia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Anastasie",
+    "full": "Sfântul Mucenic Anastasie",
+    "short": "Anastasie",
+    "given": "Anastasie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-anastasie",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

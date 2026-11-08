@@ -72,13 +72,17 @@
     {
       "source": "src:orthodox-calendar",
       "locator": "backend/app/config.py"
+    },
+    {
+      "source": "src:doxologia"
     }
   ],
   "editorial": {
     "status": "draft",
     "confidence": "medium",
     "notes": [
-      "Semnificația semnelor (mai ales a crucii albastre) și maparea lor pe rangurile din Tipic sunt de confirmat."
+      "Semnificația semnelor (mai ales a crucii albastre) și maparea lor pe rangurile din Tipic sunt de confirmat.",
+      "Calendarul pe zile e importat automat: rândurile oficiale din calendar.patriarhia.ro (2026), cu semnele lor, plus ceilalți sfinți ai zilei listați de doxologia.ro."
     ]
   }
 }

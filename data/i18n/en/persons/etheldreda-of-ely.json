@@ -1,0 +1,20 @@
+{
+  "id": "etheldreda-of-ely",
+  "locale": "en",
+  "names": {
+    "display": "Saint Etheldreda of Ely",
+    "short": "Etheldreda of Ely",
+    "given": "Etheldreda"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/23/100477-saint-etheldreda-of-ely",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

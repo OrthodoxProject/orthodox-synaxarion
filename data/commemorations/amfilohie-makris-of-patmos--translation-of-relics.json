@@ -1,0 +1,26 @@
+{
+  "id": "amfilohie-makris-of-patmos--translation-of-relics",
+  "kind": "relics_translation",
+  "subjects": [
+    "person:amfilohie-makris-of-patmos"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 19
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/mutarea-moastelor-sfantului-amfilohie-makris-din-patmos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

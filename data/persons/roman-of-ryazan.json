@@ -1,0 +1,25 @@
+{
+  "id": "roman-of-ryazan",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "right_believing"
+  ],
+  "external_ids": {
+    "oca": "102056"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/19/102056-right-believing-prince-roman-of-ryazan",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

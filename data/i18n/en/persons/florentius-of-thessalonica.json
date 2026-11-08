@@ -1,0 +1,20 @@
+{
+  "id": "florentius-of-thessalonica",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Florentius of Thessalonica",
+    "short": "Florentius of Thessalonica",
+    "given": "Florentius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/13/102958-martyr-florentius-of-thessalonica",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "joseph-of-zaonikiev-monastery",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Joseph of Zaonikiev Monastery, Vologda",
+    "short": "Joseph of Zaonikiev Monastery, Vologda",
+    "given": "Joseph"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/21/102686-venerable-joseph-of-zaonikiev-monastery-vologda",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

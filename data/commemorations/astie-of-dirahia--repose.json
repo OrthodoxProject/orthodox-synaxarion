@@ -1,0 +1,26 @@
+{
+  "id": "astie-of-dirahia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:astie-of-dirahia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 6
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-sfintit-mucenic-astie-episcopul-dirahiei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

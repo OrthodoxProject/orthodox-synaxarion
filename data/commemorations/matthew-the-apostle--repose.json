@@ -1,0 +1,39 @@
+{
+  "id": "matthew-the-apostle--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:matthew-the-apostle"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 16
+  },
+  "external_ids": {
+    "oca": "103313"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-apostol-evanghelist-matei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ap-si-evanghelist-matei/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/16/103313-apostle-and-evangelist-matthew",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

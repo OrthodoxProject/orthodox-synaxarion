@@ -1,0 +1,23 @@
+{
+  "id": "john-the-new-of-sochi--translation-of-relics",
+  "locale": "ro",
+  "names": {
+    "display": "Aducerea moaștelor Sfântului Mare Mucenic Ioan cel Nou de la Suceava"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/aducerea-moastelor-sfantului-mare-mucenic-ioan-cel-nou-de-la-suceava",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-nasterea-sf-proroc-ioan-botezatorul-sanzienele-sau-dragaica-%e2%80%a0-aducerea-moastelor-sf-mare-mc-ioan-cel-nou-de-la-suceava-%e2%80%a0-sf-ier-niceta-de-remesiana-dezlegare-la-p/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

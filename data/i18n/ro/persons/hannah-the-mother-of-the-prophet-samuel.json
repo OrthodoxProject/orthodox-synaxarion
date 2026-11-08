@@ -1,0 +1,26 @@
+{
+  "id": "hannah-the-mother-of-the-prophet-samuel",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Prorociță Ana, mama Prorocului Samuel",
+    "full": "Sfânta Prorociță Ana, mama Prorocului Samuel",
+    "short": "Ana, mama Prorocului Samuel",
+    "given": "Ana"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-prorocita-ana-mama-prorocului-samuel",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/zamislirea-sfintei-fecioare-maria-de-catre-sf-ana-sf-prorocita-ana-mama-prorocului-samuel/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "triphyllius-of-leucosia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Trifilie, Episcopul Levcosiei din Cipru",
+    "full": "Sfântul Ierarh Trifilie, Episcopul Levcosiei din Cipru",
+    "short": "Trifilie, Episcopul Levcosiei din Cipru",
+    "given": "Trifilie",
+    "variants": [
+      "Sf. Ier. Trifilie, episcopul Lefcosiei din Cipru"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-trifilie-episcopul-levcosiei-din-cipru",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-achilina-sf-ier-trifilie-episcopul-lefcosiei-din-cipru-dezlegare-la-peste/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

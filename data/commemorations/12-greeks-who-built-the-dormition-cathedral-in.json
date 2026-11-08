@@ -1,0 +1,29 @@
+{
+  "id": "12-greeks-who-built-the-dormition-cathedral-in",
+  "kind": "repose",
+  "subjects": [
+    "group:12-greeks-who-built-the-dormition-cathedral-in"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 14
+  },
+  "external_ids": {
+    "oca": "100521"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/14/100521-12-greeks-who-built-the-dormition-cathedral-in-the-kiev-caves-fa",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

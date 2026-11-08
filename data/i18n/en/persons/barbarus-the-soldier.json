@@ -1,0 +1,20 @@
+{
+  "id": "barbarus-the-soldier",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Barbarus the Soldier, and those with him, in Morea",
+    "short": "Barbarus the Soldier",
+    "given": "Barbarus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/06/101302-martyr-barbarus-the-soldier-and-those-with-him-in-morea",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

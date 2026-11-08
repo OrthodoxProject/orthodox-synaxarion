@@ -1,0 +1,31 @@
+{
+  "id": "diodorus-4-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:diodorus-4",
+    "person:didymus",
+    "person:diomedes-of-laodicea"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 11
+  },
+  "external_ids": {
+    "oca": "102576"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/11/102576-martyrs-diodorus-didymus-and-diomedes-of-laodicea",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

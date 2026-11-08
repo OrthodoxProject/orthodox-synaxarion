@@ -1,0 +1,20 @@
+{
+  "id": "rostislav",
+  "locale": "en",
+  "names": {
+    "display": "Saint Rostislav, Prince of Great Moravia",
+    "short": "Rostislav, Prince of Great Moravia",
+    "given": "Rostislav"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/11/101355-saint-rostislav-prince-of-great-moravia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "macarius-of-mount-athos--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:macarius-of-mount-athos"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 6
+  },
+  "external_ids": {
+    "oca": "100107"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/06/100107-venerable-macarius-of-mount-athos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

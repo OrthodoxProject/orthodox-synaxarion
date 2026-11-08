@@ -1,0 +1,29 @@
+{
+  "id": "silvanus-of-nerekhta--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:silvanus-of-nerekhta"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 15
+  },
+  "external_ids": {
+    "oca": "101389"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/15/101389-venerable-silvanus-of-nerekhta",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

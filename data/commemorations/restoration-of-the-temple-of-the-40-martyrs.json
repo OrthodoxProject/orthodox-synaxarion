@@ -1,0 +1,26 @@
+{
+  "id": "restoration-of-the-temple-of-the-40-martyrs",
+  "kind": "event",
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 9
+  },
+  "external_ids": {
+    "oca": "109004"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/09/109004-restoration-of-the-temple-of-the-40-martyrs",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

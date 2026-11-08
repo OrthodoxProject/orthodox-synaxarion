@@ -1,0 +1,39 @@
+{
+  "id": "christodoulos-of-patmos--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:christodoulos-of-patmos"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 16
+  },
+  "external_ids": {
+    "oca": "205333"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-hristodul-din-patmos",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-sabin-egipteanul-sf-cuv-hristodul-din-patmos/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/16/205333-saint-christdoulos-wonderworker-of-patmos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

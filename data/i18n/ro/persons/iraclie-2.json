@@ -1,0 +1,21 @@
+{
+  "id": "iraclie-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Iraclie",
+    "full": "Sfântul Mucenic Iraclie",
+    "short": "Iraclie",
+    "given": "Iraclie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-iraclie",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

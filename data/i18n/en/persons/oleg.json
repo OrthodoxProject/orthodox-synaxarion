@@ -1,0 +1,20 @@
+{
+  "id": "oleg",
+  "locale": "en",
+  "names": {
+    "display": "Saint Oleg, Prince of Briansk",
+    "short": "Oleg, Prince of Briansk",
+    "given": "Oleg"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/20/102680-saint-oleg-prince-of-briansk",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

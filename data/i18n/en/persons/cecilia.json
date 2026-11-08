@@ -1,0 +1,20 @@
+{
+  "id": "cecilia",
+  "locale": "en",
+  "names": {
+    "display": "Virgin Martyr Cecilia",
+    "short": "Cecilia",
+    "given": "Cecilia"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/22/103365-virgin-martyr-cecilia-and-the-holy-martyrs-valerian-tiburtius-an",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

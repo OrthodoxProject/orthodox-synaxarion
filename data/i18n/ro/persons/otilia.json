@@ -1,0 +1,21 @@
+{
+  "id": "otilia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Otilia",
+    "full": "Sfânta Cuvioasă Otilia",
+    "short": "Otilia",
+    "given": "Otilia"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-otilia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

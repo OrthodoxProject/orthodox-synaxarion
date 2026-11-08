@@ -1,0 +1,34 @@
+{
+  "id": "martyr-and-archdeacon-laurence-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "group:martyr-and-archdeacon-laurence-and-companions"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 10
+  },
+  "external_ids": {
+    "oca": "102258"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/10/102258-martyr-and-archdeacon-laurence-and-those-with-him-of-rome",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/10/102262-blessed-laurence-the-fool-for-christ-at-kaluga",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

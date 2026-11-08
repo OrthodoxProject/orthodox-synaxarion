@@ -1,0 +1,21 @@
+{
+  "id": "juliana-of-lazarevo",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Iuliana din Lazarevo",
+    "full": "Sfânta Iuliana din Lazarevo",
+    "short": "Iuliana din Lazarevo",
+    "given": "Iuliana"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-iuliana-din-lazarevo",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

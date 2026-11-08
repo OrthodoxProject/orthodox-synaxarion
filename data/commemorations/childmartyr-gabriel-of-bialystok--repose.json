@@ -1,0 +1,29 @@
+{
+  "id": "childmartyr-gabriel-of-bialystok--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:childmartyr-gabriel-of-bialystok"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 20
+  },
+  "external_ids": {
+    "oca": "101158"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/20/101158-childmartyr-gabriel-of-bialystok",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

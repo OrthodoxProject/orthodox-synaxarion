@@ -1,0 +1,29 @@
+{
+  "id": "demetrios--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:demetrios"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 11
+  },
+  "external_ids": {
+    "oca": "100502"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/11/100502-venerable-demetrios-wonderworker-of-priluki-vologda",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

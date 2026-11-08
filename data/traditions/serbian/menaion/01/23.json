@@ -1,0 +1,25 @@
+{
+  "tradition": "serbian",
+  "date": "01-23",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:clement-of-ancyra--repose",
+        "comm:agathangelus--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:paulinus-the-merciful-of-nola--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:fathers-of-the-sixth-ecumenical-council"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

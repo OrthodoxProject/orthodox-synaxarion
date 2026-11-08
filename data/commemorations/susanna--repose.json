@@ -1,0 +1,34 @@
+{
+  "id": "susanna--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:susanna"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 28
+  },
+  "external_ids": {
+    "oca": "102417"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-suzana-regina-georgiei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/28/102417-martyr-susanna-queen-of-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, oca.org; de verificat."
+    ]
+  }
+}

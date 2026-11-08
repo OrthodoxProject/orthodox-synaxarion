@@ -18,10 +18,20 @@
     {
       "source": "src:orthodox-calendar",
       "locator": "backend/app/config.py"
+    },
+    {
+      "source": "src:oca-lives"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/russian_saints.json"
     }
   ],
   "editorial": {
     "status": "draft",
-    "confidence": "medium"
+    "confidence": "medium",
+    "notes": [
+      "Calendarul pe zile e importat automat din OCA (Lives of the Saints), care urmează rânduiala rusă fără să fie calendarul oficial al Patriarhiei Moscovei, plus sfinții locali din lista orthodox-calendar."
+    ]
   }
 }

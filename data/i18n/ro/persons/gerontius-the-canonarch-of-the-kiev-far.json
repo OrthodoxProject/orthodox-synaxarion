@@ -1,0 +1,26 @@
+{
+  "id": "gerontius-the-canonarch-of-the-kiev-far",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Gherontie",
+    "full": "Sfântul Mucenic Gherontie",
+    "short": "Gherontie",
+    "given": "Gherontie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-gherontie",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-maria-egipteanca-sf-cuv-macarie-marturisitorul-sf-mc-gherontie-sf-cuv-varsanufie-de-la-optina/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

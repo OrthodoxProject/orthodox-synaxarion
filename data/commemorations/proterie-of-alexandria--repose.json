@@ -1,0 +1,26 @@
+{
+  "id": "proterie-of-alexandria--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:proterie-of-alexandria"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 28
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-sfintit-mucenic-proterie-patriarhul-alexandriei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

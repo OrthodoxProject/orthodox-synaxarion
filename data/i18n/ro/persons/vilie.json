@@ -1,0 +1,21 @@
+{
+  "id": "vilie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Vilie",
+    "full": "Sfântul Mucenic Vilie",
+    "short": "Vilie",
+    "given": "Vilie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-vilie",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

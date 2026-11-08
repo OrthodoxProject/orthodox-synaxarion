@@ -1,0 +1,36 @@
+{
+  "id": "aquila-of-the-seventy",
+  "kind": "saint",
+  "gender": "female",
+  "holiness_types": [
+    "apostle"
+  ],
+  "external_ids": {
+    "doxologia": "sfantul-apostol-achila",
+    "oca": "101950"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-apostol-achila",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ap-achila-sf-mc-iust-si-iraclie-sf-cuv-nicodim-aghioritul/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/14/101950-apostle-aquila-of-the-seventy",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "tomaida",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Tomaida",
+    "full": "Sfânta Muceniță Tomaida",
+    "short": "Tomaida",
+    "given": "Tomaida"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-tomaida",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

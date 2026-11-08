@@ -1,0 +1,29 @@
+{
+  "id": "paul-of-obnora--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:paul-of-obnora"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 10
+  },
+  "external_ids": {
+    "oca": "100143"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/10/100143-venerable-paul-abbot-of-obnora-vologda",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

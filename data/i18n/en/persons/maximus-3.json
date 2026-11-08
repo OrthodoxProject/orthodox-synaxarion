@@ -1,0 +1,20 @@
+{
+  "id": "maximus-3",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Maximus",
+    "short": "Maximus",
+    "given": "Maximus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/14/101378-martyr-maximus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

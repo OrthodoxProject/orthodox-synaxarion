@@ -1,0 +1,29 @@
+{
+  "id": "juliana-of-vyazma--finding-of-relics",
+  "kind": "relics_finding",
+  "subjects": [
+    "person:juliana-of-vyazma"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 2
+  },
+  "external_ids": {
+    "oca": "101586"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/02/101586-uncovering-of-the-relics-of-venerable-juliana-princess-of-vyazma",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "tradition": "serbian",
+  "date": "05-26",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:carpus-of-the-seventy--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:alphaeus-of-the-seventy--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:abercius--repose",
+        "comm:helen--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

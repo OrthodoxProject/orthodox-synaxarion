@@ -1,0 +1,21 @@
+{
+  "id": "silvan-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Silvan",
+    "full": "Sfântul Mucenic Silvan",
+    "short": "Silvan",
+    "given": "Silvan"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-silvan",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

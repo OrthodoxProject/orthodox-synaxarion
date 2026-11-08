@@ -1,0 +1,26 @@
+{
+  "id": "pambo-the-recluse-of-the-kiev-far",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Pamvo",
+    "full": "Sfântul Cuvios Pamvo",
+    "short": "Pamvo",
+    "given": "Pamvo"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-pamvo",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-mc-emilian-de-la-durostorum-sf-cuv-pamvo/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

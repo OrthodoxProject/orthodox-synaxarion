@@ -1,0 +1,20 @@
+{
+  "id": "alphaeus-of-caesarea",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Alphaeus, of Caesarea in Palestine",
+    "short": "Alphaeus, of Caesarea in Palestine",
+    "given": "Alphaeus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/18/103324-martyrs-zacchaeus-the-deacon-and-alphaeus-of-caesarea-in-palesti",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

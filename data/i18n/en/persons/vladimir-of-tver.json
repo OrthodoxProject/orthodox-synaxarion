@@ -1,0 +1,20 @@
+{
+  "id": "vladimir-of-tver",
+  "locale": "en",
+  "names": {
+    "display": "New Hieromartyr Vladimir (Moshchansky) of Tver",
+    "short": "Vladimir of Tver",
+    "given": "Vladimir"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/25/103913-new-hieromartyr-vladimir-moshchansky-of-tver",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

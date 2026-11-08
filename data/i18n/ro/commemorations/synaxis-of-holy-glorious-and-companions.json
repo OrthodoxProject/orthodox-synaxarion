@@ -1,0 +1,23 @@
+{
+  "id": "synaxis-of-holy-glorious-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Soborul Sfinților 12 Apostoli"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/soborul-sfintilor-12-apostoli",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-soborul-sfintilor-12-apostoli-%e2%80%a0-sf-ier-ghelasie-de-la-ramet/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

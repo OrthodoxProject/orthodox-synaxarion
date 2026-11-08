@@ -1,0 +1,20 @@
+{
+  "id": "julian-of-emesa",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Julian of Emesa",
+    "short": "Julian of Emesa",
+    "given": "Julian"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/06/100449-martyr-julian-of-emesa",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

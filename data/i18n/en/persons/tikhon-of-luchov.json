@@ -1,0 +1,20 @@
+{
+  "id": "tikhon-of-luchov",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Tikhon of Luchov, Kostroma",
+    "short": "Tikhon of Luchov, Kostroma",
+    "given": "Tikhon"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/16/101740-venerable-tikhon-of-luchov-kostroma",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

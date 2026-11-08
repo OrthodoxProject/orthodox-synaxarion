@@ -1,0 +1,21 @@
+{
+  "id": "agapie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Agapie",
+    "full": "Sfântul Mucenic Agapie",
+    "short": "Agapie",
+    "given": "Agapie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-agapie",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "neaniskos-the-martyr",
+  "locale": "en",
+  "names": {
+    "display": "Saint Neaniskos the Martyr",
+    "short": "Neaniskos the Martyr",
+    "given": "Neaniskos"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/10/100480-saint-neaniskos-the-martyr",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

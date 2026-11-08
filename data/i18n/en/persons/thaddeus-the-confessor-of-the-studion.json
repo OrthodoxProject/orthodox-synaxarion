@@ -1,0 +1,20 @@
+{
+  "id": "thaddeus-the-confessor-of-the-studion",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Thaddeus the Confessor of the Studion",
+    "short": "Thaddeus the Confessor of the Studion",
+    "given": "Thaddeus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/29/103688-venerable-thaddeus-the-confessor-of-the-studion",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

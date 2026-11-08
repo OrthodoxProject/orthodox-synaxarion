@@ -1,0 +1,20 @@
+{
+  "id": "nicholas-the-monk-of-bulgaria",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Nicholas the Monk of Bulgaria",
+    "short": "Nicholas the Monk of Bulgaria",
+    "given": "Nicholas"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/24/103637-venerable-nicholas-the-monk-of-bulgaria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

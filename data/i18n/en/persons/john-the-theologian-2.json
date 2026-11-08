@@ -1,0 +1,20 @@
+{
+  "id": "john-the-theologian-2",
+  "locale": "en",
+  "names": {
+    "display": "Repose of the Holy Apostle and Evangelist John the Theologian",
+    "short": "John the Theologian",
+    "given": "John"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/26/102731-repose-of-the-holy-apostle-and-evangelist-john-the-theologian",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

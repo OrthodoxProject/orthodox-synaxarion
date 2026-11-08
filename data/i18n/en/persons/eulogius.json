@@ -1,0 +1,20 @@
+{
+  "id": "eulogius",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Eulogius",
+    "short": "Eulogius",
+    "given": "Eulogius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/21/149029-martyr-fructuosis-bishop-of-tarragona-spain-and-his-deacons-augu",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

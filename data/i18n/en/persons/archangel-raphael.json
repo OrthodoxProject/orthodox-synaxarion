@@ -1,0 +1,20 @@
+{
+  "id": "archangel-raphael",
+  "locale": "en",
+  "names": {
+    "display": "Archangel Raphael",
+    "short": "Raphael",
+    "given": "Raphael"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/13_3.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

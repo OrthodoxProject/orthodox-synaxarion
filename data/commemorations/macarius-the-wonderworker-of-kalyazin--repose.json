@@ -1,0 +1,29 @@
+{
+  "id": "macarius-the-wonderworker-of-kalyazin--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:macarius-the-wonderworker-of-kalyazin"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 17
+  },
+  "external_ids": {
+    "oca": "100824"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/17/100824-venerable-macarius-the-wonderworker-abbot-of-kalyazin",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

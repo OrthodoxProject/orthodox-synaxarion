@@ -1,0 +1,20 @@
+{
+  "id": "romilus-of-ravenica",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Romilus of Ravenica",
+    "short": "Romilus of Ravenica",
+    "given": "Romilus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/16/108034-venerable-romilus-of-ravenica",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

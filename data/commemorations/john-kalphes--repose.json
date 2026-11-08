@@ -1,0 +1,29 @@
+{
+  "id": "john-kalphes--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:john-kalphes"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 26
+  },
+  "external_ids": {
+    "oca": "109061"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/26/109061-new-martyr-john-kalphes-the-apprentice",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "theodore-4",
+  "locale": "en",
+  "names": {
+    "display": "Saint Theodore, first Bishop of Rostov and Suzdal",
+    "short": "Theodore, first Bishop of Rostov and Suzdal",
+    "given": "Theodore"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/08/101663-saint-theodore-first-bishop-of-rostov-and-suzdal",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

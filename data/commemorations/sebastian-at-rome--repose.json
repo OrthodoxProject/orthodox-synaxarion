@@ -1,0 +1,39 @@
+{
+  "id": "sebastian-at-rome--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:sebastian-at-rome"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 18
+  },
+  "external_ids": {
+    "oca": "103565"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-sebastian",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-daniil-sihastrul-sf-mc-sebastian-si-zoe-sf-ier-modest-arhiepiscopul-ierusalimului/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/18/103565-martyr-sebastian-at-rome-and-his-companions",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

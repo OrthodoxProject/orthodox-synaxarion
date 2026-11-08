@@ -1,0 +1,26 @@
+{
+  "id": "4-martyrs-tribuni-impreuna-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "group:4-martyrs-tribuni-impreuna-and-companions"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 7
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfintii-4-mucenici-tribuni-impreuna-cu-cei-1003-mucenici-din-nicomidia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

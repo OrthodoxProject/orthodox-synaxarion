@@ -1,0 +1,32 @@
+{
+  "id": "maximus-2-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:maximus-2",
+    "person:theodotus",
+    "person:hesychius",
+    "person:asclepiodota-of-adrianopolis"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 19
+  },
+  "external_ids": {
+    "oca": "100560"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/19/100560-martyrs-maximus-theodotus-hesychius-and-asclepiodota-of-adrianop",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

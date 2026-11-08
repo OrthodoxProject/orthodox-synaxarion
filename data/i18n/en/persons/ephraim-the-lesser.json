@@ -1,0 +1,20 @@
+{
+  "id": "ephraim-the-lesser",
+  "locale": "en",
+  "names": {
+    "display": "Saint Ephraim the Lesser",
+    "short": "Ephraim the Lesser",
+    "given": "Ephraim"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/18/205450-saint-ephraim-the-lesser",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

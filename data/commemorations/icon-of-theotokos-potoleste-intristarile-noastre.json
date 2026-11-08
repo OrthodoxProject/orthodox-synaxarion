@@ -1,0 +1,26 @@
+{
+  "id": "icon-of-theotokos-potoleste-intristarile-noastre",
+  "kind": "icon",
+  "subjects": [
+    "icon:icon-of-theotokos-potoleste-intristarile-noastre"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 25
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoanei-maicii-domnului-potoleste-intristarile-noastre",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

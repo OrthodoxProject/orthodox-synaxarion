@@ -1,0 +1,29 @@
+{
+  "id": "hodegetria-icon-of-theotokos",
+  "kind": "icon",
+  "subjects": [
+    "icon:hodegetria-icon-of-theotokos"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 20
+  },
+  "external_ids": {
+    "oca": "100178"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/20/100178-hodegetria-icon-of-the-mother-of-god",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "gregory-of-nyssa",
+  "locale": "en",
+  "names": {
+    "display": "Saint Gregory, Bishop of Nyssa",
+    "short": "Gregory, Bishop of Nyssa",
+    "given": "Gregory"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/10/100140-saint-gregory-bishop-of-nyssa",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

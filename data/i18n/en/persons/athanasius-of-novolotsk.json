@@ -1,0 +1,20 @@
+{
+  "id": "athanasius-of-novolotsk",
+  "locale": "en",
+  "names": {
+    "display": "Righteous Athanasius of Novolotsk",
+    "short": "Athanasius of Novolotsk",
+    "given": "Athanasius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/18/100222-righteous-athanasius-of-novolotsk",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

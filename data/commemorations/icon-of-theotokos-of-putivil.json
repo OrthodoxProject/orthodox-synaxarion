@@ -1,0 +1,29 @@
+{
+  "id": "icon-of-theotokos-of-putivil",
+  "kind": "icon",
+  "subjects": [
+    "icon:icon-of-theotokos-of-putivil"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 2
+  },
+  "external_ids": {
+    "oca": "107782"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/02/107782-icon-of-the-mother-of-god-of-putivil",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

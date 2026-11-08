@@ -1,0 +1,20 @@
+{
+  "id": "roman-of-ryazan",
+  "locale": "en",
+  "names": {
+    "display": "Right-believing Prince Roman of Ryazan",
+    "short": "Roman of Ryazan",
+    "given": "Roman"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/19/102056-right-believing-prince-roman-of-ryazan",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "icon-of-theotokos-of-poceaev--09-08",
+  "kind": "icon",
+  "subjects": [
+    "icon:icon-of-theotokos-of-poceaev"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 8
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoane-maicii-domnului-de-la-poceaev",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

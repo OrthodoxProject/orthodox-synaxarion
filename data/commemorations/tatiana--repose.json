@@ -1,0 +1,31 @@
+{
+  "id": "tatiana--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:tatiana"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 12
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-tatiana-diaconita",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-tatiana-diaconita-si-eutasia-duminica-dupa-botezul-domnului-ap-efeseni-4-7-13-ev-matei-4-12-17-inceputul-propovaduirii-domnului-glas-4-voscr-7/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro; de verificat."
+    ]
+  }
+}

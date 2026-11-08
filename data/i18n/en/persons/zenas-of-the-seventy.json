@@ -1,0 +1,20 @@
+{
+  "id": "zenas-of-the-seventy",
+  "locale": "en",
+  "names": {
+    "display": "Apostle Zenas of the Seventy",
+    "short": "Zenas of the Seventy",
+    "given": "Zenas"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/27/102738-apostle-zenas-of-the-seventy",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

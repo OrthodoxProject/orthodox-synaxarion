@@ -1,0 +1,29 @@
+{
+  "id": "macedonius-the-hermit-of-syria--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:macedonius-the-hermit-of-syria"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 24
+  },
+  "external_ids": {
+    "oca": "100293"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/24/100293-saint-macedonius-the-hermit-of-syria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

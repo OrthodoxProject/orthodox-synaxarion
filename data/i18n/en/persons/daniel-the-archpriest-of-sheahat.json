@@ -1,0 +1,20 @@
+{
+  "id": "daniel-the-archpriest-of-sheahat",
+  "locale": "en",
+  "names": {
+    "display": "Saint Daniel the Archpriest of Sheahat (Scetis)",
+    "short": "Daniel the Archpriest of Sheahat",
+    "given": "Daniel"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/9_8.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

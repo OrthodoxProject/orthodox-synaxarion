@@ -1,0 +1,29 @@
+{
+  "id": "proclus-of-constantinople",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Proclu, Patriarhul Constantinopolului",
+    "full": "Sfântul Ierarh Proclu, Patriarhul Constantinopolului",
+    "short": "Proclu, Patriarhul Constantinopolului",
+    "given": "Proclu",
+    "variants": [
+      "Sf. Ier. Proclu, arhiepiscopul Constantinopolului"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-proclu-patriarhul-constantinopolului",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/inainte-praznuirea-intrarii-in-biserica-a-maicii-domnului-%e2%80%a0-sf-cuv-grigorie-decapolitul-%e2%80%a0-sf-mc-dasie-sf-ier-proclu-arhiepiscopul-constantinopolului/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

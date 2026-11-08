@@ -1,0 +1,20 @@
+{
+  "id": "mirdat",
+  "locale": "en",
+  "names": {
+    "display": "Royal Martyr Mirdat, King of Kartli",
+    "short": "Mirdat, King of Kartli",
+    "given": "Mirdat"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/08/205461-royal-martyr-mirdat-king-of-kartli",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

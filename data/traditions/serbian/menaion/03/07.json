@@ -1,0 +1,19 @@
+{
+  "tradition": "serbian",
+  "date": "03-07",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:basil-and-companions",
+        "comm:ephraim-of-tomis--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:paul-the-simple--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

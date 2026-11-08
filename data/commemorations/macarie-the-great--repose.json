@@ -1,0 +1,26 @@
+{
+  "id": "macarie-the-great--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:macarie-the-great"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 19
+  },
+  "sources": [
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-macarie-cel-mare-si-macarie-alexandrinul-sf-ier-marcu-mitropolitul-efesului-sf-mc-eufrasia-duminica-a-29-a-dupa-rusalii-apostolul-duminicii-a-28-a-coloseni-1-12-18-ev-luca-17-1/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.patriarhia.ro; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ieronim-simonopetritul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ieronim Simonopetritul",
+    "full": "Sfântul Cuvios Ieronim Simonopetritul",
+    "short": "Ieronim Simonopetritul",
+    "given": "Ieronim"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-ieronim-simonopetritul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

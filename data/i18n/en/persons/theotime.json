@@ -1,0 +1,20 @@
+{
+  "id": "theotime",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Theotime",
+    "short": "Theotime",
+    "given": "Theotime"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/19/205360-martyr-theotime",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

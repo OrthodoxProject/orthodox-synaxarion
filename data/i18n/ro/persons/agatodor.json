@@ -1,0 +1,21 @@
+{
+  "id": "agatodor",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Agatodor",
+    "full": "Sfântul Mucenic Agatodor",
+    "short": "Agatodor",
+    "given": "Agatodor"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-agatodor-0",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

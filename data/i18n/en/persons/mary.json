@@ -1,0 +1,20 @@
+{
+  "id": "mary",
+  "locale": "en",
+  "names": {
+    "display": "Holy Myrrh-bearer Mary, the wife of Cleopas",
+    "short": "Mary, the wife of Cleopas",
+    "given": "Mary"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/23/100278-holy-myrrh-bearer-mary-the-wife-of-cleopas",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

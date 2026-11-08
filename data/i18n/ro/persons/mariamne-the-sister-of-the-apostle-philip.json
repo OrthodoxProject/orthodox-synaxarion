@@ -1,0 +1,29 @@
+{
+  "id": "mariamne-the-sister-of-the-apostle-philip",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mariamna",
+    "full": "Sfânta Cuvioasă Mariamna",
+    "short": "Mariamna",
+    "given": "Mariamna",
+    "variants": [
+      "Sf. Mariamna"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-mariamna",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mare-mc-teodor-tiron-sf-mariamna-sf-imparati-marcian-si-pulheria/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

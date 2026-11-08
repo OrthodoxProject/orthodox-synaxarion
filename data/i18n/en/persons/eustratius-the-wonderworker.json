@@ -1,0 +1,20 @@
+{
+  "id": "eustratius-the-wonderworker",
+  "locale": "en",
+  "names": {
+    "display": "Saint Eustratius the Wonderworker",
+    "short": "Eustratius the Wonderworker",
+    "given": "Eustratius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/09/100138-saint-eustratius-the-wonderworker",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

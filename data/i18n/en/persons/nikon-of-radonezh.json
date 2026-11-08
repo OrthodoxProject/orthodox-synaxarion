@@ -1,0 +1,20 @@
+{
+  "id": "nikon-of-radonezh",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Nikon, Abbot of Radonezh, disciple of Venerable Sergius",
+    "short": "Nikon, Abbot of Radonezh, disciple of Venerable Sergius",
+    "given": "Nikon"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/17/103316-venerable-nikon-abbot-of-radonezh-disciple-of-venerable-sergius",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

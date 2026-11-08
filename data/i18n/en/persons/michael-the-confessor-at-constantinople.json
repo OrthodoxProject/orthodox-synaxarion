@@ -1,0 +1,20 @@
+{
+  "id": "michael-the-confessor-at-constantinople",
+  "locale": "en",
+  "names": {
+    "display": "Saint Michael the Confessor at Constantinople",
+    "short": "Michael the Confessor at Constantinople",
+    "given": "Michael"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/18/103581-saint-michael-the-confessor-at-constantinople",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

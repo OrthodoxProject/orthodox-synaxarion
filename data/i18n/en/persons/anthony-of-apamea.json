@@ -1,0 +1,20 @@
+{
+  "id": "anthony-of-apamea",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Anthony of Apamea",
+    "short": "Anthony of Apamea",
+    "given": "Anthony"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/09/103257-martyr-anthony-of-apamea",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

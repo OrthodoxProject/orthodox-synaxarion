@@ -1,0 +1,20 @@
+{
+  "id": "gemellus-of-paphlagonia",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Gemellus of Paphlagonia",
+    "short": "Gemellus of Paphlagonia",
+    "given": "Gemellus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/10/103515-martyr-gemellus-of-paphlagonia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

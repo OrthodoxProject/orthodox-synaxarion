@@ -1,0 +1,29 @@
+{
+  "id": "fulvian--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:fulvian"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 16
+  },
+  "external_ids": {
+    "oca": "103314"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/16/103314-saint-fulvian-in-baptism-matthew-prince-of-ethiopia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

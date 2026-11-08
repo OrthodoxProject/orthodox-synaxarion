@@ -1,0 +1,26 @@
+{
+  "id": "herman-of-alaska--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:herman-of-alaska"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 15
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-gherman-de-alaska",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

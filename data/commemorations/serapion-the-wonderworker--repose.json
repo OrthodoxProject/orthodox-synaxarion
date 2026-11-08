@@ -1,0 +1,29 @@
+{
+  "id": "serapion-the-wonderworker--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:serapion-the-wonderworker"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 24
+  },
+  "external_ids": {
+    "oca": "205476"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/24/205476-venerable-serapion-the-wonderworker-abbot-of-saint-john-the-bapt",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

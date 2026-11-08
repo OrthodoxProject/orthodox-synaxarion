@@ -1,0 +1,21 @@
+{
+  "id": "inochentie-al-odessei",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Inochentie al Odessei",
+    "full": "Sfântul Ierarh Inochentie al Odessei",
+    "short": "Inochentie al Odessei",
+    "given": "Inochentie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-inochentie-al-odessei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

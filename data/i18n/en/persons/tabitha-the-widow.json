@@ -1,0 +1,20 @@
+{
+  "id": "tabitha-the-widow",
+  "locale": "en",
+  "names": {
+    "display": "Saint Tabitha the Widow, raised from the dead by the Apostle Peter",
+    "short": "Tabitha the Widow, raised from the dead by the Apostle Peter",
+    "given": "Tabitha"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/25/103058-saint-tabitha-the-widow-raised-from-the-dead-by-the-apostle-pete",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

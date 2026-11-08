@@ -1,0 +1,39 @@
+{
+  "id": "hilarion-the-new-of-dalmatian-monastery--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:hilarion-the-new-of-dalmatian-monastery"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 6
+  },
+  "external_ids": {
+    "oca": "101632"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-ilarion-cel-nou-egumenul-manastirii-dalmatilor",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/odovania-praznicului-pogorarii-sfantului-duh-sf-cuv-ilarion-cel-nou-egumenul-manastirii-lui-dalmat-sf-cuv-visarion/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/06/101632-venerable-hilarion-the-new-abbot-of-the-dalmatian-monastery",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

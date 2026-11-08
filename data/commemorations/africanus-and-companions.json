@@ -1,0 +1,36 @@
+{
+  "id": "africanus-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:africanus",
+    "person:publius",
+    "person:terence-of-carthage"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 13
+  },
+  "external_ids": {
+    "oca": "100794"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/13/100794-martyrs-africanus-publius-and-terence-of-carthage",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/13/100795-hieromartyr-publius-bishop-of-athens",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

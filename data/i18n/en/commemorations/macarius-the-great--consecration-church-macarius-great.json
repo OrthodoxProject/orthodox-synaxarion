@@ -1,0 +1,18 @@
+{
+  "id": "macarius-the-great--consecration-church-macarius-great",
+  "locale": "en",
+  "names": {
+    "display": "Consecration of The Church of Saint Macarius the Great"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/5_8.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

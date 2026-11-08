@@ -1,0 +1,20 @@
+{
+  "id": "john-of-crete",
+  "locale": "en",
+  "names": {
+    "display": "New Martyr John of Crete",
+    "short": "John of Crete",
+    "given": "John"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/15/108953-new-martyr-john-of-crete",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

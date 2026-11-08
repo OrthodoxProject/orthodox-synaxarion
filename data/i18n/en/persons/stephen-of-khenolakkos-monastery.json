@@ -1,0 +1,20 @@
+{
+  "id": "stephen-of-khenolakkos-monastery",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Stephen, Abbot of Khenolakkos Monastery, near Chalcedon",
+    "short": "Stephen, Abbot of Khenolakkos Monastery, near Chalcedon",
+    "given": "Stephen"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/14/100194-venerable-stephen-abbot-of-khenolakkos-monastery-near-chalcedon",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "evloghie-of-alexandria--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:evloghie-of-alexandria"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 13
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-evloghie-patriarhul-alexandriei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-martinian-sf-ap-acvila-si-sotia-sa-priscila-sf-ier-evloghie-patriarhul-alexandriei/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro; de verificat."
+    ]
+  }
+}

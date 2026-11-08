@@ -1,0 +1,23 @@
+{
+  "id": "macarius-of-moscow",
+  "locale": "en",
+  "names": {
+    "display": "Saint Macarius, Metropolitan of Moscow and All Russia",
+    "short": "Macarius, Metropolitan of Moscow",
+    "given": "Macarius",
+    "variants": [
+      "Our Holy Father Macarius, Metropolitan of Moscow and All Russia (1563)"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/30/103698-saint-macarius-metropolitan-of-moscow-and-all-russia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

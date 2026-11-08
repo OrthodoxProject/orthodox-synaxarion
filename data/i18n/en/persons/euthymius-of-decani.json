@@ -1,0 +1,20 @@
+{
+  "id": "euthymius-of-decani",
+  "locale": "en",
+  "names": {
+    "display": "Saint Euthymius of Dečani Ј",
+    "short": "Euthymius of Dečani Ј",
+    "given": "Euthymius"
+  },
+  "references": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

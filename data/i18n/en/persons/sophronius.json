@@ -1,0 +1,28 @@
+{
+  "id": "sophronius",
+  "locale": "en",
+  "names": {
+    "display": "Saint Sophronius, Confessor of Ciorara, Romania",
+    "short": "Sophronius, Confessor of Ciorara, Romania",
+    "given": "Sophronius",
+    "variants": [
+      "Sofronie of Cioara"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/21/103020-saint-sophronius-confessor-of-ciorara-romania",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/romanian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

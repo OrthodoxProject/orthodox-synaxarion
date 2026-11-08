@@ -1,0 +1,26 @@
+{
+  "id": "icon-of-theotokos-a-sfantului-ioan-damaschin-trihirussa--07-12",
+  "kind": "icon",
+  "subjects": [
+    "icon:icon-of-theotokos-a-sfantului-ioan-damaschin-trihirussa"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 12
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoanei-maicii-domnului-sfantului-ioan-damaschin-trihirussa",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

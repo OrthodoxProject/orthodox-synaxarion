@@ -1,0 +1,26 @@
+{
+  "id": "grigorie-sinaitul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Grigorie Sinaitul",
+    "full": "Sfântul Cuvios Grigorie Sinaitul",
+    "short": "Grigorie Sinaitul",
+    "given": "Grigorie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-grigorie-sinaitul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sfanta-si-marea-luni-denie-%e2%80%a0-sf-sfintit-mc-irineu-episcop-de-sirmium-sf-ier-eutihie-patriarhul-constantinopolului-sf-cuv-grigorie-sinaitul-sf-cuv-platonida/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

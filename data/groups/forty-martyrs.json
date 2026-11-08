@@ -1,0 +1,25 @@
+{
+  "id": "forty-martyrs",
+  "kind": "martyrs",
+  "count": {
+    "value": 40,
+    "precision": "exact"
+  },
+  "holiness_types": [
+    "martyr"
+  ],
+  "sources": [
+    {
+      "source": "src:armenianchurch-ge",
+      "url": "https://armenianchurch.ge/en/kalendar-prazdnikov/description-2/march/commemoration-of-the-forty-holy-martyrs",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din armenianchurch.ge; de verificat."
+    ]
+  }
+}

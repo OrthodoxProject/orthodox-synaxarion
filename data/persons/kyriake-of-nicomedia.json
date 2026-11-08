@@ -1,0 +1,36 @@
+{
+  "id": "kyriake-of-nicomedia",
+  "kind": "saint",
+  "gender": "female",
+  "holiness_types": [
+    "great_martyr"
+  ],
+  "external_ids": {
+    "doxologia": "sfanta-mare-mucenita-chiriachi",
+    "oca": "101963"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mare-mucenita-chiriachi",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-mare-mc-chiriachi-sf-cuv-toma-din-maleon-sf-mc-evanghel/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/07/101963-martyr-kyriake-of-nicomedia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

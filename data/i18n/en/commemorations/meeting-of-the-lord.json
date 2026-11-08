@@ -1,0 +1,18 @@
+{
+  "id": "meeting-of-the-lord",
+  "locale": "en",
+  "names": {
+    "display": "The Meeting of our Lord and Savior Jesus Christ in the Temple"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/02/100407-the-meeting-of-our-lord-and-savior-jesus-christ-in-the-temple",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

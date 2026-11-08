@@ -1,0 +1,23 @@
+{
+  "id": "quiricus-and-julitta",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici Chiric și Iulita"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfintii-mucenici-chiric-iulita",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-chiric-si-iulita-sf-vladimir-luminatorul-rusiei/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "basilissa",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Vasilisa",
+    "full": "Sfânta Muceniță Vasilisa",
+    "short": "Vasilisa",
+    "given": "Vasilisa"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-vasilisa",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "tradition": "ecumenical",
+  "date": "10-13",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:carpus--repose",
+        "comm:papylus--repose",
+        "comm:agathadorus--repose",
+        "comm:agathonica--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:florentius-of-thessalonica--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:translation-of-the-iveron-icon-of-theotokos-to-moscow"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

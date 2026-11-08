@@ -1,0 +1,29 @@
+{
+  "id": "john-chrysostom-of-constantinople-2--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:john-chrysostom-of-constantinople-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 14
+  },
+  "external_ids": {
+    "oca": "102611"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/14/102611-repose-of-saint-john-chrysostom-archbishop-of-constantinople",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

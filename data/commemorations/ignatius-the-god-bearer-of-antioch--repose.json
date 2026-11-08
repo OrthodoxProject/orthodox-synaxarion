@@ -1,0 +1,39 @@
+{
+  "id": "ignatius-the-god-bearer-of-antioch--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:ignatius-the-god-bearer-of-antioch"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 20
+  },
+  "external_ids": {
+    "oca": "103594"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-sfintit-mucenic-ignatie-teoforul-episcopul-antiohiei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/inainte-praznuirea-nasterii-domnului-sf-sfintit-mc-ignatie-teoforul-episcopul-antiohiei-%e2%80%a0-sf-cuv-serafim-cel-rabdator-de-la-sambata-de-sus-duminica-dinaintea-nasterii-domnului-a-sf/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/20/103594-hieromartyr-ignatius-the-god-bearer-bishop-of-antioch",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

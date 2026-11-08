@@ -1,0 +1,29 @@
+{
+  "id": "stephen-of-constantinople--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:stephen-of-constantinople"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 27
+  },
+  "external_ids": {
+    "oca": "109064"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/27/109064-saint-stephen-of-constantinople",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

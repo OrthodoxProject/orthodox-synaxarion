@@ -1,0 +1,21 @@
+{
+  "id": "hermogenes-of-moscow",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ermoghen, Patriarhul Moscovei",
+    "full": "Sfântul Ierarh Ermoghen, Patriarhul Moscovei",
+    "short": "Ermoghen, Patriarhul Moscovei",
+    "given": "Ermoghen"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-ermoghen-patriarhul-moscovei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

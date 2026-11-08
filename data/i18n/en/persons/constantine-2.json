@@ -1,0 +1,20 @@
+{
+  "id": "constantine-2",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Constantine, with his children Michael",
+    "short": "Constantine, with his children Michael",
+    "given": "Constantine"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/21/101454-venerable-constantine-in-baptism-yaroslav-with-his-children-mich",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

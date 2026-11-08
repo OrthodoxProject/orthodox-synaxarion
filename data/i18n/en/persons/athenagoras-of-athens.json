@@ -1,0 +1,20 @@
+{
+  "id": "athenagoras-of-athens",
+  "locale": "en",
+  "names": {
+    "display": "Saint Athenagoras of Athens",
+    "short": "Athenagoras of Athens",
+    "given": "Athenagoras"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/24/206388-saint-athenagoras-of-athens",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

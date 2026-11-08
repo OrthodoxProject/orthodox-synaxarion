@@ -1,0 +1,21 @@
+{
+  "id": "atanasie-hamakiotis",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Atanasie Hamakiotis",
+    "full": "Sfântul Cuvios Atanasie Hamakiotis",
+    "short": "Atanasie Hamakiotis",
+    "given": "Atanasie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-atanasie-hamakiotis",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

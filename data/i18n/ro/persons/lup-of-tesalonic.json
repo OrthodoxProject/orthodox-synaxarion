@@ -1,0 +1,21 @@
+{
+  "id": "lup-of-tesalonic",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Lup din Tesalonic",
+    "full": "Sfântul Mucenic Lup din Tesalonic",
+    "short": "Lup din Tesalonic",
+    "given": "Lup"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-lup-din-tesalonic",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

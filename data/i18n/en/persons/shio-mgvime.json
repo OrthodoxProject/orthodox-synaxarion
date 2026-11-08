@@ -1,0 +1,25 @@
+{
+  "id": "shio-mgvime",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Shio Mgvime",
+    "short": "Shio Mgvime",
+    "given": "Shio"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/09/100474-venerable-shio-mgvime",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/03/511-venerable-shio-mgvime",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

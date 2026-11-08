@@ -1,0 +1,20 @@
+{
+  "id": "jacob-the-new-of-tuman",
+  "locale": "en",
+  "names": {
+    "display": "Saint Jacob the New of Tuman Ј",
+    "short": "Jacob the New of Tuman Ј",
+    "given": "Jacob"
+  },
+  "references": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

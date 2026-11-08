@@ -1,0 +1,20 @@
+{
+  "id": "barlaam-of-serpukhov",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Barlaam of Serpukhov",
+    "short": "Barlaam of Serpukhov",
+    "given": "Barlaam"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/05/100118-venerable-barlaam-of-serpukhov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

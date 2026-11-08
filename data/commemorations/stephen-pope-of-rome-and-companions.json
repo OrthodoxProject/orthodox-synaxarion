@@ -1,0 +1,29 @@
+{
+  "id": "stephen-pope-of-rome-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "group:stephen-pope-of-rome-and-companions"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 2
+  },
+  "external_ids": {
+    "oca": "102187"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/02/102187-hieromartyr-stephen-pope-of-rome-and-those-with-him",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

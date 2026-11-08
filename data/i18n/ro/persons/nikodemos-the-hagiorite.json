@@ -1,0 +1,26 @@
+{
+  "id": "nikodemos-the-hagiorite",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Nicodim Aghioritul",
+    "full": "Sfântul Cuvios Nicodim Aghioritul",
+    "short": "Nicodim Aghioritul",
+    "given": "Nicodim"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-nicodim-aghioritul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ap-achila-sf-mc-iust-si-iraclie-sf-cuv-nicodim-aghioritul/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "juventinus-and-maximus-the-soldiers",
+  "kind": "repose",
+  "subjects": [
+    "person:juventinus",
+    "person:maximus-the-soldiers"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 5
+  },
+  "external_ids": {
+    "oca": "102510"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/05/102510-martyrs-juventinus-and-maximus-the-soldiers-at-antioch",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

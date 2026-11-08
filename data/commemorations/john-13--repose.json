@@ -1,0 +1,30 @@
+{
+  "id": "john-13--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:john-13"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 1
+  },
+  "sources": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/russian_saints.json",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:wikipedia",
+      "url": "https://en.wikipedia.org/wiki/John_of_Kronstadt"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din orthodox-calendar, Wikipedia; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "atic",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Atic",
+    "full": "Sfântul Mucenic Atic",
+    "short": "Atic",
+    "given": "Atic"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-atic",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

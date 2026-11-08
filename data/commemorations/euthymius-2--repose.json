@@ -1,0 +1,29 @@
+{
+  "id": "euthymius-2--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:euthymius-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 3
+  },
+  "external_ids": {
+    "oca": "205438"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/03/205438-saint-euthymius-takaishvili",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "sebastian-of-pshekhonye-monastery--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:sebastian-of-pshekhonye-monastery"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 18
+  },
+  "external_ids": {
+    "oca": "103577"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/18/103577-venerable-sebastian-abbot-of-pshekhonye-monastery-vologda",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

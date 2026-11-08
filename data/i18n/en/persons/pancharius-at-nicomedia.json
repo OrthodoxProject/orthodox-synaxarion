@@ -1,0 +1,20 @@
+{
+  "id": "pancharius-at-nicomedia",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Pancharius at Nicomedia",
+    "short": "Pancharius at Nicomedia",
+    "given": "Pancharius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/19/100839-martyr-pancharius-at-nicomedia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

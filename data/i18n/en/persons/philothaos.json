@@ -1,0 +1,20 @@
+{
+  "id": "philothaos",
+  "locale": "en",
+  "names": {
+    "display": "Saint Philothaos",
+    "short": "Philothaos",
+    "given": "Philothaos"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/9_2.html?lang=en#3",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

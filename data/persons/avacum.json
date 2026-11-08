@@ -1,0 +1,28 @@
+{
+  "id": "avacum",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "martyr"
+  ],
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfintii-mucenici-marius-marta-sotia-sa-fiii-lor-audifaciu-avacum",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-dometie-cel-milostiv-de-la-ramet-si-mama-sa-sf-cuv-filotimia-sf-cuv-sisoe-cel-mare-sf-mc-lucia-din-roma-sf-mc-marius-sotia-sa-marta-si-fiii-lor-audifaciu-si-avacum/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro; de verificat.",
+      "Genul nu reiese din sursă; e de verificat."
+    ]
+  }
+}

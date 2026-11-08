@@ -1,0 +1,20 @@
+{
+  "id": "bassa-of-the-pskov-caves",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Bassa of the Pskov Caves",
+    "short": "Bassa of the Pskov Caves",
+    "given": "Bassa"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/29/100941-venerable-mark-jonah-and-bassa-of-the-pskov-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "icon-of-theotokos-of-kasperov--10-01",
+  "kind": "icon",
+  "subjects": [
+    "icon:icon-of-theotokos-of-kasperov"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 1
+  },
+  "external_ids": {
+    "oca": "109999"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoane-maicii-domnului-din-kasperov",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/01/109999-icon-of-the-mother-of-god-of-kasperov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, oca.org; de verificat."
+    ]
+  }
+}

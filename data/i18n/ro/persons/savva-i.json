@@ -1,0 +1,21 @@
+{
+  "id": "savva-i",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Sava, arhiepiscopul Serbiei și ctitorul mănăstirii Hilandar",
+    "full": "Sfântul Cuvios Sava, arhiepiscopul Serbiei și ctitorul mănăstirii Hilandar",
+    "short": "Sava, arhiepiscopul Serbiei, ctitorul mănăstirii Hilandar",
+    "given": "Sava"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-sava-arhiepiscopul-serbiei-ctitorul-manastirii-hilandar",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "michael-2-and-arsenius-of-ulompo",
+  "kind": "repose",
+  "subjects": [
+    "person:michael-2",
+    "person:arsenius-of-ulompo"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 3
+  },
+  "external_ids": {
+    "oca": "103842"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/03/103842-saints-michael-and-arsenius-of-ulompo-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

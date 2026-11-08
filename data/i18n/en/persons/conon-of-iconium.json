@@ -1,0 +1,20 @@
+{
+  "id": "conon-of-iconium",
+  "locale": "en",
+  "names": {
+    "display": "Monastic Martyr Conon, of Iconium",
+    "short": "Conon, of Iconium",
+    "given": "Conon"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/06/100681-monastic-martyrs-conon-and-his-son-conon-of-iconium",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

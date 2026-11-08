@@ -1,0 +1,26 @@
+{
+  "id": "gregory-of-neocezarea",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Grigorie Taumaturgul, Episcopul Neocezareei Pontului",
+    "full": "Sfântul Ierarh Grigorie Taumaturgul, Episcopul Neocezareei Pontului",
+    "short": "Grigorie Taumaturgul, Episcopul Neocezareei Pontului",
+    "given": "Grigorie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-grigorie-taumaturgul-episcopul-neocezareei-pontului",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ier-grigorie-taumaturgul-episcopul-neocezareei-si-ghenadie-arhiepiscopul-constantinopolului-sf-cuv-lazar-zugravul/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

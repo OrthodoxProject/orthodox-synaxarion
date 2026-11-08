@@ -1,0 +1,39 @@
+{
+  "id": "marcellus-of-monastery--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:marcellus-of-monastery"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 29
+  },
+  "external_ids": {
+    "oca": "103683"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-marcel",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sfintii-14-000-de-prunci-ucisi-din-porunca-lui-irod-sf-cuv-marcel-si-tadeu/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/29/103683-venerable-marcellus-abbot-of-the-monastery-of-the-unsleeping-one",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

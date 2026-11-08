@@ -1,0 +1,21 @@
+{
+  "id": "aleksy",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Alexandru",
+    "full": "Sfântul Mucenic Alexandru",
+    "short": "Alexandru",
+    "given": "Alexandru"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-alexandru",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

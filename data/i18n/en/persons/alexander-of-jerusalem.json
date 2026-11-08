@@ -1,0 +1,20 @@
+{
+  "id": "alexander-of-jerusalem",
+  "locale": "en",
+  "names": {
+    "display": "Hieromartyr Alexander, Bishop of Jerusalem",
+    "short": "Alexander, Bishop of Jerusalem",
+    "given": "Alexander"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/12/103528-hieromartyr-alexander-bishop-of-jerusalem",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "bucolus-of-smyrna",
+  "locale": "en",
+  "names": {
+    "display": "Saint Bucolus, Bishop of Smyrna",
+    "short": "Bucolus, Bishop of Smyrna",
+    "given": "Bucolus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/06/100441-saint-bucolus-bishop-of-smyrna",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

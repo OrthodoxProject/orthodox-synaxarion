@@ -1,0 +1,39 @@
+{
+  "id": "14-000-infants-slain-by-herod-at-bethlehem",
+  "kind": "repose",
+  "subjects": [
+    "group:14-000-infants-slain-by-herod-at-bethlehem"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 29
+  },
+  "external_ids": {
+    "oca": "103682"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfintii-14000-de-prunci-ucisi-din-porunca-lui-irod",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sfintii-14-000-de-prunci-ucisi-din-porunca-lui-irod-sf-cuv-marcel-si-tadeu/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/29/103682-14000-infants-the-holy-innocents-slain-by-herod-at-bethlehem",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

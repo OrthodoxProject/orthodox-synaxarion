@@ -1,0 +1,30 @@
+{
+  "id": "conon-and-conon-of-iconium",
+  "kind": "repose",
+  "subjects": [
+    "person:conon",
+    "person:conon-of-iconium"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 6
+  },
+  "external_ids": {
+    "oca": "100681"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/06/100681-monastic-martyrs-conon-and-his-son-conon-of-iconium",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "theodosius-the-bulgarian",
+  "locale": "en",
+  "names": {
+    "display": "Saint Theodosius the Bulgarian, with his disciple Romanos",
+    "short": "Theodosius the Bulgarian, with his disciple Romanos",
+    "given": "Theodosius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/17/109049-saint-theodosius-the-bulgarian-with-his-disciple-romanos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

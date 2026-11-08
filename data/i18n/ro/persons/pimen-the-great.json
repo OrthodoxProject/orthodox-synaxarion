@@ -1,0 +1,26 @@
+{
+  "id": "pimen-the-great",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Pimen cel Mare",
+    "full": "Sfântul Cuvios Pimen cel Mare",
+    "short": "Pimen cel Mare",
+    "given": "Pimen"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-pimen-cel-mare",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-pimen-cel-mare-sf-mc-fanurie-sf-ier-osiu-episcopul-cordobei/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "joasaph-of-belgorod",
+  "locale": "en",
+  "names": {
+    "display": "Saint Joasaph, Bishop of Belgorod",
+    "short": "Joasaph, Bishop of Belgorod",
+    "given": "Joasaph"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/10/103514-saint-joasaph-bishop-of-belgorod",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

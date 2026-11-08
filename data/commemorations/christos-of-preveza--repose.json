@@ -1,0 +1,29 @@
+{
+  "id": "christos-of-preveza--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:christos-of-preveza"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 5
+  },
+  "external_ids": {
+    "oca": "205385"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/05/205385-martyr-christos-of-preveza",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

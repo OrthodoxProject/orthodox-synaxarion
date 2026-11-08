@@ -1,0 +1,21 @@
+{
+  "id": "nilus-the-myrrhgusher-of-mount-athos",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Nil Athonitul",
+    "full": "Sfântul Cuvios Nil Athonitul",
+    "short": "Nil Athonitul",
+    "given": "Nil"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-nil-athonitul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

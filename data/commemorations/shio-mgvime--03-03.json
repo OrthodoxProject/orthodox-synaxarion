@@ -1,0 +1,29 @@
+{
+  "id": "shio-mgvime--03-03",
+  "kind": "repose",
+  "subjects": [
+    "person:shio-mgvime"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 3
+  },
+  "external_ids": {
+    "oca": "511"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/03/511-venerable-shio-mgvime",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

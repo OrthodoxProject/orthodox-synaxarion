@@ -1,0 +1,20 @@
+{
+  "id": "menas-of-constantinople",
+  "locale": "en",
+  "names": {
+    "display": "Saint Menas, Patriarch of Constantinople",
+    "short": "Menas, Patriarch of Constantinople",
+    "given": "Menas"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/25/102397-saint-menas-patriarch-of-constantinople",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

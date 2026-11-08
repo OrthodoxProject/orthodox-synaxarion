@@ -1,0 +1,20 @@
+{
+  "id": "athanasius-the-confessor-of-constantinople",
+  "locale": "en",
+  "names": {
+    "display": "Saint Athanasius the Confessor of Constantinople",
+    "short": "Athanasius the Confessor of Constantinople",
+    "given": "Athanasius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/22/100588-saint-athanasius-the-confessor-of-constantinople",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

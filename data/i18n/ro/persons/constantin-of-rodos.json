@@ -1,0 +1,21 @@
+{
+  "id": "constantin-of-rodos",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Noul Mc. Constantin din Rodos",
+    "full": "Sfântul Noul Mucenic Constantin din Rodos",
+    "short": "Constantin din Rodos",
+    "given": "Constantin"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-noul-mucenic-constantin-din-rodos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

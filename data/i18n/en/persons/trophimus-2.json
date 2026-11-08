@@ -1,0 +1,20 @@
+{
+  "id": "trophimus-2",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Trophimus and 14 Others in Lycia",
+    "short": "Trophimus",
+    "given": "Trophimus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/23/102075-martyr-trophimus-and-14-others-in-lycia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "xenia-of-petersburg",
+  "locale": "en",
+  "names": {
+    "display": "Blessed Xenia of St. Petersburg",
+    "short": "Xenia of St. Petersburg",
+    "given": "Xenia"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/24/100297-blessed-xenia-of-st-petersburg",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

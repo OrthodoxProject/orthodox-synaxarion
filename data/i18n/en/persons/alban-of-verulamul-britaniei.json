@@ -1,0 +1,20 @@
+{
+  "id": "alban-of-verulamul-britaniei",
+  "locale": "en",
+  "names": {
+    "display": "Saint Alban, Protomartyr of Britain",
+    "short": "Alban, Protomartyr of Britain",
+    "given": "Alban"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/22/101785-saint-alban-protomartyr-of-britain",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

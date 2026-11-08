@@ -1,0 +1,20 @@
+{
+  "id": "schema-nun-martha-of-diveyevo",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Schema-nun Martha of Diveyevo",
+    "short": "Schema-nun Martha of Diveyevo",
+    "given": "Schema-nun"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/21/100247-venerable-schema-nun-martha-of-diveyevo",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

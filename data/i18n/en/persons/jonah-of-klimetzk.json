@@ -1,0 +1,20 @@
+{
+  "id": "jonah-of-klimetzk",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Jonah, Abbot of Klimetzk",
+    "short": "Jonah, Abbot of Klimetzk",
+    "given": "Jonah"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/06/101635-venerable-jonah-abbot-of-klimetzk",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

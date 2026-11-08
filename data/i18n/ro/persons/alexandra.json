@@ -1,0 +1,29 @@
+{
+  "id": "alexandra",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Alexandra, Împărăteasa",
+    "full": "Sfânta Muceniță Alexandra, Împărăteasa",
+    "short": "Alexandra, Împărăteasa",
+    "given": "Alexandra",
+    "variants": [
+      "Sf. Mc. Alexandra împărăteasa"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-alexandra-imparateasa",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-sfintit-mc-ianuarie-episcop-de-benevent-sf-mc-teodor-din-perga-sf-mc-alexandra-imparateasa/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

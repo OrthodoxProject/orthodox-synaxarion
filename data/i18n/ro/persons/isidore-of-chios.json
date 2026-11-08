@@ -1,0 +1,29 @@
+{
+  "id": "isidore-of-chios",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Isidor din Chios",
+    "full": "Sfântul Mucenic Isidor din Chios",
+    "short": "Isidor din Chios",
+    "given": "Isidor",
+    "variants": [
+      "Sf. Mc. Isidor din Hios"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-isidor-din-chios",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-isidor-din-hios-sf-sfintit-mc-terapont-episcopul-ciprului/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "polychronius-the-presbyter",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Polychronius the Presbyter",
+    "short": "Polychronius the Presbyter",
+    "given": "Polychronius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/07/102896-martyr-polychronius-the-presbyter",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

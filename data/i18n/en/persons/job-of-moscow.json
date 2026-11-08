@@ -1,0 +1,20 @@
+{
+  "id": "job-of-moscow",
+  "locale": "en",
+  "names": {
+    "display": "Repose of Saint Job, Patriarch of Moscow and all Russia",
+    "short": "Job, Patriarch of Moscow",
+    "given": "Job"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/19/101758-repose-of-saint-job-patriarch-of-moscow-and-all-russia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

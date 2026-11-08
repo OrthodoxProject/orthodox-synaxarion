@@ -1,0 +1,20 @@
+{
+  "id": "simon-of-volomsk",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Simon, Abbot of Volomsk",
+    "short": "Simon, Abbot of Volomsk",
+    "given": "Simon"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/12/102012-venerable-simon-abbot-of-volomsk",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

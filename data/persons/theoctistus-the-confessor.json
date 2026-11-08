@@ -1,0 +1,26 @@
+{
+  "id": "theoctistus-the-confessor",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "confessor"
+  ],
+  "external_ids": {
+    "oca": "205417"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/20/205417-saint-theoctistus-the-confessor",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat.",
+      "Genul nu reiese din sursă; e de verificat."
+    ]
+  }
+}

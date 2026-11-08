@@ -1,0 +1,20 @@
+{
+  "id": "barsanuphius-the-great",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Barsanuphius the Great",
+    "short": "Barsanuphius the Great",
+    "given": "Barsanuphius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/06/100443-venerable-barsanuphius-the-great-and-john-the-prophet",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

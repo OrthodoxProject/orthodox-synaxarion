@@ -1,0 +1,29 @@
+{
+  "id": "monica",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Monica, mama Fericitului Augustin",
+    "full": "Sfânta Cuvioasă Monica, mama Fericitului Augustin",
+    "short": "Monica, mama Fericitului Augustin",
+    "given": "Monica",
+    "variants": [
+      "Sf. Monica"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-monica-mama-fericitului-augustin",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-mavra-de-pe-ceahlau-sf-mc-pelaghia-sf-monica/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

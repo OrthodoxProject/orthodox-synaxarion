@@ -1,0 +1,20 @@
+{
+  "id": "caluf-of-egypt",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Caluf of Egypt",
+    "short": "Caluf of Egypt",
+    "given": "Caluf"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/19/101445-martyr-caluf-of-egypt",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "lucian-bishop-of-beauvais-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "group:lucian-bishop-of-beauvais-and-companions"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 3
+  },
+  "external_ids": {
+    "oca": "101596"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/03/101596-hieromartyr-lucian-bishop-of-beauvais-and-those-with-him-in-fran",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

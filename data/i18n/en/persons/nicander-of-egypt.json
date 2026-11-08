@@ -1,0 +1,20 @@
+{
+  "id": "nicander-of-egypt",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Nicander of Egypt",
+    "short": "Nicander of Egypt",
+    "given": "Nicander"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/15/100812-martyr-nicander-of-egypt",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

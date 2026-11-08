@@ -1,0 +1,20 @@
+{
+  "id": "euthalia-of-sicily",
+  "locale": "en",
+  "names": {
+    "display": "Virgin Martyr Euthalia of Sicily",
+    "short": "Euthalia of Sicily",
+    "given": "Euthalia"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/02/100636-virgin-martyr-euthalia-of-sicily",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

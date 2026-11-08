@@ -1,0 +1,25 @@
+{
+  "id": "ever-virgin-mary",
+  "locale": "en",
+  "names": {
+    "display": "Most Holy Ever-Virgin Mary",
+    "short": "Ever-Virgin Mary",
+    "given": "Ever-Virgin"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/15/102302-the-dormition-of-our-most-holy-lady-the-mother-of-god-and-ever-v",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/08/102541-the-nativity-of-our-most-holy-lady-the-mother-of-god-and-ever-vi",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

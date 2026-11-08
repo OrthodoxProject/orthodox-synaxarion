@@ -1,0 +1,20 @@
+{
+  "id": "basileides",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Basileides, at Nicomedia",
+    "short": "Basileides, at Nicomedia",
+    "given": "Basileides"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/20/100245-martyrs-bassus-eusebius-euthychius-and-basileides-at-nicomedia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

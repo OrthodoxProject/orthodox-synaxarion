@@ -1,0 +1,41 @@
+{
+  "id": "sophia-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:sophia",
+    "person:pistis",
+    "person:agapis"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 17
+  },
+  "external_ids": {
+    "oca": "102638"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-sofia-fiicele-sale-pistis-elpis-agapis",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ier-dionisie-episcopul-cetatii-albe-ismail-sf-mc-sofia-intelepciunea-si-fiicele-ei-pistis-credinta-elpis-nadejdea-si-agapi-dragostea/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/17/102638-martyr-sophia-and-her-three-daughters-at-rome",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

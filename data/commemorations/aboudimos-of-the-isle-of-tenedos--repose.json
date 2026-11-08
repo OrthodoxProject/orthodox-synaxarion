@@ -1,0 +1,29 @@
+{
+  "id": "aboudimos-of-the-isle-of-tenedos--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:aboudimos-of-the-isle-of-tenedos"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 15
+  },
+  "external_ids": {
+    "oca": "102032"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/15/102032-martyr-aboudimos-of-the-isle-of-tenedos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

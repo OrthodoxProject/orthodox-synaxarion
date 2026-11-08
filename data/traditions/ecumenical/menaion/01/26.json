@@ -1,0 +1,19 @@
+{
+  "tradition": "ecumenical",
+  "date": "01-26",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:xenophon--repose",
+        "comm:john-of-constantinople--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:david-iv--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "unfading-flower-icon-of-theotokos-at-ardatov",
+  "kind": "icon",
+  "subjects": [
+    "icon:unfading-flower-icon-of-theotokos-at-ardatov"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 31
+  },
+  "external_ids": {
+    "oca": "100208"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/31/100208-unfading-flower-icon-of-the-mother-of-god-at-ardatov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "bridgit",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Bridgit, ocrotitoarea Irlandei",
+    "full": "Sfânta Bridgit, ocrotitoarea Irlandei",
+    "short": "Bridgit, ocrotitoarea Irlandei",
+    "given": "Bridgit"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-bridgit-ocrotitoarea-irlandei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

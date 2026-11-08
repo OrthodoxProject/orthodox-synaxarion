@@ -1,0 +1,21 @@
+{
+  "id": "macarie-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Nou-Mc. Macarie, ucenicul Patriarhului Nifon",
+    "full": "Sfântul Nou-Mucenic Macarie, ucenicul Patriarhului Nifon",
+    "short": "Macarie, ucenicul Patriarhului Nifon",
+    "given": "Macarie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-nou-mucenic-macarie-ucenicul-patriarhului-nifon",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

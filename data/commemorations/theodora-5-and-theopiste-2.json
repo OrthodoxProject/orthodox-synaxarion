@@ -1,0 +1,30 @@
+{
+  "id": "theodora-5-and-theopiste-2",
+  "kind": "repose",
+  "subjects": [
+    "person:theodora-5",
+    "person:theopiste-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 29
+  },
+  "external_ids": {
+    "oca": "100349"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/29/100349-venerable-theodora-and-her-daughter-theopiste",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

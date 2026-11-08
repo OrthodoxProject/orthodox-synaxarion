@@ -1,0 +1,30 @@
+{
+  "id": "archangel-raphael",
+  "kind": "angel",
+  "gender": "male",
+  "holiness_types": [
+    "archangel"
+  ],
+  "external_ids": {
+    "copticchurch": "13_3#1"
+  },
+  "sources": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/13_3.html?lang=en#1",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:st-takla-synaxarium",
+      "url": "https://st-takla.org/books/en/church/synaxarium/13-nasea/03-nasie-raphael.html",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din copticchurch.net, st-takla.org; de verificat."
+    ]
+  }
+}

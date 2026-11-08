@@ -1,0 +1,29 @@
+{
+  "id": "elias--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:elias"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 16
+  },
+  "external_ids": {
+    "oca": "100539"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/16/100539-new-martyr-elias",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

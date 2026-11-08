@@ -1,0 +1,21 @@
+{
+  "id": "athanasius-of-meteora",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Atanasie",
+    "full": "Sfântul Cuvios Atanasie",
+    "short": "Atanasie",
+    "given": "Atanasie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-atanasie",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

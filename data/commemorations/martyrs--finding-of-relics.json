@@ -1,0 +1,29 @@
+{
+  "id": "martyrs--finding-of-relics",
+  "kind": "relics_finding",
+  "subjects": [
+    "group:martyrs"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 22
+  },
+  "external_ids": {
+    "oca": "100579"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/22/100579-uncovering-of-the-relics-of-the-holy-martyrs-at-the-gate-of-euge",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

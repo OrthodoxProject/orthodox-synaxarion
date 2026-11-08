@@ -1,0 +1,29 @@
+{
+  "id": "nikodemos-of-albania--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:nikodemos-of-albania"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 11
+  },
+  "external_ids": {
+    "oca": "108016"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/11/108016-new-monastic-martyr-ikdmos-of-albania",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

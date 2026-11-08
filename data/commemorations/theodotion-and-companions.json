@@ -1,0 +1,31 @@
+{
+  "id": "theodotion-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:theodotion",
+    "person:paul-2",
+    "person:pausirios"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 24
+  },
+  "external_ids": {
+    "oca": "109034"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/24/109034-martyrs-theodotion-paul-and-pausirios",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

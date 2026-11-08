@@ -1,0 +1,20 @@
+{
+  "id": "anton-the-hermit",
+  "locale": "en",
+  "names": {
+    "display": "Saint Anton the Hermit",
+    "short": "Anton the Hermit",
+    "given": "Anton"
+  },
+  "references": [
+    {
+      "source": "src:armenianchurch-ge",
+      "url": "https://armenianchurch.ge/en/kalendar-prazdnikov/description-2/january/commemorationst-anton",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

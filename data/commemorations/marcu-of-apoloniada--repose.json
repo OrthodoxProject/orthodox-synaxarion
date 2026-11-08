@@ -1,0 +1,26 @@
+{
+  "id": "marcu-of-apoloniada--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:marcu-of-apoloniada"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 16
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-sfintit-mucenic-marcu-episcopul-apoloniadei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

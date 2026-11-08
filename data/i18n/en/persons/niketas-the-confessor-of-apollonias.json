@@ -1,0 +1,20 @@
+{
+  "id": "niketas-the-confessor-of-apollonias",
+  "locale": "en",
+  "names": {
+    "display": "Saint Nikḗtas the Confessor, Archbishop of Apollonias in Bithynia",
+    "short": "Nikḗtas the Confessor, Archbishop of Apollonias in Bithynia",
+    "given": "Nikḗtas"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/20/100856-saint-niktas-the-confessor-archbishop-of-apollonias-in-bithynia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

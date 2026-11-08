@@ -1,0 +1,20 @@
+{
+  "id": "savva-the-sanctified",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Savva the Sanctified",
+    "short": "Savva the Sanctified",
+    "given": "Savva"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/05/103477-venerable-savva-the-sanctified",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

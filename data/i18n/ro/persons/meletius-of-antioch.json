@@ -1,0 +1,29 @@
+{
+  "id": "meletius-of-antioch",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Meletie, Arhiepiscopul Antiohiei celei Mari",
+    "full": "Sfântul Ierarh Meletie, Arhiepiscopul Antiohiei celei Mari",
+    "short": "Meletie, Arhiepiscopul Antiohiei celei Mari",
+    "given": "Meletie",
+    "variants": [
+      "Sf. Ier. Meletie, arhiepiscopul Antiohiei"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-meletie-arhiepiscopul-antiohiei-celei-mari",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ier-meletie-arhiepiscopul-antiohiei-sf-mc-hristea/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

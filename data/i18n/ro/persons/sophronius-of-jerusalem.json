@@ -1,0 +1,29 @@
+{
+  "id": "sophronius-of-jerusalem",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Sofronie, Patriarhul Ierusalimului",
+    "full": "Sfântul Ierarh Sofronie, Patriarhul Ierusalimului",
+    "short": "Sofronie, Patriarhul Ierusalimului",
+    "given": "Sofronie",
+    "variants": [
+      "Sf. Ier. Sofronie, patriarhul Ierusalimului"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-sofronie-patriarhul-ierusalimului",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ier-sofronie-patriarhul-ierusalimului/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

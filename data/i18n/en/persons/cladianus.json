@@ -1,0 +1,20 @@
+{
+  "id": "cladianus",
+  "locale": "en",
+  "names": {
+    "display": "Saint Cladianus (Celadion), the Ninth Pope of the See of St. Mark",
+    "short": "Cladianus, Ninth Pope of the See of St. Mark",
+    "given": "Cladianus"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/11_9.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

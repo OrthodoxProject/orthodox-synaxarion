@@ -1,0 +1,21 @@
+{
+  "id": "cyril-of-gortyna",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Chiril",
+    "full": "Sfântul Sfințit Mucenic Chiril",
+    "short": "Chiril",
+    "given": "Chiril"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-sfintit-mucenic-chiril",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

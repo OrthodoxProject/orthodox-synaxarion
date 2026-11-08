@@ -1,0 +1,27 @@
+{
+  "id": "demetrius-of-samarina-in-epirus",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "martyr",
+    "new_martyr"
+  ],
+  "external_ids": {
+    "oca": "205402"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/17/205402-new-martyr-demetrius-of-samarina-in-epirus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat.",
+      "Genul nu reiese din sursă; e de verificat."
+    ]
+  }
+}

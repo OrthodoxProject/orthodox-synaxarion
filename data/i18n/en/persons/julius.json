@@ -1,0 +1,20 @@
+{
+  "id": "julius",
+  "locale": "en",
+  "names": {
+    "display": "Saint Julius, Presbyter of Novara, and his brother, Saint Julian the Deacon",
+    "short": "Julius, Presbyter of Novara, his brother, Julian the Deacon",
+    "given": "Julius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/21/101774-saint-julius-presbyter-of-novara-and-his-brother-saint-julian-th",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

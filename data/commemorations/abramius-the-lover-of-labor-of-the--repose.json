@@ -1,0 +1,29 @@
+{
+  "id": "abramius-the-lover-of-labor-of-the--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:abramius-the-lover-of-labor-of-the"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 21
+  },
+  "external_ids": {
+    "oca": "102362"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/21/102362-venerable-abramius-the-lover-of-labor-of-the-kiev-near-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

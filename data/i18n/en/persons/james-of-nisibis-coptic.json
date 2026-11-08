@@ -1,0 +1,20 @@
+{
+  "id": "james-of-nisibis-coptic",
+  "locale": "en",
+  "names": {
+    "display": "Saint James, Bishop of Nisibis",
+    "short": "James, Bishop of Nisibis",
+    "given": "James"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/5_18.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

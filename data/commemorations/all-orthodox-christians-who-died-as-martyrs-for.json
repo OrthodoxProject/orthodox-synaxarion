@@ -1,0 +1,29 @@
+{
+  "id": "all-orthodox-christians-who-died-as-martyrs-for",
+  "kind": "repose",
+  "subjects": [
+    "group:all-orthodox-christians-who-died-as-martyrs-for"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 29
+  },
+  "external_ids": {
+    "oca": "100019"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/29/100019-all-orthodox-christians-who-died-as-martyrs-for-the-glory-of-chr",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

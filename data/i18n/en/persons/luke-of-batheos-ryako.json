@@ -1,0 +1,20 @@
+{
+  "id": "luke-of-batheos-ryako",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Luke, Abbot of Batheos Ryako",
+    "short": "Luke, Abbot of Batheos Ryako",
+    "given": "Luke"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/07/102539-venerable-luke-abbot-of-batheos-ryako",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

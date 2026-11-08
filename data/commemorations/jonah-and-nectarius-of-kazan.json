@@ -1,0 +1,30 @@
+{
+  "id": "jonah-and-nectarius-of-kazan",
+  "kind": "repose",
+  "subjects": [
+    "person:jonah",
+    "person:nectarius-of-kazan"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 4
+  },
+  "external_ids": {
+    "oca": "108934"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/04/108934-saints-jonah-and-nectarius-of-kazan",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

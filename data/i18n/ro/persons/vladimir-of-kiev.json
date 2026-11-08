@@ -1,0 +1,21 @@
+{
+  "id": "vladimir-of-kiev",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Vladimir, Mitropolitul Kievului",
+    "full": "Sfântul Vladimir, Mitropolitul Kievului",
+    "short": "Vladimir, Mitropolitul Kievului",
+    "given": "Vladimir"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-vladimir-mitropolitul-kievului",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

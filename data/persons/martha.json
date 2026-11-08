@@ -1,0 +1,32 @@
+{
+  "id": "martha",
+  "kind": "saint",
+  "gender": "female",
+  "holiness_types": [
+    "myrrhbearer"
+  ],
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfintele-mironosite-maria-marta-surorile-dreptului-lazar",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-mc-zotic-atal-camasie-si-filip-de-la-niculitel-sf-ier-mitrofan-arhiepiscopul-constantinopolului-sf-mironosite-maria-si-marta-surorile-dreptului-lazar/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/04/103797-righteous-martha-and-mary-the-sisters-of-lazarus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

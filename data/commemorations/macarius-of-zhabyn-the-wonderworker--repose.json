@@ -1,0 +1,29 @@
+{
+  "id": "macarius-of-zhabyn-the-wonderworker--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:macarius-of-zhabyn-the-wonderworker"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 22
+  },
+  "external_ids": {
+    "oca": "100265"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/22/100265-venerable-macarius-of-zhabyn-the-wonderworker",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

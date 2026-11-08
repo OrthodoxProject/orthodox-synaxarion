@@ -1,0 +1,26 @@
+{
+  "id": "basiliscus-of-amasea",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Vasilisc",
+    "full": "Sfântul Mucenic Vasilisc",
+    "short": "Vasilisc",
+    "given": "Vasilisc"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-vasilisc",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-eutropie-cleonic-si-vasilisc/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

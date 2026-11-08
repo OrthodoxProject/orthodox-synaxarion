@@ -1,0 +1,21 @@
+{
+  "id": "maria-of-gatcina",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Maria din Gatcina",
+    "full": "Sfânta Cuvioasă Muceniță Maria din Gatcina",
+    "short": "Maria din Gatcina",
+    "given": "Maria"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-mucenita-maria-din-gatcina",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

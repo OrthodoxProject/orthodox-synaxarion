@@ -1,0 +1,21 @@
+{
+  "id": "cosmas-of-zographou-monastery",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cosma de la Zografu",
+    "full": "Sfântul Cosma de la Zografu",
+    "short": "Cosma de la Zografu",
+    "given": "Cosma"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cosma-de-la-zografu",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

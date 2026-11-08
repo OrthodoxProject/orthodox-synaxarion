@@ -1,0 +1,21 @@
+{
+  "id": "lavrentie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Lavrentie",
+    "full": "Sfântul Cuvios Lavrentie",
+    "short": "Lavrentie",
+    "given": "Lavrentie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-lavrentie",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

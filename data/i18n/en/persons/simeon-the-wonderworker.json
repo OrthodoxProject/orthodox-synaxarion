@@ -1,0 +1,20 @@
+{
+  "id": "simeon-the-wonderworker",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Simeon the Wonderworker",
+    "short": "Simeon the Wonderworker",
+    "given": "Simeon"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/04/205477-venerable-simeon-the-wonderworker",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

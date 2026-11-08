@@ -1,0 +1,39 @@
+{
+  "id": "26-martyrs-in-the-crimea",
+  "kind": "repose",
+  "subjects": [
+    "group:26-martyrs-in-the-crimea"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 26
+  },
+  "external_ids": {
+    "oca": "100888"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfintii-26-de-mucenici-din-gotiadacia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/odovania-praznicului-bunei-vestiri-soborul-sf-arhanghel-gavriil-sf-mc-montanus-preotul-si-sotia-sa-maxima-sfintii-26-de-mucenici-din-gotia-dacia/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/26/100888-26-martyrs-in-the-crimea",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "eustathius-i-of-serbia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:eustathius-i-of-serbia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 4
+  },
+  "external_ids": {
+    "oca": "100089"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/04/100089-repose-of-saint-eustathius-i-archbishop-of-serbia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "hypatius",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Ipatie",
+    "full": "Sfântul Mucenic Ipatie",
+    "short": "Ipatie",
+    "given": "Ipatie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-ipatie-0",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-leontie-ipatie-si-teodul-sf-cuv-erasm/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

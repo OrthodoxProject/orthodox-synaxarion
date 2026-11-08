@@ -1,0 +1,20 @@
+{
+  "id": "augustine-of-hippo",
+  "locale": "en",
+  "names": {
+    "display": "Blessed Augustine, Bishop of Hippo",
+    "short": "Augustine, Bishop of Hippo",
+    "given": "Augustine"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/15/101736-blessed-augustine-bishop-of-hippo",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "porphyrius-the-actor",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Porphyrius the Actor",
+    "short": "Porphyrius the Actor",
+    "given": "Porphyrius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/15/102620-martyr-porphyrius-the-actor",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

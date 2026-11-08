@@ -1,0 +1,20 @@
+{
+  "id": "fool-basil-of-kamen",
+  "locale": "en",
+  "names": {
+    "display": "Holy Fool Basil of Kamen",
+    "short": "Fool Basil of Kamen",
+    "given": "Fool"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/02/102186-holy-fool-basil-of-kamen",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

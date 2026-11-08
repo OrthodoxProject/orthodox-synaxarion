@@ -1,0 +1,34 @@
+{
+  "id": "anthimus-of-georgia",
+  "locale": "en",
+  "names": {
+    "display": "Saint Anthimus, Bishop of Georgia",
+    "short": "Anthimus, Bishop of Georgia",
+    "given": "Anthimus",
+    "variants": [
+      "Repose of Saint Anthimus, Bishop of Georgia",
+      "Anthim the Iberian"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/13/205381-saint-anthimus-bishop-of-georgia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/14/206381-repose-of-saint-anthimus-bishop-of-georgia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/romanian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

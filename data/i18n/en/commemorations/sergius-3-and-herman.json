@@ -1,0 +1,23 @@
+{
+  "id": "sergius-3-and-herman",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Sergius and Herman, Wonderworkers of Valaam"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/28/101836-venerable-sergius-and-herman-wonderworkers-of-valaam",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/28/100478-venerable-confessor-sergius-of-paphlagonia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

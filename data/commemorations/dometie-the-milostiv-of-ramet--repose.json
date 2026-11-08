@@ -1,0 +1,31 @@
+{
+  "id": "dometie-the-milostiv-of-ramet--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:dometie-the-milostiv-of-ramet"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 6
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-dometie-cel-milostiv-de-la-ramet",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-dometie-cel-milostiv-de-la-ramet-si-mama-sa-sf-cuv-filotimia-sf-cuv-sisoe-cel-mare-sf-mc-lucia-din-roma-sf-mc-marius-sotia-sa-marta-si-fiii-lor-audifaciu-si-avacum/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro; de verificat."
+    ]
+  }
+}

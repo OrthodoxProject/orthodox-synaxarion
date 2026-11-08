@@ -1,0 +1,26 @@
+{
+  "id": "donat-diaconul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Donat diaconul",
+    "full": "Sfântul Mucenic Donat diaconul",
+    "short": "Donat diaconul",
+    "given": "Donat"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-donat-diaconul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ap-tadeu-%e2%80%a0-sf-mc-donat-diaconul-romul-preotul-diaconul-si-venust-sf-mc-vasa-cu-fiii-ei/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

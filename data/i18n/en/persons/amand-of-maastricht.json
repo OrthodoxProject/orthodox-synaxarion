@@ -1,0 +1,20 @@
+{
+  "id": "amand-of-maastricht",
+  "locale": "en",
+  "names": {
+    "display": "Saint Amand, Abbot of Maastricht",
+    "short": "Amand, Abbot of Maastricht",
+    "given": "Amand"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/06/205325-saint-amand-abbot-of-maastricht",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

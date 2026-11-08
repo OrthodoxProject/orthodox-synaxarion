@@ -1,0 +1,26 @@
+{
+  "id": "leontius-of-radauti",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Leontie de la Rădăuți",
+    "full": "Sfântul Ierarh Leontie de la Rădăuți",
+    "short": "Leontie de la Rădăuți",
+    "given": "Leontie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-leontie-de-la-radauti",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ier-leontie-de-la-radauti-sf-mc-doctori-fara-de-arginti-cosma-si-damian-cei-din-roma/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

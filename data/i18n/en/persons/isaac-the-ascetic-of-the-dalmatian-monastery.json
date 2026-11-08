@@ -1,0 +1,20 @@
+{
+  "id": "isaac-the-ascetic-of-the-dalmatian-monastery",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Isaac the Ascetic of the Dalmatian Monastery at Constantinople",
+    "short": "Isaac the Ascetic of the Dalmatian Monastery at Constantinople",
+    "given": "Isaac"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/03/102189-venerable-isaac-the-ascetic-of-the-dalmatian-monastery-at-consta",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "george-of-attalia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:george-of-attalia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 25
+  },
+  "external_ids": {
+    "oca": "149050"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/25/149050-new-martyr-george-of-attalia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

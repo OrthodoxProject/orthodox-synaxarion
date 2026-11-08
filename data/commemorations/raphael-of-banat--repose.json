@@ -1,0 +1,29 @@
+{
+  "id": "raphael-of-banat--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:raphael-of-banat"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 16
+  },
+  "external_ids": {
+    "oca": "108057"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/16/108057-saint-raphael-of-banat",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

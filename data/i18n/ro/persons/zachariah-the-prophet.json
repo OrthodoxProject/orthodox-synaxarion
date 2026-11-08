@@ -1,0 +1,26 @@
+{
+  "id": "zachariah-the-prophet",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Proroc Zaharia",
+    "full": "Sfântul Proroc Zaharia",
+    "short": "Zaharia",
+    "given": "Zaharia"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-proroc-zaharia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mare-mc-teodor-stratilat-sf-proroc-zaharia-duminica-a-34-a-dupa-rusalii-a-intoarcerii-fiului-risipitor-ap-1-corinteni-6-12-20-ev-luca-15-11-32-glas-2-voscr-2/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

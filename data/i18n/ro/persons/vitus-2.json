@@ -1,0 +1,23 @@
+{
+  "id": "vitus-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Vit din Lucania",
+    "full": "Sfântul Mucenic Vit din Lucania",
+    "short": "Vit din Lucania",
+    "given": "Vit"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/15/101729-martyrs-modestus-crescentia-and-vitus-at-lucania",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

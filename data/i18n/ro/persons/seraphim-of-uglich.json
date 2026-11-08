@@ -1,0 +1,23 @@
+{
+  "id": "seraphim-of-uglich",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Serafim (Samoilovici), Arhiepiscopul de Uglici",
+    "full": "Sfântul Sfințit Mucenic Serafim (Samoilovici), Arhiepiscopul de Uglici",
+    "short": "Serafim, Arhiepiscopul de Uglici",
+    "given": "Serafim"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/04/100487-hieromartyr-seraphim-samoilovich-archbishop-of-uglich",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

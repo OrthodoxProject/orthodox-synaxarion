@@ -1,0 +1,23 @@
+{
+  "id": "gregory-of-constantia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Grigorie, Episcopul Constanției, Cipru",
+    "full": "Sfântul Ierarh Grigorie, Episcopul Constanției, Cipru",
+    "short": "Grigorie, Episcopul Constanției, Cipru",
+    "given": "Grigorie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/04/100658-saint-gregory-bishop-of-constantia-cyprus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

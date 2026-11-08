@@ -1,0 +1,23 @@
+{
+  "id": "laurence-of-komel",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Lavrentie, egumenul de la Komel",
+    "full": "Sfântul Cuvios Lavrentie, egumenul de la Komel",
+    "short": "Lavrentie, egumenul de la Komel",
+    "given": "Lavrentie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/16/101396-venerable-laurence-abbot-of-komel",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

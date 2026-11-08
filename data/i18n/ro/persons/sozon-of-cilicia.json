@@ -1,0 +1,23 @@
+{
+  "id": "sozon-of-cilicia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Sozont din Cilicia",
+    "full": "Sfântul Mucenic Sozont din Cilicia",
+    "short": "Sozont din Cilicia",
+    "given": "Sozont"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/07/102532-martyr-sozon-of-cilicia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "theodosius-the-bulgarian",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Teodosie Bulgarul și ucenicul său, Roman",
+    "full": "Sfântul Cuvios Teodosie Bulgarul și ucenicul său, Roman",
+    "short": "Teodosie Bulgarul și ucenicul său, Roman",
+    "given": "Teodosie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/17/109049-saint-theodosius-the-bulgarian-with-his-disciple-romanos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

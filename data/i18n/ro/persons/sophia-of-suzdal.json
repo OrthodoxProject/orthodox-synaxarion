@@ -1,0 +1,23 @@
+{
+  "id": "sophia-of-suzdal",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Sofia din Suzdal, făcătoarea de minuni",
+    "full": "Sfânta Cuvioasă Sofia din Suzdal, făcătoarea de minuni",
+    "short": "Sofia din Suzdal, făcătoarea de minuni",
+    "given": "Sofia"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/16/108904-venerable-sophia-of-suzdal-the-wonderworker",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

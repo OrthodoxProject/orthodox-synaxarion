@@ -1,0 +1,23 @@
+{
+  "id": "sava-ii-brankovic",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Sava al II-lea Brancovici",
+    "full": "Sfântul Ierarh Sava al II-lea Brancovici",
+    "short": "Sava al II-lea Brancovici",
+    "given": "Sava"
+  },
+  "references": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

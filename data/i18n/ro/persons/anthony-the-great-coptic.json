@@ -1,0 +1,23 @@
+{
+  "id": "anthony-the-great-coptic",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Antonie cel Mare",
+    "full": "Sfântul Cuvios Antonie cel Mare",
+    "short": "Antonie cel Mare",
+    "given": "Antonie"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/5_22.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

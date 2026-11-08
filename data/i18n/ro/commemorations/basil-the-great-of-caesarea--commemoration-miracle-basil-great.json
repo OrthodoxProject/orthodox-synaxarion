@@ -1,0 +1,20 @@
+{
+  "id": "basil-the-great-of-caesarea--commemoration-miracle-basil-great",
+  "locale": "ro",
+  "names": {
+    "display": "Pomenirea minunii săvârșite la Niceea de Sf. Ier. Vasile cel Mare, Arhiepiscopul Cezareei Capadociei"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/19/100204-commemoration-of-the-miracle-of-saint-basil-the-great-at-nicaea",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

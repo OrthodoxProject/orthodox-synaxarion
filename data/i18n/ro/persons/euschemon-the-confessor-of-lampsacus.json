@@ -1,0 +1,23 @@
+{
+  "id": "euschemon-the-confessor-of-lampsacus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Eushimon Mărturisitorul, Episcopul Lampsacului",
+    "full": "Sfântul Ierarh Eushimon Mărturisitorul, Episcopul Lampsacului",
+    "short": "Eushimon Mărturisitorul, Episcopul Lampsacului",
+    "given": "Eushimon"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/14/100803-saint-euschemon-the-confessor-bishop-of-lampsacus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

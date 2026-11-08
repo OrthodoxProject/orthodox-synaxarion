@@ -1,0 +1,20 @@
+{
+  "id": "apostles-of-the-70-apelles-luke-and-clement-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ap. din cei 70 Apelie, Luca (Luchie) și Clement"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/10/102562-holy-apostles-of-the-70-apelles-luke-loukios-and-clement",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

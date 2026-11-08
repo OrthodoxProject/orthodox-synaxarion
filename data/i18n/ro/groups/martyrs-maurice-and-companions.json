@@ -1,0 +1,20 @@
+{
+  "id": "martyrs-maurice-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Mavrichie și fiul său, Fotin, și Sf. Mc. Teodor, Filip și cei 70 de ostași, la Apameea Siriei"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/22/100580-martyrs-maurice-and-his-son-photinus-and-martyrs-theodore-philip",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

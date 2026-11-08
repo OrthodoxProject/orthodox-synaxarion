@@ -1,0 +1,23 @@
+{
+  "id": "genarius",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Genarie, Sf. Mercurie Ostașul",
+    "full": "Sfântul Ierarh Genarie, Sfântul Mercurie Ostașul",
+    "short": "Genarie, Sf. Mercurie Ostașul",
+    "given": "Genarie"
+  },
+  "references": [
+    {
+      "source": "src:armenianchurch-ge",
+      "url": "https://armenianchurch.ge/en/kalendar-prazdnikov/description-2/december/commemoration-of-bishop-st-genarius-soldier-st-merkerius",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

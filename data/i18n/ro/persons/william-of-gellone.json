@@ -1,0 +1,23 @@
+{
+  "id": "william-of-gellone",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Wilhelm de Gellone",
+    "full": "Sfântul Wilhelm de Gellone",
+    "short": "Wilhelm de Gellone",
+    "given": "Wilhelm"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/28/100252-saint-william-of-gellone",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

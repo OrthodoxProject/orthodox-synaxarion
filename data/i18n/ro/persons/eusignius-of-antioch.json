@@ -1,0 +1,23 @@
+{
+  "id": "eusignius-of-antioch",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Evsignie din Antiohia",
+    "full": "Sfântul Mucenic Evsignie din Antiohia",
+    "short": "Evsignie din Antiohia",
+    "given": "Evsignie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/05/102206-martyr-eusignius-of-antioch",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

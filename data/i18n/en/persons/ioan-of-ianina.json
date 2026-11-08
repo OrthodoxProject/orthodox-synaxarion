@@ -1,0 +1,22 @@
+{
+  "id": "ioan-of-ianina",
+  "locale": "en",
+  "names": {
+    "display": "Martyr John of Ioannina",
+    "short": "John of Ioannina",
+    "given": "John"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-ioan-din-ianina",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

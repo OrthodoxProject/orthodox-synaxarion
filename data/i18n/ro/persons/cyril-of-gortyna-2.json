@@ -1,0 +1,23 @@
+{
+  "id": "cyril-of-gortyna-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Chiril, Episcopul Gortinei",
+    "full": "Sfântul Sfințit Mucenic Chiril, Episcopul Gortinei",
+    "short": "Chiril, Episcopul Gortinei",
+    "given": "Chiril"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/06/102523-hieromartyr-cyril-bishop-of-gortyna",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

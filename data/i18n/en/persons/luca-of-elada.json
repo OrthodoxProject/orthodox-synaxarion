@@ -1,0 +1,27 @@
+{
+  "id": "luca-of-elada",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Luke of Hellas",
+    "short": "Luke of Hellas",
+    "given": "Luke"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-luca-din-elada",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ier-partenie-episcopul-lampsacului-sf-cuv-luca-din-elada/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

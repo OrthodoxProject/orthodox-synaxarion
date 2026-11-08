@@ -1,0 +1,22 @@
+{
+  "id": "amfilohie-of-poceaev",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Amphilochius of Pochaev",
+    "short": "Amphilochius of Pochaev",
+    "given": "Amphilochius"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-amfilohie-de-la-poceaev",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

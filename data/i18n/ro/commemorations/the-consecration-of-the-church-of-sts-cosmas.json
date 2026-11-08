@@ -1,0 +1,20 @@
+{
+  "id": "the-consecration-of-the-church-of-sts-cosmas",
+  "locale": "ro",
+  "names": {
+    "display": "Sfințirea bisericii Sf. Cosma și Damian, a mamei și a fraților lor"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/10_22.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

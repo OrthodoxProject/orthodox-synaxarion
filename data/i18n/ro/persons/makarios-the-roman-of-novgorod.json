@@ -1,0 +1,23 @@
+{
+  "id": "makarios-the-roman-of-novgorod",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Macarie Romanul, din Novgorod",
+    "full": "Sfântul Cuvios Macarie Romanul, din Novgorod",
+    "short": "Macarie Romanul, din Novgorod",
+    "given": "Macarie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/19/100233-venerable-makarios-the-roman-of-novgorod",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

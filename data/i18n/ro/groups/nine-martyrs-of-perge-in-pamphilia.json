@@ -1,0 +1,20 @@
+{
+  "id": "nine-martyrs-of-perge-in-pamphilia",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții 9 Mucenici din Perga Pamfiliei"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/01/102172-nine-martyrs-of-perge-in-pamphilia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

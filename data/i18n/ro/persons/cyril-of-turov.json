@@ -1,0 +1,23 @@
+{
+  "id": "cyril-of-turov",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Chiril, Episcopul de Turov",
+    "full": "Sfântul Ierarh Chiril, Episcopul de Turov",
+    "short": "Chiril, Episcopul de Turov",
+    "given": "Chiril"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/28/101221-saint-cyril-bishop-of-turov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

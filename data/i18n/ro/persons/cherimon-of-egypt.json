@@ -1,0 +1,23 @@
+{
+  "id": "cherimon-of-egypt",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Cheremon din Egipt",
+    "full": "Sfântul Cuvios Cheremon din Egipt",
+    "short": "Cheremon din Egipt",
+    "given": "Cheremon"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/16/102306-venerable-cherimon-chaeremon-of-egypt",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

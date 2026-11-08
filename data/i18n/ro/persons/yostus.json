@@ -1,0 +1,23 @@
+{
+  "id": "yostus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Iust, episcopul",
+    "full": "Sfântul Ierarh Iust, episcopul",
+    "short": "Iust, episcopul",
+    "given": "Iust"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/3_16.html?lang=en#3",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

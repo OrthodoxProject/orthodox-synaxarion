@@ -1,0 +1,27 @@
+{
+  "id": "paula-fecioara",
+  "locale": "en",
+  "names": {
+    "display": "Virgin Martyr Paula",
+    "short": "Paula",
+    "given": "Paula"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-paula-fecioara",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-luchilian-ipatie-si-paula-fecioara-harti/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

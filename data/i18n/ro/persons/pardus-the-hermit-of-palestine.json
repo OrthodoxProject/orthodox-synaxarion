@@ -1,0 +1,23 @@
+{
+  "id": "pardus-the-hermit-of-palestine",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Pard Pustnicul, din Palestina",
+    "full": "Sfântul Cuvios Pard Pustnicul, din Palestina",
+    "short": "Pard Pustnicul, din Palestina",
+    "given": "Pard"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/15/103555-venerable-pardus-the-hermit-of-palestine",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

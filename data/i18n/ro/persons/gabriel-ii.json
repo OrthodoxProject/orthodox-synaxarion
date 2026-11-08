@@ -1,0 +1,27 @@
+{
+  "id": "gabriel-ii",
+  "locale": "ro",
+  "names": {
+    "display": "Papa Gavriil al II-lea, al 70-lea Papă al Alexandriei, cunoscut ca Ibn Turaik",
+    "short": "Gavriil al II-lea, al 70-lea Papă al Alexandriei, cunoscut ca Ibn Turaik",
+    "given": "Gavriil"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/8_4.html?lang=en#2",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/8_10.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

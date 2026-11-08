@@ -1,0 +1,23 @@
+{
+  "id": "irenarchus-of-solovki",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Irinarh, egumenul de la Solovăț",
+    "full": "Sfântul Cuvios Irinarh, egumenul de la Solovăț",
+    "short": "Irinarh, egumenul de la Solovăț",
+    "given": "Irinarh"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/17/102043-venerable-irenarchus-abbot-of-solovki",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

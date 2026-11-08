@@ -1,0 +1,23 @@
+{
+  "id": "vitalius-of-gaza",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Vitalie din Gaza",
+    "full": "Sfântul Cuvios Vitalie din Gaza",
+    "short": "Vitalie din Gaza",
+    "given": "Vitalie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/22/101183-venerable-vitalius-of-gaza",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

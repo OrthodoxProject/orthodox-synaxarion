@@ -1,0 +1,23 @@
+{
+  "id": "neilos-the-ascetic-of-sinai",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Nil Sinaitul",
+    "full": "Sfântul Cuvios Nil Sinaitul",
+    "short": "Nil Sinaitul",
+    "given": "Nil"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/12/103287-venerable-neilos-the-ascetic-of-sinai",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

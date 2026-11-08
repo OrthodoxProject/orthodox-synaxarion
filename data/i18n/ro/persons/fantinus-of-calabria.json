@@ -1,0 +1,23 @@
+{
+  "id": "fantinus-of-calabria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Fantin din Calabria",
+    "full": "Sfântul Fantin din Calabria",
+    "short": "Fantin din Calabria",
+    "given": "Fantin"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/30/102427-saint-fantinus-of-calabria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

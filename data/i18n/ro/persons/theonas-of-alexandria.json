@@ -1,0 +1,23 @@
+{
+  "id": "theonas-of-alexandria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Teona din Alexandria",
+    "full": "Sfântul Mucenic Teona din Alexandria",
+    "short": "Teona din Alexandria",
+    "given": "Teona"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/14/103544-martyrs-philemon-apollonios-arrian-and-theonas-of-alexandria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

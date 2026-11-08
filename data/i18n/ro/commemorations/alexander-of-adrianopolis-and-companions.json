@@ -1,0 +1,20 @@
+{
+  "id": "alexander-of-adrianopolis-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Alexandru, Episcopul Adrianopolului, și Sf. Mc. Iraclie, Ana, Elisabeta, Teodota și Glicheria"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/22/103031-hieromartyr-alexander-bishop-of-adrianopolis-and-the-martyrs-her",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

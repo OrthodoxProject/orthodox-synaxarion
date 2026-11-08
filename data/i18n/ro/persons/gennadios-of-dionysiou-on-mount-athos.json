@@ -1,0 +1,23 @@
+{
+  "id": "gennadios-of-dionysiou-on-mount-athos",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Ghenadie de la Dionisiu, Muntele Athos",
+    "full": "Sfântul Cuvios Mucenic Ghenadie de la Dionisiu, Muntele Athos",
+    "short": "Ghenadie de la Dionisiu, Muntele Athos",
+    "given": "Ghenadie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/06/101015-monastic-martyr-gennadios-of-dionysiou-on-mount-athos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

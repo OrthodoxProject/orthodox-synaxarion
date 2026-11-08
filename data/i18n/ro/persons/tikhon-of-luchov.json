@@ -1,0 +1,23 @@
+{
+  "id": "tikhon-of-luchov",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Tihon din Luhov, Kostroma",
+    "full": "Sfântul Cuvios Tihon din Luhov, Kostroma",
+    "short": "Tihon din Luhov, Kostroma",
+    "given": "Tihon"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/16/101740-venerable-tikhon-of-luchov-kostroma",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

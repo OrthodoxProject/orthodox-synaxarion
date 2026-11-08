@@ -1,0 +1,23 @@
+{
+  "id": "romulus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Romul",
+    "full": "Sfântul Mucenic Romul",
+    "short": "Romul",
+    "given": "Romul"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/15/100805-martyrs-agapius-publius-timolaus-romulus-two-named-dionysius-and",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "iust",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Justus",
+    "short": "Justus",
+    "given": "Justus"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-iust",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

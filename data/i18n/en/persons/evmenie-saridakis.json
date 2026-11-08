@@ -1,0 +1,22 @@
+{
+  "id": "evmenie-saridakis",
+  "locale": "en",
+  "names": {
+    "display": "Saint Eumenius Saridakis",
+    "short": "Eumenius Saridakis",
+    "given": "Eumenius"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-evmenie-saridakis",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "cornelius-of-paleostrov-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Corneliu de la Paleostrov, Oloneț",
+    "full": "Sfântul Cuvios Corneliu de la Paleostrov, Oloneț",
+    "short": "Corneliu de la Paleostrov, Oloneț",
+    "given": "Corneliu"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/21/108977-venerable-cornelius-of-paleostrov-olonets",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

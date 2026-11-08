@@ -1,0 +1,28 @@
+{
+  "id": "mercurius-the-faster-of-the-kiev-caves",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mercurie Postitorul, de la Lavra Peșterilor",
+    "full": "Sfântul Cuvios Mercurie Postitorul, de la Lavra Peșterilor",
+    "short": "Mercurie Postitorul, de la Lavra Peșterilor",
+    "given": "Mercurie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/04/103174-venerable-mercurius-the-faster-of-the-kiev-caves",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/24/103385-venerable-mercurius-the-faster-of-the-kiev-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

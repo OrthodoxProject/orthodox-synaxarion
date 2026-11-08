@@ -1,0 +1,22 @@
+{
+  "id": "firm",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Firmus",
+    "short": "Firmus",
+    "given": "Firmus"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-firm",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

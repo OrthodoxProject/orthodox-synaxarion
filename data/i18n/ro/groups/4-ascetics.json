@@ -1,0 +1,20 @@
+{
+  "id": "4-ascetics",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții 4 nevoitori"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/18/108984-4-ascetics",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

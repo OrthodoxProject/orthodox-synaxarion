@@ -1,0 +1,23 @@
+{
+  "id": "simon-of-volomsk",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Simon, egumenul de la Volomsk",
+    "full": "Sfântul Cuvios Simon, egumenul de la Volomsk",
+    "short": "Simon, egumenul de la Volomsk",
+    "given": "Simon"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/12/102012-venerable-simon-abbot-of-volomsk",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

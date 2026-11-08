@@ -1,0 +1,23 @@
+{
+  "id": "platon-of-banja-luka",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Platon de Banja Luka",
+    "full": "Sfântul Ierarh Platon de Banja Luka",
+    "short": "Platon de Banja Luka",
+    "given": "Platon"
+  },
+  "references": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "anastasius-coptic",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Anastasie, al 36-lea Papă al Alexandriei",
+    "full": "Sfântul Ierarh Anastasie, al 36-lea Papă al Alexandriei",
+    "short": "Anastasie, al 36-lea Papă al Alexandriei",
+    "given": "Anastasie"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/4_22.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

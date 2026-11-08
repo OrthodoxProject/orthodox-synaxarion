@@ -1,0 +1,23 @@
+{
+  "id": "macarius-coptic-4",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Macarie, fiul ministrului Vasilide",
+    "full": "Sfântul Macarie, fiul ministrului Vasilide",
+    "short": "Macarie, fiul ministrului Vasilide",
+    "given": "Macarie"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/11_22.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

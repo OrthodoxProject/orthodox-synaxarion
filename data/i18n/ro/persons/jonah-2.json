@@ -1,0 +1,23 @@
+{
+  "id": "jonah-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Iona, ucenicul Sf. Trifon de la Pecenga",
+    "full": "Sfântul Mucenic Iona, ucenicul Sfântului Trifon de la Pecenga",
+    "short": "Iona, ucenicul Sf. Trifon de la Pecenga",
+    "given": "Iona"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/15/103553-martyr-jonah-disciple-of-tryphon-of-pechenga",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

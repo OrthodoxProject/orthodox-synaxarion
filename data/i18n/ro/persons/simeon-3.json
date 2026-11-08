@@ -1,0 +1,23 @@
+{
+  "id": "simeon-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Simeon, ruda Domnului, al doilea Episcop al Ierusalimului",
+    "full": "Sfântul Sfințit Mucenic Simeon, ruda Domnului, al doilea Episcop al Ierusalimului",
+    "short": "Simeon, ruda Domnului, al doilea Episcop al Ierusalimului",
+    "given": "Simeon"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/27/107777-hieromartyr-simeon-kinsman-of-the-lord-second-bishop-of-jerusale",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

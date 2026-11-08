@@ -1,0 +1,20 @@
+{
+  "id": "wonderworking-boyan-icon-of-theotokos",
+  "locale": "ro",
+  "names": {
+    "display": "Icoana făcătoare de minuni a Maicii Domnului de la Boian"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/25/100541-wonderworking-boyan-icon-of-the-mother-of-god",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

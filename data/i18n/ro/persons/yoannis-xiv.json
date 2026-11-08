@@ -1,0 +1,23 @@
+{
+  "id": "yoannis-xiv",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ioan al XIV-lea",
+    "full": "Sfântul Ierarh Ioan al XIV-lea",
+    "short": "Ioan al XIV-lea",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/13_3.html?lang=en#3",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

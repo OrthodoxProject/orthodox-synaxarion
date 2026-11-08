@@ -1,0 +1,45 @@
+{
+  "id": "meeting-of-the-lord--afterfeast",
+  "locale": "ro",
+  "names": {
+    "display": "După-prăznuirea Întâmpinării Domnului"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/03/100408-afterfeast-of-the-meeting-of-our-lord-in-the-temple",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/04/100421-afterfeast-of-the-meeting-of-our-lord-in-the-temple",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/05/100430-afterfeast-of-the-meeting-of-our-lord-in-the-temple",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/06/100440-afterfeast-of-the-meeting-of-our-lord-in-the-temple",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/07/100456-afterfeast-of-the-meeting-of-our-lord-in-the-temple",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/08/100461-afterfeast-of-the-meeting-of-our-lord-in-the-temple",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

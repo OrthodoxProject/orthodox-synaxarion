@@ -1,0 +1,23 @@
+{
+  "id": "myron-of-crete",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Noul Mc. Miron din Creta",
+    "full": "Sfântul Noul Mucenic Miron din Creta",
+    "short": "Miron din Creta",
+    "given": "Miron"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/20/205344-new-martyr-myron-of-crete",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

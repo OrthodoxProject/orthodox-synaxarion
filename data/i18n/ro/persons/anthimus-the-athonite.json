@@ -1,0 +1,22 @@
+{
+  "id": "anthimus-the-athonite",
+  "locale": "ro",
+  "names": {
+    "display": "Ieromonahul Antim Athonitul, „cel nebun pentru Hristos”",
+    "short": "Antim Athonitul, „cel nebun pentru Hristos”",
+    "given": "Antim"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/09/108031-hieromonk-anthimus-the-athonite-fool-for-christ",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

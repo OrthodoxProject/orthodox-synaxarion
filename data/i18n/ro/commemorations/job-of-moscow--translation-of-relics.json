@@ -1,0 +1,20 @@
+{
+  "id": "job-of-moscow--translation-of-relics",
+  "locale": "ro",
+  "names": {
+    "display": "Aducerea moaștelor Sf. Ier. Iov, Patriarhul Moscovei și al Întregii Rusii"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/05/101006-translation-of-the-relics-of-saint-job-patriarch-of-moscow-and-a",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

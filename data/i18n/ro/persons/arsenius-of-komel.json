@@ -1,0 +1,23 @@
+{
+  "id": "arsenius-of-komel",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Arsenie, egumenul de la Komel, Vologda",
+    "full": "Sfântul Cuvios Arsenie, egumenul de la Komel, Vologda",
+    "short": "Arsenie, egumenul de la Komel, Vologda",
+    "given": "Arsenie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/24/102385-venerable-arsenius-abbot-of-komel-vologda",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

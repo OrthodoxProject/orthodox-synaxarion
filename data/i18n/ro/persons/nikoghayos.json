@@ -1,0 +1,23 @@
+{
+  "id": "nikoghayos",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Pontif Nicoghaios",
+    "full": "Sfântul Pontif Nicoghaios",
+    "short": "Nicoghaios",
+    "given": "Nicoghaios"
+  },
+  "references": [
+    {
+      "source": "src:armenianchurch-ge",
+      "url": "https://armenianchurch.ge/en/kalendar-prazdnikov/description-2/december/commemoration-of-pontiff-st-nikoghayos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

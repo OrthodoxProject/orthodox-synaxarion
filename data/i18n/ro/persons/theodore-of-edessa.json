@@ -1,0 +1,23 @@
+{
+  "id": "theodore-of-edessa",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Teodor, Episcopul Edesei",
+    "full": "Sfântul Ierarh Teodor, Episcopul Edesei",
+    "short": "Teodor, Episcopul Edesei",
+    "given": "Teodor"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/09/101975-saint-theodore-bishop-of-edessa",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

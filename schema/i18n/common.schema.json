@@ -9,7 +9,7 @@
       "minLength": 1
     },
     "translation": {
-      "description": "Where the text comes from: 'original' (written in this language), 'human' (human translation) or 'machine' (machine translation). Machine-translated texts are not published until their status is 'reviewed' or 'approved'.",
+      "description": "Where the text comes from: 'original' (written in this language), 'human' (human translation) or 'machine' (machine translation). Machine-translated texts are published with a notice that no one has reviewed them, until their status is 'reviewed' or 'approved'.",
       "type": "object",
       "properties": {
         "status": { "enum": ["draft", "machine", "reviewed", "approved"] },

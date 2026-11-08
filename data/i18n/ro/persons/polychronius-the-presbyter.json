@@ -1,0 +1,23 @@
+{
+  "id": "polychronius-the-presbyter",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Policronie preotul",
+    "full": "Sfântul Mucenic Policronie preotul",
+    "short": "Policronie preotul",
+    "given": "Policronie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/07/102896-martyr-polychronius-the-presbyter",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

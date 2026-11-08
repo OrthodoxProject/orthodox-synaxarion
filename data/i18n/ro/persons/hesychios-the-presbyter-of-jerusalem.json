@@ -1,0 +1,23 @@
+{
+  "id": "hesychios-the-presbyter-of-jerusalem",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Isihie, preotul Ierusalimului",
+    "full": "Sfântul Isihie, preotul Ierusalimului",
+    "short": "Isihie, preotul Ierusalimului",
+    "given": "Isihie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/28/100935-saint-hesychios-the-presbyter-of-jerusalem",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

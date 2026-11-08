@@ -1,0 +1,23 @@
+{
+  "id": "jonah-of-novgorod",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Iona, Arhiepiscopul Novgorodului",
+    "full": "Sfântul Ierarh Iona, Arhiepiscopul Novgorodului",
+    "short": "Iona, Arhiepiscopul Novgorodului",
+    "given": "Iona"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/05/103178-repose-of-saint-jonah-archbishop-of-novgorod",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

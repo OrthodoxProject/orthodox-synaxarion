@@ -1,0 +1,20 @@
+{
+  "id": "martyr-susanna-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Fecioară Suzana și cei împreună cu ea, la Roma"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/11/102268-virgin-martyr-susanna-and-those-with-her-at-rome",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

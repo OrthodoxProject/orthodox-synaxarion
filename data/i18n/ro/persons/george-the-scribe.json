@@ -1,0 +1,23 @@
+{
+  "id": "george-the-scribe",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Gheorghe Scribul",
+    "full": "Sfântul Cuvios Gheorghe Scribul",
+    "short": "Gheorghe Scribul",
+    "given": "Gheorghe"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/19/205498-venerable-george-the-scribe-and-venerable-savva-of-khakhuli",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

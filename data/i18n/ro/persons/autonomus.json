@@ -1,0 +1,23 @@
+{
+  "id": "autonomus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Avtonom, episcop în Italia",
+    "full": "Sfântul Sfințit Mucenic Avtonom, episcop în Italia",
+    "short": "Avtonom, episcop în Italia",
+    "given": "Avtonom"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/12/102585-hieromartyr-autonomus-bishop-in-italy",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

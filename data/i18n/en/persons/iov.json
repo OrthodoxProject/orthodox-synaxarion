@@ -1,0 +1,27 @@
+{
+  "id": "iov",
+  "locale": "en",
+  "names": {
+    "display": "Righteous Job the Long-suffering",
+    "short": "Job the Long-suffering",
+    "given": "Job"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-dreptul-iov-mult-rabdatorul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/injumatatirea-cincizecimii-sf-si-dreptul-iov-mult-rabdatorul-sf-mc-varvar-dezlegare-la-peste/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

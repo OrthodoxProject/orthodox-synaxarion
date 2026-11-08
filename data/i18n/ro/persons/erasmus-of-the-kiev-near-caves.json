@@ -1,0 +1,23 @@
+{
+  "id": "erasmus-of-the-kiev-near-caves",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Erasm de la Peșterile Apropiate din Kiev",
+    "full": "Sfântul Cuvios Erasm de la Peșterile Apropiate din Kiev",
+    "short": "Erasm de la Peșterile Apropiate din Kiev",
+    "given": "Erasm"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/24/100604-venerable-erasmus-of-the-kiev-near-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

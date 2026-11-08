@@ -1,0 +1,27 @@
+{
+  "id": "tarah",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Tarachus",
+    "short": "Tarachus",
+    "given": "Tarachus"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-tarah",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-prov-tarah-si-andronic-sf-ier-cosma-episcopul-maiumei/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

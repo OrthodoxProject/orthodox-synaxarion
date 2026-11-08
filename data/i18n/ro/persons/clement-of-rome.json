@@ -1,0 +1,23 @@
+{
+  "id": "clement-of-rome",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Clement, Papa Romei",
+    "full": "Sfântul Sfințit Mucenic Clement, Papa Romei",
+    "short": "Clement, Papa Romei",
+    "given": "Clement"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/25/103393-hieromartyr-clement-pope-of-rome",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

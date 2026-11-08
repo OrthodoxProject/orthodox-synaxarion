@@ -1,0 +1,20 @@
+{
+  "id": "forty-martyrs",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții 40 de Mucenici"
+  },
+  "references": [
+    {
+      "source": "src:armenianchurch-ge",
+      "url": "https://armenianchurch.ge/en/kalendar-prazdnikov/description-2/march/commemoration-of-the-forty-holy-martyrs",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

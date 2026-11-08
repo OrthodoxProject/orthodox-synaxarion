@@ -1,0 +1,22 @@
+{
+  "id": "varnavas-dohiaritul",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Barnabas the Dochiarite",
+    "short": "Barnabas the Dochiarite",
+    "given": "Barnabas"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cuviosul-varnavas-dohiaritul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

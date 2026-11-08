@@ -1,0 +1,23 @@
+{
+  "id": "arsenius-of-kerkyra",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Arsenie, Arhiepiscopul Kerkirei",
+    "full": "Sfântul Ierarh Arsenie, Arhiepiscopul Kerkirei",
+    "short": "Arsenie, Arhiepiscopul Kerkirei",
+    "given": "Arsenie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/19/100235-saint-arsenius-archbishop-of-kerkyra",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

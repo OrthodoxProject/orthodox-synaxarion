@@ -1,0 +1,23 @@
+{
+  "id": "david-of-serpukhov",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. David din Serpuhov",
+    "full": "Sfântul David din Serpuhov",
+    "short": "David din Serpuhov",
+    "given": "David"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/18/108927-saint-david-of-serpukhov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "bridgit",
+  "locale": "en",
+  "names": {
+    "display": "Saint Brigid, Patroness of Ireland",
+    "short": "Brigid, Patroness of Ireland",
+    "given": "Brigid"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-bridgit-ocrotitoarea-irlandei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

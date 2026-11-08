@@ -1,0 +1,23 @@
+{
+  "id": "baradates",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Varadat, pustnicul din Siria",
+    "full": "Sfântul Cuvios Varadat, pustnicul din Siria",
+    "short": "Varadat, pustnicul din Siria",
+    "given": "Varadat"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/22/100587-venerable-baradates-hermit-of-syria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

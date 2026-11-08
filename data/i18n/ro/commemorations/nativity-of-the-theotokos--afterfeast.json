@@ -1,0 +1,30 @@
+{
+  "id": "nativity-of-the-theotokos--afterfeast",
+  "locale": "ro",
+  "names": {
+    "display": "După-prăznuirea Nașterii Maicii Domnului"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/09/102545-afterfeast-of-the-nativity-of-the-mother-of-god",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/10/102556-afterfeast-of-the-nativity-of-the-mother-of-god",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/11/102569-afterfeast-of-the-nativity-of-the-mother-of-god",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "thomas-of-shentalet",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Toma din Șentalet",
+    "full": "Sfântul Toma din Șentalet",
+    "short": "Toma din Șentalet",
+    "given": "Toma"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/10_27.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

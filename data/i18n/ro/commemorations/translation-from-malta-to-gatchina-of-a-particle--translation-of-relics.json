@@ -1,0 +1,20 @@
+{
+  "id": "translation-from-malta-to-gatchina-of-a-particle--translation-of-relics",
+  "locale": "ro",
+  "names": {
+    "display": "Aducerea din Malta la Gatcina a unei părticele din Crucea de viață făcătoare, a Icoanei Maicii Domnului de la Filermos și a mâinii drepte a Sf. Ioan Botezătorul"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/12/102950-translation-from-malta-to-gatchina-of-a-particle-of-the-life-giv",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "bogolep",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Bogolep, ucenicul Sf. Paisie din Uglici",
+    "full": "Sfântul Bogolep, ucenicul Sfântului Paisie din Uglici",
+    "short": "Bogolep, ucenicul Sf. Paisie din Uglici",
+    "given": "Bogolep"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/22/108976-saint-bogolep-disciple-of-saint-paisius-of-uglich",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

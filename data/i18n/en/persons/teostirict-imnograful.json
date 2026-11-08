@@ -1,0 +1,22 @@
+{
+  "id": "teostirict-imnograful",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Theosterictus the Hymnographer",
+    "short": "Theosterictus the Hymnographer",
+    "given": "Theosterictus"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-teostirict-imnograful",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

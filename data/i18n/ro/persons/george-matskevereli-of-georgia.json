@@ -1,0 +1,23 @@
+{
+  "id": "george-matskevereli-of-georgia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Gheorghe Mațkevereli din Georgia",
+    "full": "Sfântul Gheorghe Mațkevereli din Georgia",
+    "short": "Gheorghe Mațkevereli din Georgia",
+    "given": "Gheorghe"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/02/103834-saint-george-matskevereli-of-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

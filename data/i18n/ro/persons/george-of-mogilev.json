@@ -1,0 +1,23 @@
+{
+  "id": "george-of-mogilev",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Gheorghe, Arhiepiscopul de Moghilev, Belarus",
+    "full": "Sfântul Ierarh Gheorghe, Arhiepiscopul de Moghilev, Belarus",
+    "short": "Gheorghe, Arhiepiscopul de Moghilev, Belarus",
+    "given": "Gheorghe"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/13/100415-saint-george-archbishop-of-mogilev-belarus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

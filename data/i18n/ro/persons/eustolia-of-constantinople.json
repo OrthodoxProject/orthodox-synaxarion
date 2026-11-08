@@ -1,0 +1,23 @@
+{
+  "id": "eustolia-of-constantinople",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Eustolia din Constantinopol",
+    "full": "Sfânta Eustolia din Constantinopol",
+    "short": "Eustolia din Constantinopol",
+    "given": "Eustolia"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/09/103259-saint-eustolia-of-constantinople",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

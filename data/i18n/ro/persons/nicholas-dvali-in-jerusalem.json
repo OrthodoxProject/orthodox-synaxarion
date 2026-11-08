@@ -1,0 +1,23 @@
+{
+  "id": "nicholas-dvali-in-jerusalem",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Nicolae Dvali din Ierusalim",
+    "full": "Sfântul Mucenic Nicolae Dvali din Ierusalim",
+    "short": "Nicolae Dvali din Ierusalim",
+    "given": "Nicolae"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/12/103815-martyr-nicholas-nikoloz-dvali-in-jerusalem",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

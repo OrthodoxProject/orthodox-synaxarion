@@ -1,0 +1,33 @@
+{
+  "id": "helena",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Elena, împărăteasa",
+    "full": "Sfânta Elena, împărăteasa",
+    "short": "Elena, împărăteasa",
+    "given": "Elena"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/8_28.html?lang=en#1",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/9_4.html?lang=en#1",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/9_9.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

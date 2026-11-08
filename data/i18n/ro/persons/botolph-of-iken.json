@@ -1,0 +1,28 @@
+{
+  "id": "botolph-of-iken",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Botolf din Iken",
+    "full": "Sfântul Cuvios Botolf din Iken",
+    "short": "Botolf din Iken",
+    "given": "Botolf"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/17/100317-venerable-botolph-of-iken",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/01/100343-venerable-botolph-of-iken",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

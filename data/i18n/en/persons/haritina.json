@@ -1,0 +1,27 @@
+{
+  "id": "haritina",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Charitina",
+    "short": "Charitina",
+    "given": "Charitina"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-haritina",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-daniil-si-misail-de-la-manastirea-turnu-sf-mc-haritina/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

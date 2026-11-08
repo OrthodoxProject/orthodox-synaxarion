@@ -1,0 +1,27 @@
+{
+  "id": "ioan-of-rasca-and-secu",
+  "locale": "en",
+  "names": {
+    "display": "Saint John of Râșca and Secu, Bishop of Roman",
+    "short": "John of Râșca and Secu, Bishop of Roman",
+    "given": "John"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-ioan-de-la-rasca-secu-episcopul-romanului",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ierarhi-varlaam-mitropolitul-moldovei-si-ioan-de-la-rasca-si-secu-episcopul-romanului-sf-ierarhi-alexandru-ioan-si-pavel-cel-nou-arhiepiscopii-constantinopolului-duminica-a-13-a/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

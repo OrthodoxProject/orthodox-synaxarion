@@ -1,0 +1,22 @@
+{
+  "id": "platon-2",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Plato",
+    "short": "Plato",
+    "given": "Plato"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-platon",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

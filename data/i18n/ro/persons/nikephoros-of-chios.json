@@ -1,0 +1,23 @@
+{
+  "id": "nikephoros-of-chios",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Nichifor din Chios",
+    "full": "Sfântul Cuvios Nichifor din Chios",
+    "short": "Nichifor din Chios",
+    "given": "Nichifor"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/01/101262-venerable-nikphros-of-chios",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

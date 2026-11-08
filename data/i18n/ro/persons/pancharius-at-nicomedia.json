@@ -1,0 +1,23 @@
+{
+  "id": "pancharius-at-nicomedia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Panharie din Nicomidia",
+    "full": "Sfântul Mucenic Panharie din Nicomidia",
+    "short": "Panharie din Nicomidia",
+    "given": "Panharie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/19/100839-martyr-pancharius-at-nicomedia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

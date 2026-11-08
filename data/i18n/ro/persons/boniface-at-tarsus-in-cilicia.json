@@ -1,0 +1,23 @@
+{
+  "id": "boniface-at-tarsus-in-cilicia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Bonifatie din Tarsul Ciliciei",
+    "full": "Sfântul Mucenic Bonifatie din Tarsul Ciliciei",
+    "short": "Bonifatie din Tarsul Ciliciei",
+    "given": "Bonifatie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/19/103583-martyr-boniface-at-tarsus-in-cilicia-and-righteous-aglaa-of-rome",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

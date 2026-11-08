@@ -1,0 +1,20 @@
+{
+  "id": "icon-of-theotokos-zaonikievskaya",
+  "locale": "en",
+  "names": {
+    "display": "Icon of the Mother of God \"Zaonikievskaya\""
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoanei-maicii-domnului-zaonikievskaya",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

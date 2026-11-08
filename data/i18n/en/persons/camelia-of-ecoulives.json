@@ -1,0 +1,22 @@
+{
+  "id": "camelia-of-ecoulives",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Camilla of Escolives",
+    "short": "Camilla of Escolives",
+    "given": "Camilla"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-camelia-din-ecoulives",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

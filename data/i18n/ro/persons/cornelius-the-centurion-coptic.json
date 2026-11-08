@@ -1,0 +1,23 @@
+{
+  "id": "cornelius-the-centurion-coptic",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Corneliu Sutașul",
+    "full": "Sfântul Corneliu Sutașul",
+    "short": "Corneliu Sutașul",
+    "given": "Corneliu"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/3_23.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

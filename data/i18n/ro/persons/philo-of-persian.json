@@ -1,0 +1,23 @@
+{
+  "id": "philo-of-persian",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Filon, Episcopul perșilor",
+    "full": "Sfântul Ierarh Filon, Episcopul perșilor",
+    "short": "Filon, Episcopul perșilor",
+    "given": "Filon"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/6_10.html?lang=en#4",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

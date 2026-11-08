@@ -1,0 +1,23 @@
+{
+  "id": "mark-coptic",
+  "locale": "ro",
+  "names": {
+    "display": "Marele Sf. Marcu, Apostolul și Evanghelistul țării Egiptului",
+    "full": "Marele Sfânt Marcu, Apostolul și Evanghelistul țării Egiptului",
+    "short": "Marcu, Apostolul și Evanghelistul țării Egiptului",
+    "given": "Marcu"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/8_30.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

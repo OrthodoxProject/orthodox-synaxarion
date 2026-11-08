@@ -1,0 +1,23 @@
+{
+  "id": "diodorus-4",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Diodor",
+    "full": "Sfântul Mucenic Diodor",
+    "short": "Diodor",
+    "given": "Diodor"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/11/102576-martyrs-diodorus-didymus-and-diomedes-of-laodicea",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

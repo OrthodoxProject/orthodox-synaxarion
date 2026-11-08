@@ -1,0 +1,23 @@
+{
+  "id": "mark-the-grave-digger",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Marcu groparul, Teofil",
+    "full": "Sfântul Cuvios Marcu groparul, Teofil",
+    "short": "Marcu groparul, Teofil",
+    "given": "Marcu"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/29/103684-venerable-mark-the-grave-digger-theophilus-and-john-of-the-kiev",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

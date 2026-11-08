@@ -1,0 +1,22 @@
+{
+  "id": "arsenie-capadocianul",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Arsenius the Cappadocian",
+    "short": "Arsenius the Cappadocian",
+    "given": "Arsenius"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-arsenie-capadocianul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

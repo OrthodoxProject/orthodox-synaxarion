@@ -1,0 +1,28 @@
+{
+  "id": "gregory-of-armenians",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Grigorie, Patriarhul armenilor",
+    "full": "Sfântul Ierarh Grigorie, Patriarhul armenilor",
+    "short": "Grigorie, Patriarhul armenilor",
+    "given": "Grigorie"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/1_19.html?lang=en#1",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/4_15.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

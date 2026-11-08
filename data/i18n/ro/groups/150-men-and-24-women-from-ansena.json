@@ -1,0 +1,20 @@
+{
+  "id": "150-men-and-24-women-from-ansena",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții 150 de bărbați și 24 de femei din Ansena"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/4_28.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

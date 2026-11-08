@@ -1,0 +1,22 @@
+{
+  "id": "calist-angelicoudes",
+  "locale": "en",
+  "names": {
+    "display": "Saint Callistus Angelicoudes",
+    "short": "Callistus Angelicoudes",
+    "given": "Callistus"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-calist-angelicoudes",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "cladianus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Cladian (Celadion), al nouălea Papă al Scaunului Sf. Marcu",
+    "full": "Sfântul Ierarh Cladian (Celadion), al nouălea Papă al Scaunului Sfântului Marcu",
+    "short": "Cladian, al nouălea Papă al Scaunului Sf. Marcu",
+    "given": "Cladian"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/11_9.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

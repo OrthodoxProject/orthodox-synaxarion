@@ -1,0 +1,23 @@
+{
+  "id": "eudokia-of-persia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Evdochia din Persia",
+    "full": "Sfânta Muceniță Evdochia din Persia",
+    "short": "Evdochia din Persia",
+    "given": "Evdochia"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/04/102203-martyr-eudokia-of-persia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

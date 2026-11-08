@@ -1,0 +1,23 @@
+{
+  "id": "leparius-of-rome",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Liberie, Episcopul Romei",
+    "full": "Sfântul Ierarh Liberie, Episcopul Romei",
+    "short": "Liberie, Episcopul Romei",
+    "given": "Liberie"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/13_4.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "nikodemos-of-belgorod",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Nicodim, Episcopul Belgorodului",
+    "full": "Sfântul Sfințit Mucenic Nicodim, Episcopul Belgorodului",
+    "short": "Nicodim, Episcopul Belgorodului",
+    "given": "Nicodim"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/28/100316-hieromartyr-ikdmos-bishop-of-belgorod",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

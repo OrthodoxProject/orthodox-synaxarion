@@ -1,0 +1,23 @@
+{
+  "id": "ambrose-of-milan",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ambrozie, Episcopul Mediolanului",
+    "full": "Sfântul Ierarh Ambrozie, Episcopul Mediolanului",
+    "short": "Ambrozie, Episcopul Mediolanului",
+    "given": "Ambrozie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/07/103485-saint-ambrose-bishop-of-milan",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

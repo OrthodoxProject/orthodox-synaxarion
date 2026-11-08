@@ -1,0 +1,23 @@
+{
+  "id": "brihtwald-of-wilton",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Brihtwald din Wilton",
+    "full": "Sfântul Brihtwald din Wilton",
+    "short": "Brihtwald din Wilton",
+    "given": "Brihtwald"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/22/100276-saint-brihtwald-of-wilton",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "zosimus-of-phoenicia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Zosima din Fenicia, Siria",
+    "full": "Sfântul Cuvios Zosima din Fenicia, Siria",
+    "short": "Zosima din Fenicia, Siria",
+    "given": "Zosima"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/08/101667-venerable-zosimus-of-phoenicia-syria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

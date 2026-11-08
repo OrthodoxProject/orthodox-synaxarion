@@ -1,0 +1,23 @@
+{
+  "id": "amphilokhios-of-iconium",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Amfilohie, Episcopul Iconiului",
+    "full": "Sfântul Ierarh Amfilohie, Episcopul Iconiului",
+    "short": "Amfilohie, Episcopul Iconiului",
+    "given": "Amfilohie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/23/103375-saint-amphilokhios-bishop-of-iconium",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

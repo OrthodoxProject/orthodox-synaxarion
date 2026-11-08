@@ -1,0 +1,33 @@
+{
+  "id": "john-iv",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ioan al IV-lea, al 48-lea Papă al Alexandriei",
+    "full": "Sfântul Ierarh Ioan al IV-lea, al 48-lea Papă al Alexandriei",
+    "short": "Ioan al IV-lea, al 48-lea Papă al Alexandriei",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/5_16.html?lang=en#2",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/10_10.html?lang=en#3",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/13_5.html?lang=en#4",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

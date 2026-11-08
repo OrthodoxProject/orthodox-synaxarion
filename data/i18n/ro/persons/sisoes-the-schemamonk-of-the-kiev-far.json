@@ -1,0 +1,23 @@
+{
+  "id": "sisoes-the-schemamonk-of-the-kiev-far",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Sisoe schimonahul, de la Peșterile Depărtate din Kiev",
+    "full": "Sfântul Cuvios Sisoe schimonahul, de la Peșterile Depărtate din Kiev",
+    "short": "Sisoe schimonahul, de la Peșterile Depărtate din Kiev",
+    "given": "Sisoe"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/06/101919-venerable-sisoes-the-schemamonk-of-the-kiev-far-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

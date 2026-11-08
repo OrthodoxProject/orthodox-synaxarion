@@ -1,0 +1,20 @@
+{
+  "id": "founders-icon-of-theotokos-at-vatopedi-monastery",
+  "locale": "ro",
+  "names": {
+    "display": "Icoana Maicii Domnului „Ctitorița” de la Mănăstirea Vatoped"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/12/100538-founders-icon-of-the-mother-of-god-at-vatopedi-monastery",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

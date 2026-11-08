@@ -1,0 +1,23 @@
+{
+  "id": "euphrosyne",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Eufrosina",
+    "full": "Sfânta Cuvioasă Muceniță Eufrosina",
+    "short": "Eufrosina",
+    "given": "Eufrosina"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/11/100128-holy-monastic-martyrs-olympia-and-euphrosyn",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

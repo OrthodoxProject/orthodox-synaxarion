@@ -1,0 +1,23 @@
+{
+  "id": "bassian-of-tiksnensk",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Vasian din Tiksnensk, Vologda",
+    "full": "Sfântul Cuvios Vasian din Tiksnensk, Vologda",
+    "short": "Vasian din Tiksnensk, Vologda",
+    "given": "Vasian"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/12/102586-venerable-bassian-of-tiksnensk-vologda",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

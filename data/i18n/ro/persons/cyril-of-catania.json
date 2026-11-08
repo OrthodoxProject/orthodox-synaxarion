@@ -1,0 +1,23 @@
+{
+  "id": "cyril-of-catania",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Chiril, Episcopul Cataniei",
+    "full": "Sfântul Ierarh Chiril, Episcopul Cataniei",
+    "short": "Chiril, Episcopul Cataniei",
+    "given": "Chiril"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/21/100859-saint-cyril-bishop-of-catania",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

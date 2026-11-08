@@ -1,0 +1,23 @@
+{
+  "id": "aristion-of-alexandria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Aristion, Episcopul Alexandriei",
+    "full": "Sfântul Sfințit Mucenic Aristion, Episcopul Alexandriei",
+    "short": "Aristion, Episcopul Alexandriei",
+    "given": "Aristion"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/03/102483-hieromartyr-aristion-bishop-of-alexandria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "saints-of-volhynia",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții din Volînia"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/10/102923-synaxis-of-the-saints-of-volhynia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

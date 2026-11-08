@@ -1,0 +1,23 @@
+{
+  "id": "susanna-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Fecioară Suzana din Salerno",
+    "full": "Sfânta Muceniță Fecioară Suzana din Salerno",
+    "short": "Suzana din Salerno",
+    "given": "Suzana"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/06/101636-virgin-martyrs-archelais-thekla-and-susanna-at-salerno",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "philothea-the-monastic",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Filoteia",
+    "full": "Sfânta Cuvioasă Muceniță Filoteia",
+    "short": "Filoteia",
+    "given": "Filoteia"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/19/109056-martyr-philothea-the-monastic",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "moloug-of-lismore",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Molug din Lismore",
+    "full": "Sfântul Molug din Lismore",
+    "short": "Molug din Lismore",
+    "given": "Molug"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/25/100344-saint-moloug-of-lismore",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

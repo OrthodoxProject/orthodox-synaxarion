@@ -1,0 +1,23 @@
+{
+  "id": "matthew-of-zaransk",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Matei din Zaransk",
+    "full": "Sfântul Cuvios Matei din Zaransk",
+    "short": "Matei din Zaransk",
+    "given": "Matei"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/27/100436-venerable-matthew-of-zaransk",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

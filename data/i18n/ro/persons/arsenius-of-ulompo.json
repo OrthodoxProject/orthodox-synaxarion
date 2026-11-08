@@ -1,0 +1,23 @@
+{
+  "id": "arsenius-of-ulompo",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Arsenie din Ulompo, Georgia",
+    "full": "Sfântul Arsenie din Ulompo, Georgia",
+    "short": "Arsenie din Ulompo, Georgia",
+    "given": "Arsenie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/03/103842-saints-michael-and-arsenius-of-ulompo-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

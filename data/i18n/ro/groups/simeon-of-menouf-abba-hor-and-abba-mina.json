@@ -1,0 +1,20 @@
+{
+  "id": "simeon-of-menouf-abba-hor-and-abba-mina",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Simeon din Menuf, Ava Hor și Ava Mina cel Bătrân"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/4_14.html?lang=en#3",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

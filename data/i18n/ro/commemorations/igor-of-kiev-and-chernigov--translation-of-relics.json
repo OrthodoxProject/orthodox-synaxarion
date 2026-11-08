@@ -1,0 +1,20 @@
+{
+  "id": "igor-of-kiev-and-chernigov--translation-of-relics",
+  "locale": "ro",
+  "names": {
+    "display": "Aducerea moaștelor Sf. Binecredinciosul Igor-Gheorghe, în monahism Gavriil, marele cneaz al Cernigovului și al Kievului"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/05/101611-translation-of-the-relics-of-the-right-believing-igor-george-ton",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

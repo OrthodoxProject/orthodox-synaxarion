@@ -1,0 +1,23 @@
+{
+  "id": "theogenes-of-parium",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Teoghen, Episcopul Pariului de pe Helespont",
+    "full": "Sfântul Sfințit Mucenic Teoghen, Episcopul Pariului de pe Helespont",
+    "short": "Teoghen, Episcopul Pariului de pe Helespont",
+    "given": "Teoghen"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/02/100011-hieromartyr-theogenes-bishop-of-parium-on-the-hellespont",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

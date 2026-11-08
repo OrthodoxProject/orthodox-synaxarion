@@ -1,0 +1,23 @@
+{
+  "id": "theodore-of-novgorod-the-fool-for-christ",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Drept Teodor din Novgorod, cel nebun pentru Hristos",
+    "full": "Sfântul Drept Teodor din Novgorod, cel nebun pentru Hristos",
+    "short": "Teodor din Novgorod, cel nebun pentru Hristos",
+    "given": "Teodor"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/19/100231-righteous-theodore-of-novgorod-the-fool-for-christ",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

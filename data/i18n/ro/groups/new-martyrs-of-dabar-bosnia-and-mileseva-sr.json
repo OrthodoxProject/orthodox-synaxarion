@@ -1,0 +1,20 @@
+{
+  "id": "new-martyrs-of-dabar-bosnia-and-mileseva-sr",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Noi Mucenici din Dabar-Bosnia și Mileșeva"
+  },
+  "references": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

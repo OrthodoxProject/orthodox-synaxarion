@@ -1,0 +1,23 @@
+{
+  "id": "metrophanes-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Mitrofan (Chang Tzi-tzung), primul preot chinez, și mucenicii Răscoalei Boxerilor din China",
+    "full": "Sfântul Sfințit Mucenic Mitrofan (Chang Tzi-tzung), primul preot chinez, și mucenicii Răscoalei Boxerilor din China",
+    "short": "Mitrofan, primul preot chinez, și mucenicii Răscoalei Boxerilor din China",
+    "given": "Mitrofan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/11/205368-hieromartyr-metrophanes-chang-tzi-tzung-first-chinese-priest-and",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

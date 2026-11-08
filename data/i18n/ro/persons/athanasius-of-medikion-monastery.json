@@ -1,0 +1,23 @@
+{
+  "id": "athanasius-of-medikion-monastery",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Atanasie de la Mănăstirea Midichiu",
+    "full": "Sfântul Cuvios Atanasie de la Mănăstirea Midichiu",
+    "short": "Atanasie de la Mănăstirea Midichiu",
+    "given": "Atanasie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/26/103063-venerable-athanasius-of-medikion-monastery",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

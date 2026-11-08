@@ -1,0 +1,22 @@
+{
+  "id": "abriamus",
+  "locale": "ro",
+  "names": {
+    "display": "Papa Abriam (Prim), al cincilea Patriarh al Alexandriei",
+    "short": "Abriam, al cincilea Patriarh al Alexandriei",
+    "given": "Abriam"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/12_3.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

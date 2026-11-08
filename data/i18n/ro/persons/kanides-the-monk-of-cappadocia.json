@@ -1,0 +1,23 @@
+{
+  "id": "kanides-the-monk-of-cappadocia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Canide monahul, din Capadocia",
+    "full": "Sfântul Cuvios Canide monahul, din Capadocia",
+    "short": "Canide monahul, din Capadocia",
+    "given": "Canide"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/10/100481-saint-kanides-the-monk-of-cappadocia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

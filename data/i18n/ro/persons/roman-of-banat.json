@@ -1,0 +1,23 @@
+{
+  "id": "roman-of-banat",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Roman din Banat",
+    "full": "Sfântul Roman din Banat",
+    "short": "Roman din Banat",
+    "given": "Roman"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/16/108055-saint-roman-of-banat",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

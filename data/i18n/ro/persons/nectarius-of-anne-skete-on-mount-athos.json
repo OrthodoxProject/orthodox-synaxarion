@@ -1,0 +1,23 @@
+{
+  "id": "nectarius-of-anne-skete-on-mount-athos",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Nectarie de la Schitul Sfânta Ana, Muntele Athos",
+    "full": "Sfântul Cuvios Mucenic Nectarie de la Schitul Sfânta Ana, Muntele Athos",
+    "short": "Nectarie de la Schitul Sfânta Ana, Muntele Athos",
+    "given": "Nectarie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/10/102001-monastic-martyr-nectarius-of-saint-anne-skete-on-mount-athos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "raiko-of-bulgaria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Noul Mc. Raiko (Ioan) din Bulgaria",
+    "full": "Sfântul Noul Mucenic Raiko (Ioan) din Bulgaria",
+    "short": "Raiko din Bulgaria",
+    "given": "Raiko"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/14/108010-new-martyr-raiko-john-of-bulgaria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

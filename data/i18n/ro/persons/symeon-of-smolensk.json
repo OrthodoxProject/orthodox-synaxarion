@@ -1,0 +1,22 @@
+{
+  "id": "symeon-of-smolensk",
+  "locale": "ro",
+  "names": {
+    "display": "Mitropolitul Simeon al Smolenskului",
+    "short": "Simeon al Smolenskului",
+    "given": "Simeon"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/04/100447-metropolitan-symeon-of-smolensk",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

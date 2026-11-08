@@ -1,0 +1,23 @@
+{
+  "id": "stephen",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ștefan (în monahism Simeon), Izvorâtorul de mir și cneazul Serbiei",
+    "full": "Sfântul Cuvios Ștefan (în monahism Simeon), Izvorâtorul de mir și cneazul Serbiei",
+    "short": "Ștefan, Izvorâtorul de mir și cneazul Serbiei",
+    "given": "Ștefan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/13/100514-venerable-stephen-in-monasticism-simeon-the-myrrhgusher-and-prin",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

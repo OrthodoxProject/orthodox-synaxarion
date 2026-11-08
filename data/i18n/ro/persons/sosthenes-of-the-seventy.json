@@ -1,0 +1,23 @@
+{
+  "id": "sosthenes-of-the-seventy",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ap. Sostene",
+    "full": "Sfântul Apostol Sostene",
+    "short": "Sostene",
+    "given": "Sostene"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/30/100946-apostle-sosthenes-of-the-seventy",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

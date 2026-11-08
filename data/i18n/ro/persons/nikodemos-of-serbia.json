@@ -1,0 +1,23 @@
+{
+  "id": "nikodemos-of-serbia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Nicodim, Arhiepiscopul Serbiei",
+    "full": "Sfântul Ierarh Nicodim, Arhiepiscopul Serbiei",
+    "short": "Nicodim, Arhiepiscopul Serbiei",
+    "given": "Nicodim"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/11/101354-saint-nikodemos-archbishop-of-serbia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

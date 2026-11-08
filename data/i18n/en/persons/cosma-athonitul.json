@@ -1,0 +1,22 @@
+{
+  "id": "cosma-athonitul",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Martyr Cosmas of Mount Athos",
+    "short": "Cosmas of Mount Athos",
+    "given": "Cosmas"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-mucenic-cosma-athonitul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

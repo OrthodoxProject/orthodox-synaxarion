@@ -1,0 +1,27 @@
+{
+  "id": "ioan-of-gotia",
+  "locale": "en",
+  "names": {
+    "display": "Saint John, Bishop of Gothia",
+    "short": "John, Bishop of Gothia",
+    "given": "John"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-ioan-episcopul-gotiei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-david-din-tesalonic-sf-ier-ioan-episcopul-gotiei/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

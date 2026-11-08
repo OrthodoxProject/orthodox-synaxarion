@@ -1,0 +1,27 @@
+{
+  "id": "eugenia",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Eugenia",
+    "short": "Eugenia",
+    "given": "Eugenia"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-eugenia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-mc-eugenia-ajunul-craciunului/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

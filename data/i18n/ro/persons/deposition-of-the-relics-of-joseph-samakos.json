@@ -1,0 +1,23 @@
+{
+  "id": "deposition-of-the-relics-of-joseph-samakos",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Iosif Samakos cel Sfințit",
+    "full": "Sfântul Iosif Samakos cel Sfințit",
+    "short": "Iosif Samakos cel Sfințit",
+    "given": "Iosif"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/29/100187-deposition-of-the-holy-relics-of-saint-joseph-samakos-the-sancti",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

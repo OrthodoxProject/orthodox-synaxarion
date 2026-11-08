@@ -1,0 +1,23 @@
+{
+  "id": "hermes-of-the-seventy",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ap. Ermis",
+    "full": "Sfântul Apostol Ermis",
+    "short": "Ermis",
+    "given": "Ermis"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/08/100701-apostle-hermes-of-the-seventy",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

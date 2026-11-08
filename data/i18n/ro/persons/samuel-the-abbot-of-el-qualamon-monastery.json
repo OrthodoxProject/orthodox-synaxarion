@@ -1,0 +1,23 @@
+{
+  "id": "samuel-the-abbot-of-el-qualamon-monastery",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Samuel, egumenul Mănăstirii El-Qalamon (Ava Samuel Mărturisitorul)",
+    "full": "Sfântul Samuel, egumenul Mănăstirii El-Qalamon (Ava Samuel Mărturisitorul)",
+    "short": "Samuel, egumenul Mănăstirii El-Qalamon",
+    "given": "Samuel"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/4_8.html?lang=en#4",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

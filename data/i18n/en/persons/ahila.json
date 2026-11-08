@@ -1,0 +1,22 @@
+{
+  "id": "ahila",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Achillas",
+    "short": "Achillas",
+    "given": "Achillas"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-ahila",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

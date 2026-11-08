@@ -1,0 +1,22 @@
+{
+  "id": "peter-3",
+  "locale": "ro",
+  "names": {
+    "display": "Fericitul Petru, țarul Bulgariei",
+    "short": "Petru, țarul Bulgariei",
+    "given": "Petru"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/30/100378-blessed-peter-king-of-bulgaria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

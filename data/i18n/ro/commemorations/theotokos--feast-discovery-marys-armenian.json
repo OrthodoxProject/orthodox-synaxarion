@@ -1,0 +1,20 @@
+{
+  "id": "theotokos--feast-discovery-marys-armenian",
+  "locale": "ro",
+  "names": {
+    "display": "Praznicul aflării cutiei Sfintei Fecioare Maria"
+  },
+  "references": [
+    {
+      "source": "src:armenianchurch-ge",
+      "url": "https://armenianchurch.ge/en/kalendar-prazdnikov/description-2/august/discoveryofstmarysbox",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "icon-of-theotokos-indrumatoarea-of-manastirea-neamt",
+  "locale": "en",
+  "names": {
+    "display": "Icon of the Mother of God \"Guide\" of Neamț Monastery"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoane-maicii-domnului-indrumatoarea-de-la-manastirea-neamt",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-cinstirea-sfintei-icoane-a-maicii-domnului-indrumatoarea-de-la-manastirea-neamt-sf-sfintit-mc-pangratie-episcopul-tavromeniei/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

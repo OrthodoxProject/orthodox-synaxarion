@@ -1,0 +1,23 @@
+{
+  "id": "elias-of-tver",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Noul Sfințit Mc. Ilie (Gromoglasov) din Tver",
+    "full": "Sfântul Noul Sfințit Mucenic Ilie (Gromoglasov) din Tver",
+    "short": "Ilie din Tver",
+    "given": "Ilie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/22/103918-new-hieromartyr-elias-gromoglasov-of-tver",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

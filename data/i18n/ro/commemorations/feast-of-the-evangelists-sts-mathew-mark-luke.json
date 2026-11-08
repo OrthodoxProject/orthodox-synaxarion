@@ -1,0 +1,20 @@
+{
+  "id": "feast-of-the-evangelists-sts-mathew-mark-luke",
+  "locale": "ro",
+  "names": {
+    "display": "Praznicul Sfinților Evangheliști Matei, Marcu, Luca și Ioan"
+  },
+  "references": [
+    {
+      "source": "src:armenianchurch-ge",
+      "url": "https://armenianchurch.ge/en/kalendar-prazdnikov/description-2/october/feast-of-the-evangelists-sts-mathew-mark-luke-and-john",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

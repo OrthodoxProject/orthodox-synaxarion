@@ -1,0 +1,23 @@
+{
+  "id": "macarius-of-ovruch",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Macarie, arhimandritul din Ovruci",
+    "full": "Sfântul Cuvios Macarie, arhimandritul din Ovruci",
+    "short": "Macarie, arhimandritul din Ovruci",
+    "given": "Macarie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/13/101366-venerable-macarius-archimandrite-of-ovruch",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "antherus-pope-of-rome",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Anter, Papa Romei",
+    "full": "Sfântul Sfințit Mucenic Anter, Papa Romei",
+    "short": "Anter, Papa Romei",
+    "given": "Anter"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/05/102208-hieromartyr-antherus-antheros-pope-of-rome",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

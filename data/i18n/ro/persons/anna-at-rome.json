@@ -1,0 +1,23 @@
+{
+  "id": "anna-at-rome",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Ana din Roma",
+    "full": "Sfânta Muceniță Ana din Roma",
+    "short": "Ana din Roma",
+    "given": "Ana"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/05/101911-martyr-anna-at-rome",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

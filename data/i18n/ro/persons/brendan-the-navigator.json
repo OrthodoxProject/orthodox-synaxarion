@@ -1,0 +1,23 @@
+{
+  "id": "brendan-the-navigator",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Brendan Navigatorul",
+    "full": "Sfântul Brendan Navigatorul",
+    "short": "Brendan Navigatorul",
+    "given": "Brendan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/16/100267-saint-brendan-the-navigator",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

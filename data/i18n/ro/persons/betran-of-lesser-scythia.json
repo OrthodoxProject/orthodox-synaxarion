@@ -1,0 +1,23 @@
+{
+  "id": "betran-of-lesser-scythia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Bretanion, Episcopul Sciției Mici",
+    "full": "Sfântul Ierarh Bretanion, Episcopul Sciției Mici",
+    "short": "Bretanion, Episcopul Sciției Mici",
+    "given": "Bretanion"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/20/103713-saint-betran-bishop-of-lesser-scythia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

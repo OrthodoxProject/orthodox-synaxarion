@@ -1,0 +1,20 @@
+{
+  "id": "herman-of-kazan--translation-of-relics-2",
+  "locale": "ro",
+  "names": {
+    "display": "A doua aducere a moaștelor Sf. Ier. Gherman, Arhiepiscopul Kazanului"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/23/101790-second-translation-of-the-relics-of-saint-herman-archbishop-of-k",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

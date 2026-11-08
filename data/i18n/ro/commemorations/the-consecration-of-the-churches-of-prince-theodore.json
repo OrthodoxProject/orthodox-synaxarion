@@ -1,0 +1,20 @@
+{
+  "id": "the-consecration-of-the-churches-of-prince-theodore",
+  "locale": "ro",
+  "names": {
+    "display": "Sfințirea bisericilor închinate prințului Teodor, fiul lui Ioan El-Șotbe, și prințului Teodor El-Mișreke"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/3_20.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

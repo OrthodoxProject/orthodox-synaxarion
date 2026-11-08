@@ -1,0 +1,28 @@
+{
+  "id": "theodore-of-alexandria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Teodor din Alexandria",
+    "full": "Sfântul Mucenic Teodor din Alexandria",
+    "short": "Teodor din Alexandria",
+    "given": "Teodor"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/12/102590-martyr-theodore-of-alexandria",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/03/103469-hieromartyr-theodore-archbishop-of-alexandria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "theodos-and-children-of-ephesus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Împărat Teodosie și tinerii din Efes",
+    "full": "Sfântul Împărat Teodosie și tinerii din Efes",
+    "short": "Teodosie și tinerii din Efes",
+    "given": "Teodosie"
+  },
+  "references": [
+    {
+      "source": "src:armenianchurch-ge",
+      "url": "https://armenianchurch.ge/en/kalendar-prazdnikov/description-2/january/sttheodos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

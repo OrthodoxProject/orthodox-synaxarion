@@ -1,0 +1,22 @@
+{
+  "id": "golinduhia-of-persia",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Golinduc of Persia",
+    "short": "Golinduc of Persia",
+    "given": "Golinduc"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-golinduhia-din-persia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

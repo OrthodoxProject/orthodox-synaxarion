@@ -1,0 +1,23 @@
+{
+  "id": "herman",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Gherman, făcătorul de minuni de la Valaam",
+    "full": "Sfântul Cuvios Gherman, făcătorul de minuni de la Valaam",
+    "short": "Gherman, făcătorul de minuni de la Valaam",
+    "given": "Gherman"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/28/101836-venerable-sergius-and-herman-wonderworkers-of-valaam",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

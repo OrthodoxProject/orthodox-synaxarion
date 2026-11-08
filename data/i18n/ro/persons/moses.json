@@ -1,0 +1,23 @@
+{
+  "id": "moses",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Moise, nevoitor în pustiile Siriei",
+    "full": "Sfântul Cuvios Moise, nevoitor în pustiile Siriei",
+    "short": "Moise, nevoitor în pustiile Siriei",
+    "given": "Moise"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/23/100594-venerable-moses-ascetic-of-the-syrian-deserts",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

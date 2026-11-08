@@ -1,0 +1,23 @@
+{
+  "id": "euphrosyne-of-polotsk",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Eufrosina, stareța din Poloțk",
+    "full": "Sfânta Cuvioasă Eufrosina, stareța din Poloțk",
+    "short": "Eufrosina, stareța din Poloțk",
+    "given": "Eufrosina"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/23/101499-venerable-euphrosyne-abbess-of-polotsk",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "george-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Gheorghe",
+    "full": "Sfântul Sfințit Mucenic Gheorghe",
+    "short": "Gheorghe",
+    "given": "Gheorghe"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/04/205319-hieromartyr-george",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

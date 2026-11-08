@@ -1,0 +1,23 @@
+{
+  "id": "damian-of-mesopotamia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Damian din Mesopotamia, doctor fără de arginți și făcător de minuni",
+    "full": "Sfântul Damian din Mesopotamia, doctor fără de arginți și făcător de minuni",
+    "short": "Damian din Mesopotamia",
+    "given": "Damian"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/01/103133-holy-wonderworkers-and-unmercenaries-cosmas-and-damian-of-mesopo",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

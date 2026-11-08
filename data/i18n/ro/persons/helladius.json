@@ -1,0 +1,23 @@
+{
+  "id": "helladius",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Eladie din Libia",
+    "full": "Sfântul Mucenic Eladie din Libia",
+    "short": "Eladie din Libia",
+    "given": "Eladie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/08/100121-martyrs-theophilus-the-deacon-and-helladius-in-libya",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

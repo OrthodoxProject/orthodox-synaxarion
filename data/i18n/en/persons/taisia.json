@@ -1,0 +1,27 @@
+{
+  "id": "taisia",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Thaisia",
+    "short": "Thaisia",
+    "given": "Thaisia"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-taisia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-pelaghia-si-taisia/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

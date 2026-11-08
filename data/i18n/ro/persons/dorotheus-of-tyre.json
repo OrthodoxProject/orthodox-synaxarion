@@ -1,0 +1,23 @@
+{
+  "id": "dorotheus-of-tyre",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Dorotei, Episcopul Tirului",
+    "full": "Sfântul Sfințit Mucenic Dorotei, Episcopul Tirului",
+    "short": "Dorotei, Episcopul Tirului",
+    "given": "Dorotei"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/05/101610-hieromartyr-dorotheus-bishop-of-tyre",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

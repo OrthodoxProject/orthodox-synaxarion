@@ -1,0 +1,23 @@
+{
+  "id": "athanasios",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Atanasie, Sf. Cuv. Antuza și cei împreună cu ei",
+    "full": "Sfântul Sfințit Mucenic Atanasie, Sfânta Cuvioasă Antuza și cei împreună cu ei",
+    "short": "Atanasie, Antuza și cei împreună cu ei",
+    "given": "Atanasie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/22/102370-hieromartyr-athanasios-venerable-anthousa-and-others",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

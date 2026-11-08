@@ -1,0 +1,23 @@
+{
+  "id": "chaeremon-of-alexandria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Cheremon din Alexandria",
+    "full": "Sfântul Mucenic Cheremon din Alexandria",
+    "short": "Cheremon din Alexandria",
+    "given": "Cheremon"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/04/102857-martyrs-gaius-faustus-eusebius-and-chaeremon-of-alexandria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

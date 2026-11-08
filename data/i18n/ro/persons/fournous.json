@@ -1,0 +1,23 @@
+{
+  "id": "fournous",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Furnus, unul dintre cei 70 de ucenici",
+    "full": "Sfântul Furnus, unul dintre cei 70 de ucenici",
+    "short": "Furnus, unul dintre cei 70 de ucenici",
+    "given": "Furnus"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/9_30.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

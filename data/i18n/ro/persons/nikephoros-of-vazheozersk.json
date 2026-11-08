@@ -1,0 +1,23 @@
+{
+  "id": "nikephoros-of-vazheozersk",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Nichifor de la Vajeozersk",
+    "full": "Sfântul Cuvios Nichifor de la Vajeozersk",
+    "short": "Nichifor de la Vajeozersk",
+    "given": "Nichifor"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/09/100469-venerable-nikphros-of-vazheozersk",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

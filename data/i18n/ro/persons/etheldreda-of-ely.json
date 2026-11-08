@@ -1,0 +1,23 @@
+{
+  "id": "etheldreda-of-ely",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Etheldreda din Ely",
+    "full": "Sfânta Etheldreda din Ely",
+    "short": "Etheldreda din Ely",
+    "given": "Etheldreda"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/23/100477-saint-etheldreda-of-ely",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

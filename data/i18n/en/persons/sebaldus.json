@@ -1,0 +1,22 @@
+{
+  "id": "sebaldus",
+  "locale": "en",
+  "names": {
+    "display": "Saint Sebald, Patron of the City of Nuremberg",
+    "short": "Sebald, Patron of the City of Nuremberg",
+    "given": "Sebald"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-sebaldus-ocrotitorul-orasului-nurnberg",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

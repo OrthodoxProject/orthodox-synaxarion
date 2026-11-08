@@ -1,0 +1,23 @@
+{
+  "id": "antipater-of-bostra",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Antipatru, Episcopul Bostrei, în Arabia",
+    "full": "Sfântul Ierarh Antipatru, Episcopul Bostrei, în Arabia",
+    "short": "Antipatru, Episcopul Bostrei, în Arabia",
+    "given": "Antipatru"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/13/205375-saint-antipater-bishop-of-bostra-arabia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

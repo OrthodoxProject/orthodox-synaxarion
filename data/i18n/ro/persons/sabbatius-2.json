@@ -1,0 +1,23 @@
+{
+  "id": "sabbatius-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Savatie, făcătorul de minuni de la Solovăț",
+    "full": "Sfântul Cuvios Savatie, făcătorul de minuni de la Solovăț",
+    "short": "Savatie, făcătorul de minuni de la Solovăț",
+    "given": "Savatie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/27/102735-venerable-sabbatius-wonderworker-of-solovki",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

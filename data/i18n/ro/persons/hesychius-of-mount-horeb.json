@@ -1,0 +1,23 @@
+{
+  "id": "hesychius-of-mount-horeb",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Isihie de la Muntele Horeb",
+    "full": "Sfântul Cuvios Isihie de la Muntele Horeb",
+    "short": "Isihie de la Muntele Horeb",
+    "given": "Isihie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/03/102848-venerable-hesychius-of-mount-horeb",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

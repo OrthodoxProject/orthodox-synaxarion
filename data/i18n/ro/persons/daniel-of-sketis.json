@@ -1,0 +1,23 @@
+{
+  "id": "daniel-of-sketis",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Daniil din Schit",
+    "full": "Sfântul Cuvios Daniil din Schit",
+    "short": "Daniil din Schit",
+    "given": "Daniil"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/07/100126-venerable-daniel-of-sketis",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

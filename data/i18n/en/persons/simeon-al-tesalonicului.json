@@ -1,0 +1,22 @@
+{
+  "id": "simeon-al-tesalonicului",
+  "locale": "en",
+  "names": {
+    "display": "Saint Simeon of Thessalonica",
+    "short": "Simeon of Thessalonica",
+    "given": "Simeon"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-simeon-al-tesalonicului",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

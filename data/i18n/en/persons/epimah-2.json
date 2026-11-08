@@ -1,0 +1,27 @@
+{
+  "id": "epimah-2",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Epimachus",
+    "short": "Epimachus",
+    "given": "Epimachus"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-epimah",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ap-apelie-stahie-amplie-urban-aristobul-si-narcis-sf-mc-epimah/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

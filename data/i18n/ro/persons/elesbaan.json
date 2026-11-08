@@ -1,0 +1,22 @@
+{
+  "id": "elesbaan",
+  "locale": "ro",
+  "names": {
+    "display": "Fericitul Elesvoi, regele Etiopiei",
+    "short": "Elesvoi, regele Etiopiei",
+    "given": "Elesvoi"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/24/103048-blessed-elesbaan-king-of-ethiopia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

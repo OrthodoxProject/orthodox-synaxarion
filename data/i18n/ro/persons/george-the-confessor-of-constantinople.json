@@ -1,0 +1,23 @@
+{
+  "id": "george-the-confessor-of-constantinople",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Gheorghe Mărturisitorul, cu soția și copiii săi, din Constantinopol",
+    "full": "Sfântul Gheorghe Mărturisitorul, cu soția și copiii săi, din Constantinopol",
+    "short": "Gheorghe Mărturisitorul, cu soția și copiii săi, din Constantinopol",
+    "given": "Gheorghe"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/13/101369-saint-george-the-confessor-with-his-wife-and-children-of-constan",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

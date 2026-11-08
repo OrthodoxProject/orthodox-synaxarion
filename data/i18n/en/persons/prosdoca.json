@@ -1,0 +1,22 @@
+{
+  "id": "prosdoca",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Prosdoce",
+    "short": "Prosdoce",
+    "given": "Prosdoce"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-prosdoca",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

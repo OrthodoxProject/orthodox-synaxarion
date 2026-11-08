@@ -1,0 +1,20 @@
+{
+  "id": "metrophanes-of-voronezh--finding-of-relics-2",
+  "locale": "ro",
+  "names": {
+    "display": "A doua aflare a moaștelor Sf. Ier. Mitrofan, Episcopul Voronejului"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/04/102501-second-finding-of-the-relics-of-saint-metrophanes-bishop-of-voro",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rimma",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Rim, ucenicul Sf. Ap. Andrei, din Sciția",
+    "full": "Sfântul Mucenic Rim, ucenicul Sfântului Apostol Andrei, din Sciția",
+    "short": "Rim, ucenicul Sf. Ap. Andrei, din Sciția",
+    "given": "Rim"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/20/101762-martyrs-inna-pinna-and-rimma-disciples-of-apostle-andrew-in-scyt",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "asterius-the-senator-at-caesarea",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Asterie senatorul, din Cezareea Palestinei",
+    "full": "Sfântul Mucenic Asterie senatorul, din Cezareea Palestinei",
+    "short": "Asterie senatorul, din Cezareea Palestinei",
+    "given": "Asterie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/07/102224-martyr-asterius-the-senator-at-caesarea-in-palestine",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "ipatie-2",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Hypatius",
+    "short": "Hypatius",
+    "given": "Hypatius"
+  },
+  "references": [
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-luchilian-ipatie-si-paula-fecioara-harti/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

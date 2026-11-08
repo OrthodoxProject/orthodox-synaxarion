@@ -1,0 +1,23 @@
+{
+  "id": "julian-of-galatia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Iulian din Galatia",
+    "full": "Sfântul Sfințit Mucenic Iulian din Galatia",
+    "short": "Iulian din Galatia",
+    "given": "Iulian"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/13/102602-hieromartyr-julian-of-galatia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

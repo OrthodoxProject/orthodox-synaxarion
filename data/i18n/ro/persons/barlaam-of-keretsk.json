@@ -1,0 +1,23 @@
+{
+  "id": "barlaam-of-keretsk",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Varlaam din Kerețk",
+    "full": "Sfântul Varlaam din Kerețk",
+    "short": "Varlaam din Kerețk",
+    "given": "Varlaam"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/15/109025-saint-barlaam-of-keretsk",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

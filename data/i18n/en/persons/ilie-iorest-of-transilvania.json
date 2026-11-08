@@ -1,0 +1,27 @@
+{
+  "id": "ilie-iorest-of-transilvania",
+  "locale": "en",
+  "names": {
+    "display": "Saint Elias Iorest the Confessor, Metropolitan of Transylvania",
+    "short": "Elias Iorest, Metropolitan of Transylvania",
+    "given": "Elias"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-marturisitor-ilie-iorest-mitropolitul-transilvaniei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ierarhi-ilie-iorest-simion-stefan-si-sava-brancovici-mitropolitii-transilvaniei-sf-ier-iosif-marturisitorul-din-maramures-sf-mc-pasicrat-si-valentin-sf-cuv-elisabeta-dezlega/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

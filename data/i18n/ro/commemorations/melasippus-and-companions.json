@@ -1,0 +1,20 @@
+{
+  "id": "melasippus-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Melasip, Carina, fiul lor, Antonin, și cei 40 de copii aduși la credință prin mucenicia lor, din Ancira"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/07/103236-martyrs-melasippus-karina-their-son-antoninus-and-forty-children",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

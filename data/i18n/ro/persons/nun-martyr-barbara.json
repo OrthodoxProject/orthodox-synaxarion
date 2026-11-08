@@ -1,0 +1,23 @@
+{
+  "id": "nun-martyr-barbara",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Varvara",
+    "full": "Sfânta Cuvioasă Muceniță Varvara",
+    "short": "Varvara",
+    "given": "Varvara"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/18/101916-nun-martyr-barbara",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

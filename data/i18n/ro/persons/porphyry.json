@@ -1,0 +1,23 @@
+{
+  "id": "porphyry",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Porfirie",
+    "full": "Sfântul Porfirie",
+    "short": "Porfirie",
+    "given": "Porfirie"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/7_3.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

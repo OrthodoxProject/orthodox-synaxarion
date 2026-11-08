@@ -1,0 +1,30 @@
+{
+  "id": "nativity-of-christ--afterfeast",
+  "locale": "ro",
+  "names": {
+    "display": "După-prăznuirea Nașterii Domnului și Mântuitorului nostru Iisus Hristos"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/28/103663-afterfeast-of-the-nativity-of-our-lord-and-savior-jesus-christ",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/29/103681-afterfeast-of-the-nativity-of-our-lord-and-savior-jesus-christ",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/30/103689-afterfeast-of-the-nativity-of-our-lord-and-savior-jesus-christ",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

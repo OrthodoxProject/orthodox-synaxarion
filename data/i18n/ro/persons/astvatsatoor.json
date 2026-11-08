@@ -1,0 +1,23 @@
+{
+  "id": "astvatsatoor",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Astvațatur",
+    "full": "Sfântul Mucenic Astvațatur",
+    "short": "Astvațatur",
+    "given": "Astvațatur"
+  },
+  "references": [
+    {
+      "source": "src:armenianchurch-ge",
+      "url": "https://armenianchurch.ge/en/kalendar-prazdnikov/description-2/december/commemoration-of-the-martyr-st-astvatsatoor",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

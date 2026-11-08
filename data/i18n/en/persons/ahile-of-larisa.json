@@ -1,0 +1,22 @@
+{
+  "id": "ahile-of-larisa",
+  "locale": "en",
+  "names": {
+    "display": "Saint Achilles, Bishop of Larissa",
+    "short": "Achilles, Bishop of Larissa",
+    "given": "Achilles"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-ahile-episcopul-larisei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

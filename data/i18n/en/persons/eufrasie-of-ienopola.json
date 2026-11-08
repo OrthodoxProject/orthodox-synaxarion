@@ -1,0 +1,27 @@
+{
+  "id": "eufrasie-of-ienopola",
+  "locale": "en",
+  "names": {
+    "display": "Saint Euphrasius, Bishop of Ionopolis",
+    "short": "Euphrasius, Bishop of Ionopolis",
+    "given": "Euphrasius"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-eufrasie-episcopul-ienopolei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mare-mc-marina-sf-ier-eufrasie-episcopul-ionopolei/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

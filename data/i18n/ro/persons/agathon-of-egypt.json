@@ -1,0 +1,23 @@
+{
+  "id": "agathon-of-egypt",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Agaton din Egipt",
+    "full": "Sfântul Cuvios Agaton din Egipt",
+    "short": "Agaton din Egipt",
+    "given": "Agaton"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/02/100638-venerable-agathon-of-egypt",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

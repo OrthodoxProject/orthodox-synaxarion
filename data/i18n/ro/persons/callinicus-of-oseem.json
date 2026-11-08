@@ -1,0 +1,23 @@
+{
+  "id": "callinicus-of-oseem",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Calinic, Episcopul de Osim",
+    "full": "Sfântul Ierarh Calinic, Episcopul de Osim",
+    "short": "Calinic, Episcopul de Osim",
+    "given": "Calinic"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/5_2.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pantaleemon",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Pantelimon doctorul",
+    "full": "Sfântul Pantelimon doctorul",
+    "short": "Pantelimon doctorul",
+    "given": "Pantelimon"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/11_19.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

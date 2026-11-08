@@ -1,0 +1,22 @@
+{
+  "id": "zaharia",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Zachariah",
+    "short": "Zachariah",
+    "given": "Zachariah"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-zaharia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

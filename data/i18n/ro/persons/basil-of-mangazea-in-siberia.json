@@ -1,0 +1,23 @@
+{
+  "id": "basil-of-mangazea-in-siberia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Drept Vasile din Mangazeia, Siberia",
+    "full": "Sfântul Drept Vasile din Mangazeia, Siberia",
+    "short": "Vasile din Mangazeia, Siberia",
+    "given": "Vasile"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/23/100874-righteous-basil-of-mangazea-in-siberia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

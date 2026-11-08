@@ -1,0 +1,23 @@
+{
+  "id": "joseph-of-zaonikiev-monastery",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Iosif de la Mănăstirea Zaonikiev, Vologda",
+    "full": "Sfântul Cuvios Iosif de la Mănăstirea Zaonikiev, Vologda",
+    "short": "Iosif de la Mănăstirea Zaonikiev, Vologda",
+    "given": "Iosif"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/21/102686-venerable-joseph-of-zaonikiev-monastery-vologda",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

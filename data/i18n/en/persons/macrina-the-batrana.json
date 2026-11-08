@@ -1,0 +1,22 @@
+{
+  "id": "macrina-the-batrana",
+  "locale": "en",
+  "names": {
+    "display": "Saint Macrina the Elder",
+    "short": "Macrina the Elder",
+    "given": "Macrina"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-macrina-cea-batrana",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

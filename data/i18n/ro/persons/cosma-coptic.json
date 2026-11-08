@@ -1,0 +1,23 @@
+{
+  "id": "cosma-coptic",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Cosma, al 54-lea Papă al Alexandriei",
+    "full": "Sfântul Ierarh Cosma, al 54-lea Papă al Alexandriei",
+    "short": "Cosma, al 54-lea Papă al Alexandriei",
+    "given": "Cosma"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/3_21.html?lang=en#3",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

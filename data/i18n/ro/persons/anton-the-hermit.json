@@ -1,0 +1,23 @@
+{
+  "id": "anton-the-hermit",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Anton Pustnicul",
+    "full": "Sfântul Cuvios Anton Pustnicul",
+    "short": "Anton Pustnicul",
+    "given": "Anton"
+  },
+  "references": [
+    {
+      "source": "src:armenianchurch-ge",
+      "url": "https://armenianchurch.ge/en/kalendar-prazdnikov/description-2/january/commemorationst-anton",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

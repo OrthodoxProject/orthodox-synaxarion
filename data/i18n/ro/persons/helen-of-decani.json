@@ -1,0 +1,23 @@
+{
+  "id": "helen-of-decani",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Elena de la Decani",
+    "full": "Sfânta Elena de la Decani",
+    "short": "Elena de la Decani",
+    "given": "Elena"
+  },
+  "references": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

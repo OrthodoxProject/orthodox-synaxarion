@@ -1,0 +1,22 @@
+{
+  "id": "gligheria-of-adrianopol",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Glyceria of Adrianople",
+    "short": "Glyceria of Adrianople",
+    "given": "Glyceria"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-gligheria-din-adrianopol",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

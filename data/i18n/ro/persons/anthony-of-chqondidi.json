@@ -1,0 +1,23 @@
+{
+  "id": "anthony-of-chqondidi",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Antonie, Mitropolitul de Chqondidi",
+    "full": "Sfântul Ierarh Antonie, Mitropolitul de Chqondidi",
+    "short": "Antonie, Mitropolitul de Chqondidi",
+    "given": "Antonie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/13/205434-saint-anthony-metropolitan-of-chqondidi-and-saint-jacob-elder-of",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

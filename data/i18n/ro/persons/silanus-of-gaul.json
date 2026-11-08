@@ -1,0 +1,23 @@
+{
+  "id": "silanus-of-gaul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Silan din Galia",
+    "full": "Sfântul Mucenic Silan din Galia",
+    "short": "Silan din Galia",
+    "given": "Silan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/04/101603-martyrs-frontasius-severinus-severian-and-silanus-of-gaul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "demetrius-tavdadebuli-of-georgia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Drept Dimitrie Tavdadebuli, regele Georgiei",
+    "full": "Sfântul Drept Dimitrie Tavdadebuli, regele Georgiei",
+    "short": "Dimitrie Tavdadebuli, regele Georgiei",
+    "given": "Dimitrie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/12/103829-righteous-king-demetrius-tavdadebuli-of-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

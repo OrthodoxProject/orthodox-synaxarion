@@ -1,0 +1,20 @@
+{
+  "id": "founding-of-the-church-of-saint-george",
+  "locale": "ro",
+  "names": {
+    "display": "Întemeierea bisericii Sf. Gheorghe"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/10/108917-founding-of-the-church-of-saint-george",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

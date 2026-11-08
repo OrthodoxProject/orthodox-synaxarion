@@ -1,0 +1,23 @@
+{
+  "id": "cloud-of-nogent-sur-seine",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Cloud (Clodoald), egumen și întemeietor la Nogent-sur-Seine, lângă Paris",
+    "full": "Sfântul Cuvios Cloud (Clodoald), egumen și întemeietor la Nogent-sur-Seine, lângă Paris",
+    "short": "Cloud, egumen și întemeietor la Nogent-sur-Seine, lângă Paris",
+    "given": "Cloud"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/07/102540-venerable-cloud-clodoald-abbot-founder-of-nogent-sur-seine-near",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

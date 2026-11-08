@@ -1,0 +1,23 @@
+{
+  "id": "igor-of-kiev-and-chernigov",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Binecredinciosul Mare Cneaz Igor al Kievului și al Cernigovului",
+    "full": "Sfântul Binecredinciosul Mare Cneaz Igor al Kievului și al Cernigovului",
+    "short": "Igor al Kievului și al Cernigovului",
+    "given": "Igor"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/19/102672-right-believing-great-prince-igor-of-kiev-and-chernigov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

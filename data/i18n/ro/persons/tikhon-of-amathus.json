@@ -1,0 +1,23 @@
+{
+  "id": "tikhon-of-amathus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Tihon, Episcopul Amatuntei, în Cipru",
+    "full": "Sfântul Ierarh Tihon, Episcopul Amatuntei, în Cipru",
+    "short": "Tihon, Episcopul Amatuntei, în Cipru",
+    "given": "Tihon"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/16/101738-saint-tikhon-bishop-of-amathus-in-cyprus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

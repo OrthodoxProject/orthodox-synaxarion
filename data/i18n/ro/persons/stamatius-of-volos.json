@@ -1,0 +1,23 @@
+{
+  "id": "stamatius-of-volos",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Noul Mc. Stamatie din Volos",
+    "full": "Sfântul Noul Mucenic Stamatie din Volos",
+    "short": "Stamatie din Volos",
+    "given": "Stamatie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/16/108992-new-martyr-stamatius-of-volos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

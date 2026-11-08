@@ -1,0 +1,23 @@
+{
+  "id": "nikon-of-radonezh",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Nicon, egumenul de la Radonej, ucenicul Sf. Cuv. Sergiu",
+    "full": "Sfântul Cuvios Nicon, egumenul de la Radonej, ucenicul Sfântului Cuvios Sergiu",
+    "short": "Nicon, egumenul de la Radonej, ucenicul Sf. Cuv. Sergiu",
+    "given": "Nicon"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/17/103316-venerable-nikon-abbot-of-radonezh-disciple-of-venerable-sergius",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

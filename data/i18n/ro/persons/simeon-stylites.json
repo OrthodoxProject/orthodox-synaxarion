@@ -1,0 +1,23 @@
+{
+  "id": "simeon-stylites",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Simeon Stâlpnicul cel Bătrân",
+    "full": "Sfântul Cuvios Simeon Stâlpnicul cel Bătrân",
+    "short": "Simeon Stâlpnicul cel Bătrân",
+    "given": "Simeon"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/01/102448-saint-simeon-stylites-the-elder",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

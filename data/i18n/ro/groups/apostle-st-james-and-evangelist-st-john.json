@@ -1,0 +1,20 @@
+{
+  "id": "apostle-st-james-and-evangelist-st-john",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ap. Iacob și Sf. Evanghelist Ioan"
+  },
+  "references": [
+    {
+      "source": "src:armenianchurch-ge",
+      "url": "https://armenianchurch.ge/en/kalendar-prazdnikov/description-2/december/commemoration-of-the-apostle-st-james-and-evangelist-st-john",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

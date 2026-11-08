@@ -1,0 +1,23 @@
+{
+  "id": "ekoumenios",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ecumenie, făcătorul de minuni din Trikala",
+    "full": "Sfântul Ecumenie, făcătorul de minuni din Trikala",
+    "short": "Ecumenie, făcătorul de minuni din Trikala",
+    "given": "Ecumenie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/03/205353-saint-ekoumnios-wonderworker-of-trikala",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "zosimas-of-solovki",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Zosima, egumenul de la Solovăț",
+    "full": "Sfântul Cuvios Zosima, egumenul de la Solovăț",
+    "short": "Zosima, egumenul de la Solovăț",
+    "given": "Zosima"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/17/101130-venerable-zosimas-abbot-of-solovki",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

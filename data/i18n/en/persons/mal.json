@@ -1,0 +1,22 @@
+{
+  "id": "mal",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Mal",
+    "short": "Mal",
+    "given": "Mal"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-mal",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

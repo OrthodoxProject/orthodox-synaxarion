@@ -1,0 +1,23 @@
+{
+  "id": "karion-of-egypt",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Carion și fiul său, Sf. Cuv. Zaharia, din Egipt",
+    "full": "Sfântul Cuvios Carion și fiul său, Sfântul Cuvios Zaharia, din Egipt",
+    "short": "Carion și fiul său, Zaharia, din Egipt",
+    "given": "Carion"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/05/103480-venerable-karion-cyrion-and-his-son-venerable-zachariah-of-egypt",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

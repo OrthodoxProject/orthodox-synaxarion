@@ -1,0 +1,23 @@
+{
+  "id": "isaiah-of-onogost",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Isaia din Onogoșt",
+    "full": "Sfântul Isaia din Onogoșt",
+    "short": "Isaia din Onogoșt",
+    "given": "Isaia"
+  },
+  "references": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

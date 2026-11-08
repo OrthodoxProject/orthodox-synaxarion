@@ -1,0 +1,27 @@
+{
+  "id": "nazaria-of-varatec",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Nazaria of Văratec",
+    "short": "Nazaria of Văratec",
+    "given": "Nazaria"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-nazaria-de-la-varatec",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-gheorghe-pelerinul-%e2%80%a0-sf-cuv-nazaria-olimpiada-si-elisabeta-safta-brancoveanu-de-la-varatec-sf-mc-miron-preotul-straton-si-ciprian/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

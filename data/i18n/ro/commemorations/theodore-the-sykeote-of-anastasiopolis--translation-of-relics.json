@@ -1,0 +1,20 @@
+{
+  "id": "theodore-the-sykeote-of-anastasiopolis--translation-of-relics",
+  "locale": "ro",
+  "names": {
+    "display": "Aducerea moaștelor Sf. Ier. Teodor Sicheotul, Episcopul Anastasiopolei"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/15/101733-translation-of-the-relics-of-saint-theodore-the-sykeote",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

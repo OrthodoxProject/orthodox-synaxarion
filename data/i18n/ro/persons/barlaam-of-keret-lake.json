@@ -1,0 +1,23 @@
+{
+  "id": "barlaam-of-keret-lake",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Varlaam de la lacul Keret",
+    "full": "Sfântul Cuvios Varlaam de la lacul Keret",
+    "short": "Varlaam de la lacul Keret",
+    "given": "Varlaam"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/06/103189-venerable-barlaam-of-keret-lake",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

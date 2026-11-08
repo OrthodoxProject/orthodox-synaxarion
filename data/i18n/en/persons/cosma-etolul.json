@@ -1,0 +1,22 @@
+{
+  "id": "cosma-etolul",
+  "locale": "en",
+  "names": {
+    "display": "Hieromartyr Cosmas of Aetolia",
+    "short": "Cosmas of Aetolia",
+    "given": "Cosmas"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-sfintit-mucenic-cosma-etolul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

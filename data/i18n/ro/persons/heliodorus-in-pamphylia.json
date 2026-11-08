@@ -1,0 +1,23 @@
+{
+  "id": "heliodorus-in-pamphylia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Eliodor din Pamfilia",
+    "full": "Sfântul Mucenic Eliodor din Pamfilia",
+    "short": "Eliodor din Pamfilia",
+    "given": "Eliodor"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/19/103335-martyr-heliodorus-in-pamphylia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

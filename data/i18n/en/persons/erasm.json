@@ -1,0 +1,27 @@
+{
+  "id": "erasm",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Erasmus",
+    "short": "Erasmus",
+    "given": "Erasmus"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-erasm",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-leontie-ipatie-si-teodul-sf-cuv-erasm/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "john-of-khakhuli-the-oqropiri",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ioan de la Hahuli, Oqropiri, numit și Gură de Aur",
+    "full": "Sfântul Ioan de la Hahuli, Oqropiri, numit și Gură de Aur",
+    "short": "Ioan de la Hahuli, Oqropiri, numit și Gură de Aur",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/10/103828-saint-john-of-khakhuli-the-oqropiri-also-called-chrysostom",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

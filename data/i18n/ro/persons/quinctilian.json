@@ -1,0 +1,23 @@
+{
+  "id": "quinctilian",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Cvintilian din Durostor",
+    "full": "Sfântul Mucenic Cvintilian din Durostor",
+    "short": "Cvintilian din Durostor",
+    "given": "Cvintilian"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/28/101218-martyrs-dada-maximus-and-quinctilian-at-dorostolum",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

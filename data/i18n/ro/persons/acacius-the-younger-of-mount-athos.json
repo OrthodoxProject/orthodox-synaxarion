@@ -1,0 +1,23 @@
+{
+  "id": "acacius-the-younger-of-mount-athos",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Acachie cel Tânăr de la Muntele Athos",
+    "full": "Sfântul Cuvios Acachie cel Tânăr de la Muntele Athos",
+    "short": "Acachie cel Tânăr de la Muntele Athos",
+    "given": "Acachie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/12/101069-venerable-acacius-the-younger-of-mount-athos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

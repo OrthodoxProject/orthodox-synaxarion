@@ -1,0 +1,20 @@
+{
+  "id": "patrobus-the-apostle-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ap. Patrova, Ermis, Lin, Gaie și Filolog, dintre cei 70"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/05/103179-apostles-patrobus-hermes-linus-gaius-and-philologus-of-the-seven",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

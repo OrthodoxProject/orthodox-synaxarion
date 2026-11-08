@@ -1,0 +1,23 @@
+{
+  "id": "john-scholasticus-of-constantinople",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ioan „Scolasticul”, Patriarhul Constantinopolului",
+    "full": "Sfântul Ierarh Ioan „Scolasticul”, Patriarhul Constantinopolului",
+    "short": "Ioan „Scolasticul”, Patriarhul Constantinopolului",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/21/109057-saint-john-scholasticus-patriarch-of-constantinople",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

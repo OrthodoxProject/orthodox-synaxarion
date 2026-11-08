@@ -1,0 +1,23 @@
+{
+  "id": "roman-of-uglich",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Binecredinciosul Cneaz Roman de Uglici",
+    "full": "Sfântul Binecredinciosul Cneaz Roman de Uglici",
+    "short": "Roman de Uglici",
+    "given": "Roman"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/03/100411-right-believing-prince-roman-of-uglich",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

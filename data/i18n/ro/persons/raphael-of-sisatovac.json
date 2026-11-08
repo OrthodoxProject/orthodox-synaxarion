@@ -1,0 +1,28 @@
+{
+  "id": "raphael-of-sisatovac",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Rafail de la Șișatovaț",
+    "full": "Sfântul Sfințit Mucenic Rafail de la Șișatovaț",
+    "short": "Rafail de la Șișatovaț",
+    "given": "Rafail"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/21/205316-hieromartyr-raphael-of-sisatovac",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

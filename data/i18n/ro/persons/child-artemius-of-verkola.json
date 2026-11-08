@@ -1,0 +1,23 @@
+{
+  "id": "child-artemius-of-verkola",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Drept Prunc Artemie din Verkola",
+    "full": "Sfântul Drept Prunc Artemie din Verkola",
+    "short": "Artemie din Verkola",
+    "given": "Artemie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/20/103006-righteous-child-artemius-of-verkola",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

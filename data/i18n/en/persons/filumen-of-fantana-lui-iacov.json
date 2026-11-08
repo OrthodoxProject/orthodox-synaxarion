@@ -1,0 +1,32 @@
+{
+  "id": "filumen-of-fantana-lui-iacov",
+  "locale": "en",
+  "names": {
+    "display": "Hieromartyr Philoumenos of Jacob's Well",
+    "short": "Philoumenos of Jacob's Well",
+    "given": "Philoumenos"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-sfintit-mucenic-filumen-de-la-fantana-lui-iacov",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-filumen",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-paramon-si-filumen-sf-cuv-pitirun-dezlegare-la-peste/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

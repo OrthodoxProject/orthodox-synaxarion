@@ -1,0 +1,23 @@
+{
+  "id": "azariah-the-prophet",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Proroc Azaria",
+    "full": "Sfântul Proroc Azaria",
+    "short": "Azaria",
+    "given": "Azaria"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/03/100412-prophet-azariah",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

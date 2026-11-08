@@ -1,0 +1,23 @@
+{
+  "id": "blaise-of-caesarea",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Vlasie din Cezareea Capadociei",
+    "full": "Sfântul Mucenic Vlasie din Cezareea Capadociei",
+    "short": "Vlasie din Cezareea Capadociei",
+    "given": "Vlasie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/03/100418-martyr-blaise-of-caesarea-in-cappadocia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

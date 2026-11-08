@@ -1,0 +1,23 @@
+{
+  "id": "isaac-the-confessor-of-dalmatian-monastery",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Isaachie Mărturisitorul, întemeietorul Mănăstirii Dalmaților din Constantinopol",
+    "full": "Sfântul Cuvios Isaachie Mărturisitorul, întemeietorul Mănăstirii Dalmaților din Constantinopol",
+    "short": "Isaachie Mărturisitorul, întemeietorul Mănăstirii Dalmaților din Constantinopol",
+    "given": "Isaachie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/22/100863-venerable-isaac-the-confessor-founder-of-the-dalmatian-monastery",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

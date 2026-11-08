@@ -1,0 +1,27 @@
+{
+  "id": "mercurie",
+  "locale": "en",
+  "names": {
+    "display": "Great Martyr Mercurius",
+    "short": "Mercurius",
+    "given": "Mercurius"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mare-mucenic-mercurie",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/odovania-praznicului-intrarii-in-biserica-a-maicii-domnului-%e2%80%a0-sf-mare-mc-ecaterina-sf-mare-mc-mercurie/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

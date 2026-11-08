@@ -1,0 +1,25 @@
+{
+  "id": "andrew-the-apostle--translation-of-relics",
+  "locale": "en",
+  "names": {
+    "display": "Translation of the relics of the Apostle Andrew to Iași"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/aducerea-moastelor-sfantului-apostol-andrei-la-iasi",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-aducerea-moastelor-sfantului-apostol-andrei-la-iasi-sf-mc-carp-papil-agatodor-agatonica-si-florentie/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "palamon-coptic",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Palamon, părintele monahilor",
+    "full": "Sfântul Cuvios Palamon, părintele monahilor",
+    "short": "Palamon, părintele monahilor",
+    "given": "Palamon"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/11_25.html?lang=en#9",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

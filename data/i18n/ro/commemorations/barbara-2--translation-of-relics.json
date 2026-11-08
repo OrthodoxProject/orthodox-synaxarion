@@ -1,0 +1,20 @@
+{
+  "id": "barbara-2--translation-of-relics",
+  "locale": "ro",
+  "names": {
+    "display": "Mutarea moaștelor Sf. Varvara"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/11/149025-transfer-of-the-relics-of-saint-barbara",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

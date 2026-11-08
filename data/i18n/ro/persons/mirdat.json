@@ -1,0 +1,23 @@
+{
+  "id": "mirdat",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Mirdat, regele Kartliei",
+    "full": "Sfântul Mucenic Mirdat, regele Kartliei",
+    "short": "Mirdat, regele Kartliei",
+    "given": "Mirdat"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/08/205461-royal-martyr-mirdat-king-of-kartli",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "roman-of-ryazan",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Binecredinciosul Cneaz Roman de Riazan",
+    "full": "Sfântul Binecredinciosul Cneaz Roman de Riazan",
+    "short": "Roman de Riazan",
+    "given": "Roman"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/19/102056-right-believing-prince-roman-of-ryazan",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

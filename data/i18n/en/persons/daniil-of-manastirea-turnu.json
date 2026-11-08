@@ -1,0 +1,27 @@
+{
+  "id": "daniil-of-manastirea-turnu",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Daniel of Turnu Monastery",
+    "short": "Daniel of Turnu Monastery",
+    "given": "Daniel"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-daniil-de-la-manastirea-turnu",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-daniil-si-misail-de-la-manastirea-turnu-sf-mc-haritina/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

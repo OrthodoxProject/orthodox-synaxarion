@@ -1,0 +1,20 @@
+{
+  "id": "martyr-hippolytus-of-rome-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Ipolit din Roma și cei împreună cu el: Sf. Mc. Concordia, Irineu și Abundie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/13/102288-martyr-hippolytus-of-rome-and-those-with-him-martyr-concordia-ir",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

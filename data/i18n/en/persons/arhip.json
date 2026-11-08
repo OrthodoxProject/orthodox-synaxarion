@@ -1,0 +1,22 @@
+{
+  "id": "arhip",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Archippus",
+    "short": "Archippus",
+    "given": "Archippus"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-arhip",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

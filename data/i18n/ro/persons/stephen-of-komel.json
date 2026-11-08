@@ -1,0 +1,23 @@
+{
+  "id": "stephen-of-komel",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ștefan de la Komel, egumenul Mănăstirii Ozersk, Vologda",
+    "full": "Sfântul Cuvios Ștefan de la Komel, egumenul Mănăstirii Ozersk, Vologda",
+    "short": "Ștefan de la Komel, egumenul Mănăstirii Ozersk, Vologda",
+    "given": "Ștefan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/12/101706-venerable-stephen-of-komel-abbot-of-ozersk-monastery-vologda",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

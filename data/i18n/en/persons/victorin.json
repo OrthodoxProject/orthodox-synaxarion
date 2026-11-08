@@ -1,0 +1,22 @@
+{
+  "id": "victorin",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Victorinus and those with him",
+    "short": "Victorinus",
+    "given": "Victorinus"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-victorin-cei-impreuna-cu-dansul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

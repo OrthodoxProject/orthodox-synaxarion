@@ -1,0 +1,23 @@
+{
+  "id": "baruch-the-prophet",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Proroc Baruh",
+    "full": "Sfântul Proroc Baruh",
+    "short": "Baruh",
+    "given": "Baruh"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/28/102745-prophet-baruch",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "demetrius-of-samarina-in-epirus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Noul Mc. Dimitrie din Samarina, Epir",
+    "full": "Sfântul Noul Mucenic Dimitrie din Samarina, Epir",
+    "short": "Dimitrie din Samarina, Epir",
+    "given": "Dimitrie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/17/205402-new-martyr-demetrius-of-samarina-in-epirus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

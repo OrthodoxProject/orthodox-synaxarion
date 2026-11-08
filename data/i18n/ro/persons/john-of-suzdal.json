@@ -1,0 +1,23 @@
+{
+  "id": "john-of-suzdal",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ioan, Episcopul de Suzdal",
+    "full": "Sfântul Ierarh Ioan, Episcopul de Suzdal",
+    "short": "Ioan, Episcopul de Suzdal",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/15/102974-saint-john-bishop-of-suzdal",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "nikodemos-of-kozhe-lake",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Nicodim, egumenul de la lacul Koje",
+    "full": "Sfântul Cuvios Nicodim, egumenul de la lacul Koje",
+    "short": "Nicodim, egumenul de la lacul Koje",
+    "given": "Nicodim"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/03/101882-venerable-ikdmos-abbot-of-kozhe-lake",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

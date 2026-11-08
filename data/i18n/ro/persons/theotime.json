@@ -1,0 +1,23 @@
+{
+  "id": "theotime",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Teotim",
+    "full": "Sfântul Mucenic Teotim",
+    "short": "Teotim",
+    "given": "Teotim"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/19/205360-martyr-theotime",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "sophronius-the-bulgarian",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sofronie Bulgarul",
+    "full": "Sfântul Sofronie Bulgarul",
+    "short": "Sofronie Bulgarul",
+    "given": "Sofronie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/28/108012-saint-sophronius-the-bulgarian",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

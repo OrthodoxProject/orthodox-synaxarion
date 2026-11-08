@@ -1,0 +1,22 @@
+{
+  "id": "ignatie-of-de",
+  "locale": "en",
+  "names": {
+    "display": "Saint Ignatius, Metropolitan of Methymna",
+    "short": "Ignatius, Metropolitan of Methymna",
+    "given": "Ignatius"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-ignatie-mitropolit-de-mitimna",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

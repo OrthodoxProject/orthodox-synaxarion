@@ -1,0 +1,25 @@
+{
+  "id": "george-the-great-martyr--translation-of-relics",
+  "locale": "en",
+  "names": {
+    "display": "Placing of the relics of the Great Martyr George in Lydda"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/asezarea-moastelor-sfantului-mare-mucenic-gheorghe-lida",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-sfintiti-mc-achepsima-iosif-si-aitala-asezarea-moastelor-sf-mare-mc-gheorghe-in-lida/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

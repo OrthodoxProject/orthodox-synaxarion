@@ -1,0 +1,28 @@
+{
+  "id": "colluthus-of-antinoe",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Colut din Antinoe (numit Abu Colta)",
+    "full": "Sfântul Colut din Antinoe (numit Abu Colta)",
+    "short": "Colut din Antinoe",
+    "given": "Colut"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/9_23.html?lang=en#1",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/9_25.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

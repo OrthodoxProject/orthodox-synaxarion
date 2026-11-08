@@ -1,0 +1,23 @@
+{
+  "id": "polycarp-of-alexandria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Policarp din Alexandria",
+    "full": "Sfântul Mucenic Policarp din Alexandria",
+    "short": "Policarp din Alexandria",
+    "given": "Policarp"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/02/100974-martyr-polycarp-of-alexandria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "stephen-urosh",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ștefan Uroș, regele Serbiei",
+    "full": "Sfântul Ștefan Uroș, regele Serbiei",
+    "short": "Ștefan Uroș, regele Serbiei",
+    "given": "Ștefan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/02/103464-saint-stephen-urosh-king-of-serbia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

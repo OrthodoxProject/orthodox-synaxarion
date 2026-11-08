@@ -1,0 +1,20 @@
+{
+  "id": "c-sarius-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Chesarie, Dachie, Sava, Sabinian, Agripa, Adrian și Toma din Damasc"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/01/103141-martyrs-csarius-dacius-savva-sabinian-agrippa-adrian-and-thomas",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

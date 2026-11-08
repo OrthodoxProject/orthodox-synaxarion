@@ -1,0 +1,22 @@
+{
+  "id": "maximus-of-moscow",
+  "locale": "ro",
+  "names": {
+    "display": "Fericitul Maxim din Moscova",
+    "short": "Maxim din Moscova",
+    "given": "Maxim"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/11/103282-repose-of-the-blessed-maximus-of-moscow",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "rafail-of-lesvos--finding-of-relics",
+  "locale": "en",
+  "names": {
+    "display": "Discovery of the tomb and relics of the Martyr Raphael of Lesbos"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/descoperirea-mormantului-moastelor-sfantului-mucenic-rafail-din-lesvos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

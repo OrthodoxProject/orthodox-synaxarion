@@ -1,0 +1,23 @@
+{
+  "id": "andronikos",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Andronic, ucenicul Sf. Sergiu",
+    "full": "Sfântul Cuvios Andronic, ucenicul Sfântului Sergiu",
+    "short": "Andronic, ucenicul Sf. Sergiu",
+    "given": "Andronic"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/13/101714-venerable-andronikos-disciple-of-saint-sergius",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

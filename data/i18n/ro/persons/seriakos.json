@@ -1,0 +1,23 @@
+{
+  "id": "seriakos",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Seriacos (Siriac) Luptătorul",
+    "full": "Sfântul Seriacos (Siriac) Luptătorul",
+    "short": "Seriacos Luptătorul",
+    "given": "Seriacos"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/5_29.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

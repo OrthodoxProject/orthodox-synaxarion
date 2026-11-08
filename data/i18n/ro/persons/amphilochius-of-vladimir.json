@@ -1,0 +1,23 @@
+{
+  "id": "amphilochius-of-vladimir",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Amfilohie, Episcopul de Vladimir, în Volînia",
+    "full": "Sfântul Ierarh Amfilohie, Episcopul de Vladimir, în Volînia",
+    "short": "Amfilohie, Episcopul de Vladimir, în Volînia",
+    "given": "Amfilohie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/10/102922-saint-amphilochius-bishop-of-vladimir-volhynia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

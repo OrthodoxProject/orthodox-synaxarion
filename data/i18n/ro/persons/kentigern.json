@@ -1,0 +1,23 @@
+{
+  "id": "kentigern",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Kentigern, primul Episcop de Glasgow, în Scoția",
+    "full": "Sfântul Ierarh Kentigern, primul Episcop de Glasgow, în Scoția",
+    "short": "Kentigern, primul Episcop de Glasgow, în Scoția",
+    "given": "Kentigern"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/14/100195-saint-kentigern-first-bishop-of-glasgow-scotland",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

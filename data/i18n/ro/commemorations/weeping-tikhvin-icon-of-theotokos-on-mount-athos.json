@@ -1,0 +1,20 @@
+{
+  "id": "weeping-tikhvin-icon-of-theotokos-on-mount-athos",
+  "locale": "ro",
+  "names": {
+    "display": "Icoana lăcrimătoare a Maicii Domnului de la Tihvin, din Muntele Athos"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/17/100552-weeping-tikhvin-icon-of-the-mother-of-god-on-mount-athos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

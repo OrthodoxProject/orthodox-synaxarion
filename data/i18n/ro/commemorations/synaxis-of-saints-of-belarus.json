@@ -1,0 +1,25 @@
+{
+  "id": "synaxis-of-saints-of-belarus",
+  "locale": "ro",
+  "names": {
+    "display": "Soborul Sfinților din Belarus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/14/103750-synaxis-of-the-saints-of-belarus",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/14/100177-synaxis-of-the-saints-of-diveyevo",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

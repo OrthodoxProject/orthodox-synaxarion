@@ -1,0 +1,23 @@
+{
+  "id": "philogonus-of-antioch",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Filogonie, Patriarhul Antiohiei",
+    "full": "Sfântul Ierarh Filogonie, Patriarhul Antiohiei",
+    "short": "Filogonie, Patriarhul Antiohiei",
+    "given": "Filogonie"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/4_24.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

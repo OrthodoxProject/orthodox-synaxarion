@@ -1,0 +1,23 @@
+{
+  "id": "cyril-of-chelma-hill",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Chiril, egumenul de pe Dealul Celma",
+    "full": "Sfântul Cuvios Chiril, egumenul de pe Dealul Celma",
+    "short": "Chiril, egumenul de pe Dealul Celma",
+    "given": "Chiril"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/08/103495-venerable-cyril-abbot-of-chelma-hill",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

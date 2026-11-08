@@ -1,0 +1,27 @@
+{
+  "id": "zoe",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Zoe",
+    "short": "Zoe",
+    "given": "Zoe"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-zoe",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-daniil-sihastrul-sf-mc-sebastian-si-zoe-sf-ier-modest-arhiepiscopul-ierusalimului/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

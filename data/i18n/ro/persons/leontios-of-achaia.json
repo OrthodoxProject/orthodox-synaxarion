@@ -1,0 +1,23 @@
+{
+  "id": "leontios-of-achaia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Leontie din Ahaia",
+    "full": "Sfântul Cuvios Leontie din Ahaia",
+    "short": "Leontie din Ahaia",
+    "given": "Leontie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/10/205420-venerable-leontios-of-achaia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

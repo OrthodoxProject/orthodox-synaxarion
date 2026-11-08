@@ -1,0 +1,23 @@
+{
+  "id": "physician-diomedes",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Diomid, doctorul fără de arginți",
+    "full": "Sfântul Diomid, doctorul fără de arginți",
+    "short": "Diomid, doctorul fără de arginți",
+    "given": "Diomid"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/16/102305-holy-unmercenary-physician-diomedes",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

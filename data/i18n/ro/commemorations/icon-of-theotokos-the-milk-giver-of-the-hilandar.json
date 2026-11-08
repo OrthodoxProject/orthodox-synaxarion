@@ -1,0 +1,20 @@
+{
+  "id": "icon-of-theotokos-the-milk-giver-of-the-hilandar",
+  "locale": "ro",
+  "names": {
+    "display": "Icoana Maicii Domnului „Hrănitoarea cu lapte” de la Mănăstirea Hilandar din Muntele Athos"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/03/101892-icon-of-the-mother-of-god-the-milk-giver-of-the-hilandar-monaste",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

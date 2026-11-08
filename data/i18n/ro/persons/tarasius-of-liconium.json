@@ -1,0 +1,23 @@
+{
+  "id": "tarasius-of-liconium",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Drept Tarasie din Liconium",
+    "full": "Sfântul Drept Tarasie din Liconium",
+    "short": "Tarasie din Liconium",
+    "given": "Tarasie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/09/100749-righteous-tarasius-of-liconium",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

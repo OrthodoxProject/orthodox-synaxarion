@@ -1,0 +1,27 @@
+{
+  "id": "sotirih",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Soterichus",
+    "short": "Soterichus",
+    "given": "Soterichus"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-sotirih",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mare-mucenic-areta-sf-mc-marcu-sotirih-si-valentin/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

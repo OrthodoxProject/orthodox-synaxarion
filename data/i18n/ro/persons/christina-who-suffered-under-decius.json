@@ -1,0 +1,23 @@
+{
+  "id": "christina-who-suffered-under-decius",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Hristina, care a pătimit sub Deciu",
+    "full": "Sfânta Muceniță Hristina, care a pătimit sub Deciu",
+    "short": "Hristina, care a pătimit sub Deciu",
+    "given": "Hristina"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/18/101414-martyrs-peter-dionysius-andrew-paul-and-christina-who-suffered-u",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "clement-of-ohrida",
+  "locale": "en",
+  "names": {
+    "display": "Saint Clement, Archbishop of Ohrid",
+    "short": "Clement, Archbishop of Ohrid",
+    "given": "Clement"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-clement-arhiepiscopul-ohridei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

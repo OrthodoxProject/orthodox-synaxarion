@@ -1,0 +1,20 @@
+{
+  "id": "apostles-andrew-and-phillip",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ap. Andrei și Filip"
+  },
+  "references": [
+    {
+      "source": "src:armenianchurch-ge",
+      "url": "https://armenianchurch.ge/en/kalendar-prazdnikov/description-2/november/commemoration-of-the-apostles-andrew-and-phillip",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

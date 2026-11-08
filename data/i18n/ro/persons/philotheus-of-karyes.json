@@ -1,0 +1,23 @@
+{
+  "id": "philotheus-of-karyes",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Filotei de la Careia, Muntele Athos",
+    "full": "Sfântul Cuvios Filotei de la Careia, Muntele Athos",
+    "short": "Filotei de la Careia, Muntele Athos",
+    "given": "Filotei"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/05/103483-venerable-philotheus-of-karyes-mount-athos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

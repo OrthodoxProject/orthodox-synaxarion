@@ -1,0 +1,23 @@
+{
+  "id": "theodotus-of-ancyra-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Teodot din Ancira",
+    "full": "Sfântul Mucenic Teodot din Ancira",
+    "short": "Teodot din Ancira",
+    "given": "Teodot"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/07/206382-martyr-theodotus-of-ancyra",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

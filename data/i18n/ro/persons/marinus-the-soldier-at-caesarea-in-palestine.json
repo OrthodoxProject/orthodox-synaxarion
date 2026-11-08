@@ -1,0 +1,23 @@
+{
+  "id": "marinus-the-soldier-at-caesarea-in-palestine",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Marin Ostașul, din Cezareea Palestinei",
+    "full": "Sfântul Mucenic Marin Ostașul, din Cezareea Palestinei",
+    "short": "Marin Ostașul, din Cezareea Palestinei",
+    "given": "Marin"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/07/102223-martyr-marinus-the-soldier-at-caesarea-in-palestine",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

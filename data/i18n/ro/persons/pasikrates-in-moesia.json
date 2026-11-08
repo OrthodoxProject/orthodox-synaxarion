@@ -1,0 +1,23 @@
+{
+  "id": "pasikrates-in-moesia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Pasicrat din Moesia, Bulgaria",
+    "full": "Sfântul Mucenic Pasicrat din Moesia, Bulgaria",
+    "short": "Pasicrat din Moesia, Bulgaria",
+    "given": "Pasicrat"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/24/101193-martyrs-valentine-and-pasikrates-in-moesia-bulgaria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

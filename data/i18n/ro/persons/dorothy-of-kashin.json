@@ -1,0 +1,23 @@
+{
+  "id": "dorothy-of-kashin",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Doroteea din Kașin",
+    "full": "Sfânta Cuvioasă Doroteea din Kașin",
+    "short": "Doroteea din Kașin",
+    "given": "Doroteea"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/24/102721-venerable-dorothy-of-kashin",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

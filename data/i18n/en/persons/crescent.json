@@ -1,0 +1,27 @@
+{
+  "id": "crescent",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Crescens",
+    "short": "Crescens",
+    "given": "Crescens"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-crescent",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ap-aristarh-pud-si-trofim-sf-mc-crescent-harti/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

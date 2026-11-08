@@ -1,0 +1,23 @@
+{
+  "id": "theodore-of-vrsac",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Teodor din Vârșeț, Serbia",
+    "full": "Sfântul Teodor din Vârșeț, Serbia",
+    "short": "Teodor din Vârșeț, Serbia",
+    "given": "Teodor"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/16/108044-saint-theodore-of-vrsac-serbia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

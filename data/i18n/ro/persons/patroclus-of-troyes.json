@@ -1,0 +1,23 @@
+{
+  "id": "patroclus-of-troyes",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Patrocle din Troyes",
+    "full": "Sfântul Mucenic Patrocle din Troyes",
+    "short": "Patrocle din Troyes",
+    "given": "Patrocle"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/17/102316-martyr-patroclus-of-troyes",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

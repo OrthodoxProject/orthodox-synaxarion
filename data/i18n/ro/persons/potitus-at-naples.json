@@ -1,0 +1,23 @@
+{
+  "id": "potitus-at-naples",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Potit din Neapole",
+    "full": "Sfântul Mucenic Potit din Neapole",
+    "short": "Potit din Neapole",
+    "given": "Potit"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/01/101861-martyr-potitus-at-naples",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

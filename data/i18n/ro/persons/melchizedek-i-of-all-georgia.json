@@ -1,0 +1,23 @@
+{
+  "id": "melchizedek-i-of-all-georgia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Melchisedec I, Catolicos-Patriarh al întregii Georgii",
+    "full": "Sfântul Ierarh Melchisedec I, Catolicos-Patriarh al întregii Georgii",
+    "short": "Melchisedec I, Catolicos-Patriarh al întregii Georgii",
+    "given": "Melchisedec"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/01/205469-saint-melchizedek-i-catholicos-patriarch-of-all-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

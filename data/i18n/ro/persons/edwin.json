@@ -1,0 +1,23 @@
+{
+  "id": "edwin",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Edwin, rege și mucenic",
+    "full": "Sfântul Edwin, rege și mucenic",
+    "short": "Edwin, rege și mucenic",
+    "given": "Edwin"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/12/102947-saint-edwin-king-and-martyr",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

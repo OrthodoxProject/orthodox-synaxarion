@@ -1,0 +1,23 @@
+{
+  "id": "manetha-of-c-sarea-in-palestine",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Maneta din Cezareea Palestinei",
+    "full": "Sfânta Muceniță Maneta din Cezareea Palestinei",
+    "short": "Maneta din Cezareea Palestinei",
+    "given": "Maneta"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/13/206386-martyr-manetha-of-csarea-in-palestine",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

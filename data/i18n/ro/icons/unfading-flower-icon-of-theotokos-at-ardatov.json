@@ -1,0 +1,20 @@
+{
+  "id": "unfading-flower-icon-of-theotokos-at-ardatov",
+  "locale": "ro",
+  "names": {
+    "display": "Icoana Maicii Domnului „Floarea cea neveștejită” de la Ardatov"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/31/100208-unfading-flower-icon-of-the-mother-of-god-at-ardatov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

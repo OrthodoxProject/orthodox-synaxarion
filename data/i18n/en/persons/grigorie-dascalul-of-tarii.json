@@ -1,0 +1,27 @@
+{
+  "id": "grigorie-dascalul-of-tarii",
+  "locale": "en",
+  "names": {
+    "display": "Saint Gregory the Teacher, Metropolitan of Wallachia",
+    "short": "Gregory the Teacher, Metropolitan of Wallachia",
+    "given": "Gregory"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-grigorie-dascalul-mitropolitul-tarii-romanesti",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ier-grigorie-dascalul-mitropolitul-tarii-romanesti-sf-sfintit-mc-eusebiu-episcopul-samosatei-dezlegare-la-peste/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

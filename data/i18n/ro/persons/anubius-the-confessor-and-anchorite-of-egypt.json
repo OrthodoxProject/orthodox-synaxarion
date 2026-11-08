@@ -1,0 +1,23 @@
+{
+  "id": "anubius-the-confessor-and-anchorite-of-egypt",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Anuvie Mărturisitorul, pustnic din Egipt",
+    "full": "Sfântul Cuvios Anuvie Mărturisitorul, pustnic din Egipt",
+    "short": "Anuvie Mărturisitorul, pustnic din Egipt",
+    "given": "Anuvie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/05/101627-venerable-anubius-the-confessor-and-anchorite-of-egypt",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

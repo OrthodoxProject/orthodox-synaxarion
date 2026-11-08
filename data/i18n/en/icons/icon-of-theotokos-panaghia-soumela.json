@@ -1,0 +1,20 @@
+{
+  "id": "icon-of-theotokos-panaghia-soumela",
+  "locale": "en",
+  "names": {
+    "display": "Icon of the Mother of God \"Panagia Soumela\""
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoane-maicii-domnului-panaghia-soumela",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

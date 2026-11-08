@@ -1,0 +1,23 @@
+{
+  "id": "oraiozele",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Fecioară Oraiozela, ucenica Sf. Ap. Andrei",
+    "full": "Sfânta Muceniță Fecioară Oraiozela, ucenica Sfântului Apostol Andrei",
+    "short": "Oraiozela, ucenica Sf. Ap. Andrei",
+    "given": "Oraiozela"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/26/100269-holy-virgin-martyr-oraiozele-disciple-of-the-holy-apostle-andrew",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

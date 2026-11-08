@@ -1,0 +1,23 @@
+{
+  "id": "lupus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Lup, robul Sf. Dimitrie din Tesalonic",
+    "full": "Sfântul Mucenic Lup, robul Sfântului Dimitrie din Tesalonic",
+    "short": "Lup, robul Sf. Dimitrie din Tesalonic",
+    "given": "Lup"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/23/102378-martyr-lupus-slave-of-saint-demetrius-of-thessalonica",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

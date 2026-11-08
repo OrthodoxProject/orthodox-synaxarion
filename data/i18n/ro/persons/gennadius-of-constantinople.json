@@ -1,0 +1,23 @@
+{
+  "id": "gennadius-of-constantinople",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ghenadie, Patriarhul Constantinopolului",
+    "full": "Sfântul Ierarh Ghenadie, Patriarhul Constantinopolului",
+    "short": "Ghenadie, Patriarhul Constantinopolului",
+    "given": "Ghenadie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/31/102444-saint-gennadius-patriarch-of-constantinople",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

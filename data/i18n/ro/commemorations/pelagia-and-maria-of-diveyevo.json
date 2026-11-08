@@ -1,0 +1,20 @@
+{
+  "id": "pelagia-and-maria-of-diveyevo",
+  "locale": "ro",
+  "names": {
+    "display": "Fericitele Pelaghia, Parascheva și Maria de la Diveevo"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/26/100559-blessed-pelagia-paraskeva-and-maria-of-diveyevo",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

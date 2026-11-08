@@ -1,0 +1,20 @@
+{
+  "id": "synaxis-of-saints-of-georgia",
+  "locale": "ro",
+  "names": {
+    "display": "Soborul Sfinților din Georgia"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/11/103910-synaxis-of-the-saints-of-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

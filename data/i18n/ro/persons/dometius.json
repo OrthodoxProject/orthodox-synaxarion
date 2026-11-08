@@ -1,0 +1,23 @@
+{
+  "id": "dometius",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Dometie",
+    "full": "Sfântul Cuvios Dometie",
+    "short": "Dometie",
+    "given": "Dometie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/08/100703-venerable-dometius",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

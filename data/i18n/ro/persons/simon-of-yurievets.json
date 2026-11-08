@@ -1,0 +1,22 @@
+{
+  "id": "simon-of-yurievets",
+  "locale": "ro",
+  "names": {
+    "display": "Fericitul Simon din Iurieveț",
+    "short": "Simon din Iurieveț",
+    "given": "Simon"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/04/108918-blessed-simon-of-yurievets",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "dometie",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Dometius",
+    "short": "Dometius",
+    "given": "Dometius"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-dometie",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

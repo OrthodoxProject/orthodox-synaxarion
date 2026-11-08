@@ -1,0 +1,27 @@
+{
+  "id": "melania-romana",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Melania the Roman",
+    "short": "Melania the Roman",
+    "given": "Melania"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-melania-romana",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/odovania-praznicului-nasterii-domnului-%e2%80%a0-sf-mc-hermes-sf-cuv-melania-romana-slujba-la-cumpana-dintre-ani/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

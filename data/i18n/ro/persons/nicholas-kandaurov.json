@@ -1,0 +1,23 @@
+{
+  "id": "nicholas-kandaurov",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Nicolae Kandaurov",
+    "full": "Sfântul Nicolae Kandaurov",
+    "short": "Nicolae Kandaurov",
+    "given": "Nicolae"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/17/205326-saint-nicholas-kandaurov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

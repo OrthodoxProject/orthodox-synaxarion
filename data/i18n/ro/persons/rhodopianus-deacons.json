@@ -1,0 +1,23 @@
+{
+  "id": "rhodopianus-deacons",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Rodopian diaconul, din Afrodisia, în Anatolia",
+    "full": "Sfântul Mucenic Rodopian diaconul, din Afrodisia, în Anatolia",
+    "short": "Rodopian diaconul, din Afrodisia, în Anatolia",
+    "given": "Rodopian"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/29/101243-martyrs-diodorus-and-rhodopianusdeacons-at-aphrodisia-in-anatoli",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

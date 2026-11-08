@@ -1,0 +1,27 @@
+{
+  "id": "dionisie-of-cetatii",
+  "locale": "en",
+  "names": {
+    "display": "Saint Dionysius, Bishop of Cetatea Albă-Ismail",
+    "short": "Dionysius, Bishop of Cetatea Albă-Ismail",
+    "given": "Dionysius"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-dionisie-episcopul-cetatii-albe-ismail",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ier-dionisie-episcopul-cetatii-albe-ismail-sf-mc-sofia-intelepciunea-si-fiicele-ei-pistis-credinta-elpis-nadejdea-si-agapi-dragostea/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

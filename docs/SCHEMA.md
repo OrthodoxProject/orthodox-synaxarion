@@ -104,7 +104,7 @@ O linie din calendar are una sau mai multe pomeniri tipărite împreună, plus s
 - Fiecare limbă are fișierele ei: `i18n/ro/...`, `i18n/en/...`, `i18n/sr-Cyrl/...`, `i18n/grc/...`. Codurile urmează BCP 47.
 - O persoană, un grup, un loc, o icoană și o tradiție au nevoie de nume în cel puțin o limbă. Pentru română și engleză (limbile primei versiuni), lipsa e semnalată ca avertisment.
 - Zilele de sfinți (`kind: repose`) își iau titlul din persoană, deci nu au nevoie de fișier de limbă propriu; îl adaugi doar pentru nume populare (`names.folk`, ex. *Sângeorz*, *Никољдан*).
-- `translation.method` spune de unde vine textul: `original` (scris direct în limba respectivă), `human` (tradus de un om) sau `machine` (traducere automată). Textele traduse automat nu se publică până nu ajung la statutul `reviewed`.
+- `translation.method` spune de unde vine textul: `original` (scris direct în limba respectivă), `human` (tradus de un om) sau `machine` (traducere automată), iar `translation.from` din ce limbă s-a tradus. Site-ul arată traducerea automată în limba cititorului, cu nota „Traducere automată din …, încă nerevizuită”; nota dispare când cineva o verifică și trece `translation.status` la `reviewed`.
 - Formele gramaticale (`names.forms.genitive`, `names.forms.vocative`) servesc la titluri și rugăciuni: *Acatistul Sfântului Ierarh Nicolae*, *Sfinte Ierarhe Nicolae, roagă-te pentru noi*.
 
 ## Cum adaugi un sfânt
@@ -167,7 +167,25 @@ Cum lucrează:
 - **Postul din calendarul oficial** (notele „Dezlegare la pește”, „Harți”, „Post” și „Dezlegare la brânză, lapte, ouă și pește” din titlul zilei) ajunge în `data/traditions/romanian/overrides/<an>.json`. Calendarul oficial tipărește toate dezlegările la pește, deci o zi în care [modelul de post](#calendarul-calculat) ar da pește, iar calendarul nu, primește postul modelului fără dezlegare. Postul deja scris pentru o zi nu se rescrie; valorile care diferă de calendarul oficial se numără în raport la `patriarhia.fasting-kept`.
 - **Înregistrările existente nu se rescriu**: importul le recunoaște și le pune doar în calendarele în care lipseau; rândurile noi se adaugă după cele existente ale zilei. Toate înregistrările noi sunt ciorne, cu sursele lor și cu nota „Importat automat … de verificat” în `editorial.notes`.
 
-Ce rămâne de lucru după import: numele în limba care lipsește (sfinții găsiți doar în română sau doar în engleză apar ca avertismente `i18n.missing-locale`), zilele armene, chipul sfințeniei acolo unde titlul nu-l spune (notat în `editorial.notes`), și revizuirea potrivirilor făcute automat.
+- **Traducerile automate** nu contează la potrivire: numele se compară doar cu ce au scris sursele și redactorii.
+
+Ce rămâne de lucru după import: numele în limba care lipsește (sfinții găsiți doar în română sau doar în engleză apar ca avertismente `i18n.missing-locale`, până îi traduce `npm run translate`), zilele armene, chipul sfințeniei acolo unde titlul nu-l spune (notat în `editorial.notes`), și revizuirea potrivirilor făcute automat.
+
+## Traducerea numelor
+
+```bash
+npm run translate -- --export
+```
+
+Multe înregistrări au nume doar într-una din limbile site-ului: sfinții din calendarul OCA, din sinaxarul copt și din calendarul armean doar în engleză, cei din calendarul BOR doar în română. `npm run translate -- --export` (`tools/translate.ts`) scrie, pentru fiecare limbă, ce îi lipsește în `build/translate/<limbă>.json` (necomis): numele și textele scurte (`summary`, `synaxarion`) din fișierele de limbă, plus viețile lungi (`.md`). Fiecare intrare are textul de tradus (`source`), limba lui (`from`) și context: felul înregistrării, genul, chipul sfințeniei, tradițiile care o pomenesc și numele pe care înregistrările legate de ea le au deja în limba țintă.
+
+Completezi `target` cu traducerea, în aceeași formă ca `source` (pentru persoane și `names.full`, `names.short`, `names.given`, în stilul limbii țintă: *Sf. Cuv. Anatolie I de la Optina* / *Venerable Anatole I of Optina*), apoi:
+
+```bash
+npm run translate -- --apply
+```
+
+`--apply` scrie fișierele în `data/i18n/<limbă>/`, cu `translation` `{ "status": "machine", "method": "machine", "from": "en", "date": … }`; `--method human` le marchează ca traduse de un om. Intrările necompletate se sar. Textul pe care o înregistrare îl are deja într-o limbă nu se înlocuiește niciodată; o traducere automată mai veche, da. Variantele de nume, numele populare și onomasticile nu se traduc: țin de fiecare limbă. Rulează apoi `npm run check`.
 
 ## Ce verifică validatorul
 

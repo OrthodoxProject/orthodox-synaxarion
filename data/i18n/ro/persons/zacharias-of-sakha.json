@@ -1,0 +1,23 @@
+{
+  "id": "zacharias-of-sakha",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Zaharia, Episcopul de Saha",
+    "full": "Sfântul Ierarh Zaharia, Episcopul de Saha",
+    "short": "Zaharia, Episcopul de Saha",
+    "given": "Zaharia"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/6_21.html?lang=en#4",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

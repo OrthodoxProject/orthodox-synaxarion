@@ -1,0 +1,23 @@
+{
+  "id": "david-of-hermopolis",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. David din Hermopolis, Egipt",
+    "full": "Sfântul David din Hermopolis, Egipt",
+    "short": "David din Hermopolis, Egipt",
+    "given": "David"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/06/102528-saint-david-of-hermopolis-egypt",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "cyprian-of-moscow--translation-of-relics",
+  "locale": "ro",
+  "names": {
+    "display": "Aducerea moaștelor Sf. Ier. Ciprian, Fotie și Iona, Mitropoliții Moscovei și ai Întregii Rusii"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/27/101547-translation-of-the-relics-of-saints-cyprian-photius-and-jonah-me",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

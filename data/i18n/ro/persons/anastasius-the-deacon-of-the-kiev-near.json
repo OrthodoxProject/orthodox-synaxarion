@@ -1,0 +1,23 @@
+{
+  "id": "anastasius-the-deacon-of-the-kiev-near",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Anastasie diaconul, de la Peșterile Apropiate din Kiev",
+    "full": "Sfântul Cuvios Mucenic Anastasie diaconul, de la Peșterile Apropiate din Kiev",
+    "short": "Anastasie diaconul, de la Peșterile Apropiate din Kiev",
+    "given": "Anastasie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/22/100264-monastic-martyr-anastasius-the-deacon-of-the-kiev-near-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

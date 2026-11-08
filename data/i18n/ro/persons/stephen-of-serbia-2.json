@@ -1,0 +1,23 @@
+{
+  "id": "stephen-of-serbia-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ștefan din Serbia, „cel orb”",
+    "full": "Sfântul Ștefan din Serbia, „cel orb”",
+    "short": "Ștefan din Serbia, „cel orb”",
+    "given": "Ștefan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/09/108066-saint-stephen-of-serbia-the-blind-one",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

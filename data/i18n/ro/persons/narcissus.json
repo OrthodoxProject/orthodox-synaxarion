@@ -1,0 +1,23 @@
+{
+  "id": "narcissus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Narcis",
+    "full": "Sfântul Narcis",
+    "short": "Narcis",
+    "given": "Narcis"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/7_1.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

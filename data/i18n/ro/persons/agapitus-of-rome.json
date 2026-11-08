@@ -1,0 +1,23 @@
+{
+  "id": "agapitus-of-rome",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Agapit, Papa Romei",
+    "full": "Sfântul Ierarh Agapit, Papa Romei",
+    "short": "Agapit, Papa Romei",
+    "given": "Agapit"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/17/101133-saint-agapitus-pope-of-rome",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "yustus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Iust, monahul de la Mănăstirea Sf. Antonie",
+    "full": "Sfântul Cuvios Iust, monahul de la Mănăstirea Sfântului Antonie",
+    "short": "Iust, monahul de la Mănăstirea Sf. Antonie",
+    "given": "Iust"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/4_8.html?lang=en#5",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

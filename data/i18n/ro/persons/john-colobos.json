@@ -1,0 +1,23 @@
+{
+  "id": "john-colobos",
+  "locale": "ro",
+  "names": {
+    "display": "Marele Sf. Ioan Colov (cel Mic)",
+    "full": "Marele Sfânt Ioan Colov (cel Mic)",
+    "short": "Ioan Colov",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/2_20.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

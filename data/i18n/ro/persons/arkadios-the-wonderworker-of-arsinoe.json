@@ -1,0 +1,23 @@
+{
+  "id": "arkadios-the-wonderworker-of-arsinoe",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Arcadie făcătorul de minuni, Episcopul Arsinoei, în Cipru",
+    "full": "Sfântul Ierarh Arcadie făcătorul de minuni, Episcopul Arsinoei, în Cipru",
+    "short": "Arcadie făcătorul de minuni, Episcopul Arsinoei, în Cipru",
+    "given": "Arcadie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/29/100018-saint-arkadios-the-wonderworker-bishop-of-arsinoe-cyprus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

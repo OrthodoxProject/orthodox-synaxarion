@@ -1,0 +1,27 @@
+{
+  "id": "andrei-of-creta",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Martyr Andrew of Crete",
+    "short": "Andrew of Crete",
+    "given": "Andrew"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-mucenic-andrei-din-creta",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-proroc-oseea-sf-cuv-mc-andrei-criteanul/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

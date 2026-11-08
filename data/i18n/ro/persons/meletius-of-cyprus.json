@@ -1,0 +1,23 @@
+{
+  "id": "meletius-of-cyprus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Meletie, Episcopul Ciprului",
+    "full": "Sfântul Ierarh Meletie, Episcopul Ciprului",
+    "short": "Meletie, Episcopul Ciprului",
+    "given": "Meletie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/21/102690-saint-meletius-bishop-of-cyprus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

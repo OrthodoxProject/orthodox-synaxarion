@@ -1,0 +1,23 @@
+{
+  "id": "endellion",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Endellion, zăvorâta din Cornwall",
+    "full": "Sfânta Endellion, zăvorâta din Cornwall",
+    "short": "Endellion, zăvorâta din Cornwall",
+    "given": "Endellion"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/29/205351-saint-endellion-recluse-of-cornwall",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

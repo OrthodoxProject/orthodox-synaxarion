@@ -1,0 +1,23 @@
+{
+  "id": "herodion-of-iloezersk",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Irodion, egumenul de la Iloezersk",
+    "full": "Sfântul Cuvios Irodion, egumenul de la Iloezersk",
+    "short": "Irodion, egumenul de la Iloezersk",
+    "given": "Irodion"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/28/102744-venerable-herodion-abbot-of-iloezersk",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

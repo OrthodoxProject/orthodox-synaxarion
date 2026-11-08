@@ -1,0 +1,22 @@
+{
+  "id": "alina",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Alina",
+    "short": "Alina",
+    "given": "Alina"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-alina",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

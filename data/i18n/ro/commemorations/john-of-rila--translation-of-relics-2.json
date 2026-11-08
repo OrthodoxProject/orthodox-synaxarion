@@ -1,0 +1,20 @@
+{
+  "id": "john-of-rila--translation-of-relics-2",
+  "locale": "ro",
+  "names": {
+    "display": "Aducerea moaștelor Sf. Cuv. Ioan de la Rila, Bulgaria"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/19/103000-translation-of-the-relics-of-venerable-john-abbot-of-rila-bulgar",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

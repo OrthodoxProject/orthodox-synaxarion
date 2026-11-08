@@ -1,0 +1,23 @@
+{
+  "id": "archangel-suriel",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Arh. Suriel",
+    "full": "Sfântul Arhanghel Suriel",
+    "short": "Suriel",
+    "given": "Suriel"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/5_27.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

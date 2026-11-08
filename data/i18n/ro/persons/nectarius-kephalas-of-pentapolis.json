@@ -1,0 +1,23 @@
+{
+  "id": "nectarius-kephalas-of-pentapolis",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Nectarie Kefalas, Mitropolitul Pentapolei",
+    "full": "Sfântul Ierarh Nectarie Kefalas, Mitropolitul Pentapolei",
+    "short": "Nectarie Kefalas, Mitropolitul Pentapolei",
+    "given": "Nectarie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/09/103251-saint-nectarius-kephalas-metropolitan-of-pentapolis",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "damianos",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Damian, al 35-lea Papă al Alexandriei",
+    "full": "Sfântul Ierarh Damian, al 35-lea Papă al Alexandriei",
+    "short": "Damian, al 35-lea Papă al Alexandriei",
+    "given": "Damian"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/10_18.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "maximus-the-greek--finding-of-relics",
+  "locale": "ro",
+  "names": {
+    "display": "Aflarea moaștelor Sf. Maxim Grecul"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/04/101212-finding-of-the-relics-of-venerable-maximus-the-greek-july-4-1996",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

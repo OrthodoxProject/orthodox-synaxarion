@@ -1,0 +1,23 @@
+{
+  "id": "nikodemos-of-albania",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Noul Mc. Nicodim din Albania",
+    "full": "Sfântul Cuvios Noul Mucenic Nicodim din Albania",
+    "short": "Nicodim din Albania",
+    "given": "Nicodim"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/11/108016-new-monastic-martyr-ikdmos-of-albania",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

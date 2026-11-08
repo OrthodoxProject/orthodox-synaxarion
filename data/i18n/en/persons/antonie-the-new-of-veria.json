@@ -1,0 +1,27 @@
+{
+  "id": "antonie-the-new-of-veria",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Anthony the New of Veria",
+    "short": "Anthony the New of Veria",
+    "given": "Anthony"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-antonie-cel-nou-de-la-veria",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-antonie-cel-mare-sf-cuv-antonie-cel-nou-din-veria/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

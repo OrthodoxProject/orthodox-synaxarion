@@ -1,0 +1,23 @@
+{
+  "id": "epimakhos-of-alexandria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ap. Epimah din Alexandria",
+    "full": "Sfântul Apostol Epimah din Alexandria",
+    "short": "Epimah din Alexandria",
+    "given": "Epimah"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/31/103128-apostle-epmakhos-of-alexandria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "theodosia-the-nun-of-constantinople",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Fecioară Teodosia monahia, din Constantinopol",
+    "full": "Sfânta Muceniță Fecioară Teodosia monahia, din Constantinopol",
+    "short": "Teodosia monahia, din Constantinopol",
+    "given": "Teodosia"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/29/101564-virgin-martyr-theodosia-the-nun-of-constantinople",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

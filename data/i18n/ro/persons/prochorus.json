@@ -1,0 +1,23 @@
+{
+  "id": "prochorus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Prohor, egumen în pustia Vranski, pe râul Pșina, în Bulgaria",
+    "full": "Sfântul Cuvios Prohor, egumen în pustia Vranski, pe râul Pșina, în Bulgaria",
+    "short": "Prohor, egumen în pustia Vranski, pe râul Pșina, în Bulgaria",
+    "given": "Prohor"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/15/100199-saint-prochorus-abbot-in-the-vranski-desert-on-the-river-pshina",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

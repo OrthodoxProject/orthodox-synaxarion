@@ -1,0 +1,20 @@
+{
+  "id": "innocent-of-irkutsk--finding-of-relics",
+  "locale": "ro",
+  "names": {
+    "display": "Aflarea moaștelor Sf. Ier. Inochentie, Episcopul Irkuțkului"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/09/100467-uncovering-of-the-relics-of-saint-innocent-bishop-of-irkutsk",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

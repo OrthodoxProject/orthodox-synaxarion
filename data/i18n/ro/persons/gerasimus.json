@@ -1,0 +1,23 @@
+{
+  "id": "gerasimus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Gherasim",
+    "full": "Sfântul Gherasim",
+    "short": "Gherasim",
+    "given": "Gherasim"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/15/108952-saint-gerasimus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

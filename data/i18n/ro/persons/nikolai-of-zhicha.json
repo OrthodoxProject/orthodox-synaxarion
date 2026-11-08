@@ -1,0 +1,23 @@
+{
+  "id": "nikolai-of-zhicha",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Nicolae de la Jicea",
+    "full": "Sfântul Nicolae de la Jicea",
+    "short": "Nicolae de la Jicea",
+    "given": "Nicolae"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/18/100825-repose-of-saint-nikolai-of-zhicha",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

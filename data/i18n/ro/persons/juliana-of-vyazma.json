@@ -1,0 +1,23 @@
+{
+  "id": "juliana-of-vyazma",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Binecredincioasa Cneaghină Iuliana din Viazma",
+    "full": "Sfânta Binecredincioasa Cneaghină Iuliana din Viazma",
+    "short": "Iuliana din Viazma",
+    "given": "Iuliana"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/21/103605-right-believing-princess-juliana-of-vyazma",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

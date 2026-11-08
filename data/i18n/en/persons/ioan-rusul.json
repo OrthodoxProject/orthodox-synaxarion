@@ -1,0 +1,27 @@
+{
+  "id": "ioan-rusul",
+  "locale": "en",
+  "names": {
+    "display": "Confessor John the Russian",
+    "short": "John the Russian",
+    "given": "John"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-marturisitor-ioan-rusul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-iuliu-veteranul-sf-sfintiti-mc-eladie-si-terapont-episcopul-sardei-sf-mart-ioan-rusul-dezlegare-la-peste/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

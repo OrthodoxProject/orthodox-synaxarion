@@ -1,0 +1,23 @@
+{
+  "id": "pausilippus-of-heraclea-in-thrace",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Pausilip din Heracleea Traciei",
+    "full": "Sfântul Mucenic Pausilip din Heracleea Traciei",
+    "short": "Pausilip din Heracleea Traciei",
+    "given": "Pausilip"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/08/101032-martyr-pausilippus-of-heraclea-in-thrace",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

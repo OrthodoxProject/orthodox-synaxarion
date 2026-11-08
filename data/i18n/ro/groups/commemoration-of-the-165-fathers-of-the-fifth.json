@@ -1,0 +1,20 @@
+{
+  "id": "commemoration-of-the-165-fathers-of-the-fifth",
+  "locale": "ro",
+  "names": {
+    "display": "Pomenirea Sfinților 165 de Părinți de la Sinodul al V-lea Ecumenic"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/25/102090-commemoration-of-the-holy-165-fathers-of-the-fifth-ecumenical-co",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

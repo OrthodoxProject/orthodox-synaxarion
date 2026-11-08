@@ -1,0 +1,23 @@
+{
+  "id": "melchizedek",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Drept Melchisedec, regele Salemului",
+    "full": "Sfântul Drept Melchisedec, regele Salemului",
+    "short": "Melchisedec, regele Salemului",
+    "given": "Melchisedec"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/22/205365-righteous-melchizedek-king-of-salem",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

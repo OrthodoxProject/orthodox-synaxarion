@@ -1,0 +1,23 @@
+{
+  "id": "basil-4",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Vasile",
+    "full": "Sfântul Mucenic Vasile",
+    "short": "Vasile",
+    "given": "Vasile"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/11/102265-martyrs-basil-and-theodore-of-the-kiev-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

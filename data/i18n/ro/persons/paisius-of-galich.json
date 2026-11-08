@@ -1,0 +1,23 @@
+{
+  "id": "paisius-of-galich",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Paisie, egumenul din Galici",
+    "full": "Sfântul Cuvios Paisie, egumenul din Galici",
+    "short": "Paisie, egumenul din Galici",
+    "given": "Paisie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/23/101500-venerable-paisius-abbot-of-galich",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

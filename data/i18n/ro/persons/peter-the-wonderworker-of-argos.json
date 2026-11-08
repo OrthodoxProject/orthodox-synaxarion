@@ -1,0 +1,23 @@
+{
+  "id": "peter-the-wonderworker-of-argos",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Petru făcătorul de minuni, Episcopul Argosului",
+    "full": "Sfântul Ierarh Petru făcătorul de minuni, Episcopul Argosului",
+    "short": "Petru făcătorul de minuni, Episcopul Argosului",
+    "given": "Petru"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/03/101281-saint-peter-the-wonderworker-bishop-of-argos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

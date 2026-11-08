@@ -1,0 +1,22 @@
+{
+  "id": "meletie-of-lardos",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Meletius of Lardos",
+    "short": "Meletius of Lardos",
+    "given": "Meletius"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-meletie-din-lardos-5",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

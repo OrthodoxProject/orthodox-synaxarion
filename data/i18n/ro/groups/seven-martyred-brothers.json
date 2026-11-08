@@ -1,0 +1,20 @@
+{
+  "id": "seven-martyred-brothers",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții 7 frați mucenici: Orentie, Farnachie, Eros, Firm, Firmin, Chiriac și Longhin, în Georgia"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/24/101803-seven-martyred-brothers-orentius-pharnacius-eros-firmus-firminus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

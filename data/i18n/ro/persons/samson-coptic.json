@@ -1,0 +1,21 @@
+{
+  "id": "samson-coptic",
+  "locale": "ro",
+  "names": {
+    "display": "Samson, unul dintre judecătorii lui Israel",
+    "given": "Samson"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/7_30.html?lang=en#3",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

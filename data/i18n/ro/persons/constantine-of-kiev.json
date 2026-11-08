@@ -1,0 +1,22 @@
+{
+  "id": "constantine-of-kiev",
+  "locale": "ro",
+  "names": {
+    "display": "Fericitul Constantin, Mitropolitul Kievului",
+    "short": "Constantin, Mitropolitul Kievului",
+    "given": "Constantin"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/05/101612-blessed-constantine-metropolitan-of-kiev",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

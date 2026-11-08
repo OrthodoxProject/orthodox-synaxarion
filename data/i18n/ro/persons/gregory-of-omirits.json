@@ -1,0 +1,23 @@
+{
+  "id": "gregory-of-omirits",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Grighentie, Arhiepiscopul Omiriților",
+    "full": "Sfântul Ierarh Grighentie, Arhiepiscopul Omiriților",
+    "short": "Grighentie, Arhiepiscopul Omiriților",
+    "given": "Grighentie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/19/103592-saint-gregory-archbishop-of-omirits",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

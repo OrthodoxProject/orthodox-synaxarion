@@ -1,0 +1,23 @@
+{
+  "id": "palladius-of-thessalonica",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Paladie din Tesalonic",
+    "full": "Sfântul Cuvios Paladie din Tesalonic",
+    "short": "Paladie din Tesalonic",
+    "given": "Paladie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/27/103403-venerable-palladius-of-thessalonica",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

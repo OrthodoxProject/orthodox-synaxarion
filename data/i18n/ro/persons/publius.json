@@ -1,0 +1,28 @@
+{
+  "id": "publius",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Publie",
+    "full": "Sfântul Mucenic Publie",
+    "short": "Publie",
+    "given": "Publie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/13/100794-martyrs-africanus-publius-and-terence-of-carthage",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/13/100795-hieromartyr-publius-bishop-of-athens",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

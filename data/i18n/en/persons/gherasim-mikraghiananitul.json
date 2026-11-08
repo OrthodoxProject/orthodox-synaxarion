@@ -1,0 +1,22 @@
+{
+  "id": "gherasim-mikraghiananitul",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Gerasimus Mikragiannanitis",
+    "short": "Gerasimus Mikragiannanitis",
+    "given": "Gerasimus"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-gherasim-mikraghiananitul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

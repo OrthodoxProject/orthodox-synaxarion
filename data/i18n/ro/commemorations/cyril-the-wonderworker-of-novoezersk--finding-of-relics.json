@@ -1,0 +1,20 @@
+{
+  "id": "cyril-the-wonderworker-of-novoezersk--finding-of-relics",
+  "locale": "ro",
+  "names": {
+    "display": "Aflarea moaștelor Sf. Cuv. Chiril, egumenul de la Novoezersk, Vologda"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/07/103234-finding-of-the-relics-of-venerable-cyril-abbot-of-novoezersk-vol",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

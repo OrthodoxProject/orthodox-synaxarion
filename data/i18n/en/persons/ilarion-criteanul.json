@@ -1,0 +1,22 @@
+{
+  "id": "ilarion-criteanul",
+  "locale": "en",
+  "names": {
+    "display": "Venerable New Martyr Hilarion of Crete",
+    "short": "Hilarion of Crete",
+    "given": "Hilarion"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-nou-mucenic-ilarion-criteanul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

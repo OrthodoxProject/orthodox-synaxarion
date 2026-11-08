@@ -1,0 +1,22 @@
+{
+  "id": "filoteea-of-atena",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Philothei of Athens",
+    "short": "Philothei of Athens",
+    "given": "Philothei"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-filoteea-din-atena",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

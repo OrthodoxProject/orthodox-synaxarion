@@ -1,0 +1,23 @@
+{
+  "id": "alexander-of-comana",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Alexandru, Episcopul Comanei",
+    "full": "Sfântul Sfințit Mucenic Alexandru, Episcopul Comanei",
+    "short": "Alexandru, Episcopul Comanei",
+    "given": "Alexandru"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/12/102282-hieromartyr-alexander-bishop-of-comana",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "mstislav",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mstislav (Gheorghe), cneazul Novgorodului",
+    "full": "Sfântul Mstislav (Gheorghe), cneazul Novgorodului",
+    "short": "Mstislav, cneazul Novgorodului",
+    "given": "Mstislav"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/14/101720-saint-mstislav-george-prince-of-novgorod",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

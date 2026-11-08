@@ -1,0 +1,23 @@
+{
+  "id": "philosophos-of-petersburg",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Filosof din Sankt Petersburg",
+    "full": "Sfântul Sfințit Mucenic Filosof din Sankt Petersburg",
+    "short": "Filosof din Sankt Petersburg",
+    "given": "Filosof"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/31/108077-hieromartyr-philosophos-of-st-petersburg",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

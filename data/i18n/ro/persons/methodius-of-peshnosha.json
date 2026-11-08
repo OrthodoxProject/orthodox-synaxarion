@@ -1,0 +1,23 @@
+{
+  "id": "methodius-of-peshnosha",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Metodie, egumenul de la Peșnoșa, ucenicul Sf. Cuv. Sergiu de Radonej",
+    "full": "Sfântul Cuvios Metodie, egumenul de la Peșnoșa, ucenicul Sfântului Cuvios Sergiu de Radonej",
+    "short": "Metodie, egumenul de la Peșnoșa, ucenicul Sf. Cuv. Sergiu de Radonej",
+    "given": "Metodie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/04/101602-venerable-methodius-abbot-of-peshnosha-disciple-of-venerable-ser",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

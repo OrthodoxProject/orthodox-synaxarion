@@ -1,0 +1,23 @@
+{
+  "id": "paraskevi-of-iconium",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mare Mc. Paraschevi din Iconiu",
+    "full": "Sfânta Mare Muceniță Paraschevi din Iconiu",
+    "short": "Paraschevi din Iconiu",
+    "given": "Paraschevi"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/28/103086-greatmartyr-paraskevi-of-iconium",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

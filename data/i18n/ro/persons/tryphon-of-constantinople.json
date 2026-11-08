@@ -1,0 +1,23 @@
+{
+  "id": "tryphon-of-constantinople",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Trifon, Patriarhul Constantinopolului",
+    "full": "Sfântul Ierarh Trifon, Patriarhul Constantinopolului",
+    "short": "Trifon, Patriarhul Constantinopolului",
+    "given": "Trifon"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/19/101152-saint-tryphon-patriarch-of-constantinople",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

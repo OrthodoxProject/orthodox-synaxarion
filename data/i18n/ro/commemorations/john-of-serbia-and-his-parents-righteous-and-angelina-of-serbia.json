@@ -1,0 +1,20 @@
+{
+  "id": "john-of-serbia-and-his-parents-righteous-and-angelina-of-serbia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Drept Ioan, regele Serbiei, și părinții săi, Sf. Drept Ștefan, despotul Serbiei, și Sf. Cuv. Anghelina din Serbia"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/10/103517-righteous-king-john-of-serbia-and-his-parents-righteous-stephen",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

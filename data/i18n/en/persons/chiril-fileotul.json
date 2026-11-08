@@ -1,0 +1,22 @@
+{
+  "id": "chiril-fileotul",
+  "locale": "en",
+  "names": {
+    "display": "Saint Cyril Phileotes",
+    "short": "Cyril Phileotes",
+    "given": "Cyril"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-chiril-fileotul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

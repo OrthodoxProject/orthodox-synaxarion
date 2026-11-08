@@ -1,0 +1,23 @@
+{
+  "id": "savva-of-upper-karlovac",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Sava, Episcopul de Gornji Karlovac",
+    "full": "Sfântul Sfințit Mucenic Sava, Episcopul de Gornji Karlovac",
+    "short": "Sava, Episcopul de Gornji Karlovac",
+    "given": "Sava"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/04/205315-hieromartyr-savva-bishop-of-upper-karlovac",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

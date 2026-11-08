@@ -1,0 +1,23 @@
+{
+  "id": "vartan-the-captain-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Vardan Stratilat și cei împreună cu el",
+    "full": "Sfântul Vardan Stratilat și cei împreună cu el",
+    "short": "Vardan Stratilat și cei împreună cu el",
+    "given": "Vardan"
+  },
+  "references": [
+    {
+      "source": "src:armenianchurch-ge",
+      "url": "https://armenianchurch.ge/en/kalendar-prazdnikov/description-2/february/feast-of-st-vartan-the-captain-and-companions",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

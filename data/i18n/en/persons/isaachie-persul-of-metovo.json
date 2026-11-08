@@ -1,0 +1,22 @@
+{
+  "id": "isaachie-persul-of-metovo",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Isaac the Persian of Metsovo",
+    "short": "Isaac the Persian of Metsovo",
+    "given": "Isaac"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-isaachie-persul-din-metovo",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

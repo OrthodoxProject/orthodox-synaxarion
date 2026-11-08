@@ -1,0 +1,22 @@
+{
+  "id": "faust-2",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Faustus",
+    "short": "Faustus",
+    "given": "Faustus"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-faust",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

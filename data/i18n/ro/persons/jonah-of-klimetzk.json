@@ -1,0 +1,23 @@
+{
+  "id": "jonah-of-klimetzk",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Iona, egumenul de la Klimețk",
+    "full": "Sfântul Cuvios Iona, egumenul de la Klimețk",
+    "short": "Iona, egumenul de la Klimețk",
+    "given": "Iona"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/06/101635-venerable-jonah-abbot-of-klimetzk",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

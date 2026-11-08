@@ -1,0 +1,20 @@
+{
+  "id": "tikhon-of-voronezh--finding-of-relics",
+  "locale": "ro",
+  "names": {
+    "display": "Întâia deschidere a moaștelor Sf. Ier. Tihon de Zadonsk"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/14/101381-first-opening-of-the-relics-of-saint-tikhon-of-zadonsk",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

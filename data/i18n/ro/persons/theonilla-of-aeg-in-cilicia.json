@@ -1,0 +1,23 @@
+{
+  "id": "theonilla-of-aeg-in-cilicia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Teonila din Egeea Ciliciei",
+    "full": "Sfânta Muceniță Teonila din Egeea Ciliciei",
+    "short": "Teonila din Egeea Ciliciei",
+    "given": "Teonila"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/29/103103-martyr-claudius-asterius-neon-and-theonilla-of-aeg-in-cilicia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "germanus-of-paris",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Gherman, Episcopul Parisului",
+    "full": "Sfântul Ierarh Gherman, Episcopul Parisului",
+    "short": "Gherman, Episcopul Parisului",
+    "given": "Gherman"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/28/101558-saint-germanus-bishop-of-paris",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

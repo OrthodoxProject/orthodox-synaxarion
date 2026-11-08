@@ -1,0 +1,23 @@
+{
+  "id": "pulcheria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Binecredincioasa Pulheria, împărăteasa bizantină",
+    "full": "Sfânta Binecredincioasa Pulheria, împărăteasa bizantină",
+    "short": "Pulheria, împărăteasa bizantină",
+    "given": "Pulheria"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/10/102566-right-believing-pulcheria-byzantine-empress",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

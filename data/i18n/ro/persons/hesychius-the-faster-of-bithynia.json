@@ -1,0 +1,23 @@
+{
+  "id": "hesychius-the-faster-of-bithynia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Isihie Postitorul, din Bitinia",
+    "full": "Sfântul Cuvios Isihie Postitorul, din Bitinia",
+    "short": "Isihie Postitorul, din Bitinia",
+    "given": "Isihie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/05/100670-saint-hesychius-the-faster-of-bithynia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

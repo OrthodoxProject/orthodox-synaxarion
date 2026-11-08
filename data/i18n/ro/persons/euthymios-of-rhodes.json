@@ -1,0 +1,23 @@
+{
+  "id": "euthymios-of-rhodes",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Eftimie din Rodos",
+    "full": "Sfântul Sfințit Mucenic Eftimie din Rodos",
+    "short": "Eftimie din Rodos",
+    "given": "Eftimie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/09/100184-hieromartyr-euthymios-of-rhodes",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "tikhon-of-moscow",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Tihon, Patriarhul Moscovei, luminătorul Americii de Nord",
+    "full": "Sfântul Ierarh Tihon, Patriarhul Moscovei, luminătorul Americii de Nord",
+    "short": "Tihon, Patriarhul Moscovei, luminătorul Americii de Nord",
+    "given": "Tihon"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/07/101016-repose-of-saint-tikhon-patriarch-of-moscow-enlightener-of-north",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

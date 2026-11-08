@@ -1,0 +1,23 @@
+{
+  "id": "barlaam-of-kiev-near",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Varlaam, egumenul de la Peșterile Apropiate din Kiev",
+    "full": "Sfântul Cuvios Varlaam, egumenul de la Peșterile Apropiate din Kiev",
+    "short": "Varlaam, egumenul de la Peșterile Apropiate din Kiev",
+    "given": "Varlaam"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/19/103331-venerable-barlaam-abbot-of-the-kiev-near-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

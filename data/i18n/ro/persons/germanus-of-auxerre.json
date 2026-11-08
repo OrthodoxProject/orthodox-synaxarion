@@ -1,0 +1,23 @@
+{
+  "id": "germanus-of-auxerre",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Gherman, Episcopul de Auxerre",
+    "full": "Sfântul Ierarh Gherman, Episcopul de Auxerre",
+    "short": "Gherman, Episcopul de Auxerre",
+    "given": "Gherman"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/31/102156-saint-germanus-bishop-of-auxerre",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

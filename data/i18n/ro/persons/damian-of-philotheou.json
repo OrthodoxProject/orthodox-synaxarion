@@ -1,0 +1,23 @@
+{
+  "id": "damian-of-philotheou",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Damian de la Filoteu",
+    "full": "Sfântul Cuvios Mucenic Damian de la Filoteu",
+    "short": "Damian de la Filoteu",
+    "given": "Damian"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/23/100602-monastic-martyr-damian-of-philotheou",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

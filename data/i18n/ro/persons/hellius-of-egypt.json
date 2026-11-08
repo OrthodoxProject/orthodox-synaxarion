@@ -1,0 +1,23 @@
+{
+  "id": "hellius-of-egypt",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Elie din Egipt",
+    "full": "Sfântul Cuvios Elie din Egipt",
+    "short": "Elie din Egipt",
+    "given": "Elie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/14/102026-venerable-hellius-of-egypt",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

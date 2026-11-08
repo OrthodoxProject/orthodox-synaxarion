@@ -1,0 +1,23 @@
+{
+  "id": "seraphima-of-antioch",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Fecioară Serafima (Serapia) din Antiohia",
+    "full": "Sfânta Muceniță Fecioară Serafima (Serapia) din Antiohia",
+    "short": "Serafima din Antiohia",
+    "given": "Serafima"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/29/102126-virgin-martyr-seraphima-serapia-of-antioch",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

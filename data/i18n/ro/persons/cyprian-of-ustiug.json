@@ -1,0 +1,23 @@
+{
+  "id": "cyprian-of-ustiug",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ciprian din Ustiug",
+    "full": "Sfântul Ciprian din Ustiug",
+    "short": "Ciprian din Ustiug",
+    "given": "Ciprian"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/29/108940-saint-cyprian-of-ustiug",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

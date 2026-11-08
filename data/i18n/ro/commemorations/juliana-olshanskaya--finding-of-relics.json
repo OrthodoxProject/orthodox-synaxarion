@@ -1,0 +1,20 @@
+{
+  "id": "juliana-olshanskaya--finding-of-relics",
+  "locale": "ro",
+  "names": {
+    "display": "Aflarea moaștelor Sf. Binecredincioasa Cneaghină Iuliana Olșanskaia"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/06/101920-uncovering-of-the-relics-of-holy-princess-juliana-olshanskaya",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

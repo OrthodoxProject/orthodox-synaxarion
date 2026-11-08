@@ -1,0 +1,20 @@
+{
+  "id": "the-healer-icon-of-theotokos",
+  "locale": "ro",
+  "names": {
+    "display": "Icoana Maicii Domnului „Tămăduitoarea”"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/18/102662-the-healer-icon-of-the-mother-of-god",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

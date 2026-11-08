@@ -1,0 +1,28 @@
+{
+  "id": "spyridon-of-serbia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Spiridon, Patriarhul Serbiei",
+    "full": "Sfântul Ierarh Spiridon, Patriarhul Serbiei",
+    "short": "Spiridon, Patriarhul Serbiei",
+    "given": "Spiridon"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/30/102437-saint-spyridon-patriarch-of-serbia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "comgall-of-bangor",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Comgall de la Bangor",
+    "full": "Sfântul Cuvios Comgall de la Bangor",
+    "short": "Comgall de la Bangor",
+    "given": "Comgall"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/10/103921-venerable-comgall-of-bangor",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

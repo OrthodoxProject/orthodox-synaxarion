@@ -1,0 +1,22 @@
+{
+  "id": "macarie",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Macarius",
+    "short": "Macarius",
+    "given": "Macarius"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfintii-mucenici-terentie-pompie-african-maxim-macarie-dima",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

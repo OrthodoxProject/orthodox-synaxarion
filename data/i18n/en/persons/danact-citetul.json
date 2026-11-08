@@ -1,0 +1,27 @@
+{
+  "id": "danact-citetul",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Danax the Reader",
+    "short": "Danax the Reader",
+    "given": "Danax"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-danact-citetul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/cinstirea-lantului-sf-ap-petru-sf-mc-danact-citetul/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

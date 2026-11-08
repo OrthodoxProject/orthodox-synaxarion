@@ -1,0 +1,23 @@
+{
+  "id": "germanus-of-dyrrachium",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Gherman din Dirahiu, în Macedonia",
+    "full": "Sfântul Mucenic Gherman din Dirahiu, în Macedonia",
+    "short": "Gherman din Dirahiu, în Macedonia",
+    "given": "Gherman"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/07/101953-martyrs-peregrinus-lucian-ompeius-hesychius-papius-saturninus-an",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

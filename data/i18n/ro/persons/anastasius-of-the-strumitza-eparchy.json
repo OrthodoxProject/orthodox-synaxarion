@@ -1,0 +1,23 @@
+{
+  "id": "anastasius-of-the-strumitza-eparchy",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Anastasie din eparhia Strumiței",
+    "full": "Sfântul Anastasie din eparhia Strumiței",
+    "short": "Anastasie din eparhia Strumiței",
+    "given": "Anastasie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/29/108022-saint-anastasius-of-the-strumitza-eparchy",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

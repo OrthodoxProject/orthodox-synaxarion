@@ -1,0 +1,23 @@
+{
+  "id": "dositheus-of-palestine",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Dositei din Palestina, ucenicul Sf. Cuv. Ava Dorotei",
+    "full": "Sfântul Cuvios Dositei din Palestina, ucenicul Sfântului Cuvios Ava Dorotei",
+    "short": "Dositei din Palestina, ucenicul Sf. Cuv. Ava Dorotei",
+    "given": "Dositei"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/19/100566-venerable-dositheus-of-palestine-disciple-of-venerable-abba-doro",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

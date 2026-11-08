@@ -1,0 +1,27 @@
+{
+  "id": "ermoghen",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Hermogenes",
+    "short": "Hermogenes",
+    "given": "Hermogenes"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-ermoghen-0",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mare-mc-hristina-sf-mc-ermoghen/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

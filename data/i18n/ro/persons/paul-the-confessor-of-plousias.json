@@ -1,0 +1,23 @@
+{
+  "id": "paul-the-confessor-of-plousias",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Pavel Mărturisitorul, Episcopul Plusiadei, în Bitinia",
+    "full": "Sfântul Ierarh Pavel Mărturisitorul, Episcopul Plusiadei, în Bitinia",
+    "short": "Pavel Mărturisitorul, Episcopul Plusiadei, în Bitinia",
+    "given": "Pavel"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/07/100693-saint-paul-the-confessor-bishop-of-plousias-in-bithynia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

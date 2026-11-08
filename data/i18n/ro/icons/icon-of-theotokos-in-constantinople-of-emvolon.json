@@ -1,0 +1,20 @@
+{
+  "id": "icon-of-theotokos-in-constantinople-of-emvolon",
+  "locale": "ro",
+  "names": {
+    "display": "Icoana Maicii Domnului de la Emvolon, din Constantinopol"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/26/102098-icon-of-the-mother-of-god-in-constantinople-of-emvolon",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

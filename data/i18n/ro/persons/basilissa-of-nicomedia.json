@@ -1,0 +1,23 @@
+{
+  "id": "basilissa-of-nicomedia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Vasilisa din Nicomidia",
+    "full": "Sfânta Muceniță Vasilisa din Nicomidia",
+    "short": "Vasilisa din Nicomidia",
+    "given": "Vasilisa"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/03/102482-martyr-basilissa-of-nicomedia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

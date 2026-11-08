@@ -1,0 +1,23 @@
+{
+  "id": "nun-martyr-eugenia-of-rome",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Eugenia din Roma",
+    "full": "Sfânta Cuvioasă Muceniță Eugenia din Roma",
+    "short": "Eugenia din Roma",
+    "given": "Eugenia"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/24/103631-nun-martyr-eugenia-of-rome",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

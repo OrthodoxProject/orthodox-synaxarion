@@ -1,0 +1,23 @@
+{
+  "id": "mastridia-of-alexandria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Fecioară Mastridia din Alexandria",
+    "full": "Sfânta Muceniță Fecioară Mastridia din Alexandria",
+    "short": "Mastridia din Alexandria",
+    "given": "Mastridia"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/24/103389-virgin-martyr-mastridia-of-alexandria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "basil-of-rostov",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Binecredinciosul Cneaz Vasile (Vasilko) din Rostov",
+    "full": "Sfântul Binecredinciosul Cneaz Vasile (Vasilko) din Rostov",
+    "short": "Vasile din Rostov",
+    "given": "Vasile"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/04/100652-right-believing-prince-basil-vasilko-of-rostov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

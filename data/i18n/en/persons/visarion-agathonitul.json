@@ -1,0 +1,22 @@
+{
+  "id": "visarion-agathonitul",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Bessarion the Agathonite",
+    "short": "Bessarion the Agathonite",
+    "given": "Bessarion"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-visarion-agathonitul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

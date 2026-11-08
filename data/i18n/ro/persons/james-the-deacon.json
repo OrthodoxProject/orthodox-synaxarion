@@ -1,0 +1,23 @@
+{
+  "id": "james-the-deacon",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Iacob diaconul",
+    "full": "Sfântul Iacob diaconul",
+    "short": "Iacob diaconul",
+    "given": "Iacob"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/18/108025-saint-james-the-deacon",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

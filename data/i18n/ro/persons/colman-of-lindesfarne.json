@@ -1,0 +1,23 @@
+{
+  "id": "colman-of-lindesfarne",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Colman de la Lindisfarne",
+    "full": "Sfântul Colman de la Lindisfarne",
+    "short": "Colman de la Lindisfarne",
+    "given": "Colman"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/18/205328-saint-colman-of-lindesfarne",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

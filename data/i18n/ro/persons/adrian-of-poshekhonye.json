@@ -1,0 +1,23 @@
+{
+  "id": "adrian-of-poshekhonye",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Adrian din Poșehonie, Iaroslavl",
+    "full": "Sfântul Cuvios Mucenic Adrian din Poșehonie, Iaroslavl",
+    "short": "Adrian din Poșehonie, Iaroslavl",
+    "given": "Adrian"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/05/100663-monastic-martyr-adrian-of-poshekhonye-yaroslavl",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "anna-of-kashin",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Binecredincioasa Cneaghină Ana din Kașin",
+    "full": "Sfânta Binecredincioasa Cneaghină Ana din Kașin",
+    "short": "Ana din Kașin",
+    "given": "Ana"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/02/102839-repose-of-the-holy-right-believing-princess-anna-of-kashin",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "theognosta",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Teognosta",
+    "full": "Sfânta Teognosta",
+    "short": "Teognosta",
+    "given": "Teognosta"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/1_17.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "basileides",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Vasilid din Nicomidia",
+    "full": "Sfântul Mucenic Vasilid din Nicomidia",
+    "short": "Vasilid din Nicomidia",
+    "given": "Vasilid"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/20/100245-martyrs-bassus-eusebius-euthychius-and-basileides-at-nicomedia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

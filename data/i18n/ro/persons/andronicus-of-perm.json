@@ -1,0 +1,23 @@
+{
+  "id": "andronicus-of-perm",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Noul Mc. Andronic, Arhiepiscopul de Perm",
+    "full": "Sfântul Noul Mucenic Andronic, Arhiepiscopul de Perm",
+    "short": "Andronic, Arhiepiscopul de Perm",
+    "given": "Andronic"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/04/149048-new-martyr-archbishop-andronicus-of-perm",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

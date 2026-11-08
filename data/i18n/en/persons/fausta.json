@@ -1,0 +1,22 @@
+{
+  "id": "fausta",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Fausta",
+    "short": "Fausta",
+    "given": "Fausta"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-fausta",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

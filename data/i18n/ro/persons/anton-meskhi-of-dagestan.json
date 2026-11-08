@@ -1,0 +1,23 @@
+{
+  "id": "anton-meskhi-of-dagestan",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Anton Meshi, luminătorul Daghestanului",
+    "full": "Sfântul Anton Meshi, luminătorul Daghestanului",
+    "short": "Anton Meshi, luminătorul Daghestanului",
+    "given": "Anton"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/16/103830-saints-pimen-of-salosi-and-anton-meskhi-enlighteners-of-dagestan",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

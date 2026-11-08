@@ -1,0 +1,23 @@
+{
+  "id": "theodore-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Teodor, făcătorul de minuni și pustnicul de la Iordan",
+    "full": "Sfântul Cuvios Teodor, făcătorul de minuni și pustnicul de la Iordan",
+    "short": "Teodor, făcătorul de minuni și pustnicul de la Iordan",
+    "given": "Teodor"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/05/101626-venerable-theodore-wonderworker-and-hermit-of-the-jordan",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

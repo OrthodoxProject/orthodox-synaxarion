@@ -1,0 +1,22 @@
+{
+  "id": "niketas-the-hidden-of-constantinople",
+  "locale": "ro",
+  "names": {
+    "display": "Fericitul Nichita cel Ascuns, din Constantinopol",
+    "short": "Nichita cel Ascuns, din Constantinopol",
+    "given": "Nichita"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/09/102554-blessed-niktas-the-hidden-of-constantinople",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

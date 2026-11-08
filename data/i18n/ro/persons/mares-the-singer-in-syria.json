@@ -1,0 +1,23 @@
+{
+  "id": "mares-the-singer-in-syria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mare, cântărețul din Siria",
+    "full": "Sfântul Cuvios Mare, cântărețul din Siria",
+    "short": "Mare, cântărețul din Siria",
+    "given": "Mare"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/25/100309-saint-mares-the-singer-in-syria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

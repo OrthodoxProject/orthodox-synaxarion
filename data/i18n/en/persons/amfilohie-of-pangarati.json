@@ -1,0 +1,27 @@
+{
+  "id": "amfilohie-of-pangarati",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Amphilochius of Pângărați",
+    "short": "Amphilochius of Pângărați",
+    "given": "Amphilochius"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-amfilohie-de-la-pangarati",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/inainte-praznuirea-nasterii-maicii-domnului-%e2%80%a0-sf-cuv-simeon-si-amfilohie-de-la-pangarati-sf-mc-sozont-sf-cuv-casiana-imnografa-duminica-dinaintea-inaltarii-sfintei-cruci-ap-gal/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "eufrosin",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Euphrosynus",
+    "short": "Euphrosynus",
+    "given": "Euphrosynus"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-eufrosin",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

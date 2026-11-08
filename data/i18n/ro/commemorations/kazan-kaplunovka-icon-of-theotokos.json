@@ -1,0 +1,20 @@
+{
+  "id": "kazan-kaplunovka-icon-of-theotokos",
+  "locale": "ro",
+  "names": {
+    "display": "Icoana Maicii Domnului de la Kazan, din Kaplunovka"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/11/102582-kazan-kaplunovka-icon-of-the-mother-of-god-1689",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

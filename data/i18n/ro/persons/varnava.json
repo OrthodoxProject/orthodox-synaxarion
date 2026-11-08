@@ -1,0 +1,28 @@
+{
+  "id": "varnava",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Varnava (Nastić)",
+    "full": "Sfântul Varnava (Nastić)",
+    "short": "Varnava",
+    "given": "Varnava"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/12/100488-saint-varnava-nastic",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

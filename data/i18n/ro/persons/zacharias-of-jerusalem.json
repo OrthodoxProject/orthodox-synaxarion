@@ -1,0 +1,23 @@
+{
+  "id": "zacharias-of-jerusalem",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Zaharia, Patriarhul Ierusalimului",
+    "full": "Sfântul Ierarh Zaharia, Patriarhul Ierusalimului",
+    "short": "Zaharia, Patriarhul Ierusalimului",
+    "given": "Zaharia"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/21/109058-saint-zacharias-patriarch-of-jerusalem",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

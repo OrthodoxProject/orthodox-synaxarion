@@ -1,0 +1,28 @@
+{
+  "id": "theognostus-of-kiev",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Teognost, Mitropolitul Kievului și al Întregii Rusii",
+    "full": "Sfântul Ierarh Teognost, Mitropolitul Kievului și al Întregii Rusii",
+    "short": "Teognost, Mitropolitul Kievului",
+    "given": "Teognost"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/14/100801-saint-theognostus-metropolitan-of-kiev-and-all-russia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/russian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

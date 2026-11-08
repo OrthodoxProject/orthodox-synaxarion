@@ -1,0 +1,20 @@
+{
+  "id": "adrian-of-poshekhonye--finding-of-relics",
+  "locale": "ro",
+  "names": {
+    "display": "Aflarea moaștelor Sf. Cuv. Mc. Adrian de la Poșehonsk, Iaroslavl"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/19/103332-finding-of-the-relics-of-monastic-martyr-adrian-of-poshekhonsk-y",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

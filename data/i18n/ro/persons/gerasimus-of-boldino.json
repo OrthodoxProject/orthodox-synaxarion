@@ -1,0 +1,23 @@
+{
+  "id": "gerasimus-of-boldino",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Gherasim de la Boldino",
+    "full": "Sfântul Gherasim de la Boldino",
+    "short": "Gherasim de la Boldino",
+    "given": "Gherasim"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/01/148980-saint-gerasimus-of-boldino",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

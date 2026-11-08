@@ -1,0 +1,23 @@
+{
+  "id": "george-of-serbia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Gheorghe din Serbia",
+    "full": "Sfântul Sfințit Mucenic Gheorghe din Serbia",
+    "short": "Gheorghe din Serbia",
+    "given": "Gheorghe"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/04/108049-hieromartyr-george-of-serbia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "nicholas-of-metsovo",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Noul Mc. Nicolae din Mețovo",
+    "full": "Sfântul Noul Mucenic Nicolae din Mețovo",
+    "short": "Nicolae din Mețovo",
+    "given": "Nicolae"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/16/100130-new-martyr-nicholas-of-metsovo",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

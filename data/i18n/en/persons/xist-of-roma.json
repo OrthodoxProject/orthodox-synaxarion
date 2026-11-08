@@ -1,0 +1,27 @@
+{
+  "id": "xist-of-roma",
+  "locale": "en",
+  "names": {
+    "display": "Hieromartyr Sixtus, Bishop of Rome",
+    "short": "Sixtus, Bishop of Rome",
+    "given": "Sixtus"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-sfintit-mucenic-xist-episcopul-romei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-laurentiu-arhidiaconul-sf-sfintit-mc-xist-episcopul-romei-sf-mc-ipolit/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

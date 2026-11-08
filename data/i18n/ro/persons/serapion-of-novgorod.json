@@ -1,0 +1,23 @@
+{
+  "id": "serapion-of-novgorod",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Serapion, Arhiepiscopul Novgorodului",
+    "full": "Sfântul Ierarh Serapion, Arhiepiscopul Novgorodului",
+    "short": "Serapion, Arhiepiscopul Novgorodului",
+    "given": "Serapion"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/16/100815-saint-serapion-archbishop-of-novgorod",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

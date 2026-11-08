@@ -1,0 +1,23 @@
+{
+  "id": "eustathius-of-vilnius",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Eustatie din Vilnius",
+    "full": "Sfântul Mucenic Eustatie din Vilnius",
+    "short": "Eustatie din Vilnius",
+    "given": "Eustatie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/14/101076-martyrs-anthony-john-and-eustathius-of-vilnius",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

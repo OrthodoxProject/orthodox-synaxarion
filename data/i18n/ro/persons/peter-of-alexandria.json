@@ -1,0 +1,23 @@
+{
+  "id": "peter-of-alexandria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Petru, Arhiepiscopul Alexandriei",
+    "full": "Sfântul Sfințit Mucenic Petru, Arhiepiscopul Alexandriei",
+    "short": "Petru, Arhiepiscopul Alexandriei",
+    "given": "Petru"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/25/103394-hieromartyr-peter-archbishop-of-alexandria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

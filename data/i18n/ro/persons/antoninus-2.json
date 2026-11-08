@@ -1,0 +1,23 @@
+{
+  "id": "antoninus-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Antonin",
+    "full": "Sfântul Mucenic Antonin",
+    "short": "Antonin",
+    "given": "Antonin"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/13/103294-martyrs-nikephoros-antoninus-and-germanus-of-caesarea-in-palesti",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

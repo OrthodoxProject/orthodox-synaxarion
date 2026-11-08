@@ -1,0 +1,23 @@
+{
+  "id": "photius-of-kiev",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Fotie, Mitropolitul Kievului",
+    "full": "Sfântul Ierarh Fotie, Mitropolitul Kievului",
+    "short": "Fotie, Mitropolitul Kievului",
+    "given": "Fotie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/02/101867-saint-photius-metropolitan-of-kiev",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

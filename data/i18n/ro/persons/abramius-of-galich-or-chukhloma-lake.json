@@ -1,0 +1,23 @@
+{
+  "id": "abramius-of-galich-or-chukhloma-lake",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Avramie din Galici sau de la lacul Ciuhloma, ucenicul Sf. Cuv. Sergiu de Radonej",
+    "full": "Sfântul Cuvios Avramie din Galici sau de la lacul Ciuhloma, ucenicul Sfântului Cuvios Sergiu de Radonej",
+    "short": "Avramie din Galici sau de la lacul Ciuhloma, ucenicul Sf. Cuv. Sergiu de Radonej",
+    "given": "Avramie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/20/102061-repose-of-venerable-abramius-of-galich-or-chukhloma-lake-discipl",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

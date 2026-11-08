@@ -1,0 +1,23 @@
+{
+  "id": "james",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Iacob, care a fost înșelat și s-a închinat lui Antihrist",
+    "full": "Sfântul Cuvios Iacob, care a fost înșelat și s-a închinat lui Antihrist",
+    "short": "Iacob, care a fost înșelat și s-a închinat lui Antihrist",
+    "given": "Iacob"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/13/149022-venerable-james-who-was-deceived-and-worshiped-the-antichrist",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

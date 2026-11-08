@@ -1,0 +1,23 @@
+{
+  "id": "eutyches",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Eutihie, ucenicul Sf. Ioan Teologul",
+    "full": "Sfântul Sfințit Mucenic Eutihie, ucenicul Sfântului Ioan Teologul",
+    "short": "Eutihie, ucenicul Sf. Ioan Teologul",
+    "given": "Eutihie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/24/102383-hieromartyr-eutyches-disciple-of-saint-john-the-theologian",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

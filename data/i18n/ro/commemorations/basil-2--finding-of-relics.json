@@ -1,0 +1,20 @@
+{
+  "id": "basil-2--finding-of-relics",
+  "locale": "ro",
+  "names": {
+    "display": "Aflarea moaștelor Sf. Vasile și Constantin, cnejii Iaroslavlului"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/08/101664-finding-of-the-relics-of-saints-basil-and-constantine-princes-of",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

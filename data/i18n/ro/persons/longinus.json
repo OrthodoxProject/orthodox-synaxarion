@@ -1,0 +1,23 @@
+{
+  "id": "longinus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Longhin",
+    "full": "Sfântul Mucenic Longhin",
+    "short": "Longhin",
+    "given": "Longhin"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/24/101194-martyrs-eusebius-neon-leontius-longinus-and-others-at-nicomedia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

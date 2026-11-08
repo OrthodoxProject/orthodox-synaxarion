@@ -1,0 +1,20 @@
+{
+  "id": "prophet-st-david-and-apostle-st-james-brother",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Proroc David și Sf. Ap. Iacob, fratele Domnului"
+  },
+  "references": [
+    {
+      "source": "src:armenianchurch-ge",
+      "url": "https://armenianchurch.ge/en/kalendar-prazdnikov/description-2/december/commemoration-of-the-prophet-st-david-and-apostle-st-james-brother-of-jesus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

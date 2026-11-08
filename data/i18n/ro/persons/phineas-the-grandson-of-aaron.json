@@ -1,0 +1,23 @@
+{
+  "id": "phineas-the-grandson-of-aaron",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Drept Finees, nepotul lui Aaron",
+    "full": "Sfântul Drept Finees, nepotul lui Aaron",
+    "short": "Finees, nepotul lui Aaron",
+    "given": "Finees"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/12/100788-righteous-phineas-the-grandson-of-aaron",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

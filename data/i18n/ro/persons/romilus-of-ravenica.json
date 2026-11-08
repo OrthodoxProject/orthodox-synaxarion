@@ -1,0 +1,23 @@
+{
+  "id": "romilus-of-ravenica",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Romil de la Ravanița",
+    "full": "Sfântul Cuvios Romil de la Ravanița",
+    "short": "Romil de la Ravanița",
+    "given": "Romil"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/16/108034-venerable-romilus-of-ravenica",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

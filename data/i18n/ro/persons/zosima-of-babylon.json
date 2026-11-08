@@ -1,0 +1,23 @@
+{
+  "id": "zosima-of-babylon",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Zosima, Episcopul Babilonului",
+    "full": "Sfântul Cuvios Zosima, Episcopul Babilonului",
+    "short": "Zosima, Episcopul Babilonului",
+    "given": "Zosima"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/04/101601-venerable-father-zosima-bishop-of-babylon",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

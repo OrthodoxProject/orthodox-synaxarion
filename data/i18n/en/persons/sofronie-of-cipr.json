@@ -1,0 +1,22 @@
+{
+  "id": "sofronie-of-cipr",
+  "locale": "en",
+  "names": {
+    "display": "Saint Sophronius, Bishop of Cyprus",
+    "short": "Sophronius, Bishop of Cyprus",
+    "given": "Sophronius"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-sofronie-episcopul-ciprului",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

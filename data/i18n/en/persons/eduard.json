@@ -1,0 +1,22 @@
+{
+  "id": "eduard",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Edward, King of England",
+    "short": "Edward, King of England",
+    "given": "Edward"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-eduard-regele-angliei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

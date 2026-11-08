@@ -1,0 +1,27 @@
+{
+  "id": "clement-of-roma",
+  "locale": "en",
+  "names": {
+    "display": "Hieromartyr Clement, Bishop of Rome",
+    "short": "Clement, Bishop of Rome",
+    "given": "Clement"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-sfintit-mucenic-clement-episcopul-romei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-sfintiti-mc-clement-episcopul-romei-si-petru-episcopul-alexandriei/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

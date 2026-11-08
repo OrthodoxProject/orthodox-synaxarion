@@ -1,0 +1,23 @@
+{
+  "id": "vitalius-of-castronovo",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Vitalie din Castronovo",
+    "full": "Sfântul Cuvios Vitalie din Castronovo",
+    "short": "Vitalie din Castronovo",
+    "given": "Vitalie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/09/100291-venerable-vitalius-of-castronovo",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

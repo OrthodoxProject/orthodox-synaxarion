@@ -1,0 +1,20 @@
+{
+  "id": "icon-of-theotokos-aflarea-celor-pierduti",
+  "locale": "en",
+  "names": {
+    "display": "Icon of the Mother of God \"Seeker of the Perishing\""
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoanei-maicii-domnului-aflarea-celor-pierduti",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

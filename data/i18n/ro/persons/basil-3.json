@@ -1,0 +1,23 @@
+{
+  "id": "basil-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Vasile",
+    "full": "Sfântul Sfințit Mucenic Vasile",
+    "short": "Vasile",
+    "given": "Vasile"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/28/100237-hieromartyr-basil",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

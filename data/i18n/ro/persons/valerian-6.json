@@ -1,0 +1,23 @@
+{
+  "id": "valerian-6",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Valerian, Tiburțiu",
+    "full": "Sfântul Mucenic Valerian, Tiburțiu",
+    "short": "Valerian, Tiburțiu",
+    "given": "Valerian"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/22/103365-virgin-martyr-cecilia-and-the-holy-martyrs-valerian-tiburtius-an",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

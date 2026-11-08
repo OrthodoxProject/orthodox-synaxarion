@@ -1,0 +1,20 @@
+{
+  "id": "martyrs-killed-by-the-latins-at-the-iveron",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici uciși de latini la Mănăstirea Iviron din Muntele Athos"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/13/205449-martyrs-killed-by-the-latins-at-the-ivron-monastery-on-mount-ath",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

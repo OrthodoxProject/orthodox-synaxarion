@@ -1,0 +1,23 @@
+{
+  "id": "abraam-of-el-fayyoum",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Avraam, Episcopul de Fayum",
+    "full": "Sfântul Ierarh Avraam, Episcopul de Fayum",
+    "short": "Avraam, Episcopul de Fayum",
+    "given": "Avraam"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/10_3.html?lang=en#5",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

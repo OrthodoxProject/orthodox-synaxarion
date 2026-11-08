@@ -1,0 +1,22 @@
+{
+  "id": "astie-of-dirahia",
+  "locale": "en",
+  "names": {
+    "display": "Hieromartyr Astius, Bishop of Dyrrachium",
+    "short": "Astius, Bishop of Dyrrachium",
+    "given": "Astius"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-sfintit-mucenic-astie-episcopul-dirahiei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

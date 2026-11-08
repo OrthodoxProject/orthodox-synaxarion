@@ -1,0 +1,23 @@
+{
+  "id": "anthimus-the-georgian",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Antim Ivireanul",
+    "full": "Sfântul Antim Ivireanul",
+    "short": "Antim Ivireanul",
+    "given": "Antim"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/27/149021-saint-anthimus-the-georgian",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

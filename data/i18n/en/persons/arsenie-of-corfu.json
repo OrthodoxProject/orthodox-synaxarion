@@ -1,0 +1,22 @@
+{
+  "id": "arsenie-of-corfu",
+  "locale": "en",
+  "names": {
+    "display": "Saint Arsenius, Archbishop of Corfu",
+    "short": "Arsenius, Archbishop of Corfu",
+    "given": "Arsenius"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-arsenie-arhiepiscop-de-corfu",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "stephen-the-confessor-of-sourozh",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ștefan Mărturisitorul, Arhiepiscopul Surojului, Crimeea",
+    "full": "Sfântul Ierarh Ștefan Mărturisitorul, Arhiepiscopul Surojului, Crimeea",
+    "short": "Ștefan Mărturisitorul, Arhiepiscopul Surojului, Crimeea",
+    "given": "Ștefan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/15/103551-saint-stephen-the-confessor-archbishop-of-sourozh-crimea",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

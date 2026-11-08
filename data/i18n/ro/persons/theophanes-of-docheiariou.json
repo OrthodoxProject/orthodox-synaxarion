@@ -1,0 +1,23 @@
+{
+  "id": "theophanes-of-docheiariou",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Teofan de la Dohiariu, Muntele Athos",
+    "full": "Sfântul Cuvios Teofan de la Dohiariu, Muntele Athos",
+    "short": "Teofan de la Dohiariu, Muntele Athos",
+    "given": "Teofan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/19/102346-venerable-theophanes-of-docheiariou-mount-athos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

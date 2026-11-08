@@ -1,0 +1,23 @@
+{
+  "id": "pishay",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Pișai (Abșai) Antiohianul",
+    "full": "Sfântul Pișai (Abșai) Antiohianul",
+    "short": "Pișai Antiohianul",
+    "given": "Pișai"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/13_1.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

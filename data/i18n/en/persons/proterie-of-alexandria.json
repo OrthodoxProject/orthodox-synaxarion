@@ -1,0 +1,22 @@
+{
+  "id": "proterie-of-alexandria",
+  "locale": "en",
+  "names": {
+    "display": "Hieromartyr Proterius, Patriarch of Alexandria",
+    "short": "Proterius, Patriarch of Alexandria",
+    "given": "Proterius"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-sfintit-mucenic-proterie-patriarhul-alexandriei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

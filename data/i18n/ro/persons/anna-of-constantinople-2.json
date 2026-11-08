@@ -1,0 +1,23 @@
+{
+  "id": "anna-of-constantinople-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Dreaptă Ana din Constantinopol",
+    "full": "Sfânta Dreaptă Ana din Constantinopol",
+    "short": "Ana din Constantinopol",
+    "given": "Ana"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/29/103107-righteous-anna-of-constantinople",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

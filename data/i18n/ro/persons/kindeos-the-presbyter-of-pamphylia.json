@@ -1,0 +1,23 @@
+{
+  "id": "kindeos-the-presbyter-of-pamphylia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Chindeu preotul, din Pamfilia",
+    "full": "Sfântul Sfințit Mucenic Chindeu preotul, din Pamfilia",
+    "short": "Chindeu preotul, din Pamfilia",
+    "given": "Chindeu"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/11/102004-hieromartyr-kindeos-the-presbyter-of-pamphylia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

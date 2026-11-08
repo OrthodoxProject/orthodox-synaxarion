@@ -1,0 +1,23 @@
+{
+  "id": "simeon-of-dajbabe",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Simeon de la Dajbabe",
+    "full": "Sfântul Simeon de la Dajbabe",
+    "short": "Simeon de la Dajbabe",
+    "given": "Simeon"
+  },
+  "references": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

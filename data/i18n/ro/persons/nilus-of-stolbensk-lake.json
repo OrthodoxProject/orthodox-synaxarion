@@ -1,0 +1,23 @@
+{
+  "id": "nilus-of-stolbensk-lake",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Nil de la lacul Stolbensk",
+    "full": "Sfântul Cuvios Nil de la lacul Stolbensk",
+    "short": "Nil de la lacul Stolbensk",
+    "given": "Nil"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/07/103487-venerable-nilus-of-stolbensk-lake",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

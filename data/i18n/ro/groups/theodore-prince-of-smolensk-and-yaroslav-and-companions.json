@@ -1,0 +1,20 @@
+{
+  "id": "theodore-prince-of-smolensk-and-yaroslav-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Teodor, cneazul Smolenskului și al Iaroslavlului, și fiii săi, Sfinții David și Constantin"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/19/102667-saint-theodore-prince-of-smolensk-and-yaroslav-and-his-sons-sain",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

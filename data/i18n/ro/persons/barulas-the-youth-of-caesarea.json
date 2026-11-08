@@ -1,0 +1,23 @@
+{
+  "id": "barulas-the-youth-of-caesarea",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Varula, tânărul din Cezareea",
+    "full": "Sfântul Mucenic Varula, tânărul din Cezareea",
+    "short": "Varula, tânărul din Cezareea",
+    "given": "Varula"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/18/206390-martyr-barulas-the-youth-of-caesarea",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

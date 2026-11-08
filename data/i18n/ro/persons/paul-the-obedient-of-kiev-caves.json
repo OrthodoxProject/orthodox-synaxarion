@@ -1,0 +1,23 @@
+{
+  "id": "paul-the-obedient-of-kiev-caves",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Pavel cel Ascultător, de la Lavra Peșterilor",
+    "full": "Sfântul Cuvios Pavel cel Ascultător, de la Lavra Peșterilor",
+    "short": "Pavel cel Ascultător, de la Lavra Peșterilor",
+    "given": "Pavel"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/10/102560-venerable-paul-the-obedient-of-the-kiev-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

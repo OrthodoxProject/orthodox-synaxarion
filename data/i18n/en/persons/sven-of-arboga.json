@@ -1,0 +1,22 @@
+{
+  "id": "sven-of-arboga",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Martyr Sven of Arboga",
+    "short": "Sven of Arboga",
+    "given": "Sven"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-mucenic-sven-de-la-arboga",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "theodore-the-sanctified",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Teodor cel Sfințit, ucenicul Sf. Cuv. Pahomie cel Mare",
+    "full": "Sfântul Cuvios Teodor cel Sfințit, ucenicul Sfântului Cuvios Pahomie cel Mare",
+    "short": "Teodor cel Sfințit, ucenicul Sf. Cuv. Pahomie cel Mare",
+    "given": "Teodor"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/16/101393-venerable-theodore-the-sanctified-disciple-of-venerable-pachomiu",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

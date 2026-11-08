@@ -1,0 +1,23 @@
+{
+  "id": "cyril-of-astrakhan",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Chiril din Astrahan",
+    "full": "Sfântul Chiril din Astrahan",
+    "short": "Chiril din Astrahan",
+    "given": "Chiril"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/18/205335-saint-cyril-of-astrakhan",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

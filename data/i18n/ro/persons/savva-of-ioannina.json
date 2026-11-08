@@ -1,0 +1,23 @@
+{
+  "id": "savva-of-ioannina",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sava din Ioannina",
+    "full": "Sfântul Sava din Ioannina",
+    "short": "Sava din Ioannina",
+    "given": "Sava"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/03/100414-saint-savva-of-ioannina",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

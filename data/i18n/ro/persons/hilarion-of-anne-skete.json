@@ -1,0 +1,23 @@
+{
+  "id": "hilarion-of-anne-skete",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Ilarion de la Schitul Sfânta Ana, Muntele Athos",
+    "full": "Sfântul Cuvios Mucenic Ilarion de la Schitul Sfânta Ana, Muntele Athos",
+    "short": "Ilarion de la Schitul Sfânta Ana, Muntele Athos",
+    "given": "Ilarion"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/20/102681-monastic-martyr-hilarion-of-saint-anne-skete-mount-athos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

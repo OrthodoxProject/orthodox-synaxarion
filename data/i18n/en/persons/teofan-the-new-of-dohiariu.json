@@ -1,0 +1,22 @@
+{
+  "id": "teofan-the-new-of-dohiariu",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Theophanes the New of Dochiariou, the Wonderworker",
+    "short": "Theophanes the New of Dochiariou, the Wonderworker",
+    "given": "Theophanes"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-teofan-cel-nou-de-la-dohiariu-facatorul-de-minuni",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

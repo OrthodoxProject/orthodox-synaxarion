@@ -1,0 +1,22 @@
+{
+  "id": "nichifor",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Nikephoros",
+    "short": "Nikephoros",
+    "given": "Nikephoros"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-nichifor-0",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

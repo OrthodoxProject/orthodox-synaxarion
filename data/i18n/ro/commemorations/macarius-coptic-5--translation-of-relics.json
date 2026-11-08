@@ -1,0 +1,20 @@
+{
+  "id": "macarius-coptic-5--translation-of-relics",
+  "locale": "ro",
+  "names": {
+    "display": "Aducerea trupului Sf. Macarie la mănăstirea sa din Schit"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/12_19.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "restoration-of-the-temple-of-the-40-martyrs",
+  "locale": "ro",
+  "names": {
+    "display": "Înnoirea bisericii Sfinților 40 de Mucenici"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/09/109004-restoration-of-the-temple-of-the-40-martyrs",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

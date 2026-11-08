@@ -1,0 +1,23 @@
+{
+  "id": "honoratus-of-arles",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Onorat, Arhiepiscopul de Arles, întemeietorul Mănăstirii Lerins",
+    "full": "Sfântul Ierarh Onorat, Arhiepiscopul de Arles, întemeietorul Mănăstirii Lerins",
+    "short": "Onorat, Arhiepiscopul de Arles, întemeietorul Mănăstirii Lerins",
+    "given": "Onorat"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/16/100213-saint-honoratus-archbishop-of-arles-founder-of-lerins-monastery",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

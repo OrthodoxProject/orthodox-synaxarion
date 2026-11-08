@@ -1,0 +1,22 @@
+{
+  "id": "calinic-al-edessei",
+  "locale": "en",
+  "names": {
+    "display": "Saint Callinicus of Edessa",
+    "short": "Callinicus of Edessa",
+    "given": "Callinicus"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-calinic-al-edessei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

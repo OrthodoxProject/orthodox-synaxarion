@@ -1,0 +1,23 @@
+{
+  "id": "nectarius-the-obedient-of-the-kiev-near",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Nectarie cel Ascultător, de la Peșterile Apropiate din Kiev",
+    "full": "Sfântul Cuvios Nectarie cel Ascultător, de la Peșterile Apropiate din Kiev",
+    "short": "Nectarie cel Ascultător, de la Peșterile Apropiate din Kiev",
+    "given": "Nectarie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/29/103448-venerable-nectarius-the-obedient-of-the-kiev-near-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

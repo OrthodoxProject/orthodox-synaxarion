@@ -1,0 +1,23 @@
+{
+  "id": "paul-of-constantinople",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Pavel, Patriarhul Constantinopolului",
+    "full": "Sfântul Ierarh Pavel, Patriarhul Constantinopolului",
+    "short": "Pavel, Patriarhul Constantinopolului",
+    "given": "Pavel"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/2_5.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

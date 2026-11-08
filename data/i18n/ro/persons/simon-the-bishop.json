@@ -1,0 +1,23 @@
+{
+  "id": "simon-the-bishop",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Simon (Simeon), episcopul",
+    "full": "Sfântul Ierarh Simon (Simeon), episcopul",
+    "short": "Simon, episcopul",
+    "given": "Simon"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/2_9.html?lang=en#3",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

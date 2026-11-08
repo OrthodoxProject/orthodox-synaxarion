@@ -1,0 +1,23 @@
+{
+  "id": "helladius-of-the-kiev-near-caves",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Eladie de la Peșterile Apropiate din Kiev",
+    "full": "Sfântul Cuvios Eladie de la Peșterile Apropiate din Kiev",
+    "short": "Eladie de la Peșterile Apropiate din Kiev",
+    "given": "Eladie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/04/102854-venerable-helladius-of-the-kiev-near-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

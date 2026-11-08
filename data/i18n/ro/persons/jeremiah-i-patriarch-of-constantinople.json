@@ -1,0 +1,23 @@
+{
+  "id": "jeremiah-i-patriarch-of-constantinople",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ieremia I, Patriarhul Constantinopolului",
+    "full": "Sfântul Ierarh Ieremia I, Patriarhul Constantinopolului",
+    "short": "Ieremia I, Patriarhul Constantinopolului",
+    "given": "Ieremia"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/13/100537-saint-jeremiah-i-patriarch-of-constantinople",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

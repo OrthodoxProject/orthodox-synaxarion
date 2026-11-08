@@ -1,0 +1,23 @@
+{
+  "id": "savva-of-khakhuli",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Sava de la Hahuli",
+    "full": "Sfântul Cuvios Sava de la Hahuli",
+    "short": "Sava de la Hahuli",
+    "given": "Sava"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/19/205498-venerable-george-the-scribe-and-venerable-savva-of-khakhuli",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

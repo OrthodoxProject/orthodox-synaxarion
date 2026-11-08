@@ -1,0 +1,27 @@
+{
+  "id": "iosif-isihastul",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Joseph the Hesychast",
+    "short": "Joseph the Hesychast",
+    "given": "Joseph"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-iosif-isihastul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-moise-etiopianul-dreptul-iezechia-sf-cuv-iosif-isihastul/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

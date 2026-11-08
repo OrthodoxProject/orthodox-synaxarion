@@ -1,0 +1,23 @@
+{
+  "id": "zosimas-ii-of-kumurdo",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Zosima al II-lea din Kumurdo",
+    "full": "Sfântul Zosima al II-lea din Kumurdo",
+    "short": "Zosima al II-lea din Kumurdo",
+    "given": "Zosima"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/01/205457-saint-zosimas-ii-of-kumurdo",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

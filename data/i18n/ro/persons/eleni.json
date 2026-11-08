@@ -1,0 +1,23 @@
+{
+  "id": "eleni",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Elena (numită și Suzana), noua muceniță din Lesvos",
+    "full": "Sfânta Elena (numită și Suzana), noua muceniță din Lesvos",
+    "short": "Elena, noua muceniță din Lesvos",
+    "given": "Elena"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/09/103922-saint-eleni-also-called-susanna-new-martyr-of-lesbos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "niphon-of-mount-athos",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Nifon de la Muntele Athos",
+    "full": "Sfântul Cuvios Nifon de la Muntele Athos",
+    "short": "Nifon de la Muntele Athos",
+    "given": "Nifon"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/14/101723-venerable-niphon-of-mount-athos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

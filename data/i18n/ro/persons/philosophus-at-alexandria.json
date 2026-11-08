@@ -1,0 +1,23 @@
+{
+  "id": "philosophus-at-alexandria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Filosof din Alexandria",
+    "full": "Sfântul Mucenic Filosof din Alexandria",
+    "short": "Filosof din Alexandria",
+    "given": "Filosof"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/31/101569-martyr-philosophus-at-alexandria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

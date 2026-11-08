@@ -1,0 +1,23 @@
+{
+  "id": "nectan-of-hartland",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Nectan din Hartland",
+    "full": "Sfântul Mucenic Nectan din Hartland",
+    "short": "Nectan din Hartland",
+    "given": "Nectan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/17/103751-martyr-nectan-of-hartland",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

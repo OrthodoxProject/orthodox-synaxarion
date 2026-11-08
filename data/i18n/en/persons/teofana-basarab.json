@@ -1,0 +1,27 @@
+{
+  "id": "teofana-basarab",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Teofana Basarab",
+    "short": "Teofana Basarab",
+    "given": "Teofana"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-teofana-basarab",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ier-iachint-mitropolitul-tarii-romanesti-%e2%80%a0-sf-cuv-teofana-basarab-sf-mc-terentie-sotia-sa-neonila-si-cei-7-fii-sf-cuv-stefan-savaitul-sf-ier-firmilian-episcopul/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

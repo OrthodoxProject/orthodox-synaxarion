@@ -1,0 +1,23 @@
+{
+  "id": "niketas-of-the-roslavl-forests",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Nichita din pădurile Roslavlului",
+    "full": "Sfântul Nichita din pădurile Roslavlului",
+    "short": "Nichita din pădurile Roslavlului",
+    "given": "Nichita"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/29/105910-saint-niktas-of-the-roslavl-forests",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

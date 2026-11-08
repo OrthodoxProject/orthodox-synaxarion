@@ -1,0 +1,23 @@
+{
+  "id": "hervius-of-plouvien",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Hervé din Plouvien",
+    "full": "Sfântul Cuvios Hervé din Plouvien",
+    "short": "Hervé din Plouvien",
+    "given": "Hervé"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/17/100345-saint-hervius-of-plouvien",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

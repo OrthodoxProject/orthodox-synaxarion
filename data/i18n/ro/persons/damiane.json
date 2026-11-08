@@ -1,0 +1,23 @@
+{
+  "id": "damiane",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Damiane (Dimitrie), regele și imnograful",
+    "full": "Sfântul Damiane (Dimitrie), regele și imnograful",
+    "short": "Damiane (Dimitrie), regele și imnograful",
+    "given": "Damiane"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/23/103848-saint-damiane-demetrius-king-and-hymnographer",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

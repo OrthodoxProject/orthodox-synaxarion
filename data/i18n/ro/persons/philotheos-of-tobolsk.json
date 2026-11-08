@@ -1,0 +1,22 @@
+{
+  "id": "philotheos-of-tobolsk",
+  "locale": "ro",
+  "names": {
+    "display": "Mitropolitul Filotei al Tobolskului, luminătorul Siberiei",
+    "short": "Filotei al Tobolskului, luminătorul Siberiei",
+    "given": "Filotei"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/31/100472-metropolitan-philotheos-of-tobolsk-enlightener-of-siberia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

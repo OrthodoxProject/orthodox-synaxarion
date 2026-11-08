@@ -1,0 +1,23 @@
+{
+  "id": "basil-ratishvili-of-georgia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Vasile Ratișvili din Georgia",
+    "full": "Sfântul Vasile Ratișvili din Georgia",
+    "short": "Vasile Ratișvili din Georgia",
+    "given": "Vasile"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/18/103839-saint-basil-ratishvili-of-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

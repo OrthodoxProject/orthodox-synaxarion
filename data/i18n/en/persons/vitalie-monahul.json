@@ -1,0 +1,22 @@
+{
+  "id": "vitalie-monahul",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Vitalius the Monk",
+    "short": "Vitalius the Monk",
+    "given": "Vitalius"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-vitalie-monahul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "george-of-mount-athos",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Gheorghe de la Muntele Athos",
+    "full": "Sfântul Cuvios Gheorghe de la Muntele Athos",
+    "short": "Gheorghe de la Muntele Athos",
+    "given": "Gheorghe"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/27/101830-venerable-george-of-mount-athos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

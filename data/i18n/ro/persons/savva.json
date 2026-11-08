@@ -1,0 +1,23 @@
+{
+  "id": "savva",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Sava, egumenul din Zvenigorod, ucenicul Sf. Cuv. Sergiu de Radonej",
+    "full": "Sfântul Cuvios Sava, egumenul din Zvenigorod, ucenicul Sfântului Cuvios Sergiu de Radonej",
+    "short": "Sava, egumenul din Zvenigorod, ucenicul Sf. Cuv. Sergiu de Radonej",
+    "given": "Sava"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/03/103466-venerable-savva-igoumen-of-zvenigorod-disciple-of-venerable-serg",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

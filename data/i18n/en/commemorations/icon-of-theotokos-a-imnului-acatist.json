@@ -1,0 +1,20 @@
+{
+  "id": "icon-of-theotokos-a-imnului-acatist",
+  "locale": "en",
+  "names": {
+    "display": "Icon of the Mother of God \"of the Akathist Hymn\""
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoanei-maicii-domnului-imnului-acatist",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

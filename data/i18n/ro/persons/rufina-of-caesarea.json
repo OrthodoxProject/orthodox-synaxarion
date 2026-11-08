@@ -1,0 +1,23 @@
+{
+  "id": "rufina-of-caesarea",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Rufina din Cezareea Capadociei",
+    "full": "Sfânta Muceniță Rufina din Cezareea Capadociei",
+    "short": "Rufina din Cezareea Capadociei",
+    "given": "Rufina"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/02/102460-martyrs-theodotus-and-rufina-of-caesarea-in-cappadocia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

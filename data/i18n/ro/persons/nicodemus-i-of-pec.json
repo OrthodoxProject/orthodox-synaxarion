@@ -1,0 +1,23 @@
+{
+  "id": "nicodemus-i-of-pec",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Nicodim I de la Peci",
+    "full": "Sfântul Nicodim I de la Peci",
+    "short": "Nicodim I de la Peci",
+    "given": "Nicodim"
+  },
+  "references": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

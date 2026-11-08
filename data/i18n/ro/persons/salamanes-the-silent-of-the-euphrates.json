@@ -1,0 +1,23 @@
+{
+  "id": "salamanes-the-silent-of-the-euphrates",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Salaman Tăcutul, de la Eufrat",
+    "full": "Sfântul Cuvios Salaman Tăcutul, de la Eufrat",
+    "short": "Salaman Tăcutul, de la Eufrat",
+    "given": "Salaman"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/23/100282-saint-salamans-the-silent-of-the-euphrates",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

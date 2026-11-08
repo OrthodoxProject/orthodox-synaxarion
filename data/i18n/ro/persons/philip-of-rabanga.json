@@ -1,0 +1,23 @@
+{
+  "id": "philip-of-rabanga",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Filip de la Rabanga",
+    "full": "Sfântul Filip de la Rabanga",
+    "short": "Filip de la Rabanga",
+    "given": "Filip"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/15/108915-saint-philip-of-rabanga",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

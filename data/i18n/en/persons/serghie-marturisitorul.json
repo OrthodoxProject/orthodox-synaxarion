@@ -1,0 +1,27 @@
+{
+  "id": "serghie-marturisitorul",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Sergius the Confessor",
+    "short": "Sergius the Confessor",
+    "given": "Sergius"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-serghie-marturisitorul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/odovania-injumatatirii-cincizecimii-sf-mc-glicheria-sf-serghie-marturisitorul-dezlegare-la-peste/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

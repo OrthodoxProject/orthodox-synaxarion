@@ -1,0 +1,20 @@
+{
+  "id": "martyred-fathers-who-were-slain-at-the-monastery",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Părinți mucenici uciși în Mănăstirea Sfântului Sava"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/20/100841-martyred-holy-fathers-who-were-slain-at-the-monastery-of-saint-s",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

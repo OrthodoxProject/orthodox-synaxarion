@@ -1,0 +1,23 @@
+{
+  "id": "leucius-of-volokolamsk",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Leucie de la Volokolamsk",
+    "full": "Sfântul Cuvios Leucie de la Volokolamsk",
+    "short": "Leucie de la Volokolamsk",
+    "given": "Leucie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/17/108986-saint-leucius-of-volokolamsk",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

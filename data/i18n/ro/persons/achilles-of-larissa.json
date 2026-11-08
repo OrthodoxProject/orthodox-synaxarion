@@ -1,0 +1,23 @@
+{
+  "id": "achilles-of-larissa",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ahile, Episcopul Larisei",
+    "full": "Sfântul Ierarh Ahile, Episcopul Larisei",
+    "short": "Ahile, Episcopul Larisei",
+    "given": "Ahile"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/15/101392-saint-achilles-bishop-of-larissa",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

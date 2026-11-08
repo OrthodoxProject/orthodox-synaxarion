@@ -1,0 +1,23 @@
+{
+  "id": "woman-olympias-the-deaconess-of-constantinople",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Olimpiada diaconița, din Constantinopol",
+    "full": "Sfânta Olimpiada diaconița, din Constantinopol",
+    "short": "Olimpiada diaconița, din Constantinopol",
+    "given": "Olimpiada"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/25/102087-holy-woman-olympias-olympiada-the-deaconess-of-constantinople",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

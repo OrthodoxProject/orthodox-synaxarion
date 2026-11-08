@@ -1,0 +1,22 @@
+{
+  "id": "iuvenalie-of-alaska",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Juvenaly of Alaska",
+    "short": "Juvenaly of Alaska",
+    "given": "Juvenaly"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-iuvenalie-din-alaska",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

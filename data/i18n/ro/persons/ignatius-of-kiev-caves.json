@@ -1,0 +1,23 @@
+{
+  "id": "ignatius-of-kiev-caves",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ignatie, arhimandritul Lavrei Peșterilor",
+    "full": "Sfântul Cuvios Ignatie, arhimandritul Lavrei Peșterilor",
+    "short": "Ignatie, arhimandritul Lavrei Peșterilor",
+    "given": "Ignatie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/20/103595-venerable-ignatius-archimandrite-of-the-kiev-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

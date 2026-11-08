@@ -1,0 +1,23 @@
+{
+  "id": "theokhares-at-neopolis-in-asia-minor",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Noul Mc. Teohar din Neapole, în Asia Mică",
+    "full": "Sfântul Noul Mucenic Teohar din Neapole, în Asia Mică",
+    "short": "Teohar din Neapole, în Asia Mică",
+    "given": "Teohar"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/20/109706-holy-new-martyr-theokhares-at-neopolis-in-asia-minor",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

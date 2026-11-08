@@ -1,0 +1,20 @@
+{
+  "id": "seven-ascetic-saints-in-tounar-mount",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții 7 nevoitori din Muntele Tunar"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/10_29.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "florentius-of-nursia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Florentie din Nursia",
+    "full": "Sfântul Florentie din Nursia",
+    "short": "Florentie din Nursia",
+    "given": "Florentie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/23/102380-saints-eutychius-and-florentius-of-nursia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

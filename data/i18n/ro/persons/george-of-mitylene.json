@@ -1,0 +1,23 @@
+{
+  "id": "george-of-mitylene",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Gheorghe, Episcopul Mitilenei",
+    "full": "Sfântul Ierarh Gheorghe, Episcopul Mitilenei",
+    "short": "Gheorghe, Episcopul Mitilenei",
+    "given": "Gheorghe"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/16/101402-saint-george-bishop-of-mitylene",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

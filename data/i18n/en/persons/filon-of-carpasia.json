@@ -1,0 +1,22 @@
+{
+  "id": "filon-of-carpasia",
+  "locale": "en",
+  "names": {
+    "display": "Saint Philo, Bishop of Carpasia",
+    "short": "Philo, Bishop of Carpasia",
+    "given": "Philo"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-filon-episcopul-carpasiei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

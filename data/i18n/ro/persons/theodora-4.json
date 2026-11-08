@@ -1,0 +1,23 @@
+{
+  "id": "theodora-4",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Fecioară Teodora",
+    "full": "Sfânta Muceniță Fecioară Teodora",
+    "short": "Teodora",
+    "given": "Teodora"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/27/101551-virgin-martyr-theodora-and-martyr-didymus-the-soldier-of-alexand",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

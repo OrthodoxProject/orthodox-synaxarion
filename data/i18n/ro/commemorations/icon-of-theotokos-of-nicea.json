@@ -1,0 +1,20 @@
+{
+  "id": "icon-of-theotokos-of-nicea",
+  "locale": "ro",
+  "names": {
+    "display": "Icoana Maicii Domnului de la Niceea"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/28/205367-icon-of-the-mother-of-god-of-nicea",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

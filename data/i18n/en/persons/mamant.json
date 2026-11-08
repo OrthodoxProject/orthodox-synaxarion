@@ -1,0 +1,22 @@
+{
+  "id": "mamant",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Mamas",
+    "short": "Mamas",
+    "given": "Mamas"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-mamant",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

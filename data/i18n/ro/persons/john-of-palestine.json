@@ -1,0 +1,23 @@
+{
+  "id": "john-of-palestine",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Ioan din Palestina",
+    "full": "Sfântul Cuvios Mucenic Ioan din Palestina",
+    "short": "Ioan din Palestina",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/12/101064-monastic-martyrs-menas-david-and-john-of-palestine",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

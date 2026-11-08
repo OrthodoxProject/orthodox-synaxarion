@@ -1,0 +1,25 @@
+{
+  "id": "exaltation-of-the-cross",
+  "locale": "en",
+  "names": {
+    "display": "Exaltation of the Holy Cross"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/inaltarea-sfintei-cruci",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-inaltarea-sfintei-cruci-post/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

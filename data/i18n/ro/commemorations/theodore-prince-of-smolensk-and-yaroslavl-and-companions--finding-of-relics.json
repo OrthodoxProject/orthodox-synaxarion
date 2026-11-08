@@ -1,0 +1,20 @@
+{
+  "id": "theodore-prince-of-smolensk-and-yaroslavl-and-companions--finding-of-relics",
+  "locale": "ro",
+  "names": {
+    "display": "Aflarea moaștelor Sf. Teodor, cneazul Smolenskului și al Iaroslavlului, și ale copiilor săi"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/05/100660-finding-of-the-relics-of-saint-theodore-prince-of-smolensk-and-y",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

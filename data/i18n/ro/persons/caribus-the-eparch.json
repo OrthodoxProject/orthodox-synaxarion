@@ -1,0 +1,23 @@
+{
+  "id": "caribus-the-eparch",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Carib eparhul",
+    "full": "Sfântul Sfințit Mucenic Carib eparhul",
+    "short": "Carib eparhul",
+    "given": "Carib"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/15/103548-hieromartyr-eleutherius-bishop-of-illyria-his-mother-martyr-evan",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "timon-the-deacon-of-the-seventy",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ap. Timon diaconul",
+    "full": "Sfântul Apostol Timon diaconul",
+    "short": "Timon diaconul",
+    "given": "Timon"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/30/103693-apostle-timon-the-deacon-of-the-seventy",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

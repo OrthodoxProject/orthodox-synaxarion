@@ -1,0 +1,23 @@
+{
+  "id": "polycarp-of-briansk",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Policarp din Briansk",
+    "full": "Sfântul Cuvios Policarp din Briansk",
+    "short": "Policarp din Briansk",
+    "given": "Policarp"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/23/100590-venerable-polycarp-of-briansk",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

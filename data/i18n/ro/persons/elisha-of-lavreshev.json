@@ -1,0 +1,23 @@
+{
+  "id": "elisha-of-lavreshev",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Elisei de la Lavrișev",
+    "full": "Sfântul Cuvios Elisei de la Lavrișev",
+    "short": "Elisei de la Lavrișev",
+    "given": "Elisei"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/23/103042-venerable-elisha-of-lavreshev",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "columba-of-iona",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Columba de la Iona, luminătorul Scoției",
+    "full": "Sfântul Columba de la Iona, luminătorul Scoției",
+    "short": "Columba de la Iona, luminătorul Scoției",
+    "given": "Columba"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/09/101679-saint-columba-of-iona-enlightener-of-scotland",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "prochorus-of-pcinja",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Prohor de la Pcinja",
+    "full": "Sfântul Cuvios Prohor de la Pcinja",
+    "short": "Prohor de la Pcinja",
+    "given": "Prohor"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/19/108068-venerable-prochorus-of-pcinja",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

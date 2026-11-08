@@ -1,0 +1,22 @@
+{
+  "id": "atic",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Atticus",
+    "short": "Atticus",
+    "given": "Atticus"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-atic",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

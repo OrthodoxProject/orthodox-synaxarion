@@ -1,0 +1,23 @@
+{
+  "id": "cassian-of-uglich",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Casian din Uglici",
+    "full": "Sfântul Cuvios Casian din Uglici",
+    "short": "Casian din Uglici",
+    "given": "Casian"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/02/102840-venerable-cassian-of-uglich",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

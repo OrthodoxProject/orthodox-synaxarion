@@ -1,0 +1,23 @@
+{
+  "id": "rostislav-michael",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Binecredinciosul Mare Cneaz Rostislav-Mihail, cneazul Kievului",
+    "full": "Sfântul Binecredinciosul Mare Cneaz Rostislav-Mihail, cneazul Kievului",
+    "short": "Rostislav-Mihail, cneazul Kievului",
+    "given": "Rostislav"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/14/100802-right-believing-great-prince-rostislav-michael-prince-of-kiev",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

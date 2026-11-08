@@ -1,0 +1,23 @@
+{
+  "id": "george-the-god-bearer",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Gheorghe Purtătorul de Dumnezeu",
+    "full": "Sfântul Gheorghe Purtătorul de Dumnezeu",
+    "short": "Gheorghe Purtătorul de Dumnezeu",
+    "given": "Gheorghe"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/03/205460-saint-george-the-god-bearer",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

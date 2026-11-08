@@ -1,0 +1,23 @@
+{
+  "id": "stephen-the-protomartyr-and-the-first-martyr",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ștefan, întâiul mucenic",
+    "full": "Sfântul Ștefan, întâiul mucenic",
+    "short": "Ștefan, întâiul mucenic",
+    "given": "Ștefan"
+  },
+  "references": [
+    {
+      "source": "src:armenianchurch-ge",
+      "url": "https://armenianchurch.ge/en/kalendar-prazdnikov/description-2/december/commemoration-of-st-stephen-the-protomartyr-and-the-first-martyr",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

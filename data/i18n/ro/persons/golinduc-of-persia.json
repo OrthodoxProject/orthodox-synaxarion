@@ -1,0 +1,23 @@
+{
+  "id": "golinduc-of-persia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Golinduh (în botez Maria), din Persia",
+    "full": "Sfânta Muceniță Golinduh (în botez Maria), din Persia",
+    "short": "Golinduh din Persia",
+    "given": "Golinduh"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/12/102013-martyr-golinduc-in-baptism-mary-of-persia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "syncletica",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Sinclitichia și cele două fiice ale ei",
+    "full": "Sfânta Muceniță Sinclitichia și cele două fiice ale ei",
+    "short": "Sinclitichia și cele două fiice ale ei",
+    "given": "Sinclitichia"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/24/103049-martyr-syncletica-and-her-two-daughters",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "anthusa",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Antuza",
+    "full": "Sfânta Muceniță Antuza",
+    "short": "Antuza",
+    "given": "Antuza"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/27/102410-martyr-anthusa",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

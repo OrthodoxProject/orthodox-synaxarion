@@ -1,0 +1,23 @@
+{
+  "id": "hilarion-of-pskov",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ilarion din Pskov, de la lacul Gdov",
+    "full": "Sfântul Cuvios Ilarion din Pskov, de la lacul Gdov",
+    "short": "Ilarion din Pskov, de la lacul Gdov",
+    "given": "Ilarion"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/28/100922-venerable-hilarion-of-pskov-lake-gdov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

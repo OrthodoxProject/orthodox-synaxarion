@@ -1,0 +1,23 @@
+{
+  "id": "seraphim-of-the-trinity-sr",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Serafim de la Sfânta Treime",
+    "full": "Sfântul Serafim de la Sfânta Treime",
+    "short": "Serafim de la Sfânta Treime",
+    "given": "Serafim"
+  },
+  "references": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

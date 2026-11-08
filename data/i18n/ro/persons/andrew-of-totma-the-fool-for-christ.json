@@ -1,0 +1,22 @@
+{
+  "id": "andrew-of-totma-the-fool-for-christ",
+  "locale": "ro",
+  "names": {
+    "display": "Fericitul Andrei din Totma, cel nebun pentru Hristos",
+    "short": "Andrei din Totma, cel nebun pentru Hristos",
+    "given": "Andrei"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/10/102930-blessed-andrew-of-totma-the-fool-for-christ",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

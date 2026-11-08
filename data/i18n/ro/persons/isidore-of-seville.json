@@ -1,0 +1,23 @@
+{
+  "id": "isidore-of-seville",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Isidor, Episcopul Sevillei",
+    "full": "Sfântul Ierarh Isidor, Episcopul Sevillei",
+    "short": "Isidor, Episcopul Sevillei",
+    "given": "Isidor"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/04/100993-saint-isidore-bishop-of-seville",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

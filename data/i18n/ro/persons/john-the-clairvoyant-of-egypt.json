@@ -1,0 +1,23 @@
+{
+  "id": "john-the-clairvoyant-of-egypt",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ioan Înainte-văzătorul, pustnicul, din Egipt",
+    "full": "Sfântul Cuvios Ioan Înainte-văzătorul, pustnicul, din Egipt",
+    "short": "Ioan Înainte-văzătorul, pustnicul, din Egipt",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/27/100916-venerable-john-the-clairvoyant-anchorite-of-egypt",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

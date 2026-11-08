@@ -1,0 +1,23 @@
+{
+  "id": "zosimus-the-soldier-at-antioch",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Zosima Ostașul, din Antiohia Pisidiei",
+    "full": "Sfântul Mucenic Zosima Ostașul, din Antiohia Pisidiei",
+    "short": "Zosima Ostașul, din Antiohia Pisidiei",
+    "given": "Zosima"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/19/101754-martyr-zosimus-the-soldier-at-antioch-in-pisidia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

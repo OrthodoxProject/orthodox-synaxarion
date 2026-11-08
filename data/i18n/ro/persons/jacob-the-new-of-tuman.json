@@ -1,0 +1,23 @@
+{
+  "id": "jacob-the-new-of-tuman",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Iacob cel Nou de la Tuman",
+    "full": "Sfântul Cuvios Iacob cel Nou de la Tuman",
+    "short": "Iacob cel Nou de la Tuman",
+    "given": "Iacob"
+  },
+  "references": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

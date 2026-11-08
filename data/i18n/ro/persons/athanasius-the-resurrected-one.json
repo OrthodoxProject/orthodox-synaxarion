@@ -1,0 +1,28 @@
+{
+  "id": "athanasius-the-resurrected-one",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Atanasie „cel înviat”, Zăvorâtul de la Peșterile Apropiate din Kiev",
+    "full": "Sfântul Cuvios Atanasie „cel înviat”, Zăvorâtul de la Peșterile Apropiate din Kiev",
+    "short": "Atanasie „cel înviat”, Zăvorâtul de la Peșterile Apropiate din Kiev",
+    "given": "Atanasie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/02/103456-venerable-athanasius-the-resurrected-one-recluse-of-the-kiev-nea",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/02/103457-venerable-athanasius-the-recluse-of-the-kiev-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

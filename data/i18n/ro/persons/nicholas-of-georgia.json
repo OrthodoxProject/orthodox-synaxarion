@@ -1,0 +1,23 @@
+{
+  "id": "nicholas-of-georgia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Nicolae, Catolicosul Georgiei",
+    "full": "Sfântul Ierarh Nicolae, Catolicosul Georgiei",
+    "short": "Nicolae, Catolicosul Georgiei",
+    "given": "Nicolae"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/18/103816-saint-nicholas-catholicos-of-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

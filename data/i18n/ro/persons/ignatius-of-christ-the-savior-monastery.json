@@ -1,0 +1,23 @@
+{
+  "id": "ignatius-of-christ-the-savior-monastery",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ignatie de la Mănăstirea Hristos Mântuitorul",
+    "full": "Sfântul Cuvios Ignatie de la Mănăstirea Hristos Mântuitorul",
+    "short": "Ignatie de la Mănăstirea Hristos Mântuitorul",
+    "given": "Ignatie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/27/102740-saint-ignatius-of-christ-the-savior-monastery",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

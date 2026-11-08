@@ -1,0 +1,23 @@
+{
+  "id": "procopius-of-varna",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Noul Mc. Procopie din Varna",
+    "full": "Sfântul Noul Mucenic Procopie din Varna",
+    "short": "Procopie din Varna",
+    "given": "Procopie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/25/108014-new-martyr-procopius-of-varna",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

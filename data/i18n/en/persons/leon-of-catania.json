@@ -1,0 +1,27 @@
+{
+  "id": "leon-of-catania",
+  "locale": "en",
+  "names": {
+    "display": "Saint Leo, Bishop of Catania",
+    "short": "Leo, Bishop of Catania",
+    "given": "Leo"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-leon-episcopul-cataniei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ier-leon-episcopul-cataniei-sf-cuv-visarion-zi-aliturgica-dezlegare-la-branza-lapte-oua-si-peste/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

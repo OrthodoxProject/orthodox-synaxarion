@@ -1,0 +1,23 @@
+{
+  "id": "savva-of-benephali",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Sava din Benefali",
+    "full": "Sfântul Cuvios Sava din Benefali",
+    "short": "Sava din Benefali",
+    "given": "Sava"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/27/102411-venerable-savva-of-benephali",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "eumenius",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Eumenie, al șaptelea Papă al Scaunului Sf. Marcu",
+    "full": "Sfântul Ierarh Eumenie, al șaptelea Papă al Scaunului Sfântului Marcu",
+    "short": "Eumenie, al șaptelea Papă al Scaunului Sf. Marcu",
+    "given": "Eumenie"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/2_9.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

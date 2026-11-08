@@ -1,0 +1,23 @@
+{
+  "id": "priestmonk-jonah-the-martyr-of-pechenga",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Iona ieromonahul, de la Pecenga",
+    "full": "Sfântul Cuvios Mucenic Iona ieromonahul, de la Pecenga",
+    "short": "Iona ieromonahul, de la Pecenga",
+    "given": "Iona"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/25/103644-priestmonk-jonah-the-martyr-of-pechenga",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

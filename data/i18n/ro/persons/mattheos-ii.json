@@ -1,0 +1,23 @@
+{
+  "id": "mattheos-ii",
+  "locale": "ro",
+  "names": {
+    "display": "Papa Matei al II-lea, al 90-lea Patriarh al Scaunului Sf. Marcu",
+    "full": "Papa Matei al II-lea, al 90-lea Patriarh al Scaunului Sfântului Marcu",
+    "short": "Matei al II-lea, al 90-lea Patriarh al Scaunului Sf. Marcu",
+    "given": "Matei"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/1_13.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

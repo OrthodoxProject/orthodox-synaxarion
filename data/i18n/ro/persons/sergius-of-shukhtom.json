@@ -1,0 +1,23 @@
+{
+  "id": "sergius-of-shukhtom",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Serghie de la Șuhtom",
+    "full": "Sfântul Cuvios Serghie de la Șuhtom",
+    "short": "Serghie de la Șuhtom",
+    "given": "Serghie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/19/101442-venerable-sergius-of-shukhtom",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

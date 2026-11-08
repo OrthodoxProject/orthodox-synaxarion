@@ -1,0 +1,23 @@
+{
+  "id": "john-chimchimeli-the-philosopher",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ioan Cimcimeli Filosoful",
+    "full": "Sfântul Ioan Cimcimeli Filosoful",
+    "short": "Ioan Cimcimeli Filosoful",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/10/103814-saint-john-chimchimeli-the-philosopher",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

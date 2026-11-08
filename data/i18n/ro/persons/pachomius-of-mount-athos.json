@@ -1,0 +1,23 @@
+{
+  "id": "pachomius-of-mount-athos",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Pahomie de la Muntele Athos",
+    "full": "Sfântul Cuvios Mucenic Pahomie de la Muntele Athos",
+    "short": "Pahomie de la Muntele Athos",
+    "given": "Pahomie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/07/101324-monastic-martyr-pachomius-of-mount-athos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

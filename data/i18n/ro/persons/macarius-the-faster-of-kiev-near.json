@@ -1,0 +1,28 @@
+{
+  "id": "macarius-the-faster-of-kiev-near",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Macarie Postitorul, de la Peșterile Apropiate din Kiev",
+    "full": "Sfântul Cuvios Macarie Postitorul, de la Peșterile Apropiate din Kiev",
+    "short": "Macarie Postitorul, de la Peșterile Apropiate din Kiev",
+    "given": "Macarie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/19/100229-venerable-macarius-the-faster-of-the-kiev-near-caves",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/19/100230-venerable-macarius-the-deacon-of-the-kiev-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

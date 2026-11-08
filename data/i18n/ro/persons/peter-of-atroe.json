@@ -1,0 +1,23 @@
+{
+  "id": "peter-of-atroe",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Petru din Atroa",
+    "full": "Sfântul Cuvios Petru din Atroa",
+    "short": "Petru din Atroa",
+    "given": "Petru"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/13/102607-saint-peter-of-atroe",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

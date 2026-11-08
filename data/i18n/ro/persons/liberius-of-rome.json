@@ -1,0 +1,23 @@
+{
+  "id": "liberius-of-rome",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Liberie, Papa Romei",
+    "full": "Sfântul Ierarh Liberie, Papa Romei",
+    "short": "Liberie, Papa Romei",
+    "given": "Liberie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/27/102408-saint-liberius-pope-of-rome",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

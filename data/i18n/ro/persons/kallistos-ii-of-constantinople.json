@@ -1,0 +1,23 @@
+{
+  "id": "kallistos-ii-of-constantinople",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Calist al II-lea, Patriarhul Constantinopolului",
+    "full": "Sfântul Ierarh Calist al II-lea, Patriarhul Constantinopolului",
+    "short": "Calist al II-lea, Patriarhul Constantinopolului",
+    "given": "Calist"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/22/103373-saint-kallistos-ii-patriarch-of-constantinople",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

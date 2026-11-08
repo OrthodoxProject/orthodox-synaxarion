@@ -1,0 +1,23 @@
+{
+  "id": "priestmartyr-john-kochurov",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Ioan Kociurov",
+    "full": "Sfântul Sfințit Mucenic Ioan Kociurov",
+    "short": "Ioan Kociurov",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/31/103122-priestmartyr-john-kochurov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

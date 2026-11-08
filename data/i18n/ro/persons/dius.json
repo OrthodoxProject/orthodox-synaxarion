@@ -1,0 +1,23 @@
+{
+  "id": "dius",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Die",
+    "full": "Sfântul Mucenic Die",
+    "short": "Die",
+    "given": "Die"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/03/100979-martyrs-elpidephorus-dius-bithonius-and-galycus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

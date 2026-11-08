@@ -1,0 +1,23 @@
+{
+  "id": "katherine-of-alexandria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mare Mc. Ecaterina din Alexandria",
+    "full": "Sfânta Mare Muceniță Ecaterina din Alexandria",
+    "short": "Ecaterina din Alexandria",
+    "given": "Ecaterina"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/24/103382-great-martyr-katherine-of-alexandria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

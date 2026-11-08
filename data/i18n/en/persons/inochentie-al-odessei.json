@@ -1,0 +1,22 @@
+{
+  "id": "inochentie-al-odessei",
+  "locale": "en",
+  "names": {
+    "display": "Saint Innocent of Odessa",
+    "short": "Innocent of Odessa",
+    "given": "Innocent"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-inochentie-al-odessei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

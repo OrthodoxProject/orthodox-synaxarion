@@ -1,0 +1,23 @@
+{
+  "id": "prochorus-of-georgia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Prohor din Georgia",
+    "full": "Sfântul Prohor din Georgia",
+    "short": "Prohor din Georgia",
+    "given": "Prohor"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/12/103720-saint-prochorus-of-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

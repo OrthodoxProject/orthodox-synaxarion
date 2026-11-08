@@ -1,0 +1,23 @@
+{
+  "id": "leonid-of-optina",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Leonid de la Optina",
+    "full": "Sfântul Cuvios Leonid de la Optina",
+    "short": "Leonid de la Optina",
+    "given": "Leonid"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/11/148998-venerable-leonid-of-optina",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

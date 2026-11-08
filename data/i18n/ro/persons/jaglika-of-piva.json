@@ -1,0 +1,23 @@
+{
+  "id": "jaglika-of-piva",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Iaglica din Piva",
+    "full": "Sfânta Iaglica din Piva",
+    "short": "Iaglica din Piva",
+    "given": "Iaglica"
+  },
+  "references": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

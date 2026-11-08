@@ -1,0 +1,23 @@
+{
+  "id": "anna-of-leukadio",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ana din Leucadio",
+    "full": "Sfânta Ana din Leucadio",
+    "short": "Ana din Leucadio",
+    "given": "Ana"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/23/108985-saint-anna-of-leukadio",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

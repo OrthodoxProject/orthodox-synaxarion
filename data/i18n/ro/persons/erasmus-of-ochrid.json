@@ -1,0 +1,23 @@
+{
+  "id": "erasmus-of-ochrid",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Erasm din Ohrida",
+    "full": "Sfântul Cuvios Erasm din Ohrida",
+    "short": "Erasm din Ohrida",
+    "given": "Erasm"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/02/108047-venerable-erasmus-of-ochrid",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

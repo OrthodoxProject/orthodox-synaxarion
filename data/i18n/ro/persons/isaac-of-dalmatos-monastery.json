@@ -1,0 +1,23 @@
+{
+  "id": "isaac-of-dalmatos-monastery",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Isaachie, întemeietorul Mănăstirii Dalmaților din Constantinopol",
+    "full": "Sfântul Cuvios Isaachie, întemeietorul Mănăstirii Dalmaților din Constantinopol",
+    "short": "Isaachie, întemeietorul Mănăstirii Dalmaților din Constantinopol",
+    "given": "Isaachie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/30/101566-venerable-isaac-founder-of-dalmtos-monastery-at-constantinople",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "sebastiana-the-martyr",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Sebastiana, ucenița Sf. Ap. Pavel, din Heracleea",
+    "full": "Sfânta Muceniță Sebastiana, ucenița Sfântului Apostol Pavel, din Heracleea",
+    "short": "Sebastiana, ucenița Sf. Ap. Pavel, din Heracleea",
+    "given": "Sebastiana"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/16/102628-saint-sebastiana-the-martyr-disciple-of-saint-paul-the-apostle-a",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

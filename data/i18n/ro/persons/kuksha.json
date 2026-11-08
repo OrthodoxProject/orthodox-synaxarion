@@ -1,0 +1,23 @@
+{
+  "id": "kuksha",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Cucșa",
+    "full": "Sfântul Sfințit Mucenic Cucșa",
+    "short": "Cucșa",
+    "given": "Cucșa"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/27/102405-hieromartyr-kuksha-and-venerable-pimen-of-the-kiev-near-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

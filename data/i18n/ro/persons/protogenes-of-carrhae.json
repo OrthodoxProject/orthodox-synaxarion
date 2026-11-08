@@ -1,0 +1,23 @@
+{
+  "id": "protogenes-of-carrhae",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Mărt. Protoghen, Episcopul de Carrhae",
+    "full": "Sfântul Ierarh Mărturisitor Protoghen, Episcopul de Carrhae",
+    "short": "Protoghen, Episcopul de Carrhae",
+    "given": "Protoghen"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/25/102394-confessors-barses-and-eulogius-bishops-of-edessa-and-protogenes",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

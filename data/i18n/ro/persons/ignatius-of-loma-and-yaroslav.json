@@ -1,0 +1,23 @@
+{
+  "id": "ignatius-of-loma-and-yaroslav",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ignatie de la Loma și Iaroslavl",
+    "full": "Sfântul Cuvios Ignatie de la Loma și Iaroslavl",
+    "short": "Ignatie de la Loma și Iaroslavl",
+    "given": "Ignatie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/28/103678-venerable-ignatius-of-loma-and-yaroslav",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

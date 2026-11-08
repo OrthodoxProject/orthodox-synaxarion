@@ -1,0 +1,23 @@
+{
+  "id": "simeon-5",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Drept Simeon, făcătorul de minuni din Verhoturie",
+    "full": "Sfântul Drept Simeon, făcătorul de minuni din Verhoturie",
+    "short": "Simeon, făcătorul de minuni din Verhoturie",
+    "given": "Simeon"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/18/103578-righteous-simeon-wonderworker-of-verkhoturye",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

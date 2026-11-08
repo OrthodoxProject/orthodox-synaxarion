@@ -1,0 +1,23 @@
+{
+  "id": "john-of-galesh",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ioan din Galeș",
+    "full": "Sfântul Ioan din Galeș",
+    "short": "Ioan din Galeș",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/21/149004-saint-john-of-galesh",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "transfiguration-of-our-lord-god",
+  "locale": "ro",
+  "names": {
+    "display": "Sfânta Schimbare la Față a Domnului și Dumnezeului nostru",
+    "short": "Schimbarea la Față a Domnului și Dumnezeului nostru"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/06/102215-the-holy-transfiguration-of-our-lord-god-and-savior-jesus-christ",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

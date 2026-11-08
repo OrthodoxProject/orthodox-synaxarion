@@ -1,0 +1,23 @@
+{
+  "id": "barnabas-of-vetluga",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Barnaba, egumenul de la Vetluga",
+    "full": "Sfântul Cuvios Barnaba, egumenul de la Vetluga",
+    "short": "Barnaba, egumenul de la Vetluga",
+    "given": "Barnaba"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/11/101692-venerable-barnabas-abbot-of-vetluga",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

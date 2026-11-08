@@ -1,0 +1,23 @@
+{
+  "id": "albian-of-anaea",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Albian, Episcopul Aneei, în Asia Mică",
+    "full": "Sfântul Sfințit Mucenic Albian, Episcopul Aneei, în Asia Mică",
+    "short": "Albian, Episcopul Aneei, în Asia Mică",
+    "given": "Albian"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/04/101293-hieromartyr-albian-bishop-of-anaea-in-asia-minor",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

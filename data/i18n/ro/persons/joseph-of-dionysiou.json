@@ -1,0 +1,23 @@
+{
+  "id": "joseph-of-dionysiou",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Iosif de la Dionisiu",
+    "full": "Sfântul Cuvios Iosif de la Dionisiu",
+    "short": "Iosif de la Dionisiu",
+    "given": "Iosif"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/17/108006-saint-joseph-of-dionysiou",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

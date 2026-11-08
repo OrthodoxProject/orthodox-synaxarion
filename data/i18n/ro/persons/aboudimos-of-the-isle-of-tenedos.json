@@ -1,0 +1,23 @@
+{
+  "id": "aboudimos-of-the-isle-of-tenedos",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Avudim din insula Tenedos",
+    "full": "Sfântul Mucenic Avudim din insula Tenedos",
+    "short": "Avudim din insula Tenedos",
+    "given": "Avudim"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/15/102032-martyr-aboudimos-of-the-isle-of-tenedos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

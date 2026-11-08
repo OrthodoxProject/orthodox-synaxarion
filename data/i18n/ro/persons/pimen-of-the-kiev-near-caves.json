@@ -1,0 +1,23 @@
+{
+  "id": "pimen-of-the-kiev-near-caves",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Pimen de la Peșterile Apropiate din Kiev",
+    "full": "Sfântul Sfințit Mucenic Pimen de la Peșterile Apropiate din Kiev",
+    "short": "Pimen de la Peșterile Apropiate din Kiev",
+    "given": "Pimen"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/27/102405-hieromartyr-kuksha-and-venerable-pimen-of-the-kiev-near-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

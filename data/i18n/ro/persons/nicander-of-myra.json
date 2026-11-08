@@ -1,0 +1,23 @@
+{
+  "id": "nicander-of-myra",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Nicandru, Episcopul Mirelor",
+    "full": "Sfântul Sfințit Mucenic Nicandru, Episcopul Mirelor",
+    "short": "Nicandru, Episcopul Mirelor",
+    "given": "Nicandru"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/04/103172-hieromartyrs-nicander-bishop-of-myra-and-hermas-the-presbyter",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

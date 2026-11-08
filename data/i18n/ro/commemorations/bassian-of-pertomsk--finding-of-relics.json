@@ -1,0 +1,20 @@
+{
+  "id": "bassian-of-pertomsk--finding-of-relics",
+  "locale": "ro",
+  "names": {
+    "display": "Aflarea moaștelor Sf. Cuv. Vasian și Iona, monahii de la Pertominsk"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/05/101614-finding-of-the-relics-of-venerable-bassian-and-jonah-monks-of-pe",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "maximian-of-constantinople",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Maximian, Patriarhul Constantinopolului",
+    "full": "Sfântul Ierarh Maximian, Patriarhul Constantinopolului",
+    "short": "Maximian, Patriarhul Constantinopolului",
+    "given": "Maximian"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/21/101177-saint-maximian-patriarch-of-constantinople",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

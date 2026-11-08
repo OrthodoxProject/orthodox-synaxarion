@@ -1,0 +1,23 @@
+{
+  "id": "ephraim-the-lesser",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Efrem cel Mic",
+    "full": "Sfântul Efrem cel Mic",
+    "short": "Efrem cel Mic",
+    "given": "Efrem"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/18/205450-saint-ephraim-the-lesser",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

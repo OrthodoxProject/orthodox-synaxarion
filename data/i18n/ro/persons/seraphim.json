@@ -1,0 +1,23 @@
+{
+  "id": "seraphim",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Mitropolit Serafim (Ciciagov)",
+    "full": "Sfântul Sfințit Mucenic Mitropolit Serafim (Ciciagov)",
+    "short": "Serafim",
+    "given": "Serafim"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/28/103441-hieromartyr-metropolitan-seraphim-chichagov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

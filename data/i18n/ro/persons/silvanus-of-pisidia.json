@@ -1,0 +1,23 @@
+{
+  "id": "silvanus-of-pisidia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Silvan din Pisidia",
+    "full": "Sfântul Mucenic Silvan din Pisidia",
+    "short": "Silvan din Pisidia",
+    "given": "Silvan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/10/101997-martyrs-bianor-and-silvanus-of-pisidia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

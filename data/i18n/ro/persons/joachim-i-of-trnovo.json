@@ -1,0 +1,23 @@
+{
+  "id": "joachim-i-of-trnovo",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ioachim I, Patriarhul Târnovei și al Bulgariei",
+    "full": "Sfântul Ierarh Ioachim I, Patriarhul Târnovei și al Bulgariei",
+    "short": "Ioachim I, Patriarhul Târnovei și al Bulgariei",
+    "given": "Ioachim"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/18/108002-saint-joachim-i-patriarch-of-trnovo-and-bulgaria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

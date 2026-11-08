@@ -1,0 +1,23 @@
+{
+  "id": "gregory-of-gornjak",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Grigorie de la Gorniak",
+    "full": "Sfântul Cuvios Grigorie de la Gorniak",
+    "short": "Grigorie de la Gorniak",
+    "given": "Grigorie"
+  },
+  "references": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

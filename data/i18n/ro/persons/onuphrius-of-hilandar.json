@@ -1,0 +1,23 @@
+{
+  "id": "onuphrius-of-hilandar",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Noul Mc. Onufrie de la Hilandar, Muntele Athos",
+    "full": "Sfântul Cuvios Noul Mucenic Onufrie de la Hilandar, Muntele Athos",
+    "short": "Onufrie de la Hilandar",
+    "given": "Onufrie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/04/100095-venerable-new-martyr-onuphrius-of-hilandar-mount-athos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

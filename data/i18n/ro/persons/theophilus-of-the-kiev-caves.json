@@ -1,0 +1,23 @@
+{
+  "id": "theophilus-of-the-kiev-caves",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Teofil de la Lavra Peșterilor, Episcopul Novgorodului",
+    "full": "Sfântul Ierarh Teofil de la Lavra Peșterilor, Episcopul Novgorodului",
+    "short": "Teofil de la Lavra Peșterilor, Episcopul Novgorodului",
+    "given": "Teofil"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/26/103061-saint-theophilus-of-the-kiev-caves-bishop-of-novgorod",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

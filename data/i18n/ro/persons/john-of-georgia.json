@@ -1,0 +1,23 @@
+{
+  "id": "john-of-georgia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ioan din Georgia",
+    "full": "Sfântul Ioan din Georgia",
+    "short": "Ioan din Georgia",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/21/205505-saint-john-of-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

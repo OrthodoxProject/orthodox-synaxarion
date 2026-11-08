@@ -1,0 +1,23 @@
+{
+  "id": "macarius-of-glushetsa",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Macarie, egumenul de la Glușița",
+    "full": "Sfântul Cuvios Macarie, egumenul de la Glușița",
+    "short": "Macarie, egumenul de la Glușița",
+    "given": "Macarie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/12/108930-saint-macarius-abbot-of-glushetsa",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "dositheus-of-verkneostrov",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Dositei, egumenul de la Verhneostrov, Pskov",
+    "full": "Sfântul Cuvios Dositei, egumenul de la Verhneostrov, Pskov",
+    "short": "Dositei, egumenul de la Verhneostrov, Pskov",
+    "given": "Dositei"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/08/102900-venerable-dositheus-abbot-of-verkneostrov-pskov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

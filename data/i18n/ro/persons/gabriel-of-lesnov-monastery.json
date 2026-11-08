@@ -1,0 +1,23 @@
+{
+  "id": "gabriel-of-lesnov-monastery",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Gavriil, întemeietorul Mănăstirii Lesnov din Bulgaria",
+    "full": "Sfântul Cuvios Gavriil, întemeietorul Mănăstirii Lesnov din Bulgaria",
+    "short": "Gavriil, întemeietorul Mănăstirii Lesnov din Bulgaria",
+    "given": "Gavriil"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/15/100200-venerable-gabriel-founder-of-lesnov-monastery-in-bulgaria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "schema-monk-cyril",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Chiril schimonahul",
+    "full": "Sfântul Cuvios Chiril schimonahul",
+    "short": "Chiril schimonahul",
+    "given": "Chiril"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/28/102755-schema-monk-cyril-and-schema-nun-maria-the-parents-of-saint-serg",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

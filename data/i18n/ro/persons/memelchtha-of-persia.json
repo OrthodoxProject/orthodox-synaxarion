@@ -1,0 +1,23 @@
+{
+  "id": "memelchtha-of-persia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Memelhta din Persia",
+    "full": "Sfânta Muceniță Memelhta din Persia",
+    "short": "Memelhta din Persia",
+    "given": "Memelhta"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/05/102881-martyr-memelchtha-of-persia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

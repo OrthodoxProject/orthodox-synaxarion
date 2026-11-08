@@ -1,0 +1,23 @@
+{
+  "id": "childmartyr-gabriel-of-bialystok",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Prunc Gavriil din Bialystok",
+    "full": "Sfântul Mucenic Prunc Gavriil din Bialystok",
+    "short": "Gavriil din Bialystok",
+    "given": "Gavriil"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/20/101158-childmartyr-gabriel-of-bialystok",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

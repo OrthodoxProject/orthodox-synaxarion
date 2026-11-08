@@ -1,0 +1,23 @@
+{
+  "id": "prosper-of-aquitaine",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Prosper din Aquitania",
+    "full": "Sfântul Prosper din Aquitania",
+    "short": "Prosper din Aquitania",
+    "given": "Prosper"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/07/100182-saint-prosper-of-aquitaine",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

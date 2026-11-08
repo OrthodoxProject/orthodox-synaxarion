@@ -1,0 +1,23 @@
+{
+  "id": "anastasius",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Anastasie, ucenicul Sf. Cuv. Maxim Mărturisitorul",
+    "full": "Sfântul Mucenic Anastasie, ucenicul Sfântului Cuvios Maxim Mărturisitorul",
+    "short": "Anastasie, ucenicul Sf. Cuv. Maxim Mărturisitorul",
+    "given": "Anastasie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/21/100256-martyr-anastasius-disciple-of-venerable-maximus-the-confessor",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

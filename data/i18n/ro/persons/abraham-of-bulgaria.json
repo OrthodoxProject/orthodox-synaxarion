@@ -1,0 +1,23 @@
+{
+  "id": "abraham-of-bulgaria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Avraam din Bulgaria",
+    "full": "Sfântul Mucenic Avraam din Bulgaria",
+    "short": "Avraam din Bulgaria",
+    "given": "Avraam"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/01/100965-martyr-abraham-of-bulgaria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

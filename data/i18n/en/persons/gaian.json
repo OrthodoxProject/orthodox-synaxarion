@@ -1,0 +1,22 @@
+{
+  "id": "gaian",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Gaianus",
+    "short": "Gaianus",
+    "given": "Gaianus"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-gaian",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

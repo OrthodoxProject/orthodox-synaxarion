@@ -1,0 +1,23 @@
+{
+  "id": "tsotne-dadiani-the-confessor",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Țotne Dadiani Mărturisitorul",
+    "full": "Sfântul Țotne Dadiani Mărturisitorul",
+    "short": "Țotne Dadiani Mărturisitorul",
+    "given": "Țotne"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/30/205479-saint-tsotne-dadiani-the-confessor",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

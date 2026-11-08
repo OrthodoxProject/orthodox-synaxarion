@@ -1,0 +1,23 @@
+{
+  "id": "arsenius-of-ninotsminda",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Arsenie, Episcopul de Ninoțminda",
+    "full": "Sfântul Ierarh Arsenie, Episcopul de Ninoțminda",
+    "short": "Arsenie, Episcopul de Ninoțminda",
+    "given": "Arsenie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/31/103869-saint-arsenius-bishop-of-ninotsminda",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

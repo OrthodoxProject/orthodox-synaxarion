@@ -1,0 +1,23 @@
+{
+  "id": "roman-of-kirzhachsk",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Roman de la Kirjaci",
+    "full": "Sfântul Cuvios Roman de la Kirjaci",
+    "short": "Roman de la Kirjaci",
+    "given": "Roman"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/29/109012-saint-roman-of-kirzhachsk",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

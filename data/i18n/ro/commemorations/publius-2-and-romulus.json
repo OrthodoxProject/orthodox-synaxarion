@@ -1,0 +1,20 @@
+{
+  "id": "publius-2-and-romulus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Agapie, Publie, Timolau, Romul, doi cu numele Dionisie și doi cu numele Alexandru, din Cezareea Palestinei"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/15/100805-martyrs-agapius-publius-timolaus-romulus-two-named-dionysius-and",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ardalion-the-actor",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Ardalion actorul",
+    "full": "Sfântul Mucenic Ardalion actorul",
+    "short": "Ardalion actorul",
+    "given": "Ardalion"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/14/101079-martyr-ardalion-the-actor",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "elian",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Elian, misionar în Cornwall, Anglia",
+    "full": "Sfântul Elian, misionar în Cornwall, Anglia",
+    "short": "Elian, misionar în Cornwall, Anglia",
+    "given": "Elian"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/13/108891-saint-elian-missionary-to-cornwall-england",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

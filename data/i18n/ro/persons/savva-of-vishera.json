@@ -1,0 +1,23 @@
+{
+  "id": "savva-of-vishera",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Sava, egumenul de la Vișera, Novgorod",
+    "full": "Sfântul Cuvios Sava, egumenul de la Vișera, Novgorod",
+    "short": "Sava, egumenul de la Vișera, Novgorod",
+    "given": "Sava"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/01/102827-venerable-savva-abbot-of-vishera-novgorod",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

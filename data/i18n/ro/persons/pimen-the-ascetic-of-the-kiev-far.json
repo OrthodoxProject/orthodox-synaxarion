@@ -1,0 +1,23 @@
+{
+  "id": "pimen-the-ascetic-of-the-kiev-far",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Pimen Postitorul, de la Peșterile Depărtate din Kiev",
+    "full": "Sfântul Cuvios Pimen Postitorul, de la Peșterile Depărtate din Kiev",
+    "short": "Pimen Postitorul, de la Peșterile Depărtate din Kiev",
+    "given": "Pimen"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/08/101330-venerable-pimen-the-ascetic-of-the-kiev-far-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

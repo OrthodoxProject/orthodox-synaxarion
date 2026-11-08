@@ -1,0 +1,23 @@
+{
+  "id": "john-maximovitch-of-tobolsk",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ioan Maximovici, Mitropolitul Tobolskului",
+    "full": "Sfântul Ierarh Ioan Maximovici, Mitropolitul Tobolskului",
+    "short": "Ioan Maximovici, Mitropolitul Tobolskului",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/10/101683-saint-john-maximovitch-metropolitan-of-tobolsk",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "peter-4",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Petru, cneazul Ordinskului, Rostov",
+    "full": "Sfântul Petru, cneazul Ordinskului, Rostov",
+    "short": "Petru, cneazul Ordinskului, Rostov",
+    "given": "Petru"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/30/101856-saint-peter-prince-of-ordinsk-rostov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

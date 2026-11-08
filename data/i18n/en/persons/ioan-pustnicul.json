@@ -1,0 +1,27 @@
+{
+  "id": "ioan-pustnicul",
+  "locale": "en",
+  "names": {
+    "display": "Venerable John the Hermit",
+    "short": "John the Hermit",
+    "given": "John"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-ioan-pustnicul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-rafael-si-partenie-de-la-agapia-veche-sf-cuv-simeon-si-ioan-pustnicul-sf-proroc-iezechiel/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

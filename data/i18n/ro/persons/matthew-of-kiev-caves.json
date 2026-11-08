@@ -1,0 +1,23 @@
+{
+  "id": "matthew-of-kiev-caves",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Matei cel înainte-văzător, de la Lavra Peșterilor",
+    "full": "Sfântul Cuvios Matei cel înainte-văzător, de la Lavra Peșterilor",
+    "short": "Matei cel înainte-văzător, de la Lavra Peșterilor",
+    "given": "Matei"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/05/102876-venerable-damian-the-healer-jeremiah-and-matthew-clairvoyants-of",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pambo-the-hermit-of-egypt",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Pamvo Pustnicul, din Egipt",
+    "full": "Sfântul Cuvios Pamvo Pustnicul, din Egipt",
+    "short": "Pamvo Pustnicul, din Egipt",
+    "given": "Pamvo"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/18/102051-venerable-pambo-the-hermit-of-egypt",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "euplus-of-catania",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Euplu arhidiaconul, din Catania",
+    "full": "Sfântul Mucenic Euplu arhidiaconul, din Catania",
+    "short": "Euplu din Catania",
+    "given": "Euplu"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/11/102264-martyr-and-archdeacon-euplus-of-catania",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

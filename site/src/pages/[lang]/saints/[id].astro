@@ -5,7 +5,7 @@ import Placements from "../../../components/Placements.astro";
 import Provenance from "../../../components/Provenance.astro";
 import Texts from "../../../components/Texts.astro";
 import Base from "../../../layouts/Base.astro";
-import { commName, holinessText, languageName, linkOf, localeOf } from "../../../lib/format.ts";
+import { commName, holinessText, languageNotice, linkOf, localeOf } from "../../../lib/format.ts";
 import { redirectPage } from "../../../lib/redirect.ts";
 import { aliasesOf, commemorationsOf, groupsOf, href, idsOf, record } from "../../../lib/site.ts";
 import { LANGS, t, type Lang } from "../../../lib/ui.ts";
@@ -28,6 +28,7 @@ const rec = record("persons", id) as Rec;
 const loc: Rec = localeOf("persons", id, lang) ?? { names: { display: id } };
 const self = href(lang, "saints", id);
 const comms = commemorationsOf(ref);
+const notice = languageNotice(loc, lang);
 ---
 
 <Base lang={lang} title={loc.names.display} description={loc.summary} segments={["saints", id]} current="saints">
@@ -36,7 +37,7 @@ const comms = commemorationsOf(ref);
     <h1>{loc.names.full ?? loc.names.display}</h1>
     {(rec.holiness_types ?? []).length > 0 && <p class="lead">{holinessText(rec.holiness_types, rec.gender, lang)}</p>}
     {rec.editorial?.status === "draft" && <p class="draft" data-pagefind-ignore>{t(lang, "draft")}</p>}
-    {loc.locale && loc.locale !== lang && <p class="muted" data-pagefind-ignore>{t(lang, "notTranslated", { language: languageName(loc.locale, lang) })}</p>}
+    {notice && <p class="muted" data-pagefind-ignore>{notice}</p>}
     {loc.summary && <p class="summary" lang={loc.locale !== lang ? loc.locale : undefined}>{loc.summary}</p>}
 
     {

@@ -1,0 +1,23 @@
+{
+  "id": "joanna-the-myrrhbearer",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ioana Mironosița",
+    "full": "Sfânta Ioana Mironosița",
+    "short": "Ioana Mironosița",
+    "given": "Ioana"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/27/101827-saint-joanna-the-myrrhbearer",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

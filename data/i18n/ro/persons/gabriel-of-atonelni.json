@@ -1,0 +1,23 @@
+{
+  "id": "gabriel-of-atonelni",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Gavriil de la Atonelni",
+    "full": "Sfântul Cuvios Gavriil de la Atonelni",
+    "short": "Gavriil de la Atonelni",
+    "given": "Gavriil"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/04/205388-venerable-gabriel-of-atonelni",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

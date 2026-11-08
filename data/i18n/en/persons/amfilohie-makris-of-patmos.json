@@ -1,0 +1,22 @@
+{
+  "id": "amfilohie-makris-of-patmos",
+  "locale": "en",
+  "names": {
+    "display": "Saint Amphilochius Makris of Patmos",
+    "short": "Amphilochius Makris of Patmos",
+    "given": "Amphilochius"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-amfilohie-makris-din-patmos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

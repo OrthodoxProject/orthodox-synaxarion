@@ -1,0 +1,23 @@
+{
+  "id": "john-8",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ioan, Andrei, Iraclemon",
+    "full": "Sfântul Cuvios Ioan, Andrei, Iraclemon",
+    "short": "Ioan, Andrei, Iraclemon",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/12/101707-venerable-john-andrew-heraclemon-and-theophilus-hermits-of-egypt",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

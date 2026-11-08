@@ -1,0 +1,28 @@
+{
+  "id": "paisios-velichkovsky",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Paisie Velicicovschi",
+    "full": "Sfântul Cuvios Paisie Velicicovschi",
+    "short": "Paisie Velicicovschi",
+    "given": "Paisie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/15/103311-venerable-paisios-velichkovsky",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/romanian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

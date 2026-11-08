@@ -1,0 +1,20 @@
+{
+  "id": "the-construction-of-the-first-church-of-st",
+  "locale": "ro",
+  "names": {
+    "display": "Zidirea primei biserici a Sf. Gheorghe în orașele Birma și Beer Maa (Fântâna cu apă) din Oaze"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/10_3.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

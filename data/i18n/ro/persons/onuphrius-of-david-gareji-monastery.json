@@ -1,0 +1,23 @@
+{
+  "id": "onuphrius-of-david-gareji-monastery",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Onufrie de la Mănăstirea Sfântul David Gareji, Georgia",
+    "full": "Sfântul Onufrie de la Mănăstirea Sfântul David Gareji, Georgia",
+    "short": "Onufrie de la Mănăstirea Sfântul David Gareji, Georgia",
+    "given": "Onufrie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/29/103888-saint-onuphrius-of-saint-david-gareji-monastery-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

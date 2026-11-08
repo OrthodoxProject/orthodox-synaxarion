@@ -1,0 +1,23 @@
+{
+  "id": "domnica-of-syria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Domnica (Domnina) din Siria",
+    "full": "Sfânta Cuvioasă Domnica (Domnina) din Siria",
+    "short": "Domnica din Siria",
+    "given": "Domnica"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/28/100621-venerable-domnica-domnina-of-syria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "daniel-the-hesychast",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Daniil Sihastrul",
+    "full": "Sfântul Cuvios Daniil Sihastrul",
+    "short": "Daniil Sihastrul",
+    "given": "Daniil"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/18/149006-venerable-daniel-the-hesychast",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

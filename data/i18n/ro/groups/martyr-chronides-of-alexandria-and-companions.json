@@ -1,0 +1,20 @@
+{
+  "id": "martyr-chronides-of-alexandria-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Hronid din Alexandria și cei împreună cu el"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/13/102595-martyr-chronides-of-alexandria-and-those-with-him",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

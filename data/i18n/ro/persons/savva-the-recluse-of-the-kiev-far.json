@@ -1,0 +1,23 @@
+{
+  "id": "savva-the-recluse-of-the-kiev-far",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Sava Zăvorâtul, de la Peșterile Depărtate din Kiev",
+    "full": "Sfântul Cuvios Sava Zăvorâtul, de la Peșterile Depărtate din Kiev",
+    "short": "Sava Zăvorâtul, de la Peșterile Depărtate din Kiev",
+    "given": "Sava"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/24/101190-venerable-savva-the-recluse-of-the-kiev-far-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

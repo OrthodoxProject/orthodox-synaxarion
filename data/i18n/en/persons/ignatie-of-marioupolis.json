@@ -1,0 +1,22 @@
+{
+  "id": "ignatie-of-marioupolis",
+  "locale": "en",
+  "names": {
+    "display": "Saint Ignatius of Mariupol",
+    "short": "Ignatius of Mariupol",
+    "given": "Ignatius"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-ignatie-de-marioupolis",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

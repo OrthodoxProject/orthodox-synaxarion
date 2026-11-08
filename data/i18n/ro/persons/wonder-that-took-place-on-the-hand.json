@@ -1,0 +1,21 @@
+{
+  "id": "wonder-that-took-place-on-the-hand",
+  "locale": "ro",
+  "names": {
+    "display": "Minunea săvârșită prin mâna Papei Sinutie (Șenuda I), al 55-lea Patriarh",
+    "short": "Minunea săvârșită prin mâna Papei Sinutie, al 55-lea Patriarh"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/8_9.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

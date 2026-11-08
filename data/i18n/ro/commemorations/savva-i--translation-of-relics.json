@@ -1,0 +1,20 @@
+{
+  "id": "savva-i--translation-of-relics",
+  "locale": "ro",
+  "names": {
+    "display": "Aducerea moaștelor Sf. Ier. Sava, întâiul Arhiepiscop al Serbiei"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/06/101308-translation-of-the-relics-of-saint-savva-first-archbishop-of-ser",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

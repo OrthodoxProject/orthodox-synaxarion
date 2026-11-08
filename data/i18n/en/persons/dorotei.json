@@ -1,0 +1,27 @@
+{
+  "id": "dorotei",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Dorotheus",
+    "short": "Dorotheus",
+    "given": "Dorotheus"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-dorotei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/odovania-praznicului-schimbarii-la-fata-a-domnului-mutarea-moastelor-sf-cuv-maxim-marturisitorul-sf-cuv-dorotei-si-dositei-din-gaza/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

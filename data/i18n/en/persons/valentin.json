@@ -1,0 +1,27 @@
+{
+  "id": "valentin",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Valentine",
+    "short": "Valentine",
+    "given": "Valentine"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-valentin",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mare-mucenic-areta-sf-mc-marcu-sotirih-si-valentin/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

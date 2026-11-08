@@ -1,0 +1,23 @@
+{
+  "id": "triandaphyllus-of-stara-zagora",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Noul Mc. Triandafil din Stara Zagora",
+    "full": "Sfântul Noul Mucenic Triandafil din Stara Zagora",
+    "short": "Triandafil din Stara Zagora",
+    "given": "Triandafil"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/08/108019-new-martyr-triandaphyllus-of-stara-zagora",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

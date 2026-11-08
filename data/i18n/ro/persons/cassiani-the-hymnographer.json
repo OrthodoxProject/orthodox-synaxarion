@@ -1,0 +1,23 @@
+{
+  "id": "cassiani-the-hymnographer",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Casiana Imnografa",
+    "full": "Sfânta Cuvioasă Casiana Imnografa",
+    "short": "Casiana Imnografa",
+    "given": "Casiana"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/07/100454-venerable-cassiani-the-hymnographer",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

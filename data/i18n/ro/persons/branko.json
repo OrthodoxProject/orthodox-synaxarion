@@ -1,0 +1,23 @@
+{
+  "id": "branko",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Branko, preot paroh din Veljusa",
+    "full": "Sfântul Sfințit Mucenic Branko, preot paroh din Veljusa",
+    "short": "Branko, preot paroh din Veljusa",
+    "given": "Branko"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/24/205318-hieromartyr-branko-parish-priest-of-veljusa",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

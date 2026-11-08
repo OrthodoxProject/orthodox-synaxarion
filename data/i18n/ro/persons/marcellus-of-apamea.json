@@ -1,0 +1,23 @@
+{
+  "id": "marcellus-of-apamea",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Marcel, Episcopul Apameei",
+    "full": "Sfântul Sfințit Mucenic Marcel, Episcopul Apameei",
+    "short": "Marcel, Episcopul Apameei",
+    "given": "Marcel"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/14/102299-hieromartyr-marcellus-bishop-of-apamea",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

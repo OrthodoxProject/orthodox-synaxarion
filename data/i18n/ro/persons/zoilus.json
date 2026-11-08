@@ -1,0 +1,23 @@
+{
+  "id": "zoilus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Zoil",
+    "full": "Sfântul Zoil",
+    "short": "Zoil",
+    "given": "Zoil"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/03/100646-saints-zenon-and-zoilus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "augustine-of-canterbury",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Augustin de Canterbury, propovăduitorul Evangheliei în Anglia",
+    "full": "Sfântul Augustin de Canterbury, propovăduitorul Evangheliei în Anglia",
+    "short": "Augustin de Canterbury, propovăduitorul Evangheliei în Anglia",
+    "given": "Augustin"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/26/101542-saint-augustine-of-canterbury-evangelizer-of-england",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

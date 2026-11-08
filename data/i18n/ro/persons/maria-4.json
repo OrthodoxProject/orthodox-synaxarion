@@ -1,0 +1,23 @@
+{
+  "id": "maria-4",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Schimonahia Maria, mama Sf. Sergiu de Radonej",
+    "full": "Sfânta Cuvioasă Schimonahia Maria, mama Sfântului Sergiu de Radonej",
+    "short": "Maria, mama Sf. Sergiu de Radonej",
+    "given": "Maria"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/18/100224-venerable-schemamonk-cyril-and-schemanun-maria-the-parents-of-sa",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

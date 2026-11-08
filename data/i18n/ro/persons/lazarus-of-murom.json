@@ -1,0 +1,23 @@
+{
+  "id": "lazarus-of-murom",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Lazăr de la Murom",
+    "full": "Sfântul Cuvios Lazăr de la Murom",
+    "short": "Lazăr de la Murom",
+    "given": "Lazăr"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/08/100699-venerable-lazarus-of-murom",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

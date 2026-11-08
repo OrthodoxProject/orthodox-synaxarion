@@ -1,0 +1,27 @@
+{
+  "id": "mavra-of-pe-ceahlau",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Maura of Ceahlău",
+    "short": "Maura of Ceahlău",
+    "given": "Maura"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-mavra-de-pe-ceahlau",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-mavra-de-pe-ceahlau-sf-mc-pelaghia-sf-monica/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

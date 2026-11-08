@@ -1,0 +1,23 @@
+{
+  "id": "euthymius-the-schemamonk",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Eftimie schimonahul",
+    "full": "Sfântul Cuvios Eftimie schimonahul",
+    "short": "Eftimie schimonahul",
+    "given": "Eftimie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/20/100239-venerable-euthymius-the-schemamonk",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

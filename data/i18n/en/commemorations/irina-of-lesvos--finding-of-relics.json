@@ -1,0 +1,20 @@
+{
+  "id": "irina-of-lesvos--finding-of-relics",
+  "locale": "en",
+  "names": {
+    "display": "Uncovering of the relics of the Martyr Irene of Lesbos"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/aflarea-moastelor-sfintei-mucenite-irina-din-lesvos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

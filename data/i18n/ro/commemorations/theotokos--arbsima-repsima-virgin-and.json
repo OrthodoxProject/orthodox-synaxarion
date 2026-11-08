@@ -1,0 +1,20 @@
+{
+  "id": "theotokos--arbsima-repsima-virgin-and",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Fecioară Arbsima (Ripsimia) și surorile ei fecioare"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/1_29.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

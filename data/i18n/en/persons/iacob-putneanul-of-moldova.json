@@ -1,0 +1,27 @@
+{
+  "id": "iacob-putneanul-of-moldova",
+  "locale": "en",
+  "names": {
+    "display": "Saint Jacob of Putna, Metropolitan of Moldavia",
+    "short": "Jacob of Putna, Metropolitan of Moldavia",
+    "given": "Jacob"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-iacob-putneanul-mitropolitul-moldovei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ier-iacob-putneanul-mitropolitul-moldovei-sf-cuv-pahomie-cel-mare-dezlegare-la-peste/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

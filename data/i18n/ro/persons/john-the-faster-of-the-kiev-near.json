@@ -1,0 +1,23 @@
+{
+  "id": "john-the-faster-of-the-kiev-near",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ioan Postitorul, de la Peșterile Apropiate din Kiev",
+    "full": "Sfântul Cuvios Ioan Postitorul, de la Peșterile Apropiate din Kiev",
+    "short": "Ioan Postitorul, de la Peșterile Apropiate din Kiev",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/07/103488-venerable-john-the-faster-of-the-kiev-near-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

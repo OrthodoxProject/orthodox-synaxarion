@@ -1,0 +1,27 @@
+{
+  "id": "antuza-2",
+  "locale": "en",
+  "names": {
+    "display": "Saint Anthusa, mother of Saint John Chrysostom",
+    "short": "Anthusa, mother of Saint John Chrysostom",
+    "given": "Anthusa"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-antuza-mama-sfantului-ierarh-ioan-gura-de-aur",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ier-ioan-gura-de-aur-arhiepiscopul-constantinopolului-si-mama-sa-sf-antuza/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "john-9",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ioan, făcătorul de minuni din Iarenga, Solovăț",
+    "full": "Sfântul Cuvios Ioan, făcătorul de minuni din Iarenga, Solovăț",
+    "short": "Ioan, făcătorul de minuni din Iarenga, Solovăț",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/03/101879-venerable-john-wonderworker-of-yarenga-solovki",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

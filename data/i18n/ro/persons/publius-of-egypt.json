@@ -1,0 +1,23 @@
+{
+  "id": "publius-of-egypt",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Publie din Egipt",
+    "full": "Sfântul Cuvios Publie din Egipt",
+    "short": "Publie din Egipt",
+    "given": "Publie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/05/100999-venerable-publius-of-egypt",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pansemne-of-antioch",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Pansemni din Antiohia",
+    "full": "Sfânta Cuvioasă Pansemni din Antiohia",
+    "short": "Pansemni din Antiohia",
+    "given": "Pansemni"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/10/101686-venerable-theophanes-and-saint-pansemne-of-antioch",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

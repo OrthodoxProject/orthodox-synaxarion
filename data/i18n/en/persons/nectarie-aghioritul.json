@@ -1,0 +1,22 @@
+{
+  "id": "nectarie-aghioritul",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Nectarius the Hagiorite",
+    "short": "Nectarius the Hagiorite",
+    "given": "Nectarius"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-nectarie-aghioritul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

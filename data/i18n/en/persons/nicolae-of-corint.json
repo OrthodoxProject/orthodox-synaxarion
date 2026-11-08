@@ -1,0 +1,22 @@
+{
+  "id": "nicolae-of-corint",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Nicholas of Corinth",
+    "short": "Nicholas of Corinth",
+    "given": "Nicholas"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-nicolae-din-corint",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "gregory-of-tver",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Noul Sfințit Mc. Grigorie (Raevski) din Tver",
+    "full": "Sfântul Noul Sfințit Mucenic Grigorie (Raevski) din Tver",
+    "short": "Grigorie din Tver",
+    "given": "Grigorie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/16/103914-new-hieromartyr-gregory-raevskii-of-tver",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

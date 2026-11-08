@@ -1,0 +1,23 @@
+{
+  "id": "galacteon-of-vologda",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Galaction din Vologda",
+    "full": "Sfântul Cuvios Mucenic Galaction din Vologda",
+    "short": "Galaction din Vologda",
+    "given": "Galaction"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/24/102717-monastic-martyr-galacteon-of-vologda",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

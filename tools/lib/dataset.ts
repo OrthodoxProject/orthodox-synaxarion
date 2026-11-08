@@ -28,6 +28,30 @@ export interface Dataset {
   vocab: Map<string, Rec>;
 }
 
+/** True for a machine translation that no one has reviewed yet. */
+export function isMachineTranslation(rec: Rec | undefined): boolean {
+  const translation = rec?.translation as Rec | undefined;
+  const machine = translation?.method === "machine" || translation?.status === "machine";
+  return machine && translation?.status !== "reviewed" && translation?.status !== "approved";
+}
+
+/** The dataset without its unreviewed machine translations (locale files and long texts). */
+export function withoutMachineTranslations(ds: Dataset): Dataset {
+  for (const byId of ds.locales.values()) {
+    for (const [id, byLocale] of byId) {
+      for (const [locale, rec] of byLocale) if (isMachineTranslation(rec)) byLocale.delete(locale);
+      if (byLocale.size === 0) byId.delete(id);
+    }
+  }
+  for (const byId of ds.texts.values()) {
+    for (const [id, byLocale] of byId) {
+      for (const [locale, text] of byLocale) if (isMachineTranslation(text.frontMatter)) byLocale.delete(locale);
+      if (byLocale.size === 0) byId.delete(id);
+    }
+  }
+  return ds;
+}
+
 function walk(dir: string, out: string[]): void {
   for (const name of readdirSync(dir).sort()) {
     if (name.startsWith(".")) continue;

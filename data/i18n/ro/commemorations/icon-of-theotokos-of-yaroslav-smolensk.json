@@ -1,0 +1,20 @@
+{
+  "id": "icon-of-theotokos-of-yaroslav-smolensk",
+  "locale": "ro",
+  "names": {
+    "display": "Icoana Maicii Domnului de la Iaroslav-Smolensk"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/12/108931-icon-of-the-mother-of-god-of-yaroslav-smolensk",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

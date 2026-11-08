@@ -1,0 +1,23 @@
+{
+  "id": "ioasaph-of-india",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ioasaf din India",
+    "full": "Sfântul Cuvios Ioasaf din India",
+    "short": "Ioasaf din India",
+    "given": "Ioasaf"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/19/100292-saints-barlaam-the-monk-and-prince-ioasaph-of-india",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

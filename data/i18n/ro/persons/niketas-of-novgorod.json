@@ -1,0 +1,23 @@
+{
+  "id": "niketas-of-novgorod",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Nichita, Episcopul Novgorodului, Zăvorâtul de la Peșterile Depărtate din Kiev",
+    "full": "Sfântul Ierarh Nichita, Episcopul Novgorodului, Zăvorâtul de la Peșterile Depărtate din Kiev",
+    "short": "Nichita, Episcopul Novgorodului, Zăvorâtul de la Peșterile Depărtate din Kiev",
+    "given": "Nichita"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/14/101377-saint-niktas-bishop-of-novgorod-recluse-of-the-kiev-far-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

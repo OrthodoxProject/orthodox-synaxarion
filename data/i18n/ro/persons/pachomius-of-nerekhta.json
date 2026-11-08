@@ -1,0 +1,23 @@
+{
+  "id": "pachomius-of-nerekhta",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Pahomie, egumenul de la Nerehta",
+    "full": "Sfântul Cuvios Pahomie, egumenul de la Nerehta",
+    "short": "Pahomie, egumenul de la Nerehta",
+    "given": "Pahomie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/15/101388-venerable-pachomius-abbot-of-nerekhta",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

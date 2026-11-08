@@ -1,0 +1,23 @@
+{
+  "id": "onuphrius-the-silent",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Onufrie cel Tăcut",
+    "full": "Sfântul Cuvios Onufrie cel Tăcut",
+    "short": "Onufrie cel Tăcut",
+    "given": "Onufrie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/21/102067-venerable-onuphrius-the-silent-and-venerable-onesimos-the-reclus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

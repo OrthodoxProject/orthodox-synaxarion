@@ -1,0 +1,23 @@
+{
+  "id": "crescens-of-myra-in-lycia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Crescent din Mira Lichiei",
+    "full": "Sfântul Mucenic Crescent din Mira Lichiei",
+    "short": "Crescent din Mira Lichiei",
+    "given": "Crescent"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/13/101073-martyr-crescens-of-myra-in-lycia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

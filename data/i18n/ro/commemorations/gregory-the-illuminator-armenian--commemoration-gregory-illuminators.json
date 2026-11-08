@@ -1,0 +1,20 @@
+{
+  "id": "gregory-the-illuminator-armenian--commemoration-gregory-illuminators",
+  "locale": "ro",
+  "names": {
+    "display": "Pomenirea chinurilor Sf. Grigorie Luminătorul și a aruncării sale în groapă"
+  },
+  "references": [
+    {
+      "source": "src:armenianchurch-ge",
+      "url": "https://armenianchurch.ge/en/kalendar-prazdnikov/description-2/march/commemoration-of-st-gregory-the-illuminator-s-torments-and-commitment-to-the-pit",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

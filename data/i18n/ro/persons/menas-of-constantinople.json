@@ -1,0 +1,23 @@
+{
+  "id": "menas-of-constantinople",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Mina, Patriarhul Constantinopolului",
+    "full": "Sfântul Ierarh Mina, Patriarhul Constantinopolului",
+    "short": "Mina, Patriarhul Constantinopolului",
+    "given": "Mina"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/25/102397-saint-menas-patriarch-of-constantinople",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

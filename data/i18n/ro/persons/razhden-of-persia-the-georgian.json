@@ -1,0 +1,23 @@
+{
+  "id": "razhden-of-persia-the-georgian",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Rajden din Persia, Georgianul",
+    "full": "Sfântul Mucenic Rajden din Persia, Georgianul",
+    "short": "Rajden din Persia, Georgianul",
+    "given": "Rajden"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/03/102193-martyr-razhden-of-persia-the-georgian",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

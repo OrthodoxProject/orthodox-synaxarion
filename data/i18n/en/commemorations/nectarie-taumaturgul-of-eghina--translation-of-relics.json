@@ -1,0 +1,20 @@
+{
+  "id": "nectarie-taumaturgul-of-eghina--translation-of-relics",
+  "locale": "en",
+  "names": {
+    "display": "Transfer of the relics of Saint Nectarius"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/mutarea-moastelor-sfantului-ierarh-nectarie",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

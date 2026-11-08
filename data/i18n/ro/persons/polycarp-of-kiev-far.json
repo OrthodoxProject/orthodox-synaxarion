@@ -1,0 +1,23 @@
+{
+  "id": "polycarp-of-kiev-far",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Policarp, arhimandritul de la Peșterile Depărtate din Kiev",
+    "full": "Sfântul Cuvios Policarp, arhimandritul de la Peșterile Depărtate din Kiev",
+    "short": "Policarp, arhimandritul de la Peșterile Depărtate din Kiev",
+    "given": "Policarp"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/24/102085-venerable-polycarp-archimandrite-of-the-kiev-far-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

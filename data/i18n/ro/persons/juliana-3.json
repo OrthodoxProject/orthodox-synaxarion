@@ -1,0 +1,23 @@
+{
+  "id": "juliana-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Iuliana",
+    "full": "Sfânta Muceniță Iuliana",
+    "short": "Iuliana",
+    "given": "Iuliana"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/22/101782-martyrs-galacteon-juliana-and-saturninus-of-constantinople",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

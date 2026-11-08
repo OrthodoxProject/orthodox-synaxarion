@@ -1,0 +1,22 @@
+{
+  "id": "agatodor",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Agathodorus",
+    "short": "Agathodorus",
+    "given": "Agathodorus"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-agatodor-0",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

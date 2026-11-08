@@ -1,0 +1,23 @@
+{
+  "id": "theodore-6",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Teodor",
+    "full": "Sfântul Mucenic Teodor",
+    "short": "Teodor",
+    "given": "Teodor"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/04/102495-martyrs-theodore-mianus-julian-kion-and-centurionus-of-nicomedia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

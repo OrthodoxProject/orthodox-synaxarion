@@ -1,0 +1,22 @@
+{
+  "id": "damian",
+  "locale": "en",
+  "names": {
+    "display": "New Martyr Damian",
+    "short": "Damian",
+    "given": "Damian"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-nou-mucenic-damian",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

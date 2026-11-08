@@ -1,0 +1,23 @@
+{
+  "id": "paul-of-obnora",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Pavel, egumenul de la Obnora, Vologda",
+    "full": "Sfântul Cuvios Pavel, egumenul de la Obnora, Vologda",
+    "short": "Pavel, egumenul de la Obnora, Vologda",
+    "given": "Pavel"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/10/100143-venerable-paul-abbot-of-obnora-vologda",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

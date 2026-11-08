@@ -1,0 +1,20 @@
+{
+  "id": "fructuosis-of-tarragona-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Fructuos, Episcopul de Tarragona, Spania, și diaconii săi, Augurie și Evloghie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/21/149029-martyr-fructuosis-bishop-of-tarragona-spain-and-his-deacons-augu",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

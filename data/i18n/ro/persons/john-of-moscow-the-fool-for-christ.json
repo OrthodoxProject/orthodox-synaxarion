@@ -1,0 +1,22 @@
+{
+  "id": "john-of-moscow-the-fool-for-christ",
+  "locale": "ro",
+  "names": {
+    "display": "Fericitul Ioan din Moscova, cel nebun pentru Hristos",
+    "short": "Ioan din Moscova, cel nebun pentru Hristos",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/03/101881-blessed-john-of-moscow-the-fool-for-christ",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

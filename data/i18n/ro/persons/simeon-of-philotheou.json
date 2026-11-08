@@ -1,0 +1,23 @@
+{
+  "id": "simeon-of-philotheou",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Simeon de la Filoteu",
+    "full": "Sfântul Cuvios Simeon de la Filoteu",
+    "short": "Simeon de la Filoteu",
+    "given": "Simeon"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/19/101155-venerable-simeon-of-philotheou",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

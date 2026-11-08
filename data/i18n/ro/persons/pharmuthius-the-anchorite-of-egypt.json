@@ -1,0 +1,23 @@
+{
+  "id": "pharmuthius-the-anchorite-of-egypt",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Farmutie Pustnicul, din Egipt",
+    "full": "Sfântul Cuvios Farmutie Pustnicul, din Egipt",
+    "short": "Farmutie Pustnicul, din Egipt",
+    "given": "Farmutie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/11/101057-venerable-pharmuthius-the-anchorite-of-egypt",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "seririol-of-wales",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Seiriol din Țara Galilor",
+    "full": "Sfântul Seiriol din Țara Galilor",
+    "short": "Seiriol din Țara Galilor",
+    "given": "Seiriol"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/01/205324-saint-seririol-of-wales",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

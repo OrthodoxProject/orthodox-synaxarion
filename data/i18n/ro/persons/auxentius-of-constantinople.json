@@ -1,0 +1,23 @@
+{
+  "id": "auxentius-of-constantinople",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Noul Mc. Auxenție din Constantinopol",
+    "full": "Sfântul Noul Mucenic Auxenție din Constantinopol",
+    "short": "Auxenție din Constantinopol",
+    "given": "Auxenție"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/25/100310-new-martyr-auxentius-of-constantinople",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

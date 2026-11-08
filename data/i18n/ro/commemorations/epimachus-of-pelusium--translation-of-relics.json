@@ -1,0 +1,20 @@
+{
+  "id": "epimachus-of-pelusium--translation-of-relics",
+  "locale": "ro",
+  "names": {
+    "display": "Aducerea moaștelor Sf. Mc. Epimah din Pelusiu"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/11/100784-translation-of-the-relics-of-the-martyr-epimachus-of-pelusium",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

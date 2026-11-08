@@ -1,0 +1,23 @@
+{
+  "id": "justinian-the-emperor",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Iustinian, împăratul",
+    "full": "Sfântul Iustinian, împăratul",
+    "short": "Iustinian, împăratul",
+    "given": "Iustinian"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/14/103301-saint-justinian-the-emperor",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

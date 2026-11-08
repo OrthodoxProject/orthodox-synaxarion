@@ -1,0 +1,20 @@
+{
+  "id": "synaxis-of-saints-of-the-kiev-caves-whose-relics-repose-in",
+  "locale": "ro",
+  "names": {
+    "display": "Soborul Sfinților de la Lavra Peșterilor, ale căror moaște se odihnesc în Peșterile Depărtate ale Sf. Cuv. Teodosie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/28/102418-synaxis-of-the-saints-of-the-kiev-caves-whose-relics-repose-in-t",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

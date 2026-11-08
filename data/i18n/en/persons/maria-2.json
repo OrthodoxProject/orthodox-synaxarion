@@ -1,0 +1,22 @@
+{
+  "id": "maria-2",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Mary",
+    "short": "Mary",
+    "given": "Mary"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-maria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

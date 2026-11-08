@@ -1,0 +1,28 @@
+{
+  "id": "gennadius-of-novgorod",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ghenadie, Arhiepiscopul Novgorodului",
+    "full": "Sfântul Ierarh Ghenadie, Arhiepiscopul Novgorodului",
+    "short": "Ghenadie, Arhiepiscopul Novgorodului",
+    "given": "Ghenadie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/04/103476-saint-gennadius-archbishop-of-novgorod",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/russian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

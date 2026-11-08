@@ -1,0 +1,20 @@
+{
+  "id": "venerable-of-lavra-pecerska-cu-moaste-in-pesterile",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Fathers of the Kiev Caves Lavra whose relics rest in the Far Caves"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/soborul-sfintilor-cuviosi-din-lavra-pecerska-cu-moaste-pesterile-de-departe",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

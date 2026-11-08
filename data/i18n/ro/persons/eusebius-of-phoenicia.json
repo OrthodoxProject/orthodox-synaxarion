@@ -1,0 +1,23 @@
+{
+  "id": "eusebius-of-phoenicia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Eusebiu din Fenicia",
+    "full": "Sfântul Mucenic Eusebiu din Fenicia",
+    "short": "Eusebiu din Fenicia",
+    "given": "Eusebiu"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/21/102691-martyr-eusebius-of-phoenicia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "antioh",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Antiochus the Physician of Antioch",
+    "short": "Antiochus the Physician of Antioch",
+    "given": "Antiochus"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-antioh-doctorul-din-antiohia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

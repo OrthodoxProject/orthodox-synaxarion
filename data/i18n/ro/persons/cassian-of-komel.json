@@ -1,0 +1,23 @@
+{
+  "id": "cassian-of-komel",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Casian, egumenul de la Komel, Vologda",
+    "full": "Sfântul Cuvios Casian, egumenul de la Komel, Vologda",
+    "short": "Casian, egumenul de la Komel",
+    "given": "Casian"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/16/101395-venerable-cassian-abbot-of-komel-vologda",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

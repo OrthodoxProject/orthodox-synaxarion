@@ -1,0 +1,22 @@
+{
+  "id": "sidonia-of-georgia",
+  "locale": "en",
+  "names": {
+    "display": "Saint Sidonia of Georgia",
+    "short": "Sidonia of Georgia",
+    "given": "Sidonia"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-sidonia-din-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

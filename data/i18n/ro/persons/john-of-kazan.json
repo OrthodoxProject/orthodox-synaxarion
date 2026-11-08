@@ -1,0 +1,23 @@
+{
+  "id": "john-of-kazan",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Ioan din Kazan",
+    "full": "Sfântul Mucenic Ioan din Kazan",
+    "short": "Ioan din Kazan",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/24/100289-martyr-john-of-kazan",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

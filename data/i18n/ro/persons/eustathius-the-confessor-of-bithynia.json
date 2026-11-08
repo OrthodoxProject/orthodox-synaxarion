@@ -1,0 +1,23 @@
+{
+  "id": "eustathius-the-confessor-of-bithynia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Eustatie Mărturisitorul, Episcopul Bitiniei",
+    "full": "Sfântul Ierarh Eustatie Mărturisitorul, Episcopul Bitiniei",
+    "short": "Eustatie Mărturisitorul, Episcopul Bitiniei",
+    "given": "Eustatie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/29/100940-saint-eustathius-eustace-the-confessor-bishop-of-bithynia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

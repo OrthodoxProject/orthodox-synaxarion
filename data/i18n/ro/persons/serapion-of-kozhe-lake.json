@@ -1,0 +1,23 @@
+{
+  "id": "serapion-of-kozhe-lake",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Serapion de la lacul Koje",
+    "full": "Sfântul Cuvios Serapion de la lacul Koje",
+    "short": "Serapion de la lacul Koje",
+    "given": "Serapion"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/27/107806-venerable-serapion-of-kozhe-lake",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

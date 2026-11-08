@@ -1,0 +1,23 @@
+{
+  "id": "troadius-of-neocaesarea",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Troadie din Neocezareea",
+    "full": "Sfântul Mucenic Troadie din Neocezareea",
+    "short": "Troadie din Neocezareea",
+    "given": "Troadie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/02/100637-martyr-troadius-of-neocaesarea",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

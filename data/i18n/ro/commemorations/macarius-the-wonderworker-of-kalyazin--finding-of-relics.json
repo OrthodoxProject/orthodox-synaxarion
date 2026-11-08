@@ -1,0 +1,20 @@
+{
+  "id": "macarius-the-wonderworker-of-kalyazin--finding-of-relics",
+  "locale": "ro",
+  "names": {
+    "display": "Aflarea moaștelor Sf. Cuv. Macarie, egumenul de la Kaliazin"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/26/101538-uncovering-of-the-relics-of-venerable-macarius-abbot-of-kalyazin",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

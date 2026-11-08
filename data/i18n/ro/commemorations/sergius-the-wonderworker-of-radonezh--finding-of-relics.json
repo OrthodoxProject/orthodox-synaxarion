@@ -1,0 +1,20 @@
+{
+  "id": "sergius-the-wonderworker-of-radonezh--finding-of-relics",
+  "locale": "ro",
+  "names": {
+    "display": "Aflarea moaștelor Sf. Cuv. Serghie de la Radonej"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/05/101910-uncovering-of-the-relics-of-venerable-sergius-of-radonezh",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

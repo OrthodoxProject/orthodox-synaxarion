@@ -1,0 +1,23 @@
+{
+  "id": "fool-basil-of-kamen",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Vasile din Kamen, cel nebun pentru Hristos",
+    "full": "Sfântul Vasile din Kamen, cel nebun pentru Hristos",
+    "short": "Vasile din Kamen, cel nebun pentru Hristos",
+    "given": "Vasile"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/02/102186-holy-fool-basil-of-kamen",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

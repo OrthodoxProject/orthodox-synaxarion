@@ -1,0 +1,23 @@
+{
+  "id": "anianus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Anian, al doilea Papă al Alexandriei",
+    "full": "Sfântul Ierarh Anian, al doilea Papă al Alexandriei",
+    "short": "Anian, al doilea Papă al Alexandriei",
+    "given": "Anian"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/3_20.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

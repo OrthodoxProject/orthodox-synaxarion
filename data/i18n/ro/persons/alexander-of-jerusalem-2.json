@@ -1,0 +1,23 @@
+{
+  "id": "alexander-of-jerusalem-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Alexandru, Arhiepiscopul Ierusalimului",
+    "full": "Sfântul Ierarh Alexandru, Arhiepiscopul Ierusalimului",
+    "short": "Alexandru, Arhiepiscopul Ierusalimului",
+    "given": "Alexandru"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/16/101397-saint-alexander-archbishop-of-jerusalem",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "sophronius-of-irkutsk",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Sofronie, Episcopul Irkutskului",
+    "full": "Sfântul Ierarh Sofronie, Episcopul Irkutskului",
+    "short": "Sofronie, Episcopul Irkutskului",
+    "given": "Sofronie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/30/100944-saint-sophronius-bishop-of-irkutsk",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "eudokia-of-heliopolis",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Evdochia din Iliopol",
+    "full": "Sfânta Muceniță Evdochia din Iliopol",
+    "short": "Evdochia din Iliopol",
+    "given": "Evdochia"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/01/100625-martyr-eudokia-of-heliopolis",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

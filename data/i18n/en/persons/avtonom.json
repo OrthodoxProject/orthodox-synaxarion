@@ -1,0 +1,27 @@
+{
+  "id": "avtonom",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Autonomus",
+    "short": "Autonomus",
+    "given": "Autonomus"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-avtonom",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/odovania-praznicului-nasterii-maicii-domnului-sf-mc-avtonom-macedonie-si-teodul/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

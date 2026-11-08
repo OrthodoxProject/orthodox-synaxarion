@@ -1,0 +1,20 @@
+{
+  "id": "martyr-demetrios-and-the-priest-st-basilikos",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Dimitrie și Sf. Vasilic preotul"
+  },
+  "references": [
+    {
+      "source": "src:armenianchurch-ge",
+      "url": "https://armenianchurch.ge/en/kalendar-prazdnikov/description-2/november/commemoration-of-st-martyr-demetrios-and-the-priest-st-basilikos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

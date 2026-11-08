@@ -1,0 +1,23 @@
+{
+  "id": "nicholas-of-sofia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mare Mc. Nicolae din Sofia, Bulgaria",
+    "full": "Sfântul Mare Mucenic Nicolae din Sofia, Bulgaria",
+    "short": "Nicolae din Sofia",
+    "given": "Nicolae"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/17/108011-great-martyr-nicholas-of-sofia-bulgaria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

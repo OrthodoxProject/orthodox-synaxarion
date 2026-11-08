@@ -1,0 +1,22 @@
+{
+  "id": "gheorghe-of-tesalonic",
+  "locale": "en",
+  "names": {
+    "display": "Saint George, Bishop of Thessalonica",
+    "short": "George, Bishop of Thessalonica",
+    "given": "George"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-gheorghe-episcopul-tesalonicului",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

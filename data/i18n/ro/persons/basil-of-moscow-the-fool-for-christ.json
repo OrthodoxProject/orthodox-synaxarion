@@ -1,0 +1,22 @@
+{
+  "id": "basil-of-moscow-the-fool-for-christ",
+  "locale": "ro",
+  "names": {
+    "display": "Fericitul Vasile din Moscova, cel nebun pentru Hristos",
+    "short": "Vasile din Moscova, cel nebun pentru Hristos",
+    "given": "Vasile"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/02/102185-blessed-basil-of-moscow-the-fool-for-christ",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

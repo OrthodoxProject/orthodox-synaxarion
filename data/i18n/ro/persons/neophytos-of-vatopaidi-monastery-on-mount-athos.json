@@ -1,0 +1,23 @@
+{
+  "id": "neophytos-of-vatopaidi-monastery-on-mount-athos",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Neofit de la Mănăstirea Vatoped, Muntele Athos",
+    "full": "Sfântul Cuvios Neofit de la Mănăstirea Vatoped, Muntele Athos",
+    "short": "Neofit de la Mănăstirea Vatoped, Muntele Athos",
+    "given": "Neofit"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/21/100257-venerable-nephytos-of-vatopaidi-monastery-on-mount-athos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

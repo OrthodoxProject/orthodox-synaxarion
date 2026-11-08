@@ -1,0 +1,23 @@
+{
+  "id": "nikon-the-dry-of-kiev-near",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Nicon cel Uscat, de la Peșterile Apropiate din Kiev",
+    "full": "Sfântul Cuvios Nicon cel Uscat, de la Peșterile Apropiate din Kiev",
+    "short": "Nicon cel Uscat, de la Peșterile Apropiate din Kiev",
+    "given": "Nicon"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/11/103521-venerable-nikon-the-dry-of-the-kiev-near-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

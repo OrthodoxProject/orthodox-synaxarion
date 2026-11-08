@@ -1,0 +1,23 @@
+{
+  "id": "arsenius-of-konevits",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Arsenie, egumenul de la Koneviț",
+    "full": "Sfântul Cuvios Arsenie, egumenul de la Koneviț",
+    "short": "Arsenie, egumenul de la Koneviț",
+    "given": "Arsenie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/12/101700-venerable-arsenius-abbot-of-konevits",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

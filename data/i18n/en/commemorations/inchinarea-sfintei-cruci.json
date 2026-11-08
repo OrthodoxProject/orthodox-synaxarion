@@ -1,0 +1,20 @@
+{
+  "id": "inchinarea-sfintei-cruci",
+  "locale": "en",
+  "names": {
+    "display": "Veneration of the Holy Cross"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/inchinarea-sfintei-cruci",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

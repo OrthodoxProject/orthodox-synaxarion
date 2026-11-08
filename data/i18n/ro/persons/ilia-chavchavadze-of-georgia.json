@@ -1,0 +1,23 @@
+{
+  "id": "ilia-chavchavadze-of-georgia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Ilia Ciavciavadze din Georgia",
+    "full": "Sfântul Mucenic Ilia Ciavciavadze din Georgia",
+    "short": "Ilia Ciavciavadze din Georgia",
+    "given": "Ilia"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/20/103867-martyr-ilia-chavchavadze-of-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

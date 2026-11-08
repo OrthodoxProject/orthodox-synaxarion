@@ -1,0 +1,23 @@
+{
+  "id": "serapion-of-zarzma",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Serapion de la Zarzma",
+    "full": "Sfântul Cuvios Serapion de la Zarzma",
+    "short": "Serapion de la Zarzma",
+    "given": "Serapion"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/29/103899-saint-serapion-of-zarzma",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

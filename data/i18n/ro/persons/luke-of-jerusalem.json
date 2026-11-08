@@ -1,0 +1,23 @@
+{
+  "id": "luke-of-jerusalem",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Luca din Ierusalim, Georgianul",
+    "full": "Sfântul Mucenic Luca din Ierusalim, Georgianul",
+    "short": "Luca din Ierusalim, Georgianul",
+    "given": "Luca"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/12/205455-martyr-luke-luka-of-jerusalem-the-georgian",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "vavila",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Babylas",
+    "short": "Babylas",
+    "given": "Babylas"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-vavila",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

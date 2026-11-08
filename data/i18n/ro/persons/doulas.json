@@ -1,0 +1,23 @@
+{
+  "id": "doulas",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Dula, purtătorul de patimi, din Egipt",
+    "full": "Sfântul Dula, purtătorul de patimi, din Egipt",
+    "short": "Dula, purtătorul de patimi, din Egipt",
+    "given": "Dula"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/15/101731-saint-doulas-passion-bearer-of-egypt",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

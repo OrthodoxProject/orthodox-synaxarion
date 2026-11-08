@@ -1,0 +1,22 @@
+{
+  "id": "tit-of-tomis",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Titus, Bishop of Tomis",
+    "short": "Titus, Bishop of Tomis",
+    "given": "Titus"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-tit-episcopul-tomisului",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-08"
+  }
+}

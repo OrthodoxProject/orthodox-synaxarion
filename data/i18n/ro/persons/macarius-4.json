@@ -1,0 +1,23 @@
+{
+  "id": "macarius-4",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Macarie, făcătorul de minuni de la Jabinka și Belev",
+    "full": "Sfântul Cuvios Macarie, făcătorul de minuni de la Jabinka și Belev",
+    "short": "Macarie, făcătorul de minuni de la Jabinka și Belev",
+    "given": "Macarie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/22/102701-venerable-macarius-wonderworker-of-zhabynka-and-belev",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
+  }
+}

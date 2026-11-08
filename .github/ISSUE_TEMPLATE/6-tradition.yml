@@ -1,0 +1,81 @@
+name: Add a Church's calendar
+description: The calendar of a Church that is not in the data yet.
+title: "Church: "
+labels: ["type: addition", "area: calendar", "tradition: new", "status: triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        The project covers the Eastern Orthodox Churches, the Oriental Orthodox Churches and the Assyrian Church of the East; the [coverage page](https://github.com/OrthodoxProject/orthodox-synaxarion/wiki/Coverage) lists the calendars that are already in the data. You can write in English or in Romanian.
+
+        Your answers decide how the days of this Church are computed. Leave empty what you do not know.
+  - type: input
+    id: church
+    attributes:
+      label: Church
+      description: Its name in English and in its own language.
+      placeholder: Bulgarian Orthodox Church / Българска православна църква
+    validations:
+      required: true
+  - type: dropdown
+    id: family
+    attributes:
+      label: Family
+      options:
+        - Eastern Orthodox
+        - Oriental Orthodox
+        - Church of the East
+    validations:
+      required: true
+  - type: dropdown
+    id: calendar
+    attributes:
+      label: Calendar
+      description: The calendar of the fixed feasts today.
+      options:
+        - Old style (Julian)
+        - New style (Revised Julian)
+        - Gregorian
+        - Coptic
+        - Ethiopian
+        - It differs between dioceses or countries
+        - I don't know
+    validations:
+      required: true
+  - type: dropdown
+    id: paschalion
+    attributes:
+      label: Date of Pascha
+      options:
+        - With the other Orthodox Churches (Julian paschalion)
+        - With the Western Churches (Gregorian paschalion)
+        - I don't know
+  - type: textarea
+    id: history
+    attributes:
+      label: Changes of calendar
+      description: When the Church changed its calendar, if it did.
+      placeholder: New style since 1968.
+  - type: textarea
+    id: official
+    attributes:
+      label: Official calendar
+      description: "Where the Church publishes its calendar (a website, a printed calendar), and whether it is there for every year."
+    validations:
+      required: true
+  - type: textarea
+    id: signs
+    attributes:
+      label: Ranks and signs
+      description: "How the calendar marks the rank of a feast: red or black crosses, parentheses, bold type …"
+  - type: input
+    id: languages
+    attributes:
+      label: Languages of the calendar
+      placeholder: Bulgarian, Church Slavonic
+  - type: checkboxes
+    id: help
+    attributes:
+      label: Help
+      options:
+        - label: I can help to add or to review this calendar.

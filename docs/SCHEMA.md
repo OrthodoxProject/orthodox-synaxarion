@@ -19,7 +19,8 @@ npm run check
 | `npm run validate` | validează `data/` (schema, apoi regulile dintre fișiere); se oprește cu cod 1 dacă există erori |
 | `npm run format` | rescrie fișierele în formatul canonic: JSON cu 2 spații, LF, Unicode NFC, ș/ț cu virgulă în fișierele românești |
 | `npm run import` | importă sfinții și praznicele din sursele din `data/sources/` (vezi [Importul din surse](#importul-din-surse)) |
-| `npm test` | testează validatorul, calendarul, wiki-ul și importul |
+| `npm run labels` | verifică etichetele din `.github/labels.yml` și formularele de issue (vezi [Dacă nu vrei să editezi fișierele](#dacă-nu-vrei-să-editezi-fișierele)) |
+| `npm test` | testează validatorul, calendarul, wiki-ul, importul, etichetele și formularele |
 
 Cerință: Node 24 sau mai nou (Node rulează direct fișierele TypeScript din `tools/`, fără compilare).
 
@@ -114,6 +115,25 @@ O linie din calendar are una sau mai multe pomeniri tipărite împreună, plus s
 4. Creează pomenirea `data/commemorations/<id>--repose.json` (`kind: repose`, `subjects`, `date_rule`).
 5. Așază pomenirea în calendarul fiecărei tradiții care o cinstește: `data/traditions/<tradiție>/menaion/MM/DD.json`.
 6. Rulează `npm run format`, apoi `npm run check`, și deschide un PR.
+
+## Dacă nu vrei să editezi fișierele
+
+Deschide un [issue](https://github.com/OrthodoxProject/orthodox-synaxarion/issues/new/choose) și alege formularul potrivit. Formularele sunt în engleză, dar poți scrie în română.
+
+| Formular | Când îl folosești |
+|---|---|
+| Correct the data | un nume, un titlu, o dată, ziua din calendar, o cruce sau un link e greșit; doi sfinți sunt amestecați într-o înregistrare sau același sfânt apare de două ori |
+| Add a missing saint or feast | lipsește un sfânt, un grup, un praznic sau o icoană, ori lipsește din calendarul unei Biserici |
+| Names and translations | nume sau texte într-o limbă care nu le are încă |
+| Review draft records | verifici ciornele după o sursă sigură (calendarul oficial, un sinaxar) |
+| Propose a source | o carte, un calendar oficial sau un site de citat ori de importat |
+| Add a Church's calendar | calendarul unei Biserici care nu e încă în date |
+| Bug in the website or the tools | site-ul, căutarea, calendarele ICS, API-ul sau comenzile `npm` nu merg cum trebuie |
+| Idea or question | orice altceva, inclusiv o schimbare a schemei sau a vocabularului |
+
+Pentru orice fapt dă sursa: fără ea datele nu se pot schimba.
+
+Etichetele, din `.github/labels.yml`, arată tipul (`type:`), partea din repository (`area:`), Biserica (`tradition:`), limba (`lang:`) și stadiul (`status:`). Formularele pun singure `status: triage` și tipul; restul le pun cei care îngrijesc proiectul. Când adaugi o tradiție în `data/traditions/` sau o limbă în `data/i18n/`, adaugă și eticheta ei în `.github/labels.yml` și opțiunea ei în formulare (`… (id)`); `npm test` verifică.
 
 ## Importul din surse
 

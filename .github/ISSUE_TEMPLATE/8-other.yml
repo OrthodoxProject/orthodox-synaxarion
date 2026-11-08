@@ -1,0 +1,32 @@
+name: Idea or question
+description: An idea for the data, the website or the tools, a change to the schema, or a question.
+labels: ["status: triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        For anything that the other forms do not cover. You can write in English or in Romanian.
+  - type: dropdown
+    id: kind
+    attributes:
+      label: This is
+      options:
+        - An idea or an improvement
+        - A change to the schema or to the vocabulary (a new field, a new code)
+        - A question
+        - About the documentation
+        - Something else
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: "What you need, or what you would like to know. An example helps: a saint, a day, a page."
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposal
+      description: "How you would do it, and the alternatives you thought of. For a change to the schema: which data needs it, with an example record."

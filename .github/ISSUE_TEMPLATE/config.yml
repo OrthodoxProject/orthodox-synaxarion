@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Search the saints and feasts
+    url: https://orthodoxproject.github.io/orthodox-synaxarion/en/search/
+    about: Check whether a saint or a feast is already in the data before you report it as missing.
+  - name: How the data is organized (in Romanian)
+    url: https://github.com/OrthodoxProject/orthodox-synaxarion/wiki/Cum-sunt-organizate-datele
+    about: The guide to adding or correcting a saint yourself, with a pull request.
+  - name: What is missing
+    url: https://github.com/OrthodoxProject/orthodox-synaxarion/wiki/Coverage
+    about: Names, languages and calendar days that still need work, a good place to start.

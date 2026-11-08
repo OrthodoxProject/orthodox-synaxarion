@@ -1,0 +1,65 @@
+name: Bug in the website or the tools
+description: A page, the search, a calendar feed, the API or one of the npm commands does not work as it should.
+title: "Bug: "
+labels: ["type: bug", "status: triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        For a mistake in the data (a name, a day, a cross), use **Correct the data** instead. You can write in English or in Romanian.
+  - type: dropdown
+    id: area
+    attributes:
+      label: Where?
+      options:
+        - A page of the website
+        - The search
+        - A calendar feed (ICS)
+        - The JSON API
+        - The wiki
+        - npm run check, validate or format
+        - npm run generate (the computed days)
+        - npm run import
+        - npm run site:build or site:dev
+        - Somewhere else
+    validations:
+      required: true
+  - type: input
+    id: where
+    attributes:
+      label: Page or command
+      description: The link to the page, or the command you ran.
+      placeholder: https://orthodoxproject.github.io/orthodox-synaxarion/en/search/
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: For the website, a screenshot helps.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What you expected
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: How to make it happen again
+      placeholder: |
+        1. Open …
+        2. Choose …
+        3. …
+  - type: textarea
+    id: output
+    attributes:
+      label: Output
+      description: For the tools, the error messages, as text. They are shown as code.
+      render: text
+  - type: input
+    id: environment
+    attributes:
+      label: Browser, device or system
+      description: "For the website: the browser and the device. For the tools: the operating system and the output of `node --version`."
+      placeholder: Firefox on Android · Windows 11, Node 24.4.0

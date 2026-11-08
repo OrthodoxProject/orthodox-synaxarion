@@ -1,0 +1,167 @@
+# The labels of the issues and pull requests.
+#
+# The Labels workflow (.github/workflows/labels.yml) applies this list to the
+# repository whenever it changes on main: it creates the labels that are
+# missing and updates colours and descriptions. A label found under one of its
+# `aliases` is renamed rather than created again, so its issues keep it.
+# Labels that are not in the list are reported, never deleted.
+#
+# An issue has one `type:`, the `area:`, `tradition:` and `lang:` labels that
+# apply, and a `status:`. The issue forms add `status: triage` and, when they
+# know it, the type. `npm run labels` (and `npm test`) checks this list
+# against the forms and against data/: every folder in data/traditions/ and
+# data/i18n/ needs its `tradition:` or `lang:` label.
+#
+# GitHub's limits: names up to 50 characters, descriptions up to 100.
+# Colours are six lowercase hexadecimal digits, without "#".
+
+# What kind of issue it is: exactly one.
+- name: "type: correction"
+  color: "d93f0b"
+  description: "Something in the data is wrong: a name, a date, a day in a calendar, a cross"
+- name: "type: addition"
+  color: "0e8a16"
+  description: "A saint, a feast or a Church's calendar that is missing from the data"
+- name: "type: translation"
+  color: "1d76db"
+  description: "Names or texts in a language"
+- name: "type: review"
+  color: "5319e7"
+  description: "Checking draft records against a reliable source"
+- name: "type: source"
+  color: "006b75"
+  description: "A book, calendar or website to cite or to import from"
+- name: "type: bug"
+  color: "d73a4a"
+  description: "The website, the API, the calendar feeds or the tools do not work as they should"
+  aliases: ["bug"]
+- name: "type: feature"
+  color: "a2eeef"
+  description: "An idea for the website, the tools or the schema"
+  aliases: ["enhancement"]
+- name: "type: question"
+  color: "d876e3"
+  description: "A question about the data or the project"
+  aliases: ["question"]
+
+# Which part of the repository the work is in.
+- name: "area: calendar"
+  color: "bfdadc"
+  description: "The Churches' calendars and the computed days: transfers, tone, fasting, readings"
+- name: "area: schema"
+  color: "bfdadc"
+  description: "The JSON Schema, the vocabulary codes and the rules of the validator"
+- name: "area: importer"
+  color: "bfdadc"
+  description: "npm run import and its reader for each source"
+- name: "area: website"
+  color: "bfdadc"
+  description: "The website, the search, the calendar feeds (ICS) and the JSON API"
+- name: "area: docs"
+  color: "bfdadc"
+  description: "The README, the guide in docs/ and the wiki"
+  aliases: ["documentation"]
+- name: "area: tools"
+  color: "bfdadc"
+  description: "The validator, the formatter, the tests and the GitHub workflows"
+
+# Which Church's calendar it concerns: one label per folder in data/traditions/.
+# Eastern Orthodox
+- name: "tradition: romanian"
+  color: "fef2c0"
+  description: "Romanian Orthodox Church (BOR)"
+- name: "tradition: ecumenical"
+  color: "fef2c0"
+  description: "Ecumenical Patriarchate of Constantinople"
+- name: "tradition: greece"
+  color: "fef2c0"
+  description: "Church of Greece"
+- name: "tradition: russian"
+  color: "fef2c0"
+  description: "Russian Orthodox Church"
+- name: "tradition: serbian"
+  color: "fef2c0"
+  description: "Serbian Orthodox Church"
+# Oriental Orthodox
+- name: "tradition: coptic"
+  color: "f9d0c4"
+  description: "Coptic Orthodox Church"
+- name: "tradition: armenian"
+  color: "f9d0c4"
+  description: "Armenian Apostolic Church"
+# Church of the East
+- name: "tradition: assyrian"
+  color: "e99695"
+  description: "Assyrian Church of the East"
+- name: "tradition: new"
+  color: "ffffff"
+  description: "A Church whose calendar is not in the data yet"
+
+# Which language it concerns: one label per folder in data/i18n/.
+- name: "lang: ro"
+  color: "d4c5f9"
+  description: "Romanian"
+- name: "lang: en"
+  color: "d4c5f9"
+  description: "English"
+- name: "lang: el"
+  color: "d4c5f9"
+  description: "Modern Greek"
+- name: "lang: grc"
+  color: "d4c5f9"
+  description: "Byzantine Greek, as in the service books"
+- name: "lang: ru"
+  color: "d4c5f9"
+  description: "Russian"
+- name: "lang: sr-Cyrl"
+  color: "d4c5f9"
+  description: "Serbian, in Cyrillic"
+- name: "lang: hy"
+  color: "d4c5f9"
+  description: "Armenian"
+- name: "lang: ar"
+  color: "d4c5f9"
+  description: "Arabic"
+- name: "lang: other"
+  color: "d4c5f9"
+  description: "A language that has no folder in data/i18n/ yet"
+
+# Where the issue stands.
+- name: "status: triage"
+  color: "fbca04"
+  description: "New: no maintainer has looked at it yet"
+- name: "status: needs info"
+  color: "c5def5"
+  description: "Waiting for more details from the author"
+- name: "status: needs source"
+  color: "c5def5"
+  description: "Waiting for a source that supports the change"
+- name: "status: confirmed"
+  color: "c2e0c6"
+  description: "Checked by a maintainer and ready to be worked on"
+- name: "status: blocked"
+  color: "b60205"
+  description: "Waiting for another issue or for a decision"
+- name: "status: duplicate"
+  color: "cfd3d7"
+  description: "Already reported in another issue"
+  aliases: ["duplicate"]
+- name: "status: invalid"
+  color: "e4e669"
+  description: "Not a problem in this project, or it cannot be reproduced"
+  aliases: ["invalid"]
+- name: "status: wontfix"
+  color: "ffffff"
+  description: "Will not be changed; the reason is in the comments"
+  aliases: ["wontfix"]
+
+# Names that GitHub knows: it shows these issues to people looking for a way to contribute.
+- name: "good first issue"
+  color: "7057ff"
+  description: "A small, well-described task for a first contribution"
+- name: "help wanted"
+  color: "008672"
+  description: "Help from someone who knows this Church, language or source is welcome"
+- name: "accessibility"
+  color: "f143ab"
+  description: "A barrier for people with disabilities on the website"

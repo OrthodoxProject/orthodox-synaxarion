@@ -1,0 +1,64 @@
+name: Review draft records
+description: You are checking part of the data against a reliable source, or you have checked it.
+title: "Review: "
+labels: ["type: review", "status: triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Every record is a draft until someone checks it against a reliable source, and most of them were imported automatically. A review can cover some days of a Church's calendar, a list of saints, or one kind of fact (the official titles, the crosses, the Romanian names). You can write in English or in Romanian.
+
+        Open the issue when you start, so that two people do not check the same thing, and add the result when you finish. List here the mistakes you find: there is no need for a separate correction for each one.
+  - type: textarea
+    id: scope
+    attributes:
+      label: What are you reviewing?
+      description: "A Church and a range of days, or a list of saints (links to their pages are welcome), and which facts you compare: names, titles, crosses, dates, links …"
+      placeholder: "The Romanian calendar for December: every line, with its official title and its cross."
+    validations:
+      required: true
+  - type: dropdown
+    id: traditions
+    attributes:
+      label: In which Church's calendar?
+      description: Only if you are reviewing a calendar.
+      multiple: true
+      options:
+        - Romanian Orthodox Church (romanian)
+        - Ecumenical Patriarchate of Constantinople (ecumenical)
+        - Church of Greece (greece)
+        - Russian Orthodox Church (russian)
+        - Serbian Orthodox Church (serbian)
+        - Coptic Orthodox Church (coptic)
+        - Armenian Apostolic Church (armenian)
+        - Assyrian Church of the East (assyrian)
+  - type: textarea
+    id: source
+    attributes:
+      label: Source
+      description: "What you compare against: the Church's official calendar, a printed calendar, a synaxarion or a book (title, year, pages)."
+      placeholder: The printed Calendar Creștin Ortodox 2026 of the Romanian Patriarchate.
+    validations:
+      required: true
+  - type: dropdown
+    id: progress
+    attributes:
+      label: Where are you with it?
+      options:
+        - I am starting; I will add the result here
+        - I have finished; the result is below
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: Result
+      description: "What is correct, and every mistake you found with what it should be. If everything is correct, say so: the records can then be marked as reviewed."
+      placeholder: |
+        1–15 December: everything is correct.
+        16 December, the second line: the title should be "…".
+  - type: input
+    id: reviewer
+    attributes:
+      label: Name to record as reviewer
+      description: "It goes into `reviewed_by` in the records you checked. Leave it empty to be recorded by your GitHub username."

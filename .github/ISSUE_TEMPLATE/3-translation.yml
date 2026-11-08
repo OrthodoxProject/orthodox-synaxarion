@@ -1,0 +1,73 @@
+name: Names and translations
+description: Names of saints and feasts, or other texts, in a language that does not have them yet.
+title: "Names: "
+labels: ["type: translation", "status: triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Many saints have their name in only one language: the [coverage page](https://github.com/OrthodoxProject/orthodox-synaxarion/wiki/Coverage) of the wiki shows what is missing in each one. You can write in English or in Romanian.
+
+        Give the names the Church uses in that language (in its calendars, service books and synaxaria) rather than a word-for-word translation. For a long list, attach a spreadsheet or a CSV file, or open a pull request.
+  - type: dropdown
+    id: language
+    attributes:
+      label: Language
+      options:
+        - Romanian (ro)
+        - English (en)
+        - Greek (el)
+        - Byzantine Greek (grc)
+        - Russian (ru)
+        - Serbian, in Cyrillic (sr-Cyrl)
+        - Armenian (hy)
+        - Arabic (ar)
+        - Another language (say which below)
+    validations:
+      required: true
+  - type: dropdown
+    id: content
+    attributes:
+      label: What are you sending?
+      multiple: true
+      options:
+        - Names of saints, groups or feasts
+        - Grammatical forms of the names (genitive, vocative)
+        - Folk names of feast days (Sângeorz, Никољдан)
+        - Labels of the vocabulary (kinds of holiness, ranks, months …)
+        - The text of the website (menus and buttons)
+        - Lives of saints or other long texts
+    validations:
+      required: true
+  - type: textarea
+    id: entries
+    attributes:
+      label: Names or texts
+      description: "One per line: the id of the saint or feast (the last part of its page's address), then `|` and the name. Paste longer texts below, or link to them."
+      placeholder: |
+        sergius-of-radonezh | Sf. Cuv. Serghie de Radonej
+        seraphim-of-sarov | Sf. Cuv. Serafim de Sarov
+    validations:
+      required: true
+  - type: dropdown
+    id: method
+    attributes:
+      label: Where do they come from?
+      options:
+        - The Church uses them (calendars, service books, synaxaria)
+        - I translated them
+        - A machine translation, which I checked line by line
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Source
+      description: "The calendar, book or website where the Church writes the names this way. For a long text, also its license: only texts you wrote, texts under an open license and texts in the public domain can be published."
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before you send
+      options:
+        - label: I checked every name myself, machine translations included.
+          required: true

@@ -5,7 +5,7 @@ import { dirname, join } from "node:path";
 import { describe, it } from "node:test";
 import type { FastingLevel } from "../tools/lib/calendar.ts";
 import { Builder, namesForerunner, namesTheotokos } from "../tools/lib/import/build.ts";
-import { parseEn } from "../tools/lib/import/en.ts";
+import { genderOfEnName, parseEn } from "../tools/lib/import/en.ts";
 import { loadExisting } from "../tools/lib/import/existing.ts";
 import { fastingNote, mergeFasting, officialFasting } from "../tools/lib/import/fasting.ts";
 import { givenSimilarity, skeleton } from "../tools/lib/import/names.ts";
@@ -206,6 +206,15 @@ describe("English titles", () => {
     assert.deepEqual(slavs.holiness, ["equal_to_apostles"]);
     assert.deepEqual(slavs.names.map((n) => n.given), ["Cyril", "Methodius"]);
     assert.deepEqual(parseEn("Equals of the Apostles, Emperor Mirian and Empress Nana of Georgia").names.map((n) => n.text), ["Mirian", "Nana of Georgia"]);
+  });
+  it("knows women's names that do not end in -a", () => {
+    assert.equal(parseEn("Venerable Mary of Egypt").gender, "female");
+    assert.deepEqual(parseEn("Martyrs Sophia, Irene, and Castor of Egypt").names.map((n) => n.gender), ["female", "female", undefined]);
+    for (const name of ["Elizabeth", "Euphrosynē", "Salome", "Agnes", "Thais", "Helen"]) assert.equal(genderOfEnName(name), "female", name);
+    // Men's names keep what the endings say.
+    assert.equal(genderOfEnName("Irenaeus"), undefined);
+    assert.equal(genderOfEnName("Elisha"), "male");
+    assert.equal(genderOfEnName("Theodosia"), "female");
   });
   it("reads a saint named with his mother as two saints", () => {
     const p = parseEn("Equal of the Apostles and Emperor Constantine with his Mother Helen");
@@ -560,6 +569,21 @@ describe("matching the sources", () => {
     const persons = [...output.files.keys()].filter((k) => k.startsWith("persons/"));
     assert.deepEqual(persons, ["persons/seraphim-of-sarov.json"]);
     assert.equal(output.files.get("i18n/en/persons/seraphim-of-sarov.json")?.names.display, "Venerable Seraphim, Wonderworker of Sarov");
+  });
+
+  it("writes a woman whose name does not end in -a as a woman (St Mary of Egypt)", () => {
+    const mary: SourceData = {
+      ...data,
+      doxologia: [],
+      oca: [2026, 2028].map((year) => ({ id: "900002", title: "Venerable Mary of Egypt", path: `/saints/lives/${year}/04/01/900002-venerable-mary-of-egypt`, year, month: 4, day: 1, order: 0 })),
+    };
+    const existing = loadExisting(join(REPO_ROOT, "tests", "fixtures", "minimal", "data"));
+    const builder = new Builder(existing);
+    builder.russian(ocaUnits(mary, [2026, 2028]).fixed);
+    const output = new RecordWriter(existing, { clusters: builder.clusters, lines: builder.lines, movable: builder.movable, stats: builder.stats }).write();
+    const person = output.files.get("persons/mary-of-egypt.json");
+    assert.equal(person?.gender, "female");
+    assert.ok(!person?.editorial.notes.some((n: string) => n.startsWith("Genul nu reiese")));
   });
 
   it("keeps the two commemorations of one Coptic line on the same calendar line", () => {

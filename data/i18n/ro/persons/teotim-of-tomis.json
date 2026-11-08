@@ -1,0 +1,29 @@
+{
+  "id": "teotim-of-tomis",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Teotim, Episcopul Tomisului",
+    "full": "Sfântul Ierarh Teotim, Episcopul Tomisului",
+    "short": "Teotim, Episcopul Tomisului",
+    "given": "Teotim",
+    "variants": [
+      "Sf. Ier. Teotim, episcopul Tomisului"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-teotim-episcopul-tomisului",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ier-teotim-episcopul-tomisului-sf-cuv-teodor-trihina/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

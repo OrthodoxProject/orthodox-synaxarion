@@ -1,0 +1,21 @@
+{
+  "id": "damian-of-esphigmenou-of-mount-athos",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Damian Esfigmenitul",
+    "full": "Sfântul Damian Esfigmenitul",
+    "short": "Damian Esfigmenitul",
+    "given": "Damian"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-damian-esfigmenitul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

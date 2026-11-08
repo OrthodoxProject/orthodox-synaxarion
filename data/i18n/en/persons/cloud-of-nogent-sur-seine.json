@@ -1,0 +1,20 @@
+{
+  "id": "cloud-of-nogent-sur-seine",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Cloud (Clodoald), Abbot-Founder of Nogent-Sur-Seine near Paris",
+    "short": "Cloud, Abbot-Founder of Nogent-Sur-Seine near Paris",
+    "given": "Cloud"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/07/102540-venerable-cloud-clodoald-abbot-founder-of-nogent-sur-seine-near",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

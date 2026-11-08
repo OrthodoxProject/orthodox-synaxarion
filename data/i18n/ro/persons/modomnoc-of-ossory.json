@@ -1,0 +1,21 @@
+{
+  "id": "modomnoc-of-ossory",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Modomnoc, Episcop de Ossory",
+    "full": "Sfântul Ierarh Modomnoc, Episcop de Ossory",
+    "short": "Modomnoc, Episcop de Ossory",
+    "given": "Modomnoc"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-modomnoc-episcop-de-ossory",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

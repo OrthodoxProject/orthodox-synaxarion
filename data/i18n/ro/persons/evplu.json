@@ -1,0 +1,29 @@
+{
+  "id": "evplu",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mare Mc. Evplu, Arhidiaconul",
+    "full": "Sfântul Mare Mucenic Evplu, Arhidiaconul",
+    "short": "Evplu, Arhidiaconul",
+    "given": "Evplu",
+    "variants": [
+      "Sf. Mc. Evplu arhidiaconul"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mare-mucenic-evplu-arhidiaconul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ier-nifon-patriarhul-constantinopolului-sf-mc-evplu-arhidiaconul/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

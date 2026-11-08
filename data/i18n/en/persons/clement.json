@@ -1,0 +1,20 @@
+{
+  "id": "clement",
+  "locale": "en",
+  "names": {
+    "display": "Saint Clement",
+    "short": "Clement",
+    "given": "Clement"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/5_28.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

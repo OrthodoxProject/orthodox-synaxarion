@@ -1,0 +1,21 @@
+{
+  "id": "roman",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Roman",
+    "full": "Sfântul Mucenic Roman",
+    "short": "Roman",
+    "given": "Roman"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-roman",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

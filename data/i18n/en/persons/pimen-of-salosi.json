@@ -1,0 +1,20 @@
+{
+  "id": "pimen-of-salosi",
+  "locale": "en",
+  "names": {
+    "display": "Saint Pimen of Salosi",
+    "short": "Pimen of Salosi",
+    "given": "Pimen"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/16/103830-saints-pimen-of-salosi-and-anton-meskhi-enlighteners-of-dagestan",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "dasius-of-dorostorum",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Dasius of Dorostorum",
+    "short": "Dasius of Dorostorum",
+    "given": "Dasius",
+    "variants": [
+      "Dasius of Dorostorum"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/20/103343-martyr-dasius-of-dorostorum",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/romanian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

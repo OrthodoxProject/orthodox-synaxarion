@@ -1,0 +1,35 @@
+{
+  "id": "trophimus-2-and-teofil-2",
+  "kind": "repose",
+  "subjects": [
+    "person:trophimus-2",
+    "person:teofil-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 23
+  },
+  "external_ids": {
+    "oca": "102075"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfintii-mucenici-trofim-teofil",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/23/102075-martyr-trophimus-and-14-others-in-lycia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, oca.org; de verificat."
+    ]
+  }
+}

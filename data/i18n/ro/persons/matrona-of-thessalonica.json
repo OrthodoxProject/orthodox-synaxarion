@@ -1,0 +1,26 @@
+{
+  "id": "matrona-of-thessalonica",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Matrona din Tesalonic",
+    "full": "Sfânta Muceniță Matrona din Tesalonic",
+    "short": "Matrona din Tesalonic",
+    "given": "Matrona"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-matrona-din-tesalonic",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-matrona-din-tesalonic-sf-mc-filit-si-lidia-sotia-sa-cu-cei-4-fii-ai-lor-denia-acatistului-bunei-vestiri/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

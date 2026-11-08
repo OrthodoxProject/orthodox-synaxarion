@@ -1,0 +1,21 @@
+{
+  "id": "anastasia-of-rome",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Anastasia",
+    "full": "Sfânta Muceniță Anastasia",
+    "short": "Anastasia",
+    "given": "Anastasia"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-anastasia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "tradition": "serbian",
+  "date": "01-30",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:ecumenical-teachers-and-hierarchs"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:hippolytus-of-roma--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:icon-of-theotokos-tinos"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:theodore-of-mitilini--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

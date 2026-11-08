@@ -1,0 +1,25 @@
+{
+  "id": "four-incorporeal-beasts",
+  "kind": "other",
+  "count": {
+    "value": 4,
+    "precision": "exact"
+  },
+  "external_ids": {
+    "copticchurch": "3_8#1"
+  },
+  "sources": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/3_8.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din copticchurch.net; de verificat."
+    ]
+  }
+}

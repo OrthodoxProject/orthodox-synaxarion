@@ -1,0 +1,26 @@
+{
+  "id": "savva-brancovici-of-ardeal",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Mărt. Sava Brancovici, Mitropolitul Transilvaniei",
+    "full": "Sfântul Ierarh Mărturisitor Sava Brancovici, Mitropolitul Transilvaniei",
+    "short": "Sava Brancovici, Mitropolitul Transilvaniei",
+    "given": "Sava"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-marturisitor-sava-brancovici-mitropolitul-transilvaniei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ierarhi-ilie-iorest-simion-stefan-si-sava-brancovici-mitropolitii-transilvaniei-sf-ier-iosif-marturisitorul-din-maramures-sf-mc-pasicrat-si-valentin-sf-cuv-elisabeta-dezlega/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

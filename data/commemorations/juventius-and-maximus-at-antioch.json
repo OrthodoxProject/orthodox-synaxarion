@@ -1,0 +1,30 @@
+{
+  "id": "juventius-and-maximus-at-antioch",
+  "kind": "repose",
+  "subjects": [
+    "person:juventius",
+    "person:maximus-at-antioch"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 9
+  },
+  "external_ids": {
+    "oca": "102911"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/09/102911-martyrs-juventius-and-maximus-at-antioch",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

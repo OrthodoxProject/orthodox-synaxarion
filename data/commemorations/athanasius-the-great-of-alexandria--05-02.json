@@ -1,0 +1,29 @@
+{
+  "id": "athanasius-the-great-of-alexandria--05-02",
+  "kind": "repose",
+  "subjects": [
+    "person:athanasius-the-great-of-alexandria"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 2
+  },
+  "external_ids": {
+    "oca": "101269"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/02/101269-saint-athanasius-the-great-patriarch-of-alexandria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

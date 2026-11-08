@@ -1,0 +1,29 @@
+{
+  "id": "nicholas-of-tver--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:nicholas-of-tver"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 23
+  },
+  "external_ids": {
+    "oca": "103911"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/23/103911-new-hieromartyr-nicholas-dmitrov-of-tver",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

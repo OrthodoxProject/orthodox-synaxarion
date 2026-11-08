@@ -1,0 +1,26 @@
+{
+  "id": "ioan-scararul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ioan Scărarul",
+    "full": "Sfântul Cuvios Ioan Scărarul",
+    "short": "Ioan Scărarul",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-ioan-scararul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-ioan-scararul-sf-euvula-mama-sf-pantelimon/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

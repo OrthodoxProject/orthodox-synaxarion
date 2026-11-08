@@ -1,0 +1,41 @@
+{
+  "id": "demetrios-the-myrrh-gusher-of-thessaloniki",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "great_martyr"
+  ],
+  "external_ids": {
+    "doxologia": "sfantul-mare-mucenic-dimitrie-izvoratorul-de-mir",
+    "oca": "103059"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mare-mucenic-dimitrie-izvoratorul-de-mir",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-mare-mc-dimitrie-izvoratorul-de-mir/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/26/103059-holy-glorious-demetrios-the-myrrh-gusher-of-thessaloniki",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/26/108922-saint-demetrius-of-tsilibinsk",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

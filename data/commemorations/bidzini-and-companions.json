@@ -1,0 +1,31 @@
+{
+  "id": "bidzini-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:bidzini",
+    "person:elizabar",
+    "person:shalvi-of-georgia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 18
+  },
+  "external_ids": {
+    "oca": "102658"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/18/102658-greatmartyr-prince-bidzini-and-martyrs-princes-elizabar-and-shal",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

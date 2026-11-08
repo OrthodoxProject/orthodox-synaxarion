@@ -1,0 +1,20 @@
+{
+  "id": "seraphim-of-uglich",
+  "locale": "en",
+  "names": {
+    "display": "Hieromartyr Seraphim (Samoilovich), Archbishop of Uglich",
+    "short": "Seraphim, Archbishop of Uglich",
+    "given": "Seraphim"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/04/100487-hieromartyr-seraphim-samoilovich-archbishop-of-uglich",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

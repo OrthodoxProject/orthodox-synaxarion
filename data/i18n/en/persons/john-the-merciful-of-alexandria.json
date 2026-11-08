@@ -1,0 +1,20 @@
+{
+  "id": "john-the-merciful-of-alexandria",
+  "locale": "en",
+  "names": {
+    "display": "Saint John the Merciful, Patriarch of Alexandria",
+    "short": "John the Merciful, Patriarch of Alexandria",
+    "given": "John"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/12/103286-saint-john-the-merciful-patriarch-of-alexandria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

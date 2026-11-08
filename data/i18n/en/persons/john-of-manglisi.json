@@ -1,0 +1,20 @@
+{
+  "id": "john-of-manglisi",
+  "locale": "en",
+  "names": {
+    "display": "Venerable John, Bishop of Manglisi",
+    "short": "John, Bishop of Manglisi",
+    "given": "John"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/28/103831-venerable-john-bishop-of-manglisi",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

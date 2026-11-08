@@ -1,0 +1,20 @@
+{
+  "id": "michael-of-naqadah",
+  "locale": "en",
+  "names": {
+    "display": "Saint Michael, Bishop of Naqadah",
+    "short": "Michael, Bishop of Naqadah",
+    "given": "Michael"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/7_22.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

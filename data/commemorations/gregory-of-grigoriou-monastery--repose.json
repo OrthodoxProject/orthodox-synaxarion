@@ -1,0 +1,29 @@
+{
+  "id": "gregory-of-grigoriou-monastery--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:gregory-of-grigoriou-monastery"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 7
+  },
+  "external_ids": {
+    "oca": "103492"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/07/103492-venerable-gregory-founder-of-grigoriou-monastery-mount-athos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "serapion-of-zarzma--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:serapion-of-zarzma"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 29
+  },
+  "external_ids": {
+    "oca": "103899"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/29/103899-saint-serapion-of-zarzma",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

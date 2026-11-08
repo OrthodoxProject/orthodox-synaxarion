@@ -1,0 +1,34 @@
+{
+  "id": "tenderness-icon-of-theotokos-from-the-pskov-caves--10-07",
+  "kind": "icon",
+  "subjects": [
+    "icon:tenderness-icon-of-theotokos-from-the-pskov-caves"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 7
+  },
+  "external_ids": {
+    "oca": "102898"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoanei-maicii-domnului-cea-iubitoare-pesterilor-din-pskov",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/07/102898-tenderness-icon-of-the-mother-of-god",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "seraphim",
+  "locale": "en",
+  "names": {
+    "display": "Hieromartyr Metropolitan Seraphim (Chichagov)",
+    "short": "Seraphim",
+    "given": "Seraphim"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/28/103441-hieromartyr-metropolitan-seraphim-chichagov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

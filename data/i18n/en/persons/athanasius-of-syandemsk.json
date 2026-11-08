@@ -1,0 +1,20 @@
+{
+  "id": "athanasius-of-syandemsk",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Athanasius, Abbot of Syandemsk, Vologda",
+    "short": "Athanasius, Abbot of Syandemsk, Vologda",
+    "given": "Athanasius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/18/100221-venerable-athanasius-abbot-of-syandemsk-vologda",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "iustin-martirul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Iustin Martirul",
+    "short": "Iustin Martirul",
+    "given": "Iustin",
+    "variants": [
+      "Sf. Mc. Iustin"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-iustin-martirul-filosoful",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-iustin",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

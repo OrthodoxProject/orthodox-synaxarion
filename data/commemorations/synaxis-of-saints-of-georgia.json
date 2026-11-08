@@ -1,0 +1,29 @@
+{
+  "id": "synaxis-of-saints-of-georgia",
+  "kind": "synaxis",
+  "subjects": [
+    "group:saints-of-georgia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 11
+  },
+  "external_ids": {
+    "oca": "103910"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/11/103910-synaxis-of-the-saints-of-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

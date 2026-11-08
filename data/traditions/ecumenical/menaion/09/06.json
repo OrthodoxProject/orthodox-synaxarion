@@ -1,0 +1,25 @@
+{
+  "tradition": "ecumenical",
+  "date": "09-06",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:archangel-michael--commemoration-miracle-archangel-michael"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:eudoxius--repose",
+        "comm:macarius-2--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:arapet-icon-of-theotokos"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

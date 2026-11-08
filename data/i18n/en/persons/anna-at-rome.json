@@ -1,0 +1,20 @@
+{
+  "id": "anna-at-rome",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Anna at Rome",
+    "short": "Anna at Rome",
+    "given": "Anna"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/05/101911-martyr-anna-at-rome",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

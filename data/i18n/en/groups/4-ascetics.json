@@ -1,0 +1,18 @@
+{
+  "id": "4-ascetics",
+  "locale": "en",
+  "names": {
+    "display": "4 Ascetics"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/18/108984-4-ascetics",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

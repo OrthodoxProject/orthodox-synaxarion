@@ -1,0 +1,20 @@
+{
+  "id": "irenaeus-of-sirmium",
+  "locale": "en",
+  "names": {
+    "display": "Hieromartyr Irenaeus, Bishop of Sirmium",
+    "short": "Irenaeus, Bishop of Sirmium",
+    "given": "Irenaeus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/26/100887-hieromartyr-irenaeus-bishop-of-sirmium",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

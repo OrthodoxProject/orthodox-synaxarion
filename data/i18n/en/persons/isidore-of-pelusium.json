@@ -1,0 +1,20 @@
+{
+  "id": "isidore-of-pelusium",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Isidore of Pelusium",
+    "short": "Isidore of Pelusium",
+    "given": "Isidore"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/04/100422-venerable-isidore-of-pelusium",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

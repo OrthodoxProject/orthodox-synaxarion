@@ -1,0 +1,20 @@
+{
+  "id": "damascene-the-new",
+  "locale": "en",
+  "names": {
+    "display": "Hieromartyr Damascene the New",
+    "short": "Damascene the New",
+    "given": "Damascene"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/16/100214-hieromartyr-damascene-the-new",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

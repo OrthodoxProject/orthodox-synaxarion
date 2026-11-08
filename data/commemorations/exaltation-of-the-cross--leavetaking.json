@@ -1,0 +1,27 @@
+{
+  "id": "exaltation-of-the-cross--leavetaking",
+  "kind": "leavetaking",
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 21
+  },
+  "parent_feast": "comm:exaltation-of-the-cross",
+  "external_ids": {
+    "oca": "102682"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/21/102682-leavetaking-of-the-elevation-of-the-cross",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

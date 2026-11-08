@@ -1,0 +1,20 @@
+{
+  "id": "brannock-of-braunton",
+  "locale": "en",
+  "names": {
+    "display": "Saint Brannock of Braunton",
+    "short": "Brannock of Braunton",
+    "given": "Brannock"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/07/103705-saint-brannock-of-braunton",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

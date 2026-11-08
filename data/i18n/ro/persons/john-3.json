@@ -1,0 +1,29 @@
+{
+  "id": "john-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ioan, ucenicul Sfântului Grigorie Decapolitul",
+    "full": "Sfântul Cuvios Ioan, ucenicul Sfântului Grigorie Decapolitul",
+    "short": "Ioan, ucenicul Sfântului Grigorie Decapolitul",
+    "given": "Ioan",
+    "variants": [
+      "Sf. Cuv. Ioan, ucenicul Sfântului Cuv. Grigorie Decapolitul"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-ioan-ucenicul-sfantului-grigorie-decapolitul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-ioan-ucenicul-sfantului-cuv-grigorie-decapolitul/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

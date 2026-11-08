@@ -1,0 +1,18 @@
+{
+  "id": "commemoration-of-the-miracle-at-the-monastery-of",
+  "locale": "en",
+  "names": {
+    "display": "Commemoration of the Miracle at the Monastery of the Caves in Kiev (?)"
+  },
+  "references": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/russian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "translation-of-the-iveron-icon-of-theotokos-to-moscow",
+  "kind": "icon",
+  "subjects": [
+    "icon:translation-of-the-iveron-icon-of-theotokos-to-moscow"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 13
+  },
+  "external_ids": {
+    "oca": "102962"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/aducerea-icoanei-maicii-domnului-din-iviron-la-moscova",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/13/102962-translation-of-the-ivron-icon-of-the-mother-of-god-to-moscow",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, oca.org; de verificat."
+    ]
+  }
+}

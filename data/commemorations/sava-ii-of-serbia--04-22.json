@@ -1,0 +1,29 @@
+{
+  "id": "sava-ii-of-serbia--04-22",
+  "kind": "repose",
+  "subjects": [
+    "person:sava-ii-of-serbia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 22
+  },
+  "external_ids": {
+    "oca": "108041"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/22/108041-hieromartyr-savva-trlajic-of-serbia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

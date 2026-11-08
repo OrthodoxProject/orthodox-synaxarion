@@ -1,0 +1,20 @@
+{
+  "id": "tikhon-of-voronezh",
+  "locale": "en",
+  "names": {
+    "display": "Saint Tikhon, Bishop of Voronezh, Wonderworker of Zadonsk and All Russia",
+    "short": "Tikhon, Bishop of Voronezh, Wonderworker of Zadonsk",
+    "given": "Tikhon"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/13/102287-saint-tikhon-bishop-of-voronezh-wonderworker-of-zadonsk-and-all",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

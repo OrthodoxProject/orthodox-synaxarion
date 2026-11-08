@@ -1,0 +1,29 @@
+{
+  "id": "john-the-solitary-of-jerusalem--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:john-the-solitary-of-jerusalem"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 19
+  },
+  "external_ids": {
+    "oca": "101756"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/19/101756-saint-john-the-solitary-of-jerusalem",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "maria-4",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Schemamonk Maria, the parents of Saint Sergius of Radonezh",
+    "short": "Maria, the parents of Saint Sergius of Radonezh",
+    "given": "Maria"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/18/100224-venerable-schemamonk-cyril-and-schemanun-maria-the-parents-of-sa",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

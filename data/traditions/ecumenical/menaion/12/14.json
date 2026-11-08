@@ -1,0 +1,21 @@
+{
+  "tradition": "ecumenical",
+  "date": "12-14",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:thyrsos--repose",
+        "comm:kallinikos--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:philemon--repose",
+        "comm:apollonios--repose",
+        "comm:arrian--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

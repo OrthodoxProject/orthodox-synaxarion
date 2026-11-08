@@ -1,0 +1,29 @@
+{
+  "id": "iustina",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Iustina",
+    "full": "Sfânta Muceniță Iustina",
+    "short": "Iustina",
+    "given": "Iustina",
+    "variants": [
+      "Sf. Mc. Iustina fecioara"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-iustina",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-sfintit-mc-ciprian-sf-mc-iustina-fecioara/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

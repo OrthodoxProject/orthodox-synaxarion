@@ -1,0 +1,20 @@
+{
+  "id": "gregory-of-ochrid",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Gregory of Ochrid",
+    "short": "Gregory of Ochrid",
+    "given": "Gregory"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/08/108033-venerable-gregory-of-ochrid",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

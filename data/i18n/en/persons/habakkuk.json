@@ -1,0 +1,20 @@
+{
+  "id": "habakkuk",
+  "locale": "en",
+  "names": {
+    "display": "New Martyr Habakkuk",
+    "short": "Habakkuk",
+    "given": "Habakkuk"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/06/100535-new-martyr-habakkuk",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

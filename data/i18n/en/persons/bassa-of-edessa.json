@@ -1,0 +1,20 @@
+{
+  "id": "bassa-of-edessa",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Bassa of Edessa",
+    "short": "Bassa of Edessa",
+    "given": "Bassa"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/21/102356-martyr-bassa-of-edessa-and-her-sons-theogonius-agapius-and-pistu",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

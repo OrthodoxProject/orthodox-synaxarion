@@ -1,0 +1,24 @@
+{
+  "id": "dionysius-2",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "hieromartyr",
+    "martyr"
+  ],
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/21/101169-hieromartyr-theodore-of-perge-in-pamphylia-his-mother-philippa-a",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat.",
+      "Genul nu reiese din sursă; e de verificat."
+    ]
+  }
+}

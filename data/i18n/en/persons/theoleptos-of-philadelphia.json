@@ -1,0 +1,20 @@
+{
+  "id": "theoleptos-of-philadelphia",
+  "locale": "en",
+  "names": {
+    "display": "Saint Theoleptos, Metropolitan of Philadelphia",
+    "short": "Theoleptos, Metropolitan of Philadelphia",
+    "given": "Theoleptos"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/25/100451-saint-theoleptos-metropolitan-of-philadelphia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

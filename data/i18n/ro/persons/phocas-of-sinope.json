@@ -1,0 +1,29 @@
+{
+  "id": "phocas-of-sinope",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Foca, Episcopul de Sinope",
+    "full": "Sfântul Sfințit Mucenic Foca, Episcopul de Sinope",
+    "short": "Foca, Episcopul de Sinope",
+    "given": "Foca",
+    "variants": [
+      "Sf. Sfințit Mc. Foca, episcop de Sinope"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-sfintit-mucenic-foca-episcopul-de-sinope",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ierarh-mc-teodosie-de-la-manastirea-brazi-mitropolitul-moldovei-sf-sfintit-mc-foca-episcop-de-sinope/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

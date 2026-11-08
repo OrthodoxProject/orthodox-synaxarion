@@ -1,0 +1,39 @@
+{
+  "id": "matthias-of-the-seventy--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:matthias-of-the-seventy"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 9
+  },
+  "external_ids": {
+    "oca": "102243"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-apostol-matia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ap-matia-sf-10-mc-care-au-patimit-pentru-icoana-lui-hristos-duminica-a-10-a-dupa-rusalii-ap-1-corinteni-4-9-16-ev-matei-17-14-23-vindecarea-lunaticului-glas-1-voscr-10/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/09/102243-apostle-matthias-of-the-seventy",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

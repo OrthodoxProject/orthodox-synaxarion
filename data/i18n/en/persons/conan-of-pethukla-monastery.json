@@ -1,0 +1,20 @@
+{
+  "id": "conan-of-pethukla-monastery",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Conan, Abbot of the Pethukla Monastery",
+    "short": "Conan, Abbot of the Pethukla Monastery",
+    "given": "Conan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/19/109055-venerable-conan-abbot-of-the-pethukla-monastery",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

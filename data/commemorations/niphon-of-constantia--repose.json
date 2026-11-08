@@ -1,0 +1,34 @@
+{
+  "id": "niphon-of-constantia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:niphon-of-constantia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 23
+  },
+  "external_ids": {
+    "oca": "103628"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-nifon-episcop-de-constantiana",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/23/103628-saint-niphon-bishop-of-constantia-cyprus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, oca.org; de verificat."
+    ]
+  }
+}

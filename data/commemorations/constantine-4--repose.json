@@ -1,0 +1,29 @@
+{
+  "id": "constantine-4--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:constantine-4"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 10
+  },
+  "external_ids": {
+    "oca": "103275"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/10/103275-martyr-constantine-king-of-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

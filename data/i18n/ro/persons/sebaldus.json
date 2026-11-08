@@ -1,0 +1,21 @@
+{
+  "id": "sebaldus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sebaldus, ocrotitorul orașului Nürnberg",
+    "full": "Sfântul Sebaldus, ocrotitorul orașului Nürnberg",
+    "short": "Sebaldus, ocrotitorul orașului Nürnberg",
+    "given": "Sebaldus"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-sebaldus-ocrotitorul-orasului-nurnberg",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "sebastiana-the-martyr--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:sebastiana-the-martyr"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 16
+  },
+  "external_ids": {
+    "oca": "102628"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/16/102628-saint-sebastiana-the-martyr-disciple-of-saint-paul-the-apostle-a",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

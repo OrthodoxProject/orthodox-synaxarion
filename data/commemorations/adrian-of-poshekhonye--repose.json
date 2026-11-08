@@ -1,0 +1,29 @@
+{
+  "id": "adrian-of-poshekhonye--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:adrian-of-poshekhonye"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 5
+  },
+  "external_ids": {
+    "oca": "100663"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/05/100663-monastic-martyr-adrian-of-poshekhonye-yaroslavl",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

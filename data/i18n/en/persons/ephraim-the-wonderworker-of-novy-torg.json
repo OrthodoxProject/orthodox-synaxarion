@@ -1,0 +1,20 @@
+{
+  "id": "ephraim-the-wonderworker-of-novy-torg",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Ephraim the Wonderworker, Abbot of Novy Torg",
+    "short": "Ephraim the Wonderworker, Abbot of Novy Torg",
+    "given": "Ephraim"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/28/100330-venerable-ephraim-the-wonderworker-abbot-of-novy-torg",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

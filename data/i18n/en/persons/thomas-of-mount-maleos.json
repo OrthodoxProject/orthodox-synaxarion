@@ -1,0 +1,20 @@
+{
+  "id": "thomas-of-mount-maleos",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Thomas of Mount Maleos",
+    "short": "Thomas of Mount Maleos",
+    "given": "Thomas"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/07/101843-venerable-thomas-of-mount-maleos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

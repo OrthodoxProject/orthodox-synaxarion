@@ -1,0 +1,20 @@
+{
+  "id": "andronicus-2",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Andronicus, at Tarsus in Cilicia",
+    "short": "Andronicus, at Tarsus in Cilicia",
+    "given": "Andronicus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/12/102941-martyrs-probus-tarachus-and-andronicus-at-tarsus-in-cilicia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "theophany--leavetaking",
+  "kind": "leavetaking",
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 14
+  },
+  "parent_feast": "comm:theophany",
+  "external_ids": {
+    "oca": "100172"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/odovania-praznicului-botezului-domnului",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/odovania-praznicului-botezului-domnului-sf-cuv-mucenici-din-sinai-si-rait-sf-nina-luminatoarea-georgiei/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/14/100172-leavetaking-of-the-theophany-of-our-lord-and-savior-jesus-christ",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

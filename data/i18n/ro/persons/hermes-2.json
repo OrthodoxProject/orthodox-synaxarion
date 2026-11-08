@@ -1,0 +1,26 @@
+{
+  "id": "hermes-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Hermes",
+    "full": "Sfântul Mucenic Hermes",
+    "short": "Hermes",
+    "given": "Hermes"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-hermes",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/odovania-praznicului-nasterii-domnului-%e2%80%a0-sf-mc-hermes-sf-cuv-melania-romana-slujba-la-cumpana-dintre-ani/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

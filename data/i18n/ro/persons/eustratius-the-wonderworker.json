@@ -1,0 +1,21 @@
+{
+  "id": "eustratius-the-wonderworker",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Eustratie",
+    "full": "Sfântul Cuvios Eustratie",
+    "short": "Eustratie",
+    "given": "Eustratie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-eustratie",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

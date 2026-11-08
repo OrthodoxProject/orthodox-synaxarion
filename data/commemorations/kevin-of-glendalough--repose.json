@@ -1,0 +1,29 @@
+{
+  "id": "kevin-of-glendalough--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:kevin-of-glendalough"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 3
+  },
+  "external_ids": {
+    "oca": "100174"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/03/100174-saint-kevin-of-glendalough",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

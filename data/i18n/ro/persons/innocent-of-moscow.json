@@ -1,0 +1,21 @@
+{
+  "id": "innocent-of-moscow",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Inochentie, Mitropolitul Moscovei, luminător al Siberiei și Americii",
+    "full": "Sfântul Inochentie, Mitropolitul Moscovei, luminător al Siberiei și Americii",
+    "short": "Inochentie, Mitropolitul Moscovei, luminător al Siberiei și Americii",
+    "given": "Inochentie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-inochentie-mitropolitul-moscovei-luminator-al-siberiei-americii",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

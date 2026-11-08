@@ -1,0 +1,21 @@
+{
+  "id": "meletie-of-lardos",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Meletie din Lardos",
+    "full": "Sfântul Cuvios Meletie din Lardos",
+    "short": "Meletie din Lardos",
+    "given": "Meletie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-meletie-din-lardos-5",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

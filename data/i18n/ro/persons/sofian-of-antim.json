@@ -1,0 +1,29 @@
+{
+  "id": "sofian-of-antim",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mărt. Sofian de la Antim",
+    "full": "Sfântul Cuvios Mărturisitor Sofian de la Antim",
+    "short": "Sofian de la Antim",
+    "given": "Sofian",
+    "variants": [
+      "Sf. Cuv. Mărturisitor Sofian de la Antim"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-marturisitor-sofian-de-la-antim",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-marturisitor-sofian-de-la-antim-sf-mare-mc-eufimia-sf-mc-meletina-si-ludmila/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "theodore-the-confessor-of-studion",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Theodore the Confessor, Abbot of the Studion",
+    "short": "Theodore the Confessor, Abbot of the Studion",
+    "given": "Theodore"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/11/103281-venerable-theodore-the-confessor-abbot-of-the-studion",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

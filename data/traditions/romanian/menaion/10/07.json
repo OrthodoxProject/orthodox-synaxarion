@@ -1,0 +1,30 @@
+{
+  "tradition": "romanian",
+  "date": "10-07",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:sergius--repose",
+        "comm:vah--repose"
+      ],
+      "symbol": "black-plain"
+    },
+    {
+      "commemorations": [
+        "comm:julian-the-presbyter--repose",
+        "comm:caesarius-the-deacon-at-terracina--repose",
+        "comm:polihronie--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:joseph-the-elder-and-wonderworker-of-khevi--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:tenderness-icon-of-theotokos-from-the-pskov-caves--10-07"
+      ]
+    }
+  ]
+}

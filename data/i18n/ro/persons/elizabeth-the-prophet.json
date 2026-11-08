@@ -1,0 +1,25 @@
+{
+  "id": "elizabeth-the-prophet",
+  "locale": "ro",
+  "names": {
+    "display": "Dreapta Elisabeta, mama Sfântului Ioan Botezătorul",
+    "short": "Elisabeta, mama Sfântului Ioan Botezătorul",
+    "given": "Elisabeta"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/dreapta-elisabeta-mama-sfantului-ioan-botezatorul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-proroc-zaharia-si-dreapta-elisabeta-parintii-sf-ioan-botezatorul/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "peter-apselamus-of-palestine--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:peter-apselamus-of-palestine"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 12
+  },
+  "external_ids": {
+    "oca": "100159"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/12/100159-martyr-peter-apselamus-of-palestine",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

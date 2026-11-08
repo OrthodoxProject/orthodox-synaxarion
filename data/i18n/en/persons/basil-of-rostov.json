@@ -1,0 +1,20 @@
+{
+  "id": "basil-of-rostov",
+  "locale": "en",
+  "names": {
+    "display": "Right-believing Prince Basil (Vasilko) of Rostov",
+    "short": "Basil of Rostov",
+    "given": "Basil"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/04/100652-right-believing-prince-basil-vasilko-of-rostov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

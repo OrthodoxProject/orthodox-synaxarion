@@ -1,0 +1,20 @@
+{
+  "id": "laurence",
+  "locale": "en",
+  "names": {
+    "display": "Saint Laurence, Recluse of the Kiev Far Caves",
+    "short": "Laurence, Recluse of the Kiev Far Caves",
+    "given": "Laurence"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/20/100240-saint-laurence-recluse-of-the-kiev-far-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

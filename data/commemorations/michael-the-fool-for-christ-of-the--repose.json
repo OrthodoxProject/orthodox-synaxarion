@@ -1,0 +1,29 @@
+{
+  "id": "michael-the-fool-for-christ-of-the--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:michael-the-fool-for-christ-of-the"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 11
+  },
+  "external_ids": {
+    "oca": "100150"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/11/100150-venerable-michael-the-fool-for-christ-of-the-klops-monastery-nov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

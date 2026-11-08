@@ -1,0 +1,29 @@
+{
+  "id": "isaac-i-of-optina--12-26",
+  "kind": "repose",
+  "subjects": [
+    "person:isaac-i-of-optina"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 26
+  },
+  "external_ids": {
+    "oca": "148997"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/26/148997-venerable-isaac-ii-of-optina",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

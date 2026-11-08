@@ -1,0 +1,20 @@
+{
+  "id": "narcissus-of-jerusalem",
+  "locale": "en",
+  "names": {
+    "display": "Saint Narcissus, Bishop of Jerusalem",
+    "short": "Narcissus, Bishop of Jerusalem",
+    "given": "Narcissus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/07/100402-saint-narcissus-bishop-of-jerusalem",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

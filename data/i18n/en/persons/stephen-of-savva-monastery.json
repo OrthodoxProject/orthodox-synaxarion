@@ -1,0 +1,20 @@
+{
+  "id": "stephen-of-savva-monastery",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Stephen of Saint Savva Monastery",
+    "short": "Stephen of Saint Savva Monastery",
+    "given": "Stephen"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/13/102018-venerable-stephen-of-saint-savva-monastery",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "shio-the-anchorite-of-georgia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:shio-the-anchorite-of-georgia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 9
+  },
+  "external_ids": {
+    "oca": "101332"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-shio-din-mgvime-georgia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/09/101332-repose-of-venerable-shio-the-anchorite-of-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, oca.org; de verificat."
+    ]
+  }
+}

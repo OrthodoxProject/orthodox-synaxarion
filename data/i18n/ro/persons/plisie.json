@@ -1,0 +1,26 @@
+{
+  "id": "plisie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Plisie",
+    "full": "Sfântul Mucenic Plisie",
+    "short": "Plisie",
+    "given": "Plisie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-plisie",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-agapie-plisie-si-timolau-pomenirea-celor-adormiti/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

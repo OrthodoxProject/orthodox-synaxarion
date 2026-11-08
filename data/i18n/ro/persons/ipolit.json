@@ -1,0 +1,26 @@
+{
+  "id": "ipolit",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Ipolit",
+    "full": "Sfântul Mucenic Ipolit",
+    "short": "Ipolit",
+    "given": "Ipolit"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-ipolit",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-laurentiu-arhidiaconul-sf-sfintit-mc-xist-episcopul-romei-sf-mc-ipolit/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "menas-2-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:menas-2",
+    "person:david-3",
+    "person:john-of-palestine"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 12
+  },
+  "external_ids": {
+    "oca": "101064"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/12/101064-monastic-martyrs-menas-david-and-john-of-palestine",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

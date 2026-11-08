@@ -1,0 +1,21 @@
+{
+  "id": "bonifatie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Bonifatie, Apostolul Germaniei",
+    "full": "Sfântul Bonifatie, Apostolul Germaniei",
+    "short": "Bonifatie, Apostolul Germaniei",
+    "given": "Bonifatie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-bonifatie-apostolul-germaniei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

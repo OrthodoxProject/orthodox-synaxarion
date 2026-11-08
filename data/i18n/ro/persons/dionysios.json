@@ -1,0 +1,21 @@
+{
+  "id": "dionysios",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Dionisie",
+    "full": "Sfântul Cuvios Dionisie",
+    "short": "Dionisie",
+    "given": "Dionisie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-dionisie",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

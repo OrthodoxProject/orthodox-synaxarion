@@ -1,0 +1,20 @@
+{
+  "id": "herman",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Herman, Wonderworkers of Valaam",
+    "short": "Herman, Wonderworkers of Valaam",
+    "given": "Herman"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/28/101836-venerable-sergius-and-herman-wonderworkers-of-valaam",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

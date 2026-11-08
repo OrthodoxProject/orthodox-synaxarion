@@ -1,0 +1,26 @@
+{
+  "id": "bessarion",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Visarion",
+    "full": "Sfântul Cuvios Visarion",
+    "short": "Visarion",
+    "given": "Visarion"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-visarion-0",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/odovania-praznicului-pogorarii-sfantului-duh-sf-cuv-ilarion-cel-nou-egumenul-manastirii-lui-dalmat-sf-cuv-visarion/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

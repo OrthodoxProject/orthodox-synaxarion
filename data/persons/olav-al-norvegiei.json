@@ -1,0 +1,26 @@
+{
+  "id": "olav-al-norvegiei",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "right_believing",
+    "martyr"
+  ],
+  "external_ids": {
+    "doxologia": "sfantul-rege-martir-olav-al-norvegiei"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-rege-martir-olav-al-norvegiei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "alexander-nevsky--translation-of-relics",
+  "kind": "relics_translation",
+  "subjects": [
+    "person:alexander-nevsky"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 30
+  },
+  "external_ids": {
+    "oca": "102424"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/30/102424-translation-of-the-relics-of-saint-alexander-nevsky",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "basilissa-coptic",
+  "locale": "en",
+  "names": {
+    "display": "Saint Basilissa",
+    "short": "Basilissa",
+    "given": "Basilissa"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/1_6.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

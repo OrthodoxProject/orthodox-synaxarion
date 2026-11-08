@@ -1,0 +1,29 @@
+{
+  "id": "bede--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:bede"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 27
+  },
+  "external_ids": {
+    "oca": "103796"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/27/103796-venerable-bede-the-church-historian",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

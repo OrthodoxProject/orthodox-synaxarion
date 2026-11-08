@@ -1,0 +1,26 @@
+{
+  "id": "basil-the-confessor",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Vasile Mărturisitorul",
+    "full": "Sfântul Cuvios Vasile Mărturisitorul",
+    "short": "Vasile Mărturisitorul",
+    "given": "Vasile"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-vasile-marturisitorul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-ioan-casian-si-gherman-din-dobrogea-sf-cuv-vasile-marturisitorul-sambata-sf-mare-mc-teodor-tiron-pomenirea-celor-adormiti/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

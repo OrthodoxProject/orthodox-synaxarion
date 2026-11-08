@@ -1,0 +1,20 @@
+{
+  "id": "severian-of-sebaste",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Severian of Sebaste",
+    "short": "Severian of Sebaste",
+    "given": "Severian"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/09/102548-martyr-severian-of-sebaste",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

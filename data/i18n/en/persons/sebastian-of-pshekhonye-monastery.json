@@ -1,0 +1,20 @@
+{
+  "id": "sebastian-of-pshekhonye-monastery",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Sebastian, Abbot of Pshekhonye Monastery, Vologda",
+    "short": "Sebastian, Abbot of Pshekhonye Monastery, Vologda",
+    "given": "Sebastian"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/18/103577-venerable-sebastian-abbot-of-pshekhonye-monastery-vologda",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

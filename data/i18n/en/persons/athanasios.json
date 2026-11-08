@@ -1,0 +1,20 @@
+{
+  "id": "athanasios",
+  "locale": "en",
+  "names": {
+    "display": "Hieromartyr Athanasios, Venerable Anthousa, and others",
+    "short": "Athanasios, Anthousa",
+    "given": "Athanasios"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/22/102370-hieromartyr-athanasios-venerable-anthousa-and-others",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "meletios-of-ryazan",
+  "locale": "en",
+  "names": {
+    "display": "Saint Meletios, Bishop of Ryazan",
+    "short": "Meletios, Bishop of Ryazan",
+    "given": "Meletios"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/14/100122-saint-meletios-bishop-of-ryazan",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

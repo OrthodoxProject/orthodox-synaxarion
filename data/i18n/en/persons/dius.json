@@ -1,0 +1,20 @@
+{
+  "id": "dius",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Dius",
+    "short": "Dius",
+    "given": "Dius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/03/100979-martyrs-elpidephorus-dius-bithonius-and-galycus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

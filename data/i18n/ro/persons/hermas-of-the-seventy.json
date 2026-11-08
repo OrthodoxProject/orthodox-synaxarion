@@ -1,0 +1,21 @@
+{
+  "id": "hermas-of-the-seventy",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ap. Ermie",
+    "full": "Sfântul Apostol Ermie",
+    "short": "Ermie",
+    "given": "Ermie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-apostol-ermie",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

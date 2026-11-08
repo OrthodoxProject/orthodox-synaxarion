@@ -1,0 +1,20 @@
+{
+  "id": "arkadios-the-wonderworker-of-arsinoe",
+  "locale": "en",
+  "names": {
+    "display": "Saint Arkadios the Wonderworker, Bishop of Arsinoe, Cyprus",
+    "short": "Arkadios the Wonderworker, Bishop of Arsinoe, Cyprus",
+    "given": "Arkadios"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/29/100018-saint-arkadios-the-wonderworker-bishop-of-arsinoe-cyprus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

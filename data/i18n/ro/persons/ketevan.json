@@ -1,0 +1,21 @@
+{
+  "id": "ketevan",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Ketevan, regina Georgiei",
+    "full": "Sfânta Muceniță Ketevan, regina Georgiei",
+    "short": "Ketevan, regina Georgiei",
+    "given": "Ketevan"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-ketevan-regina-georgiei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "job-the-wonderworker-of-pochaev--finding-of-relics",
+  "kind": "relics_finding",
+  "subjects": [
+    "person:job-the-wonderworker-of-pochaev"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 28
+  },
+  "external_ids": {
+    "oca": "102415"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/28/102415-recovery-of-the-relics-of-saint-job-of-pochaev",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

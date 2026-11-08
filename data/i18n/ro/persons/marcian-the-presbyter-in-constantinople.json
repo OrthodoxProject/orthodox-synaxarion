@@ -1,0 +1,21 @@
+{
+  "id": "marcian-the-presbyter-in-constantinople",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Marchian",
+    "full": "Sfântul Cuvios Marchian",
+    "short": "Marchian",
+    "given": "Marchian"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-marchian",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

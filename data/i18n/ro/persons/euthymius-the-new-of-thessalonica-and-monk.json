@@ -1,0 +1,21 @@
+{
+  "id": "euthymius-the-new-of-thessalonica-and-monk",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Eftimie cel Nou",
+    "full": "Sfântul Cuvios Eftimie cel Nou",
+    "short": "Eftimie cel Nou",
+    "given": "Eftimie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-eftimie-cel-nou",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

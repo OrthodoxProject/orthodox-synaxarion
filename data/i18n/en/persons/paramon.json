@@ -1,0 +1,20 @@
+{
+  "id": "paramon",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Paramon and 370 Martyrs in Bithynia",
+    "short": "Paramon",
+    "given": "Paramon"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/29/103442-martyr-paramon-and-370-martyrs-in-bithynia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

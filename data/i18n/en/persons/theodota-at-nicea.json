@@ -1,0 +1,20 @@
+{
+  "id": "theodota-at-nicea",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Theodota at Nicea",
+    "short": "Theodota at Nicea",
+    "given": "Theodota"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/17/102642-martyr-theodota-at-nicea",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "tradition": "serbian",
+  "date": "05-08",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:john-the-theologian--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:arsenius-the-great--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

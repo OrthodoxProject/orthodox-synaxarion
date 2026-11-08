@@ -1,0 +1,42 @@
+{
+  "tradition": "serbian",
+  "date": "11-12",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:varnava--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:elena-of-serbia--11-12"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:milutin--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:momcilo-grgurevic--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:theoctistus-of-serbia--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:zlata-of-meglen--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:nilus-the-myrrhgusher-of-mount-athos--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

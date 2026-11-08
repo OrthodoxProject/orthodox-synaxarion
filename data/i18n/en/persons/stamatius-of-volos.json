@@ -1,0 +1,20 @@
+{
+  "id": "stamatius-of-volos",
+  "locale": "en",
+  "names": {
+    "display": "New Martyr Stamatius of Volos",
+    "short": "Stamatius of Volos",
+    "given": "Stamatius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/16/108992-new-martyr-stamatius-of-volos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

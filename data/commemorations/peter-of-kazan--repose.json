@@ -1,0 +1,29 @@
+{
+  "id": "peter-of-kazan--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:peter-of-kazan"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 24
+  },
+  "external_ids": {
+    "oca": "100881"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/24/100881-martyr-peter-of-kazan",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

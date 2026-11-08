@@ -1,0 +1,39 @@
+{
+  "id": "myron-the-presbyter-of-cyzicus--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:myron-the-presbyter-of-cyzicus"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 17
+  },
+  "external_ids": {
+    "oca": "102309"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-miron",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-gheorghe-pelerinul-%e2%80%a0-sf-cuv-nazaria-olimpiada-si-elisabeta-safta-brancoveanu-de-la-varatec-sf-mc-miron-preotul-straton-si-ciprian/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/17/102309-martyr-myron-the-presbyter-of-cyzicus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

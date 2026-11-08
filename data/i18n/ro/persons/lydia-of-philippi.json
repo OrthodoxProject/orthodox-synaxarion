@@ -1,0 +1,26 @@
+{
+  "id": "lydia-of-philippi",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Lidia din Filipi",
+    "full": "Sfânta Lidia din Filipi",
+    "short": "Lidia din Filipi",
+    "given": "Lidia"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-lidia-din-filipi",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/odovania-praznicului-invierii-domnului-sf-mc-talaleu-sf-cuv-talasie-sf-lidia-din-filipi-dezlegare-la-peste/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

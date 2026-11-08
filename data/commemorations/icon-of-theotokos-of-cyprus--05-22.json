@@ -1,0 +1,29 @@
+{
+  "id": "icon-of-theotokos-of-cyprus--05-22",
+  "kind": "icon",
+  "subjects": [
+    "icon:icon-of-theotokos-of-cyprus"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 22
+  },
+  "external_ids": {
+    "oca": "101465"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/22/101465-icon-of-the-mother-of-god-of-cyprus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

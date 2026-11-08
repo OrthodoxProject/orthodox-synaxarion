@@ -1,0 +1,20 @@
+{
+  "id": "theodore-6",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Theodore",
+    "short": "Theodore",
+    "given": "Theodore"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/04/102495-martyrs-theodore-mianus-julian-kion-and-centurionus-of-nicomedia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

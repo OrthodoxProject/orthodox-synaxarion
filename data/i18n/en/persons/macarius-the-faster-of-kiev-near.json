@@ -1,0 +1,28 @@
+{
+  "id": "macarius-the-faster-of-kiev-near",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Macarius the Faster, of the Kiev Near Caves",
+    "short": "Macarius the Faster, of the Kiev Near Caves",
+    "given": "Macarius",
+    "variants": [
+      "Venerable Macarius the Deacon of the Kiev Caves"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/19/100229-venerable-macarius-the-faster-of-the-kiev-near-caves",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/19/100230-venerable-macarius-the-deacon-of-the-kiev-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

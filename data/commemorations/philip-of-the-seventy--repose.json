@@ -1,0 +1,39 @@
+{
+  "id": "philip-of-the-seventy--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:philip-of-the-seventy"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 11
+  },
+  "external_ids": {
+    "oca": "102936"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-apostol-filip-unul-din-cei-7-diaconi",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ap-filip-unul-dintre-cei-7-diaconi-sf-ier-teofan-marturisitorul-episcopul-niceei-duminica-a-21-a-dupa-rusalii-a-sfintilor-parinti-de-la-sinodul-al-vii-lea-ecumenic-ap-galateni-2-16-20/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/11/102936-apostle-philip-of-the-seventy-one-of-the-seven-deacons",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

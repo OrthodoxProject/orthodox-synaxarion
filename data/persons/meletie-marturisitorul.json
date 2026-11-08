@@ -1,0 +1,25 @@
+{
+  "id": "meletie-marturisitorul",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "confessor"
+  ],
+  "external_ids": {
+    "doxologia": "sfantul-meletie-marturisitorul"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-meletie-marturisitorul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

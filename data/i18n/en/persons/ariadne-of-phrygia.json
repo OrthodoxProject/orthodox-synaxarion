@@ -1,0 +1,20 @@
+{
+  "id": "ariadne-of-phrygia",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Ariádnē of Phrygia",
+    "short": "Ariádnē of Phrygia",
+    "given": "Ariádnē"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/18/102654-martyr-aridn-of-phrygia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

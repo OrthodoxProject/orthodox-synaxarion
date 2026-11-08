@@ -1,0 +1,21 @@
+{
+  "id": "prov",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Prov",
+    "full": "Sfântul Mucenic Prov",
+    "short": "Prov",
+    "given": "Prov"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-prov-0",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

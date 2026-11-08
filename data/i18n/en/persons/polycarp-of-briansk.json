@@ -1,0 +1,20 @@
+{
+  "id": "polycarp-of-briansk",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Polycarp of Briansk",
+    "short": "Polycarp of Briansk",
+    "given": "Polycarp"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/23/100590-venerable-polycarp-of-briansk",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

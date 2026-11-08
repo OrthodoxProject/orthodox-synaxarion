@@ -1,0 +1,29 @@
+{
+  "id": "eleazar-of-anzersk-island--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:eleazar-of-anzersk-island"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 13
+  },
+  "external_ids": {
+    "oca": "100167"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/13/100167-venerable-eleazar-of-anzersk-island-solovki",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

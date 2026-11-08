@@ -1,0 +1,21 @@
+{
+  "id": "george-the-confessor-and-bishop-of-antioch",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Gheorghe Mărturisitorul, Episcopul Antiohiei Pisidiei",
+    "full": "Sfântul Ierarh Gheorghe Mărturisitorul, Episcopul Antiohiei Pisidiei",
+    "short": "Gheorghe Mărturisitorul, Episcopul Antiohiei Pisidiei",
+    "given": "Gheorghe"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-gheorghe-marturisitorul-episcopul-antiohiei-pisidiei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

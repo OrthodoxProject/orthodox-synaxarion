@@ -1,0 +1,28 @@
+{
+  "id": "john-the-silent-of-savva-monastery",
+  "locale": "en",
+  "names": {
+    "display": "Venerable John the Silent of Saint Savva Monastery",
+    "short": "John the Silent of Saint Savva Monastery",
+    "given": "John",
+    "variants": [
+      "Venerable John the Silent of Saint Sabbas Monastery"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/30/100952-venerable-john-the-silent-of-saint-savva-monastery",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/03/103468-venerable-john-the-silent-of-saint-sabbas-monastery",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

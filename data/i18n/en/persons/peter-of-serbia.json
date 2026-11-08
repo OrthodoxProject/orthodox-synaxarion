@@ -1,0 +1,20 @@
+{
+  "id": "peter-of-serbia",
+  "locale": "en",
+  "names": {
+    "display": "Hieromartyr Peter, Metropolitan of Serbia",
+    "short": "Peter, Metropolitan of Serbia",
+    "given": "Peter"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/04/108060-hieromartyr-peter-metropolitan-of-serbia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

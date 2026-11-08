@@ -1,0 +1,20 @@
+{
+  "id": "john-8",
+  "locale": "en",
+  "names": {
+    "display": "Venerable John, Andrew, Heraclemon",
+    "short": "John, Andrew, Heraclemon",
+    "given": "John"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/12/101707-venerable-john-andrew-heraclemon-and-theophilus-hermits-of-egypt",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

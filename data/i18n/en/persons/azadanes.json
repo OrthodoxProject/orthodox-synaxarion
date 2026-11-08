@@ -1,0 +1,20 @@
+{
+  "id": "azadanes",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Azadanes",
+    "short": "Azadanes",
+    "given": "Azadanes"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/10/101049-martyrs-james-jacob-the-presbyter-and-azadanes-and-abdicius-deac",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

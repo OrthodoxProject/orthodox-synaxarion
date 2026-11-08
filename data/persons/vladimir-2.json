@@ -1,0 +1,26 @@
+{
+  "id": "vladimir-2",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "right_believing",
+    "equal_to_apostles"
+  ],
+  "external_ids": {
+    "oca": "102031"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/15/102031-holy-great-prince-vladimir-basil-in-baptism-equal-of-the-apostle",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

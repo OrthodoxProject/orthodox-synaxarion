@@ -1,0 +1,18 @@
+{
+  "id": "saints-of-solovki-monastery",
+  "locale": "en",
+  "names": {
+    "display": "Saints of Solovki Monastery"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/09/102256-synaxis-of-the-saints-of-solovki-monastery",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

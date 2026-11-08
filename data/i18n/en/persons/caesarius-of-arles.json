@@ -1,0 +1,20 @@
+{
+  "id": "caesarius-of-arles",
+  "locale": "en",
+  "names": {
+    "display": "Saint Caesarius, Bishop of Arles",
+    "short": "Caesarius, Bishop of Arles",
+    "given": "Caesarius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/27/102412-saint-caesarius-bishop-of-arles",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "aristocles-the-presbyter-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:aristocles-the-presbyter",
+    "person:demetrian-the-deacon",
+    "person:athanasius-the-reader-of-cyprus"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 20
+  },
+  "external_ids": {
+    "oca": "101765"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/20/101765-martyrs-aristocles-the-presbyter-demetrian-the-deacon-and-athana",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "xenia-of-petersburg",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Xenia din Sankt Petersburg",
+    "full": "Sfânta Cuvioasă Xenia din Sankt Petersburg",
+    "short": "Xenia din Sankt Petersburg",
+    "given": "Xenia",
+    "variants": [
+      "Sf. Xenia din Petersburg"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-xenia-din-sankt-petersburg",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-xenia-din-roma-sf-xenia-din-petersburg-tedeum/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

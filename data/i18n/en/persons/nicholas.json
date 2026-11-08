@@ -1,0 +1,20 @@
+{
+  "id": "nicholas",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Nicholas, Radiant Star of the Georgians",
+    "short": "Nicholas, Radiant Star of the Georgians",
+    "given": "Nicholas"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/03/205495-venerable-nicholas-radiant-star-of-the-georgians",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

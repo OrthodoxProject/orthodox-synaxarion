@@ -1,0 +1,33 @@
+{
+  "tradition": "romanian",
+  "date": "09-03",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:neofit-of-manastirea-stanisoara--repose",
+        "comm:meletie-of-manastirea-stanisoara--repose"
+      ],
+      "symbol": "blue-half-parenthesized"
+    },
+    {
+      "commemorations": [
+        "comm:anthimus-of-nicomedia--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:theoctistus-of-palestina--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:nectarie-taumaturgul-of-eghina--translation-of-relics"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:pisidia-icon-of-theotokos"
+      ]
+    }
+  ]
+}

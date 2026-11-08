@@ -1,0 +1,21 @@
+{
+  "id": "damian",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Nou Mc. Damian",
+    "full": "Sfântul Nou Mucenic Damian",
+    "short": "Damian",
+    "given": "Damian"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-nou-mucenic-damian",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

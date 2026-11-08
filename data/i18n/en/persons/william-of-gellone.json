@@ -1,0 +1,20 @@
+{
+  "id": "william-of-gellone",
+  "locale": "en",
+  "names": {
+    "display": "Saint William of Gellone",
+    "short": "William of Gellone",
+    "given": "William"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/28/100252-saint-william-of-gellone",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

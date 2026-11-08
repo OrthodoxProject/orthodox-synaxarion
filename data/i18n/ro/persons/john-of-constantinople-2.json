@@ -1,0 +1,26 @@
+{
+  "id": "john-of-constantinople-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ioan, Patriarhul Constantinopolului",
+    "full": "Sfântul Ierarh Ioan, Patriarhul Constantinopolului",
+    "short": "Ioan, Patriarhul Constantinopolului",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-ioan-patriarhul-constantinopolului",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ierarhi-varlaam-mitropolitul-moldovei-si-ioan-de-la-rasca-si-secu-episcopul-romanului-sf-ierarhi-alexandru-ioan-si-pavel-cel-nou-arhiepiscopii-constantinopolului-duminica-a-13-a/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

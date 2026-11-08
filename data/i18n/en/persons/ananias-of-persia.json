@@ -1,0 +1,20 @@
+{
+  "id": "ananias-of-persia",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Ananias of Persia",
+    "short": "Ananias of Persia",
+    "given": "Ananias"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/01/103454-martyr-ananias-of-persia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

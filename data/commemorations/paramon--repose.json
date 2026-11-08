@@ -1,0 +1,39 @@
+{
+  "id": "paramon--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:paramon"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 29
+  },
+  "external_ids": {
+    "oca": "103442"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-paramon",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-paramon-si-filumen-sf-cuv-pitirun-dezlegare-la-peste/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/29/103442-martyr-paramon-and-370-martyrs-in-bithynia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

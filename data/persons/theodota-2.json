@@ -1,0 +1,22 @@
+{
+  "id": "theodota-2",
+  "kind": "saint",
+  "gender": "female",
+  "holiness_types": [
+    "unmercenary"
+  ],
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/01/103135-saint-theodota-mother-of-the-unmercenaries-cosmas-and-damian",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

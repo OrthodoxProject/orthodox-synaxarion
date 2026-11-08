@@ -1,0 +1,26 @@
+{
+  "id": "nino-of-georgia--05-19",
+  "kind": "repose",
+  "subjects": [
+    "person:nino-of-georgia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 19
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-nina-cea-intocmai-cu-apostolii-luminatoarea-georgiei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

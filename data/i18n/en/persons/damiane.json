@@ -1,0 +1,20 @@
+{
+  "id": "damiane",
+  "locale": "en",
+  "names": {
+    "display": "Saint Damiane, King",
+    "short": "Damiane, King",
+    "given": "Damiane"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/23/103848-saint-damiane-demetrius-king-and-hymnographer",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

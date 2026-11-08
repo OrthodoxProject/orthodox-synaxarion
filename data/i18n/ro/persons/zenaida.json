@@ -1,0 +1,21 @@
+{
+  "id": "zenaida",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Zenaida",
+    "full": "Sfânta Muceniță Zenaida",
+    "short": "Zenaida",
+    "given": "Zenaida"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-zenaida-0",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "macarius-the-roman-of-mesopotamia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:macarius-the-roman-of-mesopotamia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 23
+  },
+  "external_ids": {
+    "oca": "206395"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-macarie-romanul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ap-iacob-rudenia-domnului-intaiul-episcop-al-ierusalimului-%e2%80%a0-sf-preot-mucenic-constantin-sarbu-sf-cuv-macarie-romanul/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/23/206395-saint-macarius-the-roman-of-mesopotamia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

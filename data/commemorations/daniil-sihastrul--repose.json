@@ -1,0 +1,40 @@
+{
+  "id": "daniil-sihastrul--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:daniil-sihastrul"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 18
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-daniil-sihastrul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-daniil-sihastrul-sf-mc-sebastian-si-zoe-sf-ier-modest-arhiepiscopul-ierusalimului/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/romanian_saints.json",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Daniil_Sihastrul"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, orthodox-calendar, Wikipedia; de verificat."
+    ]
+  }
+}

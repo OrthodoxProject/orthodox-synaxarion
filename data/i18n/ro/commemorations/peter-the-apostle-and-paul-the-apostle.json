@@ -1,0 +1,23 @@
+{
+  "id": "peter-the-apostle-and-paul-the-apostle",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Apostoli Petru și Pavel"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfintii-apostoli-petru-pavel",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ap-petru-si-pavel/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

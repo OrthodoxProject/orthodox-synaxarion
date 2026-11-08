@@ -1,0 +1,20 @@
+{
+  "id": "alexius-the-recluse-of-the-kiev-far",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Alexius the Recluse of the Kiev Far Caves",
+    "short": "Alexius the Recluse of the Kiev Far Caves",
+    "given": "Alexius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/24/101191-venerable-alexius-the-recluse-of-the-kiev-far-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

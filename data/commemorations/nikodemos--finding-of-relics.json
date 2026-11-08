@@ -1,0 +1,29 @@
+{
+  "id": "nikodemos--finding-of-relics",
+  "kind": "relics_finding",
+  "subjects": [
+    "person:nikodemos"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 2
+  },
+  "external_ids": {
+    "oca": "102182"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/02/102182-finding-of-the-relics-of-righteous-saint-ikdmos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

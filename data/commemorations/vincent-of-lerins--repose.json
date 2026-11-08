@@ -1,0 +1,29 @@
+{
+  "id": "vincent-of-lerins--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:vincent-of-lerins"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 24
+  },
+  "external_ids": {
+    "oca": "101530"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/24/101530-saint-vincent-of-lerins",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

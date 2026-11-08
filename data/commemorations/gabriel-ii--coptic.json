@@ -1,0 +1,30 @@
+{
+  "id": "gabriel-ii--coptic",
+  "kind": "repose",
+  "subjects": [
+    "person:gabriel-ii"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 10,
+    "calendar": "coptic"
+  },
+  "external_ids": {
+    "copticchurch": "8_10#2"
+  },
+  "sources": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/8_10.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din copticchurch.net; de verificat."
+    ]
+  }
+}

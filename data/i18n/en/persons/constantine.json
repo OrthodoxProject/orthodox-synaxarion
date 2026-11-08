@@ -1,0 +1,20 @@
+{
+  "id": "constantine",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Constantine, Princes of Georgia",
+    "short": "Constantine, Princes of Georgia",
+    "given": "Constantine"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/02/102841-martyrs-david-and-constantine-princes-of-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

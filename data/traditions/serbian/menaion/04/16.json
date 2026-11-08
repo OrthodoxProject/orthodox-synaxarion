@@ -1,0 +1,24 @@
+{
+  "tradition": "serbian",
+  "date": "04-16",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:agape-and-companions"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:weeping-ilyin-chernigov-icon-of-theotokos"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:tambov-icon-of-theotokos"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

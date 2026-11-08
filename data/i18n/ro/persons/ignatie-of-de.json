@@ -1,0 +1,21 @@
+{
+  "id": "ignatie-of-de",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ignatie, Mitropolit de Mitimna",
+    "full": "Sfântul Ierarh Ignatie, Mitropolit de Mitimna",
+    "short": "Ignatie, Mitropolit de Mitimna",
+    "given": "Ignatie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-ignatie-mitropolit-de-mitimna",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

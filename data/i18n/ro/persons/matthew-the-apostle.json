@@ -1,0 +1,26 @@
+{
+  "id": "matthew-the-apostle",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ap. și Evanghelist Matei",
+    "full": "Sfântul Apostol și Evanghelist Matei",
+    "short": "Matei",
+    "given": "Matei"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-apostol-evanghelist-matei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ap-si-evanghelist-matei/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

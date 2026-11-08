@@ -1,0 +1,21 @@
+{
+  "id": "alexie-of-goloseev",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Alexie de la Goloseev",
+    "full": "Sfântul Cuvios Alexie de la Goloseev",
+    "short": "Alexie de la Goloseev",
+    "given": "Alexie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-alexie-de-la-goloseev",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

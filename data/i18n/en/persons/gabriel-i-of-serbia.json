@@ -1,0 +1,28 @@
+{
+  "id": "gabriel-i-of-serbia",
+  "locale": "en",
+  "names": {
+    "display": "Saint Gabriel I, Patriarch of Serbia",
+    "short": "Gabriel I, Patriarch of Serbia",
+    "given": "Gabriel",
+    "variants": [
+      "Hieromartyr Gabriel of Serbia"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/30/102440-saint-gabriel-i-patriarch-of-serbia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/13/108071-hieromartyrgabrielofserbia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

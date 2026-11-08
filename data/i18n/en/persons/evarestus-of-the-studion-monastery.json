@@ -1,0 +1,20 @@
+{
+  "id": "evarestus-of-the-studion-monastery",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Evarestus of the Studion Monastery",
+    "short": "Evarestus of the Studion Monastery",
+    "given": "Evarestus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/26/103651-venerable-evarestus-of-the-studion-monastery",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "theophany--afterfeast",
+  "locale": "ro",
+  "names": {
+    "display": "După-prăznuirea Botezului Domnului"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/dupa-praznuirea-botezului-domnului",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

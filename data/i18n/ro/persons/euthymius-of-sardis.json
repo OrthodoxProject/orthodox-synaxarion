@@ -1,0 +1,21 @@
+{
+  "id": "euthymius-of-sardis",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Eftimie, Episcopul Sardelor",
+    "full": "Sfântul Mucenic Eftimie, Episcopul Sardelor",
+    "short": "Eftimie, Episcopul Sardelor",
+    "given": "Eftimie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-eftimie-episcopul-sardelor",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

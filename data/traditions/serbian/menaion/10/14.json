@@ -6,6 +6,27 @@
       "commemorations": [
         "comm:paraskeva-of-the-balkans--repose"
       ]
+    },
+    {
+      "commemorations": [
+        "comm:gervasius--repose",
+        "comm:nazarius--repose",
+        "comm:protasius--repose",
+        "comm:celsus-of-milan--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:silvanus-of-gaza--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:icon-of-theotokos-of-yakhrom"
+      ],
+      "confidence": "low"
     }
   ]
 }

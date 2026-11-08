@@ -1,0 +1,30 @@
+{
+  "tradition": "serbian",
+  "date": "02-27",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:raphael-of-brooklyn--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:prokopios-the-confessor-of-decapolis--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:thalelaios-the-hermit-of-syria--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:leander-of-seville--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

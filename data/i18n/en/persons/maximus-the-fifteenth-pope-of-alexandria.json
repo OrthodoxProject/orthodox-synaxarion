@@ -1,0 +1,20 @@
+{
+  "id": "maximus-the-fifteenth-pope-of-alexandria",
+  "locale": "en",
+  "names": {
+    "display": "Holy Father Anba Maximus The Fifteenth Pope of Alexandria",
+    "short": "Maximus The Fifteenth Pope of Alexandria",
+    "given": "Maximus"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/8_14.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

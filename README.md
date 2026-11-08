@@ -9,7 +9,7 @@ Orthodox Saints of the World: an open, structured, multilingual synaxarion of th
 </div>
 
 
-**Status:** schema v0.1, with 17 edge-case examples. All records are drafts awaiting review.
+**Status:** schema v0.1. The dataset holds 3,923 holy persons (saints, the Theotokos, archangels) and 4,769 commemorations, with complete Romanian, Russian and Coptic calendars: 17 edge-case examples, and the rest imported from the sources in `data/sources/`. All records are drafts awaiting review.
 
 ## Documentation
 
@@ -34,6 +34,14 @@ npm run generate -- --year 2026
 ```
 
 `npm run generate` computes every day of the year for each tradition (fixed and movable commemorations, transfers, tone, Resurrection Gospel, fasting, readings, public holidays) into `build/days/`.
+
+## Importing from the sources
+
+```bash
+npm run import
+```
+
+`npm run import` reads the sources listed in `data/sources/` (the official calendar of the Romanian Patriarchate, doxologia.ro, the OCA lives of the saints, the local lists of orthodox-calendar, the Coptic Synaxarium of copticchurch.net and st-takla.org, and the Armenian calendar of armenianchurch.ge) and adds the saints and feasts they list to `data/`: persons, groups, icons, commemorations, their names in Romanian and English, and the calendar lines of each tradition. It takes only facts (names, days, crosses, links), never the texts of the lives. The same saint found in several sources becomes one record. Pages are cached in `build/cache/`, and robots.txt and the sites' crawl delays are honoured, so the first run takes about two hours; `--offline` works from the cache only and `--dry-run` only reports. Existing records are never rewritten. Run `npm run format` and `npm run check` afterwards. See [docs/SCHEMA.md](docs/SCHEMA.md#importul-din-surse) for how the sources are matched.
 
 ## Website
 
@@ -70,6 +78,6 @@ npm run wiki
 
 - `schema/`: JSON Schema (draft 2020-12) for every kind of data file
 - `data/`: the dataset (language-neutral records, traditions' calendars, and `data/i18n/<locale>/` for every text)
-- `tools/`: validator, formatter, calendar generator and wiki generator (TypeScript, run directly by Node)
+- `tools/`: validator, formatter, calendar generator, wiki generator and importer (TypeScript, run directly by Node)
 - `site/`: the website (Astro pages that read `data/` through the tools)
 - `tests/`: tests for the tools

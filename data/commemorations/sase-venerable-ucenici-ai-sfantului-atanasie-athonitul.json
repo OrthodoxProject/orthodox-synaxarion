@@ -1,0 +1,26 @@
+{
+  "id": "sase-venerable-ucenici-ai-sfantului-atanasie-athonitul",
+  "kind": "repose",
+  "subjects": [
+    "group:sase-venerable-ucenici-ai-sfantului-atanasie-athonitul"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 5
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cei-sase-cuviosi-ucenici-ai-sfantului-atanasie-athonitul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

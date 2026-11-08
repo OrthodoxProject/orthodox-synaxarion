@@ -1,0 +1,29 @@
+{
+  "id": "kirion-ii-of-all-georgia--06-27",
+  "kind": "repose",
+  "subjects": [
+    "person:kirion-ii-of-all-georgia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 27
+  },
+  "external_ids": {
+    "oca": "205447"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/27/205447-hieromartyr-kirion-ii-catholicos-patriarch-of-all-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

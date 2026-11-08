@@ -1,0 +1,21 @@
+{
+  "id": "ilarion-criteanul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Nou Mc. Ilarion Criteanul",
+    "full": "Sfântul Cuvios Nou Mucenic Ilarion Criteanul",
+    "short": "Ilarion Criteanul",
+    "given": "Ilarion"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-nou-mucenic-ilarion-criteanul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

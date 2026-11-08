@@ -1,0 +1,26 @@
+{
+  "id": "calliopius-at-pompeiopolis-in-cilicia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Caliopie",
+    "full": "Sfântul Mucenic Caliopie",
+    "short": "Caliopie",
+    "given": "Caliopie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-caliopie",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sfanta-si-marea-marti-denie-sf-mc-caliopie-sf-ier-gheorghe-marturisitorul-episcopul-mitilenei/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

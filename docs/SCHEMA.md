@@ -18,7 +18,8 @@ npm run check
 |---|---|
 | `npm run validate` | validează `data/` (schema, apoi regulile dintre fișiere); se oprește cu cod 1 dacă există erori |
 | `npm run format` | rescrie fișierele în formatul canonic: JSON cu 2 spații, LF, Unicode NFC, ș/ț cu virgulă în fișierele românești |
-| `npm test` | testează validatorul |
+| `npm run import` | importă sfinții și praznicele din sursele din `data/sources/` (vezi [Importul din surse](#importul-din-surse)) |
+| `npm test` | testează validatorul, calendarul, wiki-ul și importul |
 
 Cerință: Node 24 sau mai nou (Node rulează direct fișierele TypeScript din `tools/`, fără compilare).
 
@@ -114,6 +115,35 @@ O linie din calendar are una sau mai multe pomeniri tipărite împreună, plus s
 5. Așază pomenirea în calendarul fiecărei tradiții care o cinstește: `data/traditions/<tradiție>/menaion/MM/DD.json`.
 6. Rulează `npm run format`, apoi `npm run check`, și deschide un PR.
 
+## Importul din surse
+
+```bash
+npm run import
+```
+
+`npm run import` (`tools/import.ts`) citește sursele din `data/sources/` și adaugă în `data/` sfinții, praznicele, moaștele și icoanele pe care le listează. Se iau doar fapte: numele, ziua, crucea din calendar și linkul paginii. Viețile și imnurile nu se copiază, fiindcă sursele nu au licență liberă.
+
+| Sursă | Ce se ia | Unde ajunge |
+|---|---|---|
+| calendar.patriarhia.ro | titlul oficial al fiecărei zile din 2026, cu crucile și culorile lor | calendarul BOR (`romanian`), `official_titles` și semnele rândurilor |
+| doxologia.ro | sfinții fiecărei zile din calendarul lunar, cu pagina fiecăruia | calendarul BOR, numele în română, `external_ids.doxologia` |
+| oca.org (Lives of the Saints) | pomenirile fiecărei zile, cu ID-ul OCA | calendarul rusesc (`russian`), numele în engleză, `external_ids.oca` |
+| orthodox-calendar | listele de sfinți locali ruși și sârbi (doar indexul: zi, nume, link) | `russian`, `serbian`; lista românească doar completează sfinții deja găsiți |
+| copticchurch.net, st-takla.org | sinaxarul copt, cu linkurile zilelor | calendarul copt (`coptic`), numele în engleză |
+| armenianchurch.ge | praznicele și pomenirile armene, grupate pe luni | `traditions/armenian/movable.json`, cu regulă `unspecified` |
+
+Cum lucrează:
+
+- **Descărcarea** respectă `robots.txt` și pauza cerută de fiecare site (OCA cere 10 secunde între pagini), deci prima rulare durează cam două ore. Paginile rămân în `build/cache/` (necomis); `--offline` lucrează doar cu ele, `--dry-run` doar raportează. Ca să descarci din nou (de exemplu calendarul unui an nou), șterge `build/cache/`.
+- **O nouă rulare** recunoaște ce a importat deja (după ID-ul OCA, pagina doxologia, titlul oficial al rândului sau linkul sursei) și adaugă doar ce lipsește.
+- **Aceeași pomenire din surse diferite** devine o singură înregistrare: în aceeași zi, numele se compară după o cheie de transliterare (*Pigasie* / *Pegasius*, *Hristofor* / *Christopher*), după un tabel de echivalențe (*Ioan* / *John*, *Vasile* / *Basil*) și după epitete și locuri (*din Veria* nu e *of Dymsk*). Același sfânt în altă zi (aceeași pagină doxologia, același nume complet) rămâne aceeași persoană, cu încă o pomenire.
+- **Pomenirile fixe ale OCA** sunt cele care cad în aceeași zi în 2026 și în 2028; celelalte țin de ciclul mobil și se lasă deoparte. La fel, duminicile, Săptămâna Mare și celelalte zile mobile din calendarul românesc.
+- **Patriarhia Ecumenică și Biserica Sârbă** primesc pomenirile pe care le au și calendarul BOR, și cel al OCA (Mineiul bizantin comun), cu `confidence: low`, plus sfinții locali sârbi. Biserica Greciei rămâne de completat.
+- **Sfinții universali** (Maica Domnului, arhanghelii, apostolii, prorocii, Sf. Ioan Botezătorul) din sinaxarul copt și din calendarul armean trimit la aceleași persoane ca în calendarele bizantine.
+- **Înregistrările existente nu se rescriu**: importul le recunoaște și le pune doar în calendarele în care lipseau; rândurile noi se adaugă după cele existente ale zilei. Toate înregistrările noi sunt ciorne, cu sursele lor și cu nota „Importat automat … de verificat” în `editorial.notes`.
+
+Ce rămâne de lucru după import: numele în limba care lipsește (sfinții găsiți doar în română sau doar în engleză apar ca avertismente `i18n.missing-locale`), zilele armene, chipul sfințeniei acolo unde titlul nu-l spune (notat în `editorial.notes`), și revizuirea potrivirilor făcute automat.
+
 ## Ce verifică validatorul
 
 Fiecare problemă are un cod stabil. Erorile opresc CI-ul; avertismentele doar semnalează.
@@ -139,13 +169,14 @@ Fiecare problemă are un cod stabil. Erorile opresc CI-ul; avertismentele doar s
 
 ## Exemplele din v0.1
 
-Datele din `data/` sunt 17 cazuri-limită alese ca să pună schema la încercare (grupuri de sfinți, 29 februarie, sărbători mobile, mutări, aceeași pomenire în tradiții diferite, sfinți cinstiți într-o singură familie de Biserici), plus Adormirea Maicii Domnului, Sf. Roman Melodul (autorul condacului Nașterii), Sf. Cuv. Gherman din Dobrogea și Sf. Doamnă Maria Brâncoveanu. Pe scurt:
+Datele din `data/` au pornit de la 17 cazuri-limită alese ca să pună schema la încercare (grupuri de sfinți, 29 februarie, sărbători mobile, mutări, aceeași pomenire în tradiții diferite, sfinți cinstiți într-o singură familie de Biserici), plus Adormirea Maicii Domnului, Sf. Roman Melodul (autorul condacului Nașterii), Sf. Cuv. Gherman din Dobrogea și Sf. Doamnă Maria Brâncoveanu: 28 de persoane, 4 grupuri, 28 de pomeniri, 27 de locuri, o icoană, 2 imne, 9 surse. Titlurile, semnele și lecturile BOR ale acestor exemple vin din calendarul oficial pe 2026.
 
-- 28 de persoane, 4 grupuri, 28 de pomeniri, 27 de locuri, o icoană, 2 imne, 9 surse;
+Restul vine din [importul din surse](#importul-din-surse). Pe scurt, acum:
+
+- 3.923 de persoane (1.561 cu nume în română, 3.252 în engleză, 890 în ambele), 355 de grupuri, 4.769 de pomeniri, 306 icoane;
+- calendarul BOR are toate cele 366 de zile (1.625 de rânduri, 765 cu titlul oficial), cel rusesc 366 de zile (2.855 de rânduri), cele ale Patriarhiei Ecumenice și Serbiei câte 354 de zile (896 și 979 de rânduri, cu încredere scăzută), cel copt 365 de zile (696 de rânduri); cele 146 de pomeniri armene așteaptă regula zilei;
 - 8 tradiții: BOR, Patriarhia Ecumenică, Biserica Greciei, Rusia, Serbia (Biserici răsăritene), copți și armeni (Biserici orientale), Biserica Asiriană a Răsăritului;
 - texte în 8 limbi: română, engleză, greacă (modernă și bizantină), rusă, sârbă (chirilică), armeană, arabă.
-
-Titlurile, semnele și lecturile BOR vin din calendarul oficial pe 2026; legăturile OCA și coptice vin din datele orthodox-calendar.
 
 **Toate înregistrările sunt ciorne** (`editorial.status: draft`) și trebuie revizuite înainte de publicare. Ce mai e de verificat e notat în `editorial.notes`.
 
@@ -174,7 +205,7 @@ Comanda scrie zilele fiecărei tradiții în `build/days/<tradiție>/<an>/<MM-DD
 Cum calculează motorul (`tools/lib/calendar.ts`, `tools/lib/days.ts`):
 
 - **Data bisericească**: stilul vechi e calendarul iulian; stilul nou e calculat ca gregorian, ceea ce e exact între 1600 și 2799. Înainte de data din `calendar_history`, tradiția folosește stilul vechi; în 1900 diferența dintre stiluri era de 12 zile, apoi de 13.
-- **29 februarie**: în anii nebisecți, rândurile din `menaion/02/29.json` trec la data din `non_leap` a primei pomeniri (implicit 28 februarie).
+- **29 februarie**: în anii nebisecți, rândurile din `menaion/02/29.json` trec la data din `non_leap` a primei pomeniri (implicit 28 februarie), înaintea rândurilor proprii ale zilei, cum le tipărește calendarul oficial.
 - **Paștile**: pascalia iuliană sau gregoriană, după `paschalion`.
 - **Mutări** (`transfers`): perioadele se măsoară în zile față de Paști: săptămâna brânzei −55…−49, Postul Mare −48…−9, Săptămâna Mare −6…−1, Paștile 0, Săptămâna Luminată 1…6, Triodul −70…−1, Penticostarul 0…56. `before_pascha` înseamnă între −70 și −1. Se mută doar rândurile cu dată fixă.
 - **Glasul**: glasul 1 începe în Duminica Tomii și se schimbă duminica, ciclic; de la Florii până în Sâmbăta Luminată nu există glasul săptămânii.

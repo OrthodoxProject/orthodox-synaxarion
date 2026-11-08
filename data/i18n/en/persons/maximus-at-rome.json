@@ -1,0 +1,20 @@
+{
+  "id": "maximus-at-rome",
+  "locale": "en",
+  "names": {
+    "display": "Virgin Martyr Maximus at Rome",
+    "short": "Maximus at Rome",
+    "given": "Maximus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/22/103365-virgin-martyr-cecilia-and-the-holy-martyrs-valerian-tiburtius-an",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

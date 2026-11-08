@@ -1,0 +1,29 @@
+{
+  "id": "weeping-tikhvin-icon-of-theotokos-on-mount-athos",
+  "kind": "icon",
+  "subjects": [
+    "icon:weeping-tikhvin-icon-of-theotokos-on-mount-athos"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 17
+  },
+  "external_ids": {
+    "oca": "100552"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/17/100552-weeping-tikhvin-icon-of-the-mother-of-god-on-mount-athos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

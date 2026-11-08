@@ -1,0 +1,20 @@
+{
+  "id": "menas-of-sinai",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Menas of Sinai",
+    "short": "Menas of Sinai",
+    "given": "Menas"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/05/100103-venerable-menas-of-sinai",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

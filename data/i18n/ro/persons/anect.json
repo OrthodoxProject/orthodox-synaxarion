@@ -1,0 +1,21 @@
+{
+  "id": "anect",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Anect",
+    "full": "Sfântul Mucenic Anect",
+    "short": "Anect",
+    "given": "Anect"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-anect",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

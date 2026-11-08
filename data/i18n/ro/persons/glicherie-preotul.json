@@ -1,0 +1,21 @@
+{
+  "id": "glicherie-preotul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Glicherie preotul",
+    "full": "Sfântul Sfințit Mucenic Glicherie preotul",
+    "short": "Glicherie preotul",
+    "given": "Glicherie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-sfintit-mucenic-glicherie-preotul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

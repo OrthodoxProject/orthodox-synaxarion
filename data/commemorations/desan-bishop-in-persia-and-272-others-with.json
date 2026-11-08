@@ -1,0 +1,29 @@
+{
+  "id": "desan-bishop-in-persia-and-272-others-with",
+  "kind": "repose",
+  "subjects": [
+    "group:desan-bishop-in-persia-and-272-others-with"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 9
+  },
+  "external_ids": {
+    "oca": "101036"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/09/101036-hieromartyr-desan-bishop-in-persia-and-272-others-with-him",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

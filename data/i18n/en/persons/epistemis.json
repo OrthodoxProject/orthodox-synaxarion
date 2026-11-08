@@ -1,0 +1,20 @@
+{
+  "id": "epistemis",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Epistemis, at Emesa",
+    "short": "Epistemis, at Emesa",
+    "given": "Epistemis"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/05/103176-martyrs-galaction-and-his-wife-epistemis-at-emesa",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

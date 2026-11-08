@@ -1,0 +1,40 @@
+{
+  "tradition": "romanian",
+  "date": "04-24",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:ilie-iorest-of-transilvania--repose",
+        "comm:simion-stefan-of-transilvania--repose",
+        "comm:savva-brancovici-of-ardeal--repose"
+      ],
+      "symbol": "blue-half-parenthesized"
+    },
+    {
+      "commemorations": [
+        "comm:joseph-the-confessor-of-maramures--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:pasicrat-of-durostorum--repose",
+        "comm:valentine-of-durostorum--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:elizabeth--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:xenofon-ctitorul--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:savva-stratelates-the-general-of-rome--repose"
+      ]
+    }
+  ]
+}

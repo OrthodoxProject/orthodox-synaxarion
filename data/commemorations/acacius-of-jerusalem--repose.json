@@ -1,0 +1,30 @@
+{
+  "id": "acacius-of-jerusalem--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:acacius-of-jerusalem"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 29,
+    "calendar": "coptic"
+  },
+  "external_ids": {
+    "copticchurch": "8_29#2"
+  },
+  "sources": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/8_29.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din copticchurch.net; de verificat."
+    ]
+  }
+}

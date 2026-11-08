@@ -1,0 +1,20 @@
+{
+  "id": "athanasius-of-medikion-monastery",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Athanasius of Medikion Monastery",
+    "short": "Athanasius of Medikion Monastery",
+    "given": "Athanasius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/26/103063-venerable-athanasius-of-medikion-monastery",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

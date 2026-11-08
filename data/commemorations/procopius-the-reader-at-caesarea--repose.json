@@ -1,0 +1,29 @@
+{
+  "id": "procopius-the-reader-at-caesarea--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:procopius-the-reader-at-caesarea"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 22
+  },
+  "external_ids": {
+    "oca": "103369"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/22/103369-martyr-procopius-the-reader-at-caesarea-in-palestine",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

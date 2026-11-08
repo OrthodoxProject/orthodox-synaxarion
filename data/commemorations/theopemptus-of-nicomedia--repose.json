@@ -1,0 +1,39 @@
+{
+  "id": "theopemptus-of-nicomedia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:theopemptus-of-nicomedia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 5
+  },
+  "external_ids": {
+    "oca": "100097"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-teopempt",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-teopempt-si-teonas-sf-cuv-sinclitichia-ajunul-botezului-domnului-post-duminica-dinaintea-botezului-domnului-ap-2-timotei-4-5-8-ev-marcu-1-1-8-predica-sfantului-ioan-botezatoru/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/05/100097-hieromartyr-theopemptus-bishop-of-nicomedia-and-martyr-theonas",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

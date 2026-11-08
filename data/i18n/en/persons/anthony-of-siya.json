@@ -1,0 +1,20 @@
+{
+  "id": "anthony-of-siya",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Anthony, Abbot of Siya, Novgorod",
+    "short": "Anthony, Abbot of Siya, Novgorod",
+    "given": "Anthony"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/07/103486-venerable-anthony-abbot-of-siya-novgorod",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

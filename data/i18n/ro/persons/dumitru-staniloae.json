@@ -1,0 +1,29 @@
+{
+  "id": "dumitru-staniloae",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Preot Mărt. Dumitru Stăniloae",
+    "full": "Sfântul Preot Mărturisitor Dumitru Stăniloae",
+    "short": "Dumitru Stăniloae",
+    "given": "Dumitru",
+    "variants": [
+      "Sf. Preot Mărturisitor Dumitru Stăniloae"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-preot-marturisitor-dumitru-staniloae",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-preot-marturisitor-dumitru-staniloae-sf-sfintit-mc-ierotei-episcopul-atenei-duminica-a-19-a-dupa-rusalii-ap-2-corinteni-11-31-33-12-1-9-ev-luca-6-31-36-predica-de-pe-munte/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

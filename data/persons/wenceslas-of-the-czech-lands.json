@@ -1,0 +1,25 @@
+{
+  "id": "wenceslas-of-the-czech-lands",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "right_believing"
+  ],
+  "external_ids": {
+    "oca": "103708"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/04/103708-right-believing-prince-wenceslas-of-the-czech-lands",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

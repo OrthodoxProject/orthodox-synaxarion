@@ -1,0 +1,21 @@
+{
+  "id": "cosmas-of-chalcedon",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Cosma Mărturisitorul, Episcopul Calcedonului",
+    "full": "Sfântul Ierarh Cosma Mărturisitorul, Episcopul Calcedonului",
+    "short": "Cosma Mărturisitorul, Episcopul Calcedonului",
+    "given": "Cosma"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-cosma-marturisitorul-episcopul-calcedonului",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

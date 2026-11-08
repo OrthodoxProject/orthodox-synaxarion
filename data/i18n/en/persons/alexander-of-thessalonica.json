@@ -1,0 +1,23 @@
+{
+  "id": "alexander-of-thessalonica",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Alexander of Thessalonica",
+    "short": "Alexander of Thessalonica",
+    "given": "Alexander",
+    "variants": [
+      "Holy New Martyr Alexander of Thessalonica (1794)"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/09/103256-martyr-alexander-of-thessalonica",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

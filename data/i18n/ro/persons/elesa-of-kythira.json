@@ -1,0 +1,21 @@
+{
+  "id": "elesa-of-kythira",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Elesa (Eliza) din Kythira",
+    "full": "Sfânta Muceniță Elesa (Eliza) din Kythira",
+    "short": "Elesa (Eliza) din Kythira",
+    "given": "Elesa"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-elesa-eliza-din-kythira",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

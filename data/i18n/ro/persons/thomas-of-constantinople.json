@@ -1,0 +1,21 @@
+{
+  "id": "thomas-of-constantinople",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Toma, Patriarhul Constantinopolului",
+    "full": "Sfântul Ierarh Toma, Patriarhul Constantinopolului",
+    "short": "Toma, Patriarhul Constantinopolului",
+    "given": "Toma"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-toma-patriarhul-constantinopolului",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

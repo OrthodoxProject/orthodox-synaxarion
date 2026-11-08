@@ -1,0 +1,34 @@
+{
+  "id": "kursk-root-icon-of-theotokos-of-the-sign",
+  "kind": "icon",
+  "subjects": [
+    "icon:kursk-root-icon-of-theotokos-of-the-sign"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 8
+  },
+  "external_ids": {
+    "oca": "100705"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoanei-maicii-domnului-semnului-radacinii-din-kursk",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/08/100705-kursk-root-icon-of-the-mother-of-god-of-the-sign",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, oca.org; de verificat."
+    ]
+  }
+}

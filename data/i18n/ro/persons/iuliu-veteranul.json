@@ -1,0 +1,26 @@
+{
+  "id": "iuliu-veteranul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Iuliu Veteranul",
+    "full": "Sfântul Mucenic Iuliu Veteranul",
+    "short": "Iuliu Veteranul",
+    "given": "Iuliu"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-iuliu-veteranul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-iuliu-veteranul-sf-sfintiti-mc-eladie-si-terapont-episcopul-sardei-sf-mart-ioan-rusul-dezlegare-la-peste/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

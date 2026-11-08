@@ -1,0 +1,25 @@
+{
+  "tradition": "serbian",
+  "date": "04-05",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:agathopodes-the-deacon--repose",
+        "comm:theodulus-the-reader-at-thessalonica--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:theodora-of-thessalonica--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:claudius-2--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

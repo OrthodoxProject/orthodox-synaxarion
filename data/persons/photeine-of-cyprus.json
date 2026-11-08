@@ -1,0 +1,25 @@
+{
+  "id": "photeine-of-cyprus",
+  "kind": "saint",
+  "gender": "female",
+  "holiness_types": [
+    "wonderworker"
+  ],
+  "external_ids": {
+    "oca": "100534"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/02/100534-saint-photeine-of-cyprus-wonderworker",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

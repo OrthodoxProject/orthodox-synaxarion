@@ -1,0 +1,29 @@
+{
+  "id": "joy-of-all-who-sorrow-icon-of-theotokos",
+  "kind": "icon",
+  "subjects": [
+    "icon:joy-of-all-who-sorrow-icon-of-theotokos"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 24
+  },
+  "external_ids": {
+    "oca": "103052"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/24/103052-joy-of-all-who-sorrow-icon-of-the-mother-of-god",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

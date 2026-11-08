@@ -1,0 +1,29 @@
+{
+  "id": "basil-the-great-of-caesarea--commemoration-miracle-basil-great",
+  "kind": "event",
+  "subjects": [
+    "person:basil-the-great-of-caesarea"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 19
+  },
+  "external_ids": {
+    "oca": "100204"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/19/100204-commemoration-of-the-miracle-of-saint-basil-the-great-at-nicaea",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

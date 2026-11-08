@@ -1,0 +1,20 @@
+{
+  "id": "micah",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Micah, disciple of Venerable Sergius of Radonezh",
+    "short": "Micah, disciple of Venerable Sergius of Radonezh",
+    "given": "Micah"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/06/101307-venerable-micah-disciple-of-venerable-sergius-of-radonezh",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

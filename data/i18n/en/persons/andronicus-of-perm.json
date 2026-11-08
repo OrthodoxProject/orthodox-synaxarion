@@ -1,0 +1,20 @@
+{
+  "id": "andronicus-of-perm",
+  "locale": "en",
+  "names": {
+    "display": "New Martyr Archbishop Andronicus of Perm",
+    "short": "Andronicus of Perm",
+    "given": "Andronicus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/04/149048-new-martyr-archbishop-andronicus-of-perm",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

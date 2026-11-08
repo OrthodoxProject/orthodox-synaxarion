@@ -1,0 +1,21 @@
+{
+  "id": "john-of-kronstadt",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ioan de Kronstadt",
+    "full": "Sfântul Ioan de Kronstadt",
+    "short": "Ioan de Kronstadt",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ioan-de-kronstadt",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

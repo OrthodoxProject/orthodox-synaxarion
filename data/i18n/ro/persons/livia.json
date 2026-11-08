@@ -1,0 +1,26 @@
+{
+  "id": "livia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Livia",
+    "full": "Sfânta Muceniță Livia",
+    "short": "Livia",
+    "given": "Livia"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-livia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-mc-fevronia-sf-mc-orentie-si-fratii-sai-sf-mc-livia/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "grigorie-khandzteli-of-georgia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Grigorie Khandzteli din Georgia",
+    "full": "Sfântul Grigorie Khandzteli din Georgia",
+    "short": "Grigorie Khandzteli din Georgia",
+    "given": "Grigorie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-grigorie-khandzteli-din-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

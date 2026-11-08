@@ -1,0 +1,28 @@
+{
+  "id": "150-men-and-24-women-from-ansena",
+  "kind": "martyrs",
+  "count": {
+    "value": 150,
+    "precision": "exact"
+  },
+  "holiness_types": [
+    "martyr"
+  ],
+  "external_ids": {
+    "copticchurch": "4_28#1"
+  },
+  "sources": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/4_28.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din copticchurch.net; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "tradition": "serbian",
+  "date": "05-29",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:theodore-of-vrsac-2--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:vukasin-of-klepci-2--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:theodosia-of-tyre--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

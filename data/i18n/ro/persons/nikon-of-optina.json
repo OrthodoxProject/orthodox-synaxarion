@@ -1,0 +1,21 @@
+{
+  "id": "nikon-of-optina",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Nicon de la Optina",
+    "full": "Sfântul Nicon de la Optina",
+    "short": "Nicon de la Optina",
+    "given": "Nicon"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-nicon-de-la-optina",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

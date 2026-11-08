@@ -1,0 +1,29 @@
+{
+  "id": "vladimir",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Vladimir, Luminătorul Rusiei",
+    "full": "Sfântul Vladimir, Luminătorul Rusiei",
+    "short": "Vladimir, Luminătorul Rusiei",
+    "given": "Vladimir",
+    "variants": [
+      "Sf. Vladimir, luminătorul Rusiei"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-vladimir-luminatorul-rusiei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-chiric-si-iulita-sf-vladimir-luminatorul-rusiei/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

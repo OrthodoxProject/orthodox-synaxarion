@@ -1,0 +1,20 @@
+{
+  "id": "anastasius-of-epirus",
+  "locale": "en",
+  "names": {
+    "display": "New Martyr Anastasius of Epirus",
+    "short": "Anastasius of Epirus",
+    "given": "Anastasius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/18/205396-new-martyr-anastasius-of-epirus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "emilian-the-confessor-of-cyzicus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Emilian Mărturisitorul",
+    "full": "Sfântul Cuvios Emilian Mărturisitorul",
+    "short": "Emilian Mărturisitorul",
+    "given": "Emilian"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-emilian-marturisitorul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

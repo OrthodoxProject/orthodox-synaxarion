@@ -1,0 +1,21 @@
+{
+  "id": "basil-the-confessor-of-parium",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Vasile Mărturisitorul, Episcopul Pariei",
+    "full": "Sfântul Ierarh Vasile Mărturisitorul, Episcopul Pariei",
+    "short": "Vasile Mărturisitorul, Episcopul Pariei",
+    "given": "Vasile"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-vasile-marturisitorul-episcopul-pariei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

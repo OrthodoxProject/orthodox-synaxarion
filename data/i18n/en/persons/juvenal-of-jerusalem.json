@@ -1,0 +1,20 @@
+{
+  "id": "juvenal-of-jerusalem",
+  "locale": "en",
+  "names": {
+    "display": "Saint Juvenal, Patriarch of Jerusalem",
+    "short": "Juvenal, Patriarch of Jerusalem",
+    "given": "Juvenal"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/02/101868-saint-juvenal-patriarch-of-jerusalem",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

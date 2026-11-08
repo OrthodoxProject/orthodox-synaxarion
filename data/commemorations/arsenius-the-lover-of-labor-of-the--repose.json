@@ -1,0 +1,29 @@
+{
+  "id": "arsenius-the-lover-of-labor-of-the--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:arsenius-the-lover-of-labor-of-the"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 8
+  },
+  "external_ids": {
+    "oca": "107788"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/08/107788-venerable-arsenius-the-lover-of-labor-of-the-kiev-far-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

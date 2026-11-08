@@ -1,0 +1,29 @@
+{
+  "id": "paul-the-confessor-of-constantinople",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Pavel Mărturisitorul, Patriarhul Constantinopolului",
+    "full": "Sfântul Ierarh Pavel Mărturisitorul, Patriarhul Constantinopolului",
+    "short": "Pavel Mărturisitorul, Patriarhul Constantinopolului",
+    "given": "Pavel",
+    "variants": [
+      "Sf. Ier. Pavel Mărturisitorul, arhiepiscopul Constantinopolului"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-pavel-marturisitorul-patriarhul-constantinopolului",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ier-pavel-marturisitorul-arhiepiscopul-constantinopolului-sf-cuv-luca-din-sicilia/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

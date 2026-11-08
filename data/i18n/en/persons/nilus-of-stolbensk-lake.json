@@ -1,0 +1,20 @@
+{
+  "id": "nilus-of-stolbensk-lake",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Nilus of Stolbensk Lake",
+    "short": "Nilus of Stolbensk Lake",
+    "given": "Nilus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/07/103487-venerable-nilus-of-stolbensk-lake",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

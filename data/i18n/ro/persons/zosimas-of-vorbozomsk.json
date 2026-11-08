@@ -1,0 +1,21 @@
+{
+  "id": "zosimas-of-vorbozomsk",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Zosima",
+    "full": "Sfântul Cuvios Zosima",
+    "short": "Zosima",
+    "given": "Zosima"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-zosima",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

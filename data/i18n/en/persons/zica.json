@@ -1,0 +1,20 @@
+{
+  "id": "zica",
+  "locale": "en",
+  "names": {
+    "display": "Saint Žiča",
+    "short": "Žiča",
+    "given": "Žiča"
+  },
+  "references": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

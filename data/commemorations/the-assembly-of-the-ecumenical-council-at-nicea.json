@@ -1,0 +1,32 @@
+{
+  "id": "the-assembly-of-the-ecumenical-council-at-nicea",
+  "kind": "event",
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 9,
+    "calendar": "coptic"
+  },
+  "external_ids": {
+    "copticchurch": "3_9#2"
+  },
+  "sources": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/3_9.html?lang=en#2",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:st-takla-synaxarium",
+      "url": "https://st-takla.org/books/en/church/synaxarium/03-hatoor/09-hator-nicea.html",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din copticchurch.net, st-takla.org; de verificat."
+    ]
+  }
+}

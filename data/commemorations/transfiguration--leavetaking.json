@@ -1,0 +1,37 @@
+{
+  "id": "transfiguration--leavetaking",
+  "kind": "leavetaking",
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 13
+  },
+  "parent_feast": "comm:transfiguration",
+  "external_ids": {
+    "oca": "102284"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/odovania-praznicului-schimbarii-la-fata-domnului",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/odovania-praznicului-schimbarii-la-fata-a-domnului-mutarea-moastelor-sf-cuv-maxim-marturisitorul-sf-cuv-dorotei-si-dositei-din-gaza/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/13/102284-leavetaking-of-the-transfiguration-of-our-lord",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "demetrius-of-samarina-in-epirus--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:demetrius-of-samarina-in-epirus"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 17
+  },
+  "external_ids": {
+    "oca": "205402"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/17/205402-new-martyr-demetrius-of-samarina-in-epirus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "maximus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Maxim",
+    "short": "Maxim",
+    "given": "Maxim"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfintii-mucenici-maxim-cvintilian-dadas-din-ozovia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ap-iason-si-sosipatru-%e2%80%a0-sf-mc-maxim-cvintilian-si-dadas-din-ozovia/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

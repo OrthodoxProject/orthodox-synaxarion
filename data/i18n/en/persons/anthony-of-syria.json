@@ -1,0 +1,20 @@
+{
+  "id": "anthony-of-syria",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Anthony of Syria",
+    "short": "Anthony of Syria",
+    "given": "Anthony"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/01/100630-martyrs-marcellus-and-anthony-of-syria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

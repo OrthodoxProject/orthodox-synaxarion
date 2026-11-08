@@ -1,0 +1,26 @@
+{
+  "id": "donat-of-evria--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:donat-of-evria"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 30
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-donat-episcopul-evriei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

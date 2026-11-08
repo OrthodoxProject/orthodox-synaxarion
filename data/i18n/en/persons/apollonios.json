@@ -1,0 +1,20 @@
+{
+  "id": "apollonios",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Apollonios",
+    "short": "Apollonios",
+    "given": "Apollonios"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/14/103544-martyrs-philemon-apollonios-arrian-and-theonas-of-alexandria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

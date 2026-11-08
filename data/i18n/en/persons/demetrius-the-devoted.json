@@ -1,0 +1,20 @@
+{
+  "id": "demetrius-the-devoted",
+  "locale": "en",
+  "names": {
+    "display": "Saint Demetrius the Devoted, King of Georgia",
+    "short": "Demetrius the Devoted, King of Georgia",
+    "given": "Demetrius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/16/205472-saint-demetrius-the-devoted-king-of-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "hezekiah",
+  "locale": "en",
+  "names": {
+    "display": "Righteous Hezekiah",
+    "short": "Hezekiah",
+    "given": "Hezekiah"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/28/108967-righteous-hezekiah",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

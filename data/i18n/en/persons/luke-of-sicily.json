@@ -1,0 +1,20 @@
+{
+  "id": "luke-of-sicily",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Luke of Sicily",
+    "short": "Luke of Sicily",
+    "given": "Luke"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/06/103197-venerable-luke-of-sicily",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

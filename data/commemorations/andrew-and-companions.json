@@ -1,0 +1,31 @@
+{
+  "id": "andrew-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:andrew",
+    "person:paul-3",
+    "person:christina-who-suffered-under-decius"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 18
+  },
+  "external_ids": {
+    "oca": "101414"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/18/101414-martyrs-peter-dionysius-andrew-paul-and-christina-who-suffered-u",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

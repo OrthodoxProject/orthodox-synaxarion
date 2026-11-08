@@ -1,0 +1,20 @@
+{
+  "id": "peter-of-constantinople",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Peter of Constantinople",
+    "short": "Peter of Constantinople",
+    "given": "Peter"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/01/101862-venerable-peter-of-constantinople",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

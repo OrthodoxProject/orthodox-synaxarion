@@ -1,0 +1,20 @@
+{
+  "id": "coronatus-of-nicomedia",
+  "locale": "en",
+  "names": {
+    "display": "Saint Coronatus, Bishop of Nicomedia",
+    "short": "Coronatus, Bishop of Nicomedia",
+    "given": "Coronatus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/12/102591-saint-coronatus-bishop-of-nicomedia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

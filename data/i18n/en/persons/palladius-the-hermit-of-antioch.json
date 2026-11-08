@@ -1,0 +1,20 @@
+{
+  "id": "palladius-the-hermit-of-antioch",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Palladius the Hermit, of Antioch",
+    "short": "Palladius the Hermit, of Antioch",
+    "given": "Palladius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/28/100332-venerable-palladius-the-hermit-of-antioch",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ioan-carpatiul--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:ioan-carpatiul"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 25
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ioan-carpatiul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "uros-the-weak--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:uros-the-weak"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 15
+  },
+  "sources": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Uro%C5%A1_the_Weak"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din orthodox-calendar, Wikipedia; de verificat."
+    ]
+  }
+}

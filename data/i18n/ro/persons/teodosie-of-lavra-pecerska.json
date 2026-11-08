@@ -1,0 +1,21 @@
+{
+  "id": "teodosie-of-lavra-pecerska",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Teodosie de la Lavra Pecerska",
+    "full": "Sfântul Cuvios Teodosie de la Lavra Pecerska",
+    "short": "Teodosie de la Lavra Pecerska",
+    "given": "Teodosie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-teodosie-de-la-lavra-pecerska",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

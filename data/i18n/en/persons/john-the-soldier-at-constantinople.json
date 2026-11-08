@@ -1,0 +1,20 @@
+{
+  "id": "john-the-soldier-at-constantinople",
+  "locale": "en",
+  "names": {
+    "display": "Martyr John the Soldier at Constantinople",
+    "short": "John the Soldier at Constantinople",
+    "given": "John"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/30/102136-martyr-john-the-soldier-at-constantinople",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

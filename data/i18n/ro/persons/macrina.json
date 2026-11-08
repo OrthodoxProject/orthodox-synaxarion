@@ -1,0 +1,29 @@
+{
+  "id": "macrina",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Macrina, sora Sfântului Vasile cel Mare",
+    "full": "Sfânta Cuvioasă Macrina, sora Sfântului Vasile cel Mare",
+    "short": "Macrina, sora Sfântului Vasile cel Mare",
+    "given": "Macrina",
+    "variants": [
+      "Sf. Cuv. Macrina, sora Sf. Vasile cel Mare"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-macrina-sora-sfantului-vasile-cel-mare",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-macrina-sora-sf-vasile-cel-mare-sfintii-din-familia-sf-vasile-cel-mare-sf-cuv-die-aflarea-moastelor-sf-cuv-serafim-de-sarov-duminica-a-7-a-dupa-rusalii-a-sf-parinti-de-la-sinodul/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

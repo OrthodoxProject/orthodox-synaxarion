@@ -1,0 +1,20 @@
+{
+  "id": "luke-of-hellas",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Luke of Hellas",
+    "short": "Luke of Hellas",
+    "given": "Luke"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/07/100458-venerable-luke-of-hellas",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

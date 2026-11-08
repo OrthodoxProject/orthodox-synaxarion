@@ -1,0 +1,20 @@
+{
+  "id": "anthusa",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Anthusa",
+    "short": "Anthusa",
+    "given": "Anthusa"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/27/102410-martyr-anthusa",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

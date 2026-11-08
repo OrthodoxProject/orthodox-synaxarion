@@ -1,0 +1,29 @@
+{
+  "id": "maximus-the-new--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:maximus-the-new"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 18
+  },
+  "external_ids": {
+    "oca": "109029"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/18/109029-saint-maximus-the-new",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

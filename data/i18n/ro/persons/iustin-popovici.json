@@ -1,0 +1,21 @@
+{
+  "id": "iustin-popovici",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Iustin Popovici",
+    "full": "Sfântul Iustin Popovici",
+    "short": "Iustin Popovici",
+    "given": "Iustin"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-iustin-popovici",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

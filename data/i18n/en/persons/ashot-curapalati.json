@@ -1,0 +1,20 @@
+{
+  "id": "ashot-curapalati",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Ashot Curapalati, King of Artanuji",
+    "short": "Ashot Curapalati, King of Artanuji",
+    "given": "Ashot"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/29/103811-martyr-ashot-curapalati-king-of-artanuji",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

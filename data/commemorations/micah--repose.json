@@ -1,0 +1,29 @@
+{
+  "id": "micah--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:micah"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 6
+  },
+  "external_ids": {
+    "oca": "101307"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/06/101307-venerable-micah-disciple-of-venerable-sergius-of-radonezh",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "euthymios-of-rhodes--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:euthymios-of-rhodes"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 9
+  },
+  "external_ids": {
+    "oca": "100184"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/09/100184-hieromartyr-euthymios-of-rhodes",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

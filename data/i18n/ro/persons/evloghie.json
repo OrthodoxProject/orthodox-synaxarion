@@ -1,0 +1,21 @@
+{
+  "id": "evloghie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Evloghie",
+    "full": "Sfântul Mucenic Evloghie",
+    "short": "Evloghie",
+    "given": "Evloghie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-evloghie",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

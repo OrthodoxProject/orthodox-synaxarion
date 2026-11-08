@@ -1,0 +1,25 @@
+{
+  "id": "anba-amoun-and-the-righteous-sophia",
+  "kind": "martyrs",
+  "holiness_types": [
+    "righteous",
+    "martyr"
+  ],
+  "external_ids": {
+    "copticchurch": "10_4#2"
+  },
+  "sources": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/10_4.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din copticchurch.net; de verificat."
+    ]
+  }
+}

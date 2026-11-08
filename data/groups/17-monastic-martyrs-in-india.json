@@ -1,0 +1,28 @@
+{
+  "id": "17-monastic-martyrs-in-india",
+  "kind": "martyrs",
+  "count": {
+    "value": 17,
+    "precision": "exact"
+  },
+  "holiness_types": [
+    "venerable_martyr"
+  ],
+  "external_ids": {
+    "oca": "103406"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/27/103406-17-monastic-martyrs-in-india",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "orestes",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Orestes, Physician of Cappadocia",
+    "short": "Orestes, Physician of Cappadocia",
+    "given": "Orestes"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/10/103271-martyr-orestes-physician-of-cappadocia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

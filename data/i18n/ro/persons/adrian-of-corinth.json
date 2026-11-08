@@ -1,0 +1,21 @@
+{
+  "id": "adrian-of-corinth",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Adrian",
+    "full": "Sfântul Mucenic Adrian",
+    "short": "Adrian",
+    "given": "Adrian"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-adrian-0",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

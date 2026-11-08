@@ -1,0 +1,26 @@
+{
+  "id": "icon-of-theotokos-a-patimirilor--08-13",
+  "kind": "icon",
+  "subjects": [
+    "icon:icon-of-theotokos-a-patimirilor"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 13
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoanei-maicii-domnului-patimirilor",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

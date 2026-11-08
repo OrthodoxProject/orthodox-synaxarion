@@ -1,0 +1,28 @@
+{
+  "id": "eleutherius-of-constantinople",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Eleutherius of Constantinople",
+    "short": "Eleutherius of Constantinople",
+    "given": "Eleutherius",
+    "variants": [
+      "Martyr Eleutherius at Constantinople"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/04/102204-martyr-eleutherius-of-constantinople",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/15/103554-martyr-eleutherius-at-constantinople",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

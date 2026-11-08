@@ -1,0 +1,21 @@
+{
+  "id": "arsenius-of-paros",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Arsenie din Paros",
+    "full": "Sfântul Cuvios Arsenie din Paros",
+    "short": "Arsenie din Paros",
+    "given": "Arsenie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-arsenie-din-paros",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

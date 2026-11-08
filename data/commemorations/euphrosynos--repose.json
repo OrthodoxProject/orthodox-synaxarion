@@ -1,0 +1,29 @@
+{
+  "id": "euphrosynos--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:euphrosynos"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 15
+  },
+  "external_ids": {
+    "oca": "101390"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/15/101390-venerable-euphrosynos-igoumen-of-pskov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "paramon",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Paramon",
+    "full": "Sfântul Mucenic Paramon",
+    "short": "Paramon",
+    "given": "Paramon"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-paramon",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-paramon-si-filumen-sf-cuv-pitirun-dezlegare-la-peste/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

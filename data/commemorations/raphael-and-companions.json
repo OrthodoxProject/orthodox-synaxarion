@@ -1,0 +1,36 @@
+{
+  "id": "raphael-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:raphael",
+    "person:irene-of-lesbos",
+    "person:nicholas-of-insula-lesvos"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 9
+  },
+  "external_ids": {
+    "oca": "108897"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfintii-mucenici-rafail-irina-nicolae-din-insula-lesvos",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/09/108897-new-martyrs-raphael-nicholas-and-irene-of-lesbos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, oca.org; de verificat."
+    ]
+  }
+}

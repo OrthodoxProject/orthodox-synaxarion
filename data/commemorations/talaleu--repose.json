@@ -1,0 +1,31 @@
+{
+  "id": "talaleu--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:talaleu"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 20
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-talaleu",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/odovania-praznicului-invierii-domnului-sf-mc-talaleu-sf-cuv-talasie-sf-lidia-din-filipi-dezlegare-la-peste/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro; de verificat."
+    ]
+  }
+}

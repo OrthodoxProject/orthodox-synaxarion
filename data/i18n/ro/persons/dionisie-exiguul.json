@@ -1,0 +1,29 @@
+{
+  "id": "dionisie-exiguul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Dionisie Exiguul (cel Smerit)",
+    "full": "Sfântul Cuvios Dionisie Exiguul (cel Smerit)",
+    "short": "Dionisie Exiguul",
+    "given": "Dionisie",
+    "variants": [
+      "Sf. Cuv. Dionisie Exiguul"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-dionisie-exiguul-cel-smerit",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-inceputul-anului-bisericesc-%e2%80%a0-sf-cuv-dionisie-exiguul-sf-cuv-simeon-stalpnicul-sf-40-de-mucenite-din-adrianopol-dreptul-iosua-tedeum/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

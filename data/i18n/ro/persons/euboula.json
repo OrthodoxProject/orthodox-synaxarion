@@ -1,0 +1,29 @@
+{
+  "id": "euboula",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Euvula, mama Sfântului Pantelimon",
+    "full": "Sfânta Cuvioasă Euvula, mama Sfântului Pantelimon",
+    "short": "Euvula, mama Sfântului Pantelimon",
+    "given": "Euvula",
+    "variants": [
+      "Sf. Euvula, mama Sf. Pantelimon"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-euvula-mama-sfantului-pantelimon",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-ioan-scararul-sf-euvula-mama-sf-pantelimon/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

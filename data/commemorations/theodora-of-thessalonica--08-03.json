@@ -1,0 +1,39 @@
+{
+  "id": "theodora-of-thessalonica--08-03",
+  "kind": "repose",
+  "subjects": [
+    "person:theodora-of-thessalonica"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 3
+  },
+  "external_ids": {
+    "oca": "100348"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-teodora-din-tesalonic",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-marturisitor-iraclie-din-basarabia-sf-cuv-isaachie-dalmat-si-faust-sf-mironosita-salomeea-sf-cuv-teodora-din-tesalonic/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/03/100348-venerable-theodora-and-her-daughter-theopiste",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "crispina",
+  "locale": "en",
+  "names": {
+    "display": "Saint Crispina",
+    "short": "Crispina",
+    "given": "Crispina"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/05/149032-saint-crispina",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

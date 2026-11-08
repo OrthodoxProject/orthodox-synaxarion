@@ -1,0 +1,26 @@
+{
+  "id": "recovery-of-the-relics-and-the-second-glorification--finding-of-relics",
+  "kind": "event",
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 12
+  },
+  "external_ids": {
+    "oca": "101699"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/12/101699-recovery-of-the-relics-1650-and-the-second-glorification-1909-of",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

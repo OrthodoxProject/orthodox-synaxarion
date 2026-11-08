@@ -1,0 +1,30 @@
+{
+  "id": "ioana-mironosita",
+  "kind": "saint",
+  "gender": "female",
+  "holiness_types": [
+    "myrrhbearer"
+  ],
+  "external_ids": {
+    "doxologia": "sfanta-ioana-mironosita"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-ioana-mironosita",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-samson-primitorul-de-straini-sf-mironosita-ioana-dezlegare-la-peste/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "99-martyred-fathers-of-crete",
+  "kind": "repose",
+  "subjects": [
+    "group:99-martyred-fathers-of-crete"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 7
+  },
+  "external_ids": {
+    "oca": "102897"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/07/102897-99-martyred-fathers-of-crete",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

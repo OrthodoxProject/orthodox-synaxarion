@@ -1,0 +1,29 @@
+{
+  "id": "methodius-of-constantinople",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Metodie, Patriarhul Constantinopolului",
+    "full": "Sfântul Ierarh Metodie, Patriarhul Constantinopolului",
+    "short": "Metodie, Patriarhul Constantinopolului",
+    "given": "Metodie",
+    "variants": [
+      "Sf. Ier. Metodie Mărturisitorul, patriarhul Constantinopolului"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-metodie-patriarhul-constantinopolului",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/proroc-elisei-sf-ier-metodie-marturisitorul-patriarhul-constantinopolului-dezlegare-la-peste-duminica-a-2-a-dupa-rusalii-a-sfintilor-romani-ap-romani-2-10-16-al-sf-romani-2-corinteni-5/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

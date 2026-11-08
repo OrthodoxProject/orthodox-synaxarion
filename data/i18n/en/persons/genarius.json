@@ -1,0 +1,20 @@
+{
+  "id": "genarius",
+  "locale": "en",
+  "names": {
+    "display": "Bishop St. Genarius, Soldier St. Merkerius",
+    "short": "Genarius, Soldier St. Merkerius",
+    "given": "Genarius"
+  },
+  "references": [
+    {
+      "source": "src:armenianchurch-ge",
+      "url": "https://armenianchurch.ge/en/kalendar-prazdnikov/description-2/december/commemoration-of-bishop-st-genarius-soldier-st-merkerius",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

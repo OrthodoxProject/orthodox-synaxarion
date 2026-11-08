@@ -1,0 +1,35 @@
+{
+  "id": "damian-of-asia",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "unmercenary"
+  ],
+  "external_ids": {
+    "doxologia": "sfantul-doctor-fara-de-arginti-damian-din-asia"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-doctor-fara-de-arginti-damian-din-asia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-doctori-fara-de-arginti-cosma-si-damian-cei-din-asia-duminica-a-22-a-dupa-rusalii-ap-galateni-6-11-18-ev-luca-16-19-31-bogatul-nemilostiv-si-saracul-lazar-glas-5-voscr-11/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/01/103135-saint-theodota-mother-of-the-unmercenaries-cosmas-and-damian",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

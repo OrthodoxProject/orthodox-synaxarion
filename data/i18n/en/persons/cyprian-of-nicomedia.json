@@ -1,0 +1,20 @@
+{
+  "id": "cyprian-of-nicomedia",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Cyprian, of Nicomedia",
+    "short": "Cyprian, of Nicomedia",
+    "given": "Cyprian"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/17/102317-martyrs-straton-philip-eutychian-and-cyprian-of-nicomedia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

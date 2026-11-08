@@ -1,0 +1,20 @@
+{
+  "id": "aristion-of-alexandria",
+  "locale": "en",
+  "names": {
+    "display": "Hieromartyr Aristion, Bishop of Alexandria",
+    "short": "Aristion, Bishop of Alexandria",
+    "given": "Aristion"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/03/102483-hieromartyr-aristion-bishop-of-alexandria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

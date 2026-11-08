@@ -1,0 +1,20 @@
+{
+  "id": "serapion-the-wonderworker",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Serapion the Wonderworker, Abbot of Saint John the Baptist Monastery",
+    "short": "Serapion the Wonderworker, Abbot of Saint John the Baptist Monastery",
+    "given": "Serapion"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/24/205476-venerable-serapion-the-wonderworker-abbot-of-saint-john-the-bapt",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

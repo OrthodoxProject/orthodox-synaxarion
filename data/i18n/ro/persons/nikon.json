@@ -1,0 +1,26 @@
+{
+  "id": "nikon",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Nicon și cei 199 de ucenici ai lui",
+    "full": "Sfântul Cuvios Mucenic Nicon și cei 199 de ucenici ai lui",
+    "short": "Nicon, cei 199 de ucenici ai lui",
+    "given": "Nicon"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-mucenic-nicon-cei-199-de-ucenici-ai-lui",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-mc-nicon-si-cei-199-de-ucenici-ai-lui-denia-canonului-mare/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

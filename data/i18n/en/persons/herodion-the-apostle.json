@@ -1,0 +1,20 @@
+{
+  "id": "herodion-the-apostle",
+  "locale": "en",
+  "names": {
+    "display": "Apostle Herodion",
+    "short": "Herodion",
+    "given": "Herodion"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/10/103265-apostles-of-the-seventy-erastus-olympas-herodion-sosipater-quart",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

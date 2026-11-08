@@ -1,0 +1,29 @@
+{
+  "id": "apostles-of-the-70-apelles-luke-and-clement-2",
+  "kind": "repose",
+  "subjects": [
+    "group:apostles-of-the-70-apelles-luke-and-clement-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 10
+  },
+  "external_ids": {
+    "oca": "102562"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/10/102562-holy-apostles-of-the-70-apelles-luke-loukios-and-clement",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

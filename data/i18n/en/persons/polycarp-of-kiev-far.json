@@ -1,0 +1,20 @@
+{
+  "id": "polycarp-of-kiev-far",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Polycarp, Archimandrite of the Kiev Far Caves",
+    "short": "Polycarp, Archimandrite of the Kiev Far Caves",
+    "given": "Polycarp"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/24/102085-venerable-polycarp-archimandrite-of-the-kiev-far-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

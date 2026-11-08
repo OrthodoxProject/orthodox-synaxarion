@@ -1,0 +1,30 @@
+{
+  "id": "demetrius-of-thessalonica--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:demetrius-of-thessalonica"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 29,
+    "calendar": "coptic"
+  },
+  "external_ids": {
+    "copticchurch": "2_29#1"
+  },
+  "sources": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/2_29.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din copticchurch.net; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "leon-2--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:leon-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 30
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-leon-arhimandritul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

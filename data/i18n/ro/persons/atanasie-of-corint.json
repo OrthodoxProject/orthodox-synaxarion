@@ -1,0 +1,21 @@
+{
+  "id": "atanasie-of-corint",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Atanasie, Episcopul Corintului",
+    "full": "Sfântul Ierarh Atanasie, Episcopul Corintului",
+    "short": "Atanasie, Episcopul Corintului",
+    "given": "Atanasie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-atanasie-episcopul-corintului",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

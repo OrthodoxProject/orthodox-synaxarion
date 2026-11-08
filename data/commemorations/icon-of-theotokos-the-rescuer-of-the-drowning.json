@@ -1,0 +1,29 @@
+{
+  "id": "icon-of-theotokos-the-rescuer-of-the-drowning",
+  "kind": "icon",
+  "subjects": [
+    "icon:icon-of-theotokos-the-rescuer-of-the-drowning"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 20
+  },
+  "external_ids": {
+    "oca": "103599"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/20/103599-icon-of-the-mother-of-god-the-rescuer-of-the-drowning",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

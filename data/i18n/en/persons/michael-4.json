@@ -1,0 +1,20 @@
+{
+  "id": "michael-4",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Michael, Prince of Tver",
+    "short": "Michael, Prince of Tver",
+    "given": "Michael"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/22/103363-martyr-michael-prince-of-tver",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

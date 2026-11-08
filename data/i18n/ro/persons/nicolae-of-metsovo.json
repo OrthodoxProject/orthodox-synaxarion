@@ -1,0 +1,21 @@
+{
+  "id": "nicolae-of-metsovo",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Nou Mc. Nicolae din Metsovo",
+    "full": "Sfântul Nou Mucenic Nicolae din Metsovo",
+    "short": "Nicolae din Metsovo",
+    "given": "Nicolae"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-nou-mucenic-nicolae-din-metsovo",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

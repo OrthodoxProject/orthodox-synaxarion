@@ -1,0 +1,21 @@
+{
+  "id": "jacob",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Iacob",
+    "full": "Sfântul Mucenic Iacob",
+    "short": "Iacob",
+    "given": "Iacob"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-iacob",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "anthony-of-monasticism",
+  "locale": "en",
+  "names": {
+    "display": "Saint Anthony, founder of Monasticism in Georgia",
+    "short": "Anthony, founder of Monasticism in Georgia",
+    "given": "Anthony"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/19/103810-saint-anthony-founder-of-monasticism-in-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

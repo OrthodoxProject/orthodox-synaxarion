@@ -1,0 +1,25 @@
+{
+  "tradition": "serbian",
+  "date": "04-15",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:aristarchus-of-the-seventy--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:trophimus-of-the-seventy--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:basilissa--repose",
+        "comm:anastasia-of-rome--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

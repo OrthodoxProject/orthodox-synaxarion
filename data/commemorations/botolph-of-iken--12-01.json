@@ -1,0 +1,29 @@
+{
+  "id": "botolph-of-iken--12-01",
+  "kind": "repose",
+  "subjects": [
+    "person:botolph-of-iken"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 1
+  },
+  "external_ids": {
+    "oca": "100343"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/01/100343-venerable-botolph-of-iken",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

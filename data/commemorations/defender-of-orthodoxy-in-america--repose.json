@@ -1,0 +1,29 @@
+{
+  "id": "defender-of-orthodoxy-in-america--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:defender-of-orthodoxy-in-america"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 7
+  },
+  "external_ids": {
+    "oca": "101300"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/07/101300-repose-of-saint-alexis-toth-confessor-and-defender-of-orthodoxy",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

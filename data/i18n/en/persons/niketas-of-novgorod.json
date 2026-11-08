@@ -1,0 +1,20 @@
+{
+  "id": "niketas-of-novgorod",
+  "locale": "en",
+  "names": {
+    "display": "Saint Nikḗtas, Bishop of Novgorod, Recluse of the Kiev Far Caves",
+    "short": "Nikḗtas, Bishop of Novgorod, Recluse of the Kiev Far Caves",
+    "given": "Nikḗtas"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/14/101377-saint-niktas-bishop-of-novgorod-recluse-of-the-kiev-far-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

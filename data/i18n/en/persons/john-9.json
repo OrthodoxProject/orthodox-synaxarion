@@ -1,0 +1,20 @@
+{
+  "id": "john-9",
+  "locale": "en",
+  "names": {
+    "display": "Venerable John, Wonderworker of Yarenga, Solovki",
+    "short": "John, Wonderworker of Yarenga, Solovki",
+    "given": "John"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/03/101879-venerable-john-wonderworker-of-yarenga-solovki",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

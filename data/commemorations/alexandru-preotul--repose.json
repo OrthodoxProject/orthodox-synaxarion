@@ -1,0 +1,31 @@
+{
+  "id": "alexandru-preotul--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:alexandru-preotul"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 14
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-sfintit-mucenic-alexandru-preotul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-benedict-de-nursia-sf-sfintit-mc-alexandru-preotul-pomenirea-celor-adormiti/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro; de verificat."
+    ]
+  }
+}

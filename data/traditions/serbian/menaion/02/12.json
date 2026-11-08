@@ -1,0 +1,30 @@
+{
+  "tradition": "serbian",
+  "date": "02-12",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:meletius-of-antioch--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:alexei-of-moscow--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:anthony-of-constantinople--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:kristo-the-gardener-of-albania--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

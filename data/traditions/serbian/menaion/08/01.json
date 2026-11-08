@@ -1,0 +1,23 @@
+{
+  "tradition": "serbian",
+  "date": "08-01",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:stephen-the-tall--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:procession-of-the-cross"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:7-maccabee-martyrs"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

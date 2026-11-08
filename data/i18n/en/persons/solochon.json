@@ -1,0 +1,20 @@
+{
+  "id": "solochon",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Solochon",
+    "short": "Solochon",
+    "given": "Solochon"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/17/101408-martyrs-solochon-pamphamer-and-pamphalon-at-chalcedon",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

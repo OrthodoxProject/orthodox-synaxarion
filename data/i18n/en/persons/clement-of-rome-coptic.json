@@ -1,0 +1,20 @@
+{
+  "id": "clement-of-rome-coptic",
+  "locale": "en",
+  "names": {
+    "display": "Saint Clement, Pope of Rome",
+    "short": "Clement, Pope of Rome",
+    "given": "Clement"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/3_29.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

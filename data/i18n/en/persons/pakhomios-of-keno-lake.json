@@ -1,0 +1,20 @@
+{
+  "id": "pakhomios-of-keno-lake",
+  "locale": "en",
+  "names": {
+    "display": "Saint Pakhomios of Keno Lake",
+    "short": "Pakhomios of Keno Lake",
+    "given": "Pakhomios"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/07/100110-saint-pakhomios-of-keno-lake",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

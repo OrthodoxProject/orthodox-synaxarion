@@ -1,0 +1,20 @@
+{
+  "id": "zabulon",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Zabulon",
+    "short": "Zabulon",
+    "given": "Zabulon"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfintii-zabulon-suzana-parintii-sfintei-nina-luminatoarea-georgiei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "icon-of-theotokos-the-blessed-heaven",
+  "kind": "icon",
+  "subjects": [
+    "icon:icon-of-theotokos-the-blessed-heaven"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 6
+  },
+  "external_ids": {
+    "oca": "100684"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/06/100684-icon-of-the-mother-of-god-the-blessed-heaven",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "varnavas-dohiaritul",
+  "locale": "ro",
+  "names": {
+    "display": "Cuviosul Varnavas Dohiaritul",
+    "short": "Varnavas Dohiaritul",
+    "given": "Varnavas"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cuviosul-varnavas-dohiaritul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "marcellus-of-sicily",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Marcel, Episcopul Siciliei",
+    "full": "Sfântul Sfințit Mucenic Marcel, Episcopul Siciliei",
+    "short": "Marcel, Episcopul Siciliei",
+    "given": "Marcel"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-sfintit-mucenic-marcel-episcopul-siciliei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

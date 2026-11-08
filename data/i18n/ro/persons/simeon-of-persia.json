@@ -1,0 +1,21 @@
+{
+  "id": "simeon-of-persia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Simeon, Episcopul Persiei",
+    "full": "Sfântul Sfințit Mucenic Simeon, Episcopul Persiei",
+    "short": "Simeon, Episcopul Persiei",
+    "given": "Simeon"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-sfintit-mucenic-simeon-episcopul-persiei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

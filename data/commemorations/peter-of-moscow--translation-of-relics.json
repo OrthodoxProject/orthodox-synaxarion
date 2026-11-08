@@ -1,0 +1,29 @@
+{
+  "id": "peter-of-moscow--translation-of-relics",
+  "kind": "relics_translation",
+  "subjects": [
+    "person:peter-of-moscow"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 24
+  },
+  "external_ids": {
+    "oca": "102384"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/24/102384-translation-of-the-relics-of-saint-peter-metropolitan-of-moscow",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

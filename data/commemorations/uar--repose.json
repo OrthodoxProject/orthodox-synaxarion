@@ -1,0 +1,31 @@
+{
+  "id": "uar--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:uar"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 19
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-uar",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-proroc-ioil-sf-mc-uar-sf-cleopatra-sf-cuv-ioan-de-la-rila/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro; de verificat."
+    ]
+  }
+}

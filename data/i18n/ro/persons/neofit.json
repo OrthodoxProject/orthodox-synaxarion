@@ -1,0 +1,21 @@
+{
+  "id": "neofit",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Neofit",
+    "full": "Sfântul Mucenic Neofit",
+    "short": "Neofit",
+    "given": "Neofit"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-neofit-0",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

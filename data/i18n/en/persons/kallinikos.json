@@ -1,0 +1,20 @@
+{
+  "id": "kallinikos",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Kallinikos",
+    "short": "Kallinikos",
+    "given": "Kallinikos"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/14/103541-martyrs-thyrsos-leukios-and-kallinikos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

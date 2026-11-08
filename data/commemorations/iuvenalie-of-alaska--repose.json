@@ -1,0 +1,26 @@
+{
+  "id": "iuvenalie-of-alaska--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:iuvenalie-of-alaska"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 2
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-iuvenalie-din-alaska",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

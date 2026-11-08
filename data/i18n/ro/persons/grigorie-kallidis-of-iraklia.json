@@ -1,0 +1,20 @@
+{
+  "id": "grigorie-kallidis-of-iraklia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Grigorie Kallidis, Arhiepiscopul Irakliei",
+    "short": "Grigorie Kallidis, Arhiepiscopul Irakliei",
+    "given": "Grigorie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-grigorie-kallidis-arhiepiscopul-irakliei-redestului",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

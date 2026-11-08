@@ -1,0 +1,20 @@
+{
+  "id": "yusab-of-girga",
+  "locale": "en",
+  "names": {
+    "display": "Anba Yusab, Bishop of Girga, known as El- Abbah",
+    "short": "Yusab, Bishop of Girga, known as El- Abbah",
+    "given": "Yusab"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/5_17.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

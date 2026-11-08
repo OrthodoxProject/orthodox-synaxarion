@@ -1,0 +1,21 @@
+{
+  "id": "neophytus-of-urbin",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Neofit, Episcop de Urbnisi",
+    "full": "Sfântul Sfințit Mucenic Neofit, Episcop de Urbnisi",
+    "short": "Neofit, Episcop de Urbnisi",
+    "given": "Neofit"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-sfintit-mucenic-neofit-episcop-de-urbnisi",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

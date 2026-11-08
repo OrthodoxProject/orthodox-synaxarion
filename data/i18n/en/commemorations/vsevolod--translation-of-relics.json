@@ -1,0 +1,18 @@
+{
+  "id": "vsevolod--translation-of-relics",
+  "locale": "en",
+  "names": {
+    "display": "Translation of the relics of Blessed Vsevolod (in Baptism Gabriel), Prince of Pskov"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/22/101179-translation-of-the-relics-of-blessed-vsevolod-in-baptism-gabriel",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

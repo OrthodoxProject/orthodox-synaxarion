@@ -1,0 +1,20 @@
+{
+  "id": "parthenios-of-lampsakos",
+  "locale": "en",
+  "names": {
+    "display": "Saint Parthenios, Bishop of Lampsakos",
+    "short": "Parthenios, Bishop of Lampsakos",
+    "given": "Parthenios"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/07/100457-saint-parthenios-bishop-of-lampsakos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

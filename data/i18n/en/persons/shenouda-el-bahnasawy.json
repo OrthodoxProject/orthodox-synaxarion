@@ -1,0 +1,20 @@
+{
+  "id": "shenouda-el-bahnasawy",
+  "locale": "en",
+  "names": {
+    "display": "Saint Shenouda (Sinouti) El Bahnasawy",
+    "short": "Shenouda El Bahnasawy",
+    "given": "Shenouda"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/7_14.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

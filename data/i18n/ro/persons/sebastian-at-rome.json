@@ -1,0 +1,26 @@
+{
+  "id": "sebastian-at-rome",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Sebastian",
+    "full": "Sfântul Mucenic Sebastian",
+    "short": "Sebastian",
+    "given": "Sebastian"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-sebastian",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-daniil-sihastrul-sf-mc-sebastian-si-zoe-sf-ier-modest-arhiepiscopul-ierusalimului/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

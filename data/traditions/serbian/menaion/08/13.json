@@ -1,0 +1,30 @@
+{
+  "tradition": "serbian",
+  "date": "08-13",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:maximus-the-confessor--translation-of-relics"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:icon-of-theotokos-of-minsk"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:dositheus--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:transfiguration--leavetaking"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

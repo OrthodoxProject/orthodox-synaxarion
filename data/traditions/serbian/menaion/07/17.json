@@ -1,0 +1,33 @@
+{
+  "tradition": "serbian",
+  "date": "07-17",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:george-of-slavonia--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:sava-of-gornji-karlovac--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:stanislav-of-licka-jesenica--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:marina-of-antioch--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:royal-passionbearers-tsar-nicholas-tsaritsa-alexandra-tsarevich-aleksy"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

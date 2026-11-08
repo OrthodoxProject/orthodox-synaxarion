@@ -1,0 +1,29 @@
+{
+  "id": "john-the-cappadocian-of-constantinople--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:john-the-cappadocian-of-constantinople"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 25
+  },
+  "external_ids": {
+    "oca": "108971"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/25/108971-saint-john-the-cappadocian-patriarch-of-constantinople",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

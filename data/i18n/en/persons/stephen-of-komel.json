@@ -1,0 +1,20 @@
+{
+  "id": "stephen-of-komel",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Stephen of Komel, Abbot of Ozersk Monastery, Vologda",
+    "short": "Stephen of Komel, Abbot of Ozersk Monastery, Vologda",
+    "given": "Stephen"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/12/101706-venerable-stephen-of-komel-abbot-of-ozersk-monastery-vologda",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

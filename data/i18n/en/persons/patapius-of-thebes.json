@@ -1,0 +1,20 @@
+{
+  "id": "patapius-of-thebes",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Patapius of Thebes",
+    "short": "Patapius of Thebes",
+    "given": "Patapius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/08/103494-venerable-patapius-of-thebes",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

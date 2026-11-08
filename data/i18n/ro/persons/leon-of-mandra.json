@@ -1,0 +1,21 @@
+{
+  "id": "leon-of-mandra",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Leon din Mandra",
+    "full": "Sfântul Cuvios Leon din Mandra",
+    "short": "Leon din Mandra",
+    "given": "Leon"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-leon-din-mandra",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

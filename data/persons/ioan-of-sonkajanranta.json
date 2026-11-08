@@ -1,0 +1,26 @@
+{
+  "id": "ioan-of-sonkajanranta",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "martyr",
+    "confessor"
+  ],
+  "external_ids": {
+    "doxologia": "sfantul-martir-marturisitor-ioan-de-sonkajanranta"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-martir-marturisitor-ioan-de-sonkajanranta",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

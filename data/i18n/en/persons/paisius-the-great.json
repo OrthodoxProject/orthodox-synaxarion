@@ -1,0 +1,20 @@
+{
+  "id": "paisius-the-great",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Paisius the Great",
+    "short": "Paisius the Great",
+    "given": "Paisius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/19/101755-venerable-paisius-the-great",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

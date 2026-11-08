@@ -1,0 +1,21 @@
+{
+  "id": "stefan-intaiincoronatul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ștefan Întâiîncoronatul",
+    "full": "Sfântul Ștefan Întâiîncoronatul",
+    "short": "Ștefan Întâiîncoronatul",
+    "given": "Ștefan"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-stefan-intaiincoronatul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

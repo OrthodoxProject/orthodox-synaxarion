@@ -1,0 +1,19 @@
+{
+  "tradition": "serbian",
+  "date": "05-18",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:peter--repose",
+        "comm:dionysius--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:paulinus--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "neofit-zavoratul-of-pafos--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:neofit-zavoratul-of-pafos"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 28
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-neofit-zavoratul-din-pafos-insula-cipru",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-hariton-marturisitorul-sf-proroc-baruh-sf-cuv-neofit-zavoratul-din-cipru-duminica-a-18-a-dupa-rusalii-ap-2-corinteni-9-6-11-ev-luca-5-1-11-pescuirea-minunata-glas-7/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro; de verificat."
+    ]
+  }
+}

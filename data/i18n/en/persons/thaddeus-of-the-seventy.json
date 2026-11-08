@@ -1,0 +1,20 @@
+{
+  "id": "thaddeus-of-the-seventy",
+  "locale": "en",
+  "names": {
+    "display": "Apostle Thaddeus of the Seventy",
+    "short": "Thaddeus of the Seventy",
+    "given": "Thaddeus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/21/102355-apostle-thaddeus-of-the-seventy",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

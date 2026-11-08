@@ -1,0 +1,28 @@
+{
+  "id": "peter-of-cetinje",
+  "locale": "en",
+  "names": {
+    "display": "Saint Peter of Cetinje",
+    "short": "Peter of Cetinje",
+    "given": "Peter",
+    "variants": [
+      "Peter of Cetinje"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/18/108067-saint-peter-of-cetinje",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "pisidia-icon-of-theotokos",
+  "locale": "ro",
+  "names": {
+    "display": "Cinstirea Sfintei Icoane a Maicii Domnului din Pisidia"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoane-maicii-domnului-din-pisidia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

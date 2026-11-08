@@ -1,0 +1,21 @@
+{
+  "id": "hyperechius",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Iperechie",
+    "full": "Sfântul Mucenic Iperechie",
+    "short": "Iperechie",
+    "given": "Iperechie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-iperechie",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

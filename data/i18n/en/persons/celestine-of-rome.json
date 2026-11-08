@@ -1,0 +1,20 @@
+{
+  "id": "celestine-of-rome",
+  "locale": "en",
+  "names": {
+    "display": "Saint Celestine, Pope of Rome",
+    "short": "Celestine, Pope of Rome",
+    "given": "Celestine"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/08/101033-saint-celestine-pope-of-rome",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

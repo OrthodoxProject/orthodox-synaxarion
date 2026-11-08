@@ -1,0 +1,19 @@
+{
+  "tradition": "romanian",
+  "date": "01-01",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:circumcision-of-the-lord"
+      ],
+      "symbol": "red-parenthesized"
+    },
+    {
+      "commemorations": [
+        "comm:basil-the-great-of-caesarea--repose",
+        "comm:emilia--repose"
+      ],
+      "symbol": "red-half-parenthesized"
+    }
+  ]
+}

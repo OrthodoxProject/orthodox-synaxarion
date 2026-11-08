@@ -1,0 +1,20 @@
+{
+  "id": "horus-of-the-thebaid",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Horus of the Thebaid, Egypt",
+    "short": "Horus of the Thebaid, Egypt",
+    "given": "Horus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/07/102225-venerable-horus-of-the-thebaid-egypt",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

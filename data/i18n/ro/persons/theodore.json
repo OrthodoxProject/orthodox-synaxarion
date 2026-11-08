@@ -1,0 +1,21 @@
+{
+  "id": "theodore",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Teodor Bizantinul",
+    "full": "Sfântul Teodor Bizantinul",
+    "short": "Teodor Bizantinul",
+    "given": "Teodor"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-teodor-bizantinul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

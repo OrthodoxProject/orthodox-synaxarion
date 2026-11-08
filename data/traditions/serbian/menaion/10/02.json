@@ -1,0 +1,18 @@
+{
+  "tradition": "serbian",
+  "date": "10-02",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:cyprian-2--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:david-2-and-constantine"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

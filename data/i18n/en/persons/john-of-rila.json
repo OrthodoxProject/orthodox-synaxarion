@@ -1,0 +1,20 @@
+{
+  "id": "john-of-rila",
+  "locale": "en",
+  "names": {
+    "display": "Repose of Venerable John, Abbot of Rila",
+    "short": "John, Abbot of Rila",
+    "given": "John"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/18/102336-repose-of-venerable-john-abbot-of-rila",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

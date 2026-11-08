@@ -1,0 +1,21 @@
+{
+  "id": "macarius-the-great-of-egypt",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Macarie Egipteanul",
+    "full": "Sfântul Cuvios Macarie Egipteanul",
+    "short": "Macarie Egipteanul",
+    "given": "Macarie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-macarie-egipteanul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

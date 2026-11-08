@@ -1,0 +1,21 @@
+{
+  "id": "makarius-of-corinth",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Macarie Notara, Episcopul Corintului",
+    "full": "Sfântul Macarie Notara, Episcopul Corintului",
+    "short": "Macarie Notara, Episcopul Corintului",
+    "given": "Macarie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-macarie-notara-episcopul-corintului",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

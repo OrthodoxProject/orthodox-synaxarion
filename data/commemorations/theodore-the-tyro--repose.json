@@ -1,0 +1,39 @@
+{
+  "id": "theodore-the-tyro--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:theodore-the-tyro"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 17
+  },
+  "external_ids": {
+    "oca": "100547"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mare-mucenic-teodor-tiron",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mare-mc-teodor-tiron-sf-mariamna-sf-imparati-marcian-si-pulheria/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/17/100547-great-martyr-theodore-the-tyro-recruit",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

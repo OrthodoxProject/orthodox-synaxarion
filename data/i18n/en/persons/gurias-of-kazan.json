@@ -1,0 +1,20 @@
+{
+  "id": "gurias-of-kazan",
+  "locale": "en",
+  "names": {
+    "display": "Saint Gurias, Archbishop of Kazan",
+    "short": "Gurias, Archbishop of Kazan",
+    "given": "Gurias"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/05/103478-saint-gurias-archbishop-of-kazan",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

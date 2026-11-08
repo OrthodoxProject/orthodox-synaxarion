@@ -1,0 +1,33 @@
+{
+  "id": "george-of-georgia",
+  "locale": "en",
+  "names": {
+    "display": "Saint George (John) of Georgia",
+    "short": "George of Georgia",
+    "given": "George",
+    "variants": [
+      "Martyrdom of the Great-martyr George of Georgia"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/21/205302-saint-george-john-of-georgia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/21/205504-saint-george-john-of-georgia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/10/103276-martyrdom-of-the-great-martyr-george-of-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

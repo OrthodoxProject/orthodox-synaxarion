@@ -1,0 +1,20 @@
+{
+  "id": "paul-coptic",
+  "locale": "en",
+  "names": {
+    "display": "Great Saint Anba Paul, the First Hermit",
+    "short": "Paul, the First Hermit",
+    "given": "Paul"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/6_2.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

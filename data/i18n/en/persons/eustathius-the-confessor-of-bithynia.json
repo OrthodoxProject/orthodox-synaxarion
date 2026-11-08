@@ -1,0 +1,20 @@
+{
+  "id": "eustathius-the-confessor-of-bithynia",
+  "locale": "en",
+  "names": {
+    "display": "Saint Eustathius (Eustace) the Confessor, Bishop of Bithynia",
+    "short": "Eustathius the Confessor, Bishop of Bithynia",
+    "given": "Eustathius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/29/100940-saint-eustathius-eustace-the-confessor-bishop-of-bithynia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

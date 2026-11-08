@@ -1,0 +1,20 @@
+{
+  "id": "paphnutius-of-borov",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Paphnutius, Abbot of Borov",
+    "short": "Paphnutius, Abbot of Borov",
+    "given": "Paphnutius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/01/101255-venerable-paphnutius-abbot-of-borov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

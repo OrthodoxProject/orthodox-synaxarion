@@ -1,0 +1,21 @@
+{
+  "id": "evilasie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Evilasie",
+    "full": "Sfântul Mucenic Evilasie",
+    "short": "Evilasie",
+    "given": "Evilasie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-evilasie",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "hilarion-the-wonderworker",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ilarion Georgianul, făcătorul de minuni",
+    "full": "Sfântul Ilarion Georgianul, făcătorul de minuni",
+    "short": "Ilarion Georgianul, făcătorul de minuni",
+    "given": "Ilarion"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ilarion-georgianul-facatorul-de-minuni",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

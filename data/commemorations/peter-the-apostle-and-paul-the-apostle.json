@@ -1,0 +1,50 @@
+{
+  "id": "peter-the-apostle-and-paul-the-apostle",
+  "kind": "repose",
+  "subjects": [
+    "person:peter-the-apostle",
+    "person:paul-the-apostle"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 29
+  },
+  "external_ids": {
+    "oca": "101840"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfintii-apostoli-petru-pavel",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ap-petru-si-pavel/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/29/101840-the-holy-glorious-and-all-praised-leaders-of-the-apostles-peter",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/29/101841-the-holy-glorious-and-all-praised-leader-of-the-apostles-peter",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/29/101842-the-holy-glorious-and-all-praised-leader-of-the-apostles-paul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

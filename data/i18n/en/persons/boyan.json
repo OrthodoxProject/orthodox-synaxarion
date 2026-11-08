@@ -1,0 +1,20 @@
+{
+  "id": "boyan",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Boyan, Prince of Bulgaria",
+    "short": "Boyan, Prince of Bulgaria",
+    "given": "Boyan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/28/100934-martyr-boyan-prince-of-bulgaria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

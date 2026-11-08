@@ -1,0 +1,20 @@
+{
+  "id": "macarius-the-monk-of-pelekete",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Macarius the Monk of Pelekete",
+    "short": "Macarius the Monk of Pelekete",
+    "given": "Macarius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/18/102335-venerable-macarius-the-monk-of-pelekete",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

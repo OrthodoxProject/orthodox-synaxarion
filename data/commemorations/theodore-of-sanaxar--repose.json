@@ -1,0 +1,29 @@
+{
+  "id": "theodore-of-sanaxar--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:theodore-of-sanaxar"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 19
+  },
+  "external_ids": {
+    "oca": "103707"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/19/103707-venerable-theodore-of-sanaxar",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

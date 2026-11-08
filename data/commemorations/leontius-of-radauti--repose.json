@@ -1,0 +1,39 @@
+{
+  "id": "leontius-of-radauti--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:leontius-of-radauti"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 1
+  },
+  "external_ids": {
+    "oca": "149010"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-leontie-de-la-radauti",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ier-leontie-de-la-radauti-sf-mc-doctori-fara-de-arginti-cosma-si-damian-cei-din-roma/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/01/149010-saint-leontius-of-rdui",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

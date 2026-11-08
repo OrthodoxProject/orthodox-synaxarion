@@ -1,0 +1,20 @@
+{
+  "id": "niketas-the-stylite",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Niketas the Stylite, Wonderworker of Pereyaslavl, Zalesski",
+    "short": "Niketas the Stylite, Wonderworker of Pereyaslavl, Zalesski",
+    "given": "Niketas"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/24/101503-venerable-niketas-the-stylite-wonderworker-of-pereyaslavl-zaless",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

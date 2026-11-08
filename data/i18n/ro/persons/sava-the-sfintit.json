@@ -1,0 +1,26 @@
+{
+  "id": "sava-the-sfintit",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Sava cel Sfințit",
+    "full": "Sfântul Cuvios Sava cel Sfințit",
+    "short": "Sava cel Sfințit",
+    "given": "Sava"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-sava-cel-sfintit",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-sava-cel-sfintit-dezlegare-la-peste/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

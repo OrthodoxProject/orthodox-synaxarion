@@ -1,0 +1,20 @@
+{
+  "id": "isaiah-the-prophet",
+  "locale": "en",
+  "names": {
+    "display": "Prophet Isaiah",
+    "short": "Isaiah",
+    "given": "Isaiah"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/09/101331-prophet-isaiah",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "anthimus-of-georgia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:anthimus-of-georgia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 13
+  },
+  "external_ids": {
+    "oca": "205381"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/13/205381-saint-anthimus-bishop-of-georgia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/romanian_saints.json",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Anthim_the_Iberian"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org, orthodox-calendar, Wikipedia; de verificat."
+    ]
+  }
+}

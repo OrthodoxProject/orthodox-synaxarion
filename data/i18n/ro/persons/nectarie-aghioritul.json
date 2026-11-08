@@ -1,0 +1,21 @@
+{
+  "id": "nectarie-aghioritul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Nectarie Aghioritul",
+    "full": "Sfântul Mucenic Nectarie Aghioritul",
+    "short": "Nectarie Aghioritul",
+    "given": "Nectarie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-nectarie-aghioritul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

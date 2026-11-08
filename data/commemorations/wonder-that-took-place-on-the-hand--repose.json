@@ -1,0 +1,30 @@
+{
+  "id": "wonder-that-took-place-on-the-hand--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:wonder-that-took-place-on-the-hand"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 9,
+    "calendar": "coptic"
+  },
+  "external_ids": {
+    "copticchurch": "8_9#2"
+  },
+  "sources": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/8_9.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din copticchurch.net; de verificat."
+    ]
+  }
+}

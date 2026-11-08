@@ -1,0 +1,20 @@
+{
+  "id": "alexander-of-jerusalem-2",
+  "locale": "en",
+  "names": {
+    "display": "Saint Alexander, Archbishop of Jerusalem",
+    "short": "Alexander, Archbishop of Jerusalem",
+    "given": "Alexander"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/16/101397-saint-alexander-archbishop-of-jerusalem",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

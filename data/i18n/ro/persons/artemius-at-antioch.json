@@ -1,0 +1,26 @@
+{
+  "id": "artemius-at-antioch",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mare Mc. Artemie",
+    "full": "Sfântul Mare Mucenic Artemie",
+    "short": "Artemie",
+    "given": "Artemie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mare-mucenic-artemie",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mare-mc-artemie-sf-cuv-gherasim-din-chefalonia/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

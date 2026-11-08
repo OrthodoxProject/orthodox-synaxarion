@@ -1,0 +1,24 @@
+{
+  "id": "venerable-of-lavra-pecerska-cu-moaste-in-pesterile",
+  "kind": "community",
+  "holiness_types": [
+    "venerable"
+  ],
+  "external_ids": {
+    "doxologia": "soborul-sfintilor-cuviosi-din-lavra-pecerska-cu-moaste-pesterile-de-departe"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/soborul-sfintilor-cuviosi-din-lavra-pecerska-cu-moaste-pesterile-de-departe",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

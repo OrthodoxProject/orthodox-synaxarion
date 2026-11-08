@@ -1,0 +1,21 @@
+{
+  "id": "eufrosin",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Eufrosin",
+    "full": "Sfântul Mucenic Eufrosin",
+    "short": "Eufrosin",
+    "given": "Eufrosin"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-eufrosin",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

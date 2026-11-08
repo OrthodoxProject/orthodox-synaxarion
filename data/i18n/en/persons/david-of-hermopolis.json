@@ -1,0 +1,20 @@
+{
+  "id": "david-of-hermopolis",
+  "locale": "en",
+  "names": {
+    "display": "Saint David of Hermopolis, Egypt",
+    "short": "David of Hermopolis, Egypt",
+    "given": "David"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/06/102528-saint-david-of-hermopolis-egypt",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

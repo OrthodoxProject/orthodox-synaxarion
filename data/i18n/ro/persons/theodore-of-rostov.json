@@ -1,0 +1,21 @@
+{
+  "id": "theodore-of-rostov",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Teodor, Arhiepiscop de Rostov",
+    "full": "Sfântul Teodor, Arhiepiscop de Rostov",
+    "short": "Teodor, Arhiepiscop de Rostov",
+    "given": "Teodor"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-teodor-arhiepiscop-de-rostov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

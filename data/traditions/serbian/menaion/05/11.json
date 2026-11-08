@@ -1,0 +1,41 @@
+{
+  "tradition": "serbian",
+  "date": "05-11",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:isaiah-of-onogost--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:commemoration-of-the-founding-of-constantinople"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:mocius-the-presbyter-of-amphipolis-in-macedonia--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:dioscorus--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:argyrus--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:olympia-of-insula-lesvos--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

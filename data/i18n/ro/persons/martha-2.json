@@ -1,0 +1,21 @@
+{
+  "id": "martha-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Marta",
+    "full": "Sfânta Muceniță Marta",
+    "short": "Marta",
+    "given": "Marta"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-marta-0",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

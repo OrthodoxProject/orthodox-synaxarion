@@ -1,0 +1,18 @@
+{
+  "id": "gorazd-of-slovakia-and-czech-lands",
+  "locale": "en",
+  "names": {
+    "display": "Holy New Martyr Gorazd, Bishop of Slovakia and the Czech Lands (1942) (August 22 OC)"
+  },
+  "references": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/russian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "sfantul-great-mucenic-eustatie-and-sotia-sa-teopista",
+  "kind": "repose",
+  "subjects": [
+    "group:sfantul-great-mucenic-eustatie-and-sotia-sa-teopista"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 20
+  },
+  "external_ids": {
+    "oca": "102674"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mare-mucenic-eustatie-sotia-sa-teopista-cu-cei-doi-fii-agapie-teopist-0",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mari-mc-eustatie-si-sotia-sa-teopista-cu-cei-doi-fii-ai-lor-agapie-si-teopist-duminica-dupa-inaltarea-sfintei-cruci-ap-galateni-2-16-20-ev-marcu-8-34-38-9-1-luarea-crucii-si-urmarea/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/20/102674-greatmartyr-eustthios-placidas-with-his-wife-and-children-of-rom",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

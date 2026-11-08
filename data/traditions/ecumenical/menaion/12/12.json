@@ -1,0 +1,30 @@
+{
+  "tradition": "ecumenical",
+  "date": "12-12",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:mardarije-of-libertyville--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:spyridon-the-wonderworker-of-tremithus--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:alexander-of-jerusalem--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:synetus-of-rome--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

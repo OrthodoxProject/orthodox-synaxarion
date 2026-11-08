@@ -1,0 +1,29 @@
+{
+  "id": "martyrs-eulampius-and-eulampia-at-nicomedia-and-200",
+  "kind": "repose",
+  "subjects": [
+    "group:martyrs-eulampius-and-eulampia-at-nicomedia-and-200"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 10
+  },
+  "external_ids": {
+    "oca": "102919"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/10/102919-martyrs-eulampius-and-eulampia-at-nicomedia-and-200-martyrs-with",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

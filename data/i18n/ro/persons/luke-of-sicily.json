@@ -1,0 +1,26 @@
+{
+  "id": "luke-of-sicily",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Luca din Sicilia",
+    "full": "Sfântul Cuvios Luca din Sicilia",
+    "short": "Luca din Sicilia",
+    "given": "Luca"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-luca-din-sicilia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ier-pavel-marturisitorul-arhiepiscopul-constantinopolului-sf-cuv-luca-din-sicilia/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

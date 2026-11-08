@@ -1,0 +1,21 @@
+{
+  "id": "agapitos-the-confessor-and-wonderworker-of-synnada",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Agapit, Episcopul Sinadei",
+    "full": "Sfântul Ierarh Agapit, Episcopul Sinadei",
+    "short": "Agapit, Episcopul Sinadei",
+    "given": "Agapit"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-agapit-episcopul-sinadei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

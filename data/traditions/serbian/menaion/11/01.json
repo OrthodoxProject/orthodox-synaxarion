@@ -1,0 +1,24 @@
+{
+  "tradition": "serbian",
+  "date": "11-01",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:cosmas-of-asia--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:damian-of-asia--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:helen-of-sinope--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

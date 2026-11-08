@@ -1,0 +1,30 @@
+{
+  "id": "asclepius-and-james-of-syria",
+  "kind": "repose",
+  "subjects": [
+    "person:asclepius",
+    "person:james-of-syria"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 27
+  },
+  "external_ids": {
+    "oca": "109062"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/27/109062-saints-asclepius-and-james-of-syria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "john-of-polybotum",
+  "locale": "en",
+  "names": {
+    "display": "Saint John, Bishop of Polybotum",
+    "short": "John, Bishop of Polybotum",
+    "given": "John"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/04/103474-saint-john-bishop-of-polybotum",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "tradition": "serbian",
+  "date": "07-27",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:slobodan-of-donja-kamenica-sr--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:panteleimon--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:anthousa-the-confessor--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

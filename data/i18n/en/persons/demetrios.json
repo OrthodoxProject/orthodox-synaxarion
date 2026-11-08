@@ -1,0 +1,20 @@
+{
+  "id": "demetrios",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Demetrios, Wonderworker of Priluki, Vologda",
+    "short": "Demetrios, Wonderworker of Priluki, Vologda",
+    "given": "Demetrios"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/11/100502-venerable-demetrios-wonderworker-of-priluki-vologda",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

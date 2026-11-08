@@ -1,0 +1,26 @@
+{
+  "id": "maximus-the-confessor",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Maxim Mărturisitorul",
+    "full": "Sfântul Cuvios Maxim Mărturisitorul",
+    "short": "Maxim Mărturisitorul",
+    "given": "Maxim"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-maxim-marturisitorul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-maxim-marturisitorul-sf-mc-neofit-sf-mc-agnia-din-roma/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

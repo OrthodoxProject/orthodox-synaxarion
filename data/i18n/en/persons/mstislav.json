@@ -1,0 +1,20 @@
+{
+  "id": "mstislav",
+  "locale": "en",
+  "names": {
+    "display": "Saint Mstislav (George), Prince of Novgorod",
+    "short": "Mstislav, Prince of Novgorod",
+    "given": "Mstislav"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/14/101720-saint-mstislav-george-prince-of-novgorod",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

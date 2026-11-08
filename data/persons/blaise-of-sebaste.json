@@ -1,0 +1,37 @@
+{
+  "id": "blaise-of-sebaste",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "hierarch",
+    "hieromartyr"
+  ],
+  "external_ids": {
+    "doxologia": "sfantul-ierarh-vlasie-episcopul-sevastiei",
+    "oca": "100501"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-vlasie-episcopul-sevastiei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-sfintit-mc-vlasie-episcopul-sevastiei-sf-teodora-imparateasa/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/11/100501-hieromartyr-blaise-bishop-of-sebaste",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

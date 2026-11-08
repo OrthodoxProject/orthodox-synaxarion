@@ -1,0 +1,29 @@
+{
+  "id": "ilarion-felea",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Preot Mc. Ilarion Felea",
+    "full": "Sfântul Preot Mucenic Ilarion Felea",
+    "short": "Ilarion Felea",
+    "given": "Ilarion",
+    "variants": [
+      "Sf. Preot Mucenic Ilarion Felea"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-preot-mucenic-ilarion-felea",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-preot-mucenic-ilarion-felea-sf-ier-eumenie-episcopul-gortinei-sf-mc-ariadna/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

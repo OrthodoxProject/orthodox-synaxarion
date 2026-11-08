@@ -1,0 +1,29 @@
+{
+  "id": "thekla",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mare Mc., întocmai cu apostolii, Tecla",
+    "full": "Sfânta Mare Muceniță, întocmai cu apostolii, Tecla",
+    "short": "Tecla",
+    "given": "Tecla",
+    "variants": [
+      "Sf. întâia Muceniță și întocmai cu Apostolii Tecla"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mare-mucenita-intocmai-cu-apostolii-tecla",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-intaia-mucenita-si-intocmai-cu-apostolii-tecla-sf-cuv-siluan-athonitul/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

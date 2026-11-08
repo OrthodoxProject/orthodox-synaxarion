@@ -1,0 +1,28 @@
+{
+  "tradition": "serbian",
+  "date": "10-17",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:helena-stiljanovic--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:stephen-stiljanovic--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:hosea-the-prophet--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:lazar--translation-of-relics-2"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

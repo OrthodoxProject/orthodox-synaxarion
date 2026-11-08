@@ -1,0 +1,20 @@
+{
+  "id": "gregory-of-neocezarea",
+  "locale": "en",
+  "names": {
+    "display": "Saint Gregory, Wonderworker of Neocaesarea",
+    "short": "Gregory, Wonderworker of Neocaesarea",
+    "given": "Gregory"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/17/103315-saint-gregory-wonderworker-of-neocaesarea",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

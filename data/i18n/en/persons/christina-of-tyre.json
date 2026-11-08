@@ -1,0 +1,20 @@
+{
+  "id": "christina-of-tyre",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Christina of Tyre",
+    "short": "Christina of Tyre",
+    "given": "Christina"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/24/102084-martyr-christina-of-tyre",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

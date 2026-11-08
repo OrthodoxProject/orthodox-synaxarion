@@ -1,0 +1,29 @@
+{
+  "id": "onesiphorus-of-the-seventy--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:onesiphorus-of-the-seventy"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 7
+  },
+  "external_ids": {
+    "oca": "102537"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/07/102537-apostle-onesiphorus-of-the-seventy",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

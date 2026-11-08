@@ -1,0 +1,39 @@
+{
+  "id": "gorgonia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:gorgonia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 23
+  },
+  "external_ids": {
+    "oca": "100259"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-gorgonia-sora-sfantului-ierarh-grigorie-teologul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-sfintit-mc-policarp-episcopul-smirnei-sf-gorgonia-inceputul-postului-sfintelor-pasti-zi-aliturgica-canonul-mare/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/23/100259-saint-gorgonia-sister-of-saint-gregory-the-theologian",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

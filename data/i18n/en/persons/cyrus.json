@@ -1,0 +1,20 @@
+{
+  "id": "cyrus",
+  "locale": "en",
+  "names": {
+    "display": "Holy Wonderworker and Unmercenary Cyrus",
+    "short": "Cyrus",
+    "given": "Cyrus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/31/100380-holy-wonderworkers-and-unmercenaries-cyrus-and-john-and-those-wi",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

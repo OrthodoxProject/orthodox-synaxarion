@@ -1,0 +1,20 @@
+{
+  "id": "eusebius-of-phoenicia",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Eusebius of Phoenicia",
+    "short": "Eusebius of Phoenicia",
+    "given": "Eusebius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/21/102691-martyr-eusebius-of-phoenicia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

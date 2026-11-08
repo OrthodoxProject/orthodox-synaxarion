@@ -1,0 +1,36 @@
+{
+  "id": "dedication-of-the-church-of-the-resurrection",
+  "kind": "event",
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 13
+  },
+  "external_ids": {
+    "oca": "102593"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/tarnosirea-bisericii-invierii-din-ierusalim",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/inainte-praznuirea-inaltarii-sfintei-cruci-%e2%80%a0-tarnosirea-bisericii-invierii-din-ierusalim-%e2%80%a0-sf-cuv-ioan-de-la-prislop-%e2%80%a0-sf-mc-din-dobrogea-macrobie-gordian-ilie-zoti/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/13/102593-commemoration-of-the-founding-of-the-church-of-the-resurrection",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

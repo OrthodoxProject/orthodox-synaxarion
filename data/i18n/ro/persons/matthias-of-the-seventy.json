@@ -1,0 +1,26 @@
+{
+  "id": "matthias-of-the-seventy",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ap. Matia",
+    "full": "Sfântul Apostol Matia",
+    "short": "Matia",
+    "given": "Matia"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-apostol-matia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ap-matia-sf-10-mc-care-au-patimit-pentru-icoana-lui-hristos-duminica-a-10-a-dupa-rusalii-ap-1-corinteni-4-9-16-ev-matei-17-14-23-vindecarea-lunaticului-glas-1-voscr-10/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

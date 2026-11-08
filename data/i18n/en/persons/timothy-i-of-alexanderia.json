@@ -1,0 +1,19 @@
+{
+  "id": "timothy-i-of-alexanderia",
+  "locale": "en",
+  "names": {
+    "display": "Timothy I, Pope of Alexanderia",
+    "given": "Timothy"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/11_26.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

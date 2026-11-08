@@ -1,0 +1,20 @@
+{
+  "id": "dodo-of-the-david-gareji-monastery",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Dodo of the Saint David-Gareji Monastery, Georgia",
+    "short": "Dodo of the Saint David-Gareji Monastery, Georgia",
+    "given": "Dodo"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/17/101412-venerable-dodo-of-the-saint-david-gareji-monastery-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

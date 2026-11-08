@@ -1,0 +1,20 @@
+{
+  "id": "juliana-of-syria",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Juliana of Syria",
+    "short": "Juliana of Syria",
+    "given": "Juliana"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/17/102311-martyrs-paul-and-juliana-of-syria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

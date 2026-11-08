@@ -1,0 +1,29 @@
+{
+  "id": "martyr-azes-of-isauria-and-150-soldiers-with",
+  "kind": "repose",
+  "subjects": [
+    "group:martyr-azes-of-isauria-and-150-soldiers-with"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 19
+  },
+  "external_ids": {
+    "oca": "103333"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/19/103333-martyr-azes-of-isauria-and-150-soldiers-with-him",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

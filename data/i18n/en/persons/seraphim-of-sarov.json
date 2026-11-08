@@ -1,0 +1,20 @@
+{
+  "id": "seraphim-of-sarov",
+  "locale": "en",
+  "names": {
+    "display": "Repose of Venerable Seraphim, Wonderworker of Sarov",
+    "short": "Seraphim, Wonderworker of Sarov",
+    "given": "Seraphim"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/02/100008-repose-of-venerable-seraphim-wonderworker-of-sarov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

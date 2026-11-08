@@ -1,0 +1,20 @@
+{
+  "id": "plato-the-confessor-of-studion",
+  "locale": "en",
+  "names": {
+    "display": "Saint Plato the Confessor of Studion",
+    "short": "Plato the Confessor of Studion",
+    "given": "Plato"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/05/101004-saint-plato-the-confessor-of-studion",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "pavel-marturisitorul-of-plusiada",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Pavel Mărturisitorul, Episcopul Plusiadei",
+    "full": "Sfântul Ierarh Pavel Mărturisitorul, Episcopul Plusiadei",
+    "short": "Pavel Mărturisitorul, Episcopul Plusiadei",
+    "given": "Pavel"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-pavel-marturisitorul-episcopul-plusiadei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

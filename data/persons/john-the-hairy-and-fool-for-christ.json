@@ -1,0 +1,31 @@
+{
+  "id": "john-the-hairy-and-fool-for-christ",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "fool_for_christ"
+  ],
+  "external_ids": {
+    "oca": "102480"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/03/102480-blessed-john-the-hairy-and-fool-for-christ-at-rostov",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/12/103288-blessed-john-the-hairy-and-fool-for-christ-at-rostov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat.",
+      "Genul nu reiese din sursă; e de verificat."
+    ]
+  }
+}

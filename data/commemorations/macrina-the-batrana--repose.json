@@ -1,0 +1,26 @@
+{
+  "id": "macrina-the-batrana--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:macrina-the-batrana"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 30
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-macrina-cea-batrana",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

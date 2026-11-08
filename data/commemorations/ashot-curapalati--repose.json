@@ -1,0 +1,29 @@
+{
+  "id": "ashot-curapalati--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:ashot-curapalati"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 29
+  },
+  "external_ids": {
+    "oca": "103811"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/29/103811-martyr-ashot-curapalati-king-of-artanuji",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

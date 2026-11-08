@@ -1,0 +1,31 @@
+{
+  "id": "filaret-the-milostiv--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:filaret-the-milostiv"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 1
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-filaret-cel-milostiv",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-anastasia-mama-sf-ier-andrei-saguna-sf-proroc-naum-sf-filaret-cel-milostiv-tedeum-dezlegare-la-peste/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro; de verificat."
+    ]
+  }
+}

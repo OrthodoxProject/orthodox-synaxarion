@@ -1,0 +1,20 @@
+{
+  "id": "troadius-of-neocaesarea",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Troadius of Neocaesarea",
+    "short": "Troadius of Neocaesarea",
+    "given": "Troadius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/02/100637-martyr-troadius-of-neocaesarea",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

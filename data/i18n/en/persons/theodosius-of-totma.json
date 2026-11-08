@@ -1,0 +1,20 @@
+{
+  "id": "theodosius-of-totma",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Theodosius, Abbot of Totma, Vologda",
+    "short": "Theodosius, Abbot of Totma, Vologda",
+    "given": "Theodosius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/28/100329-venerable-theodosius-abbot-of-totma-vologda",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

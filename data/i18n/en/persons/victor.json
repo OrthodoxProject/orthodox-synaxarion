@@ -1,0 +1,20 @@
+{
+  "id": "victor",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Victor",
+    "short": "Victor",
+    "given": "Victor"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/31/100387-martyrs-victorinus-victor-nikphros-claudius-diodorus-serapion-an",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "tradition": "serbian",
+  "date": "01-20",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:euthymius-the-great--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:innas-and-companions"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:eusebius--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

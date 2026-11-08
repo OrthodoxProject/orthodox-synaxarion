@@ -1,0 +1,20 @@
+{
+  "id": "dionysius-3",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Dionysius, Archimandrite of Saint Sergius’ Monastery",
+    "short": "Dionysius, Archimandrite of Saint Sergius’ Monastery",
+    "given": "Dionysius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/12/101359-venerable-dionysius-archimandrite-of-saint-sergius-monastery",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

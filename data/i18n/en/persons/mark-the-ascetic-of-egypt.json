@@ -1,0 +1,20 @@
+{
+  "id": "mark-the-ascetic-of-egypt",
+  "locale": "en",
+  "names": {
+    "display": "Saint Mark the Ascetic of Egypt",
+    "short": "Mark the Ascetic of Egypt",
+    "given": "Mark"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/05/100669-saint-mark-the-ascetic-of-egypt",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

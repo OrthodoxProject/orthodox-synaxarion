@@ -1,0 +1,20 @@
+{
+  "id": "basiliscus-of-amasea",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Basiliscus of Amasea",
+    "short": "Basiliscus of Amasea",
+    "given": "Basiliscus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/03/100642-martyrs-eutropius-cleonicus-and-basiliscus-of-amasea",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

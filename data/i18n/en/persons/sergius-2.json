@@ -1,0 +1,20 @@
+{
+  "id": "sergius-2",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Sergius (Srebryansky), the New Confessor of Tver",
+    "short": "Sergius, the New Confessor of Tver",
+    "given": "Sergius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/23/103912-venerable-sergius-srebryansky-the-new-confessor-of-tver",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

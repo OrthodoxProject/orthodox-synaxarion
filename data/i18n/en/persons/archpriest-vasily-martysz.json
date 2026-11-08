@@ -1,0 +1,20 @@
+{
+  "id": "archpriest-vasily-martysz",
+  "locale": "en",
+  "names": {
+    "display": "New Martyr Archpriest Vasily Martysz",
+    "short": "Archpriest Vasily Martysz",
+    "given": "Archpriest"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/04/148978-new-martyr-archpriest-vasily-martysz",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

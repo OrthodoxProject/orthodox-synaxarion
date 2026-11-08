@@ -1,0 +1,26 @@
+{
+  "id": "zenobia-of-aeg",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Zenovie, Episcopul Ciliciei",
+    "full": "Sfântul Sfințit Mucenic Zenovie, Episcopul Ciliciei",
+    "short": "Zenovie, Episcopul Ciliciei",
+    "given": "Zenovie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-sfintit-mucenic-zenovie-episcopul-ciliciei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-sfintit-mc-zenovie-episcopul-ciliciei-si-sora-sa-zenovia-sf-ap-cleopa/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

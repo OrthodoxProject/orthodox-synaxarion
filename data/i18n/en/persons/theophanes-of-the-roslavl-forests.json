@@ -1,0 +1,20 @@
+{
+  "id": "theophanes-of-the-roslavl-forests",
+  "locale": "en",
+  "names": {
+    "display": "Saint Theophanes of the Roslavl Forests",
+    "short": "Theophanes of the Roslavl Forests",
+    "given": "Theophanes"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/15/105911-saint-theophanes-of-the-roslavl-forests",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

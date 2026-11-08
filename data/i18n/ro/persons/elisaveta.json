@@ -1,0 +1,21 @@
+{
+  "id": "elisaveta",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Elisaveta",
+    "full": "Sfânta Muceniță Elisaveta",
+    "short": "Elisaveta",
+    "given": "Elisaveta"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-elisaveta",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

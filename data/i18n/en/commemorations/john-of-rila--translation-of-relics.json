@@ -1,0 +1,18 @@
+{
+  "id": "john-of-rila--translation-of-relics",
+  "locale": "en",
+  "names": {
+    "display": "Translation of the relics of Venerable John of Rila from Trnovo to Rila"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/01/101860-translation-of-the-relics-of-venerable-john-of-rila-from-trnovo",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "zosimus-the-soldier-at-antioch",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Zosimus the Soldier at Antioch, in Pisidia",
+    "short": "Zosimus the Soldier at Antioch, in Pisidia",
+    "given": "Zosimus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/19/101754-martyr-zosimus-the-soldier-at-antioch-in-pisidia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

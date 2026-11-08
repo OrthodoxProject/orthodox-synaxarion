@@ -1,0 +1,26 @@
+{
+  "id": "aeithalas",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Aitala, diaconul",
+    "full": "Sfântul Mucenic Aitala, diaconul",
+    "short": "Aitala, diaconul",
+    "given": "Aitala"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-aitala-diaconul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-sfintiti-mc-achepsima-iosif-si-aitala-asezarea-moastelor-sf-mare-mc-gheorghe-in-lida/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

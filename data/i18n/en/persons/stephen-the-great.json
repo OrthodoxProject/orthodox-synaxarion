@@ -1,0 +1,28 @@
+{
+  "id": "stephen-the-great",
+  "locale": "en",
+  "names": {
+    "display": "Saint Stephen the Great",
+    "short": "Stephen the Great",
+    "given": "Stephen",
+    "variants": [
+      "Stephen the Great"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/02/149011-saint-stephen-the-great",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/romanian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

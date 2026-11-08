@@ -1,0 +1,20 @@
+{
+  "id": "theodosius-the-new",
+  "locale": "en",
+  "names": {
+    "display": "Saint Theodosius the New, Healer of Peloponnesus",
+    "short": "Theodosius the New, Healer of Peloponnesus",
+    "given": "Theodosius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/07/205389-saint-theodosius-the-new-healer-of-peloponnesus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

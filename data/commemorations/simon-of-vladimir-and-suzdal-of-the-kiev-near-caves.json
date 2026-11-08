@@ -1,0 +1,30 @@
+{
+  "id": "simon-of-vladimir-and-suzdal-of-the-kiev-near-caves",
+  "kind": "repose",
+  "subjects": [
+    "person:simon-of-vladimir",
+    "person:suzdal-of-the-kiev-near-caves"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 10
+  },
+  "external_ids": {
+    "oca": "107790"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/10/107790-saint-simon-bishop-of-vladimir-and-suzdal-of-the-kiev-near-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

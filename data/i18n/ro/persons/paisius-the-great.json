@@ -1,0 +1,26 @@
+{
+  "id": "paisius-the-great",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Paisie cel Mare",
+    "full": "Sfântul Cuvios Paisie cel Mare",
+    "short": "Paisie cel Mare",
+    "given": "Paisie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-paisie-cel-mare",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ap-iuda-rudenia-domnului-sf-cuv-paisie-cel-mare/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

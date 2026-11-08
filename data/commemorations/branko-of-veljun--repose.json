@@ -1,0 +1,30 @@
+{
+  "id": "branko-of-veljun--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:branko-of-veljun"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 7
+  },
+  "sources": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Branko_of_Veljun"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din orthodox-calendar, Wikipedia; de verificat."
+    ]
+  }
+}

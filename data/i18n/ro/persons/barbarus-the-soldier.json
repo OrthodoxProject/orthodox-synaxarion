@@ -1,0 +1,26 @@
+{
+  "id": "barbarus-the-soldier",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Varvar",
+    "full": "Sfântul Mucenic Varvar",
+    "short": "Varvar",
+    "given": "Varvar"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-varvar",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/injumatatirea-cincizecimii-sf-si-dreptul-iov-mult-rabdatorul-sf-mc-varvar-dezlegare-la-peste/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

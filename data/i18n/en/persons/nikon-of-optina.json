@@ -1,0 +1,20 @@
+{
+  "id": "nikon-of-optina",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Nikon of Optina",
+    "short": "Nikon of Optina",
+    "given": "Nikon"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/25/149002-venerable-nikon-of-optina",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

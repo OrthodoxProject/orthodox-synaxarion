@@ -1,0 +1,21 @@
+{
+  "id": "visarion-agathonitul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Visarion Agathonitul",
+    "full": "Sfântul Cuvios Visarion Agathonitul",
+    "short": "Visarion Agathonitul",
+    "given": "Visarion"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-visarion-agathonitul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

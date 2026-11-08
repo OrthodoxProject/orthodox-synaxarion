@@ -1,0 +1,20 @@
+{
+  "id": "theodore-of-sanaxar",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Theodore of Sanaxar",
+    "short": "Theodore of Sanaxar",
+    "given": "Theodore"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/19/103707-venerable-theodore-of-sanaxar",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

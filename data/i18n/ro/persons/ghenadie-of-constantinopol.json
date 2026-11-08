@@ -1,0 +1,26 @@
+{
+  "id": "ghenadie-of-constantinopol",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ghenadie, patriarhul Constantinopolului",
+    "full": "Sfântul Ierarh Ghenadie, patriarhul Constantinopolului",
+    "short": "Ghenadie, patriarhul Constantinopolului",
+    "given": "Ghenadie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-ghenadie-patriarhul-constantinopolului",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ier-grigorie-taumaturgul-episcopul-neocezareei-si-ghenadie-arhiepiscopul-constantinopolului-sf-cuv-lazar-zugravul/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "tradition": "serbian",
+  "date": "12-13",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:herman-of-alaska--12-13"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:eustratius--repose",
+        "comm:auxentius--repose",
+        "comm:eugene-4--repose",
+        "comm:mardarius--repose",
+        "comm:orestes-2--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:lucy-of-syracuse--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

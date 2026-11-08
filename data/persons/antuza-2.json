@@ -1,0 +1,30 @@
+{
+  "id": "antuza-2",
+  "kind": "saint",
+  "gender": "female",
+  "holiness_types": [
+    "hierarch"
+  ],
+  "external_ids": {
+    "doxologia": "sfanta-antuza-mama-sfantului-ierarh-ioan-gura-de-aur"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-antuza-mama-sfantului-ierarh-ioan-gura-de-aur",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ier-ioan-gura-de-aur-arhiepiscopul-constantinopolului-si-mama-sa-sf-antuza/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro; de verificat."
+    ]
+  }
+}

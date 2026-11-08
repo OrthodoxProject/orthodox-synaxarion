@@ -1,0 +1,18 @@
+{
+  "id": "cosmas-coptic--consecration-church-saints-cosmas",
+  "locale": "en",
+  "names": {
+    "display": "The Consecration of the Church of Saints Cosmas, Damian, Their Brothers and Their Mother"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/3_30.html?lang=en#3",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

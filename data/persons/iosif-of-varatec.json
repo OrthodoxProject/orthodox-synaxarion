@@ -1,0 +1,30 @@
+{
+  "id": "iosif-of-varatec",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "venerable"
+  ],
+  "external_ids": {
+    "doxologia": "sfantul-cuvios-iosif-de-la-varatec"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-iosif-de-la-varatec",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/aducerea-sf-mahrame-a-domnului-din-edesa-la-constantinopol-%e2%80%a0-sf-martiri-brancoveni-constantin-voievod-cu-cei-patru-fii-ai-sai-constantin-stefan-radu-si-matei-si-sfetnicul-ianache-sf/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro; de verificat."
+    ]
+  }
+}

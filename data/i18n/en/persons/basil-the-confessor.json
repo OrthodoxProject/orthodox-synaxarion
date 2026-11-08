@@ -1,0 +1,20 @@
+{
+  "id": "basil-the-confessor",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Basil the Confessor, companion of Venerable Procopius at Decapolis",
+    "short": "Basil the Confessor, companion of Venerable Procopius at Decapolis",
+    "given": "Basil"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/28/100615-venerable-basil-the-confessor-companion-of-venerable-procopius-a",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

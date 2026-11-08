@@ -1,0 +1,26 @@
+{
+  "id": "hristina--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:hristina"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 18
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-hristina-cele-7-sfinte-fecioare-impreuna-cu-ea",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

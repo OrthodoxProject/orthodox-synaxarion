@@ -1,0 +1,29 @@
+{
+  "id": "anubius-the-confessor-and-anchorite-of-egypt--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:anubius-the-confessor-and-anchorite-of-egypt"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 5
+  },
+  "external_ids": {
+    "oca": "101627"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/05/101627-venerable-anubius-the-confessor-and-anchorite-of-egypt",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

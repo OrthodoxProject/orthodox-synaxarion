@@ -1,0 +1,20 @@
+{
+  "id": "macrina",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Macrina, sister of Saint Basil the Great",
+    "short": "Macrina, sister of Saint Basil the Great",
+    "given": "Macrina"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/19/102055-venerable-macrina-sister-of-saint-basil-the-great",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

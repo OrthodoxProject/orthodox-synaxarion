@@ -1,0 +1,29 @@
+{
+  "id": "menas-of-sinai--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:menas-of-sinai"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 5
+  },
+  "external_ids": {
+    "oca": "100103"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/05/100103-venerable-menas-of-sinai",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

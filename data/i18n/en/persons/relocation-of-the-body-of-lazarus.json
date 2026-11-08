@@ -1,0 +1,19 @@
+{
+  "id": "relocation-of-the-body-of-lazarus",
+  "locale": "en",
+  "names": {
+    "display": "Relocation of the Body of Lazarus",
+    "given": "Relocation"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/2_21.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

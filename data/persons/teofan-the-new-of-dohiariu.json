@@ -1,0 +1,26 @@
+{
+  "id": "teofan-the-new-of-dohiariu",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "venerable",
+    "wonderworker"
+  ],
+  "external_ids": {
+    "doxologia": "sfantul-cuvios-teofan-cel-nou-de-la-dohiariu-facatorul-de-minuni"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-teofan-cel-nou-de-la-dohiariu-facatorul-de-minuni",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

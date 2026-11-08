@@ -1,0 +1,30 @@
+{
+  "tradition": "ecumenical",
+  "date": "01-08",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:george-the-chozebite--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:domnica-of-constantinople--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:emilian-the-confessor-of-cyzicus--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:abo-the-perfumer-of-tbilisi--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "dalmatus-the-ascetic-of-the-dalmatian-monastery--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:dalmatus-the-ascetic-of-the-dalmatian-monastery"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 3
+  },
+  "external_ids": {
+    "oca": "102190"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-dalmat",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-marturisitor-iraclie-din-basarabia-sf-cuv-isaachie-dalmat-si-faust-sf-mironosita-salomeea-sf-cuv-teodora-din-tesalonic/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/03/102190-venerable-dalmatus-the-ascetic-of-the-dalmatian-monastery-at-con",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

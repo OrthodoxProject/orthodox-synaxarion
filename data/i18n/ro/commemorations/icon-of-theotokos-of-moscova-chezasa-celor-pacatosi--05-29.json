@@ -1,0 +1,23 @@
+{
+  "id": "icon-of-theotokos-of-moscova-chezasa-celor-pacatosi--05-29",
+  "locale": "ro",
+  "names": {
+    "display": "Cinstirea Sfintei Icoane a Maicii Domnului din Moscova „Chezașa celor păcătoși”"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoane-maicii-domnului-din-moscova-chezasa-celor-pacatosi",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoane-maicii-domnului-din-odrino-orlov-chezasa-celor-pacatosi",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

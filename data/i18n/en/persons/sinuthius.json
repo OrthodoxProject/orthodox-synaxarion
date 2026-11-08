@@ -1,0 +1,20 @@
+{
+  "id": "sinuthius",
+  "locale": "en",
+  "names": {
+    "display": "Pope Sinuthius (Shenouda I), 55th Pope of Alexandria",
+    "short": "Sinuthius, 55th Pope of Alexandria",
+    "given": "Sinuthius"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/8_24.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "kirion-ii-of-all-georgia",
+  "locale": "en",
+  "names": {
+    "display": "Hieromartyr Kirion II, Catholicos-Patriarch of All Georgia",
+    "short": "Kirion II, Catholicos-Patriarch of All Georgia",
+    "given": "Kirion"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/12/205331-hieromartyr-kirion-ii-catholicos-patriarch-of-all-georgia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/27/205447-hieromartyr-kirion-ii-catholicos-patriarch-of-all-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

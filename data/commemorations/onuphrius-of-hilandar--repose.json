@@ -1,0 +1,29 @@
+{
+  "id": "onuphrius-of-hilandar--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:onuphrius-of-hilandar"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 4
+  },
+  "external_ids": {
+    "oca": "100095"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/04/100095-venerable-new-martyr-onuphrius-of-hilandar-mount-athos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

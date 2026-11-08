@@ -1,0 +1,21 @@
+{
+  "id": "pimen-iconarul",
+  "locale": "ro",
+  "names": {
+    "display": "Sfantul Cuv. Pimen Iconarul",
+    "full": "Sfantul Cuvios Pimen Iconarul",
+    "short": "Pimen Iconarul",
+    "given": "Pimen"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-pimen-iconarul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

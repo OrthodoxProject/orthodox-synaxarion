@@ -1,0 +1,26 @@
+{
+  "tradition": "serbian",
+  "date": "08-19",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:andrew-stratelates--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:timothy-2--repose",
+        "comm:agapius-3--repose",
+        "comm:thekla-of-palestine--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:don-icon-of-theotokos"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

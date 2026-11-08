@@ -1,0 +1,25 @@
+{
+  "id": "astion",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Astion",
+    "short": "Astion",
+    "given": "Astion"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfintii-mucenici-epictet-astion",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-mc-epictet-preotul-si-astion-monahul-sf-mare-mc-procopie-si-mama-sa-sf-mc-teodosia/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

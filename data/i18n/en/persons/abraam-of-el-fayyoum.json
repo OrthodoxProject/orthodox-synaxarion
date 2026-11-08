@@ -1,0 +1,20 @@
+{
+  "id": "abraam-of-el-fayyoum",
+  "locale": "en",
+  "names": {
+    "display": "Saint Abraam, bishop of El-Fayyoum",
+    "short": "Abraam, bishop of El-Fayyoum",
+    "given": "Abraam"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/10_3.html?lang=en#5",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

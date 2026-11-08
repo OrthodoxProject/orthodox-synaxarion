@@ -1,0 +1,26 @@
+{
+  "id": "moses-the-prophet",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Proroc Moise",
+    "full": "Sfântul Proroc Moise",
+    "short": "Moise",
+    "given": "Moise"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-proroc-moise",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-sfintit-mc-vavila-episcopul-antiohiei-sf-proroc-moise-sf-mc-petroniu/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

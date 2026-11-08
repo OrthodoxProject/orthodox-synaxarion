@@ -1,0 +1,20 @@
+{
+  "id": "vincent-of-spain",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Vincent of Spain",
+    "short": "Vincent of Spain",
+    "given": "Vincent"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/11/103279-martyr-vincent-of-spain",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

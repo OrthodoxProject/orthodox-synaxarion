@@ -1,0 +1,29 @@
+{
+  "id": "anthusa-at-rome--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:anthusa-at-rome"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 8
+  },
+  "external_ids": {
+    "oca": "103505"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/08/103505-martyr-anthusa-at-rome",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

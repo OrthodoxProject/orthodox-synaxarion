@@ -1,0 +1,21 @@
+{
+  "id": "evmenie-saridakis",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Evmenie Saridakis",
+    "full": "Sfântul Evmenie Saridakis",
+    "short": "Evmenie Saridakis",
+    "given": "Evmenie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-evmenie-saridakis",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

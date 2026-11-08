@@ -1,0 +1,53 @@
+{
+  "tradition": "serbian",
+  "date": "07-28",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:jaglika-of-piva--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:prohor-the-apostle-and-companions"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:paul-of-xeropotamou-monastery--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:appearance-of-the-smolensk-directress-icon-of-theotokos-brought"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:irene-chrysovolantou--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:icon-of-theotokos-of-greben"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:icon-of-theotokos-of-kostroma"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:icon-of-theotokos-of-the-trinity-saint-sergius-lavra"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

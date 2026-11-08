@@ -1,0 +1,40 @@
+{
+  "id": "ioachim-and-anna",
+  "kind": "repose",
+  "subjects": [
+    "person:ioachim",
+    "person:anna"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 9
+  },
+  "external_ids": {
+    "oca": "102546"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfintii-dreptii-parinti-ioachim-ana",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-si-dreptii-dumnezeiesti-parinti-ioachim-si-ana-%e2%80%a0-sf-cuv-chiriac-de-la-tazlau-%e2%80%a0-sf-cuv-onufrie-de-la-vorona-sf-mc-severian-sf-parinti-de-la-sinodul-al-iii-lea-ecumenic/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/09/102546-holy-and-righteous-ancestors-of-god-joachim-and-anna",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

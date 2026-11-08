@@ -1,0 +1,26 @@
+{
+  "id": "juliana-of-nicomedia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Iuliana din Nicomidia",
+    "full": "Sfânta Muceniță Iuliana din Nicomidia",
+    "short": "Iuliana din Nicomidia",
+    "given": "Iuliana"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-iuliana-din-nicomidia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-iuliana-din-nicomidia-sf-mc-temistocle/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

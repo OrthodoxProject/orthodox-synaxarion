@@ -1,0 +1,20 @@
+{
+  "id": "juliana-2",
+  "locale": "en",
+  "names": {
+    "display": "Virgin Martyr Juliana",
+    "short": "Juliana",
+    "given": "Juliana"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/20/100849-virgin-martyrs-alexandria-claudia-euphrasia-matrona-juliana-euph",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

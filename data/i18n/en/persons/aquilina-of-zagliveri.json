@@ -1,0 +1,20 @@
+{
+  "id": "aquilina-of-zagliveri",
+  "locale": "en",
+  "names": {
+    "display": "New Martyr Aquilina",
+    "short": "Aquilina",
+    "given": "Aquilina"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/27/148988-new-martyr-aquilina",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

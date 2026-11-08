@@ -1,0 +1,36 @@
+{
+  "tradition": "serbian",
+  "date": "09-24",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:synaxis-of-saints-of-alaska"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:peter-the-aleut--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:thekla--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:copres-of-palestine--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:silouan-of-mount-athos--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

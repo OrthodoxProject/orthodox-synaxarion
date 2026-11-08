@@ -1,0 +1,20 @@
+{
+  "id": "protogenes-of-carrhae",
+  "locale": "en",
+  "names": {
+    "display": "Confessor Protogenes, Bishop of Carrhae",
+    "short": "Protogenes, Bishop of Carrhae",
+    "given": "Protogenes"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/25/102394-confessors-barses-and-eulogius-bishops-of-edessa-and-protogenes",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

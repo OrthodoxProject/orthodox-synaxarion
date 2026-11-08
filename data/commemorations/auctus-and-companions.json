@@ -1,0 +1,31 @@
+{
+  "id": "auctus-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:auctus",
+    "person:taurion",
+    "person:thessalonica"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 7
+  },
+  "external_ids": {
+    "oca": "103240"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/07/103240-martyrs-auctus-taurion-and-thessalonica-at-amphipolis-in-macedon",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

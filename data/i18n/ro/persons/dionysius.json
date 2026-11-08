@@ -1,0 +1,26 @@
+{
+  "id": "dionysius",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Dionisie",
+    "full": "Sfântul Mucenic Dionisie",
+    "short": "Dionisie",
+    "given": "Dionisie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-dionisie-0",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-petru-dionisie-si-paulin/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

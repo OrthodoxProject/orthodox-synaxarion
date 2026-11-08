@@ -1,0 +1,26 @@
+{
+  "id": "daniel-the-stylite-of-constantinople",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Daniil Stâlpnicul",
+    "full": "Sfântul Cuvios Daniil Stâlpnicul",
+    "short": "Daniil Stâlpnicul",
+    "given": "Daniil"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-daniil-stalpnicul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-daniil-stalpnicul-si-luca-cel-nou/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

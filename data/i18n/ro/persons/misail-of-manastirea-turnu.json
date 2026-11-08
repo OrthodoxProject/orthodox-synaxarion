@@ -1,0 +1,26 @@
+{
+  "id": "misail-of-manastirea-turnu",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Misail de la Mănăstirea Turnu",
+    "full": "Sfântul Cuvios Misail de la Mănăstirea Turnu",
+    "short": "Misail de la Mănăstirea Turnu",
+    "given": "Misail"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-misail-de-la-manastirea-turnu",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-daniil-si-misail-de-la-manastirea-turnu-sf-mc-haritina/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "john-of-kazan",
+  "locale": "en",
+  "names": {
+    "display": "Martyr John of Kazan",
+    "short": "John of Kazan",
+    "given": "John"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/24/100289-martyr-john-of-kazan",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

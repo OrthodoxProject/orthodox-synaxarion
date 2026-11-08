@@ -1,0 +1,35 @@
+{
+  "id": "peregrinus-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:peregrinus",
+    "person:lucian-2",
+    "person:ompeius",
+    "person:hesychius-2",
+    "person:papius",
+    "person:saturninus",
+    "person:germanus-of-dyrrachium"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 7
+  },
+  "external_ids": {
+    "oca": "101953"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/07/101953-martyrs-peregrinus-lucian-ompeius-hesychius-papius-saturninus-an",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

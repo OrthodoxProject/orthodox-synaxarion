@@ -1,0 +1,28 @@
+{
+  "id": "innocent",
+  "locale": "en",
+  "names": {
+    "display": "Repose of Saint Innocent, first Bishop of Irkutsk",
+    "short": "Innocent, first Bishop of Irkutsk",
+    "given": "Innocent",
+    "variants": [
+      "Venerable Nikon “Metanoeite,” the Preacher of Repentance"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/26/103399-repose-of-saint-innocent-first-bishop-of-irkutsk",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/26/103800-venerable-nikon-metanoeite-the-preacher-of-repentance",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "columba-of-iona",
+  "locale": "en",
+  "names": {
+    "display": "Saint Columba of Iona, Enlightener of Scotland",
+    "short": "Columba of Iona, Enlightener of Scotland",
+    "given": "Columba"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/09/101679-saint-columba-of-iona-enlightener-of-scotland",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

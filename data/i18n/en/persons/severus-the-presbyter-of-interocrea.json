@@ -1,0 +1,20 @@
+{
+  "id": "severus-the-presbyter-of-interocrea",
+  "locale": "en",
+  "names": {
+    "display": "Saint Severus the Presbyter of Interocrea, Italy",
+    "short": "Severus the Presbyter of Interocrea, Italy",
+    "given": "Severus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/27/101829-saint-severus-the-presbyter-of-interocrea-italy",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "james-coptic-2",
+  "locale": "en",
+  "names": {
+    "display": "Saint James (Yacobus), 50th Pope of Alexandria",
+    "short": "James, 50th Pope of Alexandria",
+    "given": "James"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/6_9.html?lang=en#2",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/6_14.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "serapion-the-new",
+  "locale": "en",
+  "names": {
+    "display": "Saint Serapion the New",
+    "short": "Serapion the New",
+    "given": "Serapion"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/12/100179-saint-serapion-the-new",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

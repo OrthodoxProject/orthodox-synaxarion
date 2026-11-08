@@ -1,0 +1,20 @@
+{
+  "id": "therapon-of-white-lake",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Therapon, Abbot of White Lake",
+    "short": "Therapon, Abbot of White Lake",
+    "given": "Therapon"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/27/101546-venerable-therapon-abbot-of-white-lake",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

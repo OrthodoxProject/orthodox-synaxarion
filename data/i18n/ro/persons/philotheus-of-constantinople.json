@@ -1,0 +1,21 @@
+{
+  "id": "philotheus-of-constantinople",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Filotei I (Kokkinos), Patriarhul Constantinopolului",
+    "full": "Sfântul Filotei I (Kokkinos), Patriarhul Constantinopolului",
+    "short": "Filotei I (Kokkinos), Patriarhul Constantinopolului",
+    "given": "Filotei"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-filotei-i-kokkinos-patriarhul-constantinopolului",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

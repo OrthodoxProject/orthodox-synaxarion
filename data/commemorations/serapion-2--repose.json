@@ -1,0 +1,26 @@
+{
+  "id": "serapion-2--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:serapion-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 5
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-serapion",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

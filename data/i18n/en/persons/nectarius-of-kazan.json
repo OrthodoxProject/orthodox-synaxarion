@@ -1,0 +1,20 @@
+{
+  "id": "nectarius-of-kazan",
+  "locale": "en",
+  "names": {
+    "display": "Saint Nectarius of Kazan",
+    "short": "Nectarius of Kazan",
+    "given": "Nectarius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/04/108934-saints-jonah-and-nectarius-of-kazan",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

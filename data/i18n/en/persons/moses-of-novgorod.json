@@ -1,0 +1,20 @@
+{
+  "id": "moses-of-novgorod",
+  "locale": "en",
+  "names": {
+    "display": "Saint Moses, Archbishop of Novgorod",
+    "short": "Moses, Archbishop of Novgorod",
+    "given": "Moses"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/25/100299-saint-moses-archbishop-of-novgorod",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

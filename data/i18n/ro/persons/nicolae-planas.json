@@ -1,0 +1,21 @@
+{
+  "id": "nicolae-planas",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Nicolae Planas, ocrotitorul celor căsătoriți",
+    "full": "Sfântul Nicolae Planas, ocrotitorul celor căsătoriți",
+    "short": "Nicolae Planas, ocrotitorul celor căsătoriți",
+    "given": "Nicolae"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-nicolae-planas-ocrotitorul-celor-casatoriti",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

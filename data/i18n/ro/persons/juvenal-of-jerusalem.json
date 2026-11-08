@@ -1,0 +1,29 @@
+{
+  "id": "juvenal-of-jerusalem",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Iuvenalie, patriarhul Ierusalimului",
+    "full": "Sfântul Ierarh Iuvenalie, patriarhul Ierusalimului",
+    "short": "Iuvenalie, patriarhul Ierusalimului",
+    "given": "Iuvenalie",
+    "variants": [
+      "Sf. Ier. Iuvenalie, arhiepiscopul Ierusalimului"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-iuvenalie-patriarhul-ierusalimului",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/asezarea-vesmantului-nascatoarei-de-dumnezeu-in-biserica-vlaherne-%e2%80%a0-sf-voievod-stefan-cel-mare-sf-ier-iuvenalie-arhiepiscopul-ierusalimului-sf-ier-ioan-maximovici/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "apolinaria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Apolinaria",
+    "full": "Sfânta Cuvioasă Apolinaria",
+    "short": "Apolinaria",
+    "given": "Apolinaria"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-apolinaria",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/soborul-sf-70-de-apostoli-sf-cuv-teoctist-din-sicilia-nichifor-cel-lepros-si-apolinaria/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

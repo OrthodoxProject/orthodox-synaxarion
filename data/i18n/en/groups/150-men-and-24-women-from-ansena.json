@@ -1,0 +1,18 @@
+{
+  "id": "150-men-and-24-women-from-ansena",
+  "locale": "en",
+  "names": {
+    "display": "150 Men and 24 Women from Ansena"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/4_28.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

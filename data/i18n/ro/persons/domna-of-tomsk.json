@@ -1,0 +1,21 @@
+{
+  "id": "domna-of-tomsk",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Domnin",
+    "full": "Sfântul Mucenic Domnin",
+    "short": "Domnin",
+    "given": "Domnin"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-domnin-0",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

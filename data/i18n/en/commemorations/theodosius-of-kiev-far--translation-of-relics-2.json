@@ -1,0 +1,18 @@
+{
+  "id": "theodosius-of-kiev-far--translation-of-relics-2",
+  "locale": "en",
+  "names": {
+    "display": "Translation of the Relics of St Theodosius of the Kiev Caves"
+  },
+  "references": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/russian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

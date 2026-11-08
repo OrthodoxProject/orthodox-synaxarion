@@ -1,0 +1,21 @@
+{
+  "id": "teofil-the-nebun-pentru-hristos",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Teofil cel Nebun pentru Hristos",
+    "full": "Sfântul Cuvios Teofil cel Nebun pentru Hristos",
+    "short": "Teofil cel Nebun pentru Hristos",
+    "given": "Teofil"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-teofil-cel-nebun-pentru-hristos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

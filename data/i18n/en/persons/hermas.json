@@ -1,0 +1,20 @@
+{
+  "id": "hermas",
+  "locale": "en",
+  "names": {
+    "display": "Hieromartyr Hermas, the Presbyter",
+    "short": "Hermas, the Presbyter",
+    "given": "Hermas"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/04/103172-hieromartyrs-nicander-bishop-of-myra-and-hermas-the-presbyter",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

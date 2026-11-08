@@ -1,0 +1,20 @@
+{
+  "id": "ephraim-of-pereyaslavl",
+  "locale": "en",
+  "names": {
+    "display": "Saint Ephraim, Bishop of Pereyaslavl, Kiev Caves, Far Caves",
+    "short": "Ephraim, Bishop of Pereyaslavl, Kiev Caves, Far Caves",
+    "given": "Ephraim"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/28/100331-saint-ephraim-bishop-of-pereyaslavl-kiev-caves-far-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

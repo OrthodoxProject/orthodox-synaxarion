@@ -1,0 +1,21 @@
+{
+  "id": "gerontios-of-skete",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Gherontie Athonitul",
+    "full": "Sfântul Cuvios Gherontie Athonitul",
+    "short": "Gherontie Athonitul",
+    "given": "Gherontie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-gherontie-athonitul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

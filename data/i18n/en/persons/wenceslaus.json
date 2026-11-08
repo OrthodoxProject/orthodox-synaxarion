@@ -1,0 +1,20 @@
+{
+  "id": "wenceslaus",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Wenceslaus, Prince of the Czechs",
+    "short": "Wenceslaus, Prince of the Czechs",
+    "given": "Wenceslaus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/28/102754-martyr-wenceslaus-prince-of-the-czechs",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "halvard-norvegianul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Halvard Norvegianul",
+    "full": "Sfântul Mucenic Halvard Norvegianul",
+    "short": "Halvard Norvegianul",
+    "given": "Halvard"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-halvard-norvegianul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

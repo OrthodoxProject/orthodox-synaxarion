@@ -1,0 +1,25 @@
+{
+  "id": "eupsychius-of-caesarea",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Eupsychius of Caesarea, in Cappadocia",
+    "short": "Eupsychius of Caesarea, in Cappadocia",
+    "given": "Eupsychius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/09/101035-martyr-eupsychius-of-caesarea-in-cappadocia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/07/102538-martyr-eupsychius-of-caesarea-in-cappadocia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

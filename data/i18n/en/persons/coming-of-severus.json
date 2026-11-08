@@ -1,0 +1,20 @@
+{
+  "id": "coming-of-severus",
+  "locale": "en",
+  "names": {
+    "display": "The Coming of Saint Severus, Patriarch of Antioch, to Egypt",
+    "short": "Coming of Saint Severus, Patriarch of Antioch, to Egypt",
+    "given": "Coming"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/2_2.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

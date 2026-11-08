@@ -1,0 +1,21 @@
+{
+  "id": "memnon",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Memnon",
+    "full": "Sfântul Cuvios Memnon",
+    "short": "Memnon",
+    "given": "Memnon"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-memnon",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

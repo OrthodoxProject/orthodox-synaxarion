@@ -1,0 +1,31 @@
+{
+  "id": "platonida-of-arges--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:platonida-of-arges"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 26
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-platonida-de-la-arges-fosta-despina-milita-sotia-sfantului-voievod-neagoe-basarab",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-mutarea-sf-ap-si-evanghelist-ioan-%e2%80%a0-sf-voievod-neagoe-basarab-sf-cuv-platonida-de-la-arges-fosta-despina-milita-sotia-voievodului-dreptul-ghedeon/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro; de verificat."
+    ]
+  }
+}

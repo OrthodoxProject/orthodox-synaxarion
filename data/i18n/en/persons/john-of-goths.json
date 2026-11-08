@@ -1,0 +1,25 @@
+{
+  "id": "john-of-goths",
+  "locale": "en",
+  "names": {
+    "display": "Saint John, Bishop of the Goths in the Crimea",
+    "short": "John, Bishop of the Goths in the Crimea",
+    "given": "John"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/19/101443-saint-john-bishop-of-the-goths-in-the-crimea",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/26/101819-saint-john-bishop-of-the-goths-in-the-crimea",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "severian-of-sebaste",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Severian",
+    "full": "Sfântul Mucenic Severian",
+    "short": "Severian",
+    "given": "Severian"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-severian-0",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-si-dreptii-dumnezeiesti-parinti-ioachim-si-ana-%e2%80%a0-sf-cuv-chiriac-de-la-tazlau-%e2%80%a0-sf-cuv-onufrie-de-la-vorona-sf-mc-severian-sf-parinti-de-la-sinodul-al-iii-lea-ecumenic/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

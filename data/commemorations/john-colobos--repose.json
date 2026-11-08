@@ -1,0 +1,30 @@
+{
+  "id": "john-colobos--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:john-colobos"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 20,
+    "calendar": "coptic"
+  },
+  "external_ids": {
+    "copticchurch": "2_20#1"
+  },
+  "sources": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/2_20.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din copticchurch.net; de verificat."
+    ]
+  }
+}

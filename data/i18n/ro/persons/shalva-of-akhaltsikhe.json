@@ -1,0 +1,21 @@
+{
+  "id": "shalva-of-akhaltsikhe",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Salva din Akhaltsikhe, Georgia",
+    "full": "Sfântul Mucenic Salva din Akhaltsikhe, Georgia",
+    "short": "Salva din Akhaltsikhe, Georgia",
+    "given": "Salva"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-salva-din-akhaltsikhe-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "james-the-wonderworker-of-rostov",
+  "locale": "en",
+  "names": {
+    "display": "Saint James the Wonderworker, Bishop of Rostov",
+    "short": "James the Wonderworker, Bishop of Rostov",
+    "given": "James"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/27/103404-saint-james-the-wonderworker-bishop-of-rostov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

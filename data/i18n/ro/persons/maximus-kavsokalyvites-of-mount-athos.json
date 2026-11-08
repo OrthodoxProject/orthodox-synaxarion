@@ -1,0 +1,21 @@
+{
+  "id": "maximus-kavsokalyvites-of-mount-athos",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Maxim Kavsokalivitul",
+    "full": "Sfântul Cuvios Maxim Kavsokalivitul",
+    "short": "Maxim Kavsokalivitul",
+    "given": "Maxim"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-maxim-kavsokalivitul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

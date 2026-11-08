@@ -1,0 +1,26 @@
+{
+  "id": "cleopa-the-apostle",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ap. Cleopa",
+    "full": "Sfântul Apostol Cleopa",
+    "short": "Cleopa",
+    "given": "Cleopa"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-apostol-cleopa",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-sfintit-mc-zenovie-episcopul-ciliciei-si-sora-sa-zenovia-sf-ap-cleopa/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

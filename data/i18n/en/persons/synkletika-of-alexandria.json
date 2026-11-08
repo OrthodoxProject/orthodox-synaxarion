@@ -1,0 +1,20 @@
+{
+  "id": "synkletika-of-alexandria",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Synkletika of Alexandria",
+    "short": "Synkletika of Alexandria",
+    "given": "Synkletika"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/05/100099-venerable-synkletika-of-alexandria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

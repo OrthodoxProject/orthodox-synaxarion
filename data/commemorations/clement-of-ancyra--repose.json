@@ -1,0 +1,39 @@
+{
+  "id": "clement-of-ancyra--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:clement-of-ancyra"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 23
+  },
+  "external_ids": {
+    "oca": "100277"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-sfintit-mucenic-clement-episcopul-ancirei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-sfintit-mc-clement-episcopul-ancirei-sf-mc-agatanghel-sf-parinti-de-la-sinodul-al-vi-lea-ecumenic/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/23/100277-hieromartyr-clement-bishop-of-ancyra-and-martyr-agathangelus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

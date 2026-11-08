@@ -1,0 +1,35 @@
+{
+  "id": "lucillian-and-ipatie-2",
+  "kind": "repose",
+  "subjects": [
+    "person:lucillian",
+    "person:ipatie-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 3
+  },
+  "external_ids": {
+    "oca": "101571"
+  },
+  "sources": [
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-luchilian-ipatie-si-paula-fecioara-harti/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/03/101571-martyr-lucillian-and-those-who-suffered-with-him-at-byzantium",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

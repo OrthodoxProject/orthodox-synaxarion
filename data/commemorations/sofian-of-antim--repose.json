@@ -1,0 +1,31 @@
+{
+  "id": "sofian-of-antim--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:sofian-of-antim"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 16
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-marturisitor-sofian-de-la-antim",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-marturisitor-sofian-de-la-antim-sf-mare-mc-eufimia-sf-mc-meletina-si-ludmila/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro; de verificat."
+    ]
+  }
+}

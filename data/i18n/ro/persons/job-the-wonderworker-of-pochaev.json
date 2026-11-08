@@ -1,0 +1,21 @@
+{
+  "id": "job-the-wonderworker-of-pochaev",
+  "locale": "ro",
+  "names": {
+    "display": "Sfantul Cuv. Iov de la Poceaev",
+    "full": "Sfantul Cuvios Iov de la Poceaev",
+    "short": "Iov de la Poceaev",
+    "given": "Iov"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-iov-de-la-poceaev",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

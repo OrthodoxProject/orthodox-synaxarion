@@ -1,0 +1,25 @@
+{
+  "id": "9-kherkheulidze-brothers-and-companions",
+  "kind": "martyrs",
+  "count": {
+    "value": 9,
+    "precision": "exact"
+  },
+  "external_ids": {
+    "oca": "205464"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/03/205464-9-kherkheulidze-brothers-with-their-mother-and-sister-and-nine-t",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

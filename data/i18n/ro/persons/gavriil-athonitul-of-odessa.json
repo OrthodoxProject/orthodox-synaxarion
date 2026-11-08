@@ -1,0 +1,21 @@
+{
+  "id": "gavriil-athonitul-of-odessa",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Gavriil Athonitul din Odessa",
+    "full": "Sfântul Cuvios Gavriil Athonitul din Odessa",
+    "short": "Gavriil Athonitul din Odessa",
+    "given": "Gavriil"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-gavriil-athonitul-din-odessa",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

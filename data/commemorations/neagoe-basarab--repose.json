@@ -1,0 +1,40 @@
+{
+  "id": "neagoe-basarab--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:neagoe-basarab"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 26
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-voievod-neagoe-basarab",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-mutarea-sf-ap-si-evanghelist-ioan-%e2%80%a0-sf-voievod-neagoe-basarab-sf-cuv-platonida-de-la-arges-fosta-despina-milita-sotia-voievodului-dreptul-ghedeon/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/romanian_saints.json",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Neagoe_Basarab"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, orthodox-calendar, Wikipedia; de verificat."
+    ]
+  }
+}

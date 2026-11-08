@@ -1,0 +1,28 @@
+{
+  "id": "4-martyrs-tribuni-impreuna-and-companions",
+  "kind": "martyrs",
+  "count": {
+    "value": 4,
+    "precision": "exact"
+  },
+  "holiness_types": [
+    "martyr"
+  ],
+  "external_ids": {
+    "doxologia": "sfintii-4-mucenici-tribuni-impreuna-cu-cei-1003-mucenici-din-nicomidia"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfintii-4-mucenici-tribuni-impreuna-cu-cei-1003-mucenici-din-nicomidia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

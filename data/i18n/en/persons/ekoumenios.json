@@ -1,0 +1,20 @@
+{
+  "id": "ekoumenios",
+  "locale": "en",
+  "names": {
+    "display": "Saint Ekouménios, Wonderworker of Trikala",
+    "short": "Ekouménios, Wonderworker of Trikala",
+    "given": "Ekouménios"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/03/205353-saint-ekoumnios-wonderworker-of-trikala",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

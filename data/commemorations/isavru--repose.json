@@ -1,0 +1,26 @@
+{
+  "id": "isavru--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:isavru"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 17
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-isavru",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

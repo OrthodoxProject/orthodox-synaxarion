@@ -1,0 +1,20 @@
+{
+  "id": "john-of-golden-gospel",
+  "locale": "en",
+  "names": {
+    "display": "Saint John, of the Golden Gospel",
+    "short": "John, of the Golden Gospel",
+    "given": "John"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/11_16.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

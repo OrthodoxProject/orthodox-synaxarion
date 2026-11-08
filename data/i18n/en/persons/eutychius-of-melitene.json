@@ -1,0 +1,20 @@
+{
+  "id": "eutychius-of-melitene",
+  "locale": "en",
+  "names": {
+    "display": "Saint Eutychius, Bishop of Melitene",
+    "short": "Eutychius, Bishop of Melitene",
+    "given": "Eutychius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/28/101555-saint-eutychius-bishop-of-melitene",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

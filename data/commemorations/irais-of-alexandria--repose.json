@@ -1,0 +1,29 @@
+{
+  "id": "irais-of-alexandria--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:irais-of-alexandria"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 23
+  },
+  "external_ids": {
+    "oca": "102706"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/23/102706-virgin-martyr-irais-rhais-of-alexandria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

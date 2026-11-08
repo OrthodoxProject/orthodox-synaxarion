@@ -1,0 +1,29 @@
+{
+  "id": "isidore-of-seville--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:isidore-of-seville"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 4
+  },
+  "external_ids": {
+    "oca": "100993"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/04/100993-saint-isidore-bishop-of-seville",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

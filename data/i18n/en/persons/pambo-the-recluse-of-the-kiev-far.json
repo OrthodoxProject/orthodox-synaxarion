@@ -1,0 +1,20 @@
+{
+  "id": "pambo-the-recluse-of-the-kiev-far",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Pambo the Recluse of the Kiev Far Caves",
+    "short": "Pambo the Recluse of the Kiev Far Caves",
+    "given": "Pambo"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/18/102050-venerable-pambo-the-recluse-of-the-kiev-far-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

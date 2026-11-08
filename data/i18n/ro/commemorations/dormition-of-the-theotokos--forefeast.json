@@ -1,0 +1,23 @@
+{
+  "id": "dormition-of-the-theotokos--forefeast",
+  "locale": "ro",
+  "names": {
+    "display": "Înainte-prăznuirea Adormirii Maicii Domnului"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/inainte-praznuirea-adormirii-maicii-domnului",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/inainte-praznuirea-adormirii-maicii-domnului-sf-proroc-miheia/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

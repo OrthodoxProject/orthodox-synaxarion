@@ -1,0 +1,26 @@
+{
+  "id": "photius-of-nicomedia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Fotie",
+    "full": "Sfântul Mucenic Fotie",
+    "short": "Fotie",
+    "given": "Fotie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-fotie",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-fotie-si-anichit/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

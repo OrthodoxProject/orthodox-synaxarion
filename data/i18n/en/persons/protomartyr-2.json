@@ -1,0 +1,20 @@
+{
+  "id": "protomartyr-2",
+  "locale": "en",
+  "names": {
+    "display": "Saint Protomartyr",
+    "short": "Protomartyr",
+    "given": "Protomartyr"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/24/102715-protomartyr-and-equal-of-the-apostles-thekla",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

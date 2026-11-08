@@ -1,0 +1,28 @@
+{
+  "id": "raphael-of-banat",
+  "locale": "en",
+  "names": {
+    "display": "Saint Raphael of Banat",
+    "short": "Raphael of Banat",
+    "given": "Raphael",
+    "variants": [
+      "Raphael of Banat [ sr ; el ]"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/16/108057-saint-raphael-of-banat",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

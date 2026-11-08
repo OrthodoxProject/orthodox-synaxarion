@@ -1,0 +1,21 @@
+{
+  "id": "vukasin-of-klepci",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Martir Vakusin din Klepci",
+    "full": "Sfântul Martir Vakusin din Klepci",
+    "short": "Vakusin din Klepci",
+    "given": "Vakusin"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-martir-vakusin-din-klepci",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

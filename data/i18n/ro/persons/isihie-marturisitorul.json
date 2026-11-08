@@ -1,0 +1,21 @@
+{
+  "id": "isihie-marturisitorul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Isihie Mărturisitorul",
+    "full": "Sfântul Cuvios Isihie Mărturisitorul",
+    "short": "Isihie Mărturisitorul",
+    "given": "Isihie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-isihie-marturisitorul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

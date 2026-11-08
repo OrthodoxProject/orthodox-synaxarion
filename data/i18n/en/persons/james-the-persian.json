@@ -1,0 +1,20 @@
+{
+  "id": "james-the-persian",
+  "locale": "en",
+  "names": {
+    "display": "Greatmartyr James the Persian",
+    "short": "James the Persian",
+    "given": "James"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/27/103402-greatmartyr-james-the-persian",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

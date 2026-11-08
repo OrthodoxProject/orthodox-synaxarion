@@ -1,0 +1,24 @@
+{
+  "tradition": "serbian",
+  "date": "11-28",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:stephen-the-new--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:irenarchus--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:theodore-of-rostov--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

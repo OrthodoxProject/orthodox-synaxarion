@@ -1,0 +1,39 @@
+{
+  "id": "christina-of-tyre--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:christina-of-tyre"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 24
+  },
+  "external_ids": {
+    "oca": "102084"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mare-mucenita-hristina",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mare-mc-hristina-sf-mc-ermoghen/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/24/102084-martyr-christina-of-tyre",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

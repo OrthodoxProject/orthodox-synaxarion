@@ -1,0 +1,20 @@
+{
+  "id": "maximus-the-confessor",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Maximus the Confessor",
+    "short": "Maximus the Confessor",
+    "given": "Maximus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/21/100249-venerable-maximus-the-confessor",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "michael-the-fool-for-christ-of-the",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "venerable",
+    "fool_for_christ"
+  ],
+  "external_ids": {
+    "oca": "100150"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/11/100150-venerable-michael-the-fool-for-christ-of-the-klops-monastery-nov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat.",
+      "Genul nu reiese din sursă; e de verificat."
+    ]
+  }
+}

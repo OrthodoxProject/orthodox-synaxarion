@@ -1,0 +1,20 @@
+{
+  "id": "anastasia-the-patrician-of-alexandria",
+  "locale": "en",
+  "names": {
+    "display": "Saint Anastasia the Patrician of Alexandria",
+    "short": "Anastasia the Patrician of Alexandria",
+    "given": "Anastasia"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/10/100776-saint-anastasia-the-patrician-of-alexandria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

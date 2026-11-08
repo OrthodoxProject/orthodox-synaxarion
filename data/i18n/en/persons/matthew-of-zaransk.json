@@ -1,0 +1,20 @@
+{
+  "id": "matthew-of-zaransk",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Matthew of Zaransk",
+    "short": "Matthew of Zaransk",
+    "given": "Matthew"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/27/100436-venerable-matthew-of-zaransk",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

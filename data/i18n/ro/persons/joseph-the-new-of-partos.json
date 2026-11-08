@@ -1,0 +1,29 @@
+{
+  "id": "joseph-the-new-of-partos",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Iosif cel Nou de la Partoș, Mitropolitul Banatului",
+    "full": "Sfântul Ierarh Iosif cel Nou de la Partoș, Mitropolitul Banatului",
+    "short": "Iosif cel Nou de la Partoș, Mitropolitul Banatului",
+    "given": "Iosif",
+    "variants": [
+      "Sf. Ier. Iosif cel Nou de la Partoș, mitropolitul Banatului"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-iosif-cel-nou-de-la-partos-mitropolitul-banatului",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ier-iosif-cel-nou-de-la-partos-mitropolitul-banatului-%e2%80%a0-sf-mare-mc-nichita-%e2%80%a0-sf-ier-visarion-arhiepiscopul-larisei/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

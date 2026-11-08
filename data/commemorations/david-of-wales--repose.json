@@ -1,0 +1,29 @@
+{
+  "id": "david-of-wales--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:david-of-wales"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 1
+  },
+  "external_ids": {
+    "oca": "103905"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/01/103905-saint-david-bishop-of-wales",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

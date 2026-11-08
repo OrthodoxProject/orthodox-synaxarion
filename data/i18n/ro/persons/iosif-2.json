@@ -1,0 +1,21 @@
+{
+  "id": "iosif-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. și Drept. Iosif, Logodnicul Sfintei Fecioare Maria",
+    "full": "Sfântul și Dreptul Iosif, Logodnicul Sfintei Fecioare Maria",
+    "short": "Iosif, Logodnicul Sfintei Fecioare Maria",
+    "given": "Iosif"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-dreptul-iosif-logodnicul-sfintei-fecioare-maria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

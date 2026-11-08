@@ -1,0 +1,21 @@
+{
+  "id": "hilarion-of-optina",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ilarion de la Optina",
+    "full": "Sfântul Ilarion de la Optina",
+    "short": "Ilarion de la Optina",
+    "given": "Ilarion"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ilarion-de-la-optina",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "hristo-of-bulgaria",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Hristo of Bulgaria",
+    "short": "Hristo of Bulgaria",
+    "given": "Hristo"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/28/108030-martyr-hristo-of-bulgaria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

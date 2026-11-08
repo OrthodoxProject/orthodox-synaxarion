@@ -1,0 +1,20 @@
+{
+  "id": "niketas-the-goth",
+  "locale": "en",
+  "names": {
+    "display": "Greatmartyr Niketas the Goth",
+    "short": "Niketas the Goth",
+    "given": "Niketas"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/15/102615-greatmartyr-niketas-the-goth",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

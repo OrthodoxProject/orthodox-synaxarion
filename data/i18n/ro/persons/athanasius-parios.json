@@ -1,0 +1,21 @@
+{
+  "id": "athanasius-parios",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Atanasie din Paros",
+    "full": "Sfântul Atanasie din Paros",
+    "short": "Atanasie din Paros",
+    "given": "Atanasie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-atanasie-din-paros",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

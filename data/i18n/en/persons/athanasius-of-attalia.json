@@ -1,0 +1,20 @@
+{
+  "id": "athanasius-of-attalia",
+  "locale": "en",
+  "names": {
+    "display": "New Martyr Athanasius of Attalia (1700)",
+    "short": "Athanasius of Attalia",
+    "given": "Athanasius"
+  },
+  "references": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/russian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

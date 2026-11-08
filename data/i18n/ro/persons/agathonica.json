@@ -1,0 +1,26 @@
+{
+  "id": "agathonica",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Agatonica",
+    "full": "Sfânta Muceniță Agatonica",
+    "short": "Agatonica",
+    "given": "Agatonica"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-agatonica",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-aducerea-moastelor-sfantului-apostol-andrei-la-iasi-sf-mc-carp-papil-agatodor-agatonica-si-florentie/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

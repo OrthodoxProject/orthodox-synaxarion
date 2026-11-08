@@ -1,0 +1,30 @@
+{
+  "id": "justinian-the-great",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "right_believing"
+  ],
+  "external_ids": {
+    "doxologia": "binecredinciosul-imparat-justinian-cel-mare"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/binecredinciosul-imparat-justinian-cel-mare",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/aducerea-moastelor-sf-intai-mc-si-arhidiacon-stefan-dreptul-gamaliel-binecredinciosul-imparat-iustinian-cel-mare-duminica-a-9-a-dupa-rusalii-ap-1-corinteni-3-9-17-ev-matei-14-22-34-potolir/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro; de verificat."
+    ]
+  }
+}

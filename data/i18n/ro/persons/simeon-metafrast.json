@@ -1,0 +1,21 @@
+{
+  "id": "simeon-metafrast",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Simeon Metafrast",
+    "full": "Sfântul Simeon Metafrast",
+    "short": "Simeon Metafrast",
+    "given": "Simeon"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-simeon-metafrast",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

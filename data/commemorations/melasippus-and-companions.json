@@ -1,0 +1,31 @@
+{
+  "id": "melasippus-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:melasippus",
+    "person:karina",
+    "person:antoninus-and-forty-children-converted-by-their"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 7
+  },
+  "external_ids": {
+    "oca": "103236"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/07/103236-martyrs-melasippus-karina-their-son-antoninus-and-forty-children",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

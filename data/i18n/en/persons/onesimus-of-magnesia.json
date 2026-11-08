@@ -1,0 +1,20 @@
+{
+  "id": "onesimus-of-magnesia",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Onesimus of Magnesia",
+    "short": "Onesimus of Magnesia",
+    "given": "Onesimus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/14/102027-venerable-onesimus-of-magnesia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

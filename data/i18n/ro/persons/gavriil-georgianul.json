@@ -1,0 +1,21 @@
+{
+  "id": "gavriil-georgianul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mărt. Gavriil Georgianul",
+    "full": "Sfântul Cuvios Mărturisitor Gavriil Georgianul",
+    "short": "Gavriil Georgianul",
+    "given": "Gavriil"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-marturisitor-gavriil-georgianul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

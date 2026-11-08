@@ -1,0 +1,20 @@
+{
+  "id": "joseph-of-optina",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Joseph of Optina",
+    "short": "Joseph of Optina",
+    "given": "Joseph"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/09/148995-venerable-joseph-of-optina",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

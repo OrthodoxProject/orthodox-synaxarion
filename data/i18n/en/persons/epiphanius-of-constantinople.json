@@ -1,0 +1,20 @@
+{
+  "id": "epiphanius-of-constantinople",
+  "locale": "en",
+  "names": {
+    "display": "Saint Epiphanius, Patriarch of Constantinople",
+    "short": "Epiphanius, Patriarch of Constantinople",
+    "given": "Epiphanius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/25/108972-saint-epiphanius-patriarch-of-constantinople",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

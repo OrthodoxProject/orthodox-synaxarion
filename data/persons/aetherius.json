@@ -1,0 +1,28 @@
+{
+  "id": "aetherius",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "hieromartyr"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-sfintit-mc-efrem-episcopul-tomisului-sf-sfintiti-mc-vasilevs-evghenie-capiton-eterie-agatodor-si-elpidie-episcopi-de-herson-pomenirea-celor-adormiti/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/07/100685-the-holy-hieromartyrs-of-cherson-basil-ephraim-capito-eugene-aet",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.patriarhia.ro, oca.org; de verificat.",
+      "Genul nu reiese din sursă; e de verificat."
+    ]
+  }
+}

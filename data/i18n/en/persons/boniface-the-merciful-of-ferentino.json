@@ -1,0 +1,20 @@
+{
+  "id": "boniface-the-merciful-of-ferentino",
+  "locale": "en",
+  "names": {
+    "display": "Saint Boniface the Merciful, Bishop of Ferentino",
+    "short": "Boniface the Merciful, Bishop of Ferentino",
+    "given": "Boniface"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/19/103591-saint-boniface-the-merciful-bishop-of-ferentino",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

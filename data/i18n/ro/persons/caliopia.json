@@ -1,0 +1,21 @@
+{
+  "id": "caliopia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Caliopia",
+    "full": "Sfânta Muceniță Caliopia",
+    "short": "Caliopia",
+    "given": "Caliopia"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-caliopia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "chiril-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici Chiril, Chindeu și Tasie din Axiopolis (Cernavodă)"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfintii-mucenici-chiril-chindeu-tasie-din-axiopolis-cernavoda",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-soborul-sfintelor-femei-romance-%e2%80%a0-sf-mc-chiril-chindeu-si-tasie-din-axiopolis-cernavoda-sf-sfintit-mc-vasilevs-episcopul-amasiei-sf-glafira-duminica-a-3-a-dupa-pasti-a/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

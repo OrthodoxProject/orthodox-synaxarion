@@ -1,0 +1,21 @@
+{
+  "id": "teodor-of-alexandria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Teodor, Arhiepiscopul Alexandriei",
+    "full": "Sfântul Sfințit Mucenic Teodor, Arhiepiscopul Alexandriei",
+    "short": "Teodor, Arhiepiscopul Alexandriei",
+    "given": "Teodor"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-sfintit-mucenic-teodor-arhiepiscopul-alexandriei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

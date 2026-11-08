@@ -1,0 +1,18 @@
+{
+  "id": "saints-of-radonezh",
+  "locale": "en",
+  "names": {
+    "display": "Saints of Radonezh"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/06/101949-synaxis-of-the-saints-of-radonezh",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

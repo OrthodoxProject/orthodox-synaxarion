@@ -1,0 +1,58 @@
+{
+  "id": "dormition-of-the-theotokos--afterfeast",
+  "kind": "afterfeast",
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 16
+  },
+  "duration_days": 7,
+  "parent_feast": "comm:dormition-of-the-theotokos",
+  "external_ids": {
+    "oca": "102303"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/16/102303-afterfeast-of-the-dormition-of-the-mother-of-god",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/17/102308-afterfeast-of-the-dormition-of-the-mother-of-god",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/18/102323-afterfeast-of-the-dormition-of-the-mother-of-god",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/19/102339-afterfeast-of-the-dormition-of-the-mother-of-god",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/20/102348-afterfeast-of-the-dormition-of-the-mother-of-god",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/21/102354-afterfeast-of-the-dormition-of-the-mother-of-god",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/22/102363-afterfeast-of-the-dormition-of-the-mother-of-god",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

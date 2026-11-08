@@ -1,0 +1,26 @@
+{
+  "id": "straton",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Straton",
+    "full": "Sfântul Mucenic Straton",
+    "short": "Straton",
+    "given": "Straton"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-straton",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-gheorghe-pelerinul-%e2%80%a0-sf-cuv-nazaria-olimpiada-si-elisabeta-safta-brancoveanu-de-la-varatec-sf-mc-miron-preotul-straton-si-ciprian/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

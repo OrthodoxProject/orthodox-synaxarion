@@ -1,0 +1,20 @@
+{
+  "id": "nicholas-of-georgia",
+  "locale": "en",
+  "names": {
+    "display": "Saint Nicholas, Catholicos of Georgia",
+    "short": "Nicholas, Catholicos of Georgia",
+    "given": "Nicholas"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/18/103816-saint-nicholas-catholicos-of-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

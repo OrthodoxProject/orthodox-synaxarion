@@ -1,0 +1,21 @@
+{
+  "id": "rodopian",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Rodopian, diaconul",
+    "full": "Sfântul Mucenic Rodopian, diaconul",
+    "short": "Rodopian, diaconul",
+    "given": "Rodopian"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-rodopian-diaconul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

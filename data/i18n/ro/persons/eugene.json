@@ -1,0 +1,21 @@
+{
+  "id": "eugene",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Evghenie",
+    "full": "Sfântul Mucenic Evghenie",
+    "short": "Evghenie",
+    "given": "Evghenie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-evghenie",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

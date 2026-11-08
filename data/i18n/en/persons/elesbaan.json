@@ -1,0 +1,20 @@
+{
+  "id": "elesbaan",
+  "locale": "en",
+  "names": {
+    "display": "Blessed Elesbaan, King of Ethiopia",
+    "short": "Elesbaan, King of Ethiopia",
+    "given": "Elesbaan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/24/103048-blessed-elesbaan-king-of-ethiopia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

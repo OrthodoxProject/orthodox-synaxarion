@@ -1,0 +1,20 @@
+{
+  "id": "eulogius-of-alexandria",
+  "locale": "en",
+  "names": {
+    "display": "Saint Eulogius, Archbishop of Alexandria",
+    "short": "Eulogius, Archbishop of Alexandria",
+    "given": "Eulogius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/13/100517-saint-eulogius-archbishop-of-alexandria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

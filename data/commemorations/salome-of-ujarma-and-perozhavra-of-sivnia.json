@@ -1,0 +1,30 @@
+{
+  "id": "salome-of-ujarma-and-perozhavra-of-sivnia",
+  "kind": "repose",
+  "subjects": [
+    "person:salome-of-ujarma",
+    "person:perozhavra-of-sivnia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 15
+  },
+  "external_ids": {
+    "oca": "103809"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/15/103809-saints-salome-of-ujarma-and-perozhavra-of-sivnia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

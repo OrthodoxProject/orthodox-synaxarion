@@ -1,0 +1,21 @@
+{
+  "id": "cosma-etolul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Cosma Etolul",
+    "full": "Sfântul Sfințit Mucenic Cosma Etolul",
+    "short": "Cosma Etolul",
+    "given": "Cosma"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-sfintit-mucenic-cosma-etolul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

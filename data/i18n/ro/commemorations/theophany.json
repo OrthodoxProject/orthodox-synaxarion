@@ -1,0 +1,23 @@
+{
+  "id": "theophany",
+  "locale": "ro",
+  "names": {
+    "display": "Botezul Domnului (Boboteaza – Dumnezeiasca Arătare)"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/botezul-domnului-boboteaza-dumnezeiasca-aratare",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-botezul-domnului-dumnezeiasca-aratare-boboteaza/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

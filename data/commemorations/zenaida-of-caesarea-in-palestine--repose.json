@@ -1,0 +1,39 @@
+{
+  "id": "zenaida-of-caesarea-in-palestine--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:zenaida-of-caesarea-in-palestine"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 7
+  },
+  "external_ids": {
+    "oca": "205374"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-zenaida",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-sfintit-mc-teodot-episcopul-ancirei-sf-mc-zenaida-lasatul-secului-pentru-postul-sf-ap-petru-si-pavel-duminica-intai-dupa-rusalii-a-tuturor-sfintilor-ap-evrei-11-33-40-12-1-2-ev/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/07/205374-martyr-znada-zenais-of-caesarea-in-palestine",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

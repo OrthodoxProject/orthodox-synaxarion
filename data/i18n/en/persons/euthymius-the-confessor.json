@@ -1,0 +1,20 @@
+{
+  "id": "euthymius-the-confessor",
+  "locale": "en",
+  "names": {
+    "display": "Saint Euthymius the Confessor",
+    "short": "Euthymius the Confessor",
+    "given": "Euthymius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/20/205439-saint-euthymius-the-confessor",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

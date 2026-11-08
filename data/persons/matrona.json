@@ -1,0 +1,23 @@
+{
+  "id": "matrona",
+  "kind": "saint",
+  "gender": "female",
+  "holiness_types": [
+    "virgin",
+    "martyr"
+  ],
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/20/100849-virgin-martyrs-alexandria-claudia-euphrasia-matrona-juliana-euph",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

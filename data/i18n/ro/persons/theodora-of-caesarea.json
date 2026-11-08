@@ -1,0 +1,21 @@
+{
+  "id": "theodora-of-caesarea",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Teodora din Cezareea",
+    "full": "Sfânta Cuvioasă Teodora din Cezareea",
+    "short": "Teodora din Cezareea",
+    "given": "Teodora"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-teodora-din-cezareea",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

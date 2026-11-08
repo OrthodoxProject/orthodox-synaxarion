@@ -1,0 +1,20 @@
+{
+  "id": "dionysios-the-monk",
+  "locale": "en",
+  "names": {
+    "display": "Monastic Martyr Dionysios the Monk",
+    "short": "Dionysios the Monk",
+    "given": "Dionysios"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/01/103148-monastic-martyrs-james-and-his-two-disciples-james-the-deacon-an",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

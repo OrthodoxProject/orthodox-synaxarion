@@ -1,0 +1,21 @@
+{
+  "id": "alipie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Alipie, iconarul",
+    "full": "Sfântul Alipie, iconarul",
+    "short": "Alipie, iconarul",
+    "given": "Alipie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-alipie-iconarul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

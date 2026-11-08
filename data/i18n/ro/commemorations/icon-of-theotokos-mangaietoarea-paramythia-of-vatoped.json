@@ -1,0 +1,23 @@
+{
+  "id": "icon-of-theotokos-mangaietoarea-paramythia-of-vatoped",
+  "locale": "ro",
+  "names": {
+    "display": "Cinstirea Sfintei Icoanei a Maicii Domnului „Mângâietoarea” (Paramythia) de la Vatoped"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoanei-maicii-domnului-mangaietoarea-paramythia-de-la-vatoped",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoanei-maicii-domnului-injunghiata-de-la-vatoped",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

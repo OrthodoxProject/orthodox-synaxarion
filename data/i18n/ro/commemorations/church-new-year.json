@@ -1,0 +1,23 @@
+{
+  "id": "church-new-year",
+  "locale": "ro",
+  "names": {
+    "display": "Începutul anului bisericesc"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/inceputul-anului-bisericesc",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-inceputul-anului-bisericesc-%e2%80%a0-sf-cuv-dionisie-exiguul-sf-cuv-simeon-stalpnicul-sf-40-de-mucenite-din-adrianopol-dreptul-iosua-tedeum/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

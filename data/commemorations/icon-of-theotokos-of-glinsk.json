@@ -1,0 +1,29 @@
+{
+  "id": "icon-of-theotokos-of-glinsk",
+  "kind": "icon",
+  "subjects": [
+    "icon:icon-of-theotokos-of-glinsk"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 8
+  },
+  "external_ids": {
+    "oca": "108959"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/08/108959-icon-of-the-mother-of-god-of-glinsk",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

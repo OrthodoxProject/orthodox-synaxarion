@@ -1,0 +1,20 @@
+{
+  "id": "asclas-of-egypt",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Asclas of Egypt",
+    "short": "Asclas of Egypt",
+    "given": "Asclas"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/20/101451-martyr-asclas-of-egypt",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

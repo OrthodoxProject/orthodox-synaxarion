@@ -1,0 +1,20 @@
+{
+  "id": "serapion-of-novgorod",
+  "locale": "en",
+  "names": {
+    "display": "Saint Serapion, Archbishop of Novgorod",
+    "short": "Serapion, Archbishop of Novgorod",
+    "given": "Serapion"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/16/100815-saint-serapion-archbishop-of-novgorod",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

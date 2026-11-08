@@ -1,0 +1,20 @@
+{
+  "id": "lucy-of-syracuse",
+  "locale": "en",
+  "names": {
+    "display": "Virgin Martyr Lucy of Syracuse",
+    "short": "Lucy of Syracuse",
+    "given": "Lucy"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/13/103536-virgin-martyr-lucy-of-syracuse",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

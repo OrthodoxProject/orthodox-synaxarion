@@ -1,0 +1,20 @@
+{
+  "id": "alexander-of-constantinople",
+  "locale": "en",
+  "names": {
+    "display": "Saint Alexander, Patriarch of Constantinople",
+    "short": "Alexander, Patriarch of Constantinople",
+    "given": "Alexander"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/30/102420-saint-alexander-patriarch-of-constantinople",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

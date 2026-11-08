@@ -1,0 +1,28 @@
+{
+  "tradition": "romanian",
+  "date": "06-30",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:synaxis-of-holy-glorious-and-companions"
+      ],
+      "symbol": "black-plain"
+    },
+    {
+      "commemorations": [
+        "comm:gelasius-of-rimet--repose"
+      ],
+      "symbol": "blue-half-parenthesized"
+    },
+    {
+      "commemorations": [
+        "comm:ghervasie-of-patras--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:icon-of-theotokos-of-balikin"
+      ]
+    }
+  ]
+}

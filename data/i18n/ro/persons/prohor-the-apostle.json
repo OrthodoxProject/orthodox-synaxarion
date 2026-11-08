@@ -1,0 +1,25 @@
+{
+  "id": "prohor-the-apostle",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ap. și Diacon Prohor",
+    "short": "Prohor",
+    "given": "Prohor"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfintii-apostoli-diaconi-prohor-nicanor-timon-parmena-dintre-cei-70",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ap-si-diaconi-prohor-nicanor-timon-si-parmena-sf-cuv-pavel-de-la-xiropotamu/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

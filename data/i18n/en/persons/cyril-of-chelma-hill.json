@@ -1,0 +1,20 @@
+{
+  "id": "cyril-of-chelma-hill",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Cyril, Abbot of Chelma Hill",
+    "short": "Cyril, Abbot of Chelma Hill",
+    "given": "Cyril"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/08/103495-venerable-cyril-abbot-of-chelma-hill",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

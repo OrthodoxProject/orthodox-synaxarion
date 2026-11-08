@@ -1,0 +1,21 @@
+{
+  "id": "filon-of-carpasia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Filon, episcopul Carpasiei",
+    "full": "Sfântul Ierarh Filon, episcopul Carpasiei",
+    "short": "Filon, episcopul Carpasiei",
+    "given": "Filon"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-filon-episcopul-carpasiei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

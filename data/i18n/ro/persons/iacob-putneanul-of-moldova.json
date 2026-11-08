@@ -1,0 +1,29 @@
+{
+  "id": "iacob-putneanul-of-moldova",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Iacob Putneanul, Mitropolitul Moldovei",
+    "full": "Sfântul Ierarh Iacob Putneanul, Mitropolitul Moldovei",
+    "short": "Iacob Putneanul, Mitropolitul Moldovei",
+    "given": "Iacob",
+    "variants": [
+      "Sf. Ier. Iacob Putneanul, mitropolitul Moldovei"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-iacob-putneanul-mitropolitul-moldovei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ier-iacob-putneanul-mitropolitul-moldovei-sf-cuv-pahomie-cel-mare-dezlegare-la-peste/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

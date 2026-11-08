@@ -1,0 +1,29 @@
+{
+  "id": "boyan--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:boyan"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 28
+  },
+  "external_ids": {
+    "oca": "100934"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/28/100934-martyr-boyan-prince-of-bulgaria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

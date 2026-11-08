@@ -1,0 +1,30 @@
+{
+  "id": "paisius-of-janjevo--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:paisius-of-janjevo"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 15
+  },
+  "sources": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Paisius_of_Janjevo"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din orthodox-calendar, Wikipedia; de verificat."
+    ]
+  }
+}

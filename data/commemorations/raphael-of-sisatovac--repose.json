@@ -1,0 +1,29 @@
+{
+  "id": "raphael-of-sisatovac--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:raphael-of-sisatovac"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 21
+  },
+  "external_ids": {
+    "oca": "205316"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/21/205316-hieromartyr-raphael-of-sisatovac",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

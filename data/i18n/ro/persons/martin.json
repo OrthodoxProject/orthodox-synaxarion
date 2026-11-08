@@ -1,0 +1,21 @@
+{
+  "id": "martin",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Martin",
+    "full": "Sfântul Mucenic Martin",
+    "short": "Martin",
+    "given": "Martin"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-martin",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

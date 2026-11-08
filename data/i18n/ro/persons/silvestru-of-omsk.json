@@ -1,0 +1,21 @@
+{
+  "id": "silvestru-of-omsk",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Silvestru, arhiepiscopul de Omsk",
+    "full": "Sfântul Sfințit Nou Mucenic Silvestru, arhiepiscopul de Omsk",
+    "short": "Silvestru, arhiepiscopul de Omsk",
+    "given": "Silvestru"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-sfintit-nou-mucenic-silvestru-arhiepiscopul-de-omsk",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

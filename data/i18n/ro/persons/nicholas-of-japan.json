@@ -1,0 +1,21 @@
+{
+  "id": "nicholas-of-japan",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Nicolae al Japoniei",
+    "full": "Sfântul Ierarh Nicolae al Japoniei",
+    "short": "Nicolae al Japoniei",
+    "given": "Nicolae"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-nicolae-al-japoniei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

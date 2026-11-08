@@ -1,0 +1,20 @@
+{
+  "id": "marcian-of-syracuse",
+  "locale": "en",
+  "names": {
+    "display": "Hieromartyr Marcian, Bishop of Syracuse",
+    "short": "Marcian, Bishop of Syracuse",
+    "given": "Marcian"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/30/103115-hieromartyr-marcian-bishop-of-syracuse",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

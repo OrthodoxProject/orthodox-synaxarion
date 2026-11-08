@@ -1,0 +1,21 @@
+{
+  "id": "or",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Or",
+    "full": "Sfântul Mucenic Or",
+    "short": "Or",
+    "given": "Or"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-or",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

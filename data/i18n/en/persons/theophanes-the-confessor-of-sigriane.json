@@ -1,0 +1,20 @@
+{
+  "id": "theophanes-the-confessor-of-sigriane",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Theophanes the Confessor of Sigriane",
+    "short": "Theophanes the Confessor of Sigriane",
+    "given": "Theophanes"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/12/100787-venerable-theophanes-the-confessor-of-sigriane",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "gheorghe-of-tesalonic",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Gheorghe, episcopul Tesalonicului",
+    "full": "Sfântul Ierarh Gheorghe, episcopul Tesalonicului",
+    "short": "Gheorghe, episcopul Tesalonicului",
+    "given": "Gheorghe"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-gheorghe-episcopul-tesalonicului",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

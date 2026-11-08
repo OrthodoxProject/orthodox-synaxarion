@@ -1,0 +1,20 @@
+{
+  "id": "eumenius",
+  "locale": "en",
+  "names": {
+    "display": "Saint Eumenius, the Seventh Pope of the See of St. Mark",
+    "short": "Eumenius, Seventh Pope of the See of St. Mark",
+    "given": "Eumenius"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/2_9.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

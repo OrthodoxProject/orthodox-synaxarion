@@ -1,0 +1,19 @@
+{
+  "tradition": "ecumenical",
+  "date": "10-30",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:zenobios--repose",
+        "comm:zenobia-of-aeg--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:stephen-milutin-of-serbia--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

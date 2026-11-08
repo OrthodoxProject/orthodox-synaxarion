@@ -1,0 +1,21 @@
+{
+  "id": "publius-the-ascetic-of-syria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Publie",
+    "full": "Sfântul Cuvios Publie",
+    "short": "Publie",
+    "given": "Publie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-publie",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "tradition": "ecumenical",
+  "date": "08-30",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:alexander-of-constantinople--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:john-of-constantinople-2--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:paul-the-new-of-constantinople--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:alexander-of-svir--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

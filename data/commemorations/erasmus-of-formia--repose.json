@@ -1,0 +1,29 @@
+{
+  "id": "erasmus-of-formia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:erasmus-of-formia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 4
+  },
+  "external_ids": {
+    "oca": "101292"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/04/101292-holy-confessor-erasmus-bishop-of-formia-in-campania",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "icon-of-theotokos-of-mozdok-and-dubno-krasnogorsk",
+  "kind": "icon",
+  "subjects": [
+    "icon:icon-of-theotokos-of-mozdok-and-dubno-krasnogorsk"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 26
+  },
+  "external_ids": {
+    "oca": "101211"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/26/101211-icon-of-the-mother-of-god-of-mozdok-and-dubno-krasnogorsk",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

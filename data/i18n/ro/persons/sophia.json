@@ -1,0 +1,20 @@
+{
+  "id": "sophia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Sofia",
+    "short": "Sofia",
+    "given": "Sofia"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-sofia-fiicele-sale-pistis-elpis-agapis",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

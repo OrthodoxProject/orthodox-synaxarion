@@ -1,0 +1,20 @@
+{
+  "id": "philo-of-persian",
+  "locale": "en",
+  "names": {
+    "display": "Saint Philo, Bishop of the Persian",
+    "short": "Philo, Bishop of the Persian",
+    "given": "Philo"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/6_10.html?lang=en#4",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

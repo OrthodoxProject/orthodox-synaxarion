@@ -1,0 +1,26 @@
+{
+  "id": "prochorus-of-the-kiev-near-caves--02-23",
+  "kind": "repose",
+  "subjects": [
+    "person:prochorus-of-the-kiev-near-caves"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 23
+  },
+  "sources": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/russian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din orthodox-calendar; de verificat."
+    ]
+  }
+}

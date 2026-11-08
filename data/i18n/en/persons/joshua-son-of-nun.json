@@ -1,0 +1,20 @@
+{
+  "id": "joshua-son-of-nun",
+  "locale": "en",
+  "names": {
+    "display": "Great Prophet Joshua Son of Nun",
+    "short": "Joshua Son of Nun",
+    "given": "Joshua"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/10_26.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

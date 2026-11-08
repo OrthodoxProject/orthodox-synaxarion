@@ -1,0 +1,21 @@
+{
+  "id": "nahum-of-ochrid",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Naum",
+    "full": "Sfântul Cuvios Naum",
+    "short": "Naum",
+    "given": "Naum"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-naum",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

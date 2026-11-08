@@ -1,0 +1,35 @@
+{
+  "id": "zabulon-and-sosanna-of-georgia",
+  "kind": "repose",
+  "subjects": [
+    "person:zabulon",
+    "person:sosanna-of-georgia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 20
+  },
+  "external_ids": {
+    "oca": "101584"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfintii-zabulon-suzana-parintii-sfintei-nina-luminatoarea-georgiei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/20/101584-glorification-of-venerable-zabulon-and-sosanna-parents-of-saint",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, oca.org; de verificat."
+    ]
+  }
+}

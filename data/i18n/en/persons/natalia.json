@@ -1,0 +1,20 @@
+{
+  "id": "natalia",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Natalia",
+    "short": "Natalia",
+    "given": "Natalia"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/26/102398-martyrs-adrian-and-natalia-and-23-companions-of-nicomedia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

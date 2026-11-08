@@ -1,0 +1,26 @@
+{
+  "id": "john-the-new-of-sochi",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mare Mc. Ioan cel Nou de la Suceava",
+    "full": "Sfântul Mare Mucenic Ioan cel Nou de la Suceava",
+    "short": "Ioan cel Nou de la Suceava",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mare-mucenic-ioan-cel-nou-de-la-suceava",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-mare-mc-ioan-cel-nou-de-la-suceava-sf-ier-nichifor-marturisitorul-patriarhul-constantinopolului/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

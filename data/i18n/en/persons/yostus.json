@@ -1,0 +1,20 @@
+{
+  "id": "yostus",
+  "locale": "en",
+  "names": {
+    "display": "Saint Yostus, the Bishop",
+    "short": "Yostus, the Bishop",
+    "given": "Yostus"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/3_16.html?lang=en#3",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

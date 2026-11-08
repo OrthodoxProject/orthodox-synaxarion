@@ -1,0 +1,28 @@
+{
+  "id": "euphemia-the-all-praised",
+  "locale": "en",
+  "names": {
+    "display": "Greatmartyr Euphemia the All-praised",
+    "short": "Euphemia the All-praised",
+    "given": "Euphemia",
+    "variants": [
+      "Great Martyr Euphemia the All-praised"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/11/102002-greatmartyr-euphemia-the-all-praised",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/16/102626-great-martyr-euphemia-the-all-praised",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

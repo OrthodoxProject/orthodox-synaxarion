@@ -1,0 +1,20 @@
+{
+  "id": "sabinus-of-cyprus",
+  "locale": "en",
+  "names": {
+    "display": "Saint Sabinus, Archbishop of Cyprus",
+    "short": "Sabinus, Archbishop of Cyprus",
+    "given": "Sabinus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/12/101360-saint-sabinus-archbishop-of-cyprus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

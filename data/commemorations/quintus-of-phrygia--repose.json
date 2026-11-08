@@ -1,0 +1,29 @@
+{
+  "id": "quintus-of-phrygia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:quintus-of-phrygia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 6
+  },
+  "external_ids": {
+    "oca": "101936"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/06/101936-confessor-and-wonderworker-quintus-of-phrygia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "vitus-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:vitus",
+    "person:modestus",
+    "person:crescentia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 16
+  },
+  "external_ids": {
+    "oca": "101398"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/16/101398-martyrs-vitus-modestus-and-crescentia-at-lucania",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

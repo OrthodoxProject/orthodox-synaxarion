@@ -1,0 +1,39 @@
+{
+  "id": "romanus-the-deacon-of-caesarea--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:romanus-the-deacon-of-caesarea"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 18
+  },
+  "external_ids": {
+    "oca": "103322"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-roman-diaconul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-platon-roman-si-zaheu/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/18/103322-martyr-romanus-the-deacon-of-caesarea",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

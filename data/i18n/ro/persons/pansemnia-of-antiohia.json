@@ -1,0 +1,20 @@
+{
+  "id": "pansemnia-of-antiohia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Pansemnia din Antiohia",
+    "short": "Pansemnia din Antiohia",
+    "given": "Pansemnia"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfintii-cuviosi-teofan-pansemnia-din-antiohia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

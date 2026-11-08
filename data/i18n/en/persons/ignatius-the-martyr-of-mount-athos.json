@@ -1,0 +1,28 @@
+{
+  "id": "ignatius-the-martyr-of-mount-athos",
+  "locale": "en",
+  "names": {
+    "display": "New Martyr Ignatius the Martyr of Mount Athos",
+    "short": "Ignatius the Martyr of Mount Athos",
+    "given": "Ignatius",
+    "variants": [
+      "Monastic Martyr Ignatius the Monk of Bulgaria"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/01/101264-new-martyr-ignatius-the-martyr-of-mount-athos",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/08/102904-monastic-martyr-ignatius-the-monk-of-bulgaria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

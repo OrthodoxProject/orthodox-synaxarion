@@ -1,0 +1,21 @@
+{
+  "id": "gheorghe-of-ioannina",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Noul Mc. Gheorghe din Ioannina",
+    "full": "Sfântul Noul Mucenic Gheorghe din Ioannina",
+    "short": "Gheorghe din Ioannina",
+    "given": "Gheorghe"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-noul-mucenic-gheorghe-din-ioannina",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

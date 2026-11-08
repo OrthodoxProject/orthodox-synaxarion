@@ -1,0 +1,20 @@
+{
+  "id": "rabulas-of-samosata",
+  "locale": "en",
+  "names": {
+    "display": "Saint Rabulas of Samosata",
+    "short": "Rabulas of Samosata",
+    "given": "Rabulas"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/19/100567-saint-rabulas-of-samosata",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

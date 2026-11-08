@@ -1,0 +1,29 @@
+{
+  "id": "paraskevi-of-rome",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Paraschevi din Roma",
+    "full": "Sfânta Cuvioasă Muceniță Paraschevi din Roma",
+    "short": "Paraschevi din Roma",
+    "given": "Paraschevi",
+    "variants": [
+      "Sf. Mc. Paraschevi din Roma"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-mucenita-paraschevi-din-roma",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-ioanichie-cel-nou-de-la-muscel-sf-sfintit-mc-ermolae-sf-mc-paraschevi-din-roma/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

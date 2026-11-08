@@ -1,0 +1,21 @@
+{
+  "id": "eleusippus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Elasip",
+    "full": "Sfântul Mucenic Elasip",
+    "short": "Elasip",
+    "given": "Elasip"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-elasip",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

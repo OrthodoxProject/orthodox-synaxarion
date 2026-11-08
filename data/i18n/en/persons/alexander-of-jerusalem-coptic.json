@@ -1,0 +1,20 @@
+{
+  "id": "alexander-of-jerusalem-coptic",
+  "locale": "en",
+  "names": {
+    "display": "Saint Alexander, Bishop of Jerusalem",
+    "short": "Alexander, Bishop of Jerusalem",
+    "given": "Alexander"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/8_12.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "tradition": "serbian",
+  "date": "09-17",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:peter-of-dabar-and-bosnia--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:sophia-and-companions"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:icon-of-theotokos-of-macariev"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

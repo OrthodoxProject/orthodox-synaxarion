@@ -1,0 +1,26 @@
+{
+  "id": "isihie-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Isihie",
+    "full": "Sfântul Mucenic Isihie",
+    "short": "Isihie",
+    "given": "Isihie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-isihie-0",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-proroc-amos-%e2%80%a0-sf-mc-isihie-fericitii-augustin-si-ieronim-dezlegare-la-peste/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

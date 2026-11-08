@@ -1,0 +1,26 @@
+{
+  "id": "gordius-at-caesarea",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Gordie",
+    "full": "Sfântul Mucenic Gordie",
+    "short": "Gordie",
+    "given": "Gordie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-gordie",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-proroc-maleahi-sf-mc-gordie-zi-aliturgica-harti/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

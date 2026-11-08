@@ -1,0 +1,30 @@
+{
+  "id": "peter-and-paul-the-apostles",
+  "kind": "repose",
+  "subjects": [
+    "group:peter-and-paul-the-apostles"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 5,
+    "calendar": "coptic"
+  },
+  "external_ids": {
+    "copticchurch": "11_5#1"
+  },
+  "sources": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/11_5.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din copticchurch.net; de verificat."
+    ]
+  }
+}

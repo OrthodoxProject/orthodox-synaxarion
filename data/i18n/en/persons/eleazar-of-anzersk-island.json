@@ -1,0 +1,20 @@
+{
+  "id": "eleazar-of-anzersk-island",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Eleazar of Anzersk Island, Solovki",
+    "short": "Eleazar of Anzersk Island, Solovki",
+    "given": "Eleazar"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/13/100167-venerable-eleazar-of-anzersk-island-solovki",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

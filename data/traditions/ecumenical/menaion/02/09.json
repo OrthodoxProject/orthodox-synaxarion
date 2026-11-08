@@ -1,0 +1,25 @@
+{
+  "tradition": "ecumenical",
+  "date": "02-09",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:nikephoros-of-antioch--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:marcellus-of-sicily--repose",
+        "comm:pancratius-of-taoromina--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:meeting-of-the-lord--leavetaking"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

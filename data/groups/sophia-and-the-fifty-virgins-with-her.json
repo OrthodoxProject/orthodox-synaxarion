@@ -1,0 +1,24 @@
+{
+  "id": "sophia-and-the-fifty-virgins-with-her",
+  "kind": "martyrs",
+  "holiness_types": [
+    "martyr"
+  ],
+  "external_ids": {
+    "copticchurch": "3_10#1"
+  },
+  "sources": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/3_10.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din copticchurch.net; de verificat."
+    ]
+  }
+}

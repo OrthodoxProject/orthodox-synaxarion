@@ -1,0 +1,20 @@
+{
+  "id": "john-maximovitch-of-tobolsk",
+  "locale": "en",
+  "names": {
+    "display": "Saint John Maximovitch, Metropolitan of Tobolsk",
+    "short": "John Maximovitch, Metropolitan of Tobolsk",
+    "given": "John"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/10/101683-saint-john-maximovitch-metropolitan-of-tobolsk",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

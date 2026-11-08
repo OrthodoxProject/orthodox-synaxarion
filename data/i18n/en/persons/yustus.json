@@ -1,0 +1,20 @@
+{
+  "id": "yustus",
+  "locale": "en",
+  "names": {
+    "display": "Saint Yustus, the monk of St. Anthony's monastery",
+    "short": "Yustus, the monk of St. Anthony's monastery",
+    "given": "Yustus"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/4_8.html?lang=en#5",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

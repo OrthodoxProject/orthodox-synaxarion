@@ -1,0 +1,28 @@
+{
+  "tradition": "romanian",
+  "date": "11-20",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:gregory-the-decapolite--repose"
+      ],
+      "symbol": "blue-half-parenthesized"
+    },
+    {
+      "commemorations": [
+        "comm:dasius-of-dorostorum--repose"
+      ],
+      "symbol": "blue-plain"
+    },
+    {
+      "commemorations": [
+        "comm:proclus-of-constantinople--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:entry-of-the-theotokos--forefeast"
+      ]
+    }
+  ]
+}

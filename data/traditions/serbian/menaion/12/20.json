@@ -1,0 +1,29 @@
+{
+  "tradition": "serbian",
+  "date": "12-20",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:gregory-of-gornjak--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:ignatius-the-god-bearer-of-antioch--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:john-of-kronstadt--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:icon-of-theotokos-of-novgorod"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "gregory-the-bishop",
+  "locale": "en",
+  "names": {
+    "display": "Saint Gregory the Bishop",
+    "short": "Gregory the Bishop",
+    "given": "Gregory"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/30/102441-saint-gregory-the-bishop",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

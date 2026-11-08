@@ -1,0 +1,21 @@
+{
+  "id": "ennatha-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Enata",
+    "full": "Sfânta Muceniță Enata",
+    "short": "Enata",
+    "given": "Enata"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-enata",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

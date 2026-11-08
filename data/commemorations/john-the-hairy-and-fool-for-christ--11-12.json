@@ -1,0 +1,29 @@
+{
+  "id": "john-the-hairy-and-fool-for-christ--11-12",
+  "kind": "repose",
+  "subjects": [
+    "person:john-the-hairy-and-fool-for-christ"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 12
+  },
+  "external_ids": {
+    "oca": "103288"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/12/103288-blessed-john-the-hairy-and-fool-for-christ-at-rostov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

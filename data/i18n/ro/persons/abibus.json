@@ -1,0 +1,21 @@
+{
+  "id": "abibus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Aviv",
+    "full": "Sfântul Mucenic Aviv",
+    "short": "Aviv",
+    "given": "Aviv"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-aviv",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

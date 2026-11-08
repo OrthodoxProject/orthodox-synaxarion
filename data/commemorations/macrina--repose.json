@@ -1,0 +1,39 @@
+{
+  "id": "macrina--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:macrina"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 19
+  },
+  "external_ids": {
+    "oca": "102055"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-macrina-sora-sfantului-vasile-cel-mare",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-macrina-sora-sf-vasile-cel-mare-sfintii-din-familia-sf-vasile-cel-mare-sf-cuv-die-aflarea-moastelor-sf-cuv-serafim-de-sarov-duminica-a-7-a-dupa-rusalii-a-sf-parinti-de-la-sinodul/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/19/102055-venerable-macrina-sister-of-saint-basil-the-great",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

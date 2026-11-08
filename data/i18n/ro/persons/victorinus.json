@@ -1,0 +1,21 @@
+{
+  "id": "victorinus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Victorin",
+    "full": "Sfântul Mucenic Victorin",
+    "short": "Victorin",
+    "given": "Victorin"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-victorin",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

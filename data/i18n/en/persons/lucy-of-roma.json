@@ -1,0 +1,20 @@
+{
+  "id": "lucy-of-roma",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Lucy, and those with her, at Rome",
+    "short": "Lucy",
+    "given": "Lucy"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/06/101937-martyr-lucy-and-those-with-her-at-rome",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

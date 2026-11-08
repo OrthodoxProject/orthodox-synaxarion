@@ -1,0 +1,39 @@
+{
+  "id": "sfantul-sfintit-mucenic-atinoghen-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "group:sfantul-sfintit-mucenic-atinoghen-and-companions"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 16
+  },
+  "external_ids": {
+    "oca": "102033"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-sfintit-mucenic-atinoghen-cu-cei-10-ucenici-ai-sai",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-sfintit-mc-atinoghen-cu-cei-10-ucenici-ai-lui-sf-mc-iulia/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/16/102033-hieromartyr-athenogenes-bishop-of-heracleopolis-and-his-ten-disc",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

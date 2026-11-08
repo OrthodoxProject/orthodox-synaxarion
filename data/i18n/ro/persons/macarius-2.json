@@ -1,0 +1,21 @@
+{
+  "id": "macarius-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Macarie",
+    "full": "Sfântul Mucenic Macarie",
+    "short": "Macarie",
+    "given": "Macarie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-macarie",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

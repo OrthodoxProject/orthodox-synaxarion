@@ -1,0 +1,18 @@
+{
+  "id": "the-assembly-of-the-ecumenical-council-at-nicea",
+  "locale": "en",
+  "names": {
+    "display": "The Assembly of the Ecumenical Council at Nicea"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/3_9.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

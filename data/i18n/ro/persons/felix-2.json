@@ -1,0 +1,21 @@
+{
+  "id": "felix-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Felix, preotul",
+    "full": "Sfântul Mucenic Felix, preotul",
+    "short": "Felix, preotul",
+    "given": "Felix"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-felix-preotul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

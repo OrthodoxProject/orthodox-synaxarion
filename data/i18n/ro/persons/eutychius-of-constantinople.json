@@ -1,0 +1,29 @@
+{
+  "id": "eutychius-of-constantinople",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Eutihie, Patriarhul Constantinopolului",
+    "full": "Sfântul Ierarh Eutihie, Patriarhul Constantinopolului",
+    "short": "Eutihie, Patriarhul Constantinopolului",
+    "given": "Eutihie",
+    "variants": [
+      "Sf. Ier. Eutihie, patriarhul Constantinopolului"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-eutihie-patriarhul-constantinopolului",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sfanta-si-marea-luni-denie-%e2%80%a0-sf-sfintit-mc-irineu-episcop-de-sirmium-sf-ier-eutihie-patriarhul-constantinopolului-sf-cuv-grigorie-sinaitul-sf-cuv-platonida/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "nestor-of-mileseva-sr",
+  "locale": "en",
+  "names": {
+    "display": "Saint Nestor of Mileševa [ sr ]",
+    "short": "Nestor of Mileševa [ sr ]",
+    "given": "Nestor"
+  },
+  "references": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

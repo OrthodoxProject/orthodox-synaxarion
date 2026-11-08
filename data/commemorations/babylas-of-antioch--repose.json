@@ -1,0 +1,39 @@
+{
+  "id": "babylas-of-antioch--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:babylas-of-antioch"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 4
+  },
+  "external_ids": {
+    "oca": "102485"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-sfintit-mucenic-vavila-episcopul-antiohiei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-sfintit-mc-vavila-episcopul-antiohiei-sf-proroc-moise-sf-mc-petroniu/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/04/102485-hieromartyr-babylas-bishop-of-antioch-and-those-with-him",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

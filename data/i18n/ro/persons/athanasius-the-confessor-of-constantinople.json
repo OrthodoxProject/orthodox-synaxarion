@@ -1,0 +1,21 @@
+{
+  "id": "athanasius-the-confessor-of-constantinople",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Atanasie",
+    "full": "Sfântul Cuvios Atanasie",
+    "short": "Atanasie",
+    "given": "Atanasie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-atanasie-0",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

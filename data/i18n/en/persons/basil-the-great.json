@@ -1,0 +1,20 @@
+{
+  "id": "basil-the-great",
+  "locale": "en",
+  "names": {
+    "display": "Saint Basil the Great, Bishop Of Caesarea",
+    "short": "Basil the Great, Of Caesarea",
+    "given": "Basil"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/5_6.html?lang=en#4",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

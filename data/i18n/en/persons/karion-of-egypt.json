@@ -1,0 +1,20 @@
+{
+  "id": "karion-of-egypt",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Karion (Cyrion) and his son, Venerable Zachariah, of Egypt",
+    "short": "Karion, his son, Zachariah, of Egypt",
+    "given": "Karion"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/05/103480-venerable-karion-cyrion-and-his-son-venerable-zachariah-of-egypt",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "tathuil",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Tathuil, and his sister, Bebaia",
+    "short": "Tathuil, his sister, Bebaia",
+    "given": "Tathuil"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/05/102506-martyr-tathuil-and-his-sister-bebaia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

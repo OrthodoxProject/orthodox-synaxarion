@@ -1,0 +1,20 @@
+{
+  "id": "john-kalphes",
+  "locale": "en",
+  "names": {
+    "display": "New Martyr John Kalphes, the Apprentice",
+    "short": "John Kalphes, Apprentice",
+    "given": "John"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/26/109061-new-martyr-john-kalphes-the-apprentice",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

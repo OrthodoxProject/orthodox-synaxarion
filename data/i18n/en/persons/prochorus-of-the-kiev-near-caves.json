@@ -1,0 +1,23 @@
+{
+  "id": "prochorus-of-the-kiev-near-caves",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Prochorus of the Kiev Near Caves",
+    "short": "Prochorus of the Kiev Near Caves",
+    "given": "Prochorus",
+    "variants": [
+      "Our Venerable Father Prochorus of the Kiev Caves (1107)"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/10/100495-venerable-prochorus-of-the-kiev-near-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

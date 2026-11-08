@@ -1,0 +1,21 @@
+{
+  "id": "petru-damaschinul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Petru Damaschinul",
+    "full": "Sfântul Petru Damaschinul",
+    "short": "Petru Damaschinul",
+    "given": "Petru"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-petru-damaschinul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

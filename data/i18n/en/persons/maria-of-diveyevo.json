@@ -1,0 +1,20 @@
+{
+  "id": "maria-of-diveyevo",
+  "locale": "en",
+  "names": {
+    "display": "Blessed Maria of Diveyevo",
+    "short": "Maria of Diveyevo",
+    "given": "Maria"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/26/100559-blessed-pelagia-paraskeva-and-maria-of-diveyevo",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

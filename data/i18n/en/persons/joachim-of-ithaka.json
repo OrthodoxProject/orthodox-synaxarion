@@ -1,0 +1,20 @@
+{
+  "id": "joachim-of-ithaka",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Joachim of Ithaka",
+    "short": "Joachim of Ithaka",
+    "given": "Joachim"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/02/100448-venerable-joachim-of-ithaka",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "platon-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Platon",
+    "full": "Sfântul Cuvios Platon",
+    "short": "Platon",
+    "given": "Platon"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-platon",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

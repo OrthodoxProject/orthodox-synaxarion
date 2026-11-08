@@ -1,0 +1,18 @@
+{
+  "id": "clemus-and-companions--translation-of-relics",
+  "locale": "en",
+  "names": {
+    "display": "The Translocation of the Relics of Sts. Clemus (Aklimos) and His Companions"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/1_12.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

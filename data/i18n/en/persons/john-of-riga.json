@@ -1,0 +1,20 @@
+{
+  "id": "john-of-riga",
+  "locale": "en",
+  "names": {
+    "display": "New Martyr John, Archbishop of Riga and Latvia",
+    "short": "John, Archbishop of Riga and Latvia",
+    "given": "John"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/12/108078-new-martyr-john-archbishop-of-riga-and-latvia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

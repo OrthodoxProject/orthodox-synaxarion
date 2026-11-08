@@ -1,0 +1,29 @@
+{
+  "id": "martyr-ia-and-9-000-martyrs-with-her",
+  "kind": "repose",
+  "subjects": [
+    "group:martyr-ia-and-9-000-martyrs-with-her"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 11
+  },
+  "external_ids": {
+    "oca": "102579"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/11/102579-martyr-ia-and-9000-martyrs-with-her-of-persia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

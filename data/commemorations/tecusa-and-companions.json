@@ -1,0 +1,35 @@
+{
+  "id": "tecusa-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:tecusa",
+    "person:alexandra-2",
+    "person:claudia-2",
+    "person:matrona-2",
+    "person:polactia",
+    "person:euphrosyne-3",
+    "person:athanasia-of-ancyra"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 6
+  },
+  "external_ids": {
+    "oca": "103190"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/06/103190-martyrs-tecusa-alexandra-claudia-matrona-polactia-euphrosyn-and",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

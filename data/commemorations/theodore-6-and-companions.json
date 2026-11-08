@@ -1,0 +1,33 @@
+{
+  "id": "theodore-6-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:theodore-6",
+    "person:mianus",
+    "person:julian-3",
+    "person:kion",
+    "person:centurionus-of-nicomedia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 4
+  },
+  "external_ids": {
+    "oca": "102495"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/04/102495-martyrs-theodore-mianus-julian-kion-and-centurionus-of-nicomedia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

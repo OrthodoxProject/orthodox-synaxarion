@@ -1,0 +1,26 @@
+{
+  "id": "luke-of-the-seventy",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "apostle",
+    "evangelist"
+  ],
+  "external_ids": {
+    "oca": "101181"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/22/101181-apostle-and-evangelist-luke-of-the-seventy",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

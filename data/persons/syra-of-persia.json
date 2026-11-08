@@ -1,0 +1,26 @@
+{
+  "id": "syra-of-persia",
+  "kind": "saint",
+  "gender": "female",
+  "holiness_types": [
+    "virgin",
+    "martyr"
+  ],
+  "external_ids": {
+    "oca": "102387"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/24/102387-virgin-martyr-syra-of-persia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

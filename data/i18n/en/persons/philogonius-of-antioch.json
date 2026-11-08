@@ -1,0 +1,20 @@
+{
+  "id": "philogonius-of-antioch",
+  "locale": "en",
+  "names": {
+    "display": "Saint Philogonius, Bishop of Antioch",
+    "short": "Philogonius, Bishop of Antioch",
+    "given": "Philogonius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/20/103596-saint-philogonius-bishop-of-antioch",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "siluan",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Siluan",
+    "full": "Sfântul Mucenic Siluan",
+    "short": "Siluan",
+    "given": "Siluan"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-siluan",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

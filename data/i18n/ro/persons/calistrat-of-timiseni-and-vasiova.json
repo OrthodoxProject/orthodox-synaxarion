@@ -1,0 +1,26 @@
+{
+  "id": "calistrat-of-timiseni-and-vasiova",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Calistrat de la Timișeni și Vasiova",
+    "full": "Sfântul Cuvios Calistrat de la Timișeni și Vasiova",
+    "short": "Calistrat de la Timișeni și Vasiova",
+    "given": "Calistrat"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-calistrat-de-la-timiseni-vasiova",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ap-simon-zilotul-%e2%80%a0-sf-cuv-calistrat-de-la-timiseni-si-vasiova-duminica-a-5-a-dupa-pasti-a-samarinencei-ap-fapte-11-19-30-ev-ioan-4-5-42-glas-4-voscr-7/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

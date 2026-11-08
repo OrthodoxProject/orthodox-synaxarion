@@ -1,0 +1,21 @@
+{
+  "id": "alexander-of-jerusalem",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Alexandru, Arhiepiscopul Ierusalimului",
+    "full": "Sfântul Ierarh Alexandru, Arhiepiscopul Ierusalimului",
+    "short": "Alexandru, Arhiepiscopul Ierusalimului",
+    "given": "Alexandru"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-alexandru-arhiepiscopul-ierusalimului",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

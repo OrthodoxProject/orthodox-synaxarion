@@ -1,0 +1,26 @@
+{
+  "id": "maxima",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Maxima, soția Sfântului Mucenic Montanus, preotul",
+    "full": "Sfânta Muceniță Maxima, soția Sfântului Mucenic Montanus, preotul",
+    "short": "Maxima, soția Sfântului Mucenic Montanus, preotul",
+    "given": "Maxima"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-maxima-sotia-sfantului-mucenic-montanus-preotul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/odovania-praznicului-bunei-vestiri-soborul-sf-arhanghel-gavriil-sf-mc-montanus-preotul-si-sotia-sa-maxima-sfintii-26-de-mucenici-din-gotia-dacia/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

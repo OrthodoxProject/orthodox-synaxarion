@@ -1,0 +1,28 @@
+{
+  "id": "mardarije-of-libertyville",
+  "locale": "en",
+  "names": {
+    "display": "Saint Mardarije (Uskokovic) of Libertyville",
+    "short": "Mardarije of Libertyville",
+    "given": "Mardarije",
+    "variants": [
+      "Mardarius of Lješanska"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/12/100485-saint-mardarije-uskokovic-of-libertyville",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

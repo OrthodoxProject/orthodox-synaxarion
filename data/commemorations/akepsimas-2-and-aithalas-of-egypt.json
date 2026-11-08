@@ -1,0 +1,30 @@
+{
+  "id": "akepsimas-2-and-aithalas-of-egypt",
+  "kind": "repose",
+  "subjects": [
+    "person:akepsimas-2",
+    "person:aithalas-of-egypt"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 11
+  },
+  "external_ids": {
+    "oca": "103523"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/11/103523-martyrs-akepsimas-and-aithalas-of-egypt",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

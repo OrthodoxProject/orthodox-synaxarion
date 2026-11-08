@@ -1,0 +1,20 @@
+{
+  "id": "youanis-x",
+  "locale": "en",
+  "names": {
+    "display": "Pope Youanis X, 85th Patriarch of Alexandria",
+    "short": "Youanis X, 85th Patriarch of Alexandria",
+    "given": "Youanis"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/11_19.html?lang=en#3",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

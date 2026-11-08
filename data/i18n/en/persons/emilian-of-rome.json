@@ -1,0 +1,20 @@
+{
+  "id": "emilian-of-rome",
+  "locale": "en",
+  "names": {
+    "display": "Saint Emilian of Rome",
+    "short": "Emilian of Rome",
+    "given": "Emilian"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/07/100694-saint-emilian-of-rome",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

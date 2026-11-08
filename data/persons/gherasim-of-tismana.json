@@ -1,0 +1,30 @@
+{
+  "id": "gherasim-of-tismana",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "venerable_martyr"
+  ],
+  "external_ids": {
+    "doxologia": "sfantul-cuvios-mucenic-gherasim-de-la-tismana"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-mucenic-gherasim-de-la-tismana",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-soborul-maicii-domnului-%e2%80%a0-sf-cuv-nicodim-cel-sfintit-de-la-tismana-%e2%80%a0-sf-cuv-mc-gherasim-de-la-tismana/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro; de verificat."
+    ]
+  }
+}

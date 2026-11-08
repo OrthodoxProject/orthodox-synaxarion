@@ -1,0 +1,29 @@
+{
+  "id": "youths-john-and-jacob-of-meniugi",
+  "kind": "repose",
+  "subjects": [
+    "group:youths-john-and-jacob-of-meniugi"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 24
+  },
+  "external_ids": {
+    "oca": "101801"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/24/101801-righteous-youths-john-and-jacob-james-of-meniugi",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

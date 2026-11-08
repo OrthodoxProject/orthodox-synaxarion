@@ -1,0 +1,26 @@
+{
+  "id": "iustin-popovici--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:iustin-popovici"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 14
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-iustin-popovici",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

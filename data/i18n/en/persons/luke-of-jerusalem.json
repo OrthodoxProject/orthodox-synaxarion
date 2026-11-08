@@ -1,0 +1,20 @@
+{
+  "id": "luke-of-jerusalem",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Luke (Luka) of Jerusalem, the Georgian",
+    "short": "Luke of Jerusalem, Georgian",
+    "given": "Luke"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/12/205455-martyr-luke-luka-of-jerusalem-the-georgian",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

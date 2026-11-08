@@ -1,0 +1,39 @@
+{
+  "id": "lucian-the-presbyter-of-antioch--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:lucian-the-presbyter-of-antioch"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 15
+  },
+  "external_ids": {
+    "oca": "102973"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-lucian-preotul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-magdalena-de-la-malainita-sf-sfintit-mc-lucian-preotul-din-antiohia/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/15/102973-martyr-lucian-the-presbyter-of-antioch",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

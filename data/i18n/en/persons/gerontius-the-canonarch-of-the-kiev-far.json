@@ -1,0 +1,25 @@
+{
+  "id": "gerontius-the-canonarch-of-the-kiev-far",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Gerontius the Canonarch of the Kiev Far Caves",
+    "short": "Gerontius the Canonarch of the Kiev Far Caves",
+    "given": "Gerontius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/01/100966-venerable-gerontius-the-canonarch-of-the-kiev-far-caves",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/01/100968-martyrs-gerontius-and-basilides",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

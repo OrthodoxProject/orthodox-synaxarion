@@ -1,0 +1,20 @@
+{
+  "id": "porphyry",
+  "locale": "en",
+  "names": {
+    "display": "Saint Porphyry",
+    "short": "Porphyry",
+    "given": "Porphyry"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/7_3.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

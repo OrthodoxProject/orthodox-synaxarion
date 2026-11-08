@@ -1,0 +1,29 @@
+{
+  "id": "john-of-rila--translation-of-relics",
+  "kind": "relics_translation",
+  "subjects": [
+    "person:john-of-rila"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 1
+  },
+  "external_ids": {
+    "oca": "101860"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/01/101860-translation-of-the-relics-of-venerable-john-of-rila-from-trnovo",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

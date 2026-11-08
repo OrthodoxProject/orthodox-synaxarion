@@ -1,0 +1,29 @@
+{
+  "id": "paisius-of-the-kiev-far-caves--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:paisius-of-the-kiev-far-caves"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 19
+  },
+  "external_ids": {
+    "oca": "102057"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/19/102057-venerable-paisius-of-the-kiev-far-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

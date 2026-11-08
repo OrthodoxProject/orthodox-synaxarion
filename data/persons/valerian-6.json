@@ -1,0 +1,24 @@
+{
+  "id": "valerian-6",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "virgin",
+    "martyr"
+  ],
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/22/103365-virgin-martyr-cecilia-and-the-holy-martyrs-valerian-tiburtius-an",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat.",
+      "Genul nu reiese din sursă; e de verificat."
+    ]
+  }
+}

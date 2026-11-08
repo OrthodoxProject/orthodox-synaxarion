@@ -1,0 +1,36 @@
+{
+  "id": "john-the-new-of-sochi",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "great_martyr"
+  ],
+  "external_ids": {
+    "doxologia": "sfantul-mare-mucenic-ioan-cel-nou-de-la-suceava",
+    "oca": "101582"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mare-mucenic-ioan-cel-nou-de-la-suceava",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-mare-mc-ioan-cel-nou-de-la-suceava-sf-ier-nichifor-marturisitorul-patriarhul-constantinopolului/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/02/101582-new-martyr-john-the-new-of-sochi-who-suffered-at-belgrade",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "theodore-of-mitilini",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Theodor Hagiul Noul Mc. din Mitilini",
+    "full": "Sfântul Theodor Hagiul Noul Mucenic din Mitilini",
+    "short": "Theodor Hagiul Noul Mucenic din Mitilini",
+    "given": "Theodor"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-theodor-hagiul-noul-mucenic-din-mitilini",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

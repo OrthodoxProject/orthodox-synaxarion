@@ -1,0 +1,21 @@
+{
+  "id": "filimon-of-gaza",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Filimon, Episcopul Gazei",
+    "full": "Sfântul Filimon, Episcopul Gazei",
+    "short": "Filimon, Episcopul Gazei",
+    "given": "Filimon"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-filimon-episcopul-gazei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

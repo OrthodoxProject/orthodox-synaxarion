@@ -1,0 +1,39 @@
+{
+  "id": "procopius-of-caesarea--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:procopius-of-caesarea"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 8
+  },
+  "external_ids": {
+    "oca": "101966"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mare-mucenic-procopie",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-mc-epictet-preotul-si-astion-monahul-sf-mare-mc-procopie-si-mama-sa-sf-mc-teodosia/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/08/101966-greatmartyr-procopius-of-caesarea-in-palestine",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

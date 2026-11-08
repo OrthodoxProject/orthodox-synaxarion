@@ -1,0 +1,29 @@
+{
+  "id": "icon-of-theotokos-of-filersk",
+  "kind": "icon",
+  "subjects": [
+    "icon:icon-of-theotokos-of-filersk"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 20
+  },
+  "external_ids": {
+    "oca": "205431"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/20/205431-icon-of-the-mother-of-god-of-filersk",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

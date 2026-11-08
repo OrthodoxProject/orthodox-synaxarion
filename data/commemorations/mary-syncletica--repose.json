@@ -1,0 +1,29 @@
+{
+  "id": "mary-syncletica--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:mary-syncletica"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 11
+  },
+  "external_ids": {
+    "oca": "109002"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/11/109002-saint-mary-syncletica",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

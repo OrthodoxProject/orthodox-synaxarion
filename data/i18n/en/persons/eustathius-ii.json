@@ -1,0 +1,20 @@
+{
+  "id": "eustathius-ii",
+  "locale": "en",
+  "names": {
+    "display": "Saint Eustathius II Ј",
+    "short": "Eustathius II Ј",
+    "given": "Eustathius"
+  },
+  "references": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

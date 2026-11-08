@@ -1,0 +1,26 @@
+{
+  "id": "anastasius-the-persian",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Anastasie Persul",
+    "full": "Sfântul Cuvios Mucenic Anastasie Persul",
+    "short": "Anastasie Persul",
+    "given": "Anastasie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-mucenic-anastasie-persul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ap-timotei-sf-cuv-mc-anastasie-persul/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

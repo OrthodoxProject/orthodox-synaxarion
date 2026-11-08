@@ -1,0 +1,21 @@
+{
+  "id": "sofronie-of-essex",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Sofronie de la Essex",
+    "full": "Sfântul Cuvios Sofronie de la Essex",
+    "short": "Sofronie de la Essex",
+    "given": "Sofronie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-sofronie-de-la-essex",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

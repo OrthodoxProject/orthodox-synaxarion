@@ -1,0 +1,21 @@
+{
+  "id": "candidus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Candid",
+    "full": "Sfântul Mucenic Candid",
+    "short": "Candid",
+    "given": "Candid"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-candid",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

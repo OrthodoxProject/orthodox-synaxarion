@@ -1,0 +1,20 @@
+{
+  "id": "john-the-bishop",
+  "locale": "en",
+  "names": {
+    "display": "Hieromartyr John the Bishop",
+    "short": "John the Bishop",
+    "given": "John"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/01/103137-hieromartyrs-john-the-bishop-and-jacob-james-the-presbyter-of-pe",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

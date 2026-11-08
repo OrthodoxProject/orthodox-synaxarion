@@ -1,0 +1,26 @@
+{
+  "id": "ludmilla-the-grandmother-of-wenceslaus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Ludmila",
+    "full": "Sfânta Muceniță Ludmila",
+    "short": "Ludmila",
+    "given": "Ludmila"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-ludmila",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-marturisitor-sofian-de-la-antim-sf-mare-mc-eufimia-sf-mc-meletina-si-ludmila/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

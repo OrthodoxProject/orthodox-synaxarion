@@ -1,0 +1,26 @@
+{
+  "id": "antia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Antia",
+    "full": "Sfânta Muceniță Antia",
+    "short": "Antia",
+    "given": "Antia"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-antia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-sfintit-mc-elefterie-episcopul-iliriei-sf-mc-antia-si-suzana-sf-cuv-pavel-din-latro/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

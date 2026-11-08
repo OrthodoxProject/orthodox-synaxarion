@@ -1,0 +1,20 @@
+{
+  "tradition": "ecumenical",
+  "date": "06-18",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:leontius--repose",
+        "comm:hypatius--repose",
+        "comm:theodulus-at-tripoli-in-syria--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:bogolyubov-icon-of-theotokos"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

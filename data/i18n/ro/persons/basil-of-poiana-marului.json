@@ -1,0 +1,26 @@
+{
+  "id": "basil-of-poiana-marului",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Vasile de la Poiana Mărului",
+    "full": "Sfântul Cuvios Vasile de la Poiana Mărului",
+    "short": "Vasile de la Poiana Mărului",
+    "given": "Vasile"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-vasile-de-la-poiana-marului",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ap-si-ev-marcu-%e2%80%a0-sf-cuv-vasile-de-la-poiana-marului/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

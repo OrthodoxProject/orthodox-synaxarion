@@ -1,0 +1,26 @@
+{
+  "id": "maria-of-persia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:maria-of-persia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 13
+  },
+  "sources": [
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-aducerea-moastelor-sfantului-cuvios-dimitrie-cel-nou-la-bucuresti-soborul-sf-arhanghel-gavriil-sf-cuv-stefan-savaitul-sf-mc-maria-din-persia-sf-cuv-sara-duminica-a-5-a-dupa-rusali/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.patriarhia.ro; de verificat."
+    ]
+  }
+}

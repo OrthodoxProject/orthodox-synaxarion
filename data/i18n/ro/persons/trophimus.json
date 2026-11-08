@@ -1,0 +1,21 @@
+{
+  "id": "trophimus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Trofim",
+    "full": "Sfântul Mucenic Trofim",
+    "short": "Trofim",
+    "given": "Trofim"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-trofim-0",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

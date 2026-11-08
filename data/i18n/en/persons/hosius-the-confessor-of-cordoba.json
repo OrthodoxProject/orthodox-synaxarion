@@ -1,0 +1,20 @@
+{
+  "id": "hosius-the-confessor-of-cordoba",
+  "locale": "en",
+  "names": {
+    "display": "Saint Hosius the Confessor, Bishop of Córdoba",
+    "short": "Hosius the Confessor, Bishop of Córdoba",
+    "given": "Hosius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/27/102407-saint-hosius-the-confessor-bishop-of-crdoba",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

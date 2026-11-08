@@ -1,0 +1,20 @@
+{
+  "id": "john-chimchimeli-the-philosopher",
+  "locale": "en",
+  "names": {
+    "display": "Saint John Chimchimeli the Philosopher",
+    "short": "John Chimchimeli the Philosopher",
+    "given": "John"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/10/103814-saint-john-chimchimeli-the-philosopher",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

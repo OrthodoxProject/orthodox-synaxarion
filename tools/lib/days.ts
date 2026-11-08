@@ -326,10 +326,11 @@ export function buildYear(data: TraditionData, year: number, applyOverrides = tr
     const style = styleFor(t, j);
     const c = churchDateOf(j, style);
     const key = `${pad(c.month)}-${pad(c.day)}`;
-    for (const entry of data.menaion.get(key) ?? []) place(j, entry, true);
+    // The lines of 29 February come first, as the official calendar prints them on 28 February.
     if (!isAlexandrian(style) && !isLeapChurchYear(c.year, style)) {
       for (const leap of leapEntries) if (leap.key === key) place(j, leap.entry, true);
     }
+    for (const entry of data.menaion.get(key) ?? []) place(j, entry, true);
   }
 
   // Movable lines.

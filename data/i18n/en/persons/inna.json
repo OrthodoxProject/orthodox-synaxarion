@@ -1,0 +1,20 @@
+{
+  "id": "inna",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Inna",
+    "short": "Inna",
+    "given": "Inna"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/20/101762-martyrs-inna-pinna-and-rimma-disciples-of-apostle-andrew-in-scyt",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

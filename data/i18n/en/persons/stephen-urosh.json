@@ -1,0 +1,20 @@
+{
+  "id": "stephen-urosh",
+  "locale": "en",
+  "names": {
+    "display": "Saint Stephen Urosh, King of Serbia",
+    "short": "Stephen Urosh, King of Serbia",
+    "given": "Stephen"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/02/103464-saint-stephen-urosh-king-of-serbia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

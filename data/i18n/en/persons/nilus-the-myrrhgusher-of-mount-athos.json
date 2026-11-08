@@ -1,0 +1,20 @@
+{
+  "id": "nilus-the-myrrhgusher-of-mount-athos",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Nilus the Myrrhgusher of Mount Athos",
+    "short": "Nilus the Myrrhgusher of Mount Athos",
+    "given": "Nilus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/12/103290-venerable-nilus-the-myrrhgusher-of-mount-athos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

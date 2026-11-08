@@ -1,0 +1,20 @@
+{
+  "id": "dasius",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Dasius",
+    "short": "Dasius",
+    "given": "Dasius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/21/103017-martyrs-gaius-dasius-and-zoticus-at-nicomedia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

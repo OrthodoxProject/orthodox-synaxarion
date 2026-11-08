@@ -1,0 +1,29 @@
+{
+  "id": "philon-of-kolpasteia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:philon-of-kolpasteia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 24
+  },
+  "external_ids": {
+    "oca": "109037"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/24/109037-saint-philon-bishop-of-kolpasteia-crete",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "cyriacus-of-bisericani",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Cyriacus of Bisericani, Romania",
+    "short": "Cyriacus of Bisericani, Romania",
+    "given": "Cyriacus",
+    "variants": [
+      "Venerable Cyriacus of Tazlau, Romania"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/31/103702-venerable-cyriacus-of-bisericani-romania",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/31/103703-venerable-cyriacus-of-tazlau-romania",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

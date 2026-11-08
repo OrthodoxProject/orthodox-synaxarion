@@ -1,0 +1,20 @@
+{
+  "id": "theodore-the-tyro",
+  "locale": "en",
+  "names": {
+    "display": "Great Martyr Theodore the Tyro (Recruit)",
+    "short": "Theodore the Tyro",
+    "given": "Theodore"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/17/100547-great-martyr-theodore-the-tyro-recruit",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

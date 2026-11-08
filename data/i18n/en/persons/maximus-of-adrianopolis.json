@@ -1,0 +1,20 @@
+{
+  "id": "maximus-of-adrianopolis",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Maximus, of Adrianopolis",
+    "short": "Maximus, of Adrianopolis",
+    "given": "Maximus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/15/102617-martyrs-theodotus-asclepiodotus-and-maximus-of-adrianopolis",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

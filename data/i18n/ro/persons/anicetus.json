@@ -1,0 +1,26 @@
+{
+  "id": "anicetus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Anichit",
+    "full": "Sfântul Mucenic Anichit",
+    "short": "Anichit",
+    "given": "Anichit"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-anichit",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-fotie-si-anichit/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "john-the-baptist--finding-of-relics",
+  "locale": "ro",
+  "names": {
+    "display": "Întâia și a doua aflare a Capului Sfântului Ioan, Înaintemergătorul și Botezătorul Domnului"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/intaia-doua-aflare-capului-sfantului-ioan-inaintemergatorul-botezatorul-domnului",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-intaia-si-a-doua-aflare-a-capului-sf-proroc-ioan-botezatorul-%e2%80%a0-sf-cuv-petroniu-de-la-prodromu-zi-aliturgica-canonul-mare/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "methodia-of-kimolos--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:methodia-of-kimolos"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 5
+  },
+  "external_ids": {
+    "oca": "205394"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/05/205394-righteous-methodia-of-kimolos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "bianor--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:bianor"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 10
+  },
+  "external_ids": {
+    "oca": "101997"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-vianor",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/10/101997-martyrs-bianor-and-silvanus-of-pisidia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, oca.org; de verificat."
+    ]
+  }
+}

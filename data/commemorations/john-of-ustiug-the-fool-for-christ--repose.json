@@ -1,0 +1,29 @@
+{
+  "id": "john-of-ustiug-the-fool-for-christ--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:john-of-ustiug-the-fool-for-christ"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 29
+  },
+  "external_ids": {
+    "oca": "101562"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/29/101562-repose-of-the-blessed-john-of-ustiug-the-fool-for-christ",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

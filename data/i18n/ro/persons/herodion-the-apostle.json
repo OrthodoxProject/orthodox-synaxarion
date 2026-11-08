@@ -1,0 +1,26 @@
+{
+  "id": "herodion-the-apostle",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ap. Rodion",
+    "full": "Sfântul Apostol Rodion",
+    "short": "Rodion",
+    "given": "Rodion"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-apostol-rodion",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ap-olimp-rodion-sosipatru-erast-tertiu-si-cvart-%e2%80%a0-sf-cuv-mc-visarion-de-la-lainici-sf-mc-orest/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

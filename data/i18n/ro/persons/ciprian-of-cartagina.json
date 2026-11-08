@@ -1,0 +1,29 @@
+{
+  "id": "ciprian-of-cartagina",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Ciprian, Episcopul Cartaginei",
+    "full": "Sfântul Sfințit Mucenic Ciprian, Episcopul Cartaginei",
+    "short": "Ciprian, Episcopul Cartaginei",
+    "given": "Ciprian",
+    "variants": [
+      "Sf. Sfințit Mc. Ciprian, episcopul Cartaginei"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-sfintit-mucenic-ciprian-episcopul-cartaginei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/inainte-praznuirea-inaltarii-sfintei-cruci-%e2%80%a0-tarnosirea-bisericii-invierii-din-ierusalim-%e2%80%a0-sf-cuv-ioan-de-la-prislop-%e2%80%a0-sf-mc-din-dobrogea-macrobie-gordian-ilie-zoti/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "sabina-of-roma",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Sabina din Roma",
+    "full": "Sfânta Muceniță Sabina din Roma",
+    "short": "Sabina din Roma",
+    "given": "Sabina"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-sabina-din-roma",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "peter-5-and-paul-of-nicaea",
+  "kind": "repose",
+  "subjects": [
+    "person:peter-5",
+    "person:paul-of-nicaea"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 10
+  },
+  "external_ids": {
+    "oca": "102567"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/10/102567-saints-peter-and-paul-bishops-of-nicaea",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

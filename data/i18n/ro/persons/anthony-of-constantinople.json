@@ -1,0 +1,21 @@
+{
+  "id": "anthony-of-constantinople",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Antonie, Patriarhul Constantinopolului",
+    "full": "Sfântul Ierarh Antonie, Patriarhul Constantinopolului",
+    "short": "Antonie, Patriarhul Constantinopolului",
+    "given": "Antonie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-antonie-patriarhul-constantinopolului",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

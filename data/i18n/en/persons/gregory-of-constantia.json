@@ -1,0 +1,20 @@
+{
+  "id": "gregory-of-constantia",
+  "locale": "en",
+  "names": {
+    "display": "Saint Gregory, Bishop of Constantia, Cyprus",
+    "short": "Gregory, Bishop of Constantia, Cyprus",
+    "given": "Gregory"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/04/100658-saint-gregory-bishop-of-constantia-cyprus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "niketas-the-dacian",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Nikḗtas the Dacian",
+    "short": "Nikḗtas the Dacian",
+    "given": "Nikḗtas"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/22/101787-martyr-niktas-the-dacian",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

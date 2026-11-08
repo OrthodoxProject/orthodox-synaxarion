@@ -1,0 +1,31 @@
+{
+  "id": "nicolae-velimirovici-of-ohrida--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:nicolae-velimirovici-of-ohrida"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 18
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-nicolae-velimirovici-episcop-al-ohridei-jicei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ier-chiril-arhiepiscopul-ierusalimului/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro; de verificat."
+    ]
+  }
+}

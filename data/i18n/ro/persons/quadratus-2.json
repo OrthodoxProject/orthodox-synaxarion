@@ -1,0 +1,26 @@
+{
+  "id": "quadratus-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Codrat",
+    "full": "Sfântul Mucenic Codrat",
+    "short": "Codrat",
+    "given": "Codrat"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-codrat-0",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/aratarea-pe-cer-a-semnului-sfintei-cruci-in-ierusalim-sf-mc-acachie-si-codrat/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

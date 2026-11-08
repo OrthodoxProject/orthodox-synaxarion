@@ -1,0 +1,26 @@
+{
+  "id": "flegon-the-apostle",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ap. Flegon",
+    "full": "Sfântul Apostol Flegon",
+    "short": "Flegon",
+    "given": "Flegon"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-apostol-flegon",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sfanta-si-marea-miercuri-denie-sf-ap-irodion-agav-ruf-asincrit-flegon-si-ermis-sf-ier-celestin-episcopul-romei/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

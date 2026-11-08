@@ -1,0 +1,26 @@
+{
+  "id": "sosipater-of-the-seventy",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ap. Sosipatru",
+    "full": "Sfântul Apostol Sosipatru",
+    "short": "Sosipatru",
+    "given": "Sosipatru"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-apostol-sosipatru-0",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ap-iason-si-sosipatru-%e2%80%a0-sf-mc-maxim-cvintilian-si-dadas-din-ozovia/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

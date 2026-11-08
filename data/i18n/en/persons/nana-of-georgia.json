@@ -1,0 +1,20 @@
+{
+  "id": "nana-of-georgia",
+  "locale": "en",
+  "names": {
+    "display": "Saint Nana of Georgia",
+    "short": "Nana of Georgia",
+    "given": "Nana"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/01/108936-equals-of-the-apostles-emperor-mirian-and-empress-nana-of-georgi",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

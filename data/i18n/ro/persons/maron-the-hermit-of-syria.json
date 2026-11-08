@@ -1,0 +1,26 @@
+{
+  "id": "maron-the-hermit-of-syria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Maron",
+    "full": "Sfântul Cuvios Maron",
+    "short": "Maron",
+    "given": "Maron"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-maron",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-auxentie-maron-si-avraam-sambata-celor-adormiti-mosii-de-iarna/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

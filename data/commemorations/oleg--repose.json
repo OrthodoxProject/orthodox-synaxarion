@@ -1,0 +1,29 @@
+{
+  "id": "oleg--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:oleg"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 20
+  },
+  "external_ids": {
+    "oca": "102680"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/20/102680-saint-oleg-prince-of-briansk",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

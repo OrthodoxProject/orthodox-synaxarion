@@ -1,0 +1,30 @@
+{
+  "id": "joseph-of-timisoara-sr--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:joseph-of-timisoara-sr"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 28
+  },
+  "sources": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Joseph_of_Timi%C8%99oara_%5B_sr_%3B_ro_%5D_%D0%88"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din orthodox-calendar, Wikipedia; de verificat."
+    ]
+  }
+}

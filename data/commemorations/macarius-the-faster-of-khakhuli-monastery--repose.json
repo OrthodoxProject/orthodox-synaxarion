@@ -1,0 +1,29 @@
+{
+  "id": "macarius-the-faster-of-khakhuli-monastery--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:macarius-the-faster-of-khakhuli-monastery"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 21
+  },
+  "external_ids": {
+    "oca": "205500"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/21/205500-venerable-macarius-the-faster-abbot-of-the-khakhuli-monastery",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

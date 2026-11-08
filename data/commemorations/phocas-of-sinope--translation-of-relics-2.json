@@ -1,0 +1,29 @@
+{
+  "id": "phocas-of-sinope--translation-of-relics-2",
+  "kind": "relics_translation",
+  "subjects": [
+    "person:phocas-of-sinope"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 22
+  },
+  "external_ids": {
+    "oca": "102071"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/22/102071-translation-of-the-relics-of-the-hieromartyr-phocas-bishop-of-si",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

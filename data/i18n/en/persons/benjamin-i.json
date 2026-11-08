@@ -1,0 +1,20 @@
+{
+  "id": "benjamin-i",
+  "locale": "en",
+  "names": {
+    "display": "Pope Benjamin I",
+    "short": "Benjamin I",
+    "given": "Benjamin"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/5_8.html?lang=en#3",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

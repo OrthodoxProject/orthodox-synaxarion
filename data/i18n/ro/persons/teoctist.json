@@ -1,0 +1,26 @@
+{
+  "id": "teoctist",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Teoctist",
+    "full": "Sfântul Mucenic Teoctist",
+    "short": "Teoctist",
+    "given": "Teoctist"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-teoctist",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-sfintit-mc-dionisie-areopagitul-sf-mc-teoctist/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

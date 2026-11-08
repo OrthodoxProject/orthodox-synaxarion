@@ -1,0 +1,21 @@
+{
+  "id": "bianor",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Vianor",
+    "full": "Sfântul Mucenic Vianor",
+    "short": "Vianor",
+    "given": "Vianor"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-vianor",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

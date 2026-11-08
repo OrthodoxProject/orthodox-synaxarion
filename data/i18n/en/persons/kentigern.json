@@ -1,0 +1,20 @@
+{
+  "id": "kentigern",
+  "locale": "en",
+  "names": {
+    "display": "Saint Kentigern, first Bishop of Glasgow, Scotland",
+    "short": "Kentigern, first Bishop of Glasgow, Scotland",
+    "given": "Kentigern"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/14/100195-saint-kentigern-first-bishop-of-glasgow-scotland",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "luke-the-new-stylite-of-chalcedon",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Luke the New Stylite of Chalcedon",
+    "short": "Luke the New Stylite of Chalcedon",
+    "given": "Luke"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/11/103525-venerable-luke-the-new-stylite-of-chalcedon",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

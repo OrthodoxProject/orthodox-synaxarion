@@ -1,0 +1,29 @@
+{
+  "id": "theophanes-the-faster-of-the-kiev-near--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:theophanes-the-faster-of-the-kiev-near"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 11
+  },
+  "external_ids": {
+    "oca": "102938"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/11/102938-venerable-theophanes-the-faster-of-the-kiev-near-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

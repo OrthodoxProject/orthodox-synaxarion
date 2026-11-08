@@ -1,0 +1,30 @@
+{
+  "id": "theophanes-the-confessor-2-and-faster-of-mount-diabenos",
+  "kind": "repose",
+  "subjects": [
+    "person:theophanes-the-confessor-2",
+    "person:faster-of-mount-diabenos"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 9
+  },
+  "external_ids": {
+    "oca": "102551"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/09/102551-venerable-theophanes-the-confessor-and-faster-of-mount-diabenos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

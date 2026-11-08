@@ -1,0 +1,20 @@
+{
+  "id": "philip-of-rabanga",
+  "locale": "en",
+  "names": {
+    "display": "Saint Philip of Rabanga",
+    "short": "Philip of Rabanga",
+    "given": "Philip"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/15/108915-saint-philip-of-rabanga",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

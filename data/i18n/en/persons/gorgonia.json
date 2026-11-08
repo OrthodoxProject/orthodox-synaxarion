@@ -1,0 +1,20 @@
+{
+  "id": "gorgonia",
+  "locale": "en",
+  "names": {
+    "display": "Saint Gorgonia, Sister of Saint Gregory the Theologian",
+    "short": "Gorgonia, Sister of Saint Gregory the Theologian",
+    "given": "Gorgonia"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/23/100259-saint-gorgonia-sister-of-saint-gregory-the-theologian",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

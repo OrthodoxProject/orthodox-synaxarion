@@ -1,0 +1,32 @@
+{
+  "id": "olga-of-kwethluk-tanqilria-arrsamquq-wonderworker",
+  "kind": "saint",
+  "gender": "female",
+  "holiness_types": [
+    "righteous",
+    "wonderworker"
+  ],
+  "external_ids": {
+    "doxologia": "sfanta-olga-din-alaska",
+    "oca": "100561"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-olga-din-alaska",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/27/100561-righteous-mother-olga-of-kwethluktanqilria-arrsamquqwonderworker",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, oca.org; de verificat."
+    ]
+  }
+}

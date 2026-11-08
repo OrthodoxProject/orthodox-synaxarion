@@ -1,0 +1,21 @@
+{
+  "id": "shio-the-anchorite-of-georgia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Shio din Mgvime, Georgia",
+    "full": "Sfântul Shio din Mgvime, Georgia",
+    "short": "Shio din Mgvime, Georgia",
+    "given": "Shio"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-shio-din-mgvime-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

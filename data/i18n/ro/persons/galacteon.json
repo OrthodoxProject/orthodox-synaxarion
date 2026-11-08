@@ -1,0 +1,21 @@
+{
+  "id": "galacteon",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Galaction",
+    "full": "Sfântul Mucenic Galaction",
+    "short": "Galaction",
+    "given": "Galaction"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-galaction-0",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

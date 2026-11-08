@@ -1,0 +1,20 @@
+{
+  "id": "agapius-of-vatopedi",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Agapius of Vatopedi",
+    "short": "Agapius of Vatopedi",
+    "given": "Agapius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/01/100633-venerable-agapius-of-vatopedi",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

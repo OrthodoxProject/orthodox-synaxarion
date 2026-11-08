@@ -1,0 +1,29 @@
+{
+  "id": "daniel-ii-of-serbia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:daniel-ii-of-serbia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 20
+  },
+  "external_ids": {
+    "oca": "103597"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/20/103597-saint-daniel-ii-archbishop-of-serbia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

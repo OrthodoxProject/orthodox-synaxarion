@@ -1,0 +1,21 @@
+{
+  "id": "isavru",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Isavru",
+    "full": "Sfântul Mucenic Isavru",
+    "short": "Isavru",
+    "given": "Isavru"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-isavru",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

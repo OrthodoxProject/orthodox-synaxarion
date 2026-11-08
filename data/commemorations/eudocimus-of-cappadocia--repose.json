@@ -1,0 +1,29 @@
+{
+  "id": "eudocimus-of-cappadocia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:eudocimus-of-cappadocia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 31
+  },
+  "external_ids": {
+    "oca": "102154"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/31/102154-righteous-eudocimus-of-cappadocia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

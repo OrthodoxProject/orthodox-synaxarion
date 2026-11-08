@@ -1,0 +1,21 @@
+{
+  "id": "meliton",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Meliton",
+    "full": "Sfântul Mucenic Meliton",
+    "short": "Meliton",
+    "given": "Meliton"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-meliton",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

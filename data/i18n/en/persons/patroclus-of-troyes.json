@@ -1,0 +1,20 @@
+{
+  "id": "patroclus-of-troyes",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Patroclus of Troyes",
+    "short": "Patroclus of Troyes",
+    "given": "Patroclus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/17/102316-martyr-patroclus-of-troyes",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

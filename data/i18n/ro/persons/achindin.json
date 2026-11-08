@@ -1,0 +1,21 @@
+{
+  "id": "achindin",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Achindin",
+    "full": "Sfântul Mucenic Achindin",
+    "short": "Achindin",
+    "given": "Achindin"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-achindin",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

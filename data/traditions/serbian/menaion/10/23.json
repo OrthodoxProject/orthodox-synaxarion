@@ -1,0 +1,18 @@
+{
+  "tradition": "serbian",
+  "date": "10-23",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:macarius-the-roman-of-mesopotamia--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:ignatius-of-constantinople--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

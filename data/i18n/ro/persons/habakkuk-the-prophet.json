@@ -1,0 +1,26 @@
+{
+  "id": "habakkuk-the-prophet",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Proroc Avacum",
+    "full": "Sfântul Proroc Avacum",
+    "short": "Avacum",
+    "given": "Avacum"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-proroc-avacum",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-paisie-si-cleopa-de-la-sihastria-sf-proroc-avacum-sf-mc-miropi-sf-cuv-porfirie-cavsocalivitul-sf-ier-solomon-arhiepiscopul-efesului-dezlegare-la-peste/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

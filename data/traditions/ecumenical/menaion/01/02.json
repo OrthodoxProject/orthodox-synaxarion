@@ -1,0 +1,30 @@
+{
+  "tradition": "ecumenical",
+  "date": "01-02",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:seraphim-of-sarov--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:sylvester-of-rome--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:juliana-of-lazarevo--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:theophany--forefeast"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

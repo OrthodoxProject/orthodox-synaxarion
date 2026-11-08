@@ -1,0 +1,26 @@
+{
+  "id": "timolaus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Timolau",
+    "full": "Sfântul Mucenic Timolau",
+    "short": "Timolau",
+    "given": "Timolau"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-timolau",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-agapie-plisie-si-timolau-pomenirea-celor-adormiti/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

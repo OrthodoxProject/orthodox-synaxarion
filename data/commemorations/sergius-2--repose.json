@@ -1,0 +1,29 @@
+{
+  "id": "sergius-2--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:sergius-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 23
+  },
+  "external_ids": {
+    "oca": "103912"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/23/103912-venerable-sergius-srebryansky-the-new-confessor-of-tver",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

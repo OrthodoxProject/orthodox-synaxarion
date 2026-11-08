@@ -1,0 +1,20 @@
+{
+  "id": "ignatius-the-god-bearer-of-antioch",
+  "locale": "en",
+  "names": {
+    "display": "Hieromartyr Ignatius the God-Bearer, Bishop of Antioch",
+    "short": "Ignatius the God-Bearer, Bishop of Antioch",
+    "given": "Ignatius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/20/103594-hieromartyr-ignatius-the-god-bearer-bishop-of-antioch",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

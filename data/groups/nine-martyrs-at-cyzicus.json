@@ -1,0 +1,34 @@
+{
+  "id": "nine-martyrs-at-cyzicus",
+  "kind": "martyrs",
+  "count": {
+    "value": 9,
+    "precision": "exact"
+  },
+  "holiness_types": [
+    "martyr"
+  ],
+  "external_ids": {
+    "doxologia": "sfintii-9-mucenici-din-cizic",
+    "oca": "101233"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfintii-9-mucenici-din-cizic",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/29/101233-nine-martyrs-at-cyzicus-theognes-rufus-antipater-theostichus-art",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, oca.org; de verificat."
+    ]
+  }
+}

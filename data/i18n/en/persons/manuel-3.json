@@ -1,0 +1,20 @@
+{
+  "id": "manuel-3",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Manuel",
+    "short": "Manuel",
+    "given": "Manuel"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/27/100914-martyrs-manuel-and-theodosius",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

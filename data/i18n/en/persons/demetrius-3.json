@@ -1,0 +1,23 @@
+{
+  "id": "demetrius-3",
+  "locale": "en",
+  "names": {
+    "display": "New Martyr Demetrius",
+    "short": "Demetrius",
+    "given": "Demetrius",
+    "variants": [
+      "Slain Crown Prince Dimitry of Moscow"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/28/205366-new-martyr-demetrius",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

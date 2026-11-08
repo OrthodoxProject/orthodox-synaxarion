@@ -1,0 +1,20 @@
+{
+  "id": "maruta-the-bishop",
+  "locale": "en",
+  "names": {
+    "display": "Saint Maruta (Maruthas) the Bishop",
+    "short": "Maruta the Bishop",
+    "given": "Maruta"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/6_22.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

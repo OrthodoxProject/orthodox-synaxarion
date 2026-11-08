@@ -1,0 +1,20 @@
+{
+  "id": "serapion-4",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Serapion",
+    "short": "Serapion",
+    "given": "Serapion"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/18/102326-martyrs-hermes-serapion-and-polyaenus-of-rome",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

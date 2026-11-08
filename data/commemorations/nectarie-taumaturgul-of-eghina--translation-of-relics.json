@@ -1,0 +1,26 @@
+{
+  "id": "nectarie-taumaturgul-of-eghina--translation-of-relics",
+  "kind": "relics_translation",
+  "subjects": [
+    "person:nectarie-taumaturgul-of-eghina"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 3
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/mutarea-moastelor-sfantului-ierarh-nectarie",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

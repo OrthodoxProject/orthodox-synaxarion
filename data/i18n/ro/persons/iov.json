@@ -1,0 +1,29 @@
+{
+  "id": "iov",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. și Drept. Iov, mult răbdătorul",
+    "full": "Sfântul și Dreptul Iov, mult răbdătorul",
+    "short": "Iov, mult răbdătorul",
+    "given": "Iov",
+    "variants": [
+      "Sf. și Dreptul Iov, mult răbdătorul"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-dreptul-iov-mult-rabdatorul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/injumatatirea-cincizecimii-sf-si-dreptul-iov-mult-rabdatorul-sf-mc-varvar-dezlegare-la-peste/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

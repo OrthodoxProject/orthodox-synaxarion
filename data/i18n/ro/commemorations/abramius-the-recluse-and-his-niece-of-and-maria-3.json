@@ -1,0 +1,23 @@
+{
+  "id": "abramius-the-recluse-and-his-niece-of-and-maria-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sfântul Cuvios Avramie și Maria, nepoata sa"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-avramie-maria-nepoata-sa",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-mc-anastasia-romana-sf-cuv-avramie-si-maria-nepoata-sa/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

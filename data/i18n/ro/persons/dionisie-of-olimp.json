@@ -1,0 +1,21 @@
+{
+  "id": "dionisie-of-olimp",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Dionisie din Olimp",
+    "full": "Sfântul Cuvios Dionisie din Olimp",
+    "short": "Dionisie din Olimp",
+    "given": "Dionisie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-dionisie-din-olimp",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

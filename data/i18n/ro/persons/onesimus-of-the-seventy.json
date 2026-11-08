@@ -1,0 +1,31 @@
+{
+  "id": "onesimus-of-the-seventy",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ap. Onisim",
+    "full": "Sfântul Apostol Onisim",
+    "short": "Onisim",
+    "given": "Onisim"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-apostol-onisim",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ap-onisim-sf-mc-maior-duminica-infricosatoarei-judecati-a-lasatului-sec-de-carne-ap-1-corinteni-8-8-13-9-1-2-ev-matei-25-31-46-glas-3-voscr-3/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ap-filimon-arhip-onisim-si-apfia-sf-mc-cecilia-dezlegare-la-peste-duminica-a-26-a-dupa-rusalii-ap-efeseni-5-8-19-ev-luca-12-16-21-pilda-bogatului-caruia-i-a-rodit-tarina-glas-8/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

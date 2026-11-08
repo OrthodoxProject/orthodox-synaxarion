@@ -1,0 +1,29 @@
+{
+  "id": "anastasius-the-persian--finding-of-relics",
+  "kind": "relics_finding",
+  "subjects": [
+    "person:anastasius-the-persian"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 24
+  },
+  "external_ids": {
+    "oca": "100294"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/24/100294-uncovering-of-the-relics-of-saint-anastasios-the-persian",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

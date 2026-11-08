@@ -1,0 +1,20 @@
+{
+  "id": "arsenius-the-great",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Arsenius the Great",
+    "short": "Arsenius the Great",
+    "given": "Arsenius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/08/101328-venerable-arsenius-the-great",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

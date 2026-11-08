@@ -1,0 +1,29 @@
+{
+  "id": "gorgonia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Gorgonia, sora Sfântului Ier. Grigorie Teologul",
+    "full": "Sfânta Cuvioasă Gorgonia, sora Sfântului Ierarh Grigorie Teologul",
+    "short": "Gorgonia, sora Sfântului Ierarh Grigorie Teologul",
+    "given": "Gorgonia",
+    "variants": [
+      "Sf. Gorgonia"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-gorgonia-sora-sfantului-ierarh-grigorie-teologul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-sfintit-mc-policarp-episcopul-smirnei-sf-gorgonia-inceputul-postului-sfintelor-pasti-zi-aliturgica-canonul-mare/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

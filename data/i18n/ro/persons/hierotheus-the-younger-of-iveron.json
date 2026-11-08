@@ -1,0 +1,21 @@
+{
+  "id": "hierotheus-the-younger-of-iveron",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ierotei cel Tânăr de la Iviron",
+    "full": "Sfântul Cuvios Ierotei cel Tânăr de la Iviron",
+    "short": "Ierotei cel Tânăr de la Iviron",
+    "given": "Ierotei"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-ierotei-cel-tanar-de-la-iviron",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

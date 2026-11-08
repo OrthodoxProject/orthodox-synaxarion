@@ -1,0 +1,30 @@
+{
+  "id": "mark-and-bassa-of-the-pskov-caves",
+  "kind": "repose",
+  "subjects": [
+    "person:mark",
+    "person:bassa-of-the-pskov-caves"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 29
+  },
+  "external_ids": {
+    "oca": "100941"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/29/100941-venerable-mark-jonah-and-bassa-of-the-pskov-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

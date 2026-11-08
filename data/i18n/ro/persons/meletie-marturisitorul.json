@@ -1,0 +1,21 @@
+{
+  "id": "meletie-marturisitorul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Meletie Mărturisitorul",
+    "full": "Sfântul Meletie Mărturisitorul",
+    "short": "Meletie Mărturisitorul",
+    "given": "Meletie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-meletie-marturisitorul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

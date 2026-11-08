@@ -1,0 +1,38 @@
+{
+  "tradition": "romanian",
+  "date": "01-25",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:gregory-the-theologian-of-constantinople--repose"
+      ],
+      "symbol": "red-half-parenthesized"
+    },
+    {
+      "commemorations": [
+        "comm:bretannio-of-tomis--repose"
+      ],
+      "symbol": "blue-half-parenthesized"
+    },
+    {
+      "commemorations": [
+        "comm:publius-the-ascetic-of-syria--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:icon-of-theotokos-bucurie-neasteptata"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:vladimir-of-kiev--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:icon-of-theotokos-potoleste-intristarile-noastre"
+      ]
+    }
+  ]
+}

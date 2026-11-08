@@ -1,0 +1,26 @@
+{
+  "id": "filofteia-of-curtea-of-arges",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Filofteia de la Curtea de Argeș",
+    "full": "Sfânta Muceniță Filofteia de la Curtea de Argeș",
+    "short": "Filofteia de la Curtea de Argeș",
+    "given": "Filofteia"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-filofteia-de-la-curtea-de-arges",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-mc-filofteia-de-la-curtea-de-arges-sf-ier-ambrozie-episcopul-mediolanului-dezlegare-la-peste/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "cassian-of-komel",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Cassian, Abbot of Komel (Vologda)",
+    "short": "Cassian, Abbot of Komel",
+    "given": "Cassian"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/16/101395-venerable-cassian-abbot-of-komel-vologda",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

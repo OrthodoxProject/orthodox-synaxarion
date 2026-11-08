@@ -1,0 +1,21 @@
+{
+  "id": "avakum-the-deacon-of-serbia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Avacum, diaconul",
+    "full": "Sfântul Mucenic Avacum, diaconul",
+    "short": "Avacum, diaconul",
+    "given": "Avacum"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-avacum-diaconul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

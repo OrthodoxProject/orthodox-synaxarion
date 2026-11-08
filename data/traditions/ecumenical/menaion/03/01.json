@@ -1,0 +1,31 @@
+{
+  "tradition": "ecumenical",
+  "date": "03-01",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:martyrius-of-zelenets--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:antonina-of-nicea--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:marcellus--repose",
+        "comm:anthony-of-syria--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:domnina-the-younger-of-syria--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

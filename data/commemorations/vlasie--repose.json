@@ -1,0 +1,26 @@
+{
+  "id": "vlasie--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:vlasie"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 31
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cuviosul-vlasie-cel-din-amorio",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

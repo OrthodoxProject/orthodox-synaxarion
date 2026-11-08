@@ -1,0 +1,24 @@
+{
+  "tradition": "serbian",
+  "date": "06-30",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:synaxis-of-holy-glorious-and-companions"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:icon-of-theotokos-of-balikin"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:gelasius-of-rimet--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

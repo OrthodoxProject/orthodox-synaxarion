@@ -1,0 +1,20 @@
+{
+  "id": "daoud",
+  "locale": "en",
+  "names": {
+    "display": "Daoud (David), the Monk",
+    "short": "Daoud, the Monk",
+    "given": "Daoud"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/8_19.html?lang=en#4",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "acacius-the-confessor",
+  "locale": "en",
+  "names": {
+    "display": "Saint Acacius the Confessor",
+    "short": "Acacius the Confessor",
+    "given": "Acacius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/31/148986-saint-acacius-the-confessor",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

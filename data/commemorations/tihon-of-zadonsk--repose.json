@@ -1,0 +1,26 @@
+{
+  "id": "tihon-of-zadonsk--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:tihon-of-zadonsk"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 13
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-tihon-din-zadonsk",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

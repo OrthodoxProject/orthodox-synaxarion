@@ -1,0 +1,20 @@
+{
+  "id": "john-of-prislop",
+  "locale": "en",
+  "names": {
+    "display": "Saint John of Prislop",
+    "short": "John of Prislop",
+    "given": "John"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/13/149020-saint-john-of-prislop",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

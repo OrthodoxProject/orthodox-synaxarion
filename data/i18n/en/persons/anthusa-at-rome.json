@@ -1,0 +1,20 @@
+{
+  "id": "anthusa-at-rome",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Anthusa at Rome",
+    "short": "Anthusa at Rome",
+    "given": "Anthusa"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/08/103505-martyr-anthusa-at-rome",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

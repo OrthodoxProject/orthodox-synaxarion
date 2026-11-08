@@ -1,0 +1,20 @@
+{
+  "id": "fulvian",
+  "locale": "en",
+  "names": {
+    "display": "Saint Fulvian (in Baptism Matthew), Prince of Ethiopia",
+    "short": "Fulvian, Prince of Ethiopia",
+    "given": "Fulvian"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/16/103314-saint-fulvian-in-baptism-matthew-prince-of-ethiopia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

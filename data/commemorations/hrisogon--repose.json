@@ -1,0 +1,26 @@
+{
+  "id": "hrisogon--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:hrisogon"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 22
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-hrisogon",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

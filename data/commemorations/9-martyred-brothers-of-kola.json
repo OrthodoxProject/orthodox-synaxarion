@@ -1,0 +1,29 @@
+{
+  "id": "9-martyred-brothers-of-kola",
+  "kind": "repose",
+  "subjects": [
+    "group:9-martyred-brothers-of-kola"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 22
+  },
+  "external_ids": {
+    "oca": "103817"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/22/103817-9-martyred-brothers-of-kola-guram-adarnerse-baqar-vache-bardzim",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

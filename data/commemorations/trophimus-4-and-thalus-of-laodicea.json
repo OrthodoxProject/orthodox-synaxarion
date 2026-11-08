@@ -1,0 +1,30 @@
+{
+  "id": "trophimus-4-and-thalus-of-laodicea",
+  "kind": "repose",
+  "subjects": [
+    "person:trophimus-4",
+    "person:thalus-of-laodicea"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 16
+  },
+  "external_ids": {
+    "oca": "100819"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/16/100819-hieromartyrs-trophimus-and-thalus-of-laodicea",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

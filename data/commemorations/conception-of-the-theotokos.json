@@ -1,0 +1,36 @@
+{
+  "id": "conception-of-the-theotokos",
+  "kind": "feast_of_theotokos",
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 9
+  },
+  "external_ids": {
+    "oca": "103506"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/zamislirea-sfintei-fecioare-maria-de-catre-sfanta-ana",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/zamislirea-sfintei-fecioare-maria-de-catre-sf-ana-sf-prorocita-ana-mama-prorocului-samuel/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/09/103506-conception-of-the-most-holy-theotokos-by-saint-anna",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

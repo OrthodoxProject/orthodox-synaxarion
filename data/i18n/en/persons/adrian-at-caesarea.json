@@ -1,0 +1,20 @@
+{
+  "id": "adrian-at-caesarea",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Adrian at Caesarea, Cappadocia",
+    "short": "Adrian at Caesarea, Cappadocia",
+    "given": "Adrian"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/03/100416-martyr-adrian-at-caesarea-cappadocia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

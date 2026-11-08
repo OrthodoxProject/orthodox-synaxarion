@@ -1,0 +1,38 @@
+{
+  "tradition": "serbian",
+  "date": "08-18",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:florus--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:hermes--repose",
+        "comm:serapion-4--repose",
+        "comm:polyaenus-of-rome--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:john-of-rila--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:barnabas-and-sophronius-of-anne-skete"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:arsenius-of-paros--08-18"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

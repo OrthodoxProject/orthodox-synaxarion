@@ -1,0 +1,29 @@
+{
+  "id": "tarasius-of-constantinople",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Tarasie, Patriarhul Constantinopolului",
+    "full": "Sfântul Ierarh Tarasie, Patriarhul Constantinopolului",
+    "short": "Tarasie, Patriarhul Constantinopolului",
+    "given": "Tarasie",
+    "variants": [
+      "Sf. Ier. Tarasie, patriarhul Constantinopolului"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-tarasie-patriarhul-constantinopolului",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ier-tarasie-patriarhul-constantinopolului-canonul-mare/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

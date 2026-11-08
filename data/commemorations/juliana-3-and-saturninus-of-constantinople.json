@@ -1,0 +1,30 @@
+{
+  "id": "juliana-3-and-saturninus-of-constantinople",
+  "kind": "repose",
+  "subjects": [
+    "person:juliana-3",
+    "person:saturninus-of-constantinople"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 22
+  },
+  "external_ids": {
+    "oca": "101782"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/22/101782-martyrs-galacteon-juliana-and-saturninus-of-constantinople",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

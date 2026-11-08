@@ -1,0 +1,30 @@
+{
+  "id": "yoannis-the-eleventh",
+  "locale": "en",
+  "names": {
+    "display": "Pope Yoannis the Eleventh, the 89th. Patriarch of Alexandra",
+    "short": "Yoannis the Eleventh, the 89th. Patriarch of Alexandra",
+    "given": "Yoannis"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/8_28.html?lang=en#2",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/9_4.html?lang=en#2",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/9_9.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

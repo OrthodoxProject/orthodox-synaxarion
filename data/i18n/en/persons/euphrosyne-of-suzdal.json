@@ -1,0 +1,25 @@
+{
+  "id": "euphrosyne-of-suzdal",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Euphrosynē of Suzdal",
+    "short": "Euphrosynē of Suzdal",
+    "given": "Euphrosynē"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/18/103915-venerable-euphrosyn-of-suzdal",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/25/102727-venerable-euphrosyn-of-suzdal",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

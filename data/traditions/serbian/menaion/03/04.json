@@ -1,0 +1,24 @@
+{
+  "tradition": "serbian",
+  "date": "03-04",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:nicanor-of-hilandar-sr--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:gerasimus-of-the-jordan--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:paul--repose",
+        "comm:juliana--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

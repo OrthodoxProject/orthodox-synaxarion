@@ -1,0 +1,29 @@
+{
+  "id": "pansemne-of-antioch--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:pansemne-of-antioch"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 10
+  },
+  "external_ids": {
+    "oca": "101686"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/10/101686-venerable-theophanes-and-saint-pansemne-of-antioch",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "mark-of-ephesus",
+  "locale": "en",
+  "names": {
+    "display": "Saint Mark, Archbishop of Ephesus",
+    "short": "Mark, Archbishop of Ephesus",
+    "given": "Mark"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/19/100228-saint-mark-archbishop-of-ephesus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

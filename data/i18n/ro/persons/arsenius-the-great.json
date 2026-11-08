@@ -1,0 +1,26 @@
+{
+  "id": "arsenius-the-great",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Arsenie cel Mare",
+    "full": "Sfântul Cuvios Arsenie cel Mare",
+    "short": "Arsenie cel Mare",
+    "given": "Arsenie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-arsenie-cel-mare",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ap-si-evanghelist-ioan-teologul-sf-cuv-arsenie-cel-mare-dezlegare-la-peste/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

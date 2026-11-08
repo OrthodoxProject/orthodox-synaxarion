@@ -1,0 +1,26 @@
+{
+  "id": "iosif--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:iosif"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 4
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-iosif-scriitorul-de-cantari",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

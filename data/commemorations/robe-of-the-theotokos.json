@@ -1,0 +1,36 @@
+{
+  "id": "robe-of-the-theotokos",
+  "kind": "feast_of_theotokos",
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 2
+  },
+  "external_ids": {
+    "oca": "101866"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/asezarea-vesmantului-nascatoarei-de-dumnezeu-vlaherne",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/asezarea-vesmantului-nascatoarei-de-dumnezeu-in-biserica-vlaherne-%e2%80%a0-sf-voievod-stefan-cel-mare-sf-ier-iuvenalie-arhiepiscopul-ierusalimului-sf-ier-ioan-maximovici/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/02/101866-the-placing-of-the-honorable-robe-of-the-most-holy-mother-of-god",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "stephen-the-new",
+  "locale": "en",
+  "names": {
+    "display": "Monastic Martyr and Confessor Stephen the New",
+    "short": "Stephen the New",
+    "given": "Stephen"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/28/103412-monastic-martyr-and-confessor-stephen-the-new",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

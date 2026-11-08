@@ -1,0 +1,28 @@
+{
+  "id": "icon-of-theotokos-siriaca-of-manastirea-ghighiu",
+  "locale": "ro",
+  "names": {
+    "display": "Cinstirea Sfintei Icoane a Maicii Domnului „Siriaca” de la Mănăstirea Ghighiu"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoane-maicii-domnului-siriaca-de-la-manastirea-ghighiu",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoane-maicii-domnului-eleovrytissa-izvoratoarea-de-ulei-de-la-manastirea-vatoped",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-izvorul-tamaduirii-%e2%80%a0-cinstirea-sfintei-icoane-a-maicii-domnului-siriaca-de-la-manastirea-ghighiu-harti/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

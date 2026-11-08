@@ -1,0 +1,20 @@
+{
+  "id": "gabriel-of-lesnov-monastery",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Gabriel, Founder of Lesnov Monastery in Bulgaria",
+    "short": "Gabriel, Founder of Lesnov Monastery in Bulgaria",
+    "given": "Gabriel"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/15/100200-venerable-gabriel-founder-of-lesnov-monastery-in-bulgaria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

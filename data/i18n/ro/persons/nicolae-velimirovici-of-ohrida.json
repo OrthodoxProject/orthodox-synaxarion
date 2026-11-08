@@ -1,0 +1,29 @@
+{
+  "id": "nicolae-velimirovici-of-ohrida",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Nicolae Velimirovici, Episcop al Ohridei și Jicei",
+    "full": "Sfântul Ierarh Nicolae Velimirovici, Episcop al Ohridei și Jicei",
+    "short": "Nicolae Velimirovici, Episcop al Ohridei și Jicei",
+    "given": "Nicolae",
+    "variants": [
+      "Sf. Ier. Nicolae Velimirovici, episcop al Ohridei și Jicei"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-nicolae-velimirovici-episcop-al-ohridei-jicei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ier-chiril-arhiepiscopul-ierusalimului/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "herman-of-kazan--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:herman-of-kazan"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 6
+  },
+  "external_ids": {
+    "oca": "103188"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/06/103188-repose-of-saint-herman-archbishop-of-kazan",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

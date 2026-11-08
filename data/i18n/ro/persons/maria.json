@@ -1,0 +1,26 @@
+{
+  "id": "maria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Maria, soția Sfântului Cuvios Xenofont",
+    "full": "Sfânta Cuvioasă Maria, soția Sfântului Cuvios Xenofont",
+    "short": "Maria, soția Sfântului Cuvios Xenofont",
+    "given": "Maria"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-maria-sotia-sfantului-cuvios-xenofont",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ier-iosif-cel-milostiv-mitropolitul-moldovei-sf-cuv-xenofont-maria-arcadie-si-ioan-duminica-a-32-a-dupa-rusalii-a-lui-zaheu-ap-1-timotei-4-9-15-ev-luca-19-1-10-glas-6/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

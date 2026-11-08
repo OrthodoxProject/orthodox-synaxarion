@@ -1,0 +1,20 @@
+{
+  "id": "james-the-apostle",
+  "locale": "en",
+  "names": {
+    "display": "Apostle James, son of Alphaeus",
+    "short": "James, son of Alphaeus",
+    "given": "James"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/09/102916-apostle-james-son-of-alphaeus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "clement-of-ohrida",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Clement, Arhiepiscopul Ohridei",
+    "full": "Sfântul Clement, Arhiepiscopul Ohridei",
+    "short": "Clement, Arhiepiscopul Ohridei",
+    "given": "Clement"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-clement-arhiepiscopul-ohridei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

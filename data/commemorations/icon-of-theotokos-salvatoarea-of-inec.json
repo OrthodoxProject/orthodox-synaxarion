@@ -1,0 +1,26 @@
+{
+  "id": "icon-of-theotokos-salvatoarea-of-inec",
+  "kind": "icon",
+  "subjects": [
+    "icon:icon-of-theotokos-salvatoarea-of-inec"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 5
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoanei-maicii-domnului-salvatoarea-de-la-inec",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

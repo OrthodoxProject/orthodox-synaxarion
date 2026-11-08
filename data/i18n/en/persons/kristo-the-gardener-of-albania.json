@@ -1,0 +1,20 @@
+{
+  "id": "kristo-the-gardener-of-albania",
+  "locale": "en",
+  "names": {
+    "display": "Saint Kristo the Gardener of Albania",
+    "short": "Kristo the Gardener of Albania",
+    "given": "Kristo"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/12/100511-saint-kristo-the-gardener-of-albania",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

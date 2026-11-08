@@ -1,0 +1,21 @@
+{
+  "id": "victor",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Victor",
+    "full": "Sfântul Mucenic Victor",
+    "short": "Victor",
+    "given": "Victor"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-victor-0",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

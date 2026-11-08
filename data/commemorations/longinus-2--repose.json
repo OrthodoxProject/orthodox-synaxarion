@@ -1,0 +1,29 @@
+{
+  "id": "longinus-2--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:longinus-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 3
+  },
+  "external_ids": {
+    "oca": "101880"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/03/101880-venerable-longinus-wonderworker-of-yarenga-solovki",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

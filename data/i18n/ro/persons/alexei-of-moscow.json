@@ -1,0 +1,21 @@
+{
+  "id": "alexei-of-moscow",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Alexie, Mitropolitul Moscovei și al Întregii Rusii",
+    "full": "Sfântul Ierarh Alexie, Mitropolitul Moscovei și al Întregii Rusii",
+    "short": "Alexie, Mitropolitul Moscovei, al Întregii Rusii",
+    "given": "Alexie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-alexie-mitropolitul-moscovei-al-intregii-rusii",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

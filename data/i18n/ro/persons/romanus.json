@@ -1,0 +1,21 @@
+{
+  "id": "romanus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Romano",
+    "full": "Sfântul Mucenic Romano",
+    "short": "Romano",
+    "given": "Romano"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-romano",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

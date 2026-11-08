@@ -1,0 +1,20 @@
+{
+  "id": "moses-the-confessor",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Moses (Macinic) the Confessor",
+    "short": "Moses the Confessor",
+    "given": "Moses"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/21/149003-martyr-moses-macinic-the-confessor",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

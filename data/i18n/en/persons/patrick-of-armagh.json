@@ -1,0 +1,20 @@
+{
+  "id": "patrick-of-armagh",
+  "locale": "en",
+  "names": {
+    "display": "Saint Patrick, Bishop of Armagh, Enlightener of Ireland",
+    "short": "Patrick, Bishop of Armagh, Enlightener of Ireland",
+    "given": "Patrick"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/17/100821-saint-patrick-bishop-of-armagh-enlightener-of-ireland",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

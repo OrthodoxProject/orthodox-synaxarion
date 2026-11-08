@@ -1,0 +1,20 @@
+{
+  "id": "zacchaeus-the-apostle",
+  "locale": "en",
+  "names": {
+    "display": "Apostle Zacchaeus",
+    "short": "Zacchaeus",
+    "given": "Zacchaeus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/20/148976-apostle-zacchaeus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

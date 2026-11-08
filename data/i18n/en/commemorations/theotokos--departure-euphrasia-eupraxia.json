@@ -1,0 +1,18 @@
+{
+  "id": "theotokos--departure-euphrasia-eupraxia",
+  "locale": "en",
+  "names": {
+    "display": "The Departure of St. Euphrasia (Eupraxia), the virgin"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/7_26.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

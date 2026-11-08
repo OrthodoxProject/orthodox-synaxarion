@@ -1,0 +1,20 @@
+{
+  "id": "elizabeth-3",
+  "locale": "en",
+  "names": {
+    "display": "The Elizabeth",
+    "short": "Elizabeth",
+    "given": "Elizabeth"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/30/109950-the-meeting-of-the-mother-of-god-and-saint-elizabeth",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

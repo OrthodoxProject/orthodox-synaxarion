@@ -1,0 +1,29 @@
+{
+  "id": "eutropia-of-alexandria--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:eutropia-of-alexandria"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 30
+  },
+  "external_ids": {
+    "oca": "103116"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/30/103116-martyr-eutropia-of-alexandria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

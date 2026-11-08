@@ -1,0 +1,20 @@
+{
+  "id": "pitirim-of-tambov",
+  "locale": "en",
+  "names": {
+    "display": "Saint Pitirim, Bishop of Tambov",
+    "short": "Pitirim, Bishop of Tambov",
+    "given": "Pitirim"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/28/102112-saint-pitirim-bishop-of-tambov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

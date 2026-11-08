@@ -1,0 +1,29 @@
+{
+  "id": "martyr-julian-of-constantinople-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "group:martyr-julian-of-constantinople-and-companions"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 9
+  },
+  "external_ids": {
+    "oca": "102246"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/09/102246-martyr-julian-of-constantinople-and-those-with-him",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

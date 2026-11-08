@@ -1,0 +1,29 @@
+{
+  "id": "athenagoras-of-athens--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:athenagoras-of-athens"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 24
+  },
+  "external_ids": {
+    "oca": "206388"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/24/206388-saint-athenagoras-of-athens",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

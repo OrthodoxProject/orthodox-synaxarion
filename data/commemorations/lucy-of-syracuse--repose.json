@@ -1,0 +1,39 @@
+{
+  "id": "lucy-of-syracuse--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:lucy-of-syracuse"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 13
+  },
+  "external_ids": {
+    "oca": "103536"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-lucia-fecioara",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ier-dosoftei-mitropolitul-moldovei-%e2%80%a0-sf-mari-mc-eustratie-auxentie-evghenie-mardarie-si-orest-sf-mc-lucia-din-siracuza-dezlegare-la-peste-duminica-a-28-a-dupa-rusa/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/13/103536-virgin-martyr-lucy-of-syracuse",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

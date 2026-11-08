@@ -1,0 +1,21 @@
+{
+  "id": "teoprepie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Teoprepie",
+    "full": "Sfântul Mucenic Teoprepie",
+    "short": "Teoprepie",
+    "given": "Teoprepie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-teoprepie",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "menignus-at-parium",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Menignus at Parium",
+    "short": "Menignus at Parium",
+    "given": "Menignus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/22/103370-martyr-menignus-at-parium",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

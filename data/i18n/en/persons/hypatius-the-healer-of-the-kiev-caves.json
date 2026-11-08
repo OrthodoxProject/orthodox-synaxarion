@@ -1,0 +1,20 @@
+{
+  "id": "hypatius-the-healer-of-the-kiev-caves",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Hypatius the Healer of the Kiev Caves",
+    "short": "Hypatius the Healer of the Kiev Caves",
+    "given": "Hypatius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/31/100957-venerable-hypatius-the-healer-of-the-kiev-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

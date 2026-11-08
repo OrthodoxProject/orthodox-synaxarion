@@ -1,0 +1,26 @@
+{
+  "id": "icon-of-theotokos-cea-care-alapteaza-galaktotrofousa",
+  "kind": "icon",
+  "subjects": [
+    "icon:icon-of-theotokos-cea-care-alapteaza-galaktotrofousa"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 12
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoanei-maicii-domnului-cea-care-alapteaza-galaktotrofousa",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

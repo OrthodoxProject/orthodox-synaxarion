@@ -1,0 +1,21 @@
+{
+  "id": "stephen-of-decani",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ștefan de la Decani, regele Serbiei",
+    "full": "Sfântul Ștefan de la Decani, regele Serbiei",
+    "short": "Ștefan de la Decani, regele Serbiei",
+    "given": "Ștefan"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-stefan-de-la-decani-regele-serbiei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "tradition": "ecumenical",
+  "date": "01-03",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:malachi-the-prophet--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:gordius-at-caesarea--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:ephraim--finding-of-relics"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

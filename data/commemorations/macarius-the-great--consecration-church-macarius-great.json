@@ -1,0 +1,35 @@
+{
+  "id": "macarius-the-great--consecration-church-macarius-great",
+  "kind": "event",
+  "subjects": [
+    "person:macarius-the-great"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 8,
+    "calendar": "coptic"
+  },
+  "external_ids": {
+    "copticchurch": "5_8#1"
+  },
+  "sources": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/5_8.html?lang=en#1",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:st-takla-synaxarium",
+      "url": "https://st-takla.org/books/en/church/synaxarium/05-topah/08-toba-macarius.html",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din copticchurch.net, st-takla.org; de verificat."
+    ]
+  }
+}

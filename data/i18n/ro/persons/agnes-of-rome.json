@@ -1,0 +1,26 @@
+{
+  "id": "agnes-of-rome",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Agnia din Roma",
+    "full": "Sfânta Muceniță Agnia din Roma",
+    "short": "Agnia din Roma",
+    "given": "Agnia"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-agnia-din-roma",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-maxim-marturisitorul-sf-mc-neofit-sf-mc-agnia-din-roma/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

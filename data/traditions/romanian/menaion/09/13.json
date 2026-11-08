@@ -1,0 +1,44 @@
+{
+  "tradition": "romanian",
+  "date": "09-13",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:dedication-of-the-church-of-the-resurrection"
+      ],
+      "symbol": "red-plain"
+    },
+    {
+      "commemorations": [
+        "comm:john-of-prislop--repose"
+      ],
+      "symbol": "blue-half-parenthesized"
+    },
+    {
+      "commemorations": [
+        "comm:martyrs-macrobius-and-gordian-at-tomi-in-romania"
+      ],
+      "symbol": "blue-plain"
+    },
+    {
+      "commemorations": [
+        "comm:cornelius-the-centurion--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:ciprian-of-cartagina--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:ketevan--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:hierotheus-the-younger-of-iveron--repose"
+      ]
+    }
+  ]
+}

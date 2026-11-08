@@ -1,0 +1,20 @@
+{
+  "id": "athanasius-of-great-lavra",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Athanasius, founder of the Great Lavra",
+    "short": "Athanasius, founder of the Great Lavra",
+    "given": "Athanasius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/05/101908-venerable-athanasius-founder-of-the-great-lavra-and-coenobitic-m",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

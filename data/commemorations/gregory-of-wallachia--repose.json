@@ -1,0 +1,29 @@
+{
+  "id": "gregory-of-wallachia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:gregory-of-wallachia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 22
+  },
+  "external_ids": {
+    "oca": "149028"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/22/149028-saint-gregory-metropolitan-of-wallachia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

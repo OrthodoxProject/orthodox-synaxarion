@@ -1,0 +1,32 @@
+{
+  "id": "the-commemoration-of-the-revealing-of-the-virginity",
+  "kind": "event",
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 12,
+    "calendar": "coptic"
+  },
+  "external_ids": {
+    "copticchurch": "7_12#2"
+  },
+  "sources": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/7_12.html?lang=en#2",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:st-takla-synaxarium",
+      "url": "https://st-takla.org/books/en/church/synaxarium/07-baramhat/12-paramhat-demetrius.html",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din copticchurch.net, st-takla.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "anastasia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Anastasia, mama Sfântului Ier. Andrei Șaguna",
+    "full": "Sfânta Anastasia, mama Sfântului Ierarh Andrei Șaguna",
+    "short": "Anastasia, mama Sfântului Ierarh Andrei Șaguna",
+    "given": "Anastasia",
+    "variants": [
+      "Sf. Anastasia, mama Sf. Ier. Andrei Șaguna"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-anastasia-mama-sfantului-ierarh-andrei-saguna",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-anastasia-mama-sf-ier-andrei-saguna-sf-proroc-naum-sf-filaret-cel-milostiv-tedeum-dezlegare-la-peste/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

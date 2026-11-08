@@ -1,0 +1,20 @@
+{
+  "id": "philothea-of-thrace",
+  "locale": "en",
+  "names": {
+    "display": "Saint Philothea of Thrace, Protectress of Romania",
+    "short": "Philothea of Thrace, Protectress of Romania",
+    "given": "Philothea"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/07/103491-saint-philothea-of-thrace-protectress-of-romania",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

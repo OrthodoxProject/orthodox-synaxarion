@@ -1,0 +1,26 @@
+{
+  "id": "pelagia-the-penitent",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Pelaghia",
+    "full": "Sfânta Cuvioasă Pelaghia",
+    "short": "Pelaghia",
+    "given": "Pelaghia"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-pelaghia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-pelaghia-si-taisia/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

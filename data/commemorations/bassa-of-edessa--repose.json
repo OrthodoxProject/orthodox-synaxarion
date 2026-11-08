@@ -1,0 +1,39 @@
+{
+  "id": "bassa-of-edessa--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:bassa-of-edessa"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 21
+  },
+  "external_ids": {
+    "oca": "102356"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-vasa-cu-fiii-ei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ap-tadeu-%e2%80%a0-sf-mc-donat-diaconul-romul-preotul-diaconul-si-venust-sf-mc-vasa-cu-fiii-ei/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/21/102356-martyr-bassa-of-edessa-and-her-sons-theogonius-agapius-and-pistu",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

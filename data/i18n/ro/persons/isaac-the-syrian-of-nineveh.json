@@ -1,0 +1,26 @@
+{
+  "id": "isaac-the-syrian-of-nineveh",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Isaac Sirul",
+    "full": "Sfântul Cuvios Isaac Sirul",
+    "short": "Isaac Sirul",
+    "given": "Isaac"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-isaac-sirul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-efrem-sirul-isaac-sirul-paladie-si-iacob-sihastrul/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

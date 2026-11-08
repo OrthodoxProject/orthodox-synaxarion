@@ -1,0 +1,23 @@
+{
+  "id": "john-of-monemvasia",
+  "locale": "en",
+  "names": {
+    "display": "New Martyr John of Monemvasia",
+    "short": "John of Monemvasia",
+    "given": "John",
+    "variants": [
+      "Holy New Martyr John of Monembasia (1773)"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/21/100509-new-martyr-john-of-monemvasia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

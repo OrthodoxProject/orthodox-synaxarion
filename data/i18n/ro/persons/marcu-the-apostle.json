@@ -1,0 +1,21 @@
+{
+  "id": "marcu-the-apostle",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ap. Marcu",
+    "full": "Sfântul Apostol Marcu",
+    "short": "Marcu",
+    "given": "Marcu"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-apostol-marcu",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

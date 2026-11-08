@@ -1,0 +1,29 @@
+{
+  "id": "george-limniotes--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:george-limniotes"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 24
+  },
+  "external_ids": {
+    "oca": "102388"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/24/102388-saint-george-limniotes-confessor-of-mount-olympus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

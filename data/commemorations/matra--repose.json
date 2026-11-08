@@ -1,0 +1,35 @@
+{
+  "id": "matra--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:matra"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 8,
+    "calendar": "coptic"
+  },
+  "external_ids": {
+    "copticchurch": "2_8#1"
+  },
+  "sources": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/2_8.html?lang=en#1",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:st-takla-synaxarium",
+      "url": "https://st-takla.org/books/en/church/synaxarium/02-babah/08-baba-matra.html",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din copticchurch.net, st-takla.org; de verificat."
+    ]
+  }
+}

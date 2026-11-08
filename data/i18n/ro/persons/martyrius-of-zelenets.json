@@ -1,0 +1,21 @@
+{
+  "id": "martyrius-of-zelenets",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Martirie din Zelenesk",
+    "full": "Sfântul Cuvios Martirie din Zelenesk",
+    "short": "Martirie din Zelenesk",
+    "given": "Martirie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-martirie-din-zelenesk",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

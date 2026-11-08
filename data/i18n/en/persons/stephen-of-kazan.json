@@ -1,0 +1,20 @@
+{
+  "id": "stephen-of-kazan",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Stephen of Kazan",
+    "short": "Stephen of Kazan",
+    "given": "Stephen"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/24/100880-martyr-stephen-of-kazan",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

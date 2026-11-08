@@ -1,0 +1,20 @@
+{
+  "id": "zenobios",
+  "locale": "en",
+  "names": {
+    "display": "Hieromartyr Zenobios",
+    "short": "Zenobios",
+    "given": "Zenobios"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/30/103110-hieromartyr-zenobios-and-his-sister-zenobia-of-aeg-in-cilicia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

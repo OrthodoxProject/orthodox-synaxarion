@@ -1,0 +1,17 @@
+{
+  "tradition": "serbian",
+  "date": "01-17",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:eustathius-i--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:anthony-the-great--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

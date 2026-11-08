@@ -1,0 +1,30 @@
+{
+  "tradition": "ecumenical",
+  "date": "08-05",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:fabian-of-rome--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:nonna--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:john-jacob-the-chozebite--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:transfiguration--forefeast"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

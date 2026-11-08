@@ -1,0 +1,29 @@
+{
+  "id": "commemoration-of-the-165-fathers-of-the-fifth",
+  "kind": "repose",
+  "subjects": [
+    "group:commemoration-of-the-165-fathers-of-the-fifth"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 25
+  },
+  "external_ids": {
+    "oca": "102090"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/25/102090-commemoration-of-the-holy-165-fathers-of-the-fifth-ecumenical-co",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

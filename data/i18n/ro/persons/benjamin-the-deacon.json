@@ -1,0 +1,29 @@
+{
+  "id": "benjamin-the-deacon",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Veniamin, diaconul",
+    "full": "Sfântul Mucenic Veniamin, diaconul",
+    "short": "Veniamin, diaconul",
+    "given": "Veniamin",
+    "variants": [
+      "Sf. Mc. Veniamin diaconul"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-veniamin-diaconul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-sfintit-mc-ipatie-episcopul-gangrei-sf-mc-veniamin-diaconul/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

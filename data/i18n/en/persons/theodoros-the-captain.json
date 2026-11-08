@@ -1,0 +1,20 @@
+{
+  "id": "theodoros-the-captain",
+  "locale": "en",
+  "names": {
+    "display": "Saint Theodoros the Captain",
+    "short": "Theodoros the Captain",
+    "given": "Theodoros"
+  },
+  "references": [
+    {
+      "source": "src:armenianchurch-ge",
+      "url": "https://armenianchurch.ge/en/kalendar-prazdnikov/description-2/february/commemoration-of-st-theodoros-the-captain",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

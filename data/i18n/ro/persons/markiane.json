@@ -1,0 +1,21 @@
+{
+  "id": "markiane",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Marciana, împărăteasa",
+    "full": "Sfânta Marciana, împărăteasa",
+    "short": "Marciana, împărăteasa",
+    "given": "Marciana"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-marciana-imparateasa",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "tradition": "ecumenical",
+  "date": "01-29",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:ignatius-the-god-bearer-of-antioch--translation-of-relics"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:romanus--repose",
+        "comm:jacob--repose",
+        "comm:philotheus--repose",
+        "comm:hyperechius--repose",
+        "comm:abibus--repose",
+        "comm:julian--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

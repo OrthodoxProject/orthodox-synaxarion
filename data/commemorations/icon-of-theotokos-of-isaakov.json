@@ -1,0 +1,29 @@
+{
+  "id": "icon-of-theotokos-of-isaakov",
+  "kind": "icon",
+  "subjects": [
+    "icon:icon-of-theotokos-of-isaakov"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 8
+  },
+  "external_ids": {
+    "oca": "108961"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/08/108961-icon-of-the-mother-of-god-of-isaakov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

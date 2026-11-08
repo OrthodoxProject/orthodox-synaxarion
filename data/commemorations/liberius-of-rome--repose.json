@@ -1,0 +1,29 @@
+{
+  "id": "liberius-of-rome--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:liberius-of-rome"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 27
+  },
+  "external_ids": {
+    "oca": "102408"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/27/102408-saint-liberius-pope-of-rome",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "hierarchs-of-novgorod-buried-in-the-cathedral-of",
+  "kind": "other",
+  "holiness_types": [
+    "hierarch"
+  ],
+  "external_ids": {
+    "oca": "100479"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/10/100479-synaxis-of-the-hierarchs-of-novgorod-buried-in-the-cathedral-of",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

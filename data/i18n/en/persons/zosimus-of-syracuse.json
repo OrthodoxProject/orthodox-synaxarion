@@ -1,0 +1,20 @@
+{
+  "id": "zosimus-of-syracuse",
+  "locale": "en",
+  "names": {
+    "display": "Saint Zosimus, Bishop of Syracuse",
+    "short": "Zosimus, Bishop of Syracuse",
+    "given": "Zosimus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/30/100953-saint-zosimus-bishop-of-syracuse",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "stephen-of-perm",
+  "locale": "en",
+  "names": {
+    "display": "Saint Stephen, Bishop of Perm",
+    "short": "Stephen, Bishop of Perm",
+    "given": "Stephen"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/26/101208-saint-stephen-bishop-of-perm",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

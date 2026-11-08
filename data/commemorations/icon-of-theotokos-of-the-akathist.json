@@ -1,0 +1,29 @@
+{
+  "id": "icon-of-theotokos-of-the-akathist",
+  "kind": "icon",
+  "subjects": [
+    "icon:icon-of-theotokos-of-the-akathist"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 12
+  },
+  "external_ids": {
+    "oca": "100161"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/12/100161-icon-of-the-mother-of-god-of-the-akathist",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

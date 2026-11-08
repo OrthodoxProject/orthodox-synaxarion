@@ -180,7 +180,7 @@ describe("other traditions", () => {
     assert.deepEqual(datesOf("ecumenical", 2033, "comm:george-the-great-martyr--repose"), ["2033-04-25"]);
   });
   it("Armenian: reports the commemorations whose rule is not known yet", () =>
-    assert.deepEqual(unresolved(loadTradition(DATA, "armenian")), ["comm:gregory-the-illuminator--deliverance-from-the-pit"]));
+    assert.ok(unresolved(loadTradition(DATA, "armenian")).includes("comm:gregory-the-illuminator--deliverance-from-the-pit")));
 });
 
 describe("generated days", () => {

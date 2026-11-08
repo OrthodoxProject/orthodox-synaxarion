@@ -1,0 +1,20 @@
+{
+  "id": "euphemia-coptic",
+  "locale": "en",
+  "names": {
+    "display": "Saint Euphemia",
+    "short": "Euphemia",
+    "given": "Euphemia"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/10_12.html?lang=en#4",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

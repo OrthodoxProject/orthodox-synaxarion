@@ -1,0 +1,29 @@
+{
+  "id": "3-628-martyrs-who-suffered-at-nicomedia",
+  "kind": "repose",
+  "subjects": [
+    "group:3-628-martyrs-who-suffered-at-nicomedia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 2
+  },
+  "external_ids": {
+    "oca": "102465"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/02/102465-3628-martyrs-who-suffered-at-nicomedia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

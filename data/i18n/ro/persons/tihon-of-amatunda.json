@@ -1,0 +1,29 @@
+{
+  "id": "tihon-of-amatunda",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Tihon, Episcopul Amatundei",
+    "full": "Sfântul Ierarh Tihon, Episcopul Amatundei",
+    "short": "Tihon, Episcopul Amatundei",
+    "given": "Tihon",
+    "variants": [
+      "Sf. Ier. Tihon, episcopul Amatundei"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-tihon-episcopul-amatundei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ier-martir-neofit-cretanul-mitropolitul-tarii-romanesti-sf-ier-tihon-episcopul-amatundei-dezlegare-la-peste/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

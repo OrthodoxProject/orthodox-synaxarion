@@ -1,0 +1,21 @@
+{
+  "id": "theodulus-the-reader-at-thessalonica",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Teodul",
+    "full": "Sfântul Mucenic Teodul",
+    "short": "Teodul",
+    "given": "Teodul"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-teodul-1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

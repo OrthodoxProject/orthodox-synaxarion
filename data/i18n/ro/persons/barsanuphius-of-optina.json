@@ -1,0 +1,26 @@
+{
+  "id": "barsanuphius-of-optina",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Varsanufie de la Optina",
+    "full": "Sfântul Cuvios Varsanufie de la Optina",
+    "short": "Varsanufie de la Optina",
+    "given": "Varsanufie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-varsanufie-de-la-optina-5",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-maria-egipteanca-sf-cuv-macarie-marturisitorul-sf-mc-gherontie-sf-cuv-varsanufie-de-la-optina/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

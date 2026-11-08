@@ -1,0 +1,20 @@
+{
+  "id": "euphrosyne-2",
+  "locale": "en",
+  "names": {
+    "display": "Saint Euphrosynē, Great Princess of Moscow",
+    "short": "Euphrosynē, Great Princess of Moscow",
+    "given": "Euphrosynē"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/17/101407-saint-euphrosyn-great-princess-of-moscow",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "cosmas-of-zographou-monastery",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Cosmas of Zographou Monastery, Mount Athos",
+    "short": "Cosmas of Zographou Monastery, Mount Athos",
+    "given": "Cosmas"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/22/108023-venerable-cosmas-of-zographou-monastery-mount-athos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

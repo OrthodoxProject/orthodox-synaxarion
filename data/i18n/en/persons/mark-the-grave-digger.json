@@ -1,0 +1,20 @@
+{
+  "id": "mark-the-grave-digger",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Mark the Grave-Digger, Theophilus",
+    "short": "Mark the Grave-Digger, Theophilus",
+    "given": "Mark"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/29/103684-venerable-mark-the-grave-digger-theophilus-and-john-of-the-kiev",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

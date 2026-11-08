@@ -1,0 +1,18 @@
+{
+  "id": "40-martyrs-of-sebaste",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții 40 de Mucenici din Sevastia"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfintii-40-de-mucenici-din-sevastia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

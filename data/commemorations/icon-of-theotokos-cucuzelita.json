@@ -1,0 +1,26 @@
+{
+  "id": "icon-of-theotokos-cucuzelita",
+  "kind": "icon",
+  "subjects": [
+    "icon:icon-of-theotokos-cucuzelita"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 1
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoane-maicii-domnului-cucuzelita",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

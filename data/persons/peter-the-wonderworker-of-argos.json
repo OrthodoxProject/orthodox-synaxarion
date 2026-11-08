@@ -1,0 +1,26 @@
+{
+  "id": "peter-the-wonderworker-of-argos",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "wonderworker"
+  ],
+  "external_ids": {
+    "oca": "101281"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/03/101281-saint-peter-the-wonderworker-bishop-of-argos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat.",
+      "Genul nu reiese din sursă; e de verificat."
+    ]
+  }
+}

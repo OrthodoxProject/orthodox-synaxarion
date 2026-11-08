@@ -1,0 +1,20 @@
+{
+  "id": "autonomus",
+  "locale": "en",
+  "names": {
+    "display": "Hieromartyr Autonomus, Bishop in Italy",
+    "short": "Autonomus, Bishop in Italy",
+    "given": "Autonomus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/12/102585-hieromartyr-autonomus-bishop-in-italy",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

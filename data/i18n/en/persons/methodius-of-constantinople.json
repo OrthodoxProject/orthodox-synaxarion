@@ -1,0 +1,20 @@
+{
+  "id": "methodius-of-constantinople",
+  "locale": "en",
+  "names": {
+    "display": "Saint Methodius, Patriarch of Constantinople",
+    "short": "Methodius, Patriarch of Constantinople",
+    "given": "Methodius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/14/101719-saint-methodius-patriarch-of-constantinople",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

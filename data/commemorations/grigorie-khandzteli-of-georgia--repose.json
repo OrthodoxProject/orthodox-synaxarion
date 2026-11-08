@@ -1,0 +1,26 @@
+{
+  "id": "grigorie-khandzteli-of-georgia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:grigorie-khandzteli-of-georgia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 6
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-grigorie-khandzteli-din-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

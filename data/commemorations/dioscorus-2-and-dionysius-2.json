@@ -1,0 +1,30 @@
+{
+  "id": "dioscorus-2-and-dionysius-2",
+  "kind": "repose",
+  "subjects": [
+    "person:dioscorus-2",
+    "person:dionysius-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 21
+  },
+  "external_ids": {
+    "oca": "101169"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/21/101169-hieromartyr-theodore-of-perge-in-pamphylia-his-mother-philippa-a",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

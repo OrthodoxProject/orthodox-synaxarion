@@ -1,0 +1,25 @@
+{
+  "id": "romanos-of-cilicia",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Romanós of Cilicia",
+    "short": "Romanós of Cilicia",
+    "given": "Romanós"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/09/205322-venerable-romans-of-cilicia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/27/103407-venerable-romans-of-cilicia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

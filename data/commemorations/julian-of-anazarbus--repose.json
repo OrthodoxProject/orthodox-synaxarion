@@ -1,0 +1,29 @@
+{
+  "id": "julian-of-anazarbus--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:julian-of-anazarbus"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 16
+  },
+  "external_ids": {
+    "oca": "100818"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/16/100818-martyr-julian-of-anazarbus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

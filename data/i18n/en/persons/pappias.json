@@ -1,0 +1,20 @@
+{
+  "id": "pappias",
+  "locale": "en",
+  "names": {
+    "display": "Holy Martyr Pappias",
+    "short": "Pappias",
+    "given": "Pappias"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/28/100236-holy-martyr-pappias",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

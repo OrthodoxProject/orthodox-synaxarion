@@ -1,0 +1,20 @@
+{
+  "id": "anatolius-of-constantinople",
+  "locale": "en",
+  "names": {
+    "display": "Saint Anatolius, Patriarch of Constantinople",
+    "short": "Anatolius, Patriarch of Constantinople",
+    "given": "Anatolius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/03/101890-saint-anatolius-patriarch-of-constantinople",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "arsenius-of-serbia",
+  "locale": "en",
+  "names": {
+    "display": "Repose of Saint Arsenius, Archbishop of Serbia",
+    "short": "Arsenius, Archbishop of Serbia",
+    "given": "Arsenius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/28/103085-repose-of-saint-arsenius-archbishop-of-serbia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

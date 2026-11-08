@@ -1,0 +1,25 @@
+{
+  "id": "damian-at-rome",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Doctor fără de arginți Damian, cei din Roma",
+    "short": "Damian, cei din Roma",
+    "given": "Damian"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfintii-mucenici-doctori-fara-de-arginti-cosma-damian-cei-din-roma",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ier-leontie-de-la-radauti-sf-mc-doctori-fara-de-arginti-cosma-si-damian-cei-din-roma/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

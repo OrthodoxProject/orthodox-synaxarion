@@ -1,0 +1,20 @@
+{
+  "id": "blaise-of-caesarea",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Blaise of Caesarea, in Cappadocia",
+    "short": "Blaise of Caesarea, in Cappadocia",
+    "given": "Blaise"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/03/100418-martyr-blaise-of-caesarea-in-cappadocia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

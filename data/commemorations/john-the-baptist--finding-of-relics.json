@@ -1,0 +1,39 @@
+{
+  "id": "john-the-baptist--finding-of-relics",
+  "kind": "relics_finding",
+  "subjects": [
+    "person:john-the-baptist"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 24
+  },
+  "external_ids": {
+    "oca": "100603"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/intaia-doua-aflare-capului-sfantului-ioan-inaintemergatorul-botezatorul-domnului",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-intaia-si-a-doua-aflare-a-capului-sf-proroc-ioan-botezatorul-%e2%80%a0-sf-cuv-petroniu-de-la-prodromu-zi-aliturgica-canonul-mare/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/24/100603-first-and-second-finding-of-the-honorable-head-of-the-holy-glori",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "roman-of-uglich",
+  "locale": "en",
+  "names": {
+    "display": "Right-Believing Prince Roman of Uglich",
+    "short": "Roman of Uglich",
+    "given": "Roman"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/03/100411-right-believing-prince-roman-of-uglich",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

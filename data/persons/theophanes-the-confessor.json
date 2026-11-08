@@ -1,0 +1,36 @@
+{
+  "id": "theophanes-the-confessor",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "hierarch",
+    "confessor"
+  ],
+  "external_ids": {
+    "doxologia": "sfantul-ierarh-teofan-marturisitorul-episcopul-niceei"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-teofan-marturisitorul-episcopul-niceei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ap-filip-unul-dintre-cei-7-diaconi-sf-ier-teofan-marturisitorul-episcopul-niceei-duminica-a-21-a-dupa-rusalii-a-sfintilor-parinti-de-la-sinodul-al-vii-lea-ecumenic-ap-galateni-2-16-20/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/11/102937-saint-theophanes-the-confessor-and-hymnographer-bishop-of-nicea",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

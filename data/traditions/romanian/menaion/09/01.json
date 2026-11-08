@@ -1,0 +1,48 @@
+{
+  "tradition": "romanian",
+  "date": "09-01",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:church-new-year"
+      ],
+      "symbol": "black-plain"
+    },
+    {
+      "commemorations": [
+        "comm:dionisie-exiguul--repose"
+      ],
+      "symbol": "blue-plain"
+    },
+    {
+      "commemorations": [
+        "comm:simeon-stalpnicul--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:forty-women-martyrs-and-martyr-ammon-the-deacon"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:joshua--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:martha-5--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:icon-of-preasfintei-nascatoare-de-dumnezeu-cea-of-miasine"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:icon-of-theotokos-cernigov-ghetsimani"
+      ]
+    }
+  ]
+}

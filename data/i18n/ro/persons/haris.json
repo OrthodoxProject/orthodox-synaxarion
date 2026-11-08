@@ -1,0 +1,21 @@
+{
+  "id": "haris",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Haris",
+    "full": "Sfânta Muceniță Haris",
+    "short": "Haris",
+    "given": "Haris"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-haris",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

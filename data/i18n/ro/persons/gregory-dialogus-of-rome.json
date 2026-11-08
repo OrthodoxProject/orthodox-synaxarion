@@ -1,0 +1,29 @@
+{
+  "id": "gregory-dialogus-of-rome",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Grigorie Dialogul, Episcopul Romei",
+    "full": "Sfântul Ierarh Grigorie Dialogul, Episcopul Romei",
+    "short": "Grigorie Dialogul, Episcopul Romei",
+    "given": "Grigorie",
+    "variants": [
+      "Sf. Ier. Grigorie Dialogul, episcopul Romei"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-grigorie-dialogul-episcopul-romei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-teofan-marturisitorul-sf-ier-grigorie-dialogul-episcopul-romei-sf-cuv-simeon-noul-teolog/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

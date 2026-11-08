@@ -1,0 +1,20 @@
+{
+  "id": "elisha-of-suma",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Elisha of Suma, Solovki",
+    "short": "Elisha of Suma, Solovki",
+    "given": "Elisha"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/14/101722-venerable-elisha-of-suma-solovki",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

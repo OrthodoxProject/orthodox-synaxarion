@@ -1,0 +1,29 @@
+{
+  "id": "zacharias-of-jerusalem--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:zacharias-of-jerusalem"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 21
+  },
+  "external_ids": {
+    "oca": "109058"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/21/109058-saint-zacharias-patriarch-of-jerusalem",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

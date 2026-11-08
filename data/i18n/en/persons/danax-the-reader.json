@@ -1,0 +1,20 @@
+{
+  "id": "danax-the-reader",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Danax the Reader, in Macedonia",
+    "short": "Danax the Reader, in Macedonia",
+    "given": "Danax"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/16/100212-martyr-danax-the-reader-in-macedonia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

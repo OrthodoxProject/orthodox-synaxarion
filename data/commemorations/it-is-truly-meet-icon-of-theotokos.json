@@ -1,0 +1,29 @@
+{
+  "id": "it-is-truly-meet-icon-of-theotokos",
+  "kind": "icon",
+  "subjects": [
+    "icon:it-is-truly-meet-icon-of-theotokos"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 13
+  },
+  "external_ids": {
+    "oca": "102022"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/13/102022-it-is-truly-meet-axion-estin-icon-of-the-mother-of-god",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

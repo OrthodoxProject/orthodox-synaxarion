@@ -1,0 +1,26 @@
+{
+  "id": "andrew-stratelates",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Andrei Stratilat",
+    "full": "Sfântul Mucenic Andrei Stratilat",
+    "short": "Andrei Stratilat",
+    "given": "Andrei"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-andrei-stratilat",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-andrei-stratilat-timotei-agapie-si-tecla/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

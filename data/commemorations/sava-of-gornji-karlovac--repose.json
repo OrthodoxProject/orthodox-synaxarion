@@ -1,0 +1,30 @@
+{
+  "id": "sava-of-gornji-karlovac--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:sava-of-gornji-karlovac"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 17
+  },
+  "sources": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sava_of_Gornji_Karlovac"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din orthodox-calendar, Wikipedia; de verificat."
+    ]
+  }
+}

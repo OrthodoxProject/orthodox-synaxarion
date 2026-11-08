@@ -1,0 +1,23 @@
+{
+  "id": "procession-of-the-cross",
+  "locale": "ro",
+  "names": {
+    "display": "Scoaterea Sfintei Cruci"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/scoaterea-sfintei-cruci",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/scoaterea-sfintei-cruci-sf-7-frati-mucenici-macabei/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

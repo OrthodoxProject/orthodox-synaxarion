@@ -1,0 +1,26 @@
+{
+  "id": "george-of-mount-maleon-in-the-peloponnesus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Gheorghe de la Maleon",
+    "full": "Sfântul Cuvios Gheorghe de la Maleon",
+    "short": "Gheorghe de la Maleon",
+    "given": "Gheorghe"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-gheorghe-de-la-maleon",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-iosif-imnograful-gheorghe-din-maleon-si-zosima-sambata-lui-lazar-pomenirea-celor-adormiti/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "germanus-of-caesarea",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Germanus of Caesarea, in Palestine",
+    "short": "Germanus of Caesarea, in Palestine",
+    "given": "Germanus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/13/103294-martyrs-nikephoros-antoninus-and-germanus-of-caesarea-in-palesti",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

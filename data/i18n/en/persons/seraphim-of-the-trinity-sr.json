@@ -1,0 +1,20 @@
+{
+  "id": "seraphim-of-the-trinity-sr",
+  "locale": "en",
+  "names": {
+    "display": "Saint Seraphim of the Trinity [ sr ]",
+    "short": "Seraphim of the Trinity [ sr ]",
+    "given": "Seraphim"
+  },
+  "references": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

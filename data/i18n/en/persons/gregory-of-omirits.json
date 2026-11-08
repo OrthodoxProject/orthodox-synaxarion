@@ -1,0 +1,20 @@
+{
+  "id": "gregory-of-omirits",
+  "locale": "en",
+  "names": {
+    "display": "Saint Gregory, Archbishop of Omirits",
+    "short": "Gregory, Archbishop of Omirits",
+    "given": "Gregory"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/19/103592-saint-gregory-archbishop-of-omirits",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

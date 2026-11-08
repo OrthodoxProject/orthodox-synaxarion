@@ -1,0 +1,29 @@
+{
+  "tradition": "serbian",
+  "date": "06-07",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:sava-ii-brankovic--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:theodotus-of-ancyra--06-07"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:marcellinus-of-rome--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:zenaida-of-caesarea-in-palestine--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "synaxis-of-fathers-of-optina",
+  "kind": "synaxis",
+  "subjects": [
+    "group:fathers-of-optina"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 11
+  },
+  "external_ids": {
+    "oca": "103801"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/soborul-sfintilor-stareti-de-la-optina",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/11/103801-synaxis-of-the-venerable-fathers-of-optina",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "apollinaris-of-ravenna",
+  "locale": "en",
+  "names": {
+    "display": "Hieromartyr Apollinaris, Bishop of Ravenna",
+    "short": "Apollinaris, Bishop of Ravenna",
+    "given": "Apollinaris"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/23/102079-hieromartyr-apollinaris-bishop-of-ravenna",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

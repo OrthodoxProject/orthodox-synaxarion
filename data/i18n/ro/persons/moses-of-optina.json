@@ -1,0 +1,21 @@
+{
+  "id": "moses-of-optina",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Moise de la Optina",
+    "full": "Sfântul Cuvios Moise de la Optina",
+    "short": "Moise de la Optina",
+    "given": "Moise"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-moise-de-la-optina",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "gavriil-of-kapsala",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Gavriil din Kapsala",
+    "full": "Sfântul Cuvios Gavriil din Kapsala",
+    "short": "Gavriil din Kapsala",
+    "given": "Gavriil"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-gavriil-din-kapsala",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

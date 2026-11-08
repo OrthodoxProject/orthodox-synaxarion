@@ -1,0 +1,20 @@
+{
+  "id": "ezekiel-the-prophet",
+  "locale": "en",
+  "names": {
+    "display": "Prophet Ezekiel",
+    "short": "Ezekiel",
+    "given": "Ezekiel"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/21/102064-prophet-ezekiel",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

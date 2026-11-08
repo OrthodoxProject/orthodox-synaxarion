@@ -1,0 +1,39 @@
+{
+  "tradition": "ecumenical",
+  "date": "01-21",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:maximus-the-confessor--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:neophytus-of-nicea--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:eugene--repose",
+        "comm:candidus--repose",
+        "comm:valerian--repose",
+        "comm:aquila--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:agnes-of-rome--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:maximus-the-greek--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "thekla-2",
+  "locale": "en",
+  "names": {
+    "display": "Virgin Martyr Thekla",
+    "short": "Thekla",
+    "given": "Thekla"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/06/101636-virgin-martyrs-archelais-thekla-and-susanna-at-salerno",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "acacius",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Acachie",
+    "full": "Sfântul Cuvios Mucenic Acachie",
+    "short": "Acachie",
+    "given": "Acachie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-mucenic-acachie",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-proroc-ieremia-sf-cuv-mc-eftimie-ignatie-si-acachie-sf-tamara-sf-cuv-isidora-dezlegare-la-peste/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

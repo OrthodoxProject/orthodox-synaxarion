@@ -1,0 +1,20 @@
+{
+  "id": "savva-of-moscow",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Savva, Abbot of Moscow",
+    "short": "Savva, Abbot of Moscow",
+    "given": "Savva"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/13/107800-venerable-savva-abbot-of-moscow",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

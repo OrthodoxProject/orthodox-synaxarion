@@ -1,0 +1,20 @@
+{
+  "id": "paul-the-obedient",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Paul the Obedient",
+    "short": "Paul the Obedient",
+    "given": "Paul"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/07/103490-venerable-paul-the-obedient",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

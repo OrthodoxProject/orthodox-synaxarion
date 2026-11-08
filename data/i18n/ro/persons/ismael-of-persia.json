@@ -1,0 +1,25 @@
+{
+  "id": "ismael-of-persia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Ismail",
+    "short": "Ismail",
+    "given": "Ismail"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfintii-mucenici-manuil-savel-ismail",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-manuil-savel-ismail-inochentie-si-felix/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

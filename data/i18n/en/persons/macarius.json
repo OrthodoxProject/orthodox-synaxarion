@@ -1,0 +1,20 @@
+{
+  "id": "macarius",
+  "locale": "en",
+  "names": {
+    "display": "Presbyter and Confessor Macarius, at Antioch",
+    "short": "Macarius, at Antioch",
+    "given": "Macarius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/19/100564-presbyters-and-confessors-eugene-and-macarius-at-antioch",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "theodora-of-thessalonica",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Theodora of Thessalonica",
+    "short": "Theodora of Thessalonica",
+    "given": "Theodora"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/05/101005-venerable-theodora-of-thessalonica",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/03/100348-venerable-theodora-and-her-daughter-theopiste",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

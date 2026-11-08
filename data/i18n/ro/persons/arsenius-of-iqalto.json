@@ -1,0 +1,21 @@
+{
+  "id": "arsenius-of-iqalto",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Arsenie din Ikalto, Georgia",
+    "full": "Sfântul Cuvios Arsenie din Ikalto, Georgia",
+    "short": "Arsenie din Ikalto, Georgia",
+    "given": "Arsenie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-arsenie-din-ikalto-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

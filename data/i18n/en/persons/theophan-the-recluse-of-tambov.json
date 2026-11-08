@@ -1,0 +1,20 @@
+{
+  "id": "theophan-the-recluse-of-tambov",
+  "locale": "en",
+  "names": {
+    "display": "Saint Theophan the Recluse, Bishop of Tambov",
+    "short": "Theophan the Recluse, Bishop of Tambov",
+    "given": "Theophan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/10/100147-saint-theophan-the-recluse-bishop-of-tambov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

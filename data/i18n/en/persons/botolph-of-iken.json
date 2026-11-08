@@ -1,0 +1,25 @@
+{
+  "id": "botolph-of-iken",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Botolph of Iken",
+    "short": "Botolph of Iken",
+    "given": "Botolph"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/17/100317-venerable-botolph-of-iken",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/01/100343-venerable-botolph-of-iken",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

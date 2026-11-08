@@ -1,0 +1,28 @@
+{
+  "id": "pancratius-of-taoromina",
+  "locale": "en",
+  "names": {
+    "display": "Hieromartyr Pancratius, Bishop of Taoromina",
+    "short": "Pancratius, Bishop of Taoromina",
+    "given": "Pancratius",
+    "variants": [
+      "Hieromartyr Pancratius, Bishop of Taormina in Sicily"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/09/100471-hieromartyrs-marcellus-bishop-of-sicily-philagrius-bishop-of-cyp",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/09/101970-hieromartyr-pancratius-bishop-of-taormina-in-sicily",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

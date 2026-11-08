@@ -1,0 +1,35 @@
+{
+  "id": "haboulyous-the-prince--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:haboulyous-the-prince"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 4,
+    "calendar": "coptic"
+  },
+  "external_ids": {
+    "copticchurch": "7_4#2"
+  },
+  "sources": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/7_4.html?lang=en#2",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:st-takla-synaxarium",
+      "url": "https://st-takla.org/books/en/church/synaxarium/07-baramhat/04-paramhat-haboulyous.html",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din copticchurch.net, st-takla.org; de verificat."
+    ]
+  }
+}

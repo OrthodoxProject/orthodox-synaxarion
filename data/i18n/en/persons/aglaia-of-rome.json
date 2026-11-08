@@ -1,0 +1,20 @@
+{
+  "id": "aglaia-of-rome",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Aglaϊa of Rome",
+    "short": "Aglaϊa of Rome",
+    "given": "Aglaϊa"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/19/103583-martyr-boniface-at-tarsus-in-cilicia-and-righteous-aglaa-of-rome",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

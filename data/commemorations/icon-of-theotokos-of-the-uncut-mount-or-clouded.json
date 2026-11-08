@@ -1,0 +1,29 @@
+{
+  "id": "icon-of-theotokos-of-the-uncut-mount-or-clouded",
+  "kind": "icon",
+  "subjects": [
+    "icon:icon-of-theotokos-of-the-uncut-mount-or-clouded"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 24
+  },
+  "external_ids": {
+    "oca": "100883"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/24/100883-icon-of-the-mother-of-god-of-the-uncut-mount-or-clouded-mountain",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

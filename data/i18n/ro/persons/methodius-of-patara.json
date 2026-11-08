@@ -1,0 +1,29 @@
+{
+  "id": "methodius-of-patara",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Metodie, Episcopul Patarelor",
+    "full": "Sfântul Sfințit Mucenic Metodie, Episcopul Patarelor",
+    "short": "Metodie, Episcopul Patarelor",
+    "given": "Metodie",
+    "variants": [
+      "Sf. Sfințit Mc. Metodie, episcopul Patarelor"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-sfintit-mucenic-metodie-episcopul-patarelor",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-sfintit-mc-metodie-episcopul-patarelor-sf-ier-calist-patriarhul-constantinopolului-sf-nicolae-cabasila-dezlegare-la-peste/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

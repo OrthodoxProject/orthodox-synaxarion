@@ -1,0 +1,29 @@
+{
+  "id": "cyril-of-chelma-hill--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:cyril-of-chelma-hill"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 8
+  },
+  "external_ids": {
+    "oca": "103495"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/08/103495-venerable-cyril-abbot-of-chelma-hill",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

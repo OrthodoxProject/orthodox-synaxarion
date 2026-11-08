@@ -1,0 +1,20 @@
+{
+  "id": "irenarchus-the-recluse-of-rostov",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Irenarchus the Recluse of Rostov",
+    "short": "Irenarchus the Recluse of Rostov",
+    "given": "Irenarchus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/13/100166-venerable-irenarchus-the-recluse-of-rostov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

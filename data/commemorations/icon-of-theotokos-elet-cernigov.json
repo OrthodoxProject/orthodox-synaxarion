@@ -1,0 +1,26 @@
+{
+  "id": "icon-of-theotokos-elet-cernigov",
+  "kind": "icon",
+  "subjects": [
+    "icon:icon-of-theotokos-elet-cernigov"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 5
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoane-maicii-domnului-elet-cernigov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

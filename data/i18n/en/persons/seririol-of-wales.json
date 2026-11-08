@@ -1,0 +1,20 @@
+{
+  "id": "seririol-of-wales",
+  "locale": "en",
+  "names": {
+    "display": "Saint Seririol of Wales",
+    "short": "Seririol of Wales",
+    "given": "Seririol"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/01/205324-saint-seririol-of-wales",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

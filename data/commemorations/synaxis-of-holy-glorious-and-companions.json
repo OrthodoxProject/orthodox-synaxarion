@@ -1,0 +1,39 @@
+{
+  "id": "synaxis-of-holy-glorious-and-companions",
+  "kind": "synaxis",
+  "subjects": [
+    "group:holy-glorious-and-companions"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 30
+  },
+  "external_ids": {
+    "oca": "101711"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/soborul-sfintilor-12-apostoli",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-soborul-sfintilor-12-apostoli-%e2%80%a0-sf-ier-ghelasie-de-la-ramet/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/30/101711-synaxis-of-the-holy-glorious-and-all-praised-twelve-apostles",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

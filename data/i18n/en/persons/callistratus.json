@@ -1,0 +1,20 @@
+{
+  "id": "callistratus",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Callistratus and 49 companions",
+    "short": "Callistratus",
+    "given": "Callistratus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/27/102736-martyr-callistratus-and-49-companions",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

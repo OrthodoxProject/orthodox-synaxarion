@@ -1,0 +1,20 @@
+{
+  "id": "john-psykhaitis",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Confessor John Psykhaitis",
+    "short": "John Psykhaitis",
+    "given": "John"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/26/101541-venerable-confessor-john-psykhaitis",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

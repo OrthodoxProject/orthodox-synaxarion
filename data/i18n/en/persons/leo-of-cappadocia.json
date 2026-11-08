@@ -1,0 +1,20 @@
+{
+  "id": "leo-of-cappadocia",
+  "locale": "en",
+  "names": {
+    "display": "Saint Leo of Cappadocia",
+    "short": "Leo of Cappadocia",
+    "given": "Leo"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/28/109069-saint-leo-of-cappadocia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

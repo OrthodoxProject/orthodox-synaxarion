@@ -1,0 +1,29 @@
+{
+  "id": "adrian-of-ondrusov--translation-of-relics",
+  "kind": "relics_translation",
+  "subjects": [
+    "person:adrian-of-ondrusov"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 17
+  },
+  "external_ids": {
+    "oca": "100354"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/17/100354-transfer-of-the-relics-of-the-hieromartyr-adrian-of-ondrusov-won",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

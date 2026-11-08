@@ -1,0 +1,20 @@
+{
+  "id": "isaac-of-cyprus",
+  "locale": "en",
+  "names": {
+    "display": "Saint Isaac of Cyprus",
+    "short": "Isaac of Cyprus",
+    "given": "Isaac"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/21/102689-saint-isaac-of-cyprus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

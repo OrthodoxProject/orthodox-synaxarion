@@ -1,0 +1,29 @@
+{
+  "id": "euthymius-the-confessor--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:euthymius-the-confessor"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 20
+  },
+  "external_ids": {
+    "oca": "205439"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/20/205439-saint-euthymius-the-confessor",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

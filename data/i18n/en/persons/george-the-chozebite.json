@@ -1,0 +1,20 @@
+{
+  "id": "george-the-chozebite",
+  "locale": "en",
+  "names": {
+    "display": "Venerable George the Chozebite, Abbot",
+    "short": "George the Chozebite, Abbot",
+    "given": "George"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/08/100112-venerable-george-the-chozebite-abbot",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

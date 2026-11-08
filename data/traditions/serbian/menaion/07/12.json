@@ -1,0 +1,31 @@
+{
+  "tradition": "serbian",
+  "date": "07-12",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:proclus--repose",
+        "comm:hilary-of-ancyra--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:michael-maleinos--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:icon-of-theotokos-of-the-three-hands-on-mount"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:veronica--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

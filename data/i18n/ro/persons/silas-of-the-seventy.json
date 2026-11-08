@@ -1,0 +1,25 @@
+{
+  "id": "silas-of-the-seventy",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ap. Sila",
+    "short": "Sila",
+    "given": "Sila"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfintii-apostoli-sila-silvan-crescent-epenet-andronic",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ap-sila-silvan-crescent-epenet-si-andronic-sf-sfintit-mc-valentin-episcopul-umbriei-lasatul-secului-pentru-postul-adormirii-maicii-domnului/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "peter-4--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:peter-4"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 30
+  },
+  "external_ids": {
+    "oca": "101856"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/30/101856-saint-peter-prince-of-ordinsk-rostov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

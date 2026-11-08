@@ -1,0 +1,21 @@
+{
+  "id": "cuthbert",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Cuthbert",
+    "full": "Sfântul Ierarh Cuthbert",
+    "short": "Cuthbert",
+    "given": "Cuthbert"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-cuthbert",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

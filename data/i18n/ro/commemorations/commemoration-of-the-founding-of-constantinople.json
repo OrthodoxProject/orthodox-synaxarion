@@ -1,0 +1,18 @@
+{
+  "id": "commemoration-of-the-founding-of-constantinople",
+  "locale": "ro",
+  "names": {
+    "display": "Înnoirea Constantinopolului"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/innoirea-constantinopolului",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

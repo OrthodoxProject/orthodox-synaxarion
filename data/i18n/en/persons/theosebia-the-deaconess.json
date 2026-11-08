@@ -1,0 +1,20 @@
+{
+  "id": "theosebia-the-deaconess",
+  "locale": "en",
+  "names": {
+    "display": "Blessed Theosebia the Deaconess, sister of Saints Basil the Great and Gregory of Nyssa",
+    "short": "Theosebia the Deaconess, sister of Saints Basil the Great and Gregory of Nyssa",
+    "given": "Theosebia"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/10/100145-blessed-theosebia-the-deaconess-sister-of-saints-basil-the-great",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

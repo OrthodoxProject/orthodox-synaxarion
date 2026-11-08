@@ -1,0 +1,34 @@
+{
+  "id": "artemon-of-laodikeia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:artemon-of-laodikeia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 13
+  },
+  "external_ids": {
+    "oca": "101072"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-sfintit-mucenic-artemon-preotul-din-laodiceea",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/13/101072-hieromartyr-artemon-of-laodikeia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, oca.org; de verificat."
+    ]
+  }
+}

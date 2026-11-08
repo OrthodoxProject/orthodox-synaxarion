@@ -1,0 +1,20 @@
+{
+  "id": "abramius-the-wonderworker-of-smolensk",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Abramius the Wonderworker, Archimandrite of Smolensk",
+    "short": "Abramius the Wonderworker, Archimandrite of Smolensk",
+    "given": "Abramius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/21/102360-venerable-abramius-the-wonderworker-archimandrite-of-smolensk",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

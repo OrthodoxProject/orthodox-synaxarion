@@ -1,0 +1,37 @@
+{
+  "id": "olga",
+  "kind": "saint",
+  "gender": "female",
+  "holiness_types": [
+    "equal_to_apostles",
+    "right_believing"
+  ],
+  "external_ids": {
+    "doxologia": "sfanta-olga-imparateasa-rusiei",
+    "oca": "102003"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-olga-imparateasa-rusiei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mare-mc-eufimia-sf-olga-cea-intocmai-cu-apostolii-si-luminatoarea-rusiei/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/11/102003-equal-to-the-apostles-blessed-great-princess-olga-in-holy-baptis",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "concordius-of-spoleto",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Concordius of Spoleto",
+    "short": "Concordius of Spoleto",
+    "given": "Concordius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/04/101607-martyr-concordius-of-spoleto",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

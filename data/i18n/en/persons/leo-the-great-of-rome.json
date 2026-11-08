@@ -1,0 +1,20 @@
+{
+  "id": "leo-the-great-of-rome",
+  "locale": "en",
+  "names": {
+    "display": "Saint Leo the Great, Pope of Rome",
+    "short": "Leo the Great, Pope of Rome",
+    "given": "Leo"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/18/100553-saint-leo-the-great-pope-of-rome",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

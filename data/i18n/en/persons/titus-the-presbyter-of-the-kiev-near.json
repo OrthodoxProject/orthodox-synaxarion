@@ -1,0 +1,29 @@
+{
+  "id": "titus-the-presbyter-of-the-kiev-near",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Titus the Presbyter of the Kiev Near Caves",
+    "short": "Titus the Presbyter of the Kiev Near Caves",
+    "given": "Titus",
+    "variants": [
+      "Venerable Titus the Soldier, of the Kiev Caves",
+      "Our Venerable Father Titus of the Lavra of the Kiev Caves (1190)"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/27/100611-venerable-titus-the-presbyter-of-the-kiev-near-caves",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/27/100612-venerable-titus-the-soldier-of-the-kiev-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "sophia-of-suzdal--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:sophia-of-suzdal"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 16
+  },
+  "external_ids": {
+    "oca": "108904"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/16/108904-venerable-sophia-of-suzdal-the-wonderworker",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

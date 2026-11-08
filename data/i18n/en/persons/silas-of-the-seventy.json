@@ -1,0 +1,20 @@
+{
+  "id": "silas-of-the-seventy",
+  "locale": "en",
+  "names": {
+    "display": "Apostle Silas of the Seventy",
+    "short": "Silas of the Seventy",
+    "given": "Silas"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/30/102131-apostle-silas-of-the-seventy",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

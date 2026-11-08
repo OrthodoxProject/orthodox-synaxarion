@@ -1,0 +1,20 @@
+{
+  "id": "stephen-of-triglia",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Stephen, Wonderworker, Abbot of Triglia",
+    "short": "Stephen, Wonderworker, Abbot of Triglia",
+    "given": "Stephen"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/28/100920-venerable-stephen-wonderworker-abbot-of-triglia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

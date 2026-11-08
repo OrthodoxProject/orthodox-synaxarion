@@ -1,0 +1,26 @@
+{
+  "id": "icon-of-theotokos-you-are-a-vineyard",
+  "subject": "theotokos",
+  "depicts": [
+    "person:theotokos"
+  ],
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/01/100165-icon-of-the-mother-of-god-you-are-a-vineyard-georgian-shen-khar",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/23/205458-icon-of-the-mother-of-god-you-are-a-vineyard-georgian-shen-khar",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

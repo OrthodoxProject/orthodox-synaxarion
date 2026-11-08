@@ -1,0 +1,24 @@
+{
+  "tradition": "serbian",
+  "date": "09-02",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:mamas-of-caesarea-in-cappadocia--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:john-the-faster-of-constantinople--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:icon-of-theotokos-of-kaluga"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

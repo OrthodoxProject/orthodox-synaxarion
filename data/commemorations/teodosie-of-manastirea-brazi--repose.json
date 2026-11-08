@@ -1,0 +1,31 @@
+{
+  "id": "teodosie-of-manastirea-brazi--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:teodosie-of-manastirea-brazi"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 22
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-sfintit-mucenic-teodosie-de-la-manastirea-brazi-mitropolitul-moldovei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ierarh-mc-teodosie-de-la-manastirea-brazi-mitropolitul-moldovei-sf-sfintit-mc-foca-episcop-de-sinope/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro; de verificat."
+    ]
+  }
+}

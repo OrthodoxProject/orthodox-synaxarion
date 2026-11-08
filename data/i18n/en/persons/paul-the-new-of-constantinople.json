@@ -1,0 +1,20 @@
+{
+  "id": "paul-the-new-of-constantinople",
+  "locale": "en",
+  "names": {
+    "display": "Saint Paul the New, Patriarch of Constantinople",
+    "short": "Paul the New, Patriarch of Constantinople",
+    "given": "Paul"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/30/102422-saint-paul-the-new-patriarch-of-constantinople",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "father-of-the-tribes-jacob",
+  "kind": "other",
+  "external_ids": {
+    "copticchurch": "12_28#3"
+  },
+  "sources": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/12_28.html?lang=en#3",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din copticchurch.net; de verificat."
+    ]
+  }
+}

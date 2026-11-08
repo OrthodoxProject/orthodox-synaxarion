@@ -1,0 +1,29 @@
+{
+  "id": "onuphrius-of-david-gareji-monastery--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:onuphrius-of-david-gareji-monastery"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 29
+  },
+  "external_ids": {
+    "oca": "103888"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/29/103888-saint-onuphrius-of-saint-david-gareji-monastery-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

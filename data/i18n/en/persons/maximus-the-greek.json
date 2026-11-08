@@ -1,0 +1,20 @@
+{
+  "id": "maximus-the-greek",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Maximus the Greek",
+    "short": "Maximus the Greek",
+    "given": "Maximus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/21/100258-venerable-maximus-the-greek",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

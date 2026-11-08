@@ -1,0 +1,20 @@
+{
+  "id": "damian-the-healer",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Damian the Healer, Jeremiah",
+    "short": "Damian the Healer, Jeremiah",
+    "given": "Damian"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/05/102876-venerable-damian-the-healer-jeremiah-and-matthew-clairvoyants-of",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

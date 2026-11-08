@@ -1,0 +1,29 @@
+{
+  "id": "hippolytus-of-roma",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Ipolit, Episcopul Romei",
+    "full": "Sfântul Sfințit Mucenic Ipolit, Episcopul Romei",
+    "short": "Ipolit, Episcopul Romei",
+    "given": "Ipolit",
+    "variants": [
+      "Sf. Sfințit Mc. Ipolit, episcopul Romei"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-sfintit-mucenic-ipolit-episcopul-romei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sfintii-trei-ierarhi-vasile-cel-mare-grigorie-teologul-si-ioan-gura-de-aur-sf-sfintit-mc-ipolit-episcopul-romei/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

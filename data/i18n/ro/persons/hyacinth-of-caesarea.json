@@ -1,0 +1,26 @@
+{
+  "id": "hyacinth-of-caesarea",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Iachint",
+    "full": "Sfântul Mucenic Iachint",
+    "short": "Iachint",
+    "given": "Iachint"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-iachint-0",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-iachint-sf-ier-anatolie-arhiepiscopul-constantinopolului/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

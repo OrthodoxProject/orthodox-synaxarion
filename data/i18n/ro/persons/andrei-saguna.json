@@ -1,0 +1,29 @@
+{
+  "id": "andrei-saguna",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Andrei Șaguna, Mitropolitul Transilvaniei",
+    "full": "Sfântul Ierarh Andrei Șaguna, Mitropolitul Transilvaniei",
+    "short": "Andrei Șaguna, Mitropolitul Transilvaniei",
+    "given": "Andrei",
+    "variants": [
+      "Sf. Ier. Andrei Șaguna, mitropolitul Transilvaniei"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-andrei-saguna-mitropolitul-transilvaniei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ap-andrei-cel-intai-chemat-ocrotitorul-romaniei-%e2%80%a0-sf-ier-andrei-saguna-mitropolitul-transilvaniei-sf-ier-frumentie-episcopul-etiopiei-dezlegare-la-peste-duminica/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

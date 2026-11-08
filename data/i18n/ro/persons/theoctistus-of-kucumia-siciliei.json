@@ -1,0 +1,26 @@
+{
+  "id": "theoctistus-of-kucumia-siciliei",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Teoctist, egumenul de la Kucumia Siciliei",
+    "full": "Sfântul Cuvios Teoctist, egumenul de la Kucumia Siciliei",
+    "short": "Teoctist, egumenul de la Kucumia Siciliei",
+    "given": "Teoctist"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-teoctist-egumenul-de-la-kucumia-siciliei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/soborul-sf-70-de-apostoli-sf-cuv-teoctist-din-sicilia-nichifor-cel-lepros-si-apolinaria/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

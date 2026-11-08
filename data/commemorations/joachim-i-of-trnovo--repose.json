@@ -1,0 +1,29 @@
+{
+  "id": "joachim-i-of-trnovo--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:joachim-i-of-trnovo"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 18
+  },
+  "external_ids": {
+    "oca": "108002"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/18/108002-saint-joachim-i-patriarch-of-trnovo-and-bulgaria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

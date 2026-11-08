@@ -1,0 +1,20 @@
+{
+  "id": "pancratius-of-the-kiev-caves",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Pancratius of the Kiev Caves",
+    "short": "Pancratius of the Kiev Caves",
+    "given": "Pancratius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/09/100468-venerable-pancratius-of-the-kiev-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

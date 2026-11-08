@@ -1,0 +1,26 @@
+{
+  "id": "simeon-stylites-the-younger-of-wonderful-mountain",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Simeon cel din Muntele Minunat",
+    "full": "Sfântul Cuvios Simeon cel din Muntele Minunat",
+    "short": "Simeon cel din Muntele Minunat",
+    "given": "Simeon"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-simeon-cel-din-muntele-minunat",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-simeon-cel-din-muntele-minunat/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

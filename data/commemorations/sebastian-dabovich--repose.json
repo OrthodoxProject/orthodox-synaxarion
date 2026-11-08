@@ -1,0 +1,38 @@
+{
+  "id": "sebastian-dabovich--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:sebastian-dabovich"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 30
+  },
+  "external_ids": {
+    "oca": "100486"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/30/100486-venerable-sebastian-dabovich",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sebastian_of_Jackson"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org, orthodox-calendar, Wikipedia; de verificat."
+    ]
+  }
+}

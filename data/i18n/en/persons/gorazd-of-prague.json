@@ -1,0 +1,20 @@
+{
+  "id": "gorazd-of-prague",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Gorazd of Prague, Bohemia",
+    "short": "Gorazd of Prague, Bohemia",
+    "given": "Gorazd"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/04/102375-martyr-gorazd-of-prague-bohemia-and-moravo-cilezsk",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

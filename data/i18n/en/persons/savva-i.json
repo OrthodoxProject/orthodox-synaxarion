@@ -1,0 +1,20 @@
+{
+  "id": "savva-i",
+  "locale": "en",
+  "names": {
+    "display": "Saint Savva I, first Archbishop of Serbia",
+    "short": "Savva I, first Archbishop of Serbia",
+    "given": "Savva"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/14/100156-saint-savva-i-first-archbishop-of-serbia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "antim-ivireanul-of-tarii",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Martir Antim Ivireanul, Mitropolitul Țării Românești",
+    "full": "Sfântul Ierarh Martir Antim Ivireanul, Mitropolitul Țării Românești",
+    "short": "Antim Ivireanul, Mitropolitul Țării Românești",
+    "given": "Antim",
+    "variants": [
+      "Sf. Ier. Martir Antim Ivireanul, mitropolitul Țării Românești"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-martir-antim-ivireanul-mitropolitul-tarii-romanesti",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ier-martir-antim-ivireanul-mitropolitul-tarii-romanesti-sf-mc-calistrat-si-epiharia/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

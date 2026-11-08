@@ -1,0 +1,26 @@
+{
+  "id": "visarion-of-lainici",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Visarion de la Lainici",
+    "full": "Sfântul Cuvios Mucenic Visarion de la Lainici",
+    "short": "Visarion de la Lainici",
+    "given": "Visarion"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-mucenic-visarion-de-la-lainici",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ap-olimp-rodion-sosipatru-erast-tertiu-si-cvart-%e2%80%a0-sf-cuv-mc-visarion-de-la-lainici-sf-mc-orest/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

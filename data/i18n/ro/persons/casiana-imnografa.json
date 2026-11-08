@@ -1,0 +1,26 @@
+{
+  "id": "casiana-imnografa",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Casiana Imnografa",
+    "full": "Sfânta Cuvioasă Casiana Imnografa",
+    "short": "Casiana Imnografa",
+    "given": "Casiana"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-casiana-imnografa",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/inainte-praznuirea-nasterii-maicii-domnului-%e2%80%a0-sf-cuv-simeon-si-amfilohie-de-la-pangarati-sf-mc-sozont-sf-cuv-casiana-imnografa-duminica-dinaintea-inaltarii-sfintei-cruci-ap-gal/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

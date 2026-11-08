@@ -1,0 +1,26 @@
+{
+  "id": "icon-of-theotokos-of-niceea-nicene",
+  "kind": "icon",
+  "subjects": [
+    "icon:icon-of-theotokos-of-niceea-nicene"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 28
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoane-maicii-domnului-din-niceea-nicene",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

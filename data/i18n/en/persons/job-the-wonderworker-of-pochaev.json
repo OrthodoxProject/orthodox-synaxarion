@@ -1,0 +1,20 @@
+{
+  "id": "job-the-wonderworker-of-pochaev",
+  "locale": "en",
+  "names": {
+    "display": "Repose of Venerable Job the Wonderworker, Abbot of Pochaev",
+    "short": "Job the Wonderworker, Abbot of Pochaev",
+    "given": "Job"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/28/103087-repose-of-venerable-job-the-wonderworker-abbot-of-pochaev",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

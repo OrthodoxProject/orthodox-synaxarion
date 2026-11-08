@@ -1,0 +1,20 @@
+{
+  "id": "david-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. David",
+    "short": "David",
+    "given": "David"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfintii-mucenici-david-constantin-printi-ai-georgiei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

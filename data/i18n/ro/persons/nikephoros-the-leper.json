@@ -1,0 +1,20 @@
+{
+  "id": "nikephoros-the-leper",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Nichifor cel Lepros",
+    "short": "Nichifor cel Lepros",
+    "given": "Nichifor"
+  },
+  "references": [
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/soborul-sf-70-de-apostoli-sf-cuv-teoctist-din-sicilia-nichifor-cel-lepros-si-apolinaria/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

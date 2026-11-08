@@ -1,0 +1,20 @@
+{
+  "id": "joannicius-the-great",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Joannicius the Great",
+    "short": "Joannicius the Great",
+    "given": "Joannicius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/04/103171-venerable-joannicius-the-great",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

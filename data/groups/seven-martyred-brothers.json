@@ -1,0 +1,28 @@
+{
+  "id": "seven-martyred-brothers",
+  "kind": "martyrs",
+  "count": {
+    "value": 7,
+    "precision": "exact"
+  },
+  "holiness_types": [
+    "martyr"
+  ],
+  "external_ids": {
+    "oca": "101803"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/24/101803-seven-martyred-brothers-orentius-pharnacius-eros-firmus-firminus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "fool-basil-of-kamen--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:fool-basil-of-kamen"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 2
+  },
+  "external_ids": {
+    "oca": "102186"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/02/102186-holy-fool-basil-of-kamen",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

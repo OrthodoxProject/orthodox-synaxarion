@@ -1,0 +1,20 @@
+{
+  "id": "macarius-of-alexandria",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Macarius of Alexandria",
+    "short": "Macarius of Alexandria",
+    "given": "Macarius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/19/100227-venerable-macarius-of-alexandria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

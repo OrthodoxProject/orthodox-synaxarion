@@ -1,0 +1,21 @@
+{
+  "id": "timothy-of-esphigmenou",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Nou Mc. Timotei Esfigmenitul",
+    "full": "Sfântul Nou Mucenic Timotei Esfigmenitul",
+    "short": "Timotei Esfigmenitul",
+    "given": "Timotei"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-nou-mucenic-timotei-esfigmenitul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

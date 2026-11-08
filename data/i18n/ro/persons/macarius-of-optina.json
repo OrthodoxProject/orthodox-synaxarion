@@ -1,0 +1,21 @@
+{
+  "id": "macarius-of-optina",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Macarie de la Optina",
+    "full": "Sfântul Cuvios Macarie de la Optina",
+    "short": "Macarie de la Optina",
+    "given": "Macarie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-macarie-de-la-optina",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "tradition": "romanian",
+  "date": "08-30",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:varlaam-of-moldova--repose",
+        "comm:ioan-of-rasca-and-secu--repose"
+      ],
+      "symbol": "blue-half-parenthesized"
+    },
+    {
+      "commemorations": [
+        "comm:alexander-of-constantinople--repose",
+        "comm:john-of-constantinople-2--repose",
+        "comm:paul-the-new-of-constantinople--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:alexander-of-svir--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:alexander-nevsky--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:icon-of-theotokos-of-craiova"
+      ]
+    }
+  ]
+}

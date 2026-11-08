@@ -1,0 +1,23 @@
+{
+  "id": "entry-of-the-theotokos--forefeast",
+  "locale": "ro",
+  "names": {
+    "display": "Înainte-prăznuirea Intrării în Biserică a Maicii Domnului"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/inainte-praznuirea-intrarii-biserica-maicii-domnului",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/inainte-praznuirea-intrarii-in-biserica-a-maicii-domnului-%e2%80%a0-sf-cuv-grigorie-decapolitul-%e2%80%a0-sf-mc-dasie-sf-ier-proclu-arhiepiscopul-constantinopolului/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

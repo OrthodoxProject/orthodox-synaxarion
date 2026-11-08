@@ -1,0 +1,29 @@
+{
+  "id": "anthony-of-martkofeli--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:anthony-of-martkofeli"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 16
+  },
+  "external_ids": {
+    "oca": "103878"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/16/103878-saint-anthony-of-martkofeli",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

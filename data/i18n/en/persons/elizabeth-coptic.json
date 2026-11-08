@@ -1,0 +1,20 @@
+{
+  "id": "elizabeth-coptic",
+  "locale": "en",
+  "names": {
+    "display": "Saint Elizabeth",
+    "short": "Elizabeth",
+    "given": "Elizabeth"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/6_16.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

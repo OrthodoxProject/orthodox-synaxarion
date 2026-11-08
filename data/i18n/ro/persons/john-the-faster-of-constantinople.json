@@ -1,0 +1,29 @@
+{
+  "id": "john-the-faster-of-constantinople",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ioan Postitorul, Patriarhul Constantinopolului",
+    "full": "Sfântul Ierarh Ioan Postitorul, Patriarhul Constantinopolului",
+    "short": "Ioan Postitorul, Patriarhul Constantinopolului",
+    "given": "Ioan",
+    "variants": [
+      "Sf. Ier. Ioan Postitorul, patriarhul Constantinopolului"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-ioan-postitorul-patriarhul-constantinopolului",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-mamant-sf-ier-ioan-postitorul-patriarhul-constantinopolului/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

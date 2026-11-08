@@ -1,0 +1,20 @@
+{
+  "id": "zlata-of-meglen",
+  "locale": "en",
+  "names": {
+    "display": "Saint Zlata of Meglen",
+    "short": "Zlata of Meglen",
+    "given": "Zlata"
+  },
+  "references": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

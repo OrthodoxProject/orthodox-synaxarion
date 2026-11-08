@@ -1,0 +1,20 @@
+{
+  "id": "valentine",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Valentine",
+    "short": "Valentine",
+    "given": "Valentine"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/27/103071-martyrs-mark-soterikhos-and-valentine",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

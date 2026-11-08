@@ -1,0 +1,29 @@
+{
+  "id": "burial-of-andrew-the-prince--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:burial-of-andrew-the-prince"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 4
+  },
+  "external_ids": {
+    "oca": "101896"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/04/101896-burial-of-saint-andrew-the-prince",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

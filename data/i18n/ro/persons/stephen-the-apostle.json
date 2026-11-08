@@ -1,0 +1,29 @@
+{
+  "id": "stephen-the-apostle",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ap., Întâiul Mc. și Arhidiacon Ștefan",
+    "full": "Sfântul Apostol, Întâiul Mucenic și Arhidiacon Ștefan",
+    "short": "Ștefan",
+    "given": "Ștefan",
+    "variants": [
+      "Sf. Ap., întâiul Mc. și Arhidiacon Ștefan"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-apostol-intaiul-mucenic-arhidiacon-stefan",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ap-intaiul-mc-si-arhidiacon-stefan-sf-cuv-teodor-marturisitorul-duminica-dupa-nasterea-domnului-a-sfintilor-iosif-logodnicul-david-prorocul-si-iacob-rudenia-domnului-ap-gala/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ven-anthony-of-iezeru-valcea-skete--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:ven-anthony-of-iezeru-valcea-skete"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 23
+  },
+  "external_ids": {
+    "oca": "149005"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/23/149005-ven-anthony-of-iezeru-vlcea-skete",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

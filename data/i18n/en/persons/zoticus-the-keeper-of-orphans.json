@@ -1,0 +1,20 @@
+{
+  "id": "zoticus-the-keeper-of-orphans",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Zoticus the Keeper of Orphans",
+    "short": "Zoticus the Keeper of Orphans",
+    "given": "Zoticus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/30/103692-martyr-zoticus-the-keeper-of-orphans",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

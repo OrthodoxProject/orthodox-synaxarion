@@ -1,0 +1,20 @@
+{
+  "id": "fantinus-of-calabria",
+  "locale": "en",
+  "names": {
+    "display": "Saint Fantinus of Calabria",
+    "short": "Fantinus of Calabria",
+    "given": "Fantinus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/30/102427-saint-fantinus-of-calabria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ieronim-simonopetritul--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:ieronim-simonopetritul"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 7
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-ieronim-simonopetritul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

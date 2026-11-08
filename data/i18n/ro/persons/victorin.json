@@ -1,0 +1,21 @@
+{
+  "id": "victorin",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Victorin și cei împreună cu dânsul",
+    "full": "Sfântul Mucenic Victorin și cei împreună cu dânsul",
+    "short": "Victorin",
+    "given": "Victorin"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-victorin-cei-impreuna-cu-dansul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

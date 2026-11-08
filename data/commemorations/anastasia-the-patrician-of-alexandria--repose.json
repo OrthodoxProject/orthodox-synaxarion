@@ -1,0 +1,29 @@
+{
+  "id": "anastasia-the-patrician-of-alexandria--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:anastasia-the-patrician-of-alexandria"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 10
+  },
+  "external_ids": {
+    "oca": "100776"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/10/100776-saint-anastasia-the-patrician-of-alexandria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

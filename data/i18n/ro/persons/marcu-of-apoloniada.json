@@ -1,0 +1,21 @@
+{
+  "id": "marcu-of-apoloniada",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Marcu, Episcopul Apoloniadei",
+    "full": "Sfântul Sfințit Mucenic Marcu, Episcopul Apoloniadei",
+    "short": "Marcu, Episcopul Apoloniadei",
+    "given": "Marcu"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-sfintit-mucenic-marcu-episcopul-apoloniadei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

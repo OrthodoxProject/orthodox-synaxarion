@@ -1,0 +1,21 @@
+{
+  "id": "arhip",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Arhip",
+    "full": "Sfântul Mucenic Arhip",
+    "short": "Arhip",
+    "given": "Arhip"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-arhip",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

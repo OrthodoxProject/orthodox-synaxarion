@@ -1,0 +1,20 @@
+{
+  "id": "vitalius-of-castronovo",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Vitalius of Castronovo",
+    "short": "Vitalius of Castronovo",
+    "given": "Vitalius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/09/100291-venerable-vitalius-of-castronovo",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "isaac-the-syrian-of-nineveh",
+  "locale": "en",
+  "names": {
+    "display": "Saint Isaac the Syrian, Bishop of Nineveh",
+    "short": "Isaac the Syrian, Bishop of Nineveh",
+    "given": "Isaac"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/28/100333-saint-isaac-the-syrian-bishop-of-nineveh",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

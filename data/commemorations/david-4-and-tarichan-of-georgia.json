@@ -1,0 +1,30 @@
+{
+  "id": "david-4-and-tarichan-of-georgia",
+  "kind": "repose",
+  "subjects": [
+    "person:david-4",
+    "person:tarichan-of-georgia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 18
+  },
+  "external_ids": {
+    "oca": "101433"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/18/101433-martyrs-david-and-tarichan-of-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

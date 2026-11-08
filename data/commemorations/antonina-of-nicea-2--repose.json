@@ -1,0 +1,29 @@
+{
+  "id": "antonina-of-nicea-2--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:antonina-of-nicea-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 13
+  },
+  "external_ids": {
+    "oca": "101715"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/13/101715-martyr-antonina-of-nicea",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

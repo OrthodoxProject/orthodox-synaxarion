@@ -1,0 +1,33 @@
+{
+  "id": "seventy-apostles",
+  "kind": "other",
+  "count": {
+    "value": 70,
+    "precision": "exact"
+  },
+  "holiness_types": [
+    "apostle"
+  ],
+  "external_ids": {
+    "doxologia": "soborul-sfintilor-70-de-apostoli"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/soborul-sfintilor-70-de-apostoli",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/04/100017-synaxis-of-the-seventy-apostles",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, oca.org; de verificat."
+    ]
+  }
+}

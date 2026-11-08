@@ -1,0 +1,29 @@
+{
+  "id": "abramius-of-mirozh--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:abramius-of-mirozh"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 24
+  },
+  "external_ids": {
+    "oca": "102719"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/24/102719-venerable-abramius-abbot-of-mirozh-pskov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

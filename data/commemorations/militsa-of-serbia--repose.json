@@ -1,0 +1,29 @@
+{
+  "id": "militsa-of-serbia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:militsa-of-serbia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 19
+  },
+  "external_ids": {
+    "oca": "102059"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/19/102059-holy-right-believing-princess-militsa-of-serbia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

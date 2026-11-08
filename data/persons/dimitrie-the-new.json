@@ -1,0 +1,30 @@
+{
+  "id": "dimitrie-the-new",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "venerable"
+  ],
+  "external_ids": {
+    "doxologia": "sfantul-cuvios-dimitrie-cel-nou-ocrotitorul-bucurestilor-ale-carui-moaste-se-afla-catedrala"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-dimitrie-cel-nou-ocrotitorul-bucurestilor-ale-carui-moaste-se-afla-catedrala",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-dimitrie-cel-nou-ocrotitorul-bucurestilor-ale-carui-moaste-se-afla-in-catedrala-patriarhala-sf-mc-nestor/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro; de verificat."
+    ]
+  }
+}

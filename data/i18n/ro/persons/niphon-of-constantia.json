@@ -1,0 +1,21 @@
+{
+  "id": "niphon-of-constantia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Nifon, Episcop de Constanțiana",
+    "full": "Sfântul Nifon, Episcop de Constanțiana",
+    "short": "Nifon, Episcop de Constanțiana",
+    "given": "Nifon"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-nifon-episcop-de-constantiana",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

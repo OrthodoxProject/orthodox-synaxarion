@@ -1,0 +1,29 @@
+{
+  "id": "martyred-brothers-barachisius-and-jonah-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "group:martyred-brothers-barachisius-and-jonah-and-companions"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 28
+  },
+  "external_ids": {
+    "oca": "100924"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/28/100924-martyred-brothers-barachisius-and-jonah-and-those-with-them-in-p",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

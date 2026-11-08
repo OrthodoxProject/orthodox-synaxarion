@@ -1,0 +1,20 @@
+{
+  "id": "euthymius-the-schemamonk",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Euthymius the Schemamonk",
+    "short": "Euthymius the Schemamonk",
+    "given": "Euthymius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/20/100239-venerable-euthymius-the-schemamonk",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

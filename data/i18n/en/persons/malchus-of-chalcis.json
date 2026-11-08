@@ -1,0 +1,20 @@
+{
+  "id": "malchus-of-chalcis",
+  "locale": "en",
+  "names": {
+    "display": "Saint Malchus of Chalcis, Syria",
+    "short": "Malchus of Chalcis, Syria",
+    "given": "Malchus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/26/100909-saint-malchus-of-chalcis-syria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "zeno-the-faster-of-kiev-caves",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Zeno the Faster, of the Kiev Caves",
+    "short": "Zeno the Faster, of the Kiev Caves",
+    "given": "Zeno"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/30/100375-venerable-zeno-the-faster-of-the-kiev-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

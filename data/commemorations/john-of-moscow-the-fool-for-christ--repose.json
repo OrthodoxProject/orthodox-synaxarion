@@ -1,0 +1,29 @@
+{
+  "id": "john-of-moscow-the-fool-for-christ--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:john-of-moscow-the-fool-for-christ"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 3
+  },
+  "external_ids": {
+    "oca": "101881"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/03/101881-blessed-john-of-moscow-the-fool-for-christ",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

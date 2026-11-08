@@ -1,0 +1,20 @@
+{
+  "id": "alexander-of-svir",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Alexander, Abbot of Svir",
+    "short": "Alexander, Abbot of Svir",
+    "given": "Alexander"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/30/102423-venerable-alexander-abbot-of-svir",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

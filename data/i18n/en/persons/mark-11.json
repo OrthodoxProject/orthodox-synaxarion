@@ -1,0 +1,20 @@
+{
+  "id": "mark-11",
+  "locale": "en",
+  "names": {
+    "display": "Saint Mark 11, 49th Pope of the See of St. Mark",
+    "short": "Mark 11, 49th Pope of the See of St. Mark",
+    "given": "Mark"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/8_22.html?lang=en#3",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

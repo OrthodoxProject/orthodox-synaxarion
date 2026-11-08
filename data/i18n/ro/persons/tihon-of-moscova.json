@@ -1,0 +1,21 @@
+{
+  "id": "tihon-of-moscova",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Tihon, Patriarhul Moscovei și al Întregii Rusii",
+    "full": "Sfântul Ierarh Tihon, Patriarhul Moscovei și al Întregii Rusii",
+    "short": "Tihon, Patriarhul Moscovei, al Întregii Rusii",
+    "given": "Tihon"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-tihon-patriarhul-moscovei-al-intregii-rusii",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

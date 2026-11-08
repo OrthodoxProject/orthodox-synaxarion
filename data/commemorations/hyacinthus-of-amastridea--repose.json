@@ -1,0 +1,34 @@
+{
+  "id": "hyacinthus-of-amastridea--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:hyacinthus-of-amastridea"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 18
+  },
+  "external_ids": {
+    "oca": "102048"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-iachint",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/18/102048-martyr-hyacinthus-of-amastridea",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, oca.org; de verificat."
+    ]
+  }
+}

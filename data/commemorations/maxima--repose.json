@@ -1,0 +1,39 @@
+{
+  "id": "maxima--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:maxima"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 26
+  },
+  "external_ids": {
+    "oca": "100911"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-maxima-sotia-sfantului-mucenic-montanus-preotul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/odovania-praznicului-bunei-vestiri-soborul-sf-arhanghel-gavriil-sf-mc-montanus-preotul-si-sotia-sa-maxima-sfintii-26-de-mucenici-din-gotia-dacia/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/26/100911-martyr-montanus-the-presbyter-of-singidunum-and-his-wife-maxima",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "burial-of-andrew-the-prince",
+  "locale": "en",
+  "names": {
+    "display": "Burial of Saint Andrew the Prince",
+    "given": "Burial"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/04/101896-burial-of-saint-andrew-the-prince",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

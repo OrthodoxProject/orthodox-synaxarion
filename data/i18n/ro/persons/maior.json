@@ -1,0 +1,26 @@
+{
+  "id": "maior",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Maior",
+    "full": "Sfântul Mucenic Maior",
+    "short": "Maior",
+    "given": "Maior"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-maior",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ap-onisim-sf-mc-maior-duminica-infricosatoarei-judecati-a-lasatului-sec-de-carne-ap-1-corinteni-8-8-13-9-1-2-ev-matei-25-31-46-glas-3-voscr-3/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

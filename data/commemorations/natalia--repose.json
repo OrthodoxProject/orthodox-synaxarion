@@ -1,0 +1,39 @@
+{
+  "id": "natalia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:natalia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 26
+  },
+  "external_ids": {
+    "oca": "102398"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-natalia-sotia-sfantului-mucenic-adrian",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-adrian-si-natalia-sotia-sa/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/26/102398-martyrs-adrian-and-natalia-and-23-companions-of-nicomedia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

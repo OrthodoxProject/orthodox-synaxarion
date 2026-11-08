@@ -1,0 +1,26 @@
+{
+  "id": "icon-of-theotokos-imnul-acatist-of-manastirea-dionisiu",
+  "kind": "icon",
+  "subjects": [
+    "icon:icon-of-theotokos-imnul-acatist-of-manastirea-dionisiu"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 28
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoanei-maicii-domnului-imnul-acatist-de-la-manastirea-dionisiu",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

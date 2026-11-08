@@ -1,0 +1,26 @@
+{
+  "id": "eutropius",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Eutropie",
+    "full": "Sfântul Mucenic Eutropie",
+    "short": "Eutropie",
+    "given": "Eutropie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-eutropie",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-eutropie-cleonic-si-vasilisc/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

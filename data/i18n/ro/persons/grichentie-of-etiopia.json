@@ -1,0 +1,29 @@
+{
+  "id": "grichentie-of-etiopia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Grichentie, Episcopul Etiopiei",
+    "full": "Sfântul Ierarh Grichentie, Episcopul Etiopiei",
+    "short": "Grichentie, Episcopul Etiopiei",
+    "given": "Grichentie",
+    "variants": [
+      "Sf. Ier. Grichentie, episcopul Etiopiei"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-grichentie-episcopul-etiopiei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-mucenita-evloghia-de-la-samurcasesti-sf-mc-bonifatie-sf-aglaia-sf-ier-grichentie-episcopul-etiopiei-dezlegare-la-peste/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

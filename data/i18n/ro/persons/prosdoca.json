@@ -1,0 +1,21 @@
+{
+  "id": "prosdoca",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Prosdoca",
+    "full": "Sfânta Muceniță Prosdoca",
+    "short": "Prosdoca",
+    "given": "Prosdoca"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-prosdoca",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

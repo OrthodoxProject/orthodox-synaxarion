@@ -1,0 +1,21 @@
+{
+  "id": "eusebius-the-hermit-of-syria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Eusebiu din Siria",
+    "full": "Sfântul Cuvios Eusebiu din Siria",
+    "short": "Eusebiu din Siria",
+    "given": "Eusebiu"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-eusebiu-din-siria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

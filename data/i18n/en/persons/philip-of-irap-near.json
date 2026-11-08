@@ -1,0 +1,20 @@
+{
+  "id": "philip-of-irap-near",
+  "locale": "en",
+  "names": {
+    "display": "Saint Philip, Abbot of Irap Near Novgorod",
+    "short": "Philip, Abbot of Irap Near Novgorod",
+    "given": "Philip"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/14/103300-saint-philip-abbot-of-irap-near-novgorod",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

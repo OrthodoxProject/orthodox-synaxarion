@@ -1,0 +1,20 @@
+{
+  "id": "james-of-borovichi",
+  "locale": "en",
+  "names": {
+    "display": "Blessed James of Borovichi, Wonderworker of Novgorod",
+    "short": "James of Borovichi, Wonderworker of Novgorod",
+    "given": "James"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/22/107812-blessed-james-of-borovichi-wonderworker-of-novgorod",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

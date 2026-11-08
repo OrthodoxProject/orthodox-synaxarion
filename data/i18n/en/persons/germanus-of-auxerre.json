@@ -1,0 +1,20 @@
+{
+  "id": "germanus-of-auxerre",
+  "locale": "en",
+  "names": {
+    "display": "Saint Germanus, Bishop of Auxerre",
+    "short": "Germanus, Bishop of Auxerre",
+    "given": "Germanus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/31/102156-saint-germanus-bishop-of-auxerre",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "anania-of-creta",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Anania din Creta",
+    "full": "Sfântul Cuvios Anania din Creta",
+    "short": "Anania din Creta",
+    "given": "Anania"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-anania-din-creta",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "callinicus-of-cernica",
+  "locale": "en",
+  "names": {
+    "display": "Saint Callinicus of Cernica, Bishop of Rimnicului in Romania",
+    "short": "Callinicus of Cernica, Bishop of Rimnicului in Romania",
+    "given": "Callinicus",
+    "variants": [
+      "Callinicus of Cernica"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/11/101059-saint-callinicus-of-cernica-bishop-of-rimnicului-in-romania",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/romanian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

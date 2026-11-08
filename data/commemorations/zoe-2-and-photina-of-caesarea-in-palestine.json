@@ -1,0 +1,30 @@
+{
+  "id": "zoe-2-and-photina-of-caesarea-in-palestine",
+  "kind": "repose",
+  "subjects": [
+    "person:zoe-2",
+    "person:photina-of-caesarea-in-palestine"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 13
+  },
+  "external_ids": {
+    "oca": "100513"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/13/100513-saints-martinian-zoe-and-photina-of-caesarea-in-palestine",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "robe-of-the-theotokos",
+  "locale": "ro",
+  "names": {
+    "display": "Așezarea veșmântului Născătoarei de Dumnezeu în Vlaherne"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/asezarea-vesmantului-nascatoarei-de-dumnezeu-vlaherne",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/asezarea-vesmantului-nascatoarei-de-dumnezeu-in-biserica-vlaherne-%e2%80%a0-sf-voievod-stefan-cel-mare-sf-ier-iuvenalie-arhiepiscopul-ierusalimului-sf-ier-ioan-maximovici/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

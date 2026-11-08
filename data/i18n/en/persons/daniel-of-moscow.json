@@ -1,0 +1,23 @@
+{
+  "id": "daniel-of-moscow",
+  "locale": "en",
+  "names": {
+    "display": "Right-believing Prince Daniel of Moscow",
+    "short": "Daniel of Moscow",
+    "given": "Daniel",
+    "variants": [
+      "Rt. Blv. Prince Daniel of Moscow"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/04/100653-right-believing-prince-daniel-of-moscow",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

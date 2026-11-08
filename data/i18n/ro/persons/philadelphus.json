@@ -1,0 +1,21 @@
+{
+  "id": "philadelphus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Filadelf",
+    "full": "Sfântul Mucenic Filadelf",
+    "short": "Filadelf",
+    "given": "Filadelf"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-filadelf",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

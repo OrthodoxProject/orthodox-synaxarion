@@ -1,0 +1,26 @@
+{
+  "id": "nicandru-of-mire",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Nicandru, Episcopul Mirelor",
+    "full": "Sfântul Sfințit Mucenic Nicandru, Episcopul Mirelor",
+    "short": "Nicandru, Episcopul Mirelor",
+    "given": "Nicandru"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-sfintit-mucenic-nicandru-episcopul-mirelor",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-ioanichie-cel-mare-sf-mc-nicandru-si-ermeu-sf-cuv-gheorghe-marturisitorul-din-drama/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

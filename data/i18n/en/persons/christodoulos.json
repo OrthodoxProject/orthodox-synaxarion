@@ -1,0 +1,20 @@
+{
+  "id": "christodoulos",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Christodoulos",
+    "short": "Christodoulos",
+    "given": "Christodoulos"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/26/100341-martyr-christodoulos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

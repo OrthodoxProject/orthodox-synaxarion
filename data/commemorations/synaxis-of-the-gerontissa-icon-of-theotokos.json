@@ -1,0 +1,29 @@
+{
+  "id": "synaxis-of-the-gerontissa-icon-of-theotokos",
+  "kind": "icon",
+  "subjects": [
+    "icon:synaxis-of-the-gerontissa-icon-of-theotokos"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 2
+  },
+  "external_ids": {
+    "oca": "101268"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/02/101268-synaxis-of-the-gerontissa-icon-of-the-mother-of-god",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

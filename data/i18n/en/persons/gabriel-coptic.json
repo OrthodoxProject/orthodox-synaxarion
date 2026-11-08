@@ -1,0 +1,34 @@
+{
+  "id": "gabriel-coptic",
+  "locale": "en",
+  "names": {
+    "display": "Saint Gabriel, 57th Pope of Alexandria",
+    "short": "Gabriel, 57th Pope of Alexandria",
+    "given": "Gabriel",
+    "variants": [
+      "Pope Gabriel IV, the 86th. Patriarch of Alexandria",
+      "Anba Gabriel VII, 95th Pope of Alexandria"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/6_21.html?lang=en#3",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/9_3.html?lang=en#3",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/11_10.html?lang=en#3",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

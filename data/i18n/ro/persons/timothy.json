@@ -1,0 +1,21 @@
+{
+  "id": "timothy",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Timotei",
+    "full": "Sfântul Mucenic Timotei",
+    "short": "Timotei",
+    "given": "Timotei"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-timotei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

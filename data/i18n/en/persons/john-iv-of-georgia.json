@@ -1,0 +1,20 @@
+{
+  "id": "john-iv-of-georgia",
+  "locale": "en",
+  "names": {
+    "display": "Saint John (Chrysostom) IV, Catholicos of Georgia",
+    "short": "John IV, Catholicos of Georgia",
+    "given": "John"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/03/103827-saint-john-chrysostom-iv-catholicos-of-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

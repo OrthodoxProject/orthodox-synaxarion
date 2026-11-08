@@ -1,0 +1,39 @@
+{
+  "id": "oprea-of-salistie-in-romania--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:oprea-of-salistie-in-romania"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 21
+  },
+  "external_ids": {
+    "oca": "103021"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-oprea",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-marturisitori-visarion-si-sofronie-sf-mc-oprea-sf-preoti-marturisitori-ioan-din-gales-si-moise-macinic-din-sibiel-sf-cuv-ilarion-cel-mare/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/21/103021-martyr-oprea-of-salistie-in-romania",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

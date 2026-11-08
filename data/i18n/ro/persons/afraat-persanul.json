@@ -1,0 +1,21 @@
+{
+  "id": "afraat-persanul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Afraat Persanul",
+    "full": "Sfântul Afraat Persanul",
+    "short": "Afraat Persanul",
+    "given": "Afraat"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-afraat-persanul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

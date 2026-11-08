@@ -1,0 +1,28 @@
+{
+  "id": "david-of-serbia",
+  "locale": "en",
+  "names": {
+    "display": "Venerable David of Serbia",
+    "short": "David of Serbia",
+    "given": "David",
+    "variants": [
+      "David of Serbia"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/24/108064-venerable-david-of-serbia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

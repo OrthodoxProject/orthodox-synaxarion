@@ -1,0 +1,29 @@
+{
+  "id": "laurentiu-arhidiaconul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Laurențiu Arhidiaconul",
+    "full": "Sfântul Mucenic Laurențiu Arhidiaconul",
+    "short": "Laurențiu Arhidiaconul",
+    "given": "Laurențiu",
+    "variants": [
+      "Sf. Mc. Laurențiu arhidiaconul"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-laurentiu-arhidiaconul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-laurentiu-arhidiaconul-sf-sfintit-mc-xist-episcopul-romei-sf-mc-ipolit/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

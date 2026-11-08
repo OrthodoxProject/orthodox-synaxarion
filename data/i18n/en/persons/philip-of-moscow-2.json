@@ -1,0 +1,23 @@
+{
+  "id": "philip-of-moscow-2",
+  "locale": "en",
+  "names": {
+    "display": "Hieromartyr Philip, Metropolitan of Moscow",
+    "short": "Philip, Metropolitan of Moscow",
+    "given": "Philip",
+    "variants": [
+      "Saint Philip, Metropolitan of Moscow (1569)"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/russian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

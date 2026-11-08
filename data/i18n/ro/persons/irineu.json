@@ -1,0 +1,21 @@
+{
+  "id": "irineu",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Irineu",
+    "full": "Sfântul Mucenic Irineu",
+    "short": "Irineu",
+    "given": "Irineu"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-irineu",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

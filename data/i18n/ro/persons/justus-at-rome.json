@@ -1,0 +1,26 @@
+{
+  "id": "justus-at-rome",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Iust",
+    "full": "Sfântul Mucenic Iust",
+    "short": "Iust",
+    "given": "Iust"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-iust-0",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ap-achila-sf-mc-iust-si-iraclie-sf-cuv-nicodim-aghioritul/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

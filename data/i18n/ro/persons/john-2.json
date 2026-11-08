@@ -1,0 +1,21 @@
+{
+  "id": "john-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Nou-Mc. Ioan Bulgarul",
+    "full": "Sfântul Nou-Mucenic Ioan Bulgarul",
+    "short": "Ioan Bulgarul",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-nou-mucenic-ioan-bulgarul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

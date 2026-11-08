@@ -1,0 +1,28 @@
+{
+  "id": "akepsimas",
+  "locale": "en",
+  "names": {
+    "display": "Hieromartyr Akepsimas, Bishop in Persia",
+    "short": "Akepsimas, Bishop in Persia",
+    "given": "Akepsimas",
+    "variants": [
+      "Saint Akepsimas"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/03/103158-hieromartyrs-akepsimas-bishop-in-persia-presbyter-joseph-and-dea",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/03/100205-saint-akepsimas",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

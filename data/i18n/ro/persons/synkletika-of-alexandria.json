@@ -1,0 +1,26 @@
+{
+  "id": "synkletika-of-alexandria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Sinclitichia",
+    "full": "Sfânta Cuvioasă Sinclitichia",
+    "short": "Sinclitichia",
+    "given": "Sinclitichia"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-sinclitichia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-teopempt-si-teonas-sf-cuv-sinclitichia-ajunul-botezului-domnului-post-duminica-dinaintea-botezului-domnului-ap-2-timotei-4-5-8-ev-marcu-1-1-8-predica-sfantului-ioan-botezatoru/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

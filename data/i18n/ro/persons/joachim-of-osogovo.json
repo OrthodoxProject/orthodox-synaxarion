@@ -1,0 +1,21 @@
+{
+  "id": "joachim-of-osogovo",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ioachim Osogovsky",
+    "full": "Sfântul Cuvios Ioachim Osogovsky",
+    "short": "Ioachim Osogovsky",
+    "given": "Ioachim"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-ioachim-osogovsky",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

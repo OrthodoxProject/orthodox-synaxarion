@@ -1,0 +1,39 @@
+{
+  "id": "commemoration-of-the-weeping-icon-of-theotokos-of-the--11-27",
+  "kind": "icon",
+  "subjects": [
+    "icon:commemoration-of-the-weeping-icon-of-theotokos-of-the"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 27
+  },
+  "external_ids": {
+    "oca": "103409"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoanei-maicii-domnului-semnului-din-novgorod",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoanei-maicii-domnului-semnului-radacinii-din-kursk",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/27/103409-commemoration-of-the-weeping-icon-of-the-mother-of-god-of-the-si",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, oca.org; de verificat."
+    ]
+  }
+}

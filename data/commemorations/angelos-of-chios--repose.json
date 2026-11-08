@@ -1,0 +1,29 @@
+{
+  "id": "angelos-of-chios--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:angelos-of-chios"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 3
+  },
+  "external_ids": {
+    "oca": "205419"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/03/205419-new-martyr-angelos-of-chios",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "icon-of-theotokos-of-the-passion",
+  "kind": "icon",
+  "subjects": [
+    "icon:icon-of-theotokos-of-the-passion"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 13
+  },
+  "external_ids": {
+    "oca": "102292"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/13/102292-icon-of-the-mother-of-god-of-the-passion",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

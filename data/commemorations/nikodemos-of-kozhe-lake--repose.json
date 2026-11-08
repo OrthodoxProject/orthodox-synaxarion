@@ -1,0 +1,29 @@
+{
+  "id": "nikodemos-of-kozhe-lake--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:nikodemos-of-kozhe-lake"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 3
+  },
+  "external_ids": {
+    "oca": "101882"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/03/101882-venerable-ikdmos-abbot-of-kozhe-lake",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

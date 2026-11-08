@@ -1,0 +1,25 @@
+{
+  "id": "james-the-apostle-brother-of-john-the",
+  "locale": "en",
+  "names": {
+    "display": "Saint James the Apostle Brother of St. John the Apostle",
+    "short": "James the Apostle Brother of St. John the Apostle",
+    "given": "James"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/8_2.html?lang=en#1",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/8_17.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "tradition": "serbian",
+  "date": "08-28",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:moses-the-ethiopian-of-scete--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:anna-the-prophetess-and-daughter-of-phanuel--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:susanna--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:hezekiah--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

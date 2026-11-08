@@ -1,0 +1,20 @@
+{
+  "id": "stavropol",
+  "locale": "en",
+  "names": {
+    "display": "Saint Stavropol",
+    "short": "Stavropol",
+    "given": "Stavropol"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/30/101252-saint-ignatius-brianchaninov-bishop-of-the-caucasus-and-stavropo",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

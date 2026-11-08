@@ -1,0 +1,21 @@
+{
+  "id": "zosimus-the-hermit",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Zosima",
+    "full": "Sfântul Mucenic Zosima",
+    "short": "Zosima",
+    "given": "Zosima"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-zosima",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

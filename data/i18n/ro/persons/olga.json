@@ -1,0 +1,29 @@
+{
+  "id": "olga",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Olga, Împărăteasa Rusiei",
+    "full": "Sfânta Olga, Împărăteasa Rusiei",
+    "short": "Olga, Împărăteasa Rusiei",
+    "given": "Olga",
+    "variants": [
+      "Sf. Olga, cea întocmai cu Apostolii și luminătoarea Rusiei"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-olga-imparateasa-rusiei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mare-mc-eufimia-sf-olga-cea-intocmai-cu-apostolii-si-luminatoarea-rusiei/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

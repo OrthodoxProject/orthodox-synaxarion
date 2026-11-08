@@ -1,0 +1,21 @@
+{
+  "id": "inochentie-al-penzei",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Inochentie al Penzei",
+    "full": "Sfântul Inochentie al Penzei",
+    "short": "Inochentie al Penzei",
+    "given": "Inochentie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-inochentie-al-penzei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

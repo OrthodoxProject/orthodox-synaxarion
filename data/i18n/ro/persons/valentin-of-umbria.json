@@ -1,0 +1,29 @@
+{
+  "id": "valentin-of-umbria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Valentin, Episcopul Umbriei",
+    "full": "Sfântul Mucenic Valentin, Episcopul Umbriei",
+    "short": "Valentin, Episcopul Umbriei",
+    "given": "Valentin",
+    "variants": [
+      "Sf. Sfințit Mc. Valentin, episcopul Umbriei"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-valentin-episcopul-umbriei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ap-sila-silvan-crescent-epenet-si-andronic-sf-sfintit-mc-valentin-episcopul-umbriei-lasatul-secului-pentru-postul-adormirii-maicii-domnului/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

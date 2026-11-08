@@ -1,0 +1,20 @@
+{
+  "id": "gabriel",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Gabriel",
+    "short": "Gabriel",
+    "given": "Gabriel"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/01/103851-martyrs-shio-david-gabriel-and-paul-of-akhalkalaki-in-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

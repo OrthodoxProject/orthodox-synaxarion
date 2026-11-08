@@ -1,0 +1,33 @@
+{
+  "tradition": "serbian",
+  "date": "06-28",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:ephraim-of-serbia--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:lazarus-of-serbia--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:spyridon-of-serbia--06-28"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:cyrus--translation-of-relics"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:pappias--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

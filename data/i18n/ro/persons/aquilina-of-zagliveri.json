@@ -1,0 +1,21 @@
+{
+  "id": "aquilina-of-zagliveri",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Achilina din Zagliveri",
+    "full": "Sfânta Muceniță Achilina din Zagliveri",
+    "short": "Achilina din Zagliveri",
+    "given": "Achilina"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-achilina-din-zagliveri",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

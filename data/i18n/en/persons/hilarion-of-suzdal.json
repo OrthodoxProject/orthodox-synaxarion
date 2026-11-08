@@ -1,0 +1,20 @@
+{
+  "id": "hilarion-of-suzdal",
+  "locale": "en",
+  "names": {
+    "display": "Saint Hilarion, Metropolitan of Suzdal and Yuriev",
+    "short": "Hilarion, Metropolitan of Suzdal and Yuriev",
+    "given": "Hilarion"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/14/108906-saint-hilarion-metropolitan-of-suzdal-and-yuriev",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

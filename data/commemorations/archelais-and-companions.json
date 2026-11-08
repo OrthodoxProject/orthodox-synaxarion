@@ -1,0 +1,31 @@
+{
+  "id": "archelais-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:archelais",
+    "person:thekla-2",
+    "person:susanna-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 6
+  },
+  "external_ids": {
+    "oca": "101636"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/06/101636-virgin-martyrs-archelais-thekla-and-susanna-at-salerno",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "onesimus-of-the-kiev-near-caves--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:onesimus-of-the-kiev-near-caves"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 4
+  },
+  "external_ids": {
+    "oca": "102855"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/04/102855-venerable-onesimus-of-the-kiev-near-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

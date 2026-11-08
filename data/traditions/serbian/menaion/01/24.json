@@ -1,0 +1,31 @@
+{
+  "tradition": "serbian",
+  "date": "01-24",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:xenia-of-rome-and-her-two-female--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:timothy--repose",
+        "comm:agapius--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:philotheus-of-philotheou-monastery--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:xenia-of-petersburg--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

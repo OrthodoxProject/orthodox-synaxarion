@@ -1,0 +1,23 @@
+{
+  "id": "annunciation--leavetaking",
+  "locale": "ro",
+  "names": {
+    "display": "Odovania Praznicului Bunei Vestiri"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/odovania-praznicului-bunei-vestiri",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/odovania-praznicului-bunei-vestiri-soborul-sf-arhanghel-gavriil-sf-mc-montanus-preotul-si-sotia-sa-maxima-sfintii-26-de-mucenici-din-gotia-dacia/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

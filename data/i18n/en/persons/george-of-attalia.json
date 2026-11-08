@@ -1,0 +1,20 @@
+{
+  "id": "george-of-attalia",
+  "locale": "en",
+  "names": {
+    "display": "New Martyr George of Attalia",
+    "short": "George of Attalia",
+    "given": "George"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/25/149050-new-martyr-george-of-attalia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "cyril",
+  "locale": "en",
+  "names": {
+    "display": "Repose of Saint Cyril, Equal of the Apostles and Teacher of the Slavs",
+    "short": "Cyril, Equal of the Apostles and Teacher of the Slavs",
+    "given": "Cyril"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/14/100519-repose-of-saint-cyril-equal-of-the-apostles-and-teacher-of-the-s",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

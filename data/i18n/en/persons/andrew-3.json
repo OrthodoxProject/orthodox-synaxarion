@@ -1,0 +1,20 @@
+{
+  "id": "andrew-3",
+  "locale": "en",
+  "names": {
+    "display": "Saint Andrew",
+    "short": "Andrew",
+    "given": "Andrew"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/02/103459-saints-john-heraclemon-andrew-and-theophilus-of-egypt",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

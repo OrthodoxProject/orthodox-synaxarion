@@ -1,0 +1,20 @@
+{
+  "id": "neophytus-of-nicea",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Neophytus of Nicea",
+    "short": "Neophytus of Nicea",
+    "given": "Neophytus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/21/100250-martyr-neophytus-of-nicea",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

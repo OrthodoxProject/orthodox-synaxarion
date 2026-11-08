@@ -1,0 +1,20 @@
+{
+  "id": "tryphon-of-pechenga",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Tryphon, Abbot of Pechenga",
+    "short": "Tryphon, Abbot of Pechenga",
+    "given": "Tryphon"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/15/103552-venerable-tryphon-abbot-of-pechenga",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "alexander-of-svir",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Alexandru din Svir",
+    "full": "Sfântul Alexandru din Svir",
+    "short": "Alexandru din Svir",
+    "given": "Alexandru"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-alexandru-din-svir",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

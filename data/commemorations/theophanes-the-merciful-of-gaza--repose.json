@@ -1,0 +1,29 @@
+{
+  "id": "theophanes-the-merciful-of-gaza--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:theophanes-the-merciful-of-gaza"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 29
+  },
+  "external_ids": {
+    "oca": "102817"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/29/102817-venerable-theophanes-the-merciful-of-gaza",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

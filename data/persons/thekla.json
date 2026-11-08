@@ -1,0 +1,37 @@
+{
+  "id": "thekla",
+  "kind": "saint",
+  "gender": "female",
+  "holiness_types": [
+    "equal_to_apostles",
+    "great_martyr",
+    "martyr"
+  ],
+  "external_ids": {
+    "doxologia": "sfanta-mare-mucenita-intocmai-cu-apostolii-tecla"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mare-mucenita-intocmai-cu-apostolii-tecla",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-intaia-mucenita-si-intocmai-cu-apostolii-tecla-sf-cuv-siluan-athonitul/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/24/102715-protomartyr-and-equal-of-the-apostles-thekla",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

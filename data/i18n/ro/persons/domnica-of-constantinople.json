@@ -1,0 +1,26 @@
+{
+  "id": "domnica-of-constantinople",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Domnica",
+    "full": "Sfânta Cuvioasă Domnica",
+    "short": "Domnica",
+    "given": "Domnica"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-domnica",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-gheorghe-hozevitul-sf-cuv-domnica/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

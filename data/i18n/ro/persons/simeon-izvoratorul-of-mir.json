@@ -1,0 +1,21 @@
+{
+  "id": "simeon-izvoratorul-of-mir",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Simeon Izvorâtorul de Mir",
+    "full": "Sfântul Simeon Izvorâtorul de Mir",
+    "short": "Simeon Izvorâtorul de Mir",
+    "given": "Simeon"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-simeon-izvoratorul-de-mir",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

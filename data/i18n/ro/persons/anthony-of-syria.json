@@ -1,0 +1,21 @@
+{
+  "id": "anthony-of-syria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Antonina",
+    "full": "Sfânta Muceniță Antonina",
+    "short": "Antonina",
+    "given": "Antonina"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-antonina",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

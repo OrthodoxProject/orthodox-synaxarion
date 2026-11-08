@@ -1,0 +1,39 @@
+{
+  "id": "ananias-of-the-seventy--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:ananias-of-the-seventy"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 1
+  },
+  "external_ids": {
+    "oca": "102825"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-apostol-anania",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-acoperamantul-maicii-domnului-sf-ap-anania-%e2%80%a0-sf-cuv-iosif-si-chiriac-de-la-bisericani-sf-cuv-roman-melodul/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/01/102825-apostle-ananias-of-the-seventy",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

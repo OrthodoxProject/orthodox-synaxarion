@@ -1,0 +1,20 @@
+{
+  "id": "papias",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Papias",
+    "short": "Papias",
+    "given": "Papias"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/03/100413-martyrs-papias-diodorus-and-claudianus-at-perge-in-pamphylia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

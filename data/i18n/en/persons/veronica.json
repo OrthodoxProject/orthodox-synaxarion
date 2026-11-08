@@ -1,0 +1,20 @@
+{
+  "id": "veronica",
+  "locale": "en",
+  "names": {
+    "display": "Saint Veronica (Bernice), the woman with the issue of blood",
+    "short": "Veronica",
+    "given": "Veronica"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/12/102006-saint-veronica-bernice-the-woman-with-the-issue-of-blood",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

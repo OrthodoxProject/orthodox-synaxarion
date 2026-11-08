@@ -1,0 +1,21 @@
+{
+  "id": "copres-of-palestine",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Coprie",
+    "full": "Sfântul Cuvios Coprie",
+    "short": "Coprie",
+    "given": "Coprie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-coprie",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

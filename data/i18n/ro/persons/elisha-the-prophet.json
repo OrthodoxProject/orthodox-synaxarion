@@ -1,0 +1,26 @@
+{
+  "id": "elisha-the-prophet",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Proroc Elisei",
+    "full": "Sfântul Proroc Elisei",
+    "short": "Elisei",
+    "given": "Elisei"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-proroc-elisei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/proroc-elisei-sf-ier-metodie-marturisitorul-patriarhul-constantinopolului-dezlegare-la-peste-duminica-a-2-a-dupa-rusalii-a-sfintilor-romani-ap-romani-2-10-16-al-sf-romani-2-corinteni-5/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

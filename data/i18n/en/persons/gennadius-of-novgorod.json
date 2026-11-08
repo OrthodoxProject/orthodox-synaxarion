@@ -1,0 +1,28 @@
+{
+  "id": "gennadius-of-novgorod",
+  "locale": "en",
+  "names": {
+    "display": "Saint Gennadius, Archbishop of Novgorod",
+    "short": "Gennadius, Archbishop of Novgorod",
+    "given": "Gennadius",
+    "variants": [
+      "Saint Gennadius, Archbishop of Novgorod (1505)"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/04/103476-saint-gennadius-archbishop-of-novgorod",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/russian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

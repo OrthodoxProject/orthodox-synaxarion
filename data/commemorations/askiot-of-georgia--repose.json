@@ -1,0 +1,29 @@
+{
+  "id": "askiot-of-georgia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:askiot-of-georgia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 27
+  },
+  "external_ids": {
+    "oca": "100307"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/27/100307-holy-king-askiot-of-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

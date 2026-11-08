@@ -1,0 +1,29 @@
+{
+  "id": "hypatius-of-gangra--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:hypatius-of-gangra"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 16
+  },
+  "external_ids": {
+    "oca": "205397"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/16/205397-saint-hypatius-of-gangra",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

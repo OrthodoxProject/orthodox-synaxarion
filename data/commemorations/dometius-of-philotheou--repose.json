@@ -1,0 +1,29 @@
+{
+  "id": "dometius-of-philotheou--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:dometius-of-philotheou"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 7
+  },
+  "external_ids": {
+    "oca": "102227"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/07/102227-venerable-dometius-of-philotheou-mount-athos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

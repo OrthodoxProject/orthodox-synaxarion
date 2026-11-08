@@ -1,0 +1,33 @@
+{
+  "id": "michael-the-black-robed-of-savva-monastery",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Michael “the Black-Robed” of Saint Savva Monastery",
+    "short": "Michael \"the Black-Robed\" of Saint Savva Monastery",
+    "given": "Michael",
+    "variants": [
+      "Martyr Michael"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/23/101501-martyr-michael-the-black-robed-of-saint-savva-monastery",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/29/100347-martyr-michael-the-black-robed-of-saint-savva-monastery",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/29/102129-martyr-michael",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

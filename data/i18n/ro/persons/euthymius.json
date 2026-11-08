@@ -1,0 +1,21 @@
+{
+  "id": "euthymius",
+  "locale": "ro",
+  "names": {
+    "display": "Cuviosul Mc. Eftimie și cei doisprezece Cuv. Mc. de la Mănăstirea Vatoped",
+    "full": "Cuviosul Mucenic Eftimie și cei doisprezece Cuvioși Mucenici de la Mănăstirea Vatoped",
+    "short": "Eftimie, cei doisprezece Cuvioși Mucenici de la Mănăstirea Vatoped",
+    "given": "Eftimie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cuviosul-mucenic-eftimie-cei-doisprezece-cuviosi-mucenici-de-la-manastirea-vatoped",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

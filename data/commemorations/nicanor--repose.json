@@ -1,0 +1,39 @@
+{
+  "id": "nicanor--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:nicanor"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 7
+  },
+  "external_ids": {
+    "oca": "205386"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-nicanor",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-teodora-de-la-sihla-%e2%80%a0-sf-cuv-pafnutie-parvu-zugravul-sf-cuv-mc-dometie-persul-sf-ier-narcis-arhiepiscopul-ierusalimului-sf-cuv-nicanor/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/07/205386-saint-nicanor-wonderworker-of-mount-calistratus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

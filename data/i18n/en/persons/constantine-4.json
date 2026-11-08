@@ -1,0 +1,20 @@
+{
+  "id": "constantine-4",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Constantine, King of Georgia",
+    "short": "Constantine, King of Georgia",
+    "given": "Constantine"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/10/103275-martyr-constantine-king-of-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

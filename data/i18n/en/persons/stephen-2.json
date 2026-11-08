@@ -1,0 +1,20 @@
+{
+  "id": "stephen-2",
+  "locale": "en",
+  "names": {
+    "display": "Blessed Stephen, King of Serbia",
+    "short": "Stephen, King of Serbia",
+    "given": "Stephen"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/19/102058-blessed-stephen-king-of-serbia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

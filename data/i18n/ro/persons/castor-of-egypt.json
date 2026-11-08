@@ -1,0 +1,21 @@
+{
+  "id": "castor-of-egypt",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Castor",
+    "full": "Sfântul Mucenic Castor",
+    "short": "Castor",
+    "given": "Castor"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-castor",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

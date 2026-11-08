@@ -1,0 +1,34 @@
+{
+  "id": "peter-of-moscow--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:peter-of-moscow"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 21
+  },
+  "external_ids": {
+    "oca": "103604"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-petru-mitropolitul-moscovei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/21/103604-repose-of-saint-peter-metropolitan-of-moscow-wonderworker-of-all",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "therapon-of-monza--12-12",
+  "kind": "repose",
+  "subjects": [
+    "person:therapon-of-monza"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 12
+  },
+  "external_ids": {
+    "oca": "103527"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/12/103527-venerable-therapon-abbot-of-monza",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

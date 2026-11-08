@@ -1,0 +1,26 @@
+{
+  "id": "basil-the-great-of-caesarea",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Vasile cel Mare, Arhiepiscopul Cezareei Capadociei",
+    "full": "Sfântul Ierarh Vasile cel Mare, Arhiepiscopul Cezareei Capadociei",
+    "short": "Vasile cel Mare, Arhiepiscopul Cezareei Capadociei",
+    "given": "Vasile"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-vasile-cel-mare-arhiepiscopul-cezareei-capadociei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-taierea-imprejur-cea-dupa-trup-a-domnului-%e2%80%a0-sf-ier-vasile-cel-mare-arhiepiscopul-cezareei-capadociei-si-mama-sa-sf-emilia-anul-nou-tedeum-harti/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

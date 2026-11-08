@@ -1,0 +1,26 @@
+{
+  "id": "zenaida-of-caesarea-in-palestine",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Zenaida",
+    "full": "Sfânta Muceniță Zenaida",
+    "short": "Zenaida",
+    "given": "Zenaida"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-zenaida",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-sfintit-mc-teodot-episcopul-ancirei-sf-mc-zenaida-lasatul-secului-pentru-postul-sf-ap-petru-si-pavel-duminica-intai-dupa-rusalii-a-tuturor-sfintilor-ap-evrei-11-33-40-12-1-2-ev/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

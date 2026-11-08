@@ -1,0 +1,26 @@
+{
+  "id": "aristarchus-of-the-seventy",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ap. Aristarh",
+    "full": "Sfântul Apostol Aristarh",
+    "short": "Aristarh",
+    "given": "Aristarh"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-apostol-aristarh-0",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ap-aristarh-pud-si-trofim-sf-mc-crescent-harti/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

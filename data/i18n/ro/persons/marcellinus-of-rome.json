@@ -1,0 +1,21 @@
+{
+  "id": "marcellinus-of-rome",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Marcelin, Episcopul Romei",
+    "full": "Sfântul Marcelin, Episcopul Romei",
+    "short": "Marcelin, Episcopul Romei",
+    "given": "Marcelin"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-marcelin-episcopul-romei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

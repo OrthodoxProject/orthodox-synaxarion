@@ -1,0 +1,18 @@
+{
+  "id": "synaxis-of-sinaiti",
+  "locale": "ro",
+  "names": {
+    "display": "Soborul tuturor Sfinților Sinaiți"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/soborul-tuturor-sfintilor-sinaiti",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

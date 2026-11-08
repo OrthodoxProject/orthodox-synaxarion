@@ -1,0 +1,21 @@
+{
+  "id": "anatole-ii-of-optina",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Anatolie „cel Tânăr” de la Optina",
+    "full": "Sfântul Anatolie „cel Tânăr” de la Optina",
+    "short": "Anatolie „cel Tânăr” de la Optina",
+    "given": "Anatolie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-anatolie-cel-tanar-de-la-optina",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

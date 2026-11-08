@@ -1,0 +1,31 @@
+{
+  "id": "fructuosis-of-tarragona-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:fructuosis-of-tarragona",
+    "person:augurius",
+    "person:eulogius"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 21
+  },
+  "external_ids": {
+    "oca": "149029"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/21/149029-martyr-fructuosis-bishop-of-tarragona-spain-and-his-deacons-augu",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

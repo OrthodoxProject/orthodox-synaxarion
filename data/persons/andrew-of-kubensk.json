@@ -1,0 +1,26 @@
+{
+  "id": "andrew-of-kubensk",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "venerable",
+    "right_believing"
+  ],
+  "external_ids": {
+    "oca": "102561"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/10/102561-venerable-prince-andrew-in-monasticism-joasaph-of-kubensk-vologd",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

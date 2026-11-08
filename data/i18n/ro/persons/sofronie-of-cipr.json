@@ -1,0 +1,21 @@
+{
+  "id": "sofronie-of-cipr",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Sofronie, Episcopul Ciprului",
+    "full": "Sfântul Ierarh Sofronie, Episcopul Ciprului",
+    "short": "Sofronie, Episcopul Ciprului",
+    "given": "Sofronie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-sofronie-episcopul-ciprului",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

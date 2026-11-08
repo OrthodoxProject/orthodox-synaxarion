@@ -1,0 +1,29 @@
+{
+  "id": "eustolia-of-constantinople--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:eustolia-of-constantinople"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 9
+  },
+  "external_ids": {
+    "oca": "103259"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/09/103259-saint-eustolia-of-constantinople",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

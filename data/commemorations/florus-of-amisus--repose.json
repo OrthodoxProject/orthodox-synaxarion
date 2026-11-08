@@ -1,0 +1,29 @@
+{
+  "id": "florus-of-amisus--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:florus-of-amisus"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 18
+  },
+  "external_ids": {
+    "oca": "103580"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/18/103580-saint-florus-bishop-of-amisus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

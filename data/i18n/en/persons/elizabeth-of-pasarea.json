@@ -1,0 +1,20 @@
+{
+  "id": "elizabeth-of-pasarea",
+  "locale": "en",
+  "names": {
+    "display": "Saint Elizabeth of Pasărea",
+    "short": "Elizabeth of Pasărea",
+    "given": "Elizabeth"
+  },
+  "references": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/romanian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

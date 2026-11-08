@@ -1,0 +1,20 @@
+{
+  "id": "david-of-annes-skete",
+  "locale": "en",
+  "names": {
+    "display": "New Martyr David of Saint Anne's Skete",
+    "short": "David of Saint Anne's Skete",
+    "given": "David"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/26/100473-new-martyr-david-of-saint-annes-skete",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

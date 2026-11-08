@@ -1,0 +1,20 @@
+{
+  "id": "yoannis-the-seventeenth",
+  "locale": "en",
+  "names": {
+    "display": "Pope Yoannis the Seventeenth, the 105th. Patriarch of Alexandria",
+    "short": "Yoannis the Seventeenth, the 105th. Patriarch of Alexandria",
+    "given": "Yoannis"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/8_13.html?lang=en#3",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

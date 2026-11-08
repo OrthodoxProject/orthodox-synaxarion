@@ -1,0 +1,21 @@
+{
+  "id": "trifon",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Trifon",
+    "full": "Sfântul Mucenic Trifon",
+    "short": "Trifon",
+    "given": "Trifon"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-trifon",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

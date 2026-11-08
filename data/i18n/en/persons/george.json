@@ -1,0 +1,20 @@
+{
+  "id": "george",
+  "locale": "en",
+  "names": {
+    "display": "Saint George, New Martyr of Sofia",
+    "short": "George, New Martyr of Sofia",
+    "given": "George"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/11/108005-saint-george-new-martyr-of-sofia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

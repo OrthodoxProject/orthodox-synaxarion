@@ -1,0 +1,20 @@
+{
+  "id": "andrei-saguna",
+  "locale": "en",
+  "names": {
+    "display": "Saint Andrei Șaguna",
+    "short": "Andrei Șaguna",
+    "given": "Andrei"
+  },
+  "references": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/romanian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

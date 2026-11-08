@@ -1,0 +1,29 @@
+{
+  "id": "hosius-the-confessor-of-cordoba",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Osie, Episcopul Cordobei",
+    "full": "Sfântul Ierarh Osie, Episcopul Cordobei",
+    "short": "Osie, Episcopul Cordobei",
+    "given": "Osie",
+    "variants": [
+      "Sf. Ier. Osiu, episcopul Cordobei"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-osie-episcopul-cordobei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-pimen-cel-mare-sf-mc-fanurie-sf-ier-osiu-episcopul-cordobei/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

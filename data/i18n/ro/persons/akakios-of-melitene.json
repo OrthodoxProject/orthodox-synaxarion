@@ -1,0 +1,21 @@
+{
+  "id": "akakios-of-melitene",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Acachie, Episcopul Melitinei Armeniei",
+    "full": "Sfântul Ierarh Acachie, Episcopul Melitinei Armeniei",
+    "short": "Acachie, Episcopul Melitinei Armeniei",
+    "given": "Acachie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-acachie-episcopul-melitinei-armeniei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

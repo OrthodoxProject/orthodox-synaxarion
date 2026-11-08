@@ -1,0 +1,20 @@
+{
+  "id": "david-of-thessaloniki",
+  "locale": "en",
+  "names": {
+    "display": "Saint David of Thessaloniki",
+    "short": "David of Thessaloniki",
+    "given": "David"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/26/101817-saint-david-of-thessaloniki",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

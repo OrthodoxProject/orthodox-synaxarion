@@ -1,0 +1,20 @@
+{
+  "id": "anicetus",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Anicetus",
+    "short": "Anicetus",
+    "given": "Anicetus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/12/102279-martyrs-anicetus-and-photius-of-nicomedia-and-those-with-them",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

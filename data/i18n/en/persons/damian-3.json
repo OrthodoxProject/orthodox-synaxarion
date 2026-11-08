@@ -1,0 +1,20 @@
+{
+  "id": "damian-3",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Damian, Ascetic of the Syrian Deserts",
+    "short": "Damian, Ascetic of the Syrian Deserts",
+    "given": "Damian"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/23/100598-venerable-damian-ascetic-of-the-syrian-deserts",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

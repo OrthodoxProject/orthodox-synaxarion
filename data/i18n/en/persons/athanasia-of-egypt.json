@@ -1,0 +1,20 @@
+{
+  "id": "athanasia-of-egypt",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Athanasia, of Egypt",
+    "short": "Athanasia, of Egypt",
+    "given": "Athanasia"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/09/102907-venerable-andronicus-and-his-wife-athanasia-of-egypt",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

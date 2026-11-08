@@ -1,0 +1,20 @@
+{
+  "id": "rhipsime",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Rhipsime",
+    "short": "Rhipsime",
+    "given": "Rhipsime"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/30/102821-martyrs-rhipsime-and-gaian-of-armenia-and-those-with-them",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

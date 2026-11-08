@@ -1,0 +1,33 @@
+{
+  "id": "leo-of-cappadocia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:leo-of-cappadocia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 29,
+    "non_leap": {
+      "month": 2,
+      "day": 28
+    }
+  },
+  "external_ids": {
+    "oca": "109069"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/28/109069-saint-leo-of-cappadocia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

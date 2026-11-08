@@ -1,0 +1,29 @@
+{
+  "id": "dionisie-of-cetatii",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Dionisie, Episcopul Cetății Albe-Ismail",
+    "full": "Sfântul Ierarh Dionisie, Episcopul Cetății Albe-Ismail",
+    "short": "Dionisie, Episcopul Cetății Albe-Ismail",
+    "given": "Dionisie",
+    "variants": [
+      "Sf. Ier. Dionisie, episcopul Cetății Albe – Ismail"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-dionisie-episcopul-cetatii-albe-ismail",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ier-dionisie-episcopul-cetatii-albe-ismail-sf-mc-sofia-intelepciunea-si-fiicele-ei-pistis-credinta-elpis-nadejdea-si-agapi-dragostea/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

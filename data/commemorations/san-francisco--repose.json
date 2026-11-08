@@ -1,0 +1,29 @@
+{
+  "id": "san-francisco--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:san-francisco"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 2
+  },
+  "external_ids": {
+    "oca": "206392"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/02/206392-saint-john-maximovitch-archbishop-of-shanghai-and-san-francisco",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

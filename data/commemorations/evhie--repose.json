@@ -1,0 +1,26 @@
+{
+  "id": "evhie--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:evhie"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 14
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-evhie",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

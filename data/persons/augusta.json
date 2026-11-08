@@ -1,0 +1,22 @@
+{
+  "id": "augusta",
+  "kind": "saint",
+  "gender": "female",
+  "holiness_types": [
+    "right_believing"
+  ],
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/24/103386-empress-augusta-porphyrius-the-general-the-50-philosophers-and-t",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

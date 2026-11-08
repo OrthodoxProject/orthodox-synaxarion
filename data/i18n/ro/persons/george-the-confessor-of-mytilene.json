@@ -1,0 +1,29 @@
+{
+  "id": "george-the-confessor-of-mytilene",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Gheorghe Mărturisitorul, Episcopul Mitilenei",
+    "full": "Sfântul Ierarh Gheorghe Mărturisitorul, Episcopul Mitilenei",
+    "short": "Gheorghe Mărturisitorul, Episcopul Mitilenei",
+    "given": "Gheorghe",
+    "variants": [
+      "Sf. Ier. Gheorghe Mărturisitorul, episcopul Mitilenei"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-gheorghe-marturisitorul-episcopul-mitilenei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sfanta-si-marea-marti-denie-sf-mc-caliopie-sf-ier-gheorghe-marturisitorul-episcopul-mitilenei/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

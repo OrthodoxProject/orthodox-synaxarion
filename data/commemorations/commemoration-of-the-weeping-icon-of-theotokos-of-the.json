@@ -1,0 +1,26 @@
+{
+  "id": "commemoration-of-the-weeping-icon-of-theotokos-of-the",
+  "kind": "icon",
+  "subjects": [
+    "icon:commemoration-of-the-weeping-icon-of-theotokos-of-the"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 28
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoanei-maicii-domnului-semnului-din-novgorod",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

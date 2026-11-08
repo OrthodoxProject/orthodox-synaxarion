@@ -1,0 +1,31 @@
+{
+  "id": "tatuil--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:tatuil"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 4
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-tatuil",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-7-tineri-din-efes-sf-mc-tatuil/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "tradition": "ecumenical",
+  "date": "06-06",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:bessarion--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:hilarion-the-new-of-dalmatian-monastery--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:pimenov-icon-of-theotokos"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:gelasius--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

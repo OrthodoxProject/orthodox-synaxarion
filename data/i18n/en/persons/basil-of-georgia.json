@@ -1,0 +1,20 @@
+{
+  "id": "basil-of-georgia",
+  "locale": "en",
+  "names": {
+    "display": "Saint Basil of Georgia, son of King Bagrat III",
+    "short": "Basil of Georgia, son of King Bagrat III",
+    "given": "Basil"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/27/103849-saint-basil-of-georgia-son-of-king-bagrat-iii",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

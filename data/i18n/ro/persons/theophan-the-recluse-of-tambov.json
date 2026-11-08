@@ -1,0 +1,21 @@
+{
+  "id": "theophan-the-recluse-of-tambov",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Teofan Zăvorâtul",
+    "full": "Sfântul Teofan Zăvorâtul",
+    "short": "Teofan Zăvorâtul",
+    "given": "Teofan"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-teofan-zavoratul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

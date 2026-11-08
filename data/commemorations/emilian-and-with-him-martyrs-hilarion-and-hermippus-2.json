@@ -1,0 +1,30 @@
+{
+  "id": "emilian-and-with-him-martyrs-hilarion-and-hermippus-2",
+  "kind": "repose",
+  "subjects": [
+    "person:emilian-and-with-him-martyrs-hilarion",
+    "person:hermippus-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 18
+  },
+  "external_ids": {
+    "oca": "102329"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/18/102329-hieromartyr-emilian-and-with-him-martyrs-hilarion-dionysius-and",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "theodore-of-antioch",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Theodore of Antioch",
+    "short": "Theodore of Antioch",
+    "given": "Theodore"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/23/103380-martyr-theodore-of-antioch",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

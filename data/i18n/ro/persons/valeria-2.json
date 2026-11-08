@@ -1,0 +1,26 @@
+{
+  "id": "valeria-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Valeria",
+    "full": "Sfânta Muceniță Valeria",
+    "short": "Valeria",
+    "given": "Valeria"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-valeria",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/aducerea-moastelor-sf-sfintit-mc-foca-sf-mc-apolinarie-vitalie-si-valeria/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

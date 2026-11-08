@@ -1,0 +1,29 @@
+{
+  "id": "just-of-penwith--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:just-of-penwith"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 13
+  },
+  "external_ids": {
+    "oca": "205400"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/13/205400-saint-just-of-penwith",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

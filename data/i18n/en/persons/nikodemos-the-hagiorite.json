@@ -1,0 +1,20 @@
+{
+  "id": "nikodemos-the-hagiorite",
+  "locale": "en",
+  "names": {
+    "display": "Repose of Venerable Nikodemos the Hagiorite",
+    "short": "Nikodemos the Hagiorite",
+    "given": "Nikodemos"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/14/102028-repose-of-venerable-nikodemos-the-hagiorite",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

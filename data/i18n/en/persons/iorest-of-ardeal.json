@@ -1,0 +1,20 @@
+{
+  "id": "iorest-of-ardeal",
+  "locale": "en",
+  "names": {
+    "display": "Saint Iorest, Metropolitan of Ardeal, Confessor of Romania",
+    "short": "Iorest, Metropolitan of Ardeal, Confessor of Romania",
+    "given": "Iorest"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/24/101200-saint-iorest-metropolitan-of-ardeal-confessor-of-romania",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "neonila-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Neonila, soția Sfântului Mucenic Terentie",
+    "full": "Sfânta Muceniță Neonila, soția Sfântului Mucenic Terentie",
+    "short": "Neonila, soția Sfântului Mucenic Terentie",
+    "given": "Neonila"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-neonila-sotia-sfantului-mucenic-terentie",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ier-iachint-mitropolitul-tarii-romanesti-%e2%80%a0-sf-cuv-teofana-basarab-sf-mc-terentie-sotia-sa-neonila-si-cei-7-fii-sf-cuv-stefan-savaitul-sf-ier-firmilian-episcopul/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

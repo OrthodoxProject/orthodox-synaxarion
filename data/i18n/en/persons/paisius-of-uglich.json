@@ -1,0 +1,28 @@
+{
+  "id": "paisius-of-uglich",
+  "locale": "en",
+  "names": {
+    "display": "Saint Paisius of Uglich",
+    "short": "Paisius of Uglich",
+    "given": "Paisius",
+    "variants": [
+      "Venerable Paisius, Abbot of Uglich"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/08/100119-saint-paisius-of-uglich",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/06/101634-venerable-paisius-abbot-of-uglich",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

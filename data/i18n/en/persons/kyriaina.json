@@ -1,0 +1,20 @@
+{
+  "id": "kyriaina",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Kyriaina",
+    "short": "Kyriaina",
+    "given": "Kyriaina"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/01/103138-martyrs-kyriaina-and-juliana-in-cilicia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "marina-of-antioch",
+  "locale": "en",
+  "names": {
+    "display": "Great Martyr Marina (Margaret) of Antioch",
+    "short": "Marina of Antioch",
+    "given": "Marina"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/17/102042-great-martyr-marina-margaret-of-antioch",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

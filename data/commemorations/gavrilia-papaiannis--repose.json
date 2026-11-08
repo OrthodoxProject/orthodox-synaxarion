@@ -1,0 +1,26 @@
+{
+  "id": "gavrilia-papaiannis--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:gavrilia-papaiannis"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 28
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-gavrilia-papaiannis",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

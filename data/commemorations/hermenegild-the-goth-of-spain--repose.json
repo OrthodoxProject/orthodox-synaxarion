@@ -1,0 +1,29 @@
+{
+  "id": "hermenegild-the-goth-of-spain--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:hermenegild-the-goth-of-spain"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 1
+  },
+  "external_ids": {
+    "oca": "103140"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/01/103140-martyr-hermenegild-the-goth-of-spain",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "26-martyrs-in-the-crimea",
+  "kind": "martyrs",
+  "count": {
+    "value": 26,
+    "precision": "exact"
+  },
+  "holiness_types": [
+    "martyr"
+  ],
+  "external_ids": {
+    "doxologia": "sfintii-26-de-mucenici-din-gotiadacia",
+    "oca": "100888"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfintii-26-de-mucenici-din-gotiadacia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/26/100888-26-martyrs-in-the-crimea",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, oca.org; de verificat."
+    ]
+  }
+}

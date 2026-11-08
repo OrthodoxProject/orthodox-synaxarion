@@ -1,0 +1,20 @@
+{
+  "id": "malachi-the-prophet",
+  "locale": "en",
+  "names": {
+    "display": "Holy Prophet Malachi",
+    "short": "Malachi",
+    "given": "Malachi"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/03/100013-holy-prophet-malachi",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

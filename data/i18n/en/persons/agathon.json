@@ -1,0 +1,20 @@
+{
+  "id": "agathon",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Agathon, Wonderworker of the Kiev Caves",
+    "short": "Agathon, Wonderworker of the Kiev Caves",
+    "given": "Agathon"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/20/100570-venerable-agathon-wonderworker-of-the-kiev-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

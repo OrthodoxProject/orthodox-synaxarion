@@ -1,0 +1,25 @@
+{
+  "tradition": "serbian",
+  "date": "02-10",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:haralambos-of-magnesia--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:anna-of-novgorod--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:ennatha--repose",
+        "comm:valentina--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

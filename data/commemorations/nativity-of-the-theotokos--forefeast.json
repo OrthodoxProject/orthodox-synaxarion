@@ -1,0 +1,37 @@
+{
+  "id": "nativity-of-the-theotokos--forefeast",
+  "kind": "forefeast",
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 7
+  },
+  "parent_feast": "comm:nativity-of-the-theotokos",
+  "external_ids": {
+    "oca": "102531"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/inainte-praznuirea-nasterii-maicii-domnului",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/inainte-praznuirea-nasterii-maicii-domnului-%e2%80%a0-sf-cuv-simeon-si-amfilohie-de-la-pangarati-sf-mc-sozont-sf-cuv-casiana-imnografa-duminica-dinaintea-inaltarii-sfintei-cruci-ap-gal/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/07/102531-forefeast-of-the-nativity-of-the-mother-of-god",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

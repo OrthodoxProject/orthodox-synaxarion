@@ -1,0 +1,26 @@
+{
+  "id": "seraphim-of-sarov",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Serafim de Sarov",
+    "full": "Sfântul Cuvios Serafim de Sarov",
+    "short": "Serafim de Sarov",
+    "given": "Serafim"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-serafim-de-sarov",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/inainte-praznuirea-botezului-domnului-sf-ier-silvestru-episcopul-romei-sf-cuv-serafim-de-sarov/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

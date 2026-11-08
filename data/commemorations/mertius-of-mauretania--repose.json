@@ -1,0 +1,29 @@
+{
+  "id": "mertius-of-mauretania--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:mertius-of-mauretania"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 12
+  },
+  "external_ids": {
+    "oca": "100158"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/12/100158-martyr-mertius-of-mauretania",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

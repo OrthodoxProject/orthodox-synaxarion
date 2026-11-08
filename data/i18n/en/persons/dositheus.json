@@ -1,0 +1,20 @@
+{
+  "id": "dositheus",
+  "locale": "en",
+  "names": {
+    "display": "Monastic Martyr Dositheus",
+    "short": "Dositheus",
+    "given": "Dositheus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/13/205405-monastic-martyr-dositheus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

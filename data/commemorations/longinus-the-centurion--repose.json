@@ -1,0 +1,39 @@
+{
+  "id": "longinus-the-centurion--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:longinus-the-centurion"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 16
+  },
+  "external_ids": {
+    "oca": "102980"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-longhin-sutasul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-longhin-sutasul/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/16/102980-martyr-longinus-the-centurion-who-stood-at-the-cross-of-the-lord",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

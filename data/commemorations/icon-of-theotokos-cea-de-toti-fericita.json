@@ -1,0 +1,26 @@
+{
+  "id": "icon-of-theotokos-cea-de-toti-fericita",
+  "kind": "icon",
+  "subjects": [
+    "icon:icon-of-theotokos-cea-de-toti-fericita"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 6
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoanei-maicii-domnului-cea-de-toti-fericita",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

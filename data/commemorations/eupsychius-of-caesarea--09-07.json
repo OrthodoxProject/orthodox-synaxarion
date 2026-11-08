@@ -1,0 +1,29 @@
+{
+  "id": "eupsychius-of-caesarea--09-07",
+  "kind": "repose",
+  "subjects": [
+    "person:eupsychius-of-caesarea"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 7
+  },
+  "external_ids": {
+    "oca": "102538"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/07/102538-martyr-eupsychius-of-caesarea-in-cappadocia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

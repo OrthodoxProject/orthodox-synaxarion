@@ -1,0 +1,18 @@
+{
+  "id": "john-the-evangelist-and-theologian",
+  "locale": "en",
+  "names": {
+    "display": "Saint John the Evangelist and Theologian"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/5_4.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

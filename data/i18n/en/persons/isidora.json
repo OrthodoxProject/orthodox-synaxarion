@@ -1,0 +1,20 @@
+{
+  "id": "isidora",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Isidora",
+    "short": "Isidora",
+    "given": "Isidora"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/01/205352-martyr-isidora",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

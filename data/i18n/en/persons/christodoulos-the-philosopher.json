@@ -1,0 +1,20 @@
+{
+  "id": "christodoulos-the-philosopher",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Christodoulos the Philosopher",
+    "short": "Christodoulos the Philosopher",
+    "given": "Christodoulos"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/18/205475-venerable-christodoulos-the-philosopher",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

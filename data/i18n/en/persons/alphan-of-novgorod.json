@@ -1,0 +1,20 @@
+{
+  "id": "alphan-of-novgorod",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Alphan, with his brothers, of Novgorod, founders of the Sokolnitzky Monastery",
+    "short": "Alphan, with his brothers, of Novgorod, founders of the Sokolnitzky Monastery",
+    "given": "Alphan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/04/101286-venerable-alphan-with-his-brothers-of-novgorod-founders-of-the-s",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

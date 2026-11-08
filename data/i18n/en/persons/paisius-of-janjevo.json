@@ -1,0 +1,20 @@
+{
+  "id": "paisius-of-janjevo",
+  "locale": "en",
+  "names": {
+    "display": "Saint Paisius of Janjevo",
+    "short": "Paisius of Janjevo",
+    "given": "Paisius"
+  },
+  "references": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

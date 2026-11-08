@@ -1,0 +1,20 @@
+{
+  "id": "matthew-the-evangelist",
+  "locale": "en",
+  "names": {
+    "display": "Saint Matthew the Evangelist",
+    "short": "Matthew the Evangelist",
+    "given": "Matthew"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/2_12.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "cyprian-of-mount-athos",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Ciprian",
+    "full": "Sfântul Cuvios Mucenic Ciprian",
+    "short": "Ciprian",
+    "given": "Ciprian"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-mucenic-ciprian",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

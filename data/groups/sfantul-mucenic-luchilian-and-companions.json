@@ -1,0 +1,24 @@
+{
+  "id": "sfantul-mucenic-luchilian-and-companions",
+  "kind": "martyrs",
+  "holiness_types": [
+    "martyr"
+  ],
+  "external_ids": {
+    "doxologia": "sfantul-mucenic-luchilian-cei-impreuna-cu-el-patru-tineri-ipatie-paul-dionisie-claudie"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-luchilian-cei-impreuna-cu-el-patru-tineri-ipatie-paul-dionisie-claudie",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

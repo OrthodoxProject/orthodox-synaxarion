@@ -1,0 +1,20 @@
+{
+  "id": "aquila-of-the-seventy",
+  "locale": "en",
+  "names": {
+    "display": "Apostle Aquila of the Seventy",
+    "short": "Aquila of the Seventy",
+    "given": "Aquila"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/14/101950-apostle-aquila-of-the-seventy",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

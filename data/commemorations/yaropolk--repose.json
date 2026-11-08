@@ -1,0 +1,29 @@
+{
+  "id": "yaropolk--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:yaropolk"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 22
+  },
+  "external_ids": {
+    "oca": "103364"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/22/103364-blessed-yaropolk-in-baptism-peter-prince-of-vladimir-volhynia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

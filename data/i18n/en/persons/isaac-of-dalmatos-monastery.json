@@ -1,0 +1,20 @@
+{
+  "id": "isaac-of-dalmatos-monastery",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Isaac, Founder of Dalmátos Monastery at Constantinople",
+    "short": "Isaac, Founder of Dalmátos Monastery at Constantinople",
+    "given": "Isaac"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/30/101566-venerable-isaac-founder-of-dalmtos-monastery-at-constantinople",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "argyrus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Arghir",
+    "full": "Sfântul Mucenic Arghir",
+    "short": "Arghir",
+    "given": "Arghir"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-arghir",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

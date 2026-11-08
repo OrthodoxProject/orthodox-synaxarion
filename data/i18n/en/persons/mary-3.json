@@ -1,0 +1,20 @@
+{
+  "id": "mary-3",
+  "locale": "en",
+  "names": {
+    "display": "Five Nun Mary",
+    "short": "Mary",
+    "given": "Mary"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/09/101673-five-nuns-beheaded-in-persia-martyrs-thecla-mariamne-martha-mary",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

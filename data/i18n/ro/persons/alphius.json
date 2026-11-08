@@ -1,0 +1,21 @@
+{
+  "id": "alphius",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Alfeu",
+    "full": "Sfântul Mucenic Alfeu",
+    "short": "Alfeu",
+    "given": "Alfeu"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-alfeu",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "euthymius-of-decani--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:euthymius-of-decani"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 24
+  },
+  "sources": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Euthymius_of_De%C4%8Dani_%D0%88"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din orthodox-calendar, Wikipedia; de verificat."
+    ]
+  }
+}

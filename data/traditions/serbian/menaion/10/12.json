@@ -1,0 +1,25 @@
+{
+  "tradition": "serbian",
+  "date": "10-12",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:probus--repose",
+        "comm:andronicus-2--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:cosmas-the-hymnographer-of-maiuma--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:icon-of-theotokos-of-kaluga--10-12"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

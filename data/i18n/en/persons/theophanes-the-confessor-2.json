@@ -1,0 +1,20 @@
+{
+  "id": "theophanes-the-confessor-2",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Theophanes the Confessor",
+    "short": "Theophanes the Confessor",
+    "given": "Theophanes"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/09/102551-venerable-theophanes-the-confessor-and-faster-of-mount-diabenos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

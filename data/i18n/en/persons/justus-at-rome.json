@@ -1,0 +1,20 @@
+{
+  "id": "justus-at-rome",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Justus at Rome",
+    "short": "Justus at Rome",
+    "given": "Justus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/14/102025-martyr-justus-at-rome",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

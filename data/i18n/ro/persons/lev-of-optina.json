@@ -1,0 +1,21 @@
+{
+  "id": "lev-of-optina",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Lev de la Optina",
+    "full": "Sfântul Lev de la Optina",
+    "short": "Lev de la Optina",
+    "given": "Lev"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-lev-de-la-optina",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "theodulus",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Theodulus, son of Venerable Nilus of Sinai",
+    "short": "Theodulus, son of Venerable Nilus of Sinai",
+    "given": "Theodulus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/14/100193-venerable-theodulus-son-of-venerable-nilus-of-sinai",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

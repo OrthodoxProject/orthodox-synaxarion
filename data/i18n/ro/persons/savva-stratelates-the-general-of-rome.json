@@ -1,0 +1,21 @@
+{
+  "id": "savva-stratelates-the-general-of-rome",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Sava Stratilat",
+    "full": "Sfântul Mucenic Sava Stratilat",
+    "short": "Sava Stratilat",
+    "given": "Sava"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-sava-stratilat",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

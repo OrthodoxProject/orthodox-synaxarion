@@ -1,0 +1,20 @@
+{
+  "id": "obadiah-the-prophet",
+  "locale": "en",
+  "names": {
+    "display": "Prophet Obadiah (Abdia)",
+    "short": "Obadiah",
+    "given": "Obadiah"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/19/103326-prophet-obadiah-abdia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

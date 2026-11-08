@@ -1,0 +1,20 @@
+{
+  "id": "paul-of-the-lavra",
+  "locale": "en",
+  "names": {
+    "display": "Monastic Martyr Paul of the Lavra, Mount Athos",
+    "short": "Paul of the Lavra, Mount Athos",
+    "given": "Paul"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/22/101464-monastic-martyr-paul-of-the-lavra-mount-athos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "athanasia-of-aegina",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Atanasia de la Eghina",
+    "full": "Sfânta Cuvioasă Atanasia de la Eghina",
+    "short": "Atanasia de la Eghina",
+    "given": "Atanasia"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-atanasia-de-la-eghina",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

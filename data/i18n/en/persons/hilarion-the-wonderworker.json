@@ -1,0 +1,20 @@
+{
+  "id": "hilarion-the-wonderworker",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Hilarion the Wonderworker, Monk of Thessalonica",
+    "short": "Hilarion the Wonderworker, Monk of Thessalonica",
+    "given": "Hilarion"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/19/103336-venerable-hilarion-the-wonderworker-monk-of-thessalonica",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

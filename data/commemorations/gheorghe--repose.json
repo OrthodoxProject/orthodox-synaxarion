@@ -1,0 +1,31 @@
+{
+  "id": "gheorghe--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:gheorghe"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 4
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-gheorghe-marturisitorul-din-drama",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-ioanichie-cel-mare-sf-mc-nicandru-si-ermeu-sf-cuv-gheorghe-marturisitorul-din-drama/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro; de verificat."
+    ]
+  }
+}

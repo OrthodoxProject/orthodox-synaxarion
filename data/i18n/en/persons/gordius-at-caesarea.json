@@ -1,0 +1,20 @@
+{
+  "id": "gordius-at-caesarea",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Gordius at Caesarea, in Cappadocia",
+    "short": "Gordius at Caesarea, in Cappadocia",
+    "given": "Gordius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/03/100014-martyr-gordius-at-caesarea-in-cappadocia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

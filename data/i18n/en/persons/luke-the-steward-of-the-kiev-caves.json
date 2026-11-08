@@ -1,0 +1,20 @@
+{
+  "id": "luke-the-steward-of-the-kiev-caves",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Luke the Steward of the Kiev Caves",
+    "short": "Luke the Steward of the Kiev Caves",
+    "given": "Luke"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/06/103187-venerable-luke-the-steward-of-the-kiev-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "tradition": "serbian",
+  "date": "07-01",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:cosma-and-damian-at-rome"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:leontius-of-radauti--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

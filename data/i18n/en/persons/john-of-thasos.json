@@ -1,0 +1,20 @@
+{
+  "id": "john-of-thasos",
+  "locale": "en",
+  "names": {
+    "display": "New-martyr John of Thasos",
+    "short": "John of Thasos",
+    "given": "John"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/20/108902-new-martyr-john-of-thasos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

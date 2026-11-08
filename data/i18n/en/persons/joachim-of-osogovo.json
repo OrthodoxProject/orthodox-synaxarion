@@ -1,0 +1,20 @@
+{
+  "id": "joachim-of-osogovo",
+  "locale": "en",
+  "names": {
+    "display": "Saint Joachim of Osogovo",
+    "short": "Joachim of Osogovo",
+    "given": "Joachim"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/16/108020-saint-joachim-of-osogovo",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

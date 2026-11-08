@@ -1,0 +1,26 @@
+{
+  "id": "sempronian",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Sempronian",
+    "full": "Sfântul Mucenic Sempronian",
+    "short": "Sempronian",
+    "given": "Sempronian"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-sempronian",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ier-nectarie-de-la-eghina-sf-mc-claudiu-castor-sempronian-si-nicostrat-sf-mc-onisifor-si-porfirie-sf-cuv-matrona/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

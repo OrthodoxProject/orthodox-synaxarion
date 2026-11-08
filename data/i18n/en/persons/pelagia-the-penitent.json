@@ -1,0 +1,20 @@
+{
+  "id": "pelagia-the-penitent",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Pelagia the Penitent",
+    "short": "Pelagia the Penitent",
+    "given": "Pelagia"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/08/102899-venerable-pelagia-the-penitent",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

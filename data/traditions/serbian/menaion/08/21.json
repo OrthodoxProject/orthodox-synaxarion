@@ -1,0 +1,28 @@
+{
+  "tradition": "serbian",
+  "date": "08-21",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:jacob-the-new-of-tuman--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:zosimus-of-tuman--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:thaddeus-of-the-seventy--08-21"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:bassa-of-edessa--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "arcadius-of-cyprus--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:arcadius-of-cyprus"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 6
+  },
+  "external_ids": {
+    "oca": "100683"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/06/100683-venerable-arcadius-of-cyprus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

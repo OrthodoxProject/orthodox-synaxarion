@@ -1,0 +1,29 @@
+{
+  "id": "theophilus-the-recluse-of-the-kiev-near--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:theophilus-the-recluse-of-the-kiev-near"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 24
+  },
+  "external_ids": {
+    "oca": "103047"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/24/103047-venerable-theophilus-the-recluse-of-the-kiev-near-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

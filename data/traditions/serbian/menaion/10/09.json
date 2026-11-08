@@ -1,0 +1,25 @@
+{
+  "tradition": "serbian",
+  "date": "10-09",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:james-the-apostle--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:andronicus--repose",
+        "comm:athanasia-of-egypt--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:icon-of-theotokos-of-korsun"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "tradition": "serbian",
+  "date": "01-27",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:sava-i--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:john-chrysostom-of-constantinople--translation-of-relics"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:markiane--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

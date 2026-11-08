@@ -1,0 +1,20 @@
+{
+  "id": "theoktistos-of-novgorod",
+  "locale": "en",
+  "names": {
+    "display": "Repose of Saint Theoktistos, Archbishop of Novgorod",
+    "short": "Theoktistos, Archbishop of Novgorod",
+    "given": "Theoktistos"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/23/103627-repose-of-saint-theoktistos-archbishop-of-novgorod",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

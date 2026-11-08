@@ -1,0 +1,30 @@
+{
+  "tradition": "ecumenical",
+  "date": "07-23",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:trophimus-2-and-teofil-2"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:apollinaris-of-ravenna--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:icon-of-theotokos-the-joy-of-all-who-sorrow"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:vitalius-of-ravenna--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

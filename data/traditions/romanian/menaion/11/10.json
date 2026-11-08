@@ -1,0 +1,32 @@
+{
+  "tradition": "romanian",
+  "date": "11-10",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:olympas-the-apostle--repose",
+        "comm:herodion-the-apostle--repose",
+        "comm:sosipater-the-apostle--repose",
+        "comm:erastus-the-apostle--repose",
+        "comm:tertius-the-apostle--repose",
+        "comm:cvart-the-apostle--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:visarion-of-lainici--repose"
+      ],
+      "symbol": "blue-half-parenthesized"
+    },
+    {
+      "commemorations": [
+        "comm:orestes--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:arsenie-capadocianul--repose"
+      ]
+    }
+  ]
+}

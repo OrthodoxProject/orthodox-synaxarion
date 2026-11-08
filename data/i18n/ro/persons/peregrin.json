@@ -1,0 +1,21 @@
+{
+  "id": "peregrin",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Peregrin",
+    "full": "Sfântul Mucenic Peregrin",
+    "short": "Peregrin",
+    "given": "Peregrin"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-peregrin",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

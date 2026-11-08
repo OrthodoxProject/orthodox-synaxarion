@@ -1,0 +1,21 @@
+{
+  "id": "sava-vatopedinul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Sava Vatopedinul",
+    "full": "Sfântul Cuvios Sava Vatopedinul",
+    "short": "Sava Vatopedinul",
+    "given": "Sava"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-sava-vatopedinul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

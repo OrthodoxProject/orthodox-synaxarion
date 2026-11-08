@@ -1,0 +1,29 @@
+{
+  "id": "arkadios-the-wonderworker-of-arsinoe--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:arkadios-the-wonderworker-of-arsinoe"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 29
+  },
+  "external_ids": {
+    "oca": "100018"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/29/100018-saint-arkadios-the-wonderworker-bishop-of-arsinoe-cyprus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

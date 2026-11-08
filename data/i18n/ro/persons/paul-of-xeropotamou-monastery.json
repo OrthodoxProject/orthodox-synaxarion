@@ -1,0 +1,26 @@
+{
+  "id": "paul-of-xeropotamou-monastery",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Pavel de la Xiropotamu",
+    "full": "Sfântul Cuvios Pavel de la Xiropotamu",
+    "short": "Pavel de la Xiropotamu",
+    "given": "Pavel"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-pavel-de-la-xiropotamu",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ap-si-diaconi-prohor-nicanor-timon-si-parmena-sf-cuv-pavel-de-la-xiropotamu/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "42-martyrs-of-ammoria-in-phrygia",
+  "kind": "martyrs",
+  "count": {
+    "value": 42,
+    "precision": "exact"
+  },
+  "holiness_types": [
+    "martyr"
+  ],
+  "external_ids": {
+    "doxologia": "sfintii-42-de-mucenici-din-amoreea",
+    "oca": "100672"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfintii-42-de-mucenici-din-amoreea",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/06/100672-42-martyrs-of-ammoria-in-phrygia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, oca.org; de verificat."
+    ]
+  }
+}

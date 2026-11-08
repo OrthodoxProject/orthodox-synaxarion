@@ -1,0 +1,20 @@
+{
+  "id": "raiko-of-bulgaria",
+  "locale": "en",
+  "names": {
+    "display": "New Martyr Raiko (John) of Bulgaria",
+    "short": "Raiko of Bulgaria",
+    "given": "Raiko"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/14/108010-new-martyr-raiko-john-of-bulgaria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

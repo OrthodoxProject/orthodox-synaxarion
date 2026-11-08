@@ -1,0 +1,39 @@
+{
+  "id": "quadratus-2--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:quadratus-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 7
+  },
+  "external_ids": {
+    "oca": "205355"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-codrat-0",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/aratarea-pe-cer-a-semnului-sfintei-cruci-in-ierusalim-sf-mc-acachie-si-codrat/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/07/205355-martyr-quadratus-and-his-companions",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

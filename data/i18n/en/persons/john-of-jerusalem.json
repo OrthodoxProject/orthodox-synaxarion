@@ -1,0 +1,25 @@
+{
+  "id": "john-of-jerusalem",
+  "locale": "en",
+  "names": {
+    "display": "Saint John, Bishop of Jerusalem",
+    "short": "John, Bishop of Jerusalem",
+    "given": "John"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/8_3.html?lang=en#1",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/10_13.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

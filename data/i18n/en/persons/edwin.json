@@ -1,0 +1,20 @@
+{
+  "id": "edwin",
+  "locale": "en",
+  "names": {
+    "display": "Saint Edwin, King and Martyr",
+    "short": "Edwin, King and Martyr",
+    "given": "Edwin"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/12/102947-saint-edwin-king-and-martyr",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

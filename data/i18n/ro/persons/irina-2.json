@@ -1,0 +1,21 @@
+{
+  "id": "irina-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Irina, Împărăteasa",
+    "full": "Sfânta Irina, Împărăteasa",
+    "short": "Irina, Împărăteasa",
+    "given": "Irina"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-irina-imparateasa",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

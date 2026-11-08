@@ -1,0 +1,20 @@
+{
+  "id": "euboula",
+  "locale": "en",
+  "names": {
+    "display": "Saint Euboula, mother of Saint Panteleimon",
+    "short": "Euboula, mother of Saint Panteleimon",
+    "given": "Euboula"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/30/100951-saint-euboula-mother-of-saint-panteleimon",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

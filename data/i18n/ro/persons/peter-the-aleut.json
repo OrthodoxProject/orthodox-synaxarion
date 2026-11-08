@@ -1,0 +1,21 @@
+{
+  "id": "peter-the-aleut",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Petru Aleutul",
+    "full": "Sfântul Mucenic Petru Aleutul",
+    "short": "Petru Aleutul",
+    "given": "Petru"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-petru-aleutul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

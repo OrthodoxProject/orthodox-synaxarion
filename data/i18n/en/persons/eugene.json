@@ -1,0 +1,20 @@
+{
+  "id": "eugene",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Eugene",
+    "short": "Eugene",
+    "given": "Eugene"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/21/100251-martyrs-eugene-candidus-valerian-and-aquila-at-trebizond",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

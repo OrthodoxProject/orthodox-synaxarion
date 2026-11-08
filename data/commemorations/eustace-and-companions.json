@@ -1,0 +1,31 @@
+{
+  "id": "eustace-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:eustace",
+    "person:thespesius",
+    "person:anatolius-of-nicea"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 20
+  },
+  "external_ids": {
+    "oca": "103344"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/20/103344-martyrs-eustace-thespesius-and-anatolius-of-nicea",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

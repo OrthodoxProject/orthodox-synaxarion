@@ -1,0 +1,20 @@
+{
+  "id": "irene-of-egypt",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Irene of Egypt",
+    "short": "Irene of Egypt",
+    "given": "Irene"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/05/101616-martyrs-marcian-nicander-hyperechius-appolonius-leonidas-arius-g",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

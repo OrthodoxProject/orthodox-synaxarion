@@ -1,0 +1,20 @@
+{
+  "id": "palladius-of-thessalonica",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Palladius of Thessalonica",
+    "short": "Palladius of Thessalonica",
+    "given": "Palladius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/27/103403-venerable-palladius-of-thessalonica",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

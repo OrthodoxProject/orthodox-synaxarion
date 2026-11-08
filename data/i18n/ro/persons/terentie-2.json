@@ -1,0 +1,21 @@
+{
+  "id": "terentie-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Terentie",
+    "full": "Sfântul Mucenic Terentie",
+    "short": "Terentie",
+    "given": "Terentie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-terentie",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

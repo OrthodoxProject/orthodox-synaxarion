@@ -1,0 +1,20 @@
+{
+  "id": "john-the-theologian",
+  "locale": "en",
+  "names": {
+    "display": "Apostle and Evangelist John the Theologian",
+    "short": "John the Theologian",
+    "given": "John"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/08/101327-apostle-and-evangelist-john-the-theologian",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

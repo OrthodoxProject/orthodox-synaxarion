@@ -1,0 +1,29 @@
+{
+  "id": "martyrs-killed-by-the-latins-at-the-iveron",
+  "kind": "repose",
+  "subjects": [
+    "group:martyrs-killed-by-the-latins-at-the-iveron"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 13
+  },
+  "external_ids": {
+    "oca": "205449"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/13/205449-martyrs-killed-by-the-latins-at-the-ivron-monastery-on-mount-ath",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

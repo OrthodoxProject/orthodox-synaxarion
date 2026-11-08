@@ -1,0 +1,20 @@
+{
+  "id": "shio-the-anchorite-of-georgia",
+  "locale": "en",
+  "names": {
+    "display": "Repose of Venerable Shio the Anchorite of Georgia",
+    "short": "Shio the Anchorite of Georgia",
+    "given": "Shio"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/09/101332-repose-of-venerable-shio-the-anchorite-of-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

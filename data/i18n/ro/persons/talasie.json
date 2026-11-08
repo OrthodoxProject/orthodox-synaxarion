@@ -1,0 +1,26 @@
+{
+  "id": "talasie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Talasie",
+    "full": "Sfântul Cuvios Talasie",
+    "short": "Talasie",
+    "given": "Talasie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-talasie-0",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/odovania-praznicului-invierii-domnului-sf-mc-talaleu-sf-cuv-talasie-sf-lidia-din-filipi-dezlegare-la-peste/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

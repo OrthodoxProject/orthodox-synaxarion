@@ -1,0 +1,24 @@
+{
+  "tradition": "ecumenical",
+  "date": "12-30",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:anysia-at-thessalonica--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:zoticus-the-keeper-of-orphans--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:theodora-of-caesarea--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

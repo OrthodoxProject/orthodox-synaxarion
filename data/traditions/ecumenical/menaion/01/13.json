@@ -1,0 +1,31 @@
+{
+  "tradition": "ecumenical",
+  "date": "01-13",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:hermylus--repose",
+        "comm:stratonicus-of-belgrade--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:james-of-nisibis--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:hilary-of-poitiers--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:maximus-kavsokalyvites-of-mount-athos--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

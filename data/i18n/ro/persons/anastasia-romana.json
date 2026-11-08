@@ -1,0 +1,29 @@
+{
+  "id": "anastasia-romana",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mare Mc. Anastasia Romana",
+    "full": "Sfânta Mare Muceniță Anastasia Romana",
+    "short": "Anastasia Romana",
+    "given": "Anastasia",
+    "variants": [
+      "Sf. Cuv. Mc. Anastasia Romana"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mare-mucenita-anastasia-romana",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-mc-anastasia-romana-sf-cuv-avramie-si-maria-nepoata-sa/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "john-of-zedazeni-monastery",
+  "locale": "en",
+  "names": {
+    "display": "Martyr John, Abbot of the Zedazeni Monastery",
+    "short": "John, Abbot of the Zedazeni Monastery",
+    "given": "John"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/12/205497-martyr-john-abbot-of-the-zedazeni-monastery",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

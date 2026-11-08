@@ -1,0 +1,29 @@
+{
+  "id": "diadoh-of-foticeii",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Diadoh, Episcopul Foticeii",
+    "full": "Sfântul Ierarh Diadoh, Episcopul Foticeii",
+    "short": "Diadoh, Episcopul Foticeii",
+    "given": "Diadoh",
+    "variants": [
+      "Sf. Ier. Diadoh, episcopul Foticeei"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-diadoh-episcopul-foticeii",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-sfintiti-mc-marcu-episcopul-aretuselor-si-chiril-diaconul-sf-mc-iona-si-varahisie-sf-ier-diadoh-episcopul-foticeei-duminica-a-5-a-din-post-a-sf-cuv-maria-egipteanca-ap-evrei-9-11/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

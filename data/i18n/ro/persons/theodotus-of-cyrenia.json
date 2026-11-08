@@ -1,0 +1,29 @@
+{
+  "id": "theodotus-of-cyrenia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Teodot, Episcopul Chiriniei",
+    "full": "Sfântul Sfințit Mucenic Teodot, Episcopul Chiriniei",
+    "short": "Teodot, Episcopul Chiriniei",
+    "given": "Teodot",
+    "variants": [
+      "Sf. Sfințit Mc. Teodot, episcopul Chiriniei"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-sfintit-mucenic-teodot-episcopul-chiriniei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-sfintit-mc-teodot-episcopul-chiriniei-sf-mc-isihie/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "matthew-the-apostle",
+  "locale": "en",
+  "names": {
+    "display": "Apostle and Evangelist Matthew",
+    "short": "Matthew",
+    "given": "Matthew"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/16/103313-apostle-and-evangelist-matthew",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

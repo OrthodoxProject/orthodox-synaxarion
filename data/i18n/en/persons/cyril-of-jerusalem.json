@@ -1,0 +1,20 @@
+{
+  "id": "cyril-of-jerusalem",
+  "locale": "en",
+  "names": {
+    "display": "Saint Cyril, Archbishop of Jerusalem",
+    "short": "Cyril, Archbishop of Jerusalem",
+    "given": "Cyril"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/18/100829-saint-cyril-archbishop-of-jerusalem",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

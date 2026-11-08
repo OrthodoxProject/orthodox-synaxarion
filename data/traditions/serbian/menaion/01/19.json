@@ -1,0 +1,36 @@
+{
+  "tradition": "serbian",
+  "date": "01-19",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:macarius-the-great-of-egypt--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:macarius-of-alexandria--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:mark-of-ephesus--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:euphrasia-of-nicomedia--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:anthony-of-monasticism--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

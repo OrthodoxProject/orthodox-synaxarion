@@ -1,0 +1,31 @@
+{
+  "id": "theodotus-4-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:theodotus-4",
+    "person:asclepiodotus",
+    "person:maximus-of-adrianopolis"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 15
+  },
+  "external_ids": {
+    "oca": "102617"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/15/102617-martyrs-theodotus-asclepiodotus-and-maximus-of-adrianopolis",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "mardarije-of-libertyville",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Mardarie (Uskokovic) de Libertyville",
+    "full": "Sfântul Ierarh Mardarie (Uskokovic) de Libertyville",
+    "short": "Mardarie (Uskokovic) de Libertyville",
+    "given": "Mardarie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-mardarie-uskokovic-de-libertyville",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

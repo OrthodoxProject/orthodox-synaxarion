@@ -1,0 +1,20 @@
+{
+  "id": "anastasius",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Anastasius, disciple of Venerable Maximus the Confessor",
+    "short": "Anastasius, disciple of Venerable Maximus the Confessor",
+    "given": "Anastasius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/21/100256-martyr-anastasius-disciple-of-venerable-maximus-the-confessor",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "mariamne",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Mariamni",
+    "full": "Sfânta Muceniță Mariamni",
+    "short": "Mariamni",
+    "given": "Mariamni"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-mariamni",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

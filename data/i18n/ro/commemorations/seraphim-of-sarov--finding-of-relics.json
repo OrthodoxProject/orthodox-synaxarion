@@ -1,0 +1,23 @@
+{
+  "id": "seraphim-of-sarov--finding-of-relics",
+  "locale": "ro",
+  "names": {
+    "display": "Aflarea moaștelor Sfântului Cuvios Serafim de Sarov"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/aflarea-moastelor-sfantului-cuvios-serafim-de-sarov",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-macrina-sora-sf-vasile-cel-mare-sfintii-din-familia-sf-vasile-cel-mare-sf-cuv-die-aflarea-moastelor-sf-cuv-serafim-de-sarov-duminica-a-7-a-dupa-rusalii-a-sf-parinti-de-la-sinodul/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

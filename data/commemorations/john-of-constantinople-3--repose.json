@@ -1,0 +1,29 @@
+{
+  "id": "john-of-constantinople-3--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:john-of-constantinople-3"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 18
+  },
+  "external_ids": {
+    "oca": "102333"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/18/102333-saint-john-patriarch-of-constantinople",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

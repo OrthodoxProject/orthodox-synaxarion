@@ -1,0 +1,29 @@
+{
+  "id": "basil-of-ryazan--finding-of-relics",
+  "kind": "relics_finding",
+  "subjects": [
+    "person:basil-of-ryazan"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 10
+  },
+  "external_ids": {
+    "oca": "101682"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/10/101682-finding-of-the-relics-of-saint-basil-bishop-of-ryazan",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

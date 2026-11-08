@@ -1,0 +1,29 @@
+{
+  "id": "stephen-urosh--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:stephen-urosh"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 2
+  },
+  "external_ids": {
+    "oca": "103464"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/02/103464-saint-stephen-urosh-king-of-serbia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

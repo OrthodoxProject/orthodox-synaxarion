@@ -1,0 +1,21 @@
+{
+  "id": "tihon-rusul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Tihon Rusul",
+    "full": "Sfântul Cuvios Tihon Rusul",
+    "short": "Tihon Rusul",
+    "given": "Tihon"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-tihon-rusul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

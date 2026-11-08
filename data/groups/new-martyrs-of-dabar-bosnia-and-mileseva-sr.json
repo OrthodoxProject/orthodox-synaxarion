@@ -1,0 +1,22 @@
+{
+  "id": "new-martyrs-of-dabar-bosnia-and-mileseva-sr",
+  "kind": "martyrs",
+  "holiness_types": [
+    "martyr",
+    "new_martyr"
+  ],
+  "sources": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din orthodox-calendar; de verificat."
+    ]
+  }
+}

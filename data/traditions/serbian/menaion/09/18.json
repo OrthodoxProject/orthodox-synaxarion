@@ -1,0 +1,30 @@
+{
+  "tradition": "serbian",
+  "date": "09-18",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:eumenius-of-gortyna--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:ariadne-of-phrygia--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:castor-of-egypt--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:hilarion-of-optina--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

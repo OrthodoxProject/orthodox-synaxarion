@@ -1,0 +1,20 @@
+{
+  "id": "ita",
+  "locale": "en",
+  "names": {
+    "display": "Saint Ita, Hermitess of Killeedy",
+    "short": "Ita, Hermitess of Killeedy",
+    "given": "Ita"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/15/100201-saint-ita-hermitess-of-killeedy",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

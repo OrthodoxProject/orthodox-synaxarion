@@ -1,0 +1,29 @@
+{
+  "id": "demetrios-the-myrrh-gusher-of-thessaloniki",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mare Mc. Dimitrie, Izvorâtorul de mir",
+    "full": "Sfântul Mare Mucenic Dimitrie, Izvorâtorul de mir",
+    "short": "Dimitrie, Izvorâtorul de mir",
+    "given": "Dimitrie",
+    "variants": [
+      "Sf. Mare Mc. Dimitrie, Izvorâtorul de Mir"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mare-mucenic-dimitrie-izvoratorul-de-mir",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-mare-mc-dimitrie-izvoratorul-de-mir/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "nikodemos-of-serbia",
+  "locale": "en",
+  "names": {
+    "display": "Saint Nikodemos, Archbishop of Serbia",
+    "short": "Nikodemos, Archbishop of Serbia",
+    "given": "Nikodemos"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/11/101354-saint-nikodemos-archbishop-of-serbia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

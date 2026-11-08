@@ -1,0 +1,31 @@
+{
+  "id": "elpidius-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:elpidius",
+    "person:marcellus-2",
+    "person:eustochius-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 15
+  },
+  "external_ids": {
+    "oca": "103307"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/15/103307-martyrs-elpidius-marcellus-and-eustochius-who-suffered-under-jul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

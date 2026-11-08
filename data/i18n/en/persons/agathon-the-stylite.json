@@ -1,0 +1,20 @@
+{
+  "id": "agathon-the-stylite",
+  "locale": "en",
+  "names": {
+    "display": "Saint Agathon the Stylite",
+    "short": "Agathon the Stylite",
+    "given": "Agathon"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/1_14.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

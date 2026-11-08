@@ -1,0 +1,21 @@
+{
+  "id": "urpasianus-of-nicomedia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Urpasian",
+    "full": "Sfântul Mucenic Urpasian",
+    "short": "Urpasian",
+    "given": "Urpasian"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-urpasian",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

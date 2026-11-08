@@ -1,0 +1,29 @@
+{
+  "id": "martyred-fathers-and-mothers-of-atchara",
+  "kind": "repose",
+  "subjects": [
+    "group:martyred-fathers-and-mothers-of-atchara"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 29
+  },
+  "external_ids": {
+    "oca": "510"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/29/510-martyred-fathers-and-mothers-of-atchara",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

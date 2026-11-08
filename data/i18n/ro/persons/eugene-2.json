@@ -1,0 +1,21 @@
+{
+  "id": "eugene-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mărt. Evghenie",
+    "full": "Sfântul Cuvios Mărturisitor Evghenie",
+    "short": "Evghenie",
+    "given": "Evghenie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-marturisitor-evghenie",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

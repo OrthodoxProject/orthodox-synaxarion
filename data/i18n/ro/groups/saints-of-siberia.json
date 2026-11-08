@@ -1,0 +1,18 @@
+{
+  "id": "saints-of-siberia",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții din Siberia"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/soborul-sfintilor-din-siberia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

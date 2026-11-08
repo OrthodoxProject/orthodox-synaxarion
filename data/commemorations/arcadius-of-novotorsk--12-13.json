@@ -1,0 +1,29 @@
+{
+  "id": "arcadius-of-novotorsk--12-13",
+  "kind": "repose",
+  "subjects": [
+    "person:arcadius-of-novotorsk"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 13
+  },
+  "external_ids": {
+    "oca": "103537"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/13/103537-venerable-arcadius-of-novotorsk",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iacob-sihastrul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Iacob Sihastrul",
+    "full": "Sfântul Cuvios Iacob Sihastrul",
+    "short": "Iacob Sihastrul",
+    "given": "Iacob"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-iacob-sihastrul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-efrem-sirul-isaac-sirul-paladie-si-iacob-sihastrul/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

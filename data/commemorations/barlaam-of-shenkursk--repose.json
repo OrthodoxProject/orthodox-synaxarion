@@ -1,0 +1,29 @@
+{
+  "id": "barlaam-of-shenkursk--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:barlaam-of-shenkursk"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 19
+  },
+  "external_ids": {
+    "oca": "101753"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/19/101753-venerable-barlaam-of-shenkursk",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

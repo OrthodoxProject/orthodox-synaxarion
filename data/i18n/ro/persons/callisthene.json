@@ -1,0 +1,21 @@
+{
+  "id": "callisthene",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Calistena",
+    "full": "Sfânta Muceniță Calistena",
+    "short": "Calistena",
+    "given": "Calistena"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-calistena",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

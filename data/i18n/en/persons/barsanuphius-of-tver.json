@@ -1,0 +1,20 @@
+{
+  "id": "barsanuphius-of-tver",
+  "locale": "en",
+  "names": {
+    "display": "Saint Barsanuphius, Bishop of Tver",
+    "short": "Barsanuphius, Bishop of Tver",
+    "given": "Barsanuphius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/11/101054-saint-barsanuphius-bishop-of-tver",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "theodore-the-confessor-of-studion--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:theodore-the-confessor-of-studion"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 11
+  },
+  "external_ids": {
+    "oca": "103281"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-teodor-studitul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-mare-mc-mina-sf-mc-victor-vichentie-si-stefanida-sf-cuv-teodor-studitul/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/11/103281-venerable-theodore-the-confessor-abbot-of-the-studion",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

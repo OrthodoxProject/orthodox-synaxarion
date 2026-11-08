@@ -1,0 +1,29 @@
+{
+  "id": "fantinus-of-calabria--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:fantinus-of-calabria"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 30
+  },
+  "external_ids": {
+    "oca": "102427"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/30/102427-saint-fantinus-of-calabria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

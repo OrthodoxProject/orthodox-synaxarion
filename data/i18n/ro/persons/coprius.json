@@ -1,0 +1,21 @@
+{
+  "id": "coprius",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Coprie Egipteanul",
+    "full": "Sfântul Cuvios Coprie Egipteanul",
+    "short": "Coprie Egipteanul",
+    "given": "Coprie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-coprie-egipteanul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

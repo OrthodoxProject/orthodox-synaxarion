@@ -1,0 +1,18 @@
+{
+  "id": "seven-martyrs-on-the-mount-of-st-antonius",
+  "locale": "en",
+  "names": {
+    "display": "Seven Martyrs on the Mount of St. Antonius"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/2_26.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "synaxis-of-archangel-raphael",
+  "locale": "en",
+  "names": {
+    "display": "Commemoration of Archangel Raphael"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/13_3.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

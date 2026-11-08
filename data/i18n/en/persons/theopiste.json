@@ -1,0 +1,20 @@
+{
+  "id": "theopiste",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Theopiste",
+    "short": "Theopiste",
+    "given": "Theopiste"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/03/100348-venerable-theodora-and-her-daughter-theopiste",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

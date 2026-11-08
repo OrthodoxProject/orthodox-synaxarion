@@ -1,0 +1,29 @@
+{
+  "id": "niketas-of-novgorod--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:niketas-of-novgorod"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 14
+  },
+  "external_ids": {
+    "oca": "101377"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/14/101377-saint-niktas-bishop-of-novgorod-recluse-of-the-kiev-far-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

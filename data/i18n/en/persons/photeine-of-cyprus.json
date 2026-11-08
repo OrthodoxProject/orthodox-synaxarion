@@ -1,0 +1,20 @@
+{
+  "id": "photeine-of-cyprus",
+  "locale": "en",
+  "names": {
+    "display": "Saint Photeine of Cyprus, Wonderworker",
+    "short": "Photeine of Cyprus, Wonderworker",
+    "given": "Photeine"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/02/100534-saint-photeine-of-cyprus-wonderworker",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "caesarius-of-arles--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:caesarius-of-arles"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 27
+  },
+  "external_ids": {
+    "oca": "102412"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/27/102412-saint-caesarius-bishop-of-arles",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

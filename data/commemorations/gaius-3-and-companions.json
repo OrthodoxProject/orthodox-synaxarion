@@ -1,0 +1,31 @@
+{
+  "id": "gaius-3-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:gaius-3",
+    "person:dasius",
+    "person:zoticus-at-nicomedia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 21
+  },
+  "external_ids": {
+    "oca": "103017"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/21/103017-martyrs-gaius-dasius-and-zoticus-at-nicomedia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

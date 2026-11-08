@@ -1,0 +1,39 @@
+{
+  "id": "ignatius-the-god-bearer-of-antioch--translation-of-relics",
+  "kind": "relics_translation",
+  "subjects": [
+    "person:ignatius-the-god-bearer-of-antioch"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 29
+  },
+  "external_ids": {
+    "oca": "100335"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/aducerea-moastelor-sfantului-sfintit-mucenic-ignatie-teoforul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/aducerea-moastelor-sf-sfintit-mc-ignatie-teoforul-sf-mc-filotei/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/29/100335-translation-of-the-relics-of-the-hieromartyr-ignatius-the-godbea",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

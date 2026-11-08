@@ -1,0 +1,29 @@
+{
+  "id": "modestos-of-jerusalem",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Modest, Patriarhul Ierusalimului",
+    "full": "Sfântul Ierarh Modest, Patriarhul Ierusalimului",
+    "short": "Modest, Patriarhul Ierusalimului",
+    "given": "Modest",
+    "variants": [
+      "Sf. Ier. Modest, arhiepiscopul Ierusalimului"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-modest-patriarhul-ierusalimului",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-daniil-sihastrul-sf-mc-sebastian-si-zoe-sf-ier-modest-arhiepiscopul-ierusalimului/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "26-monastic-martyrs-of-zographou-mount-athos",
+  "kind": "martyrs",
+  "count": {
+    "value": 26,
+    "precision": "exact"
+  },
+  "holiness_types": [
+    "venerable_martyr"
+  ],
+  "external_ids": {
+    "oca": "102693"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/21/102693-26-monastic-martyrs-of-zographou-mount-athos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

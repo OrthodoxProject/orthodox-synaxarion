@@ -1,0 +1,26 @@
+{
+  "id": "hermas",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Ermeu, preotul",
+    "full": "Sfântul Mucenic Ermeu, preotul",
+    "short": "Ermeu, preotul",
+    "given": "Ermeu"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-ermeu-preotul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-ioanichie-cel-mare-sf-mc-nicandru-si-ermeu-sf-cuv-gheorghe-marturisitorul-din-drama/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

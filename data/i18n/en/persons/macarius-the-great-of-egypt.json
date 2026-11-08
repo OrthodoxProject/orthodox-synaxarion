@@ -1,0 +1,20 @@
+{
+  "id": "macarius-the-great-of-egypt",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Macarius the Great of Egypt",
+    "short": "Macarius the Great of Egypt",
+    "given": "Macarius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/19/100226-venerable-macarius-the-great-of-egypt",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

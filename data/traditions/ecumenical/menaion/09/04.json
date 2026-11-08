@@ -1,0 +1,30 @@
+{
+  "tradition": "ecumenical",
+  "date": "09-04",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:babylas-of-antioch--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:moses-the-prophet--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:hermione--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:peter-of-serbia--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

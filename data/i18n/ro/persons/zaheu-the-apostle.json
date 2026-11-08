@@ -1,0 +1,21 @@
+{
+  "id": "zaheu-the-apostle",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ap. Zaheu",
+    "full": "Sfântul Apostol Zaheu",
+    "short": "Zaheu",
+    "given": "Zaheu"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-apostol-zaheu",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

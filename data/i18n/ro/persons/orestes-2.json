@@ -1,0 +1,26 @@
+{
+  "id": "orestes-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mare Mc. Orest",
+    "full": "Sfântul Mare Mucenic Orest",
+    "short": "Orest",
+    "given": "Orest"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mare-mucenic-orest",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ier-dosoftei-mitropolitul-moldovei-%e2%80%a0-sf-mari-mc-eustratie-auxentie-evghenie-mardarie-si-orest-sf-mc-lucia-din-siracuza-dezlegare-la-peste-duminica-a-28-a-dupa-rusa/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

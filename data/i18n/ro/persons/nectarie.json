@@ -1,0 +1,26 @@
+{
+  "id": "nectarie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Nectarie",
+    "full": "Sfântul Cuvios Nectarie",
+    "short": "Nectarie",
+    "given": "Nectarie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-nectarie-0",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ap-andronic-si-sotia-sa-iunia-sf-cuv-nectarie-si-teofan-duminica-a-6-a-dupa-pasti-vindecarea-orbului-din-nastere-ap-fapte-16-16-34-ev-ioan-9-1-38-glas-5-voscr-8/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

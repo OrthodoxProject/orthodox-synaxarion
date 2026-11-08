@@ -1,0 +1,21 @@
+{
+  "id": "navcratie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Navcratie",
+    "full": "Sfântul Cuvios Navcratie",
+    "short": "Navcratie",
+    "given": "Navcratie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-navcratie",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

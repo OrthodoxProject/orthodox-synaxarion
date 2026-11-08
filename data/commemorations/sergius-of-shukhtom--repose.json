@@ -1,0 +1,29 @@
+{
+  "id": "sergius-of-shukhtom--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:sergius-of-shukhtom"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 19
+  },
+  "external_ids": {
+    "oca": "101442"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/19/101442-venerable-sergius-of-shukhtom",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

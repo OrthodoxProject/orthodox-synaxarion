@@ -1,0 +1,20 @@
+{
+  "id": "euthymius-of-dochiariou-monastery",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Euthymius, founder of Dochiariou Monastery",
+    "short": "Euthymius, founder of Dochiariou Monastery",
+    "given": "Euthymius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/09/103262-venerable-euthymius-founder-of-dochiariou-monastery-mount-athos1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

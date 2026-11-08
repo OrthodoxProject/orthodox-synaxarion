@@ -1,0 +1,28 @@
+{
+  "tradition": "romanian",
+  "date": "06-15",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:amos-the-prophet--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:isihie-2--repose"
+      ],
+      "symbol": "blue-plain"
+    },
+    {
+      "commemorations": [
+        "comm:augustine-of-hippo--repose",
+        "comm:jerome-of-stridon--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:lazarus-the-great-martyr-of-serbia--repose"
+      ]
+    }
+  ]
+}

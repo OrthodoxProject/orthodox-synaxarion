@@ -1,0 +1,21 @@
+{
+  "id": "calist-angelicoudes",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Calist Angelicoudes",
+    "full": "Sfântul Calist Angelicoudes",
+    "short": "Calist Angelicoudes",
+    "given": "Calist"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-calist-angelicoudes",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "eudoxius",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Eudoxie",
+    "full": "Sfântul Mucenic Eudoxie",
+    "short": "Eudoxie",
+    "given": "Eudoxie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-eudoxie",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/pomenirea-minunii-din-colose-a-sf-arhanghel-mihail-sf-mc-eudoxie-duminica-a-14-a-dupa-rusalii-ap-2-corinteni-1-21-24-2-1-4-ev-matei-22-1-14-pilda-nuntii-fiului-de-imparat-glas-5-voscr/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

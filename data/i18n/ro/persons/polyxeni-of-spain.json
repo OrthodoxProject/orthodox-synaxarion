@@ -1,0 +1,26 @@
+{
+  "id": "polyxeni-of-spain",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Polixenia",
+    "full": "Sfânta Cuvioasă Polixenia",
+    "short": "Polixenia",
+    "given": "Polixenia"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-polixenia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/zamislirea-sf-proroc-ioan-botezatorul-sf-xantipa-si-polixenia/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

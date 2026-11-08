@@ -1,0 +1,29 @@
+{
+  "id": "pancratius-of-taoromina",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Pangratie, Episcopul Tavromeniei",
+    "full": "Sfântul Sfințit Mucenic Pangratie, Episcopul Tavromeniei",
+    "short": "Pangratie, Episcopul Tavromeniei",
+    "given": "Pangratie",
+    "variants": [
+      "Sf. Sfințit Mc. Pangratie, episcopul Tavromeniei"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-sfintit-mucenic-pangratie-episcopul-tavromeniei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-cinstirea-sfintei-icoane-a-maicii-domnului-indrumatoarea-de-la-manastirea-neamt-sf-sfintit-mc-pangratie-episcopul-tavromeniei/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

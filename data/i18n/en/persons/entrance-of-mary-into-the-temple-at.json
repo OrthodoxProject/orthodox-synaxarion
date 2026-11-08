@@ -1,0 +1,20 @@
+{
+  "id": "entrance-of-mary-into-the-temple-at",
+  "locale": "en",
+  "names": {
+    "display": "The Entrance of Saint Mary into the Temple at Jerusalem",
+    "short": "Entrance of Saint Mary into the Temple at Jerusalem",
+    "given": "Entrance"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/4_3.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

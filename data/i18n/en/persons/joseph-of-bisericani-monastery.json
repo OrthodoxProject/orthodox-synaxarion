@@ -1,0 +1,20 @@
+{
+  "id": "joseph-of-bisericani-monastery",
+  "locale": "en",
+  "names": {
+    "display": "Saint Joseph of Bisericani Monastery (late XV century)",
+    "short": "Joseph of Bisericani Monastery",
+    "given": "Joseph"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/01/100489-saint-joseph-of-bisericani-monastery-late-xv-century",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

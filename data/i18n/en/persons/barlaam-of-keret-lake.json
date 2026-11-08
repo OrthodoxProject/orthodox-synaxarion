@@ -1,0 +1,20 @@
+{
+  "id": "barlaam-of-keret-lake",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Barlaam of Keret Lake",
+    "short": "Barlaam of Keret Lake",
+    "given": "Barlaam"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/06/103189-venerable-barlaam-of-keret-lake",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

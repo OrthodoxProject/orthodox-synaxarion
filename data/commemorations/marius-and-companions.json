@@ -1,0 +1,42 @@
+{
+  "id": "marius-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:marius",
+    "person:martha-4",
+    "person:audifaciu",
+    "person:avacum"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 6
+  },
+  "external_ids": {
+    "oca": "101921"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfintii-mucenici-marius-marta-sotia-sa-fiii-lor-audifaciu-avacum",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-dometie-cel-milostiv-de-la-ramet-si-mama-sa-sf-cuv-filotimia-sf-cuv-sisoe-cel-mare-sf-mc-lucia-din-roma-sf-mc-marius-sotia-sa-marta-si-fiii-lor-audifaciu-si-avacum/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/06/101921-martyr-marinus-his-wife-martha-their-children-and-those-with-the",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

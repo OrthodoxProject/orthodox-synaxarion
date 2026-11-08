@@ -1,0 +1,29 @@
+{
+  "id": "polychronius-the-presbyter--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:polychronius-the-presbyter"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 7
+  },
+  "external_ids": {
+    "oca": "102896"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/07/102896-martyr-polychronius-the-presbyter",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

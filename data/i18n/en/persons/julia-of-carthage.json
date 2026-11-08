@@ -1,0 +1,20 @@
+{
+  "id": "julia-of-carthage",
+  "locale": "en",
+  "names": {
+    "display": "Virgin Martyr Julia of Carthage",
+    "short": "Julia of Carthage",
+    "given": "Julia"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/16/102039-virgin-martyr-julia-of-carthage",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

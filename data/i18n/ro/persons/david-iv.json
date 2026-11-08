@@ -1,0 +1,21 @@
+{
+  "id": "david-iv",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. David Ziditorul, regele Georgiei",
+    "full": "Sfântul David Ziditorul, regele Georgiei",
+    "short": "David Ziditorul, regele Georgiei",
+    "given": "David"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-david-ziditorul-regele-georgiei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "niketas-the-confessor-of-medikion--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:niketas-the-confessor-of-medikion"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 3
+  },
+  "external_ids": {
+    "oca": "100975"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-nichita-marturisitorul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-nichita-marturisitorul-si-ilirie/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/03/100975-venerable-niketas-the-confessor-abbot-of-medikion",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

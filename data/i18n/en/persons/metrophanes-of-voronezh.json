@@ -1,0 +1,20 @@
+{
+  "id": "metrophanes-of-voronezh",
+  "locale": "en",
+  "names": {
+    "display": "Saint Metrophanes (in schema Macarius), Bishop of Voronezh",
+    "short": "Metrophanes, Bishop of Voronezh",
+    "given": "Metrophanes"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/23/103378-saint-metrophanes-in-schema-macarius-bishop-of-voronezh",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

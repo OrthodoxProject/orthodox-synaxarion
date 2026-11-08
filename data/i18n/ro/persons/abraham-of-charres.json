@@ -1,0 +1,26 @@
+{
+  "id": "abraham-of-charres",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Avraam",
+    "full": "Sfântul Cuvios Avraam",
+    "short": "Avraam",
+    "given": "Avraam"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-avraam",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-auxentie-maron-si-avraam-sambata-celor-adormiti-mosii-de-iarna/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

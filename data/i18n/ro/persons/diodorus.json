@@ -1,0 +1,21 @@
+{
+  "id": "diodorus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Diodor",
+    "full": "Sfântul Mucenic Diodor",
+    "short": "Diodor",
+    "given": "Diodor"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-diodor-1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "lydia-of-philippi",
+  "locale": "en",
+  "names": {
+    "display": "Saint Lydia of Philippi",
+    "short": "Lydia of Philippi",
+    "given": "Lydia"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/20/205364-saint-lydia-of-philippi",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

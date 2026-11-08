@@ -1,0 +1,39 @@
+{
+  "id": "chains-of-apostle-peter",
+  "kind": "event",
+  "subjects": [
+    "person:peter-the-apostle"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 16
+  },
+  "external_ids": {
+    "oca": "100202"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-lantului-sfantului-apostol-petru",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/cinstirea-lantului-sf-ap-petru-sf-mc-danact-citetul/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/16/100202-veneration-of-the-precious-chains-of-the-holy-and-all-glorious-a",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

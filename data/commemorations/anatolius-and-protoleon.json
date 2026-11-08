@@ -1,0 +1,30 @@
+{
+  "id": "anatolius-and-protoleon",
+  "kind": "repose",
+  "subjects": [
+    "person:anatolius",
+    "person:protoleon"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 23
+  },
+  "external_ids": {
+    "oca": "101186"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/23/101186-martyrs-anatolius-and-protoleon-soldiers-converted-by-witnessing",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "andronicus-of-the-seventy-and-his-fellow",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "apostle"
+  ],
+  "external_ids": {
+    "oca": "101405"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-apostol-andronic-sotia-sa-iunia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ap-andronic-si-sotia-sa-iunia-sf-cuv-nectarie-si-teofan-duminica-a-6-a-dupa-pasti-vindecarea-orbului-din-nastere-ap-fapte-16-16-34-ev-ioan-9-1-38-glas-5-voscr-8/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/17/101405-apostle-andronicus-of-the-seventy-and-his-fellow-laborer-junia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

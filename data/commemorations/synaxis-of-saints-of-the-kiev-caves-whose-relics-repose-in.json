@@ -1,0 +1,29 @@
+{
+  "id": "synaxis-of-saints-of-the-kiev-caves-whose-relics-repose-in",
+  "kind": "synaxis",
+  "subjects": [
+    "group:saints-of-the-kiev-caves-whose-relics-repose-in"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 28
+  },
+  "external_ids": {
+    "oca": "102418"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/28/102418-synaxis-of-the-saints-of-the-kiev-caves-whose-relics-repose-in-t",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

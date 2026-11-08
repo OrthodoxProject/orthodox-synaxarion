@@ -1,0 +1,29 @@
+{
+  "id": "agapius-of-vatopedi--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:agapius-of-vatopedi"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 1
+  },
+  "external_ids": {
+    "oca": "100633"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/01/100633-venerable-agapius-of-vatopedi",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

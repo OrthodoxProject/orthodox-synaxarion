@@ -1,0 +1,21 @@
+{
+  "id": "avudin",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Avudin",
+    "full": "Sfântul Mucenic Avudin",
+    "short": "Avudin",
+    "given": "Avudin"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-avudin",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

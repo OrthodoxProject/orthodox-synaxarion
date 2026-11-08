@@ -1,0 +1,26 @@
+{
+  "id": "john-chrysostom-of-constantinople",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ioan Gură de Aur, Arhiepiscopul Constantinopolului",
+    "full": "Sfântul Ierarh Ioan Gură de Aur, Arhiepiscopul Constantinopolului",
+    "short": "Ioan Gură de Aur, Arhiepiscopul Constantinopolului",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-ioan-gura-de-aur-arhiepiscopul-constantinopolului",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ier-ioan-gura-de-aur-arhiepiscopul-constantinopolului-si-mama-sa-sf-antuza/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

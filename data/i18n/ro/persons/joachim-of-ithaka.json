@@ -1,0 +1,21 @@
+{
+  "id": "joachim-of-ithaka",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ioachim Papoulakis din Ithaca",
+    "full": "Sfântul Cuvios Ioachim Papoulakis din Ithaca",
+    "short": "Ioachim Papoulakis din Ithaca",
+    "given": "Ioachim"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-ioachim-papoulakis-din-ithaca",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

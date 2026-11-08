@@ -1,0 +1,23 @@
+{
+  "id": "serapion-of-pskov",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Serapion of Pskov",
+    "short": "Serapion of Pskov",
+    "given": "Serapion",
+    "variants": [
+      "Our Venerable Father Serapion of Pskov (1481)"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/15/101391-venerable-serapion-of-pskov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

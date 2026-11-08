@@ -1,0 +1,20 @@
+{
+  "id": "eleutherius-the-deacon",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Eleutherius the Deacon",
+    "short": "Eleutherius the Deacon",
+    "given": "Eleutherius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/03/102844-martyrs-rusticus-the-presbyter-and-eleutherius-the-deacon",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

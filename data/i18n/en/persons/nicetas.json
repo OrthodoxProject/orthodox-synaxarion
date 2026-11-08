@@ -1,0 +1,20 @@
+{
+  "id": "nicetas",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Nicetas, hermit of the Kiev Caves and Bishop of Novgorod (1108)",
+    "short": "Nicetas, hermit of the Kiev Caves and Bishop of Novgorod",
+    "given": "Nicetas"
+  },
+  "references": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/russian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

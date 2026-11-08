@@ -1,0 +1,28 @@
+{
+  "id": "alexander-of-rome",
+  "locale": "en",
+  "names": {
+    "display": "Hieromartyr Alexander, Pope of Rome",
+    "short": "Alexander, Pope of Rome",
+    "given": "Alexander",
+    "variants": [
+      "Martyr Alexander of Rome"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/16/100817-hieromartyr-alexander-pope-of-rome",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/13/101367-martyr-alexander-of-rome",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

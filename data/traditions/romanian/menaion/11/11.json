@@ -1,0 +1,34 @@
+{
+  "tradition": "romanian",
+  "date": "11-11",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:menas-of-egypt--repose"
+      ],
+      "symbol": "black-plain"
+    },
+    {
+      "commemorations": [
+        "comm:victor-at-damascus--repose",
+        "comm:vincent-of-spain--repose",
+        "comm:stephanida-of-damascus--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:theodore-the-confessor-of-studion--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:stephen-of-decani--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:martyrius-of-zelenets--11-11"
+      ]
+    }
+  ]
+}

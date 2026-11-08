@@ -1,0 +1,20 @@
+{
+  "id": "doulas",
+  "locale": "en",
+  "names": {
+    "display": "Saint Doulas, Passion-Bearer of Egypt",
+    "short": "Doulas, Passion-Bearer of Egypt",
+    "given": "Doulas"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/15/101731-saint-doulas-passion-bearer-of-egypt",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "vakhtang-gorgasali",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Vakhtang Gorgasali, regele Georgiei",
+    "full": "Sfântul Vakhtang Gorgasali, regele Georgiei",
+    "short": "Vakhtang Gorgasali, regele Georgiei",
+    "given": "Vakhtang"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-vakhtang-gorgasali-regele-georgiei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

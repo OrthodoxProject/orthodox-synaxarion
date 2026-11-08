@@ -1,0 +1,29 @@
+{
+  "id": "vitalius-of-gaza--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:vitalius-of-gaza"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 22
+  },
+  "external_ids": {
+    "oca": "101183"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/22/101183-venerable-vitalius-of-gaza",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

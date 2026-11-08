@@ -1,0 +1,20 @@
+{
+  "id": "sophia-of-suzdal",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Sophia of Suzdal, the Wonderworker",
+    "short": "Sophia of Suzdal, the Wonderworker",
+    "given": "Sophia"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/16/108904-venerable-sophia-of-suzdal-the-wonderworker",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

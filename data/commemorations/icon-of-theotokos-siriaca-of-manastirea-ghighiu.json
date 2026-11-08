@@ -1,0 +1,36 @@
+{
+  "id": "icon-of-theotokos-siriaca-of-manastirea-ghighiu",
+  "kind": "icon",
+  "subjects": [
+    "icon:icon-of-theotokos-siriaca-of-manastirea-ghighiu"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 17
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoane-maicii-domnului-siriaca-de-la-manastirea-ghighiu",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoane-maicii-domnului-eleovrytissa-izvoratoarea-de-ulei-de-la-manastirea-vatoped",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-izvorul-tamaduirii-%e2%80%a0-cinstirea-sfintei-icoane-a-maicii-domnului-siriaca-de-la-manastirea-ghighiu-harti/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "paul-of-xeropotamou-monastery",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Paul, founder of the Xeropotamou Monastery on Mount Athos",
+    "short": "Paul, founder of the Xeropotamou Monastery on Mount Athos",
+    "given": "Paul"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/28/102116-venerable-paul-founder-of-the-xeropotamou-monastery-on-mount-ath",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

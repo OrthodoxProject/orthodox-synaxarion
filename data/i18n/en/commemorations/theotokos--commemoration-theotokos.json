@@ -1,0 +1,18 @@
+{
+  "id": "theotokos--commemoration-theotokos",
+  "locale": "en",
+  "names": {
+    "display": "The Commemoration of the Theotokos"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/2_21.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

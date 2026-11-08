@@ -1,0 +1,28 @@
+{
+  "id": "raphael-of-sisatovac",
+  "locale": "en",
+  "names": {
+    "display": "Hieromartyr Raphael of Sisatovac",
+    "short": "Raphael of Sisatovac",
+    "given": "Raphael",
+    "variants": [
+      "Raphael of Šišatovac"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/21/205316-hieromartyr-raphael-of-sisatovac",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

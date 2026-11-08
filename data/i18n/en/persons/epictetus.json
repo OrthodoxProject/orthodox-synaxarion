@@ -1,0 +1,20 @@
+{
+  "id": "epictetus",
+  "locale": "en",
+  "names": {
+    "display": "Monastic Martyr Epictetus",
+    "short": "Epictetus",
+    "given": "Epictetus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/08/101960-monastic-martyrs-epictetus-and-astion-at-halmyris",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

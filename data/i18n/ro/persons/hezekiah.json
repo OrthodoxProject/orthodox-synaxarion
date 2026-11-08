@@ -1,0 +1,25 @@
+{
+  "id": "hezekiah",
+  "locale": "ro",
+  "names": {
+    "display": "Dreptul Iezechia",
+    "short": "Iezechia",
+    "given": "Iezechia"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/dreptul-iezechia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-moise-etiopianul-dreptul-iezechia-sf-cuv-iosif-isihastul/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

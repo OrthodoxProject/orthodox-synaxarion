@@ -1,0 +1,39 @@
+{
+  "id": "macarius-of-alexandria--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:macarius-of-alexandria"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 19
+  },
+  "external_ids": {
+    "oca": "100227"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-macarie-alexandrinul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-macarie-cel-mare-si-macarie-alexandrinul-sf-ier-marcu-mitropolitul-efesului-sf-mc-eufrasia-duminica-a-29-a-dupa-rusalii-apostolul-duminicii-a-28-a-coloseni-1-12-18-ev-luca-17-1/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/19/100227-venerable-macarius-of-alexandria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

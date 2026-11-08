@@ -1,0 +1,20 @@
+{
+  "id": "bessarion-of-larissa",
+  "locale": "en",
+  "names": {
+    "display": "Saint Bessarion, Archbishop of Larissa",
+    "short": "Bessarion, Archbishop of Larissa",
+    "given": "Bessarion"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/15/108951-saint-bessarion-archbishop-of-larissa",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

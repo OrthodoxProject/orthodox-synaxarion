@@ -1,0 +1,20 @@
+{
+  "id": "basilisk-the-hesychast-of-siberia",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Basilisk the Hesychast of Siberia",
+    "short": "Basilisk the Hesychast of Siberia",
+    "given": "Basilisk"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/29/100304-venerable-basilisk-the-hesychast-of-siberia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

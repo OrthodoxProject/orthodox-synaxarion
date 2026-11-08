@@ -1,0 +1,24 @@
+{
+  "tradition": "ecumenical",
+  "date": "05-21",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:constantine-with-his-mother-helen-and-elena"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:meeting-of-the-vladimir-icon-of-theotokos"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:tenderness-icon-of-theotokos-from-the-pskov-caves"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

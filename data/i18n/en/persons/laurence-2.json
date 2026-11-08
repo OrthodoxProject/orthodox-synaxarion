@@ -1,0 +1,20 @@
+{
+  "id": "laurence-2",
+  "locale": "en",
+  "names": {
+    "display": "Saint Laurence, Recluse of the Kiev Caves, Far Caves, and Bishop of Turov",
+    "short": "Laurence, Recluse of the Kiev Caves, Far Caves and Bishop of Turov",
+    "given": "Laurence"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/29/100336-saint-laurence-recluse-of-the-kiev-caves-far-caves-and-bishop-of",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

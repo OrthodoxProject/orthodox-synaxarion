@@ -1,0 +1,20 @@
+{
+  "id": "gobnata-of-ballyvourney",
+  "locale": "en",
+  "names": {
+    "display": "Saint Gobnata of Ballyvourney",
+    "short": "Gobnata of Ballyvourney",
+    "given": "Gobnata"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/11/108038-saint-gobnata-of-ballyvourney",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

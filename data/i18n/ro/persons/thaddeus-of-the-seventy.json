@@ -1,0 +1,26 @@
+{
+  "id": "thaddeus-of-the-seventy",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ap. Tadeu",
+    "full": "Sfântul Apostol Tadeu",
+    "short": "Tadeu",
+    "given": "Tadeu"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-apostol-tadeu",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ap-tadeu-%e2%80%a0-sf-mc-donat-diaconul-romul-preotul-diaconul-si-venust-sf-mc-vasa-cu-fiii-ei/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

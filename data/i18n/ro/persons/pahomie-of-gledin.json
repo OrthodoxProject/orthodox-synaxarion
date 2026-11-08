@@ -1,0 +1,29 @@
+{
+  "id": "pahomie-of-gledin",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Pahomie de la Gledin, Episcopul Romanului",
+    "full": "Sfântul Ierarh Pahomie de la Gledin, Episcopul Romanului",
+    "short": "Pahomie de la Gledin, Episcopul Romanului",
+    "given": "Pahomie",
+    "variants": [
+      "Sf. Ier. Pahomie de la Gledin, episcopul Romanului"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-pahomie-de-la-gledin-episcopul-romanului",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sfintele-pasti-%e2%80%a0-sf-ier-pahomie-de-la-gledin-episcopul-romanului/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

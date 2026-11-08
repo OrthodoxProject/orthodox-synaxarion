@@ -1,0 +1,29 @@
+{
+  "id": "metrophanes-of-constantinopol",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Mitrofan, Patriarhul Constantinopolului",
+    "full": "Sfântul Ierarh Mitrofan, Patriarhul Constantinopolului",
+    "short": "Mitrofan, Patriarhul Constantinopolului",
+    "given": "Mitrofan",
+    "variants": [
+      "Sf. Ier. Mitrofan, arhiepiscopul Constantinopolului"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-mitrofan-patriarhul-constantinopolului",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-mc-zotic-atal-camasie-si-filip-de-la-niculitel-sf-ier-mitrofan-arhiepiscopul-constantinopolului-sf-mironosite-maria-si-marta-surorile-dreptului-lazar/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

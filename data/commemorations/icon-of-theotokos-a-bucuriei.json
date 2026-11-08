@@ -1,0 +1,26 @@
+{
+  "id": "icon-of-theotokos-a-bucuriei",
+  "kind": "icon",
+  "subjects": [
+    "icon:icon-of-theotokos-a-bucuriei"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 7
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoane-maicii-domnului-bucuriei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

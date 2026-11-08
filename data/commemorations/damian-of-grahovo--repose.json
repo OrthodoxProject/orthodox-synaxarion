@@ -1,0 +1,30 @@
+{
+  "id": "damian-of-grahovo--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:damian-of-grahovo"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 13
+  },
+  "sources": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Damian_of_Grahovo"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din orthodox-calendar, Wikipedia; de verificat."
+    ]
+  }
+}

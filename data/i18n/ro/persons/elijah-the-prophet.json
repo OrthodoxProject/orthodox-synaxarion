@@ -1,0 +1,29 @@
+{
+  "id": "elijah-the-prophet",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Slăvitul Proroc Ilie Tesviteanul",
+    "full": "Sfântul Slăvitul Proroc Ilie Tesviteanul",
+    "short": "Ilie Tesviteanul",
+    "given": "Ilie",
+    "variants": [
+      "Sf. și slăvitul Proroc Ilie Tesviteanul"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-slavitul-proroc-ilie-tesviteanul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sfantul-si-slavitul-proroc-ilie-tesviteanul/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

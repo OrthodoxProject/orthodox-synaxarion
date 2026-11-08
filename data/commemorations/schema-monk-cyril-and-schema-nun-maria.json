@@ -1,0 +1,30 @@
+{
+  "id": "schema-monk-cyril-and-schema-nun-maria",
+  "kind": "repose",
+  "subjects": [
+    "person:schema-monk-cyril",
+    "person:schema-nun-maria"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 28
+  },
+  "external_ids": {
+    "oca": "102755"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/28/102755-schema-monk-cyril-and-schema-nun-maria-the-parents-of-saint-serg",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

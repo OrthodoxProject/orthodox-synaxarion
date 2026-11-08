@@ -1,0 +1,20 @@
+{
+  "id": "longinus-2",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Longinus, Wonderworker of Yarenga, Solovki",
+    "short": "Longinus, Wonderworker of Yarenga, Solovki",
+    "given": "Longinus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/03/101880-venerable-longinus-wonderworker-of-yarenga-solovki",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

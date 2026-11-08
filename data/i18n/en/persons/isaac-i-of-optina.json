@@ -1,0 +1,28 @@
+{
+  "id": "isaac-i-of-optina",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Isaac I of Optina",
+    "short": "Isaac I of Optina",
+    "given": "Isaac",
+    "variants": [
+      "Venerable Isaac II of Optina"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/22/148996-venerable-isaac-i-of-optina",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/26/148997-venerable-isaac-ii-of-optina",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

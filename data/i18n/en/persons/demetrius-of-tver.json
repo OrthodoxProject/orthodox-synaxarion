@@ -1,0 +1,20 @@
+{
+  "id": "demetrius-of-tver",
+  "locale": "en",
+  "names": {
+    "display": "New Hieromartyr Demetrius (Benevolenskii) of Tver",
+    "short": "Demetrius of Tver",
+    "given": "Demetrius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/14/103916-new-hieromartyr-demetrius-benevolenskii-of-tver",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

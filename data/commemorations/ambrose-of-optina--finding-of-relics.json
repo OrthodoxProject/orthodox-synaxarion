@@ -1,0 +1,29 @@
+{
+  "id": "ambrose-of-optina--finding-of-relics",
+  "kind": "relics_finding",
+  "subjects": [
+    "person:ambrose-of-optina"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 27
+  },
+  "external_ids": {
+    "oca": "101831"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/27/101831-finding-of-the-relics-of-venerable-ambrose-of-optina",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

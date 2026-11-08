@@ -1,0 +1,21 @@
+{
+  "id": "arsenie-capadocianul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Arsenie Capadocianul",
+    "full": "Sfântul Cuvios Arsenie Capadocianul",
+    "short": "Arsenie Capadocianul",
+    "given": "Arsenie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-arsenie-capadocianul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

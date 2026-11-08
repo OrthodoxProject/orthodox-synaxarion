@@ -1,0 +1,21 @@
+{
+  "id": "platon",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Platon Kulbusch, primul episcop al Estoniei",
+    "full": "Sfântul Ierarh Platon Kulbusch, primul episcop al Estoniei",
+    "short": "Platon Kulbusch, primul episcop al Estoniei",
+    "given": "Platon"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-platon-kulbusch-primul-episcop-al-estoniei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

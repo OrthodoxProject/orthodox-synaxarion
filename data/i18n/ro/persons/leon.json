@@ -1,0 +1,21 @@
+{
+  "id": "leon",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Leon",
+    "full": "Sfântul Mucenic Leon",
+    "short": "Leon",
+    "given": "Leon"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-leon",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "slobodan-of-donja-kamenica-sr",
+  "locale": "en",
+  "names": {
+    "display": "Saint Slobodan of Donja Kamenica [ sr ]",
+    "short": "Slobodan of Donja Kamenica [ sr ]",
+    "given": "Slobodan"
+  },
+  "references": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

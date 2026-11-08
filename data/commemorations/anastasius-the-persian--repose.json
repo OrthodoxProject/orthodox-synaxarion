@@ -1,0 +1,39 @@
+{
+  "id": "anastasius-the-persian--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:anastasius-the-persian"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 22
+  },
+  "external_ids": {
+    "oca": "100263"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-mucenic-anastasie-persul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ap-timotei-sf-cuv-mc-anastasie-persul/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/22/100263-monastic-martyr-anastasius-the-persian",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

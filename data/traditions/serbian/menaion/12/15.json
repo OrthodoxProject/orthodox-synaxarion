@@ -1,0 +1,28 @@
+{
+  "tradition": "serbian",
+  "date": "12-15",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:joannicius-of-devic--12-15"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:uros-the-weak--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:eleutherius-of-illyria--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:paul-of-latros--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

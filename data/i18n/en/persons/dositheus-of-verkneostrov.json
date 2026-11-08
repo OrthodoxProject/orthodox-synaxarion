@@ -1,0 +1,23 @@
+{
+  "id": "dositheus-of-verkneostrov",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Dositheus, Abbot of Verkneostrov, Pskov",
+    "short": "Dositheus, Abbot of Verkneostrov, Pskov",
+    "given": "Dositheus",
+    "variants": [
+      "Venerable Dosithea, recluse of the Kiev Caves (1776)"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/08/102900-venerable-dositheus-abbot-of-verkneostrov-pskov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

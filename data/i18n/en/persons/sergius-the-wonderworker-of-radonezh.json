@@ -1,0 +1,20 @@
+{
+  "id": "sergius-the-wonderworker-of-radonezh",
+  "locale": "en",
+  "names": {
+    "display": "Repose of Venerable Sergius the Wonderworker, Abbot of Radonezh",
+    "short": "Sergius the Wonderworker, Abbot of Radonezh",
+    "given": "Sergius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/25/102725-repose-of-venerable-sergius-the-wonderworker-abbot-of-radonezh",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

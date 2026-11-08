@@ -1,0 +1,20 @@
+{
+  "id": "jonah-of-yashezersk",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Jonah, Abbot of Yashezersk",
+    "short": "Jonah, Abbot of Yashezersk",
+    "given": "Jonah"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/22/102698-venerable-jonah-abbot-of-yashezersk",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

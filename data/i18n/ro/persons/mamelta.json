@@ -1,0 +1,21 @@
+{
+  "id": "mamelta",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Mamelta",
+    "full": "Sfânta Muceniță Mamelta",
+    "short": "Mamelta",
+    "given": "Mamelta"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-mamelta",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

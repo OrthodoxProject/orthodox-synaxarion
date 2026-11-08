@@ -1,0 +1,21 @@
+{
+  "id": "nilus-of-sora",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Nil Sorski",
+    "full": "Sfântul Nil Sorski",
+    "short": "Nil Sorski",
+    "given": "Nil"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-nil-sorski",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

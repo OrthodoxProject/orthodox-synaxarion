@@ -1,0 +1,20 @@
+{
+  "id": "nectarius-of-bitel",
+  "locale": "en",
+  "names": {
+    "display": "Saint Nectarius of Bitel",
+    "short": "Nectarius of Bitel",
+    "given": "Nectarius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/15/108905-saint-nectarius-of-bitel",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

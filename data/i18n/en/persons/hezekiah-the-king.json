@@ -1,0 +1,19 @@
+{
+  "id": "hezekiah-the-king",
+  "locale": "en",
+  "names": {
+    "display": "Hezekiah the King",
+    "given": "Hezekiah"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/12_4.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

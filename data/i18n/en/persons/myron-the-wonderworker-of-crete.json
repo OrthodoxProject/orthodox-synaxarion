@@ -1,0 +1,20 @@
+{
+  "id": "myron-the-wonderworker-of-crete",
+  "locale": "en",
+  "names": {
+    "display": "Saint Myron the Wonderworker, Bishop of Crete",
+    "short": "Myron the Wonderworker, Bishop of Crete",
+    "given": "Myron"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/08/102233-saint-myron-the-wonderworker-bishop-of-crete",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

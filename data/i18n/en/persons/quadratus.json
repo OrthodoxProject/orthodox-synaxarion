@@ -1,0 +1,28 @@
+{
+  "id": "quadratus",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Quadratus and those with him at Corinth",
+    "short": "Quadratus",
+    "given": "Quadratus",
+    "variants": [
+      "Martyr Quadratus and those with him at Nicomedia"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/10/100751-martyr-quadratus-and-those-with-him-at-corinth",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/10/100773-martyr-quadratus-and-those-with-him-at-nicomedia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

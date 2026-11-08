@@ -1,0 +1,20 @@
+{
+  "id": "juliana-3",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Juliana",
+    "short": "Juliana",
+    "given": "Juliana"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/22/101782-martyrs-galacteon-juliana-and-saturninus-of-constantinople",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

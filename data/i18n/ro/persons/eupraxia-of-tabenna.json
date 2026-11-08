@@ -1,0 +1,26 @@
+{
+  "id": "eupraxia-of-tabenna",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Eupraxia",
+    "full": "Sfânta Cuvioasă Eupraxia",
+    "short": "Eupraxia",
+    "given": "Eupraxia"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-eupraxia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/adormirea-sfintei-ana-mama-preasfintei-nascatoare-de-dumnezeu-sf-parinti-de-la-sinodul-al-v-lea-ecumenic-sf-cuv-olimpiada-si-eupraxia/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "helen-of-sinope",
+  "locale": "en",
+  "names": {
+    "display": "Virgin Martyr Helen of Sinope",
+    "short": "Helen of Sinope",
+    "given": "Helen"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/01/100356-virgin-martyr-helen-of-sinope",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

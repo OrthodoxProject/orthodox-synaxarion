@@ -1,0 +1,42 @@
+{
+  "tradition": "serbian",
+  "date": "06-25",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:febronia-of-nisibis--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:peter-2--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:dionysios--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:dometius-of-dionysiou--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:procopius-of-the-iveron-monastery-on-mount--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:nikon-of-optina--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

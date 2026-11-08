@@ -1,0 +1,29 @@
+{
+  "id": "romilus-of-ravenica--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:romilus-of-ravenica"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 16
+  },
+  "external_ids": {
+    "oca": "108034"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/16/108034-venerable-romilus-of-ravenica",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

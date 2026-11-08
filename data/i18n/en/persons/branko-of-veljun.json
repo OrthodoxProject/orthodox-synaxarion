@@ -1,0 +1,20 @@
+{
+  "id": "branko-of-veljun",
+  "locale": "en",
+  "names": {
+    "display": "Saint Branko of Veljun",
+    "short": "Branko of Veljun",
+    "given": "Branko"
+  },
+  "references": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

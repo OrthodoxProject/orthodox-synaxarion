@@ -1,0 +1,20 @@
+{
+  "id": "platon",
+  "locale": "en",
+  "names": {
+    "display": "Hieromartyr Platon, the first Bishop of Estonia, and all the New Martyrs of Estonia",
+    "short": "Platon, the first Bishop of Estonia",
+    "given": "Platon"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/14/100244-hieromartyr-platon-the-first-bishop-of-estonia-and-all-the-new-m",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

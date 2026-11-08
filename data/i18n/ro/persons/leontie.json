@@ -1,0 +1,21 @@
+{
+  "id": "leontie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Leontie",
+    "full": "Sfântul Mucenic Leontie",
+    "short": "Leontie",
+    "given": "Leontie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-leontie",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

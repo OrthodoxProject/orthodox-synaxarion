@@ -1,0 +1,29 @@
+{
+  "id": "martyrs-maurice-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "group:martyrs-maurice-and-companions"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 22
+  },
+  "external_ids": {
+    "oca": "100580"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/22/100580-martyrs-maurice-and-his-son-photinus-and-martyrs-theodore-philip",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

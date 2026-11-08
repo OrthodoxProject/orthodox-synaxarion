@@ -1,0 +1,20 @@
+{
+  "id": "eumenius-of-gortyna",
+  "locale": "en",
+  "names": {
+    "display": "Saint Eumenius, Bishop of Gortyna",
+    "short": "Eumenius, Bishop of Gortyna",
+    "given": "Eumenius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/18/102653-saint-eumenius-bishop-of-gortyna",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "frumentius-of-abyssinia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Frumențiu, Episcopul Etiopiei",
+    "full": "Sfântul Ierarh Frumențiu, Episcopul Etiopiei",
+    "short": "Frumențiu, Episcopul Etiopiei",
+    "given": "Frumențiu",
+    "variants": [
+      "Sf. Ier. Frumentie, episcopul Etiopiei"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-frumentiu-episcopul-etiopiei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ap-andrei-cel-intai-chemat-ocrotitorul-romaniei-%e2%80%a0-sf-ier-andrei-saguna-mitropolitul-transilvaniei-sf-ier-frumentie-episcopul-etiopiei-dezlegare-la-peste-duminica/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

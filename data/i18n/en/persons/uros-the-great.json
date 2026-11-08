@@ -1,0 +1,20 @@
+{
+  "id": "uros-the-great",
+  "locale": "en",
+  "names": {
+    "display": "Saint Uroš the Great",
+    "short": "Uroš the Great",
+    "given": "Uroš"
+  },
+  "references": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

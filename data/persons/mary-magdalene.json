@@ -1,0 +1,37 @@
+{
+  "id": "mary-magdalene",
+  "kind": "saint",
+  "gender": "female",
+  "holiness_types": [
+    "myrrhbearer",
+    "equal_to_apostles"
+  ],
+  "external_ids": {
+    "doxologia": "sfanta-mironosita-intocmai-cu-apostolii-maria-magdalena",
+    "oca": "102070"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mironosita-intocmai-cu-apostolii-maria-magdalena",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-preot-marturisitor-ilie-lacatusu-sf-mironosita-si-intocmai-cu-apostolii-maria-magdalena-sf-cuv-mc-marcela/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/22/102070-myrrhbearer-and-equal-of-the-apostles-mary-magdalene",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "galaction",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Galaction",
+    "full": "Sfântul Mucenic Galaction",
+    "short": "Galaction",
+    "given": "Galaction"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-galaction",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-galaction-si-epistimia/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

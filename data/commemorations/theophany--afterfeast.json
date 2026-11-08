@@ -1,0 +1,63 @@
+{
+  "id": "theophany--afterfeast",
+  "kind": "afterfeast",
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 7
+  },
+  "duration_days": 7,
+  "parent_feast": "comm:theophany",
+  "external_ids": {
+    "oca": "100108"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/dupa-praznuirea-botezului-domnului",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/07/100108-afterfeast-of-the-theophany-of-our-lord-and-savior-jesus-christ",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/08/100111-afterfeast-of-the-theophany-of-our-lord-and-savior-jesus-christ",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/09/100133-afterfeast-of-the-theophany-of-our-lord-and-savior-jesus-christ",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/10/100139-afterfeast-of-the-theophany-of-our-lord-and-savior-jesus-christ",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/11/100148-afterfeast-of-the-theophany-of-our-lord-and-savior-jesus-christ",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/12/100154-afterfeast-of-the-theophany-of-our-lord-and-savior-jesus-christ",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/13/100163-afterfeast-of-the-theophany-of-our-lord-and-savior-jesus-christ",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "ephraim-of-antioch",
+  "locale": "en",
+  "names": {
+    "display": "Saint Ephraim, Patriarch of Antioch",
+    "short": "Ephraim, Patriarch of Antioch",
+    "given": "Ephraim"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/08/101666-saint-ephraim-patriarch-of-antioch",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

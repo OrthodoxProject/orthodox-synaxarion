@@ -1,0 +1,29 @@
+{
+  "id": "gheorghe",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Gheorghe, Mărturisitorul din Drama",
+    "full": "Sfântul Cuvios Gheorghe, Mărturisitorul din Drama",
+    "short": "Gheorghe, Mărturisitorul din Drama",
+    "given": "Gheorghe",
+    "variants": [
+      "Sf. Cuv. Gheorghe Mărturisitorul din Drama"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-gheorghe-marturisitorul-din-drama",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-ioanichie-cel-mare-sf-mc-nicandru-si-ermeu-sf-cuv-gheorghe-marturisitorul-din-drama/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

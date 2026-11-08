@@ -1,0 +1,21 @@
+{
+  "id": "iordan",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Iordan",
+    "full": "Sfântul Mucenic Iordan",
+    "short": "Iordan",
+    "given": "Iordan"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-iordan",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

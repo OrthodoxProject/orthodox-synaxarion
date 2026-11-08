@@ -1,0 +1,21 @@
+{
+  "id": "iust",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Iust",
+    "full": "Sfântul Mucenic Iust",
+    "short": "Iust",
+    "given": "Iust"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-iust",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

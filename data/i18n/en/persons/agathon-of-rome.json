@@ -1,0 +1,20 @@
+{
+  "id": "agathon-of-rome",
+  "locale": "en",
+  "names": {
+    "display": "Saint Agathon, Pope of Rome",
+    "short": "Agathon, Pope of Rome",
+    "given": "Agathon"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/20/100574-saint-agathon-pope-of-rome",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

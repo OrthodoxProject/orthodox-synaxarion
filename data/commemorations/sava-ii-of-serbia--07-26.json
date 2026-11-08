@@ -1,0 +1,29 @@
+{
+  "id": "sava-ii-of-serbia--07-26",
+  "kind": "repose",
+  "subjects": [
+    "person:sava-ii-of-serbia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 26
+  },
+  "external_ids": {
+    "oca": "108052"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/26/108052-saint-savva-iii-of-serbia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

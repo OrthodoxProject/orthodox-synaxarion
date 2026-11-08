@@ -1,0 +1,26 @@
+{
+  "id": "samuel-the-prophet",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Proroc Samuel",
+    "full": "Sfântul Proroc Samuel",
+    "short": "Samuel",
+    "given": "Samuel"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-proroc-samuel",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-proroc-samuel-sf-mc-sever-eliodor-si-teoharie/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

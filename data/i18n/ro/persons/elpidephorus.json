@@ -1,0 +1,21 @@
+{
+  "id": "elpidephorus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Elpidifor",
+    "full": "Sfântul Mucenic Elpidifor",
+    "short": "Elpidifor",
+    "given": "Elpidifor"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-elpidifor-0",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

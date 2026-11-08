@@ -1,0 +1,20 @@
+{
+  "id": "constantine-of-synnada",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Constantine of Synnada",
+    "short": "Constantine of Synnada",
+    "given": "Constantine"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/26/103650-venerable-constantine-of-synnada",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

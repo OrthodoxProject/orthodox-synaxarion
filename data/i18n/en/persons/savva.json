@@ -1,0 +1,20 @@
+{
+  "id": "savva",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Savva, Igoumen of Zvenigorod, Disciple of Venerable Sergius of Radonezh",
+    "short": "Savva, Igoumen of Zvenigorod, Disciple of Venerable Sergius of Radonezh",
+    "given": "Savva"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/03/103466-venerable-savva-igoumen-of-zvenigorod-disciple-of-venerable-serg",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

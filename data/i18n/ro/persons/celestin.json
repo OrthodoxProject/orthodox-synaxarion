@@ -1,0 +1,21 @@
+{
+  "id": "celestin",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Celestin",
+    "full": "Sfântul Mucenic Celestin",
+    "short": "Celestin",
+    "given": "Celestin"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-celestin",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

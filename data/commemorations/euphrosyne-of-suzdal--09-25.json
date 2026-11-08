@@ -1,0 +1,29 @@
+{
+  "id": "euphrosyne-of-suzdal--09-25",
+  "kind": "repose",
+  "subjects": [
+    "person:euphrosyne-of-suzdal"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 25
+  },
+  "external_ids": {
+    "oca": "102727"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/25/102727-venerable-euphrosyn-of-suzdal",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

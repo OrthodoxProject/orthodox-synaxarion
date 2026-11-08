@@ -1,0 +1,29 @@
+{
+  "id": "gregory-of-omirits--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:gregory-of-omirits"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 19
+  },
+  "external_ids": {
+    "oca": "103592"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/19/103592-saint-gregory-archbishop-of-omirits",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "42-martyrs-of-momisici-sr-42",
+  "kind": "repose",
+  "subjects": [
+    "group:42-martyrs-of-momisici-sr-42"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 22
+  },
+  "sources": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Holy_42_Martyrs_of_Momi%C5%A1i%C4%87i_%5B_sr_%5D_42"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din orthodox-calendar, Wikipedia; de verificat."
+    ]
+  }
+}

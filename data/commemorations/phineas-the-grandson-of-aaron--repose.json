@@ -1,0 +1,29 @@
+{
+  "id": "phineas-the-grandson-of-aaron--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:phineas-the-grandson-of-aaron"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 12
+  },
+  "external_ids": {
+    "oca": "100788"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/12/100788-righteous-phineas-the-grandson-of-aaron",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

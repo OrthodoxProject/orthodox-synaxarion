@@ -1,0 +1,29 @@
+{
+  "id": "john-the-faster-of-the-kiev-near--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:john-the-faster-of-the-kiev-near"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 7
+  },
+  "external_ids": {
+    "oca": "103488"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/07/103488-venerable-john-the-faster-of-the-kiev-near-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

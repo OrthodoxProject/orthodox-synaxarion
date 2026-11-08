@@ -1,0 +1,19 @@
+{
+  "id": "nun-martyr-barbara",
+  "locale": "en",
+  "names": {
+    "display": "Nun-martyr Barbara",
+    "given": "Nun-martyr"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/18/101916-nun-martyr-barbara",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

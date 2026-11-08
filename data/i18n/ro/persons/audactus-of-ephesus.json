@@ -1,0 +1,21 @@
+{
+  "id": "audactus-of-ephesus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Audact",
+    "full": "Sfântul Mucenic Audact",
+    "short": "Audact",
+    "given": "Audact"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-audact",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

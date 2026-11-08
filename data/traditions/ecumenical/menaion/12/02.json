@@ -1,0 +1,30 @@
+{
+  "tradition": "ecumenical",
+  "date": "12-02",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:alexei--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:habakkuk-the-prophet--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:myrope-of-chios--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:porphyrios--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

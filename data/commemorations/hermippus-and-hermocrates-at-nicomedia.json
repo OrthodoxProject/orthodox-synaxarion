@@ -1,0 +1,30 @@
+{
+  "id": "hermippus-and-hermocrates-at-nicomedia",
+  "kind": "repose",
+  "subjects": [
+    "person:hermippus",
+    "person:hermocrates-at-nicomedia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 26
+  },
+  "external_ids": {
+    "oca": "102092"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/26/102092-hieromartyr-hermolaus-and-martyrs-hermippus-and-hermocrates-at-n",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

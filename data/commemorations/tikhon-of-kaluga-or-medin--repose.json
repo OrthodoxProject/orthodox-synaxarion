@@ -1,0 +1,29 @@
+{
+  "id": "tikhon-of-kaluga-or-medin--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:tikhon-of-kaluga-or-medin"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 16
+  },
+  "external_ids": {
+    "oca": "101739"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/16/101739-venerable-tikhon-of-kaluga-or-medin",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

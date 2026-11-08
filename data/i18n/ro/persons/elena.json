@@ -1,0 +1,25 @@
+{
+  "id": "elena",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Împărăteasă și întocmai cu Apostolii Elena",
+    "short": "Elena",
+    "given": "Elena"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfintii-imparati-intocmai-cu-apostolii-constantin-mama-sa-elena",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-inaltarea-domnului-ziua-eroilor-%e2%80%a0-sfintii-mari-imparati-si-intocmai-cu-apostolii-constantin-si-mama-sa-elena/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

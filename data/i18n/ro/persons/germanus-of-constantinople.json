@@ -1,0 +1,26 @@
+{
+  "id": "germanus-of-constantinople",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Gherman, Patriarhul Constantinopolului",
+    "full": "Sfântul Ierarh Gherman, Patriarhul Constantinopolului",
+    "short": "Gherman, Patriarhul Constantinopolului",
+    "given": "Gherman"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-gherman-patriarhul-constantinopolului",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-mc-ioan-valahul-sf-ier-epifanie-arhiepiscopul-ciprului-si-gherman-patriarhul-constantinopolului/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

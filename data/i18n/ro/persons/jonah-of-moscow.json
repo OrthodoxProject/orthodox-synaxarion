@@ -1,0 +1,21 @@
+{
+  "id": "jonah-of-moscow",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Iona, Mitropolitul Moscovei și al Întregii Rusii",
+    "full": "Sfântul Ierarh Iona, Mitropolitul Moscovei și al Întregii Rusii",
+    "short": "Iona, Mitropolitul Moscovei, al Întregii Rusii",
+    "given": "Iona"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-iona-mitropolitul-moscovei-al-intregii-rusii",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "tradition": "serbian",
+  "date": "11-29",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:paramon--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:valerian-5--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:acacius-of-sinai-2--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:abibus-of-nekresi--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

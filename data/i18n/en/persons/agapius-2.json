@@ -1,0 +1,20 @@
+{
+  "id": "agapius-2",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Agapius",
+    "short": "Agapius",
+    "given": "Agapius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/15/100805-martyrs-agapius-publius-timolaus-romulus-two-named-dionysius-and",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

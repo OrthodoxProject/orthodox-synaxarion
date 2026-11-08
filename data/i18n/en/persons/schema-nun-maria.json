@@ -1,0 +1,20 @@
+{
+  "id": "schema-nun-maria",
+  "locale": "en",
+  "names": {
+    "display": "Saint Schema-nun Maria, the parents of Saint Sergius of Radonezh",
+    "short": "Schema-nun Maria, the parents of Saint Sergius of Radonezh",
+    "given": "Schema-nun"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/28/102755-schema-monk-cyril-and-schema-nun-maria-the-parents-of-saint-serg",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

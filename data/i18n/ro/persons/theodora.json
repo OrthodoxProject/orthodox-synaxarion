@@ -1,0 +1,29 @@
+{
+  "id": "theodora",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Teodora, împărăteasa",
+    "full": "Sfânta Teodora, împărăteasa",
+    "short": "Teodora, împărăteasa",
+    "given": "Teodora",
+    "variants": [
+      "Sf. Teodora împărăteasa"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-teodora-imparateasa",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-sfintit-mc-vlasie-episcopul-sevastiei-sf-teodora-imparateasa/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

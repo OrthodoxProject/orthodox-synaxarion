@@ -1,0 +1,20 @@
+{
+  "id": "thomas-of-bithynia",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Thomas of Bithynia",
+    "short": "Thomas of Bithynia",
+    "given": "Thomas"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/10/103516-venerable-thomas-of-bithynia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

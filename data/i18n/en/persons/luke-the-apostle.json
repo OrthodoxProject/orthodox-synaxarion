@@ -1,0 +1,20 @@
+{
+  "id": "luke-the-apostle",
+  "locale": "en",
+  "names": {
+    "display": "Apostle and Evangelist Luke",
+    "short": "Luke",
+    "given": "Luke"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/18/102993-apostle-and-evangelist-luke",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

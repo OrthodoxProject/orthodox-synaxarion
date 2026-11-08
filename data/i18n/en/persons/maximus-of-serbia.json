@@ -1,0 +1,20 @@
+{
+  "id": "maximus-of-serbia",
+  "locale": "en",
+  "names": {
+    "display": "Saint Maximus, Archbishop of Serbia",
+    "short": "Maximus, Archbishop of Serbia",
+    "given": "Maximus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/18/108035-saint-maximus-archbishop-of-serbia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

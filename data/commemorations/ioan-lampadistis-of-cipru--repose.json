@@ -1,0 +1,26 @@
+{
+  "id": "ioan-lampadistis-of-cipru--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:ioan-lampadistis-of-cipru"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 4
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ioan-lampadistis-din-cipru",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "lavrentie-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Lavrentie",
+    "full": "Sfântul Mucenic Lavrentie",
+    "short": "Lavrentie",
+    "given": "Lavrentie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-lavrentie",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

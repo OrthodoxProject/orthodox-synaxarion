@@ -1,0 +1,20 @@
+{
+  "id": "paul-of-obnora",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Paul, Abbot of Obnora, Vologda",
+    "short": "Paul, Abbot of Obnora, Vologda",
+    "given": "Paul"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/10/100143-venerable-paul-abbot-of-obnora-vologda",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

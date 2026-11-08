@@ -1,0 +1,29 @@
+{
+  "id": "anthony-of-dymsk--06-24",
+  "kind": "repose",
+  "subjects": [
+    "person:anthony-of-dymsk"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 24
+  },
+  "external_ids": {
+    "oca": "107803"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/24/107803-venerable-anthony-abbot-of-dymsk-novgorod",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "martha-4",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Martha, their children",
+    "short": "Martha, their children",
+    "given": "Martha"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/06/101921-martyr-marinus-his-wife-martha-their-children-and-those-with-the",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

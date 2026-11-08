@@ -1,0 +1,26 @@
+{
+  "id": "fabian-of-rome",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Fabian, episcopul Romei",
+    "full": "Sfântul Ierarh Fabian, episcopul Romei",
+    "short": "Fabian, episcopul Romei",
+    "given": "Fabian"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-fabian-episcopul-romei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/inainte-praznuirea-schimbarii-la-fata-a-domnului-%e2%80%a0-sf-cuv-ioan-iacob-de-la-neamt-sf-mc-evsignie-sf-nona-mama-sf-ier-grigorie-teologul-sf-ier-fabian-episcopul-romei/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "eusignius-of-antioch--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:eusignius-of-antioch"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 5
+  },
+  "external_ids": {
+    "oca": "102206"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/05/102206-martyr-eusignius-of-antioch",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

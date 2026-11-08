@@ -1,0 +1,25 @@
+{
+  "id": "4-ascetics",
+  "kind": "other",
+  "count": {
+    "value": 4,
+    "precision": "exact"
+  },
+  "external_ids": {
+    "oca": "108984"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/18/108984-4-ascetics",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

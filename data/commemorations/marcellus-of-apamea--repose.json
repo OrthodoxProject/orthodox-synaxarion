@@ -1,0 +1,29 @@
+{
+  "id": "marcellus-of-apamea--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:marcellus-of-apamea"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 14
+  },
+  "external_ids": {
+    "oca": "102299"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/14/102299-hieromartyr-marcellus-bishop-of-apamea",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "constantine-3",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Constantine",
+    "short": "Constantine",
+    "given": "Constantine"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/29/102124-venerable-constantine-and-cosmas-abbots-of-kosinsk",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

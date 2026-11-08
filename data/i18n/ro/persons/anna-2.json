@@ -1,0 +1,21 @@
+{
+  "id": "anna-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Anna",
+    "full": "Sfânta Muceniță Anna",
+    "short": "Anna",
+    "given": "Anna"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-anna",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

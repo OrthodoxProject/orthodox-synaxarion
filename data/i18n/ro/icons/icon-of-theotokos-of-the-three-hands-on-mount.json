@@ -1,0 +1,18 @@
+{
+  "id": "icon-of-theotokos-of-the-three-hands-on-mount",
+  "locale": "ro",
+  "names": {
+    "display": "Icoana Prodromița de la Muntele Athos"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoane-prodromita-de-la-muntele-athos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

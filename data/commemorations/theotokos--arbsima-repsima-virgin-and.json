@@ -1,0 +1,31 @@
+{
+  "id": "theotokos--arbsima-repsima-virgin-and",
+  "kind": "event",
+  "subjects": [
+    "person:theotokos",
+    "group:arbsima-the-virgin-and-companions"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 29,
+    "calendar": "coptic"
+  },
+  "external_ids": {
+    "copticchurch": "1_29#1"
+  },
+  "sources": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/1_29.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din copticchurch.net; de verificat."
+    ]
+  }
+}

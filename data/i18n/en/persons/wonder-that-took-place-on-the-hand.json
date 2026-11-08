@@ -1,0 +1,20 @@
+{
+  "id": "wonder-that-took-place-on-the-hand",
+  "locale": "en",
+  "names": {
+    "display": "Wonder that took place on the hand of Pope Sinuthius (Shenouda I) the Fifty Fifth Patriarch",
+    "short": "Wonder that took place on the hand of Pope Sinuthius the Fifty Fifth Patriarch",
+    "given": "Wonder"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/8_9.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

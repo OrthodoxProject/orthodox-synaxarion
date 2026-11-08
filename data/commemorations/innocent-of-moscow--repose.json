@@ -1,0 +1,34 @@
+{
+  "id": "innocent-of-moscow--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:innocent-of-moscow"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 31
+  },
+  "external_ids": {
+    "oca": "100954"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-inochentie-mitropolitul-moscovei-luminator-al-siberiei-americii",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/31/100954-repose-of-saint-innocent-metropolitan-of-moscow-enlightener-of-t",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, oca.org; de verificat."
+    ]
+  }
+}

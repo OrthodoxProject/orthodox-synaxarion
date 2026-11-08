@@ -1,0 +1,26 @@
+{
+  "id": "priest-st-anastas-varos-theoditeh-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "group:priest-st-anastas-varos-theoditeh-and-companions"
+  ],
+  "date_rule": {
+    "type": "unspecified",
+    "note": "Zi mobilă în calendarul armean; regula e de stabilit."
+  },
+  "sources": [
+    {
+      "source": "src:armenianchurch-ge",
+      "url": "https://armenianchurch.ge/en/kalendar-prazdnikov/description-2/october/commemoration-of-the-priest-st-anastas-sts-varos-theoditeh-and-her-sons",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din armenianchurch.ge; de verificat.",
+      "În calendarul armenianchurch.ge apare în luna octombrie; ziua se stabilește după regulile calendarului armean (de completat)."
+    ]
+  }
+}

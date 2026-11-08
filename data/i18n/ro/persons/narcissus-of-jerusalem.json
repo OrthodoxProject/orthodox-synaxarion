@@ -1,0 +1,29 @@
+{
+  "id": "narcissus-of-jerusalem",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Narcis, Patriarhul Ierusalimului",
+    "full": "Sfântul Sfințit Mucenic Narcis, Patriarhul Ierusalimului",
+    "short": "Narcis, Patriarhul Ierusalimului",
+    "given": "Narcis",
+    "variants": [
+      "Sf. Ier. Narcis, arhiepiscopul Ierusalimului"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-sfintit-mucenic-narcis-patriarhul-ierusalimului",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-teodora-de-la-sihla-%e2%80%a0-sf-cuv-pafnutie-parvu-zugravul-sf-cuv-mc-dometie-persul-sf-ier-narcis-arhiepiscopul-ierusalimului-sf-cuv-nicanor/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

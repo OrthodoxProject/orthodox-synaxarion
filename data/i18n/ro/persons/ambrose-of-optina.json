@@ -1,0 +1,21 @@
+{
+  "id": "ambrose-of-optina",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ambrozie de la Optina",
+    "full": "Sfântul Ambrozie de la Optina",
+    "short": "Ambrozie de la Optina",
+    "given": "Ambrozie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ambrozie-de-la-optina",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "andrei-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Andrei",
+    "full": "Sfântul Mucenic Andrei",
+    "short": "Andrei",
+    "given": "Andrei"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-andrei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

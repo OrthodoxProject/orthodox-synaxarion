@@ -1,0 +1,29 @@
+{
+  "id": "gregory-of-nyssa",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Grigorie, Episcopul Nyssei",
+    "full": "Sfântul Ierarh Grigorie, Episcopul Nyssei",
+    "short": "Grigorie, Episcopul Nyssei",
+    "given": "Grigorie",
+    "variants": [
+      "Sf. Ier. Grigorie, episcopul Nyssei"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-grigorie-episcopul-nyssei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ier-grigorie-episcopul-nyssei-%e2%80%a0-sf-cuv-antipa-de-la-calapodesti-sf-ier-dometian-episcopul-melitinei/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

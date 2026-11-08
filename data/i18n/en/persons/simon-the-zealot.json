@@ -1,0 +1,20 @@
+{
+  "id": "simon-the-zealot",
+  "locale": "en",
+  "names": {
+    "display": "Apostle Simon the Zealot",
+    "short": "Simon the Zealot",
+    "given": "Simon"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/10/101337-apostle-simon-the-zealot",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

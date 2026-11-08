@@ -1,0 +1,20 @@
+{
+  "id": "theophilus-the-deacon",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Theophilus the Deacon",
+    "short": "Theophilus the Deacon",
+    "given": "Theophilus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/08/100121-martyrs-theophilus-the-deacon-and-helladius-in-libya",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

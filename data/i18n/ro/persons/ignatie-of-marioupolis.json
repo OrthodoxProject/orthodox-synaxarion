@@ -1,0 +1,21 @@
+{
+  "id": "ignatie-of-marioupolis",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ignatie de Marioupolis",
+    "full": "Sfântul Ierarh Ignatie de Marioupolis",
+    "short": "Ignatie de Marioupolis",
+    "given": "Ignatie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-ignatie-de-marioupolis",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

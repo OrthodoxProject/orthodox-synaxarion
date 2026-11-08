@@ -1,0 +1,29 @@
+{
+  "id": "asclas-of-egypt--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:asclas-of-egypt"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 20
+  },
+  "external_ids": {
+    "oca": "101451"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/20/101451-martyr-asclas-of-egypt",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

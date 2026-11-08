@@ -1,0 +1,29 @@
+{
+  "id": "demetrios-of-uglich-and-moscow--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:demetrios-of-uglich-and-moscow"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 15
+  },
+  "external_ids": {
+    "oca": "101386"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/15/101386-the-holy-right-believing-tsarevich-demetrios-of-uglich-and-mosco",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

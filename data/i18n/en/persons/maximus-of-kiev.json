@@ -1,0 +1,20 @@
+{
+  "id": "maximus-of-kiev",
+  "locale": "en",
+  "names": {
+    "display": "Saint Maximus, Metropolitan of Kiev",
+    "short": "Maximus, Metropolitan of Kiev",
+    "given": "Maximus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/06/108907-saint-maximus-metropolitan-of-kiev",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

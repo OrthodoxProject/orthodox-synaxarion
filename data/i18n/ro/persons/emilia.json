@@ -1,0 +1,26 @@
+{
+  "id": "emilia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Emilia, mama Sfântului Ier. Vasile cel Mare",
+    "full": "Sfânta Emilia, mama Sfântului Ierarh Vasile cel Mare",
+    "short": "Emilia, mama Sfântului Ierarh Vasile cel Mare",
+    "given": "Emilia"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-emilia-mama-sfantului-ierarh-vasile-cel-mare",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-taierea-imprejur-cea-dupa-trup-a-domnului-%e2%80%a0-sf-ier-vasile-cel-mare-arhiepiscopul-cezareei-capadociei-si-mama-sa-sf-emilia-anul-nou-tedeum-harti/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

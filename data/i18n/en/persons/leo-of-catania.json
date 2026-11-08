@@ -1,0 +1,20 @@
+{
+  "id": "leo-of-catania",
+  "locale": "en",
+  "names": {
+    "display": "Saint Leo, Bishop of Catania in Sicily",
+    "short": "Leo, Bishop of Catania in Sicily",
+    "given": "Leo"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/20/100569-saint-leo-bishop-of-catania-in-sicily",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

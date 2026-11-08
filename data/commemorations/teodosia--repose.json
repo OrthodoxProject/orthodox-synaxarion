@@ -1,0 +1,31 @@
+{
+  "id": "teodosia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:teodosia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 8
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-teodosia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-mc-epictet-preotul-si-astion-monahul-sf-mare-mc-procopie-si-mama-sa-sf-mc-teodosia/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro; de verificat."
+    ]
+  }
+}

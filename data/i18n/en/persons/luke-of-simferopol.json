@@ -1,0 +1,20 @@
+{
+  "id": "luke-of-simferopol",
+  "locale": "en",
+  "names": {
+    "display": "Saint Luke, Archbishop of Simferopol",
+    "short": "Luke, Archbishop of Simferopol",
+    "given": "Luke"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/11/100476-saint-luke-archbishop-of-simferopol",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

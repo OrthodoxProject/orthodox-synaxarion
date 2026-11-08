@@ -1,0 +1,20 @@
+{
+  "id": "joanna-the-myrrhbearer",
+  "locale": "en",
+  "names": {
+    "display": "Saint Joanna the Myrrhbearer",
+    "short": "Joanna the Myrrhbearer",
+    "given": "Joanna"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/27/101827-saint-joanna-the-myrrhbearer",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

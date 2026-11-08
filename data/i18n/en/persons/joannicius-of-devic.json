@@ -1,0 +1,28 @@
+{
+  "id": "joannicius-of-devic",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Joannicius of Devic",
+    "short": "Joannicius of Devic",
+    "given": "Joannicius",
+    "variants": [
+      "Joannicius of Devič Ј"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/02/108070-venerable-joannicius-of-devic",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

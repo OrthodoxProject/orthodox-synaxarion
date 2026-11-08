@@ -1,0 +1,29 @@
+{
+  "id": "eufrosin-bucatarul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Eufrosin Bucătarul",
+    "full": "Sfântul Cuvios Eufrosin Bucătarul",
+    "short": "Eufrosin Bucătarul",
+    "given": "Eufrosin",
+    "variants": [
+      "Sf. Cuv. Eufrosin bucătarul"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-eufrosin-bucatarul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-teodora-din-alexandria-sf-cuv-eufrosin-bucatarul/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

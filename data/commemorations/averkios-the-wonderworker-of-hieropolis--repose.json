@@ -1,0 +1,39 @@
+{
+  "id": "averkios-the-wonderworker-of-hieropolis--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:averkios-the-wonderworker-of-hieropolis"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 22
+  },
+  "external_ids": {
+    "oca": "103022"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-averchie-episcopul-ierapolei-cel-intocmai-cu-apostolii",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ier-averchie-episcopul-ierapolei-cel-intocmai-cu-apostolii-sf-7-tineri-din-efes/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/22/103022-saint-averkios-the-wonderworker-bishop-of-hieropolis-equal-of-th",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

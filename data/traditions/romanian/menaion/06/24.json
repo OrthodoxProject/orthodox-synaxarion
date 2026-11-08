@@ -1,0 +1,29 @@
+{
+  "tradition": "romanian",
+  "date": "06-24",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:nativity-of-john-the-baptist"
+      ],
+      "symbol": "red-parenthesized"
+    },
+    {
+      "commemorations": [
+        "comm:john-the-new-of-sochi--translation-of-relics"
+      ],
+      "symbol": "red-plain"
+    },
+    {
+      "commemorations": [
+        "comm:niceta-of-remesiana--repose"
+      ],
+      "symbol": "blue-plain"
+    },
+    {
+      "commemorations": [
+        "comm:athanasius-parios--repose"
+      ]
+    }
+  ]
+}

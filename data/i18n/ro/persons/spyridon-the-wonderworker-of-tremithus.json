@@ -1,0 +1,29 @@
+{
+  "id": "spyridon-the-wonderworker-of-tremithus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Spiridon, Episcopul Trimitundei",
+    "full": "Sfântul Ierarh Spiridon, Episcopul Trimitundei",
+    "short": "Spiridon, Episcopul Trimitundei",
+    "given": "Spiridon",
+    "variants": [
+      "Sf. Ier. Spiridon, episcopul Trimitundei, făcătorul de minuni"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-spiridon-episcopul-trimitundei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ier-spiridon-episcopul-trimitundei-facatorul-de-minuni-dezlegare-la-peste/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

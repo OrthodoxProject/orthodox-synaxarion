@@ -1,0 +1,36 @@
+{
+  "tradition": "serbian",
+  "date": "05-13",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:glyceria-at-heraclea--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:euthymius-the-new-of-iveron-monastery--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:john-of-the-iveron-monastery-on-mount--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:george-of-the-iveron-monastery-on-mount--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:gabriel-of-the-iveron-monastery-on-mount--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

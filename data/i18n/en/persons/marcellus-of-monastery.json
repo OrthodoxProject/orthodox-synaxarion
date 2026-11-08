@@ -1,0 +1,20 @@
+{
+  "id": "marcellus-of-monastery",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Marcellus, Abbot of the Monastery of the “Unsleeping Ones”",
+    "short": "Marcellus, Abbot of the Monastery of the \"Unsleeping Ones\"",
+    "given": "Marcellus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/29/103683-venerable-marcellus-abbot-of-the-monastery-of-the-unsleeping-one",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

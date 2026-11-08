@@ -1,0 +1,20 @@
+{
+  "id": "cassian",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Cassian",
+    "short": "Cassian",
+    "given": "Cassian"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/15/101727-venerable-cassian-and-gregory-abbots-of-avnezh-vologda",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

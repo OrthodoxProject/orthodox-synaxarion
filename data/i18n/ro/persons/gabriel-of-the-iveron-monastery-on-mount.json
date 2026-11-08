@@ -1,0 +1,21 @@
+{
+  "id": "gabriel-of-the-iveron-monastery-on-mount",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Gavriil Ivirul",
+    "full": "Sfântul Cuvios Gavriil Ivirul",
+    "short": "Gavriil Ivirul",
+    "given": "Gavriil"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-gavriil-ivirul",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

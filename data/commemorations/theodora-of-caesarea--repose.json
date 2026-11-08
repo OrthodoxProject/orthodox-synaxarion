@@ -1,0 +1,34 @@
+{
+  "id": "theodora-of-caesarea--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:theodora-of-caesarea"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 30
+  },
+  "external_ids": {
+    "oca": "103695"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-teodora-din-cezareea",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/30/103695-venerable-theodora-of-caesarea-in-cappadocia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, oca.org; de verificat."
+    ]
+  }
+}

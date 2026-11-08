@@ -1,0 +1,21 @@
+{
+  "id": "claudius-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Claudie",
+    "full": "Sfântul Mucenic Claudie",
+    "short": "Claudie",
+    "given": "Claudie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-claudie",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "stephen-of-triglia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ștefan, făcătorul de minuni",
+    "full": "Sfântul Cuvios Ștefan, făcătorul de minuni",
+    "short": "Ștefan, făcătorul de minuni",
+    "given": "Ștefan"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-stefan-facatorul-de-minuni",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-ilarion-cel-nou-egumenul-pelechitului-si-stefan-facatorul-de-minuni-pomenirea-celor-adormiti/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

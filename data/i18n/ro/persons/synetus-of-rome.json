@@ -1,0 +1,21 @@
+{
+  "id": "synetus-of-rome",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Sinet",
+    "full": "Sfântul Mucenic Sinet",
+    "short": "Sinet",
+    "given": "Sinet"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-sinet",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

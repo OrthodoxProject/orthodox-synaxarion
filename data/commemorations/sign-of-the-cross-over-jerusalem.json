@@ -1,0 +1,36 @@
+{
+  "id": "sign-of-the-cross-over-jerusalem",
+  "kind": "feast_of_cross",
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 7
+  },
+  "external_ids": {
+    "oca": "107787"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/aratarea-semnului-sfintei-cruci-la-ierusalim",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/aratarea-pe-cer-a-semnului-sfintei-cruci-in-ierusalim-sf-mc-acachie-si-codrat/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/07/107787-commemoration-of-the-apparition-of-the-sign-of-the-precious-cros",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "tradition": "ecumenical",
+  "date": "02-15",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:onesimus-of-the-seventy--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:eusebius-the-hermit-of-syria--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:icon-of-theotokos-of-dalmatia"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:anthimus-of-chios--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

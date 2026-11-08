@@ -1,0 +1,20 @@
+{
+  "id": "arsenius-of-latros",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Arsenius of Latros",
+    "short": "Arsenius of Latros",
+    "given": "Arsenius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/13/103539-venerable-arsenius-of-latros",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

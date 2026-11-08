@@ -1,0 +1,25 @@
+{
+  "id": "vladimir-yaroslavich-of-novgorod",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "right_believing"
+  ],
+  "external_ids": {
+    "oca": "102853"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/04/102853-right-believing-prince-vladimir-yaroslavich-of-novgorod",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

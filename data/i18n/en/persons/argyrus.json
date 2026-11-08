@@ -1,0 +1,20 @@
+{
+  "id": "argyrus",
+  "locale": "en",
+  "names": {
+    "display": "New Martyr Argyrus",
+    "short": "Argyrus",
+    "given": "Argyrus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/11/205357-new-martyr-argyrus",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

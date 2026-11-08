@@ -1,0 +1,29 @@
+{
+  "id": "barlaam-of-keretsk--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:barlaam-of-keretsk"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 15
+  },
+  "external_ids": {
+    "oca": "109025"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/15/109025-saint-barlaam-of-keretsk",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

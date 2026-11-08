@@ -1,0 +1,23 @@
+{
+  "id": "conception-of-the-theotokos",
+  "locale": "ro",
+  "names": {
+    "display": "Zămislirea Sfintei Fecioare Maria de către Sfânta Ana"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/zamislirea-sfintei-fecioare-maria-de-catre-sfanta-ana",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/zamislirea-sfintei-fecioare-maria-de-catre-sf-ana-sf-prorocita-ana-mama-prorocului-samuel/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

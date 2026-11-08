@@ -1,0 +1,23 @@
+{
+  "id": "conception-of-john-the-baptist",
+  "locale": "ro",
+  "names": {
+    "display": "Zămislirea Sfântului Proroc Ioan Botezătorul"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/zamislirea-sfantului-proroc-ioan-botezatorul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/zamislirea-sf-proroc-ioan-botezatorul-sf-xantipa-si-polixenia/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

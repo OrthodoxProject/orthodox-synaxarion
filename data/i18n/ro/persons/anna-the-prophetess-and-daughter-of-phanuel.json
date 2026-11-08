@@ -1,0 +1,21 @@
+{
+  "id": "anna-the-prophetess-and-daughter-of-phanuel",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ana Prorocița, fiica lui Fanuel",
+    "full": "Sfânta Ana Prorocița, fiica lui Fanuel",
+    "short": "Ana Prorocița, fiica lui Fanuel",
+    "given": "Ana"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-ana-prorocita-fiica-lui-fanuel",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

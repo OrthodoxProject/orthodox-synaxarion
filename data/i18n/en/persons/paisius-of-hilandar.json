@@ -1,0 +1,20 @@
+{
+  "id": "paisius-of-hilandar",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Paisius of Hilandar, Bulgaria",
+    "short": "Paisius of Hilandar, Bulgaria",
+    "given": "Paisius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/19/101757-venerable-paisius-of-hilandar-bulgaria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

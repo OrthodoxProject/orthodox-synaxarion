@@ -1,0 +1,28 @@
+{
+  "id": "callinicus-of-cernica",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Calinic de la Cernica, episcopul Râmnicului (Slujba lui se va săvârși luni, în a doua zi de Paști)",
+    "short": "Calinic de la Cernica, episcopul Râmnicului",
+    "given": "Calinic",
+    "variants": [
+      "Sf. Ier. Calinic de la Cernica, Episcopul Râmnicului"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sfanta-si-marea-sambata-%e2%80%a0-sf-ier-calinic-de-la-cernica-episcopul-ramnicului-slujba-lui-se-va-savarsi-luni-in-a-doua-zi-de-pasti-sf-sfintit-mc-antipa-episcopul-pergamului/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-calinic-de-la-cernica-episcopul-ramnicului",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

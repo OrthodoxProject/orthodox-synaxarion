@@ -1,0 +1,25 @@
+{
+  "id": "natan-of-sihastria-putnei",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Natan de la Sihăstria Putnei",
+    "short": "Natan de la Sihăstria Putnei",
+    "given": "Natan"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfintii-cuviosi-sila-paisie-natan-de-la-sihastria-putnei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-sila-paisie-si-natan-de-la-sihastria-putnei-sf-cuv-teodor-cel-sfintit/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

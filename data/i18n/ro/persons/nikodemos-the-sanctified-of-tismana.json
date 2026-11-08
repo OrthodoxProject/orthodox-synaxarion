@@ -1,0 +1,29 @@
+{
+  "id": "nikodemos-the-sanctified-of-tismana",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Nicodim de la Tismana",
+    "full": "Sfântul Cuvios Nicodim de la Tismana",
+    "short": "Nicodim de la Tismana",
+    "given": "Nicodim",
+    "variants": [
+      "Sf. Cuv. Nicodim cel Sfințit de la Tismana"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-nicodim-de-la-tismana",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-soborul-maicii-domnului-%e2%80%a0-sf-cuv-nicodim-cel-sfintit-de-la-tismana-%e2%80%a0-sf-cuv-mc-gherasim-de-la-tismana/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

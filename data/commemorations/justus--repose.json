@@ -1,0 +1,35 @@
+{
+  "id": "justus--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:justus"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 10,
+    "calendar": "coptic"
+  },
+  "external_ids": {
+    "copticchurch": "6_10#2"
+  },
+  "sources": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/6_10.html?lang=en#2",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:st-takla-synaxarium",
+      "url": "https://st-takla.org/books/en/church/synaxarium/06-amsheer/10-amshir-justus.html",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din copticchurch.net, st-takla.org; de verificat."
+    ]
+  }
+}

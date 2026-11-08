@@ -1,0 +1,26 @@
+{
+  "id": "mercurie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mare Mc. Mercurie",
+    "full": "Sfântul Mare Mucenic Mercurie",
+    "short": "Mercurie",
+    "given": "Mercurie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mare-mucenic-mercurie",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/odovania-praznicului-intrarii-in-biserica-a-maicii-domnului-%e2%80%a0-sf-mare-mc-ecaterina-sf-mare-mc-mercurie/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

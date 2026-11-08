@@ -1,0 +1,20 @@
+{
+  "id": "melania-the-younger-of-rome",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Melania the Younger of Rome",
+    "short": "Melania the Younger of Rome",
+    "given": "Melania"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/31/103701-venerable-melania-the-younger-of-rome",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

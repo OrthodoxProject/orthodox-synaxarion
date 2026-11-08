@@ -1,0 +1,28 @@
+{
+  "id": "athanasius-the-great-of-alexandria",
+  "locale": "en",
+  "names": {
+    "display": "Saint Athanasius the Great, Archbishop of Alexandria",
+    "short": "Athanasius the Great, Archbishop of Alexandria",
+    "given": "Athanasius",
+    "variants": [
+      "Saint Athanasius the Great, Patriarch of Alexandria"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/18/100219-saint-athanasius-the-great-archbishop-of-alexandria",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/02/101269-saint-athanasius-the-great-patriarch-of-alexandria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

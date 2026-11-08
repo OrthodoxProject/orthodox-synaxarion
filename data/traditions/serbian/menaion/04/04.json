@@ -1,0 +1,30 @@
+{
+  "tradition": "serbian",
+  "date": "04-04",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:joseph-the-hymnographer--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:george-of-mount-maleon-in-the-peloponnesus--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:zosimas-of-vorbozomsk--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:theonas-of-thessalonica--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

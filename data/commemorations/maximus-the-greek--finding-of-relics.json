@@ -1,0 +1,29 @@
+{
+  "id": "maximus-the-greek--finding-of-relics",
+  "kind": "relics_finding",
+  "subjects": [
+    "person:maximus-the-greek"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 4
+  },
+  "external_ids": {
+    "oca": "101212"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/04/101212-finding-of-the-relics-of-venerable-maximus-the-greek-july-4-1996",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

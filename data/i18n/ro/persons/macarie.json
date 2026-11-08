@@ -1,0 +1,20 @@
+{
+  "id": "macarie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Macarie",
+    "short": "Macarie",
+    "given": "Macarie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfintii-mucenici-terentie-pompie-african-maxim-macarie-dima",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

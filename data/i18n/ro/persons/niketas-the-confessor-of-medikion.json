@@ -1,0 +1,26 @@
+{
+  "id": "niketas-the-confessor-of-medikion",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Nichita Mărturisitorul",
+    "full": "Sfântul Cuvios Nichita Mărturisitorul",
+    "short": "Nichita Mărturisitorul",
+    "given": "Nichita"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-nichita-marturisitorul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-nichita-marturisitorul-si-ilirie/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

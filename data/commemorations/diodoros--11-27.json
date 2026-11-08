@@ -1,0 +1,29 @@
+{
+  "id": "diodoros--11-27",
+  "kind": "repose",
+  "subjects": [
+    "person:diodoros"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 27
+  },
+  "external_ids": {
+    "oca": "103408"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/27/103408-repose-of-venerable-diodorus-igoumen-of-george-hill",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

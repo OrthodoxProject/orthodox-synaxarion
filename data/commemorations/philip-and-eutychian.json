@@ -1,0 +1,35 @@
+{
+  "id": "philip-and-eutychian",
+  "kind": "repose",
+  "subjects": [
+    "person:philip",
+    "person:eutychian"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 17
+  },
+  "external_ids": {
+    "oca": "102317"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/17/102317-martyrs-straton-philip-eutychian-and-cyprian-of-nicomedia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/17/108988-saint-philip-of-sukhona",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

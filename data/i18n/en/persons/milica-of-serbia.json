@@ -1,0 +1,20 @@
+{
+  "id": "milica-of-serbia",
+  "locale": "en",
+  "names": {
+    "display": "Saint Milica of Serbia",
+    "short": "Milica of Serbia",
+    "given": "Milica"
+  },
+  "references": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

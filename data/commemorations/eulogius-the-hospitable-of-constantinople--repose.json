@@ -1,0 +1,29 @@
+{
+  "id": "eulogius-the-hospitable-of-constantinople--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:eulogius-the-hospitable-of-constantinople"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 27
+  },
+  "external_ids": {
+    "oca": "101214"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/27/101214-saint-eulogius-the-hospitable-of-constantinople",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

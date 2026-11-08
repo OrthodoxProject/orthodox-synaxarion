@@ -1,0 +1,29 @@
+{
+  "id": "melania-the-younger-of-rome--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:melania-the-younger-of-rome"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 31
+  },
+  "external_ids": {
+    "oca": "103701"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/31/103701-venerable-melania-the-younger-of-rome",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

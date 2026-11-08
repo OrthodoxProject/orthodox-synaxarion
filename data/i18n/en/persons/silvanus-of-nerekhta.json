@@ -1,0 +1,20 @@
+{
+  "id": "silvanus-of-nerekhta",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Silvanus of Nerekhta",
+    "short": "Silvanus of Nerekhta",
+    "given": "Silvanus"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/15/101389-venerable-silvanus-of-nerekhta",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

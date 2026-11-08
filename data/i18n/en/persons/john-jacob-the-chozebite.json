@@ -1,0 +1,20 @@
+{
+  "id": "john-jacob-the-chozebite",
+  "locale": "en",
+  "names": {
+    "display": "Saint John Jacob the Chozebite",
+    "short": "John Jacob the Chozebite",
+    "given": "John"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/05/149012-saint-john-jacob-the-chozebite",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

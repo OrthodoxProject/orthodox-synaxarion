@@ -1,0 +1,30 @@
+{
+  "id": "slobodan-of-donja-kamenica-sr--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:slobodan-of-donja-kamenica-sr"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 27
+  },
+  "sources": [
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Slobodan_of_Donja_Kamenica_%5B_sr_%5D"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din orthodox-calendar, Wikipedia; de verificat."
+    ]
+  }
+}

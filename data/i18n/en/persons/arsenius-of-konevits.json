@@ -1,0 +1,20 @@
+{
+  "id": "arsenius-of-konevits",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Arsenius, Abbot of Konevits",
+    "short": "Arsenius, Abbot of Konevits",
+    "given": "Arsenius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/12/101700-venerable-arsenius-abbot-of-konevits",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

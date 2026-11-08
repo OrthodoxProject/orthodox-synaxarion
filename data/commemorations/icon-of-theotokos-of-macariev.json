@@ -1,0 +1,34 @@
+{
+  "id": "icon-of-theotokos-of-macariev",
+  "kind": "icon",
+  "subjects": [
+    "icon:icon-of-theotokos-of-macariev"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 17
+  },
+  "external_ids": {
+    "oca": "102651"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoanei-maicii-domnului-sfantului-macarie",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/17/102651-icon-of-the-mother-of-god-of-macariev",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, oca.org; de verificat."
+    ]
+  }
+}

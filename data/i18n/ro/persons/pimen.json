@@ -1,0 +1,21 @@
+{
+  "id": "pimen",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Pimen",
+    "full": "Sfântul Mucenic Pimen",
+    "short": "Pimen",
+    "given": "Pimen"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-pimen",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

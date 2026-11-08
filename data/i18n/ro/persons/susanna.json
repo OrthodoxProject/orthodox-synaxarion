@@ -1,0 +1,21 @@
+{
+  "id": "susanna",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Suzana, regina Georgiei",
+    "full": "Sfânta Muceniță Suzana, regina Georgiei",
+    "short": "Suzana, regina Georgiei",
+    "given": "Suzana"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-suzana-regina-georgiei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

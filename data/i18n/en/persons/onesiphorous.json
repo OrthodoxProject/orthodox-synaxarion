@@ -1,0 +1,20 @@
+{
+  "id": "onesiphorous",
+  "locale": "en",
+  "names": {
+    "display": "Saint Onesiphorous (Friska), One of the Seventy Apostles",
+    "short": "Onesiphorous, One of the Seventy Apostles",
+    "given": "Onesiphorous"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/7_25.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

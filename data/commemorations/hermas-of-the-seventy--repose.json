@@ -1,0 +1,34 @@
+{
+  "id": "hermas-of-the-seventy--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:hermas-of-the-seventy"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 31
+  },
+  "external_ids": {
+    "oca": "101567"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-apostol-ermie",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/31/101567-apostle-hermas-of-the-seventy",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, oca.org; de verificat."
+    ]
+  }
+}

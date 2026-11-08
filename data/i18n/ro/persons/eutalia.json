@@ -1,0 +1,21 @@
+{
+  "id": "eutalia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Eutalia",
+    "full": "Sfânta Muceniță Eutalia",
+    "short": "Eutalia",
+    "given": "Eutalia"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-eutalia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

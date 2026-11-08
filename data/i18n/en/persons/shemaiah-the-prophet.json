@@ -1,0 +1,20 @@
+{
+  "id": "shemaiah-the-prophet",
+  "locale": "en",
+  "names": {
+    "display": "Prophet Shemaiah (Samaia or Semeias)",
+    "short": "Shemaiah",
+    "given": "Shemaiah"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/09/100136-prophet-shemaiah-samaia-or-semeias",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

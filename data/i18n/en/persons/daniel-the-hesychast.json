@@ -1,0 +1,20 @@
+{
+  "id": "daniel-the-hesychast",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Daniel the Hesychast",
+    "short": "Daniel the Hesychast",
+    "given": "Daniel"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/18/149006-venerable-daniel-the-hesychast",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "kalliniki-and-basilissa-2",
+  "kind": "repose",
+  "subjects": [
+    "person:kalliniki",
+    "person:basilissa-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 22
+  },
+  "external_ids": {
+    "oca": "205347"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/22/205347-martyrs-kalliniki-and-basilissa",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

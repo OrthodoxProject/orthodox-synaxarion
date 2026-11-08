@@ -1,0 +1,29 @@
+{
+  "id": "blaise-of-sebaste",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Vlasie, Episcopul Sevastiei",
+    "full": "Sfântul Ierarh Vlasie, Episcopul Sevastiei",
+    "short": "Vlasie, Episcopul Sevastiei",
+    "given": "Vlasie",
+    "variants": [
+      "Sf. Sfințit Mc. Vlasie, episcopul Sevastiei"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-vlasie-episcopul-sevastiei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-sfintit-mc-vlasie-episcopul-sevastiei-sf-teodora-imparateasa/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

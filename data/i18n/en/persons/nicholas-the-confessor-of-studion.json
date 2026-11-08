@@ -1,0 +1,20 @@
+{
+  "id": "nicholas-the-confessor-of-studion",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Nicholas the Confessor, Abbot of Studion",
+    "short": "Nicholas the Confessor, Abbot of Studion",
+    "given": "Nicholas"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/04/100429-venerable-nicholas-the-confessor-abbot-of-studion",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

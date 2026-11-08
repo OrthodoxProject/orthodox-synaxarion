@@ -1,0 +1,41 @@
+{
+  "id": "theodora-of-sihla",
+  "kind": "saint",
+  "gender": "female",
+  "holiness_types": [
+    "venerable"
+  ],
+  "external_ids": {
+    "doxologia": "sfanta-cuvioasa-teodora-de-la-sihla",
+    "oca": "149013"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-teodora-de-la-sihla",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-teodora-de-la-sihla-%e2%80%a0-sf-cuv-pafnutie-parvu-zugravul-sf-cuv-mc-dometie-persul-sf-ier-narcis-arhiepiscopul-ierusalimului-sf-cuv-nicanor/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/07/149013-saint-theodora-of-sihla",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/romanian_saints.json",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org, orthodox-calendar; de verificat."
+    ]
+  }
+}

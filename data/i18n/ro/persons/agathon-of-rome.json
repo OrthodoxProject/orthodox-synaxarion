@@ -1,0 +1,21 @@
+{
+  "id": "agathon-of-rome",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Agaton, Episcopul Romei",
+    "full": "Sfântul Ierarh Agaton, Episcopul Romei",
+    "short": "Agaton, Episcopul Romei",
+    "given": "Agaton"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-agaton-episcopul-romei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

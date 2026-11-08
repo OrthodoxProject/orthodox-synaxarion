@@ -1,0 +1,26 @@
+{
+  "id": "aquila-of-the-seventy",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ap. Achila",
+    "full": "Sfântul Apostol Achila",
+    "short": "Achila",
+    "given": "Achila"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-apostol-achila",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ap-achila-sf-mc-iust-si-iraclie-sf-cuv-nicodim-aghioritul/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

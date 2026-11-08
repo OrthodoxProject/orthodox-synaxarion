@@ -1,0 +1,18 @@
+{
+  "id": "pope-peter-vii-the-one-hundred-and-ninth",
+  "locale": "en",
+  "names": {
+    "display": "Pope Peter (Petros) VII, the One Hundred and Ninth Patriarch"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/7_28.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

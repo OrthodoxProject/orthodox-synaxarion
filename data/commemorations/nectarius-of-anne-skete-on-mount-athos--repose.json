@@ -1,0 +1,29 @@
+{
+  "id": "nectarius-of-anne-skete-on-mount-athos--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:nectarius-of-anne-skete-on-mount-athos"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 10
+  },
+  "external_ids": {
+    "oca": "102001"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/10/102001-monastic-martyr-nectarius-of-saint-anne-skete-on-mount-athos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

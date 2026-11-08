@@ -1,0 +1,20 @@
+{
+  "id": "eulogius-of-edessa",
+  "locale": "en",
+  "names": {
+    "display": "Confessor Eulogius, Bishops of Edessa",
+    "short": "Eulogius, Bishops of Edessa",
+    "given": "Eulogius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/25/102394-confessors-barses-and-eulogius-bishops-of-edessa-and-protogenes",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

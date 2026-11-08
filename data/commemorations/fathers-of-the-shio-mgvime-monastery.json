@@ -1,0 +1,29 @@
+{
+  "id": "fathers-of-the-shio-mgvime-monastery",
+  "kind": "repose",
+  "subjects": [
+    "group:fathers-of-the-shio-mgvime-monastery"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 4
+  },
+  "external_ids": {
+    "oca": "103806"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/04/103806-holy-fathers-of-the-shio-mgvime-monastery",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

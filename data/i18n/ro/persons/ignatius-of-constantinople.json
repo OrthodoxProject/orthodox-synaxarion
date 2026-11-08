@@ -1,0 +1,21 @@
+{
+  "id": "ignatius-of-constantinople",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ignatie, Patriarhul Constantinopolului",
+    "full": "Sfântul Ierarh Ignatie, Patriarhul Constantinopolului",
+    "short": "Ignatie, Patriarhul Constantinopolului",
+    "given": "Ignatie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-ignatie-patriarhul-constantinopolului",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

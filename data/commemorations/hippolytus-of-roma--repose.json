@@ -1,0 +1,39 @@
+{
+  "id": "hippolytus-of-roma--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:hippolytus-of-roma"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 30
+  },
+  "external_ids": {
+    "oca": "100351"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-sfintit-mucenic-ipolit-episcopul-romei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sfintii-trei-ierarhi-vasile-cel-mare-grigorie-teologul-si-ioan-gura-de-aur-sf-sfintit-mc-ipolit-episcopul-romei/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/30/100351-hieromartyr-hippolytus-and-those-with-him",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+    ]
+  }
+}

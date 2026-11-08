@@ -1,0 +1,31 @@
+{
+  "tradition": "ecumenical",
+  "date": "06-10",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:timothy-of-prusa--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:alexander--repose",
+        "comm:antonina-at-constantinople--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:theophanes-and-pansemnia-of-antiohia"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:synaxis-of-saints-of-siberia"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

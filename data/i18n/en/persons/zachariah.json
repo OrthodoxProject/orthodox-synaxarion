@@ -1,0 +1,20 @@
+{
+  "id": "zachariah",
+  "locale": "en",
+  "names": {
+    "display": "New Martyr Zachariah",
+    "short": "Zachariah",
+    "given": "Zachariah"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/20/109031-new-martyr-zachariah",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

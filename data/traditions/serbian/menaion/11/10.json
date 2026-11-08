@@ -1,0 +1,27 @@
+{
+  "tradition": "serbian",
+  "date": "11-10",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:arsenius-i-the-syrmian--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:erastus-the-apostle--repose",
+        "comm:olympas-the-apostle--repose",
+        "comm:herodion-the-apostle--repose",
+        "comm:sosipater-the-apostle--repose",
+        "comm:tertius-the-apostle--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:orestes--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

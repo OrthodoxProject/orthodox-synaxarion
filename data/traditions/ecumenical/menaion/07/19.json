@@ -1,0 +1,24 @@
+{
+  "tradition": "ecumenical",
+  "date": "07-19",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:seraphim-of-sarov--finding-of-relics"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:macrina--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:dius-of-antioch--repose"
+      ],
+      "confidence": "low"
+    }
+  ]
+}

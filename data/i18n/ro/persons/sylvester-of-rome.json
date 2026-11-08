@@ -1,0 +1,29 @@
+{
+  "id": "sylvester-of-rome",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Silvestru, Episcopul Romei",
+    "full": "Sfântul Ierarh Silvestru, Episcopul Romei",
+    "short": "Silvestru, Episcopul Romei",
+    "given": "Silvestru",
+    "variants": [
+      "Sf. Ier. Silvestru, episcopul Romei"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-silvestru-episcopul-romei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/inainte-praznuirea-botezului-domnului-sf-ier-silvestru-episcopul-romei-sf-cuv-serafim-de-sarov/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

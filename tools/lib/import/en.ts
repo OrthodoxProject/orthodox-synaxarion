@@ -189,6 +189,16 @@ const COUNTRY = new RegExp(`^(?:${COUNTRIES})\\b`);
 const PLACE_AT_END = new RegExp(`\\b(?:of|at|in) \\p{Lu}[\\p{L}'’-]*(?:, (?:${COUNTRIES}))*$`, "u");
 
 const FEMALE_EN = /(a|ia|ina|issa|ine|ia\)|ah)$/;
+/** Women's names that the endings above do not tell, as the sources spell them ("Mary", "Irene", "Euphrosynē"). */
+const FEMALE_NAMES = new Set([
+  "agape", "agnes", "archelais", "ariadne", "brigid", "calliope", "callisthene", "cassiani", "charis", "chryse",
+  "damaris", "dinar", "dorothy", "drosis", "eanswythe", "eksani", "eleni", "elizabeth", "endellion", "epicharis",
+  "epistemis", "eroteis", "erotiis", "euphrosyne", "felicitas", "gaiane", "genevieve", "golinduc", "helen", "heliconis",
+  "herais", "hermione", "hypomone", "irais", "irene", "kalliniki", "kassiani", "ketevan", "kyriake", "liubov",
+  "lucy", "manatho", "mariamne", "markiane", "mary", "myrope", "nino", "oraiozele", "pansemne", "paraskevi",
+  "philothei", "phoebe", "photini", "pistis", "platonis", "polyxeni", "potamiani", "prosdoce", "rhipsime", "salome",
+  "thais", "theoktiste", "theophano", "theopiste", "theotime", "thomais", "xanthippi", "zoe",
+]);
 const MALE_ENDING_A = new Set([
   "savva",
   "sava",
@@ -236,12 +246,12 @@ const MALE_ENDING_A = new Set([
   "nicola",
   "ilia",
   "agathangela",
-  "theodosia",
 ]);
 
 export function genderOfEnName(given: string): Gender | undefined {
   const g = fold(given);
-  if (MALE_ENDING_A.has(g)) return g === "theodosia" ? "female" : "male";
+  if (FEMALE_NAMES.has(g)) return "female";
+  if (MALE_ENDING_A.has(g)) return "male";
   if (FEMALE_EN.test(g)) return "female";
   return undefined;
 }

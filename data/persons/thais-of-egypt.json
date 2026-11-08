@@ -1,7 +1,7 @@
 {
   "id": "thais-of-egypt",
   "kind": "saint",
-  "gender": "male",
+  "gender": "female",
   "holiness_types": [
     "venerable"
   ],
@@ -24,8 +24,7 @@
     "status": "draft",
     "confidence": "low",
     "notes": [
-      "Importat automat din oca.org; de verificat.",
-      "Genul nu reiese din sursă; e de verificat."
+      "Importat automat din oca.org; de verificat."
     ]
   }
 }

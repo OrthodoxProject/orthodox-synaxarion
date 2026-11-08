@@ -1,7 +1,7 @@
 {
   "id": "salome-the-georgian",
   "kind": "saint",
-  "gender": "male",
+  "gender": "female",
   "holiness_types": [
     "martyr"
   ],
@@ -19,8 +19,7 @@
     "status": "draft",
     "confidence": "low",
     "notes": [
-      "Importat automat din oca.org; de verificat.",
-      "Genul nu reiese din sursă; e de verificat."
+      "Importat automat din oca.org; de verificat."
     ]
   }
 }

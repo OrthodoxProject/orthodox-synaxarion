@@ -1,8 +1,10 @@
 import assert from "node:assert/strict";
-import { join } from "node:path";
+import { cpSync, mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs";
+import { tmpdir } from "node:os";
+import { dirname, join } from "node:path";
 import { describe, it } from "node:test";
 import type { FastingLevel } from "../tools/lib/calendar.ts";
-import { Builder } from "../tools/lib/import/build.ts";
+import { Builder, namesForerunner, namesTheotokos } from "../tools/lib/import/build.ts";
 import { parseEn } from "../tools/lib/import/en.ts";
 import { loadExisting } from "../tools/lib/import/existing.ts";
 import { fastingNote, mergeFasting, officialFasting } from "../tools/lib/import/fasting.ts";
@@ -13,7 +15,7 @@ import { isAllowed, parseRobots } from "../tools/lib/import/robots.ts";
 import { parseMonth } from "../tools/lib/import/sources/doxologia.ts";
 import { parseDay } from "../tools/lib/import/sources/oca.ts";
 import { splitTitle, type PatriarhiaDay, type PatriarhiaItem } from "../tools/lib/import/sources/patriarhia.ts";
-import { cleanOverlayTitle, copticUnits, doxologiaUnits, julianMenaionDate, ocaUnits, overlayUnits, parseCopticTitle, type SourceData } from "../tools/lib/import/units.ts";
+import { armenianUnits, cleanOverlayTitle, copticUnits, doxologiaUnits, julianMenaionDate, ocaUnits, overlayUnits, parseCopticTitle, type SourceData } from "../tools/lib/import/units.ts";
 import { REPO_ROOT } from "../tools/lib/validate.ts";
 
 describe("robots.txt", () => {
@@ -436,5 +438,160 @@ describe("matching the sources", () => {
     assert.deepEqual(persons, ["persons/luke-the-stylite.json", "persons/theodore.json", "persons/timothy.json"]);
     const lazarus = line("02/21")[0]?.[0]?.replace(/^comm:/, "");
     assert.notEqual(output.files.get(`commemorations/${lazarus}.json`)?.kind, "repose");
+  });
+});
+
+describe("Coptic and Armenian lines on universal saints", () => {
+  it("name the Theotokos only when they are about her", () => {
+    const hers = [
+      "The Commemoration of the Virgin St. Mary, the Theotokos.",
+      "Commemoration of the Theotokos and Ever-Virgin St. Mary",
+      "The Dormition of Our Lady, the Virgin Mary, the Theotokos.",
+      "The Apparition of the Pure Lady the Virgin in the church of Zeiton.",
+      "The Commemoration of the Consecration of the Church of the Virgin Lady known as El-Mahammah.",
+      "The Commemoration of the Virgin, the Mother of God",
+      "Feast of the Discovery of St. Mary’s Box",
+      "Birth of St. Mary from Anna",
+    ];
+    for (const title of hers) assert.equal(namesTheotokos(title), true, title);
+    const others = [
+      "The Departure of St. Mary of Egypt.",
+      "The Departure of St. Mary Magdalene.",
+      "The Martyrdom of St. Mary, the Armenian.",
+      "The Martyrdom of St. Mary the Israelite.",
+      "The Commemoration of the Departure of St. Mary Known as Marina, the Ascetic.",
+      "The Martyrdom of St. Melitina the Virgin.",
+      "The Departure of St. Euphrasia (Eupraxia), the virgin.",
+      "The Martyrdom of St. Arbsima (Repsima) the Virgin and Her Sisters the Virgins",
+      "Commemoration of the Apostle Thaddeus and the Virgin Sandoukht",
+      "The Departure of St. Anna (Hannah), the mother of the Theotokos.",
+      "Commemoration of Sts. Joachim and Anna, Parents of the Holy Mother of God, and Oil-Bringing Women",
+    ];
+    for (const title of others) assert.equal(namesTheotokos(title), false, title);
+  });
+
+  it("tell St John the Baptist from the saints named after him", () => {
+    assert.equal(namesForerunner("Saint John, the Baptist"), true);
+    assert.equal(namesForerunner("Saint John the Forerunner (Baptist)"), true);
+    assert.equal(namesForerunner("Beheading of St. John the Baptist"), true);
+    assert.equal(namesForerunner("Prophets Ezekiel, Ezra and Zechariah - St. John the Baptist’s Father"), false);
+    assert.equal(namesForerunner("Zacharias, the father of St. John the Baptist"), false);
+    assert.equal(namesForerunner("Saint John, the Short"), false);
+  });
+
+  it("read the angels' annunciation to Zacharias as an event of St John the Baptist", () => {
+    const p = parseCopticTitle("The Angels' Annunciation of John the Baptist to Zacharias");
+    assert.equal(p.kind, "event");
+    assert.equal(p.subject?.names[0]?.text, "John the Baptist");
+  });
+
+  /** The minimal fixture with more records, in a temporary folder. */
+  const fixtureWith = (records: Record<string, unknown>): string => {
+    const dir = mkdtempSync(join(tmpdir(), "synaxarion-import-"));
+    cpSync(join(REPO_ROOT, "tests", "fixtures", "minimal", "data"), dir, { recursive: true });
+    for (const [rel, value] of Object.entries(records)) {
+      mkdirSync(dirname(join(dir, rel)), { recursive: true });
+      writeFileSync(join(dir, rel), JSON.stringify(value));
+    }
+    return dir;
+  };
+  const person = (id: string, holiness: string[], en: string, ro?: string): Record<string, unknown> => ({
+    [`persons/${id}.json`]: { id, kind: id === "theotokos" ? "theotokos" : "saint", holiness_types: holiness },
+    [`i18n/en/persons/${id}.json`]: { id, locale: "en", names: { display: en } },
+    ...(ro ? { [`i18n/ro/persons/${id}.json`]: { id, locale: "ro", names: { display: ro } } } : {}),
+  });
+
+  it("point to the Theotokos, to St John the Baptist or to the saints they name", () => {
+    const dir = fixtureWith({
+      ...person("theotokos", [], "Theotokos", "Maica Domnului"),
+      // His mother and father are named after him; another John is an apostle.
+      ...person("elizabeth-the-prophet", ["righteous", "prophet"], "Holy Prophet Elizabeth, parents of Saint John the Baptist", "Dreapta Elisabeta, mama Sfântului Ioan Botezătorul"),
+      ...person("john-the-baptist", ["prophet"], "Holy Prophet, Forerunner, and Baptist John", "Sf. Proroc Ioan Botezătorul"),
+      ...person("john-the-theologian", ["apostle", "evangelist"], "Apostle and Evangelist John the Theologian", "Sf. Ap. și Ev. Ioan"),
+      ...person("zachariah-the-prophet-2", ["prophet"], "Holy Prophet Zachariah", "Sf. Proroc Zaharia, tatăl Sfântului Ioan Botezătorul"),
+    });
+    try {
+      const coptic: SourceData["coptic"] = [
+        { month: 6, day: 21, n: 1, title: "The Commemoration of the Virgin St. Mary." },
+        { month: 7, day: 21, n: 1, title: "Commemoration of the Theotokos and Ever-Virgin St. Mary" },
+        { month: 8, day: 6, n: 2, title: "The Departure of St. Mary of Egypt." },
+        { month: 3, day: 11, n: 1, title: "The Departure of St. Anna (Hannah), the mother of the Theotokos." },
+        { month: 6, day: 25, n: 1, title: "The Martyrdom of Sts. Archippus, Philemon and Lycia the Virgin." },
+        { month: 1, day: 2, n: 1, title: "The Martyrdom of St. John the Baptist." },
+        { month: 1, day: 26, n: 1, title: "The Angels' Annunciation of John the Baptist to Zacharias" },
+        { month: 10, day: 30, n: 1, title: "The Nativity of St. John, the Baptist." },
+      ];
+      const armenianPage = "https://armenianchurch.ge/en/kalendar-prazdnikov/description-2/";
+      const armenian: SourceData["armenian"] = [
+        { slug: "sandoukht", url: `${armenianPage}july/sandoukht`, month: "july", order: 1, title: "Commemoration of the Apostle Thaddeus and the Virgin Sandoukht" },
+        { slug: "feastofthebirth", url: `${armenianPage}january/feastofthebirth`, month: "january", order: 2, title: "Feast of the Birth of St. John the Forerunner (Baptist)" },
+        { slug: "beheading", url: `${armenianPage}april/beheading`, month: "april", order: 3, title: "Commemoration of Beheading of St. John the Baptist" },
+      ];
+      const data: SourceData = { accessed: "2026-11-08", patriarhia: [], doxologia: [], oca: [], coptic, armenian, overlays: [] };
+      const existing = loadExisting(dir);
+      const builder = new Builder(existing);
+      builder.coptic(copticUnits(data));
+      builder.armenian(armenianUnits(data));
+      const output = new RecordWriter(existing, { clusters: builder.clusters, lines: builder.lines, movable: builder.movable, stats: builder.stats }).write();
+      const records = [...output.files].filter(([path]) => path.startsWith("commemorations/")).map(([, rec]) => rec);
+      const of = (url: string): Record<string, any> | undefined => records.find((r) => r.sources.some((s: { url?: string }) => s.url === url));
+      const subjects = (url: string): string[] => of(url)?.subjects ?? [];
+      const copticLine = (anchor: string): string => `https://www.copticchurch.net/synaxarium/${anchor.replace("#", ".html?lang=en#")}`;
+
+      // Lines about her name her alone, without a group of her names.
+      assert.deepEqual(subjects(copticLine("6_21#1")), ["person:theotokos"]);
+      assert.deepEqual(subjects(copticLine("7_21#1")), ["person:theotokos"]);
+      assert.deepEqual([...output.files.keys()].filter((k) => k.startsWith("groups/")).sort(), ["groups/apostle-thaddeus-and-the-virgin-sandoukht.json", "groups/archippus-philemon-and-lycia-the-virgin.json"]);
+      // Other Maries, her mother and the virgin saints are the saints of their lines.
+      assert.deepEqual(subjects(copticLine("8_6#2")), ["person:mary-of-egypt"]);
+      assert.equal(output.files.get("i18n/en/persons/mary-of-egypt.json")?.names.display, "Saint Mary of Egypt");
+      assert.deepEqual(subjects(copticLine("3_11#1")), ["person:anna"]);
+      assert.deepEqual(of(copticLine("6_25#1"))?.subjects, ["group:archippus-philemon-and-lycia-the-virgin"]);
+      assert.equal(of(copticLine("6_25#1"))?.kind, "repose");
+      assert.deepEqual(subjects(`${armenianPage}july/sandoukht`), ["group:apostle-thaddeus-and-the-virgin-sandoukht"]);
+
+      // St John the Baptist, not his father or his mother, nor the apostle John.
+      assert.deepEqual(subjects(copticLine("1_2#1")), ["person:john-the-baptist"]);
+      assert.equal(of(copticLine("1_2#1"))?.kind, "repose");
+      for (const url of [copticLine("1_26#1"), copticLine("10_30#1"), `${armenianPage}january/feastofthebirth`]) {
+        assert.deepEqual(subjects(url), ["person:john-the-baptist"], url);
+        assert.equal(of(url)?.kind, "event", url);
+      }
+      assert.deepEqual(subjects(`${armenianPage}april/beheading`), ["person:john-the-baptist"]);
+      assert.deepEqual([...output.files.keys()].filter((k) => k.startsWith("persons/")).sort(), ["persons/anna.json", "persons/mary-of-egypt.json"]);
+    } finally {
+      rmSync(dir, { recursive: true, force: true });
+    }
+  });
+
+  it("find an existing Coptic saint for a new Coptic line about him", () => {
+    const copticDay = (id: string, month: number, day: number): Record<string, unknown> => ({
+      [`commemorations/${id}.json`]: { id, kind: "repose", subjects: [`person:${id.split("--")[0]}`], date_rule: { type: "fixed", month, day, calendar: "coptic" } },
+      [`traditions/coptic/menaion/${String(month).padStart(2, "0")}/${String(day).padStart(2, "0")}.json`]: { tradition: "coptic", date: `${String(month).padStart(2, "0")}-${String(day).padStart(2, "0")}`, entries: [{ commemorations: [`comm:${id}`] }] },
+    });
+    const dir = fixtureWith({
+      ...person("severus-of-antioch", ["hierarch"], "Saint Severus, Patriarch of Antioch"),
+      ...copticDay("severus-of-antioch--repose", 6, 14),
+      // A prophet known only from the Coptic Synaxarium is still the prophet.
+      ...person("joshua-son-of-nun", ["prophet"], "Great Prophet Joshua Son of Nun"),
+      ...copticDay("joshua-son-of-nun--repose", 1, 1),
+    });
+    try {
+      const coptic: SourceData["coptic"] = [
+        { month: 7, day: 10, n: 1, title: "The Relocation of the Body of St. Severus, Patriarch of Antioch, to the Monastery of El-Zugag." },
+        { month: 10, day: 26, n: 1, title: "The Departure of the Great Prophet Joshua Son of Nun." },
+      ];
+      const data: SourceData = { accessed: "2026-11-08", patriarhia: [], doxologia: [], oca: [], coptic, armenian: [], overlays: [] };
+      const existing = loadExisting(dir);
+      assert.equal(existing.persons.get("severus-of-antioch")?.family, "coptic");
+      const builder = new Builder(existing);
+      builder.coptic(copticUnits(data));
+      const output = new RecordWriter(existing, { clusters: builder.clusters, lines: builder.lines, movable: builder.movable, stats: builder.stats }).write();
+      assert.deepEqual(output.files.get("commemorations/severus-of-antioch--translation-of-relics.json")?.subjects, ["person:severus-of-antioch"]);
+      assert.deepEqual(output.files.get("commemorations/joshua-son-of-nun--coptic.json")?.subjects, ["person:joshua-son-of-nun"]);
+      assert.deepEqual([...output.files.keys()].filter((k) => k.startsWith("persons/")), []);
+    } finally {
+      rmSync(dir, { recursive: true, force: true });
+    }
   });
 });

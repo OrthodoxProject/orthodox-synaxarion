@@ -214,6 +214,9 @@ export function copticUnits(data: SourceData): Unit[] {
 export function parseCopticTitle(title: string): ParsedTitle {
   const t = title.replace(/\.$/, "").trim();
   const event: ParsedTitle = { kind: "event", holiness: [], plural: false, honorific: "", rest: t, names: [], title };
+  // "The Angels' Annunciation of John the Baptist to Zacharias": an event of the saint announced.
+  const announced = /^(?:The )?(?:Angels?['’]s? )?Annunciation of (?:the )?(.+?) to \p{Lu}/u.exec(t);
+  if (announced?.[1]) return { ...event, subject: parseEn(stripCopticTitles(announced[1])) };
   // Councils, churches, earthquakes …: events, not saints.
   if (/^(?:The |A )?(?:Assembly|Council|Synod|Re-?Opening|Opening|Building|Construction|Consecration|Dedication|Earthquake|Great Earthquake|Feast|Miracle|Arrival|Coming|Flight|Entrance|Appearance of the Body|Renewal|Restoration|Pilgrimage)\b/i.test(t) && !/\bof (?:St\.?|Saint|Sts\.?|Saints|the (?:Holy |Great )?(?:Martyr|Apostle|Prophet|Archangel))\b/i.test(t)) {
     return event;

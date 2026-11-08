@@ -1,0 +1,20 @@
+{
+  "id": "mary-known-as-marina",
+  "locale": "en",
+  "names": {
+    "display": "Saint Mary Known as Marina, the Ascetic",
+    "short": "Mary Known as Marina, the Ascetic",
+    "given": "Mary"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/12_15.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

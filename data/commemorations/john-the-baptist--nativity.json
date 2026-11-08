@@ -1,0 +1,33 @@
+{
+  "id": "john-the-baptist--nativity",
+  "kind": "event",
+  "subjects": [
+    "person:john-the-baptist"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 30,
+    "calendar": "coptic"
+  },
+  "external_ids": {
+    "copticchurch": "10_30#1"
+  },
+  "sources": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/10_30.html?lang=en#1",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din copticchurch.net; de verificat."
+    ]
+  },
+  "aliases": [
+    "zachariah-the-prophet-2--coptic-coptic-2"
+  ]
+}

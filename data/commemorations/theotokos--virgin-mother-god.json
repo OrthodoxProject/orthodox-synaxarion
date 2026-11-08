@@ -2,8 +2,7 @@
   "id": "theotokos--virgin-mother-god",
   "kind": "event",
   "subjects": [
-    "person:theotokos",
-    "group:virgin-the-mother-of-god"
+    "person:theotokos"
   ],
   "date_rule": {
     "type": "fixed",

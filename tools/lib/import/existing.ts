@@ -56,8 +56,7 @@ function partsOf(texts: string[], lang: "ro" | "en"): NamePart[] {
   return out;
 }
 
-function personSlot(ds: Dataset, id: string, rec: Rec): Slot {
-  const family: Family = "byzantine";
+function personSlot(ds: Dataset, id: string, rec: Rec, family: Family): Slot {
   const slot = newSlot(family);
   slot.existingPerson = id;
   slot.personId = id;
@@ -148,7 +147,8 @@ export function loadExisting(dataDir: string): Existing {
     }
   }
 
-  for (const [id, rec] of ds.records.get("persons") ?? []) existing.persons.set(id, personSlot(ds, id, rec));
+  const families = personFamilies(ds, existing);
+  for (const [id, rec] of ds.records.get("persons") ?? []) existing.persons.set(id, personSlot(ds, id, rec, families.get(id) ?? "byzantine"));
   for (const [id, rec] of ds.records.get("groups") ?? []) existing.groups.set(id, groupSubject(ds, id, rec));
 
   for (const [id, rec] of ds.records.get("commemorations") ?? []) {
@@ -241,6 +241,41 @@ export function loadExisting(dataDir: string): Existing {
     }
   }
   return existing;
+}
+
+/** The family of calendars a tradition belongs to, as the importers group the sources. */
+function traditionFamily(tradition: string): Family {
+  return tradition === "coptic" ? "coptic" : tradition === "armenian" ? "armenian" : "byzantine";
+}
+
+/**
+ * The family of each person, from the calendars that keep its commemorations:
+ * a saint known only from the Coptic Synaxarium is a Coptic saint, so that a
+ * new Coptic line about him finds him. The apostles and prophets, also named
+ * by Coptic and Armenian lines, stay Byzantine.
+ */
+function personFamilies(ds: Dataset, existing: Existing): Map<string, Family> {
+  const placed = new Map<string, Set<Family>>();
+  const place = (ref: string, tradition: string): void => {
+    const id = ref.replace(/^comm:/, "");
+    placed.set(id, (placed.get(id) ?? new Set<Family>()).add(traditionFamily(tradition)));
+  };
+  for (const [tradition, byDate] of existing.menaion) for (const lines of byDate.values()) for (const line of lines) for (const ref of line.commemorations) place(ref, tradition);
+  for (const [tradition, doc] of existing.movable) for (const line of (doc.entries ?? []) as ExistingLine[]) for (const ref of line.commemorations) place(ref, tradition);
+  const seen = new Map<string, Set<Family>>();
+  for (const [id, rec] of ds.records.get("commemorations") ?? []) {
+    const families = placed.get(id) ?? new Set<Family>([rec.date_rule?.calendar === "coptic" ? "coptic" : "byzantine"]);
+    for (const subject of (rec.subjects ?? []) as string[]) {
+      if (!subject.startsWith("person:")) continue;
+      const pid = subject.slice("person:".length);
+      const set = seen.get(pid) ?? new Set<Family>();
+      for (const f of families) set.add(f);
+      seen.set(pid, set);
+    }
+  }
+  const out = new Map<string, Family>();
+  for (const [pid, set] of seen) out.set(pid, set.has("byzantine") ? "byzantine" : set.has("coptic") ? "coptic" : "armenian");
+  return out;
 }
 
 function addExact(existing: Existing, key: string, c: Cluster): void {

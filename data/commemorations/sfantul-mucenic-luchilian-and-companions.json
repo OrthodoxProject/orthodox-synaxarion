@@ -9,18 +9,34 @@
     "month": 6,
     "day": 3
   },
+  "external_ids": {
+    "oca": "101571"
+  },
   "sources": [
     {
       "source": "src:doxologia",
       "url": "https://doxologia.ro/sfantul-mucenic-luchilian-cei-impreuna-cu-el-patru-tineri-ipatie-paul-dionisie-claudie",
       "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-luchilian-ipatie-si-paula-fecioara-harti/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/03/101571-martyr-lucillian-and-those-who-suffered-with-him-at-byzantium",
+      "accessed": "2026-11-08"
     }
   ],
   "editorial": {
     "status": "draft",
-    "confidence": "low",
+    "confidence": "medium",
     "notes": [
-      "Importat automat din doxologia.ro; de verificat."
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "lucillian-and-ipatie-2"
+  ]
 }

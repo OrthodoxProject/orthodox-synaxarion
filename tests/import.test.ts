@@ -77,6 +77,18 @@ describe("Romanian titles", () => {
     // After the name it follows, the relation stays with that name.
     assert.deepEqual(parseRo("Sf. Mc. Filit și Lidia, soția sa, cu cei 4 fii ai lor").names.map((n) => n.text), ["Filit", "Lidia, soția sa"]);
   });
+  it("reads the companions that a colon names after a saint, one after each comma", () => {
+    const luchilian = parseRo("Sfântul Mucenic Luchilian și cei împreună cu el patru tineri: Ipatie, Paul, Dionisie și Claudie");
+    assert.equal(luchilian.kind, "group");
+    assert.deepEqual(luchilian.names.map((n) => n.text), ["Luchilian", "Ipatie", "Paul", "Dionisie", "Claudie"]);
+    assert.deepEqual(parseRo("Sfântul Mare Mucenic Eustatie și soția sa Teopista, cu cei doi fii: Agapie și Teopist").names.map((n) => n.text), ["Eustatie", "Teopista", "Agapie", "Teopist"]);
+    // Daughters are women, whatever their names end in.
+    const sofia = parseRo("Sfânta Muceniță Sofia și fiicele sale: Pistis, Elpis și Agapis");
+    assert.equal(sofia.kind, "saints");
+    assert.deepEqual(sofia.names.map((n) => [n.text, n.gender]), [["Sofia", "female"], ["Pistis", "female"], ["Elpis", "female"], ["Agapis", "female"]]);
+    // A colon that announces nobody still introduces words about the saint.
+    assert.deepEqual(parseRo("Sfântul Ierarh Nectarie: Episcopul Pentapolei").names.map((n) => n.text), ["Nectarie, Episcopul Pentapolei"]);
+  });
   it("keeps offices with the name", () => {
     const p = parseRo("Sfântul Ierarh Vasile cel Mare, Arhiepiscopul Cezareei Capadociei");
     assert.equal(p.kind, "saint");
@@ -555,6 +567,39 @@ describe("matching the sources", () => {
       // Neonila is the only person: Terentie is the group's.
       const output = new RecordWriter(existing, { clusters: builder.clusters, lines: builder.lines, movable: builder.movable, stats: builder.stats }).write();
       assert.equal([...output.files.keys()].filter((k) => k.startsWith("persons/")).length, 1);
+    }
+  });
+
+  it("gives an official line the group of another source whose title names the line's saint after a colon (3 June: Luchilian, Ipatie and Paula)", () => {
+    const title = "Sf. Mc. Luchilian, Ipatie și Paula fecioara (Harți)";
+    const group = "Sfântul Mucenic Luchilian și cei împreună cu el patru tineri: Ipatie, Paul, Dionisie și Claudie";
+    const doxologia = [group, "Sfânta Muceniță Paula fecioara"];
+    for (const order of [doxologia, [...doxologia].reverse()]) {
+      const sources: SourceData = {
+        ...data,
+        patriarhia: [{ year: 2026, month: 6, day: 3, url: "https://calendar.patriarhia.ro/calendar-entry-26/3-iunie/", items: [{ text: title, cross: null, color: "black" }], title, subtitle: "", publicHoliday: false }],
+        doxologia: order.map((t, i) => ({ slug: `doxologia-${i}`, title: t, month: 6, day: 3, order: i, color: null, cross: null, secondRow: false })),
+        oca: [2026, 2028].map((year) => ({ id: "101571", title: "Martyr Lucillian and those who suffered with him at Byzantium", path: `/saints/lives/${year}/06/03/101571-martyr-lucillian`, year, month: 6, day: 3, order: 0 })),
+      };
+      const existing = loadExisting(join(REPO_ROOT, "tests", "fixtures", "minimal", "data"));
+      const builder = new Builder(existing);
+      builder.romanian(doxologiaUnits(sources), patriarhiaUnits(sources), [{ month: 6, day: 3 }]);
+      builder.russian(ocaUnits(sources, [2026, 2028]).fixed);
+      // One line, in the order of the official title: the group (Ipatie is one of its four youths), then Paula, who is not its Paul.
+      const lines = builder.lines.get("romanian")?.get("06-03") ?? [];
+      assert.equal(lines.length, 1);
+      assert.equal(lines[0]?.title, "Sf. Mc. Luchilian, Ipatie și Paula fecioara");
+      assert.deepEqual(
+        lines[0]?.clusters.map((c) => c.group?.ro ?? c.slots[0]?.ro?.display),
+        [group, "Sf. Mc. Paula fecioara"],
+      );
+      assert.equal(lines[0]?.clusters[0]?.ext.oca, "101571");
+      // Paula is the only person.
+      const output = new RecordWriter(existing, { clusters: builder.clusters, lines: builder.lines, movable: builder.movable, stats: builder.stats }).write();
+      assert.deepEqual(
+        [...output.files.keys()].filter((k) => k.startsWith("persons/")),
+        ["persons/paula-fecioara.json"],
+      );
     }
   });
 

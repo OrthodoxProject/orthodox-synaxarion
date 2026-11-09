@@ -4,7 +4,7 @@
   "subjects": [
     "person:silas-of-the-seventy",
     "person:silvanus-of-the-seventy",
-    "person:crescent-the-apostle",
+    "person:crescens-of-the-seventy",
     "person:epenetus-of-the-seventy",
     "person:andronicus-of-the-seventy"
   ],
@@ -39,6 +39,11 @@
     },
     {
       "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/30/102133-apostle-crescens-of-the-seventy",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/07/30/102134-apostle-epenetus-of-the-seventy",
       "accessed": "2026-11-08"
     },
@@ -54,5 +59,8 @@
     "notes": [
       "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "crescens-of-the-seventy--repose"
+  ]
 }

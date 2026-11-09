@@ -2,26 +2,19 @@
   "id": "uar",
   "locale": "en",
   "names": {
-    "display": "Martyr Uar",
-    "short": "Uar",
-    "given": "Uar"
+    "display": "Martyr Varus, and seven Monastic Martyrs with him",
+    "short": "Varus",
+    "given": "Varus"
   },
   "references": [
     {
-      "source": "src:doxologia",
-      "url": "https://doxologia.ro/sfantul-mucenic-uar",
-      "accessed": "2026-11-08"
-    },
-    {
-      "source": "src:calendar-patriarhia",
-      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-proroc-ioil-sf-mc-uar-sf-cleopatra-sf-cuv-ioan-de-la-rila/",
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/19/102998-martyr-varus-and-seven-monastic-martyrs-with-him",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "ro",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

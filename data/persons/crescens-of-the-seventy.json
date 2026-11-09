@@ -10,6 +10,16 @@
   },
   "sources": [
     {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfintii-apostoli-sila-silvan-crescent-epenet-andronic",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ap-sila-silvan-crescent-epenet-si-andronic-sf-sfintit-mc-valentin-episcopul-umbriei-lasatul-secului-pentru-postul-adormirii-maicii-domnului/",
+      "accessed": "2026-11-08"
+    },
+    {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/07/30/102133-apostle-crescens-of-the-seventy",
       "accessed": "2026-11-08"
@@ -19,8 +29,11 @@
     "status": "draft",
     "confidence": "low",
     "notes": [
-      "Importat automat din oca.org; de verificat.",
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat.",
       "Genul nu reiese din sursă; e de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "crescent-the-apostle"
+  ]
 }

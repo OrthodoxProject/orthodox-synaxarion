@@ -1,8 +1,10 @@
 {
-  "id": "romanus-the-martyr--finding-of-relics",
-  "locale": "ro",
+  "id": "herman-of-solovki",
+  "locale": "en",
   "names": {
-    "display": "Aflarea moaștelor Sf. Cuv. Gherman de la Solovăț"
+    "display": "Venerable Herman of Solovki",
+    "short": "Herman of Solovki",
+    "given": "Herman"
   },
   "references": [
     {
@@ -12,9 +14,7 @@
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "en",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

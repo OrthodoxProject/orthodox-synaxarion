@@ -1,0 +1,29 @@
+{
+  "id": "valentine-bishop-of-interamna-terni-in-italy-and",
+  "kind": "repose",
+  "subjects": [
+    "group:valentine-bishop-of-interamna-terni-in-italy-and"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 30
+  },
+  "external_ids": {
+    "oca": "102148"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/30/102148-hieromartyr-valentine-bishop-of-interamna-terni-in-italy-and-tho",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

@@ -2,19 +2,17 @@
   "id": "sfantul-mucenic-luchilian-and-companions",
   "locale": "en",
   "names": {
-    "display": "Martyr Lucillian and the four youths with him: Hypatius, Paul, Dionysius and Claudius"
+    "display": "Martyr Lucillian and those who suffered with him at Byzantium"
   },
   "references": [
     {
-      "source": "src:doxologia",
-      "url": "https://doxologia.ro/sfantul-mucenic-luchilian-cei-impreuna-cu-el-patru-tineri-ipatie-paul-dionisie-claudie",
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/03/101571-martyr-lucillian-and-those-who-suffered-with-him-at-byzantium",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "ro",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

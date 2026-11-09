@@ -1,8 +1,8 @@
 {
-  "id": "evdochia-2--translation-of-relics",
+  "id": "eudokia-of-persia--translation-of-relics",
   "kind": "relics_translation",
   "subjects": [
-    "person:evdochia-2"
+    "person:eudokia-of-persia"
   ],
   "date_rule": {
     "type": "fixed",
@@ -22,5 +22,8 @@
     "notes": [
       "Importat automat din doxologia.ro; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "evdochia-2--translation-of-relics"
+  ]
 }

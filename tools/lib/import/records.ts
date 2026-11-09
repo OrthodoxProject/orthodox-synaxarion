@@ -56,6 +56,8 @@ export class RecordWriter {
   readonly stats = new Map<string, number>();
   private readonly used = new Map<string, Set<string>>();
   private readonly allSlots: Slot[] = [];
+  /** The days ("MM-DD") on which the calendars keep each person, from the commemorations of the person. */
+  private readonly keptOn = new Map<Slot, Set<string>>();
   private readonly extraPersons = new Map<string, Slot>();
   private readonly existing: Existing;
   private readonly result: BuildResult;
@@ -102,6 +104,10 @@ export class RecordWriter {
         this.allSlots.push(slot);
       }
     }
+    for (const c of [...this.existing.clusters.values(), ...this.result.clusters]) {
+      if (c.month === 0) continue;
+      for (const slot of c.slots) this.keptOn.set(slot, (this.keptOn.get(slot) ?? new Set<string>()).add(mmdd(c.month, c.day)));
+    }
     // Persons named only by feasts must be known before the relics and events are resolved.
     for (const id of Object.keys(KNOWN_PERSONS)) this.knownPerson(id);
     for (const c of this.result.clusters) {
@@ -116,7 +122,7 @@ export class RecordWriter {
       }
       if (c.subjectSlots.length > 0 || c.subjectGroup) continue;
       const titles = c.subjectTitles;
-      const resolved = this.resolve(titles, c.family);
+      const resolved = this.resolve(titles, c.family, c.month > 0 ? mmdd(c.month, c.day) : undefined);
       if (resolved) c.subjectSlots.push(resolved);
     }
   }
@@ -147,7 +153,8 @@ export class RecordWriter {
     return slot;
   }
 
-  private findBest(p: ParsedTitle, lang: "ro" | "en", family: Family): Slot | undefined {
+  /** The person a title names, searched in the whole calendar of the family; `day` is the day of the line that names it. */
+  private findBest(p: ParsedTitle, lang: "ro" | "en", family: Family, day?: string): Slot | undefined {
     const part = p.names[0];
     if (!part) return undefined;
     const holiness = new Set(p.holiness);
@@ -185,19 +192,25 @@ export class RecordWriter {
     const best = scored[0];
     if (!best) return undefined;
     const second = scored[1];
-    // A first name alone must point to one saint only.
-    if (second && second.score >= best.score - 0.05 && best.score < 1.15) return undefined;
-    // No day confirms a saint found across the whole calendar: a similar first name is another saint the name
-    // may designate (above), but never the saint itself ("Herman" is not "Romanus": the name keys drop the H
+    // A first name alone must point to one saint only, or to one saint only among those that another line keeps
+    // on the line's own day: the relics of St Evdochia brought on 4 August are those of the Martyr Eudokia of
+    // Persia, whom the OCA keeps that day, not those of the Venerable Martyr Evdochia of 1 March.
+    if (second && second.score >= best.score - 0.05 && best.score < 1.15) {
+      const kept = day ? scored.filter((x) => x.score >= best.score - 0.05 && this.keptOn.get(x.slot)?.has(day)) : [];
+      const only = kept.length === 1 ? kept[0] : undefined;
+      return only?.sameName ? only.slot : undefined;
+    }
+    // Otherwise no day confirms a saint found across the whole calendar: a similar first name is another saint the
+    // name may designate (above), but never the saint itself ("Herman" is not "Romanus": the name keys drop the H
     // and a leading vowel, and both come out as R-M-N).
     if (!best.sameName) return undefined;
     return best.slot;
   }
 
-  private resolve(titles: ParsedTitle[], family: Family): Slot | undefined {
+  private resolve(titles: ParsedTitle[], family: Family, day?: string): Slot | undefined {
     for (const t of titles) {
       const lang = /[ăâîșțĂÂÎȘȚ]|Sfânt|Sf\.|Cuvios|Mucenic/.test(t.title) ? "ro" : "en";
-      const found = this.findBest(t, lang, family);
+      const found = this.findBest(t, lang, family, day);
       if (found) return found;
     }
     // Not found: a new person, known only through this commemoration — if the line names a saint at all.

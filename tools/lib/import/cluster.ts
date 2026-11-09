@@ -200,9 +200,14 @@ const EPITHETS: Array<[RegExp, string]> = [
   [/^(izvoratorul|myrrh-gusher|myrrh-streaming)$/, "myrrh"],
 ];
 
+/** Titles that stand for an epithet: the Coptic Synaxarium calls the Great Martyr George "Prince of the Martyrs". */
+const TITLE_EPITHETS: Array<[RegExp, string]> = [[/\bprince of (?:the )?martyrs\b/giu, "great"]];
+
 /** Normalised extra words of a name, for comparison across languages. */
 export function extraKeys(part: NamePart): string[] {
-  return part.text
+  let text = part.text;
+  for (const [re, word] of TITLE_EPITHETS) text = text.replace(re, word);
+  return text
     .split(/[\s,()]+/)
     .slice(1)
     .map((w) => fold(w).replace(/[^a-z-]/g, ""))

@@ -1,8 +1,8 @@
 {
-  "id": "evdochia-2--translation-of-relics",
-  "locale": "en",
+  "id": "eudokia-of-persia--translation-of-relics",
+  "locale": "ro",
   "names": {
-    "display": "Translation of the relics of the Martyr Eudocia"
+    "display": "Aducerea moaștelor Sfintei Mucenițe Evdochia"
   },
   "references": [
     {
@@ -12,9 +12,7 @@
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "ro",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

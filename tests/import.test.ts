@@ -67,6 +67,18 @@ describe("name keys", () => {
       assert.equal(givenSimilarity(a, b), 1, `${ro} / ${en}`);
     }
   });
+  it("knows the OCA spellings of Evdochia, Evdochim and Valent (Eudokia, Eudocimus, Valens)", () => {
+    for (const [ro, en] of [
+      ["Sfânta Cuvioasă Muceniță Evdochia", "Martyr Eudokia of Heliopolis"],
+      ["Sfântul și Dreptul Evdochim", "Righteous Eudocimus of Cappadocia"],
+      ["Sfântul Mucenic Valent diaconul", "Martyr Valens the Deacon"],
+    ]) {
+      const a = parseRo(ro ?? "").names[0];
+      const b = parseEn(en ?? "").names[0];
+      assert.ok(a && b);
+      assert.equal(givenSimilarity(a, b), 1, `${ro} / ${en}`);
+    }
+  });
 });
 
 describe("Romanian titles", () => {
@@ -717,6 +729,66 @@ describe("matching the sources", () => {
     assert.deepEqual(output.files.get("commemorations/romanus-the-martyr--repose.json")?.subjects, ["person:romanus-the-martyr"]);
   });
 
+  it("puts together the saints whose OCA spelling only the table of equivalents knows (1 March: Evdochia / Eudokia, 31 July: Evdochim / Eudocimus)", () => {
+    assert.deepEqual(pairsOf(["Sfânta Cuvioasă Muceniță Evdochia"], [["100625", "Martyr Eudokia of Heliopolis"]], 3, 1), { "Sf. Cuv. Mc. Evdochia": "Martyr Eudokia of Heliopolis" });
+    assert.deepEqual(pairsOf(["Sfântul și Dreptul Evdochim"], [["102154", "Righteous Eudocimus of Cappadocia"]], 7, 31), { "Sf. și Drept. Evdochim": "Righteous Eudocimus of Cappadocia" });
+  });
+
+  it("gives the OCA line of two saints and their companions to both saints of the official line (16 February: Pamfil and Valent, the OCA's Pamphilius and Valens)", () => {
+    const sources: SourceData = {
+      ...data,
+      doxologia: ["Sfântul Mucenic Pamfil preotul", "Sfântul Mucenic Valent diaconul"].map((title, order) => ({ slug: `doxologia-${order}`, title, month: 2, day: 16, order, color: null, cross: null, secondRow: false })),
+      oca: [2026, 2028].map((year) => ({ id: "100533", title: "Martyrs Pamphilius the Presbyter, Valens the Deacon, and those with them, at Caesarea in Palestine", path: `/saints/lives/${year}/02/16/100533-martyrs-pamphilius`, year, month: 2, day: 16, order: 0 })),
+    };
+    const builder = new Builder(loadExisting(join(REPO_ROOT, "tests", "fixtures", "minimal", "data")));
+    builder.romanian(doxologiaUnits(sources), [], [{ month: 2, day: 16 }]);
+    builder.russian(ocaUnits(sources, [2026, 2028]).fixed);
+    builder.shared(["ecumenical"]);
+    const names = (tradition: string): string[][] => builder.lines.get(tradition)?.get("02-16")?.map((l) => l.clusters.map((c) => `${c.slots[0]?.ro?.display} / ${c.slots[0]?.en?.display}`)) ?? [];
+    const both = ["Sf. Mc. Pamfil preotul / Martyr Pamphilius the Presbyter", "Sf. Mc. Valent diaconul / Martyr Valens the Deacon"];
+    assert.deepEqual(names("russian"), [both]);
+    assert.deepEqual(names("ecumenical"), [both]);
+  });
+
+  it("gives relics that two saints of the name may claim alike to the one another line keeps that day (4 August: the relics of St Evdochia are those of Eudokia of Persia, not of the Evdochia of 1 March)", () => {
+    const sources: SourceData = {
+      ...data,
+      doxologia: [
+        { slug: "sfanta-cuvioasa-mucenita-evdochia", title: "Sfânta Cuvioasă Muceniță Evdochia", month: 3, day: 1, order: 0, color: null, cross: null, secondRow: false },
+        { slug: "aducerea-moastelor-sfintei-mucenite-evdochia", title: "Aducerea moaștelor Sfintei Mucenițe Evdochia", month: 8, day: 4, order: 0, color: null, cross: null, secondRow: false },
+      ],
+      oca: [
+        { id: "100625", title: "Martyr Eudokia of Heliopolis", month: 3, day: 1 },
+        { id: "102203", title: "Martyr Eudokia of Persia", month: 8, day: 4 },
+      ].flatMap((x) => [2026, 2028].map((year) => ({ id: x.id, title: x.title, path: `/saints/lives/${year}/${String(x.month).padStart(2, "0")}/${String(x.day).padStart(2, "0")}/${x.id}`, year, month: x.month, day: x.day, order: 0 }))),
+    };
+    const existing = loadExisting(join(REPO_ROOT, "tests", "fixtures", "minimal", "data"));
+    const builder = new Builder(existing);
+    builder.romanian(doxologiaUnits(sources), [], [{ month: 3, day: 1 }, { month: 8, day: 4 }]);
+    builder.russian(ocaUnits(sources, [2026, 2028]).fixed);
+    const output = new RecordWriter(existing, { clusters: builder.clusters, lines: builder.lines, movable: builder.movable, stats: builder.stats }).write();
+    assert.deepEqual(output.files.get("commemorations/eudokia-of-persia--translation-of-relics.json")?.subjects, ["person:eudokia-of-persia"]);
+    assert.deepEqual([...output.files.keys()].filter((k) => k.startsWith("persons/")).sort(), ["persons/eudokia-of-heliopolis.json", "persons/eudokia-of-persia.json"]);
+  });
+
+  it("lets the day choose only between saints of the name that score alike (2 May: the relics of Boris and Gleb are the passion-bearers', though the OCA also keeps St Boris of Bulgaria that day)", () => {
+    const sources: SourceData = {
+      ...data,
+      doxologia: [],
+      oca: [
+        { id: "102082", title: "Martyrs and Passion-Bearers Boris and Gleb", month: 7, day: 24 },
+        { id: "101277", title: "Saint Boris (in Baptism Michael), Equal of the Apostles, Prince and Baptizer of Bulgaria", month: 5, day: 2 },
+        { id: "101270", title: "Translation of the Relics of the Holy Passionbearers Boris and Gleb (in Baptism Roman and David—1072 and 1115)", month: 5, day: 2 },
+      ].flatMap((x) => [2026, 2028].map((year) => ({ id: x.id, title: x.title, path: `/saints/lives/${year}/${String(x.month).padStart(2, "0")}/${String(x.day).padStart(2, "0")}/${x.id}`, year, month: x.month, day: x.day, order: 0 }))),
+    };
+    const existing = loadExisting(join(REPO_ROOT, "tests", "fixtures", "minimal", "data"));
+    const builder = new Builder(existing);
+    builder.russian(ocaUnits(sources, [2026, 2028]).fixed);
+    const output = new RecordWriter(existing, { clusters: builder.clusters, lines: builder.lines, movable: builder.movable, stats: builder.stats }).write();
+    const relics = [...output.files.entries()].find(([k, v]) => k.startsWith("commemorations/") && v.kind === "relics_translation")?.[1];
+    assert.equal(output.files.get(`i18n/en/persons/${relics?.subjects[0]?.replace(/^person:/, "")}.json`)?.names.display, "Martyr and Passion-Bearer Boris");
+  });
+
   it("writes one saint for a line that names him with two places (St Innocent of Komél and Vologda)", () => {
     const innocent: SourceData = {
       ...data,
@@ -818,6 +890,30 @@ describe("matching the sources", () => {
     const groupName = (ref: string): string => output.files.get(`i18n/en/groups/${ref.replace(/^group:/, "")}.json`)?.names.display;
     assert.equal(groupName(martyrs?.subjects[0]), "Holy Martyrs Alphaeus, Zacchaeus, Romanus and John");
     assert.equal(groupName(thomas?.subjects[0]), "Saints Thomas, Victor, and Isaac of the City of Ashmunen");
+  });
+
+  it("gives the Coptic relics of the Great Martyr George to the Prince of the Martyrs, not to another George or to Gregory of Nyssa (16 Abib)", () => {
+    const coptic: SourceData = {
+      accessed: "2026-11-08",
+      patriarhia: [],
+      doxologia: [],
+      oca: [],
+      coptic: [
+        { month: 3, day: 7, n: 1, title: "The Martyrdom of St. George of Alexandria." },
+        { month: 5, day: 21, n: 3, title: "The Departure of St. Gregorius (Gregory of Nyssa), Brother of St. Basil the Great." },
+        { month: 8, day: 23, n: 1, title: "The Martyrdom of St. George Prince of the Martyrs." },
+        { month: 11, day: 16, n: 2, title: "The Recovery of the Holy Relics of St. George, the Great Martyr." },
+      ],
+      armenian: [],
+      overlays: [],
+    };
+    const existing = loadExisting(join(REPO_ROOT, "tests", "fixtures", "minimal", "data"));
+    const builder = new Builder(existing);
+    builder.coptic(copticUnits(coptic));
+    const output = new RecordWriter(existing, { clusters: builder.clusters, lines: builder.lines, movable: builder.movable, stats: builder.stats }).write();
+    // "Prince of the Martyrs" is what the Coptic Synaxarium calls the Great Martyr.
+    assert.deepEqual(output.files.get("commemorations/george-prince-of-the-martyrs--finding-of-relics.json")?.subjects, ["person:george-prince-of-the-martyrs"]);
+    assert.equal([...output.files.keys()].filter((k) => k.startsWith("persons/")).length, 3);
   });
 
   it("writes a man whose name ends like a woman's as a man (Apostle Aquila, Sf. Ap. Achila)", () => {

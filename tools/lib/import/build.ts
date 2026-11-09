@@ -524,8 +524,10 @@ export class Builder {
         for (const slot of c.slots) {
           if (rules.agree && !fits(slot.holiness)) continue;
           const score = this.slotScore(part, u.lang, slot) + (fits(slot.holiness) ? 0 : -0.15);
-          // A second unit of the same source and day lands on a person only when it names it exactly.
+          // A second unit of the same source and day lands on a person only when it names it exactly,
+          // and a group's unit never does: the group is another commemoration ("Paul", one of St Luchilian's youths, is not "Sfânta Muceniță Paula fecioara").
           const again = slot.matched.has(`${u.source}@${mmdd(u.month, u.day)}`);
+          if (again && p.kind === "group") continue;
           if (score >= (again ? Math.max(1, this.threshold(u.lang, slot)) : this.threshold(u.lang, slot))) scored.push({ part, slot, cluster: c, score, agreement: this.slotAgreement(part, u.lang, slot) });
         }
       }
@@ -577,7 +579,7 @@ export class Builder {
     }
     // A list of names may also be one group of the other source ("Sf. Mc. In, Pin și Rim").
     if (pairs.length === 0 && clusters.length === 0 && p.names.length >= 1) {
-      const groups = pool.filter((c) => c.kind === "group" && c.group && (!rules.agree || fits(c.group.holiness)));
+      const groups = pool.filter((c) => c.kind === "group" && c.group && (!rules.agree || fits(c.group.holiness)) && !sameSourceDescribes(c, u));
       const best = this.bestByScore(groups, (c) => groupNamesScore(u, c));
       if (best && best.score >= 0.67) return { clusters: [best.item], pairs: [], rest: [] };
     }
@@ -588,9 +590,13 @@ export class Builder {
   }
 
   /**
-   * The group of the other source that a name leads ("Sf. Mc. Terentie" /
-   * "Sfântul Mucenic Terentie cu cei 7 fii ai săi"): the only group of the day
-   * without named members that has a member of that first name.
+   * The group of the other source that a name leads or belongs to ("Sf. Mc.
+   * Terentie" / "Sfântul Mucenic Terentie cu cei 7 fii ai săi", "Ipatie" /
+   * "… și cei împreună cu el patru tineri: Ipatie, Paul, Dionisie și
+   * Claudie"): the only group of the day without named members that has a
+   * member of that first name. A group that another line of the same source
+   * and day already describes is another commemoration ("Sfânta Muceniță
+   * Paula fecioara" is not that group's Paul).
    */
   private ledGroup(u: Unit, part: NamePart, pool: Cluster[], rules: MatchRules = {}): Cluster | undefined {
     const holiness = new Set(u.parsed.holiness);
@@ -599,6 +605,7 @@ export class Builder {
         c.kind === "group" &&
         c.group &&
         c.slots.length === 0 &&
+        !sameSourceDescribes(c, u) &&
         (!rules.agree || holinessAgrees(holiness, c.group.holiness)) &&
         c.group.names.some((n) => givenSimilarity(part, n) >= 1 && !(rules.agree && namesConflict(part, n))),
     );
@@ -1226,6 +1233,11 @@ function withDiffers(line: LineDraft, month: number, day: number): LineDraft {
  */
 function bestFirst(a: { score: number; agreement: number }, b: { score: number; agreement: number }): number {
   return Math.round((b.score - a.score) * 1000) || b.agreement - a.agreement;
+}
+
+/** Whether another line of the unit's source and day already describes the cluster: one source lists a commemoration once a day. */
+function sameSourceDescribes(c: Cluster, u: Unit): boolean {
+  return c.units.some((x) => x !== u && x.source === u.source && x.month === u.month && x.day === u.day);
 }
 
 /** Where a cluster comes in the unit's names: its first paired name, or the name that leads its group. */

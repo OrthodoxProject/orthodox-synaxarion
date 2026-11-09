@@ -305,7 +305,16 @@ export function splitHonorifics(title: string): { honorific: string; rest: strin
 }
 
 const FEMALE_RO = /(a|ia|ea)$/;
-const MALE_ENDING_A = new Set(["cleopa", "aitala", "achepsima", "samona", "sava", "luca", "toma", "iona", "ilia", "nichita", "zosima", "cosma", "iuda", "mina", "foca", "dima", "matia", "zaharia", "ieremia", "isaia", "osea", "iezechia", "andreia", "agapia", "sila", "barnaba", "varnava", "acvila", "zaheia", "ahila", "mamanta", "nicola", "akakia", "zahei", "ermia", "ilie", "mihea", "parmena", "ioachima", "nicandra"]);
+const MALE_ENDING_A = new Set([
+  "cleopa", "aitala", "achepsima", "samona", "sava", "luca", "toma", "iona", "ilia", "nichita", "zosima", "cosma", "iuda", "mina", "foca", "dima", "matia", "zaharia", "ieremia", "isaia", "osea", "iezechia", "andreia", "sila", "barnaba", "varnava", "acvila", "zaheia", "ahila", "mamanta", "nicola", "akakia", "zahei", "ermia", "ilie", "mihea", "parmena", "ioachima", "nicandra",
+  // Men's names that end like women's ("Anania", "Vavila", "Oprea").
+  "achila", "agava", "agripa", "anania", "antipa", "areta", "arhilia", "artema", "ascala", "atenagora",
+  "aulimpa", "azaria", "babnuda", "balana", "barsoma", "bata", "beda", "beza", "bidzina", "bisada",
+  "chifa", "columba", "cucsa", "dasia", "dosa", "dula", "gavdela", "hedra", "heracla", "hristea",
+  "iosua", "iuhanna", "kuksa", "marcura", "mari-mina", "maruta", "matra", "mausima", "miheia", "nehrua",
+  "niceta", "oprea", "papa", "papia", "pisora", "rabula", "salva", "semaia", "senuda", "sina",
+  "stefana", "suhia", "teona", "uarsenufa", "urosita", "varula", "vavila", "zevina", "zina",
+]);
 
 /** Gender of a Romanian first name, when the ending tells it. */
 export function genderOfRoName(given: string): Gender | undefined {
@@ -341,6 +350,10 @@ const TITLE_WORD = /^(?:(?:arhi)?episcop\w*|mitropolit\w*|patriarh\w*|papa|papă
 const RELATION = /^(?:mama|tatăl|soția|soțul|fiul|fiica|fiii|fiicele|fratele|frații|sora|surorile|ucenicul|ucenicii|ucenica|părinții|nepotul|nepoata)\b(?:\s+(?:sa|său|lui|lor|săi|sale|ei))?\s*/i;
 /** Unnamed companions closing a list: "și cei 7 fii" (as "cu cei 4 fii ai lor"). */
 const COMPANIONS = /^(?:cei|cele) \S+ (?:fii|ucenici|tineri)\b/i;
+/** Companions that a colon then names: "Luchilian și cei împreună cu el patru tineri:", "Sofia și fiicele sale:". */
+const ANNOUNCED = /(?:^|\s)(?:cei|cele|fiii|fiicele|frații|surorile|ucenicii|ucenicele)(?:\s|$)/i;
+/** Companions who are all women: "și fiicele sale", "și cele împreună cu ea". */
+const ANNOUNCED_WOMEN = /(?:^|\s)(?:cele|fiicele|surorile|ucenicele)(?:\s|$)/i;
 /** A genitive honorific after a relation ("surorile Dreptului Lazăr") names someone else. */
 const GENITIVE_HONORIFIC = /^(?:Sf\.|Sfântului|Sfintei|Sfinților|Dreptului|Dreptei|Cuviosului|Cuvioasei|Prorocului|Proorocului|Ierarhului|Apostolului|Mucenicului|Muceniței|Sfințitului)\s/;
 /** An office and its see, at the end of a name: "…, Mitropolitul Moscovei", "…, Arhiepiscopul Irakliei". */
@@ -527,7 +540,19 @@ export function parseRo(original: string): ParsedTitle {
   }
   const singular = /^(Sfântul|Sfânta|Cuviosul|Cuvioasa|Dreptul|Dreapta|Fericitul|Fericita|Binecredinciosul|Binecredincioasa)\b/.test(h.honorific);
   const colon = /^([^:]*):\s*(.*)$/.exec(rest);
-  if (colon && singular) rest = rest.replace(/:\s*/, ", ");
+  // "Sfântul Mucenic Luchilian și cei împreună cu el patru tineri: Ipatie, Paul, Dionisie și Claudie":
+  // the colon names the companions announced before it, one saint after each comma.
+  let members: NamePart[] = [];
+  if (colon && singular && ANNOUNCED.test(colon[1] ?? "")) {
+    rest = colon[1] ?? "";
+    members = splitNames(colon[2] ?? "", undefined, true);
+    if (ANNOUNCED_WOMEN.test(rest)) {
+      for (const m of members) {
+        m.gender = "female";
+        delete m.genderGuess;
+      }
+    }
+  } else if (colon && singular) rest = rest.replace(/:\s*/, ", ");
   else if (colon) {
     // "Sfinții Martiri Brâncoveni: Constantin Vodă …", "Sfinții Mucenici din Dobrogea: Macrobie, …"
     rest = colon[2] ?? "";
@@ -536,11 +561,11 @@ export function parseRo(original: string): ParsedTitle {
     return r;
   }
   if (/\b(cei|cele) (împreună|dimpreună) cu (ei|el|ea|ele)\b/i.test(rest) || /(?:^|\s)(?:cu|și) cei \S+ (fii|ucenici|tineri)\b/i.test(rest) || /\bcu cei doi fii\b/i.test(rest)) {
-    r.names = splitNames(rest, h.gender, h.plural, singular);
+    r.names = [...splitNames(rest, h.gender, h.plural, singular), ...members];
     r.kind = "group";
     return r;
   }
-  r.names = splitNames(rest, h.gender, h.plural, singular);
+  r.names = [...splitNames(rest, h.gender, h.plural, singular), ...members];
   if (h.plural && r.names.length === 1) {
     // "Sfinții Palamiți", "Sfinții Stareți de la Optina"
     r.kind = "group";

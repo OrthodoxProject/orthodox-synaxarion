@@ -1,20 +1,14 @@
 {
   "id": "domna-of-tomsk",
   "kind": "saint",
-  "gender": "male",
+  "gender": "female",
   "holiness_types": [
-    "martyr"
+    "fool_for_christ"
   ],
   "external_ids": {
-    "doxologia": "sfantul-mucenic-domnin-0",
     "oca": "105703"
   },
   "sources": [
-    {
-      "source": "src:doxologia",
-      "url": "https://doxologia.ro/sfantul-mucenic-domnin-0",
-      "accessed": "2026-11-08"
-    },
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/10/16/105703-saint-domna-of-tomsk",
@@ -23,9 +17,9 @@
   ],
   "editorial": {
     "status": "draft",
-    "confidence": "medium",
+    "confidence": "low",
     "notes": [
-      "Importat automat din doxologia.ro, oca.org; de verificat."
+      "Importat automat din oca.org; de verificat."
     ]
   }
 }

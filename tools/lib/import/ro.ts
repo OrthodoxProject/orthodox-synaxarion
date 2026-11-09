@@ -348,6 +348,8 @@ function namePart(text: string, gender?: Gender): NamePart {
 /** Offices and descriptions that follow a name after a comma ("Episcopul Nyssei", "Luminătorul Georgiei"). */
 const TITLE_WORD = /^(?:(?:arhi)?episcop\w*|mitropolit\w*|patriarh\w*|papa|papă|(?:i|e)gumen\w*|stare[țţ]\w*|ctitor\w*|ocrotitor\w*|[îi]ntemeietor\w*|lumin[ăa]tor\w*|[îi]nv[ăa][țţ][ăa]tor\w*|dasc[ăa]l\w*|preot\w*|diacon\w*|arhidiacon\w*|protopop\w*|monah\w*|schimonah\w*|ieromonah\w*|arhimandrit\w*|c[ăa]lug[ăa]r\w*|pustnic\w*|sihastr\w*|[îi]mp[ăa]rat\w*|rege\w*|regin\w*|prin[țţ]\w*|domn\w*|voievod\w*|cneaz\w*|[țţ]ar\w*|nebun\w*|cel|cea|fost\w*|ap[ăa]r[ăa]tor\w*|mucenic\w*|m[ăa]rturisitor\w*|izvor[âa]tor\w*|t[ăa]m[ăa]duitor\w*|f[ăa]c[ăa]tor\w*|purt[ăa]tor\w*|prieten\w*|r[ăa]zboinic\w*|sfetnic\w*|vistier\w*|osta[șş]\w*|soldat\w*|comandant\w*|tribun\w*|medic\w*|doctor\w*|tovar[ăa][șş]\w*|apostol\w*|evanghelist\w*|ucenic\w*|fratele|fra[țţ]ii|sora|surorile|mama|tat[ăa]l|so[țţ]ia|so[țţ]ul|fiii|fiul|fiica|fiicele|nepot\w*|bunic\w*|p[ăa]rin[țţ]ii)(?=\s|,|$)/i;
 const RELATION = /^(?:mama|tatăl|soția|soțul|fiul|fiica|fiii|fiicele|fratele|frații|sora|surorile|ucenicul|ucenicii|ucenica|părinții|nepotul|nepoata)\b(?:\s+(?:sa|său|lui|lor|săi|sale|ei))?\s*/i;
+/** Unnamed companions closing a list: "și cei 7 fii" (as "cu cei 4 fii ai lor"). */
+const COMPANIONS = /^(?:cei|cele) \S+ (?:fii|ucenici|tineri)\b/i;
 /** A genitive honorific after a relation ("surorile Dreptului Lazăr") names someone else. */
 const GENITIVE_HONORIFIC = /^(?:Sf\.|Sfântului|Sfintei|Sfinților|Dreptului|Dreptei|Cuviosului|Cuvioasei|Prorocului|Proorocului|Ierarhului|Apostolului|Mucenicului|Muceniței|Sfințitului)\s/;
 /** An office and its see, at the end of a name: "…, Mitropolitul Moscovei", "…, Arhiepiscopul Irakliei". */
@@ -378,7 +380,7 @@ export function splitNames(rest: string, gender?: Gender, plural = false, singul
       sep = "și";
     }
     if (!seg) continue;
-    if (/^(cei|cele) (împreună|dimpreună)/i.test(seg) || /^cu cei\b/i.test(seg)) break;
+    if (/^(cei|cele) (împreună|dimpreună)/i.test(seg) || /^cu cei\b/i.test(seg) || COMPANIONS.test(seg)) break;
     const bare = seg.replace(/^(?:(?:Sf\.|Sfântul|Sfânta|Sfinții|Cuv\.|Mc\.|Cuvioasa|Cuviosul|Dreapta|Dreptul)\s+)+/, "");
     if (names.length === 0) {
       names.push(bare);
@@ -391,6 +393,8 @@ export function splitNames(rest: string, gender?: Gender, plural = false, singul
       if (GENITIVE_HONORIFIC.test(after)) names[names.length - 1] += `, ${seg}`;
       else if ((conj || plural) && /^[A-ZĂÂÎȘȚ]/.test(after)) names.push(after.replace(/^(?:Sf\.|Sfântul|Sfânta)\s+/, ""));
       else if (conj || plural) pendingRelation = true;
+      // "Terentie, soția sa, Neonila": set off by commas, the relation names the saint after it.
+      else if (!after && /^,/.test(pieces[i + 1] ?? "") && /^[A-ZĂÂÎȘȚ]/.test((pieces[i + 2] ?? "").trim())) pendingRelation = true;
       else names[names.length - 1] += `, ${seg}`;
       continue;
     }
@@ -540,7 +544,7 @@ export function parseRo(original: string): ParsedTitle {
     r.kind = "group";
     return r;
   }
-  if (/\b(cei|cele) (împreună|dimpreună) cu (ei|el|ea|ele)\b/i.test(rest) || /\bcu cei \S+ (fii|ucenici|tineri)\b/i.test(rest) || /\bcu cei doi fii\b/i.test(rest)) {
+  if (/\b(cei|cele) (împreună|dimpreună) cu (ei|el|ea|ele)\b/i.test(rest) || /(?:^|\s)(?:cu|și) cei \S+ (fii|ucenici|tineri)\b/i.test(rest) || /\bcu cei doi fii\b/i.test(rest)) {
     r.names = splitNames(rest, h.gender, h.plural, singular);
     r.kind = "group";
     return r;

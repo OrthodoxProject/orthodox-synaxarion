@@ -2,22 +2,28 @@
   "id": "james-the-apostle-2",
   "locale": "ro",
   "names": {
-    "display": "Sf. Ap. Iacob, ruda Domnului",
-    "full": "Sfântul Apostol Iacob, ruda Domnului",
-    "short": "Iacob, ruda Domnului",
-    "given": "Iacob"
+    "display": "Sf. Ap. Iacob, ruda Domnului, primul episcop al Ierusalimului",
+    "full": "Sfântul Apostol Iacob, ruda Domnului, primul episcop al Ierusalimului",
+    "short": "Iacob, ruda Domnului, primul episcop al Ierusalimului",
+    "given": "Iacob",
+    "variants": [
+      "Sf. Ap. Iacob, rudenia Domnului, întâiul episcop al Ierusalimului"
+    ]
   },
   "references": [
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/10/23/103039-apostle-james-the-brother-of-the-lord",
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-apostol-iacob-ruda-domnului-primul-episcop-al-ierusalimului",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ap-iacob-rudenia-domnului-intaiul-episcop-al-ierusalimului-%e2%80%a0-sf-preot-mucenic-constantin-sarbu-sf-cuv-macarie-romanul/",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "en",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

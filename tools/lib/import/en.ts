@@ -187,8 +187,24 @@ const COUNTRIES = "Georgia|Russia|Greece|Serbia|Bulgaria|Egypt|Cyprus|Mount Atho
 const COUNTRY = new RegExp(`^(?:${COUNTRIES})\\b`);
 /** A place at the end of a name, with the lands after it: "of Prague, Bohemia". */
 const PLACE_AT_END = new RegExp(`\\b(?:of|at|in) \\p{Lu}[\\p{L}'’-]*(?:, (?:${COUNTRIES}))*$`, "u");
+/**
+ * A second place after "of Komél and", alone or with more words about the same saint:
+ * "Vologda disciple of Saint Nilus of Sora", "Suzdal of the Kiev Near Caves".
+ * A saint's epithet or place makes it a second saint: "Basil the Great", "Gregory of Datev".
+ */
+const PLACE_THEN = /^\p{Lu}[\p{L}'’-]*(?:\s+(?:of the\s|(?!(?:the|of|in|at|from|near|on|by)\b)\p{Ll}).*)?$/u;
 
 const FEMALE_EN = /(a|ia|ina|issa|ine|ia\)|ah)$/;
+/** Women's names that the endings above do not tell, as the sources spell them ("Mary", "Irene", "Euphrosynē"). */
+const FEMALE_NAMES = new Set([
+  "agape", "agnes", "archelais", "ariadne", "brigid", "calliope", "callisthene", "cassiani", "charis", "chryse",
+  "damaris", "dinar", "dorothy", "drosis", "eanswythe", "eksani", "eleni", "elizabeth", "endellion", "epicharis",
+  "epistemis", "eroteis", "erotiis", "euphrosyne", "felicitas", "gaiane", "genevieve", "golinduc", "helen", "heliconis",
+  "herais", "hermione", "hypomone", "irais", "irene", "kalliniki", "kassiani", "ketevan", "kyriake", "liubov",
+  "lucy", "manatho", "mariamne", "markiane", "mary", "myrope", "nino", "oraiozele", "pansemne", "paraskevi",
+  "philothei", "phoebe", "photini", "pistis", "platonis", "polyxeni", "potamiani", "prosdoce", "rhipsime", "salome",
+  "thais", "theoktiste", "theophano", "theopiste", "theotime", "thomais", "xanthippi", "zoe",
+]);
 const MALE_ENDING_A = new Set([
   "savva",
   "sava",
@@ -242,12 +258,12 @@ const MALE_ENDING_A = new Set([
   "nicola",
   "ilia",
   "agathangela",
-  "theodosia",
 ]);
 
 export function genderOfEnName(given: string): Gender | undefined {
   const g = fold(given);
-  if (MALE_ENDING_A.has(g)) return g === "theodosia" ? "female" : "male";
+  if (FEMALE_NAMES.has(g)) return "female";
+  if (MALE_ENDING_A.has(g)) return "male";
   if (FEMALE_EN.test(g)) return "female";
   return undefined;
 }
@@ -433,7 +449,7 @@ export function splitEnNames(rest: string, gender?: Gender, plural = false): { n
       continue;
     }
     // "of Pisma and Kostroma", "Bishop of Polotsk and Tver", "of Ohrid and Žiča", "of Prague, Bohemia and Moravo-Cilezsk": a place, not a second saint.
-    if (conj && !plural && PLACE_AT_END.test(previous) && /^\p{Lu}[\p{L}'’-]*$/u.test(seg)) {
+    if (conj && !plural && PLACE_AT_END.test(previous) && PLACE_THEN.test(seg)) {
       names[names.length - 1] += ` and ${seg}`;
       continue;
     }

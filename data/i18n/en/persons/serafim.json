@@ -1,0 +1,22 @@
+{
+  "id": "serafim",
+  "locale": "en",
+  "names": {
+    "display": "Saint Seraphim (Sobolev), the Wonderworker of Sofia",
+    "short": "Seraphim (Sobolev), the Wonderworker of Sofia",
+    "given": "Seraphim"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-serafim-sobolev-facatorul-de-minuni-din-sofia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-09"
+  }
+}

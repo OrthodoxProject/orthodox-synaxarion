@@ -5,7 +5,7 @@ import { dirname, join } from "node:path";
 import { describe, it } from "node:test";
 import type { FastingLevel } from "../tools/lib/calendar.ts";
 import { Builder, namesForerunner, namesTheotokos } from "../tools/lib/import/build.ts";
-import { parseEn } from "../tools/lib/import/en.ts";
+import { genderOfEnName, parseEn } from "../tools/lib/import/en.ts";
 import { loadExisting } from "../tools/lib/import/existing.ts";
 import { fastingNote, mergeFasting, officialFasting } from "../tools/lib/import/fasting.ts";
 import { givenSimilarity, skeleton } from "../tools/lib/import/names.ts";
@@ -68,6 +68,14 @@ describe("Romanian titles", () => {
     const p = parseRo("Sf. Ier. Atanasie și Chiril, arhiepiscopii Alexandriei");
     assert.equal(p.kind, "saints");
     assert.deepEqual(p.names.map((n) => n.given), ["Atanasie", "Chiril"]);
+  });
+  it("reads a relation set off by commas as the relation of the saint after it, and unnamed sons as companions", () => {
+    const terentie = parseRo("Sf. Mc. Terentie, soția sa, Neonila și cei 7 fii");
+    assert.equal(terentie.kind, "group");
+    assert.deepEqual(terentie.names.map((n) => n.text), ["Terentie", "Neonila"]);
+    assert.deepEqual(parseRo("Sf. Mc. Marius, soția sa, Marta, și fiii lor, Audifaciu și Avacum").names.map((n) => n.text), ["Marius", "Marta", "Audifaciu", "Avacum"]);
+    // After the name it follows, the relation stays with that name.
+    assert.deepEqual(parseRo("Sf. Mc. Filit și Lidia, soția sa, cu cei 4 fii ai lor").names.map((n) => n.text), ["Filit", "Lidia, soția sa"]);
   });
   it("keeps offices with the name", () => {
     const p = parseRo("Sfântul Ierarh Vasile cel Mare, Arhiepiscopul Cezareei Capadociei");
@@ -158,6 +166,18 @@ describe("English titles", () => {
     // "and the North Caucasus people" is part of the title of the second saint.
     assert.deepEqual(parseEn("Saints Pimen of Salosi and Anton Meskhi, Enlighteners of Dagestan and the North Caucasus people").names.map((n) => n.given), ["Pimen", "Anton"]);
   });
+  it("does not take a second place followed by more words about the saint for a second saint", () => {
+    const innocent = parseEn("Saint Innocent of Komél and Vologda disciple of Saint Nilus of Sora");
+    assert.equal(innocent.kind, "saint");
+    assert.deepEqual(innocent.names.map((n) => n.text), ["Innocent of Komél and Vologda disciple of Saint Nilus of Sora"]);
+    assert.deepEqual(parseEn("Saint Simon, Bishop of Vladimir and Suzdal of the Kiev Near Caves").names.map((n) => n.text), ["Simon, Bishop of Vladimir and Suzdal of the Kiev Near Caves"]);
+    // A name with its own epithet or place is a second saint.
+    assert.deepEqual(parseEn("Saint Gregory of Nyssa and Basil the Great").names.map((n) => n.given), ["Gregory", "Basil"]);
+    assert.deepEqual(
+      parseEn("Commemoration of St. John the Patriarch of Jerusalem, Armenian Patriarch St. John of Otzoon, St. John of Vorotan and St. Gregory of Datev").names.map((n) => n.given),
+      ["John", "Gregory"],
+    );
+  });
   it("does not take a title for a name", () => {
     const joachim = parseEn("Holy and Righteous Ancestors of God, Joachim and Anna");
     assert.equal(joachim.kind, "saints");
@@ -203,6 +223,15 @@ describe("English titles", () => {
     assert.deepEqual(slavs.holiness, ["equal_to_apostles"]);
     assert.deepEqual(slavs.names.map((n) => n.given), ["Cyril", "Methodius"]);
     assert.deepEqual(parseEn("Equals of the Apostles, Emperor Mirian and Empress Nana of Georgia").names.map((n) => n.text), ["Mirian", "Nana of Georgia"]);
+  });
+  it("knows women's names that do not end in -a", () => {
+    assert.equal(parseEn("Venerable Mary of Egypt").gender, "female");
+    assert.deepEqual(parseEn("Martyrs Sophia, Irene, and Castor of Egypt").names.map((n) => n.gender), ["female", "female", undefined]);
+    for (const name of ["Elizabeth", "Euphrosynē", "Salome", "Agnes", "Thais", "Helen"]) assert.equal(genderOfEnName(name), "female", name);
+    // Men's names keep what the endings say.
+    assert.equal(genderOfEnName("Irenaeus"), undefined);
+    assert.equal(genderOfEnName("Elisha"), "male");
+    assert.equal(genderOfEnName("Theodosia"), "female");
   });
   it("reads a saint named with his mother as two saints", () => {
     const p = parseEn("Equal of the Apostles and Emperor Constantine with his Mother Helen");
@@ -470,6 +499,120 @@ describe("matching the sources", () => {
     assert.equal(russian[0]?.clusters.length, 2);
   });
 
+  /** The persons a Builder run makes of the Romanian and OCA lines of one day, as "Romanian name → English name". */
+  const pairsOf = (doxologia: string[], oca: Array<[string, string]>, month: number, day: number): Record<string, string | undefined> => {
+    const sources: SourceData = {
+      accessed: "2026-11-08",
+      patriarhia: [],
+      doxologia: doxologia.map((title, order) => ({ slug: `doxologia-${order}`, title, month, day, order, color: null, cross: null, secondRow: false })),
+      oca: oca.flatMap(([id, title], order) => [2026, 2028].map((year) => ({ id, title, path: `/saints/lives/${year}/${String(month).padStart(2, "0")}/${String(day).padStart(2, "0")}/${id}`, year, month, day, order }))),
+      coptic: [],
+      armenian: [],
+      overlays: [],
+    };
+    const builder = new Builder(loadExisting(join(REPO_ROOT, "tests", "fixtures", "minimal", "data")));
+    builder.romanian(doxologiaUnits(sources), [], [{ month, day }]);
+    builder.russian(ocaUnits(sources, [2026, 2028]).fixed);
+    const slots = new Set(builder.clusters.flatMap((c) => c.slots));
+    return Object.fromEntries([...slots].map((s) => [s.ro?.display ?? `(${s.en?.display})`, s.en?.display]));
+  };
+
+  it("does not give a woman the name of a man of the same name key (1 March: Antonie, Marcel, Antonina)", () => {
+    const doxologia = ["Sfântul Mucenic Antonie", "Sfântul Mucenic Marcel", "Sfânta Muceniță Antonina"];
+    const oca: Array<[string, string]> = [
+      ["100629", "Martyr Antonina of Nicea, in Bithynia"],
+      ["100630", "Martyrs Marcellus and Anthony of Syria"],
+    ];
+    const expected = { "Sf. Mc. Antonie": "Martyr Anthony of Syria", "Sf. Mc. Marcel": "Martyr Marcellus", "Sf. Mc. Antonina": "Martyr Antonina of Nicea, in Bithynia" };
+    // "Antonie", "Antonina" and "Anthony" share a name key: the order of the sources must not decide.
+    assert.deepEqual(pairsOf(doxologia, oca, 3, 1), expected);
+    assert.deepEqual(pairsOf([...doxologia].reverse(), [...oca].reverse(), 3, 1), expected);
+  });
+
+  it("keeps a saint apart from a saint of the other gender when nobody else shares the name key", () => {
+    // Blessed Domna of Tomsk is not the Martyr Domnin, nor St Seraphima the hierarch Serafim (Sobolev).
+    assert.deepEqual(pairsOf(["Sfântul Mucenic Domnin"], [["105703", "Saint Domna of Tomsk"]], 10, 16), { "Sf. Mc. Domnin": undefined, "(Saint Domna of Tomsk)": "Saint Domna of Tomsk" });
+    assert.deepEqual(pairsOf(["Sfântul Ierarh Serafim (Sobolev), făcătorul de minuni din Sofia"], [["100426", "Saint Seraphima"]], 2, 13), {
+      "Sf. Ier. Serafim (Sobolev), făcătorul de minuni din Sofia": undefined,
+      "(Saint Seraphima)": "Saint Seraphima",
+    });
+    // A name read as a woman's from its ending ("Aquila") still finds the man of the same name.
+    assert.deepEqual(pairsOf(["Sfântul Apostol Achila"], [["101950", "Apostle Aquila of the Seventy"]], 7, 14), { "Sf. Ap. Achila": "Apostle Aquila of the Seventy" });
+  });
+
+  it("finds a sister that the OCA names in her brother's line (30 October: Zenovie and Zenovia)", () => {
+    const doxologia = ["Sfântul Sfințit Mucenic Zenovie, Episcopul Ciliciei", "Sfânta Muceniță Zenovia, sora Sfântului Mucenic Zenovie"];
+    const oca: Array<[string, string]> = [["103110", "Hieromartyr Zenobios and his sister Zenobia, of Aegæ in Cilicia"]];
+    const expected = {
+      "Sf. Sfințit Mc. Zenovie, Episcopul Ciliciei": "Hieromartyr Zenobios",
+      "Sf. Mc. Zenovia, sora Sfântului Mucenic Zenovie": "Hieromartyr Zenobia, of Aegæ in Cilicia",
+    };
+    assert.deepEqual(pairsOf(doxologia, oca, 10, 30), expected);
+    assert.deepEqual(pairsOf([...doxologia].reverse(), oca, 10, 30), expected);
+  });
+
+  it("gives an official line the group of another source that its first saint leads (28 October: Terentie, his wife Neonila and the 7 sons)", () => {
+    const title = "Sf. Mc. Terentie, soția sa, Neonila și cei 7 fii";
+    const doxologia = ["Sfânta Muceniță Neonila, soția Sfântului Mucenic Terentie", "Sfântul Mucenic Terentie cu cei 7 fii ai săi"];
+    for (const order of [doxologia, [...doxologia].reverse()]) {
+      const sources: SourceData = {
+        ...data,
+        patriarhia: [{ year: 2026, month: 10, day: 28, url: "https://calendar.patriarhia.ro/calendar-entry-26/28-octombrie/", items: [{ text: title, cross: null, color: "black" }], title, subtitle: "", publicHoliday: false }],
+        doxologia: order.map((t, i) => ({ slug: `doxologia-${i}`, title: t, month: 10, day: 28, order: i, color: null, cross: null, secondRow: false })),
+        oca: [],
+      };
+      const existing = loadExisting(join(REPO_ROOT, "tests", "fixtures", "minimal", "data"));
+      const builder = new Builder(existing);
+      builder.romanian(doxologiaUnits(sources), patriarhiaUnits(sources), [{ month: 10, day: 28 }]);
+      // One line, in the order of the official title, which it keeps: the group of Terentie with his sons, then Neonila.
+      const lines = builder.lines.get("romanian")?.get("10-28") ?? [];
+      assert.equal(lines.length, 1);
+      assert.equal(lines[0]?.title, title);
+      assert.deepEqual(
+        lines[0]?.clusters.map((c) => c.group?.ro ?? c.slots[0]?.ro?.display),
+        ["Sfântul Mucenic Terentie cu cei 7 fii ai săi", "Sf. Mc. Neonila, soția Sfântului Mucenic Terentie"],
+      );
+      // Neonila is the only person: Terentie is the group's.
+      const output = new RecordWriter(existing, { clusters: builder.clusters, lines: builder.lines, movable: builder.movable, stats: builder.stats }).write();
+      assert.equal([...output.files.keys()].filter((k) => k.startsWith("persons/")).length, 1);
+    }
+  });
+
+  it("keeps apart two groups whose titles share only the words of such titles (30 July: Polychronius and Valentine, and those with them)", () => {
+    const sources: SourceData = {
+      ...data,
+      doxologia: [],
+      oca: [
+        ["102138", "Hieromartyr Polychronius, Bishop of Babylon, and those with him"],
+        ["102148", "Hieromartyr Valentine, Bishop of Interamna, Terni in Italy, and those with him"],
+      ].flatMap(([id, title], order) => [2026, 2028].map((year) => ({ id: id ?? "", title: title ?? "", path: `/saints/lives/${year}/07/30/${id}`, year, month: 7, day: 30, order }))),
+    };
+    const builder = new Builder(loadExisting(join(REPO_ROOT, "tests", "fixtures", "minimal", "data")));
+    builder.russian(ocaUnits(sources, [2026, 2028]).fixed);
+    const lines = builder.lines.get("russian")?.get("07-30") ?? [];
+    assert.deepEqual(
+      lines.map((l) => l.clusters.map((c) => c.ext.oca)),
+      [["102138"], ["102148"]],
+    );
+  });
+
+  it("writes one saint for a line that names him with two places (St Innocent of Komél and Vologda)", () => {
+    const innocent: SourceData = {
+      ...data,
+      doxologia: [],
+      oca: [2026, 2028].map((year) => ({ id: "900003", title: "Saint Innocent of Komél and Vologda disciple of Saint Nilus of Sora", path: `/saints/lives/${year}/03/19/900003-saint-innocent`, year, month: 3, day: 19, order: 0 })),
+    };
+    const existing = loadExisting(join(REPO_ROOT, "tests", "fixtures", "minimal", "data"));
+    const builder = new Builder(existing);
+    builder.russian(ocaUnits(innocent, [2026, 2028]).fixed);
+    const output = new RecordWriter(existing, { clusters: builder.clusters, lines: builder.lines, movable: builder.movable, stats: builder.stats }).write();
+    const persons = [...output.files.keys()].filter((k) => k.startsWith("persons/"));
+    assert.equal(persons.length, 1);
+    const id = persons[0]?.replace(/^persons\/|\.json$/g, "");
+    assert.equal(output.files.get(`i18n/en/persons/${id}.json`)?.names.display, "Saint Innocent of Komél and Vologda disciple of Saint Nilus of Sora");
+    assert.deepEqual(output.files.get(`commemorations/${id}--repose.json`)?.subjects, [`person:${id}`]);
+  });
+
   it("finds a saint of the Russian list on the Menaion date, not on the civil date (St Seraphim of Sarov)", () => {
     const seraphim: SourceData = {
       accessed: "2026-11-08",
@@ -499,6 +642,21 @@ describe("matching the sources", () => {
     const persons = [...output.files.keys()].filter((k) => k.startsWith("persons/"));
     assert.deepEqual(persons, ["persons/seraphim-of-sarov.json"]);
     assert.equal(output.files.get("i18n/en/persons/seraphim-of-sarov.json")?.names.display, "Venerable Seraphim, Wonderworker of Sarov");
+  });
+
+  it("writes a woman whose name does not end in -a as a woman (St Mary of Egypt)", () => {
+    const mary: SourceData = {
+      ...data,
+      doxologia: [],
+      oca: [2026, 2028].map((year) => ({ id: "900002", title: "Venerable Mary of Egypt", path: `/saints/lives/${year}/04/01/900002-venerable-mary-of-egypt`, year, month: 4, day: 1, order: 0 })),
+    };
+    const existing = loadExisting(join(REPO_ROOT, "tests", "fixtures", "minimal", "data"));
+    const builder = new Builder(existing);
+    builder.russian(ocaUnits(mary, [2026, 2028]).fixed);
+    const output = new RecordWriter(existing, { clusters: builder.clusters, lines: builder.lines, movable: builder.movable, stats: builder.stats }).write();
+    const person = output.files.get("persons/mary-of-egypt.json");
+    assert.equal(person?.gender, "female");
+    assert.ok(!person?.editorial.notes.some((n: string) => n.startsWith("Genul nu reiese")));
   });
 
   it("keeps the two commemorations of one Coptic line on the same calendar line", () => {

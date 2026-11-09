@@ -1,0 +1,26 @@
+{
+  "id": "serafim",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "hierarch",
+    "wonderworker"
+  ],
+  "external_ids": {
+    "doxologia": "sfantul-ierarh-serafim-sobolev-facatorul-de-minuni-din-sofia"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-serafim-sobolev-facatorul-de-minuni-din-sofia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  }
+}

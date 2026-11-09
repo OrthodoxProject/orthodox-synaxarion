@@ -6,9 +6,20 @@
     "apostle"
   ],
   "external_ids": {
+    "doxologia": "sfantul-apostol-iacob-ruda-domnului-primul-episcop-al-ierusalimului",
     "oca": "103039"
   },
   "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-apostol-iacob-ruda-domnului-primul-episcop-al-ierusalimului",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ap-iacob-rudenia-domnului-intaiul-episcop-al-ierusalimului-%e2%80%a0-sf-preot-mucenic-constantin-sarbu-sf-cuv-macarie-romanul/",
+      "accessed": "2026-11-08"
+    },
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/10/23/103039-apostle-james-the-brother-of-the-lord",
@@ -17,10 +28,12 @@
   ],
   "editorial": {
     "status": "draft",
-    "confidence": "low",
+    "confidence": "medium",
     "notes": [
-      "Importat automat din oca.org; de verificat.",
-      "Genul nu reiese din sursă; e de verificat."
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "iacob-the-apostle"
+  ]
 }

@@ -1,0 +1,21 @@
+{
+  "id": "serafim",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Serafim (Sobolev), făcătorul de minuni din Sofia",
+    "full": "Sfântul Ierarh Serafim (Sobolev), făcătorul de minuni din Sofia",
+    "short": "Serafim (Sobolev), făcătorul de minuni din Sofia",
+    "given": "Serafim"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-serafim-sobolev-facatorul-de-minuni-din-sofia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

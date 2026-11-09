@@ -19,6 +19,11 @@
       "accessed": "2026-11-08"
     },
     {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ier-iachint-mitropolitul-tarii-romanesti-%e2%80%a0-sf-cuv-teofana-basarab-sf-mc-terentie-sotia-sa-neonila-si-cei-7-fii-sf-cuv-stefan-savaitul-sf-ier-firmilian-episcopul/",
+      "accessed": "2026-11-08"
+    },
+    {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/10/28/103091-martyrs-terence-and-neonila-and-their-children",
       "accessed": "2026-11-08"
@@ -28,7 +33,10 @@
     "status": "draft",
     "confidence": "medium",
     "notes": [
-      "Importat automat din doxologia.ro, oca.org; de verificat."
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "terentie-3--repose"
+  ]
 }

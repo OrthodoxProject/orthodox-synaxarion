@@ -15,7 +15,7 @@ import { isAllowed, parseRobots } from "../tools/lib/import/robots.ts";
 import { parseMonth } from "../tools/lib/import/sources/doxologia.ts";
 import { parseDay } from "../tools/lib/import/sources/oca.ts";
 import { splitTitle, type PatriarhiaDay, type PatriarhiaItem } from "../tools/lib/import/sources/patriarhia.ts";
-import { armenianUnits, cleanOverlayTitle, copticUnits, doxologiaUnits, julianMenaionDate, ocaUnits, overlayUnits, parseCopticTitle, type SourceData } from "../tools/lib/import/units.ts";
+import { armenianUnits, cleanOverlayTitle, copticUnits, doxologiaUnits, julianMenaionDate, ocaUnits, overlayUnits, parseCopticTitle, patriarhiaUnits, type SourceData } from "../tools/lib/import/units.ts";
 import { REPO_ROOT } from "../tools/lib/validate.ts";
 
 describe("robots.txt", () => {
@@ -68,6 +68,14 @@ describe("Romanian titles", () => {
     const p = parseRo("Sf. Ier. Atanasie și Chiril, arhiepiscopii Alexandriei");
     assert.equal(p.kind, "saints");
     assert.deepEqual(p.names.map((n) => n.given), ["Atanasie", "Chiril"]);
+  });
+  it("reads a relation set off by commas as the relation of the saint after it, and unnamed sons as companions", () => {
+    const terentie = parseRo("Sf. Mc. Terentie, soția sa, Neonila și cei 7 fii");
+    assert.equal(terentie.kind, "group");
+    assert.deepEqual(terentie.names.map((n) => n.text), ["Terentie", "Neonila"]);
+    assert.deepEqual(parseRo("Sf. Mc. Marius, soția sa, Marta, și fiii lor, Audifaciu și Avacum").names.map((n) => n.text), ["Marius", "Marta", "Audifaciu", "Avacum"]);
+    // After the name it follows, the relation stays with that name.
+    assert.deepEqual(parseRo("Sf. Mc. Filit și Lidia, soția sa, cu cei 4 fii ai lor").names.map((n) => n.text), ["Filit", "Lidia, soția sa"]);
   });
   it("keeps offices with the name", () => {
     const p = parseRo("Sfântul Ierarh Vasile cel Mare, Arhiepiscopul Cezareei Capadociei");
@@ -521,6 +529,51 @@ describe("matching the sources", () => {
     };
     assert.deepEqual(pairsOf(doxologia, oca, 10, 30), expected);
     assert.deepEqual(pairsOf([...doxologia].reverse(), oca, 10, 30), expected);
+  });
+
+  it("gives an official line the group of another source that its first saint leads (28 October: Terentie, his wife Neonila and the 7 sons)", () => {
+    const title = "Sf. Mc. Terentie, soția sa, Neonila și cei 7 fii";
+    const doxologia = ["Sfânta Muceniță Neonila, soția Sfântului Mucenic Terentie", "Sfântul Mucenic Terentie cu cei 7 fii ai săi"];
+    for (const order of [doxologia, [...doxologia].reverse()]) {
+      const sources: SourceData = {
+        ...data,
+        patriarhia: [{ year: 2026, month: 10, day: 28, url: "https://calendar.patriarhia.ro/calendar-entry-26/28-octombrie/", items: [{ text: title, cross: null, color: "black" }], title, subtitle: "", publicHoliday: false }],
+        doxologia: order.map((t, i) => ({ slug: `doxologia-${i}`, title: t, month: 10, day: 28, order: i, color: null, cross: null, secondRow: false })),
+        oca: [],
+      };
+      const existing = loadExisting(join(REPO_ROOT, "tests", "fixtures", "minimal", "data"));
+      const builder = new Builder(existing);
+      builder.romanian(doxologiaUnits(sources), patriarhiaUnits(sources), [{ month: 10, day: 28 }]);
+      // One line, in the order of the official title, which it keeps: the group of Terentie with his sons, then Neonila.
+      const lines = builder.lines.get("romanian")?.get("10-28") ?? [];
+      assert.equal(lines.length, 1);
+      assert.equal(lines[0]?.title, title);
+      assert.deepEqual(
+        lines[0]?.clusters.map((c) => c.group?.ro ?? c.slots[0]?.ro?.display),
+        ["Sfântul Mucenic Terentie cu cei 7 fii ai săi", "Sf. Mc. Neonila, soția Sfântului Mucenic Terentie"],
+      );
+      // Neonila is the only person: Terentie is the group's.
+      const output = new RecordWriter(existing, { clusters: builder.clusters, lines: builder.lines, movable: builder.movable, stats: builder.stats }).write();
+      assert.equal([...output.files.keys()].filter((k) => k.startsWith("persons/")).length, 1);
+    }
+  });
+
+  it("keeps apart two groups whose titles share only the words of such titles (30 July: Polychronius and Valentine, and those with them)", () => {
+    const sources: SourceData = {
+      ...data,
+      doxologia: [],
+      oca: [
+        ["102138", "Hieromartyr Polychronius, Bishop of Babylon, and those with him"],
+        ["102148", "Hieromartyr Valentine, Bishop of Interamna, Terni in Italy, and those with him"],
+      ].flatMap(([id, title], order) => [2026, 2028].map((year) => ({ id: id ?? "", title: title ?? "", path: `/saints/lives/${year}/07/30/${id}`, year, month: 7, day: 30, order }))),
+    };
+    const builder = new Builder(loadExisting(join(REPO_ROOT, "tests", "fixtures", "minimal", "data")));
+    builder.russian(ocaUnits(sources, [2026, 2028]).fixed);
+    const lines = builder.lines.get("russian")?.get("07-30") ?? [];
+    assert.deepEqual(
+      lines.map((l) => l.clusters.map((c) => c.ext.oca)),
+      [["102138"], ["102148"]],
+    );
   });
 
   it("writes one saint for a line that names him with two places (St Innocent of Komél and Vologda)", () => {

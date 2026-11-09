@@ -565,21 +565,15 @@ export class Builder {
       pairs.push([part, only.slot]);
       if (!clusters.includes(only.cluster)) clusters.push(only.cluster);
     }
-    // A name may be the leader of a group of the other source ("Sf. Mc. Terentie" / "Sfântul Mucenic Terentie cu cei 7 fii ai săi").
+    // A name may be the leader of a group of the other source.
+    const leaders = new Map<Cluster, NamePart>();
     for (const part of p.names) {
       if (usedParts.has(part)) continue;
-      const groups = pool.filter(
-        (c) =>
-          c.kind === "group" &&
-          c.group &&
-          c.slots.length === 0 &&
-          (!rules.agree || fits(c.group.holiness)) &&
-          c.group.names.some((n) => givenSimilarity(part, n) >= 1 && !(rules.agree && namesConflict(part, n))),
-      );
-      const only = groups.length === 1 ? groups[0] : undefined;
+      const only = this.ledGroup(u, part, pool, rules);
       if (!only) continue;
       usedParts.add(part);
       if (!clusters.includes(only)) clusters.push(only);
+      if (!leaders.has(only)) leaders.set(only, part);
     }
     // A list of names may also be one group of the other source ("Sf. Mc. In, Pin și Rim").
     if (pairs.length === 0 && clusters.length === 0 && p.names.length >= 1) {
@@ -589,8 +583,26 @@ export class Builder {
     }
     const rest = p.names.filter((n) => !usedParts.has(n));
     // Keep the order of the unit's names.
-    clusters.sort((a, b) => firstIndex(a, pairs, p.names) - firstIndex(b, pairs, p.names));
+    clusters.sort((a, b) => firstIndex(a, pairs, p.names, leaders) - firstIndex(b, pairs, p.names, leaders));
     return { clusters, pairs, rest };
+  }
+
+  /**
+   * The group of the other source that a name leads ("Sf. Mc. Terentie" /
+   * "Sfântul Mucenic Terentie cu cei 7 fii ai săi"): the only group of the day
+   * without named members that has a member of that first name.
+   */
+  private ledGroup(u: Unit, part: NamePart, pool: Cluster[], rules: MatchRules = {}): Cluster | undefined {
+    const holiness = new Set(u.parsed.holiness);
+    const groups = pool.filter(
+      (c) =>
+        c.kind === "group" &&
+        c.group &&
+        c.slots.length === 0 &&
+        (!rules.agree || holinessAgrees(holiness, c.group.holiness)) &&
+        c.group.names.some((n) => givenSimilarity(part, n) >= 1 && !(rules.agree && namesConflict(part, n))),
+    );
+    return groups.length === 1 ? groups[0] : undefined;
   }
 
   /** Adds what a matched unit says to the clusters and slots it describes. */
@@ -660,8 +672,18 @@ export class Builder {
       out.set(x.u, r);
     }
     for (const [u, r] of out) {
+      // A name left over may still lead a group of the other source, as in match() ("Sf. Mc. Terentie, soția sa, Neonila și cei 7 fii").
+      const leaders = new Map<Cluster, NamePart>();
+      for (const part of u.parsed.names) {
+        if (done.has(part)) continue;
+        const group = this.ledGroup(u, part, pool);
+        if (!group) continue;
+        done.add(part);
+        if (!r.clusters.includes(group)) r.clusters.push(group);
+        if (!leaders.has(group)) leaders.set(group, part);
+      }
       r.rest = u.parsed.names.filter((n) => !done.has(n));
-      r.clusters.sort((a, b) => firstIndex(a, r.pairs, u.parsed.names) - firstIndex(b, r.pairs, u.parsed.names));
+      r.clusters.sort((a, b) => firstIndex(a, r.pairs, u.parsed.names, leaders) - firstIndex(b, r.pairs, u.parsed.names, leaders));
     }
     return out;
   }
@@ -1206,9 +1228,12 @@ function bestFirst(a: { score: number; agreement: number }, b: { score: number; 
   return Math.round((b.score - a.score) * 1000) || b.agreement - a.agreement;
 }
 
-function firstIndex(c: Cluster, pairs: Array<[NamePart, Slot]>, names: NamePart[]): number {
+/** Where a cluster comes in the unit's names: its first paired name, or the name that leads its group. */
+function firstIndex(c: Cluster, pairs: Array<[NamePart, Slot]>, names: NamePart[], leaders?: Map<Cluster, NamePart>): number {
   let best = Number.MAX_SAFE_INTEGER;
   for (const [part, slot] of pairs) if (c.slots.includes(slot)) best = Math.min(best, names.indexOf(part));
+  const leader = leaders?.get(c);
+  if (leader) best = Math.min(best, names.indexOf(leader));
   return best;
 }
 
@@ -1298,10 +1323,13 @@ function personScoreAny(a: NamePart, b: NamePart): number {
   return Math.max(givenSimilarity(a, b) >= 0.9 ? 0.85 : 0, 0);
 }
 
+/** Words that many group titles share ("and those with him", "and those who suffered with them"): they tell no group apart. */
+const TITLE_FILLER = new Set(extraKeys({ text: "x those him them", given: "x", key: "x", extra: [] }));
+
 function keyOverlap(a: string, b: string): number {
   const ka = new Set(extraKeys({ text: `x ${a}`, given: "x", key: "x", extra: [] }));
   let n = 0;
-  for (const k of extraKeys({ text: `x ${b}`, given: "x", key: "x", extra: [] })) if (ka.has(k)) n++;
+  for (const k of extraKeys({ text: `x ${b}`, given: "x", key: "x", extra: [] })) if (ka.has(k) && !TITLE_FILLER.has(k)) n++;
   return n;
 }
 

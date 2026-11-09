@@ -5,6 +5,7 @@ import { dirname, join } from "node:path";
 import { describe, it } from "node:test";
 import type { FastingLevel } from "../tools/lib/calendar.ts";
 import { Builder, namesForerunner, namesTheotokos } from "../tools/lib/import/build.ts";
+import type { Cluster } from "../tools/lib/import/cluster.ts";
 import { genderOfEnName, parseEn } from "../tools/lib/import/en.ts";
 import { loadExisting } from "../tools/lib/import/existing.ts";
 import { fastingNote, mergeFasting, officialFasting } from "../tools/lib/import/fasting.ts";
@@ -53,6 +54,18 @@ describe("name keys", () => {
     const b = parseEn("Saint John Chrysostom").names[0];
     assert.ok(a && b);
     assert.equal(givenSimilarity(a, b), 1);
+  });
+  it("knows Romanian names that a name key does not bring near the English ones (Leon / Leo, Crescent / Crescens, Uar / Varus)", () => {
+    for (const [ro, en] of [
+      ["Sfântul Ierarh Leon, Episcopul Cataniei", "Saint Leo, Bishop of Catania in Sicily"],
+      ["Sfântul Apostol Crescent", "Apostle Crescens of the Seventy"],
+      ["Sfântul Mucenic Uar", "Martyr Varus"],
+    ]) {
+      const a = parseRo(ro ?? "").names[0];
+      const b = parseEn(en ?? "").names[0];
+      assert.ok(a && b);
+      assert.equal(givenSimilarity(a, b), 1, `${ro} / ${en}`);
+    }
   });
 });
 
@@ -639,6 +652,69 @@ describe("matching the sources", () => {
       lines.map((l) => l.clusters.map((c) => c.ext.oca)),
       [["102138"], ["102148"]],
     );
+  });
+
+  it("puts together the saints whose Romanian and English names only the table of equivalents knows (20 February: Leon / Leo, 30 July: Crescent / Crescens)", () => {
+    assert.deepEqual(pairsOf(["Sfântul Ierarh Leon, Episcopul Cataniei"], [["100569", "Saint Leo, Bishop of Catania in Sicily"]], 2, 20), {
+      "Sf. Ier. Leon, Episcopul Cataniei": "Saint Leo, Bishop of Catania in Sicily",
+    });
+    // The five apostles of the Seventy: one line in Romanian, one line each in the OCA.
+    const oca: Array<[string, string]> = [
+      ["102131", "Apostle Silas of the Seventy"],
+      ["102132", "Apostle Silvanus of the Seventy"],
+      ["102133", "Apostle Crescens of the Seventy"],
+      ["102134", "Apostle Epenetus of the Seventy"],
+      ["102135", "Apostle Andronicus of the Seventy"],
+    ];
+    assert.deepEqual(pairsOf(["Sfinții Apostoli Sila, Silvan, Crescent, Epenet și Andronic"], oca, 7, 30), {
+      "Sf. Ap. Sila": "Apostle Silas of the Seventy",
+      "Sf. Ap. Silvan": "Apostle Silvanus of the Seventy",
+      "Sf. Ap. Crescent": "Apostle Crescens of the Seventy",
+      "Sf. Ap. Epenet": "Apostle Epenetus of the Seventy",
+      "Sf. Ap. Andronic": "Apostle Andronicus of the Seventy",
+    });
+  });
+
+  it("gives a saint of the Romanian calendar the OCA line of the group he leads, in every calendar (19 October: Uar, the OCA's Varus with seven monastic martyrs)", () => {
+    const sources: SourceData = {
+      ...data,
+      doxologia: [{ slug: "sfantul-mucenic-uar", title: "Sfântul Mucenic Uar", month: 10, day: 19, order: 0, color: null, cross: null, secondRow: false }],
+      oca: [2026, 2028].map((year) => ({ id: "102998", title: "Martyr Varus, and seven Monastic Martyrs with him", path: `/saints/lives/${year}/10/19/102998-martyr-varus`, year, month: 10, day: 19, order: 0 })),
+    };
+    const existing = loadExisting(join(REPO_ROOT, "tests", "fixtures", "minimal", "data"));
+    const builder = new Builder(existing);
+    builder.romanian(doxologiaUnits(sources), [], [{ month: 10, day: 19 }]);
+    builder.russian(ocaUnits(sources, [2026, 2028]).fixed);
+    builder.shared(["ecumenical"]);
+    // One commemoration in both calendars, and so in the shared Menaion.
+    const lines = (tradition: string): Cluster[][] => builder.lines.get(tradition)?.get("10-19")?.map((l) => l.clusters) ?? [];
+    assert.equal(lines("romanian").length, 1);
+    assert.deepEqual(lines("russian"), lines("romanian"));
+    assert.deepEqual(lines("ecumenical"), lines("romanian"));
+    // One saint, with the names and ids of both sources; no group of his own.
+    const output = new RecordWriter(existing, { clusters: builder.clusters, lines: builder.lines, movable: builder.movable, stats: builder.stats }).write();
+    assert.deepEqual([...output.files.keys()].filter((k) => k.startsWith("persons/") || k.startsWith("groups/")), ["persons/varus.json"]);
+    assert.deepEqual(output.files.get("persons/varus.json")?.external_ids, { oca: "102998", doxologia: "sfantul-mucenic-uar" });
+    assert.equal(output.files.get("i18n/ro/persons/varus.json")?.names.display, "Sf. Mc. Uar");
+  });
+
+  it("does not give the relics of a saint known only from them to a saint of a similar name (30 July: Herman of Solovki is not Romanus the Martyr)", () => {
+    const sources: SourceData = {
+      ...data,
+      doxologia: [],
+      oca: [
+        { id: "100105", title: "Venerable Romanus the Martyr", month: 1, day: 5 },
+        { id: "102137", title: "Uncovering of the relics of Venerable Herman of Solovki", month: 7, day: 30 },
+      ].flatMap((x) => [2026, 2028].map((year) => ({ id: x.id, title: x.title, path: `/saints/lives/${year}/${String(x.month).padStart(2, "0")}/${String(x.day).padStart(2, "0")}/${x.id}`, year, month: x.month, day: x.day, order: 0 }))),
+    };
+    const existing = loadExisting(join(REPO_ROOT, "tests", "fixtures", "minimal", "data"));
+    const builder = new Builder(existing);
+    builder.russian(ocaUnits(sources, [2026, 2028]).fixed);
+    const output = new RecordWriter(existing, { clusters: builder.clusters, lines: builder.lines, movable: builder.movable, stats: builder.stats }).write();
+    // Without the H and the leading vowel, "Herman" has the name key of "Romanus" (R-M-N): no day confirms him, so he is a saint of his own.
+    assert.deepEqual(output.files.get("commemorations/herman-of-solovki--finding-of-relics.json")?.subjects, ["person:herman-of-solovki"]);
+    assert.equal(output.files.get("i18n/en/persons/herman-of-solovki.json")?.names.display, "Venerable Herman of Solovki");
+    assert.deepEqual(output.files.get("commemorations/romanus-the-martyr--repose.json")?.subjects, ["person:romanus-the-martyr"]);
   });
 
   it("writes one saint for a line that names him with two places (St Innocent of Komél and Vologda)", () => {

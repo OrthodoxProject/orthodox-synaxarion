@@ -1,17 +1,10 @@
 {
-  "id": "romanus-the-martyr--finding-of-relics",
-  "kind": "relics_finding",
-  "subjects": [
-    "person:romanus-the-martyr"
+  "id": "herman-of-solovki",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "venerable"
   ],
-  "date_rule": {
-    "type": "fixed",
-    "month": 7,
-    "day": 30
-  },
-  "external_ids": {
-    "oca": "102137"
-  },
   "sources": [
     {
       "source": "src:oca-lives",
@@ -23,7 +16,8 @@
     "status": "draft",
     "confidence": "low",
     "notes": [
-      "Importat automat din oca.org; de verificat."
+      "Importat automat din oca.org; de verificat.",
+      "Genul nu reiese din sursă; e de verificat."
     ]
   }
 }

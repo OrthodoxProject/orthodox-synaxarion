@@ -10,6 +10,12 @@
     },
     {
       "commemorations": [
+        "comm:uar--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
         "comm:cleopatra--repose"
       ],
       "confidence": "low"

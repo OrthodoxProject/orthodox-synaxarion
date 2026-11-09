@@ -1,0 +1,23 @@
+{
+  "id": "herman-of-solovki",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Gherman de la Solovăț",
+    "full": "Sfântul Cuvios Gherman de la Solovăț",
+    "short": "Gherman de la Solovăț",
+    "given": "Gherman"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/30/102137-uncovering-of-the-relics-of-venerable-herman-of-solovki",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-09"
+  }
+}

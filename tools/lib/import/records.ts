@@ -4,11 +4,11 @@
  * records are kept as they are; existing calendar days get the new lines after
  * their own.
  */
-import { addCitation, holinessCompatible, newSlot, personScore, type Cluster, type GroupSubject, type Slot } from "./cluster.ts";
+import { addCitation, holinessCompatible, newSlot, personScore, type Cluster, type GroupSubject, type Slot, type SlotName } from "./cluster.ts";
 import type { Existing, ExistingLine } from "./existing.ts";
 import { FEASTS } from "./feasts.ts";
 import type { HolinessType, ParsedTitle } from "./model.ts";
-import { fold, slugify } from "./names.ts";
+import { fold, givenSimilarity, slugify } from "./names.ts";
 import { parseEn } from "./en.ts";
 import { parseRo } from "./ro.ts";
 import type { BuildResult, LineDraft } from "./build.ts";
@@ -151,7 +151,7 @@ export class RecordWriter {
     const part = p.names[0];
     if (!part) return undefined;
     const holiness = new Set(p.holiness);
-    const scored: Array<{ slot: Slot; score: number }> = [];
+    const scored: Array<{ slot: Slot; score: number; sameName: boolean }> = [];
     const honorificWords = new Set(
       fold(p.honorific)
         .split(/[\s,.]+/)
@@ -162,9 +162,16 @@ export class RecordWriter {
       const name = slot[lang];
       const other = slot[lang === "ro" ? "en" : "ro"];
       let score = 0;
-      if (name) score = Math.max(score, personScore(part, name.part, false));
+      let compared: SlotName | undefined;
+      if (name) {
+        score = Math.max(score, personScore(part, name.part, false));
+        compared = name;
+      }
       // Through the other language only when the kind of holiness agrees exactly.
-      if (other && !name && holiness.size > 0 && sameCategory(holiness, slot.holiness)) score = Math.max(score, personScore(part, other.part, true));
+      if (other && !name && holiness.size > 0 && sameCategory(holiness, slot.holiness)) {
+        score = Math.max(score, personScore(part, other.part, true));
+        compared = other;
+      }
       if (!holinessCompatible(holiness, slot.holiness)) score -= 0.3;
       // "Sfântul Mare Mucenic Gheorghe" is the great martyr, not a new martyr of the same name.
       if (holiness.size > 0 && [...holiness].every((h) => slot.holiness.has(h))) score += 0.1;
@@ -172,7 +179,7 @@ export class RecordWriter {
       let shared = 0;
       for (const w of honorificWords) if (display.includes(w)) shared++;
       score += Math.min(shared, 3) * 0.05;
-      if (score >= 0.95) scored.push({ slot, score });
+      if (score >= 0.95) scored.push({ slot, score, sameName: compared !== undefined && givenSimilarity(part, compared.part) >= 1 });
     }
     scored.sort((a, b) => b.score - a.score);
     const best = scored[0];
@@ -180,6 +187,10 @@ export class RecordWriter {
     const second = scored[1];
     // A first name alone must point to one saint only.
     if (second && second.score >= best.score - 0.05 && best.score < 1.15) return undefined;
+    // No day confirms a saint found across the whole calendar: a similar first name is another saint the name
+    // may designate (above), but never the saint itself ("Herman" is not "Romanus": the name keys drop the H
+    // and a leading vowel, and both come out as R-M-N).
+    if (!best.sameName) return undefined;
     return best.slot;
   }
 

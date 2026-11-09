@@ -1,8 +1,8 @@
 {
-  "id": "crescens-of-the-seventy--repose",
-  "kind": "repose",
+  "id": "herman-of-solovki--finding-of-relics",
+  "kind": "relics_finding",
   "subjects": [
-    "person:crescens-of-the-seventy"
+    "person:herman-of-solovki"
   ],
   "date_rule": {
     "type": "fixed",
@@ -10,12 +10,12 @@
     "day": 30
   },
   "external_ids": {
-    "oca": "102133"
+    "oca": "102137"
   },
   "sources": [
     {
       "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/07/30/102133-apostle-crescens-of-the-seventy",
+      "url": "https://www.oca.org/saints/lives/0000/07/30/102137-uncovering-of-the-relics-of-venerable-herman-of-solovki",
       "accessed": "2026-11-08"
     }
   ],
@@ -25,5 +25,8 @@
     "notes": [
       "Importat automat din oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "romanus-the-martyr--finding-of-relics"
+  ]
 }

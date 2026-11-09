@@ -2,22 +2,28 @@
   "id": "leo-the-great-of-rome",
   "locale": "ro",
   "names": {
-    "display": "Sf. Ier. Leon cel Mare, Papa Romei",
-    "full": "Sfântul Ierarh Leon cel Mare, Papa Romei",
-    "short": "Leon cel Mare, Papa Romei",
-    "given": "Leon"
+    "display": "Sf. Ier. Leon, Episcopul Romei",
+    "full": "Sfântul Ierarh Leon, Episcopul Romei",
+    "short": "Leon, Episcopul Romei",
+    "given": "Leon",
+    "variants": [
+      "Sf. Ier. Leon cel Mare, episcopul Romei"
+    ]
   },
   "references": [
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/02/18/100553-saint-leo-the-great-pope-of-rome",
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-leon-episcopul-romei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ier-leon-cel-mare-episcopul-romei-zi-aliturgica-dezlegare-la-branza-lapte-oua-si-peste/",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "en",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

@@ -2,20 +2,22 @@
   "id": "domna-of-tomsk",
   "locale": "ro",
   "names": {
-    "display": "Sf. Mc. Domnin",
-    "full": "Sfântul Mucenic Domnin",
-    "short": "Domnin",
-    "given": "Domnin"
+    "display": "Sf. Domna din Tomsk",
+    "full": "Sfânta Domna din Tomsk",
+    "short": "Domna din Tomsk",
+    "given": "Domna"
   },
   "references": [
     {
-      "source": "src:doxologia",
-      "url": "https://doxologia.ro/sfantul-mucenic-domnin-0",
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/16/105703-saint-domna-of-tomsk",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "draft",
-    "method": "original"
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-09"
   }
 }

@@ -2,26 +2,19 @@
   "id": "neonila-2",
   "locale": "en",
   "names": {
-    "display": "Martyr Neonilla, wife of the Martyr Terence",
-    "short": "Neonilla, wife of the Martyr Terence",
-    "given": "Neonilla"
+    "display": "Martyr Neonila",
+    "short": "Neonila",
+    "given": "Neonila"
   },
   "references": [
     {
-      "source": "src:doxologia",
-      "url": "https://doxologia.ro/sfanta-mucenita-neonila-sotia-sfantului-mucenic-terentie",
-      "accessed": "2026-11-08"
-    },
-    {
-      "source": "src:calendar-patriarhia",
-      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ier-iachint-mitropolitul-tarii-romanesti-%e2%80%a0-sf-cuv-teofana-basarab-sf-mc-terentie-sotia-sa-neonila-si-cei-7-fii-sf-cuv-stefan-savaitul-sf-ier-firmilian-episcopul/",
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/28/103091-martyrs-terence-and-neonila-and-their-children",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "ro",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

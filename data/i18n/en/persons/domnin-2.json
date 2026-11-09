@@ -1,0 +1,22 @@
+{
+  "id": "domnin-2",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Domninus",
+    "short": "Domninus",
+    "given": "Domninus"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-domnin-0",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-09"
+  }
+}

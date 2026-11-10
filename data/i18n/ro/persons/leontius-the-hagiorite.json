@@ -2,22 +2,20 @@
   "id": "leontius-the-hagiorite",
   "locale": "ro",
   "names": {
-    "display": "Sf. Cuv. Leontie Aghioritul",
-    "full": "Sfântul Cuvios Leontie Aghioritul",
-    "short": "Leontie Aghioritul",
+    "display": "Sf. Cuv. Leontie Dionisiatul, Izvorâtorul de mir",
+    "full": "Sfântul Cuvios Leontie Dionisiatul, Izvorâtorul de mir",
+    "short": "Leontie Dionisiatul, Izvorâtorul de mir",
     "given": "Leontie"
   },
   "references": [
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/06/18/101750-venerable-leontius-the-hagiorite",
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-leontie-dionisiatul-izvoratorul-de-mir",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "en",
-    "date": "2026-11-10"
+    "status": "draft",
+    "method": "original"
   }
 }

@@ -1,0 +1,20 @@
+{
+  "id": "gregory-the-recluse-of-kiev-caves",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Gregory the Recluse, of the Kiev Caves",
+    "short": "Gregory the Recluse, of the Kiev Caves",
+    "given": "Gregory"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/08/100116-venerable-gregory-the-recluse-of-the-kiev-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -6,7 +6,8 @@
     "venerable"
   ],
   "external_ids": {
-    "doxologia": "sfantul-cuvios-eufrosin-bucatarul"
+    "doxologia": "sfantul-cuvios-eufrosin-bucatarul",
+    "oca": "102581"
   },
   "sources": [
     {
@@ -18,13 +19,18 @@
       "source": "src:calendar-patriarhia",
       "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-teodora-din-alexandria-sf-cuv-eufrosin-bucatarul/",
       "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/11/102581-saint-euphrosynos-the-cook-of-alexandria",
+      "accessed": "2026-11-08"
     }
   ],
   "editorial": {
     "status": "draft",
-    "confidence": "low",
+    "confidence": "medium",
     "notes": [
-      "Importat automat din doxologia.ro, calendar.patriarhia.ro; de verificat."
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
     ]
   }
 }

@@ -1001,6 +1001,126 @@ describe("matching the sources", () => {
     assert.deepEqual(output.files.get("commemorations/john-of-epirus--repose.json")?.subjects, ["person:john-of-epirus"]);
   });
 
+  it("gives a second line of the same source and day to a saint already found only when it names him exactly (18 June: Leontie Dionisiatul; 22 June: Zina; 8 January: Gregory the Recluse; 22 September: Phocas the Gardener)", () => {
+    // Doxologia lists the Martyr Leontie and Leontie of Dionysiou, an Athonite: the OCA's Venerable Leontius the Hagiorite.
+    const leontie = ["Sfântul Mucenic Leontie", "Sfântul Cuvios Leontie Dionisiatul, Izvorâtorul de mir"];
+    const leontius: Array<[string, string]> = [
+      ["101746", "Martyrs Leontius, Hypatius, and Theodulus at Tripoli in Syria"],
+      ["101749", "Venerable Leontius of the Kiev Far Caves"],
+      ["101750", "Venerable Leontius the Hagiorite"],
+    ];
+    const expected = {
+      "Sf. Mc. Leontie": "Martyr Leontius",
+      "Sf. Cuv. Leontie Dionisiatul, Izvorâtorul de mir": "Venerable Leontius the Hagiorite",
+      "(Martyr Hypatius)": "Martyr Hypatius",
+      "(Martyr Theodulus at Tripoli in Syria)": "Martyr Theodulus at Tripoli in Syria",
+      "(Venerable Leontius of the Kiev Far Caves)": "Venerable Leontius of the Kiev Far Caves",
+    };
+    assert.deepEqual(pairsOf(leontie, leontius, 6, 18), expected);
+    assert.deepEqual(pairsOf([...leontie].reverse(), leontius, 6, 18), expected);
+    // Zina, Zenon's servant, has the name key of Zenon.
+    assert.deepEqual(pairsOf(["Sfântul Mucenic Zenon", "Sfântul Mucenic Zina"], [["101780", "Martyrs Zeno and his servant, Zenas, of Philadelphia"]], 6, 22), {
+      "Sf. Mc. Zenon": "Martyr Zeno, his servant",
+      "Sf. Mc. Zina": "Martyr Zenas, of Philadelphia",
+    });
+    // Two saints of the Kiev Caves, and two of Sinope.
+    assert.deepEqual(Object.keys(pairsOf([], [["100115", "Venerable Gregory, Wonderworker of the Kiev Near Caves"], ["100116", "Venerable Gregory the Recluse, of the Kiev Caves"]], 1, 8)).sort(), ["(Venerable Gregory the Recluse, of the Kiev Caves)", "(Venerable Gregory, Wonderworker of the Kiev Near Caves)"]);
+    assert.deepEqual(pairsOf(["Sfântul Sfințit Mucenic Foca, Episcopul de Sinope"], [["102695", "Hieromartyr Phocas, Bishop of Sinope"], ["102699", "Martyr Phokas the Gardener of Sinope"]], 9, 22), {
+      "Sf. Sfințit Mc. Foca, Episcopul de Sinope": "Hieromartyr Phocas, Bishop of Sinope",
+      "(Martyr Phokas the Gardener of Sinope)": "Martyr Phokas the Gardener of Sinope",
+    });
+    // Named exactly, the same saint: the feast of Peter and Paul, then each of them; Pontius spelled two ways.
+    assert.deepEqual(
+      pairsOf(
+        ["Sfinții Apostoli Petru și Pavel"],
+        [
+          ["101840", "The Holy Glorious and All-Praised Leaders of the Apostles, Peter and Paul"],
+          ["101841", "The Holy Glorious and All-Praised Leader of the Apostles, Peter"],
+          ["101842", "The Holy Glorious and All-Praised Leader of the Apostles, Paul"],
+        ],
+        6,
+        29,
+      ),
+      { "Sf. Ap. Petru": "The Holy Glorious and All-Praised Leader of the Apostles Peter", "Sf. Ap. Pavel": "The Holy Glorious and All-Praised Leader of the Apostles Paul" },
+    );
+    assert.deepEqual(Object.keys(pairsOf([], [["102209", "Hieromartyr Fabian, Pope of Rome, and Martyr Pontious"], ["109008", "Martyr Pontius"]], 8, 5)).length, 2);
+  });
+
+  it("keeps a group of a second line of the day apart from the saint its source named first (10 March: Quadratus of Nicomedia and those with him are not Codrat of Corinth)", () => {
+    const sources: SourceData = {
+      ...data,
+      doxologia: [{ slug: "sfantul-mucenic-codrat", title: "Sfântul Mucenic Codrat", month: 3, day: 10, order: 0, color: null, cross: null, secondRow: false }],
+      oca: ocaLines([
+        { id: "100751", title: "Martyr Quadratus and those with him at Corinth", month: 3, day: 10 },
+        { id: "100773", title: "Martyr Quadratus and those with him at Nicomedia", month: 3, day: 10 },
+      ]),
+    };
+    const existing = loadExisting(join(REPO_ROOT, "tests", "fixtures", "minimal", "data"));
+    const builder = new Builder(existing);
+    builder.romanian(doxologiaUnits(sources), [], [{ month: 3, day: 10 }]);
+    builder.russian(ocaUnits(sources, [2026, 2028]).fixed);
+    const output = new RecordWriter(existing, { clusters: builder.clusters, lines: builder.lines, movable: builder.movable, stats: builder.stats }).write();
+    const subjectsOf = (id: string): string[] | undefined => [...output.files.entries()].find(([k, v]) => k.startsWith("commemorations/") && v.external_ids?.oca === id)?.[1].subjects;
+    assert.deepEqual(subjectsOf("100751"), ["person:quadratus"]);
+    assert.deepEqual(subjectsOf("100773"), ["group:martyr-quadratus-and-companions"]);
+  });
+
+  it("does not give a saint the line of the same full name on another day when it names a man and a woman, or a martyr and a monk (11 September: Euphrosynos the Cook; 1 May: Macarius, Metropolitan of Kiev)", () => {
+    const lines = ocaLines([
+      { id: "100528", title: "Venerable Paphnutius and Euphrosynē of Alexandria", month: 2, day: 15 },
+      { id: "102581", title: "Saint Euphrosynos the Cook of Alexandria", month: 9, day: 11 },
+      // The same line as if the OCA did not call him the Cook: then only the endings of the names tell the man from the woman.
+      { id: "900005", title: "Saint Euphrosynos of Alexandria", month: 9, day: 12 },
+      { id: "100230", title: "Venerable Macarius the Deacon of the Kiev Caves", month: 1, day: 19 },
+      { id: "101259", title: "Hieromartyr Macarius, Metropolitan of Kiev", month: 5, day: 1 },
+    ]);
+    const run = (doxologia: SourceData["doxologia"]): ((id: string) => Array<Array<string | undefined>> | undefined) => {
+      const sources: SourceData = { ...data, doxologia, oca: lines };
+      const existing = loadExisting(join(REPO_ROOT, "tests", "fixtures", "minimal", "data"));
+      const builder = new Builder(existing);
+      builder.romanian(doxologiaUnits(sources), [], [{ month: 9, day: 11 }]);
+      builder.russian(ocaUnits(sources, [2026, 2028]).fixed);
+      const output = new RecordWriter(existing, { clusters: builder.clusters, lines: builder.lines, movable: builder.movable, stats: builder.stats }).write();
+      return (id) =>
+        [...output.files.entries()]
+          .find(([k, v]) => k.startsWith("commemorations/") && v.external_ids?.oca === id)?.[1]
+          .subjects.map((s: string) => ["ro", "en"].map((lang) => output.files.get(`i18n/${lang}/persons/${s.replace(/^person:/, "")}.json`)?.names.display));
+    };
+    const ocaOnly = run([]);
+    assert.deepEqual(ocaOnly("102581"), [[undefined, "Saint Euphrosynos the Cook of Alexandria"]]);
+    assert.deepEqual(ocaOnly("900005"), [[undefined, "Saint Euphrosynos of Alexandria"]]);
+    assert.deepEqual(ocaOnly("101259"), [[undefined, "Hieromartyr Macarius, Metropolitan of Kiev"]]);
+    // The Romanian calendar keeps him the same day: "bucătarul" is "the Cook".
+    const withDoxologia = run([{ slug: "sfantul-cuvios-eufrosin-bucatarul", title: "Sfântul Cuvios Eufrosin Bucătarul", month: 9, day: 11, order: 0, color: null, cross: null, secondRow: false }]);
+    assert.deepEqual(withDoxologia("102581"), [["Sf. Cuv. Eufrosin Bucătarul", "Saint Euphrosynos the Cook of Alexandria"]]);
+  });
+
+  it("puts together the saints whose first names or places only a table knows (4 February: Avramie is Abramius of Arbela, not Abraham of Pechenga; 19 January: Corfu is Kerkyra; 16 April: Hionia; 5 October: Haritina)", () => {
+    const abramius: Array<[string, string]> = [
+      ["100425", "Venerable Abraham and Coprius, of Pechenga"],
+      ["100428", "Hieromartyr Abramius, Bishop of Arbela in Assyria"],
+    ];
+    const expected = {
+      "Sf. Sfințit Mc. Avramie": "Hieromartyr Abramius, Bishop of Arbela in Assyria",
+      "(Venerable Abraham)": "Venerable Abraham",
+      "(Venerable Coprius, of Pechenga)": "Venerable Coprius, of Pechenga",
+    };
+    assert.deepEqual(pairsOf(["Sfântul Sfințit Mucenic Avramie"], abramius, 2, 4), expected);
+    assert.deepEqual(pairsOf(["Sfântul Sfințit Mucenic Avramie"], [...abramius].reverse(), 2, 4), expected);
+    assert.deepEqual(pairsOf(["Sfântul Ierarh Arsenie, Arhiepiscop de Corfu"], [["100235", "Saint Arsenius, Archbishop of Kerkyra"]], 1, 19), {
+      "Sf. Ier. Arsenie, Arhiepiscop de Corfu": "Saint Arsenius, Archbishop of Kerkyra",
+    });
+    assert.deepEqual(pairsOf(["Sfintele Mucenițe fecioare Agapia, Irina și Hionia"], [["101106", "Virgin Martyrs Agape, Irene and Chionia, in Illyria"]], 4, 16), {
+      "Sf. Mc. Fecioară Agapia": "Virgin Martyr Agape",
+      "Sf. Mc. Fecioară Irina": "Virgin Martyr Irene",
+      "Sf. Mc. Fecioară Hionia": "Virgin Martyr Chionia, in Illyria",
+    });
+    assert.deepEqual(pairsOf(["Sfânta Muceniță Haritina"], [["102870", "Martyr Charitina of Amisos"], ["102879", "Saint Charitina, Princess of Lithuania"]], 10, 5), {
+      "Sf. Mc. Haritina": "Martyr Charitina of Amisos",
+      "(Saint Charitina, Princess of Lithuania)": "Saint Charitina, Princess of Lithuania",
+    });
+  });
+
   it("writes one saint for a line that names him with two places (St Innocent of Komél and Vologda)", () => {
     const innocent: SourceData = {
       ...data,

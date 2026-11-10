@@ -1,0 +1,23 @@
+{
+  "id": "arethus-the-recluse-of-the-kiev-near",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Areta Zăvorâtul, de la Peșterile Apropiate din Kiev",
+    "full": "Sfântul Cuvios Areta Zăvorâtul, de la Peșterile Apropiate din Kiev",
+    "short": "Areta Zăvorâtul, de la Peșterile Apropiate din Kiev",
+    "given": "Areta"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/24/103045-venerable-arethus-the-recluse-of-the-kiev-near-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-10"
+  }
+}

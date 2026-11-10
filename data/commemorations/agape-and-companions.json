@@ -4,7 +4,7 @@
   "subjects": [
     "person:agape",
     "person:irene",
-    "person:hionia"
+    "person:chionia"
   ],
   "date_rule": {
     "type": "fixed",
@@ -37,5 +37,8 @@
     "notes": [
       "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "chionia--repose"
+  ]
 }

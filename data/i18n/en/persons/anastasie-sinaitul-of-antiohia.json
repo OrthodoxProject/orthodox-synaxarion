@@ -1,0 +1,22 @@
+{
+  "id": "anastasie-sinaitul-of-antiohia",
+  "locale": "en",
+  "names": {
+    "display": "Saint Anastasius of Sinai, Patriarch of Antioch",
+    "short": "Anastasius of Sinai, Patriarch of Antioch",
+    "given": "Anastasius"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-anastasie-sinaitul-patriarhul-antiohiei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-10"
+  }
+}

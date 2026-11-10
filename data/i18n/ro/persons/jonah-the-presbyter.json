@@ -1,0 +1,23 @@
+{
+  "id": "jonah-the-presbyter",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Iona preotul, tatăl Sf. Teofan Imnograful și al lui Teodor Graptul",
+    "full": "Sfântul Iona preotul, tatăl Sfântului Teofan Imnograful și al lui Teodor Graptul",
+    "short": "Iona preotul, tatăl Sf. Teofan Imnograful și al lui Teodor Graptul",
+    "given": "Iona"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/22/102697-saint-jonah-the-presbyter-father-of-saint-theophanes-the-hymnogr",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-10"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "demetrius-of-tsilibinsk",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Dimitrie din Țilibinsk",
+    "full": "Sfântul Dimitrie din Țilibinsk",
+    "short": "Dimitrie din Țilibinsk",
+    "given": "Dimitrie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/26/108922-saint-demetrius-of-tsilibinsk",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-10"
+  }
+}

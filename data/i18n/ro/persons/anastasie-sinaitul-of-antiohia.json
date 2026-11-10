@@ -1,0 +1,21 @@
+{
+  "id": "anastasie-sinaitul-of-antiohia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Anastasie Sinaitul, Patriarhul Antiohiei",
+    "full": "Sfântul Anastasie Sinaitul, Patriarhul Antiohiei",
+    "short": "Anastasie Sinaitul, Patriarhul Antiohiei",
+    "given": "Anastasie"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-anastasie-sinaitul-patriarhul-antiohiei",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

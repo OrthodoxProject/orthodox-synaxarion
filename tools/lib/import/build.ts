@@ -36,7 +36,7 @@ import {
 import type { Existing, ExistingLine } from "./existing.ts";
 import type { HolinessType, NamePart, ParsedTitle } from "./model.ts";
 import { parseEn } from "./en.ts";
-import { fold, givenSimilarity, nameSimilarity } from "./names.ts";
+import { fold, givenSimilarity, levenshtein, nameSimilarity } from "./names.ts";
 import { mmdd, type Unit } from "./units.ts";
 
 export type Confidence = "low" | "medium" | "high";
@@ -225,10 +225,10 @@ export class Builder {
       const known = this.doxologiaSlots.get(u.ext.doxologia);
       if (known) return known;
     }
-    // The same full name on another day ("Antipa de la Calapodești", "Niceta de Remesiana") is the same saint.
+    // The same full name on another day ("Antipa de la Calapodești", "Niceta de Remesiana") is the same saint (see sameSaint).
     const key = identityKey(u, part);
     const same = key ? this.identity.get(key) : undefined;
-    if (same && holinessCompatible(new Set(u.parsed.holiness), same.holiness)) {
+    if (same && sameSaint(part, new Set(u.parsed.holiness), same[u.lang]?.part, same.holiness)) {
       this.fillSlot(same, u, part, single);
       same.matched.add(`${u.source}@${mmdd(u.month, u.day)}`);
       return same;
@@ -483,6 +483,17 @@ export class Builder {
     return score;
   }
 
+  /**
+   * Whether a name of a second line of a source names exactly the person that another line of the same source and day
+   * already named (see namesExactly): compared with the person's name in that language, with the place that closes its
+   * list; a person named in the other language only is not named exactly.
+   */
+  namedExactly(part: NamePart, lang: "ro" | "en", slot: Slot, other?: NamePart): boolean {
+    const same = slot[lang];
+    const name = other ?? (same ? (same.listed ?? same.part) : undefined);
+    return name !== undefined && namesExactly(part, name);
+  }
+
   /** How much a name agrees with the names of a person besides the score (see nameAgreement), compared as slotScore compares them. */
   slotAgreement(part: NamePart, lang: "ro" | "en", slot: Slot): number {
     const same = slot[lang];
@@ -574,10 +585,10 @@ export class Builder {
         if (!PERSON_KINDS.has(c.kind) && !(c.kind === "group" && c.slots.length > 0)) continue;
         for (const slot of c.slots) {
           if (rules.agree && !fits(slot.holiness)) continue;
-          // A second unit of the same source and day lands on a person only when it names it exactly,
+          // A second unit of the same source and day lands on a person only when it names it exactly (see namedExactly),
           // and a group's unit never does: the group is another commemoration ("Paul", one of St Luchilian's youths, is not "Sfânta Muceniță Paula fecioara").
           const again = slot.matched.has(`${u.source}@${mmdd(u.month, u.day)}`);
-          if (again && p.kind === "group") continue;
+          if (again && (p.kind === "group" || !this.namedExactly(withListPlace(part, p.names), u.lang, slot))) continue;
           // Exactly means with the places that close the two lists: "Sergius of Paphlagonia" is not the Sergius of
           // "Sergius and Herman, Wonderworkers of Valaam", whom the OCA lists the same day.
           const own = again ? this.slotScore(withListPlace(part, p.names), u.lang, slot, true) : this.slotScore(part, u.lang, slot);
@@ -696,8 +707,9 @@ export class Builder {
    * The names of all the units of one source and day, assigned together: the
    * best pairs first, so that "George of Iberia" takes "Gheorghe Ivirul" before
    * "George the Confessor" can. A person takes a second name of the same source
-   * and day only when it matches it exactly (the feast of Peter and Paul, then
-   * Peter alone).
+   * and day only when it names him exactly (the feast of Peter and Paul, then
+   * Peter alone; see namesExactly): "Martyr Phokas the Gardener of Sinope" is
+   * not "Hieromartyr Phocas, Bishop of Sinope" (OCA, 22 September).
    */
   prematch(units: Unit[], pool: Cluster[]): Map<Unit, MatchResult> {
     type Candidate = { u: Unit; part: NamePart; slot: Slot; cluster: Cluster; score: number; agreement: number };
@@ -720,13 +732,18 @@ export class Builder {
     const out = new Map<Unit, MatchResult>();
     const done = new Set<NamePart>();
     const uses = new Map<Slot, number>();
+    /** The name that a unit of this source gave each person, with the place that closes its list. */
+    const named = new Map<Slot, NamePart>();
     for (const x of candidates) {
       if (done.has(x.part)) continue;
+      const own = withListPlace(x.part, x.u.parsed.names);
       const before = (uses.get(x.slot) ?? 0) + (x.slot.matched.has(`${x.u.source}@${mmdd(x.u.month, x.u.day)}`) ? 1 : 0);
-      if (before > 0 && x.score < 1.15) continue;
+      // As in matchNames, a group's unit never takes a person that its source already named that day.
+      if (before > 0 && (x.u.parsed.kind === "group" || !this.namedExactly(own, x.u.lang, x.slot, named.get(x.slot)))) continue;
       const r = out.get(x.u) ?? { clusters: [], pairs: [], rest: [] };
       if (r.pairs.some(([, s]) => s === x.slot)) continue;
       done.add(x.part);
+      named.set(x.slot, named.get(x.slot) ?? own);
       uses.set(x.slot, (uses.get(x.slot) ?? 0) + 1);
       r.pairs.push([x.part, x.slot]);
       if (!r.clusters.includes(x.cluster)) r.clusters.push(x.cluster);
@@ -1337,6 +1354,38 @@ function oneSubject(u: Unit): void {
   if (u.parsed.subject?.kind === "saints") u.parsed = { ...u.parsed, subject: { ...u.parsed.subject, kind: "group" } };
 }
 
+/**
+ * Whether a name and the person that has the same full name on another day (see identityKey) are one saint: their kinds
+ * of holiness are compatible, and they are not a man and a woman nor a martyr and a saint who was not one. The key
+ * leaves out the endings and the ranks: "Saint Euphrosynos the Cook of Alexandria" (OCA, 11 September) is not
+ * "Euphrosynē of Alexandria" of "Venerable Paphnutius and Euphrosynē of Alexandria" (15 February), and "Hieromartyr
+ * Macarius, Metropolitan of Kiev" (1 May) is not "Venerable Macarius the Deacon of the Kiev Caves" (19 January).
+ */
+function sameSaint(part: NamePart, holiness: Set<HolinessType>, other: NamePart | undefined, otherHoliness: Set<HolinessType>): boolean {
+  if (!holinessCompatible(holiness, otherHoliness) || martyrdomDiffers(holiness, otherHoliness)) return false;
+  return other === undefined || !manAndWoman(part, other);
+}
+
+/**
+ * Whether two names of one skeleton are a man's and a woman's: their genders differ (see gendersDiffer), or they are
+ * spelled differently and only one of them reads as a woman's ("Euphrosynos" / "Euphrosynē"). Spelled alike, the
+ * names are one, whatever the titles say of the gender.
+ */
+function manAndWoman(a: NamePart, b: NamePart): boolean {
+  return gendersDiffer(a, b) || (fold(a.given) !== fold(b.given) && (a.gender === "female") !== (b.gender === "female"));
+}
+
+const MARTYRS = new Set<HolinessType>(["martyr", "great_martyr", "hieromartyr", "venerable_martyr", "new_martyr"]);
+/** Kinds of holiness that tell a saint who was not a martyr: a hierarch may also be a hieromartyr, and "righteous" says nothing. */
+const NOT_MARTYRS = new Set<HolinessType>(["venerable", "hermit", "stylite", "recluse", "apostle", "evangelist", "equal_to_apostles", "prophet", "forefather", "archangel"]);
+
+/** Whether one kind of holiness is a martyr's and the other one tells a saint who was not a martyr. */
+function martyrdomDiffers(a: Set<HolinessType>, b: Set<HolinessType>): boolean {
+  const martyr = (h: Set<HolinessType>): boolean => [...h].some((x) => MARTYRS.has(x));
+  const other = (h: Set<HolinessType>): boolean => [...h].some((x) => NOT_MARTYRS.has(x));
+  return (martyr(a) && !martyr(b) && other(b)) || (martyr(b) && !martyr(a) && other(a));
+}
+
 /** A name distinctive enough to recognise the saint on another day: first name plus epithets or places. */
 function identityKey(u: Unit, part: NamePart): string | null {
   const extra = extraKeys(part);
@@ -1350,6 +1399,21 @@ function hasSee(part: NamePart): boolean {
     /\b(?:(?:arch)?bishop|metropolitan|patriarch|pope|catholicos)\s+of\s/i.test(part.text) ||
     /\b(?:[Aa]rhi)?[Ee]piscop(?:ul)?\s+(?:al\s+|a\s+|de\s+(?:la\s+)?)?\p{Lu}|\b(?:[Mm]itropolit|[Pp]atriarh)(?:ul)?\s+(?:al\s+|a\s+)?\p{Lu}/u.test(part.text)
   );
+}
+
+/**
+ * Whether two names of one source name one saint exactly: the same first name, spelled alike but for a letter (the
+ * OCA's "Martyr Pontious" with St Fabian and "Martyr Pontius", 5 August), and the same epithets and places. A source
+ * lists a saint once a day, so two of its lines that name him otherwise are two saints: "Sfântul Cuvios Leontie
+ * Dionisiatul, Izvorâtorul de mir" is not "Sfântul Mucenic Leontie" (doxologia, 18 June), "Sfântul Mucenic Zina" is
+ * not "Sfântul Mucenic Zenon" (22 June), "Venerable Gregory the Recluse, of the Kiev Caves" is not "Venerable Gregory,
+ * Wonderworker of the Kiev Near Caves" (OCA, 8 January).
+ */
+export function namesExactly(a: NamePart, b: NamePart): boolean {
+  if (levenshtein(fold(a.given), fold(b.given)) > 1) return false;
+  const ka = new Set(extraKeys(a));
+  const kb = new Set(extraKeys(b));
+  return ka.size === kb.size && [...ka].every((k) => kb.has(k));
 }
 
 /** Two names with different regnal numbers ("Eustathius I" / "Eustathius II"). */

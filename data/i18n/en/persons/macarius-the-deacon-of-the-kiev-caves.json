@@ -1,0 +1,20 @@
+{
+  "id": "macarius-the-deacon-of-the-kiev-caves",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Macarius the Deacon of the Kiev Caves",
+    "short": "Macarius the Deacon of the Kiev Caves",
+    "given": "Macarius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/19/100230-venerable-macarius-the-deacon-of-the-kiev-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

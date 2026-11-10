@@ -48,6 +48,10 @@ const EQUIVALENTS: string[][] = [
   ["teodosie", "theodosius", "feodosy"],
   ["teofil", "theophilus"],
   ["haralambie", "charalampus", "charalambos", "haralampy", "haralambos", "charalampos"],
+  // Romanian H- is Greek chi, English Ch- (elsewhere Romanian H stands for the rough breathing: Hermes, so these go by name).
+  ["hionia", "chionia"],
+  ["haritina", "charitina"],
+  ["hariton", "chariton"],
   ["iosif", "joseph", "josif"],
   ["iuda", "jude", "judas"],
   ["iosua", "joshua", "jesus son of navi"],
@@ -67,6 +71,8 @@ const EQUIVALENTS: string[][] = [
   ["evdochia", "eudocia", "evdokia", "eudokia"],
   ["evdochim", "eudocimus", "eudokimos", "evdokim"],
   ["avraam", "abraham"],
+  // Avramie is Abramius, not Abraham: "Sf. Sfințit Mc. Avramie" is "Hieromartyr Abramius, Bishop of Arbela" (4 February).
+  ["avramie", "abramius", "abramios"],
   ["avacum", "habakkuk", "abbacum", "avvakum", "avakum"],
   ["avdie", "obadiah", "abdias"],
   ["agheu", "haggai", "aggeus"],

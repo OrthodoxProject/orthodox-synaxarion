@@ -1,0 +1,20 @@
+{
+  "id": "nikon-of-kiev-far",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Nikon, Abbot of the Kiev Far Caves",
+    "short": "Nikon, Abbot of the Kiev Far Caves",
+    "given": "Nikon"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/23/100867-venerable-nikon-abbot-of-the-kiev-far-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

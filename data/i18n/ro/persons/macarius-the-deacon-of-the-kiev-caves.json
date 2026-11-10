@@ -1,0 +1,23 @@
+{
+  "id": "macarius-the-deacon-of-the-kiev-caves",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Macarie diaconul, de la Lavra Peșterilor",
+    "full": "Sfântul Cuvios Macarie diaconul, de la Lavra Peșterilor",
+    "short": "Macarie diaconul, de la Lavra Peșterilor",
+    "given": "Macarie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/19/100230-venerable-macarius-the-deacon-of-the-kiev-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-10"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "anatolius-the-recluse-of-the-kiev-far--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:anatolius-the-recluse-of-the-kiev-far"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 3
+  },
+  "external_ids": {
+    "oca": "101875"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/03/101875-venerable-anatolius-the-recluse-of-the-kiev-far-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

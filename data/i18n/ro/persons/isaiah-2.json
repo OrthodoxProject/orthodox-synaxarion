@@ -1,0 +1,23 @@
+{
+  "id": "isaiah-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Isaia făcătorul de minuni, de la Peșterile Apropiate din Kiev",
+    "full": "Sfântul Cuvios Isaia făcătorul de minuni, de la Peșterile Apropiate din Kiev",
+    "short": "Isaia făcătorul de minuni, de la Peșterile Apropiate din Kiev",
+    "given": "Isaia"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/15/101387-venerable-isaiah-wonderworker-of-the-kiev-near-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-10"
+  }
+}

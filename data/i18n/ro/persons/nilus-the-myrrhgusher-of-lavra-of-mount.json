@@ -1,0 +1,23 @@
+{
+  "id": "nilus-the-myrrhgusher-of-lavra-of-mount",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Nil Izvorâtorul de mir, de la Lavra din Muntele Athos",
+    "full": "Sfântul Cuvios Nil Izvorâtorul de mir, de la Lavra din Muntele Athos",
+    "short": "Nil Izvorâtorul de mir, de la Lavra din Muntele Athos",
+    "given": "Nil"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/07/101323-venerable-nilus-the-myrrhgusher-of-lavra-of-mount-athos",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-10"
+  }
+}

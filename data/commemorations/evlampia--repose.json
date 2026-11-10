@@ -9,6 +9,9 @@
     "month": 10,
     "day": 10
   },
+  "external_ids": {
+    "oca": "102919"
+  },
   "sources": [
     {
       "source": "src:doxologia",
@@ -19,13 +22,18 @@
       "source": "src:calendar-patriarhia",
       "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-evlampie-si-sora-sa-evlampia-sf-cuv-vasian-si-teofil-marturisitorul/",
       "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/10/102919-martyrs-eulampius-and-eulampia-at-nicomedia-and-200-martyrs-with",
+      "accessed": "2026-11-08"
     }
   ],
   "editorial": {
     "status": "draft",
-    "confidence": "low",
+    "confidence": "medium",
     "notes": [
-      "Importat automat din doxologia.ro, calendar.patriarhia.ro; de verificat."
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
     ]
   }
 }

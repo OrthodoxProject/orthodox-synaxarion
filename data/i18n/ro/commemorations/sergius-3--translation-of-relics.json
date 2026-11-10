@@ -1,8 +1,8 @@
 {
-  "id": "sergius-the-wonderworker-of-radonezh--translation-of-relics",
-  "locale": "en",
+  "id": "sergius-3--translation-of-relics",
+  "locale": "ro",
   "names": {
-    "display": "Translation of the Relics of Venerable Sergius and Herman, Wonderworkers of Valaam"
+    "display": "Aducerea moaștelor Sf. Cuv. Serghie și Gherman, făcătorii de minuni de la Valaam"
   },
   "references": [
     {
@@ -12,7 +12,9 @@
     }
   ],
   "translation": {
-    "status": "draft",
-    "method": "original"
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
   }
 }

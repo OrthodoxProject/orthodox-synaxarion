@@ -2,22 +2,20 @@
   "id": "eucarpus-of-nicomedia",
   "locale": "ro",
   "names": {
-    "display": "Sf. Mc. Evcarpion din Nicomidia",
-    "full": "Sfântul Mucenic Evcarpion din Nicomidia",
-    "short": "Evcarpion din Nicomidia",
+    "display": "Sf. Mc. Evcarpion",
+    "full": "Sfântul Mucenic Evcarpion",
+    "short": "Evcarpion",
     "given": "Evcarpion"
   },
   "references": [
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/03/18/100826-martyrs-trophimus-and-eucarpus-of-nicomedia",
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-evcarpion",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "en",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

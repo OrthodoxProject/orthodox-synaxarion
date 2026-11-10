@@ -79,6 +79,19 @@ describe("name keys", () => {
       assert.equal(givenSimilarity(a, b), 1, `${ro} / ${en}`);
     }
   });
+  it("reads the Romanian Ev- before a consonant as the Eu- of the Greek names (Evsignie / Eusignius, Evgraf / Eugraphus)", () => {
+    for (const [ro, en] of [
+      ["Evsignie", "Eusignius"],
+      ["Evgraf", "Eugraphus"],
+      ["Evloghie", "Eulogius"],
+      ["Evlampie", "Eulampius"],
+      ["Evria", "Euroea"],
+    ]) {
+      assert.equal(skeleton(ro ?? ""), skeleton(en ?? ""), `${ro} / ${en}`);
+    }
+    // Before a vowel, Ev- stays.
+    assert.notEqual(skeleton("Evanghel"), skeleton("Euanghel"));
+  });
 });
 
 describe("Romanian titles", () => {
@@ -734,6 +747,45 @@ describe("matching the sources", () => {
     assert.deepEqual(pairsOf(["Sfântul și Dreptul Evdochim"], [["102154", "Righteous Eudocimus of Cappadocia"]], 7, 31), { "Sf. și Drept. Evdochim": "Righteous Eudocimus of Cappadocia" });
   });
 
+  it("puts together the saints whose Romanian Ev- is the OCA's Eu- (5 August: Evsignie / Eusignius, 10 December: Evgraf / Eugraphus, 30 April: Donat of Evria / Donatus of Euroea)", () => {
+    assert.deepEqual(pairsOf(["Sfântul Mucenic Evsignie"], [["102206", "Martyr Eusignius of Antioch"]], 8, 5), { "Sf. Mc. Evsignie": "Martyr Eusignius of Antioch" });
+    assert.deepEqual(pairsOf(["Sfântul Mucenic Evgraf", "Sfântul Mucenic Ermoghen", "Sfântul Mucenic Mina"], [["103511", "Martyrs Menas, Hermogenes, and Eugraphus, of Alexandria"]], 12, 10), {
+      "Sf. Mc. Evgraf": "Martyr Eugraphus, of Alexandria",
+      "Sf. Mc. Ermoghen": "Martyr Hermogenes",
+      "Sf. Mc. Mina": "Martyr Menas",
+    });
+    // The see is a place of the name: Evria is Euroea.
+    assert.deepEqual(pairsOf(["Sfântul Ierarh Donat, Episcopul Evriei"], [["107780", "Saint Donatus, Bishop of Euroea in Epirus"]], 4, 30), {
+      "Sf. Ier. Donat, Episcopul Evriei": "Saint Donatus, Bishop of Euroea in Epirus",
+    });
+  });
+
+  it("gives the official line of a saint and his sister the OCA line of their group, in every calendar (10 October: Evlampie and Evlampia, the OCA's Eulampius and Eulampia with 200 martyrs)", () => {
+    const title = "Sf. Mc. Evlampie și sora sa, Evlampia";
+    const sources: SourceData = {
+      ...data,
+      patriarhia: [{ year: 2026, month: 10, day: 10, url: "https://calendar.patriarhia.ro/calendar-entry-26/10-octombrie/", items: [{ text: title, cross: null, color: "black" }], title, subtitle: "", publicHoliday: false }],
+      doxologia: ["Sfântul Mucenic Evlampie", "Sfânta Muceniță Evlampia, sora Sfântului Mucenic Evlampie"].map((t, order) => ({ slug: `doxologia-${order}`, title: t, month: 10, day: 10, order, color: null, cross: null, secondRow: false })),
+      oca: [2026, 2028].map((year) => ({ id: "102919", title: "Martyrs Eulampius and Eulampia, at Nicomedia, and 200 Martyrs with them", path: `/saints/lives/${year}/10/10/102919-martyrs-eulampius`, year, month: 10, day: 10, order: 0 })),
+    };
+    const existing = loadExisting(join(REPO_ROOT, "tests", "fixtures", "minimal", "data"));
+    const builder = new Builder(existing);
+    builder.romanian(doxologiaUnits(sources), patriarhiaUnits(sources), [{ month: 10, day: 10 }]);
+    builder.russian(ocaUnits(sources, [2026, 2028]).fixed);
+    builder.shared(["ecumenical"]);
+    // One line of the two saints in the Romanian calendar, and the same line in the Russian and shared calendars.
+    const lines = (tradition: string): Cluster[][] => builder.lines.get(tradition)?.get("10-10")?.map((l) => l.clusters) ?? [];
+    assert.equal(lines("romanian").length, 1);
+    assert.equal(lines("romanian")[0]?.length, 2);
+    assert.deepEqual(lines("russian"), lines("romanian"));
+    assert.deepEqual(lines("ecumenical"), lines("romanian"));
+    // Two saints, with the names of both sources; no group of their own.
+    const output = new RecordWriter(existing, { clusters: builder.clusters, lines: builder.lines, movable: builder.movable, stats: builder.stats }).write();
+    assert.deepEqual([...output.files.keys()].filter((k) => k.startsWith("persons/") || k.startsWith("groups/")).sort(), ["persons/eulampia.json", "persons/eulampius.json"]);
+    assert.equal(output.files.get("i18n/en/persons/eulampius.json")?.names.display, "Martyr Eulampius");
+    assert.equal(output.files.get("i18n/ro/persons/eulampius.json")?.names.display, "Sf. Mc. Evlampie");
+  });
+
   it("gives the OCA line of two saints and their companions to both saints of the official line (16 February: Pamfil and Valent, the OCA's Pamphilius and Valens)", () => {
     const sources: SourceData = {
       ...data,
@@ -789,6 +841,36 @@ describe("matching the sources", () => {
     assert.equal(output.files.get(`i18n/en/persons/${relics?.subjects[0]?.replace(/^person:/, "")}.json`)?.names.display, "Martyr and Passion-Bearer Boris");
   });
 
+  it("gives the relics of saints named together with one place to the saints of that place, not to the first saint of the name (8 August: Zosimas and Sabbatius of Solovki, 11 September: Sergius and Herman of Valaam)", () => {
+    const sources: SourceData = {
+      ...data,
+      doxologia: [{ slug: "sfantul-cuvios-serghie-de-la-radonej", title: "Sfântul Cuvios Serghie de la Radonej", month: 9, day: 25, order: 0, color: null, cross: null, secondRow: false }],
+      oca: [
+        { id: "100987", title: "Venerable Zosimas, Abbot of Vorbozomsk", month: 4, day: 4 },
+        { id: "900011", title: "Venerable Zosimas of Palestine", month: 4, day: 4 },
+        { id: "101130", title: "Venerable Zosimas, Abbot of Solovki", month: 4, day: 17 },
+        { id: "101836", title: "Venerable Sergius and Herman, Wonderworkers of Valaam", month: 6, day: 28 },
+        { id: "900012", title: "Venerable Zosimas of Tuman", month: 8, day: 8 },
+        { id: "102231", title: "Translation of the relics of Venerable Zosimas and Sabbatius of Solovki", month: 8, day: 8 },
+        { id: "102571", title: "Translation of the relics of Venerable Sergius and Herman, Wonderworkers of Valaam", month: 9, day: 11 },
+        { id: "102725", title: "Venerable Sergius the Wonderworker, Abbot of Radonezh", month: 9, day: 25 },
+      ].flatMap((x) => [2026, 2028].map((year) => ({ id: x.id, title: x.title, path: `/saints/lives/${year}/${String(x.month).padStart(2, "0")}/${String(x.day).padStart(2, "0")}/${x.id}`, year, month: x.month, day: x.day, order: 0 }))),
+    };
+    const existing = loadExisting(join(REPO_ROOT, "tests", "fixtures", "minimal", "data"));
+    const builder = new Builder(existing);
+    builder.romanian(doxologiaUnits(sources), [], [{ month: 9, day: 25 }]);
+    builder.russian(ocaUnits(sources, [2026, 2028]).fixed);
+    const output = new RecordWriter(existing, { clusters: builder.clusters, lines: builder.lines, movable: builder.movable, stats: builder.stats }).write();
+    const subjectOf = (oca: string): string | undefined => {
+      const comm = [...output.files.entries()].find(([k, v]) => k.startsWith("commemorations/") && v.external_ids?.oca === oca)?.[1];
+      return output.files.get(`i18n/en/persons/${comm?.subjects?.[0]?.replace(/^person:/, "")}.json`)?.names.display;
+    };
+    // Four Venerable Zosimases share the first name, and the OCA keeps Zosimas of Tuman that very day: "of Solovki" decides.
+    assert.equal(subjectOf("102231"), "Venerable Zosimas, Abbot of Solovki");
+    // The Sergius of the 28 June line of Sergius and Herman of Valaam, not the Sergius of Radonezh listed first.
+    assert.equal(subjectOf("102571"), "Venerable Sergius");
+  });
+
   it("writes one saint for a line that names him with two places (St Innocent of Komél and Vologda)", () => {
     const innocent: SourceData = {
       ...data,
@@ -835,6 +917,30 @@ describe("matching the sources", () => {
     const persons = [...output.files.keys()].filter((k) => k.startsWith("persons/"));
     assert.deepEqual(persons, ["persons/seraphim-of-sarov.json"]);
     assert.equal(output.files.get("i18n/en/persons/seraphim-of-sarov.json")?.names.display, "Venerable Seraphim, Wonderworker of Sarov");
+  });
+
+  it("keeps a saint of the Russian list on the day the OCA keeps the translation of his relics as that commemoration (5 June: Igor-George of Chernigov)", () => {
+    const igor: SourceData = {
+      ...data,
+      doxologia: [],
+      oca: [
+        { id: "101611", title: "Translation of the relics of the Right-believing Igor-George, Tonsured Gabriel, Grand Prince of Chernigov, and Kiev", month: 6, day: 5 },
+        { id: "102672", title: "Right-believing Great Prince Igor of Kiev and Chernigov", month: 9, day: 19 },
+      ].flatMap((x) => [2026, 2028].map((year) => ({ id: x.id, title: x.title, path: `/saints/lives/${year}/${String(x.month).padStart(2, "0")}/${String(x.day).padStart(2, "0")}/${x.id}`, year, month: x.month, day: x.day, order: 0 }))),
+      // The list gives 18 June, the civil date on which the Russian Church keeps 5 June.
+      overlays: [{ tradition: "russian", file: "russian_saints.json", calendar: "julian", month: 6, day: 18, order: 0, name: "Blessed Igor-George", title: "Blessed Igor-George, tonsured Gabriel, great prince of Chernigov and Kiev (1147)", feastType: "Saint" }],
+    };
+    const existing = loadExisting(join(REPO_ROOT, "tests", "fixtures", "minimal", "data"));
+    const builder = new Builder(existing);
+    builder.russian(ocaUnits(igor, [2026, 2028]).fixed);
+    builder.overlay(overlayUnits(igor));
+    const output = new RecordWriter(existing, { clusters: builder.clusters, lines: builder.lines, movable: builder.movable, stats: builder.stats }).write();
+    // No saint of the list's own: the list keeps his relics, already on the Russian line of 5 June.
+    assert.deepEqual([...output.files.keys()].filter((k) => k.startsWith("persons/")), ["persons/igor-of-kiev-and-chernigov.json"]);
+    const relics = output.files.get("commemorations/igor-of-kiev-and-chernigov--translation-of-relics.json");
+    assert.deepEqual(relics?.subjects, ["person:igor-of-kiev-and-chernigov"]);
+    assert.deepEqual(relics?.sources.map((s: { source: string }) => s.source), ["src:oca-lives", "src:orthodox-calendar"]);
+    assert.deepEqual(output.files.get("traditions/russian/menaion/06/05.json")?.entries, [{ commemorations: ["comm:igor-of-kiev-and-chernigov--translation-of-relics"] }]);
   });
 
   it("writes a woman whose name does not end in -a as a woman (St Mary of Egypt)", () => {
@@ -914,6 +1020,30 @@ describe("matching the sources", () => {
     // "Prince of the Martyrs" is what the Coptic Synaxarium calls the Great Martyr.
     assert.deepEqual(output.files.get("commemorations/george-prince-of-the-martyrs--finding-of-relics.json")?.subjects, ["person:george-prince-of-the-martyrs"]);
     assert.equal([...output.files.keys()].filter((k) => k.startsWith("persons/")).length, 3);
+  });
+
+  it("gives the Coptic church of St. George of Cappadocia to the Prince of the Martyrs, not to another George (7 Hatour)", () => {
+    const coptic: SourceData = {
+      accessed: "2026-11-08",
+      patriarhia: [],
+      doxologia: [],
+      oca: [],
+      coptic: [
+        { month: 3, day: 7, n: 1, title: "The Martyrdom of St. George of Alexandria." },
+        { month: 3, day: 7, n: 4, title: "The Consecration of the Church of St. George of Cappadocia." },
+        { month: 8, day: 23, n: 1, title: "The Martyrdom of St. George Prince of the Martyrs." },
+      ],
+      armenian: [],
+      overlays: [],
+    };
+    const existing = loadExisting(join(REPO_ROOT, "tests", "fixtures", "minimal", "data"));
+    const builder = new Builder(existing);
+    builder.coptic(copticUnits(coptic));
+    const output = new RecordWriter(existing, { clusters: builder.clusters, lines: builder.lines, movable: builder.movable, stats: builder.stats }).write();
+    const church = [...output.files.entries()].find(([k, v]) => k.startsWith("commemorations/") && v.external_ids?.copticchurch === "3_7#4")?.[1];
+    assert.equal(church?.kind, "event");
+    assert.deepEqual(church?.subjects, ["person:george-prince-of-the-martyrs"]);
+    assert.equal([...output.files.keys()].filter((k) => k.startsWith("persons/")).length, 2);
   });
 
   it("writes a man whose name ends like a woman's as a man (Apostle Aquila, Sf. Ap. Achila)", () => {

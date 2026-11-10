@@ -8,20 +8,13 @@
   },
   "references": [
     {
-      "source": "src:doxologia",
-      "url": "https://doxologia.ro/sfantul-mucenic-evlampie",
-      "accessed": "2026-11-08"
-    },
-    {
-      "source": "src:calendar-patriarhia",
-      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-evlampie-si-sora-sa-evlampia-sf-cuv-vasian-si-teofil-marturisitorul/",
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/10/102919-martyrs-eulampius-and-eulampia-at-nicomedia-and-200-martyrs-with",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "ro",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

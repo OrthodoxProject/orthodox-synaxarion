@@ -2,22 +2,20 @@
   "id": "eulogius-of-palestine",
   "locale": "ro",
   "names": {
-    "display": "Sf. Mc. Evloghie din Palestina",
-    "full": "Sfântul Mucenic Evloghie din Palestina",
-    "short": "Evloghie din Palestina",
+    "display": "Sf. Mc. Evloghie",
+    "full": "Sfântul Mucenic Evloghie",
+    "short": "Evloghie",
     "given": "Evloghie"
   },
   "references": [
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/03/05/100667-martyr-eulogius-of-palestine",
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-evloghie",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "en",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

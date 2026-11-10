@@ -4,6 +4,13 @@
   "entries": [
     {
       "commemorations": [
+        "comm:evlampie--repose",
+        "comm:evlampia--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
         "comm:bassian-of-constantinople--repose"
       ],
       "confidence": "low"

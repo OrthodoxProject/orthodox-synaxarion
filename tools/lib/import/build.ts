@@ -81,6 +81,9 @@ export interface BuildResult {
 
 const PERSON_KINDS = new Set(["persons", "angels"]);
 
+/** Commemorations of a saint other than his repose. */
+const SAINT_DAYS = new Set(["relics_translation", "relics_finding", "glorification", "event"]);
+
 function symbolOf(cross: string | null | undefined, color: string | undefined): string | undefined {
   if (!cross) return undefined;
   const shape = cross === "(†)" ? "parenthesized" : cross === "†)" ? "half-parenthesized" : "plain";
@@ -948,7 +951,9 @@ export class Builder {
   /**
    * A line of the lists of the Julian-calendar Churches, on its Menaion date
    * first, where a bare name ("Helen of Dečani") must not take another saint
-   * of the same first name. The OCA keeps some saints of the 20th century on
+   * of the same first name. A saint that the Menaion date keeps through his
+   * relics or his glorification, not through a line of his own, is kept that
+   * way (see saintsOtherDay). The OCA keeps some saints of the 20th century on
    * their civil day (Sf. Patriarh Tihon on 7 April, the Royal Martyrs on 17
    * July), so a line that matches nothing on its Menaion date is looked for on
    * the day listed.
@@ -956,7 +961,9 @@ export class Builder {
   private placeListed(u: Unit): { clusters: Cluster[]; month: number; day: number } {
     const here = { month: u.month, day: u.day };
     const pool = this.candidates(u.month, u.day);
-    const result = this.match(u, pool, { agree: true, sameGender: true });
+    const named = this.match(u, pool, { agree: true, sameGender: true });
+    const own = named.clusters.length === 0 ? this.saintsOtherDay(u, pool) : undefined;
+    const result: MatchResult = own ? { clusters: [own], pairs: [], rest: [] } : named;
     if (!u.listed || this.exactFor(u).length > 0) return { clusters: this.place(u, pool, result), ...here };
     const civil: Unit = { ...u, month: u.listed.month, day: u.listed.day };
     delete civil.leapDay;
@@ -966,6 +973,27 @@ export class Builder {
       if (late.clusters.length > 0 && late.rest.length === 0) return { clusters: this.place(civil, undefined, late), ...u.listed };
     }
     return { clusters: this.place(u, pool, result), ...here };
+  }
+
+  /**
+   * The one commemoration of the day, other than a saint's repose, whose saint a
+   * list names by more than a first name: the Russian list keeps "Blessed
+   * Igor-George, tonsured Gabriel, great prince of Chernigov and Kiev" on 5
+   * June, the day of the translation of his relics; his repose is on 19
+   * September. The saint is read from the commemoration's title.
+   */
+  private saintsOtherDay(u: Unit, pool: Cluster[]): Cluster | undefined {
+    const p = u.parsed;
+    const part = p.names.length === 1 ? p.names[0] : undefined;
+    if (!part || (p.kind !== "saint" && p.kind !== "saints") || u.lang !== "en") return undefined;
+    const holiness = new Set(p.holiness);
+    const found = pool.filter((c) => {
+      const title = SAINT_DAYS.has(c.kind) ? c.titles.en : undefined;
+      const subject = title ? parseEn(title).subject : undefined;
+      if (!subject || (subject.kind !== "saint" && subject.kind !== "saints") || !holinessAgrees(holiness, new Set(subject.holiness))) return false;
+      return subject.names.some((n) => givenSimilarity(part, n) >= 1 && personScore(part, n, false) >= 1.2 && !namesConflict(part, n));
+    });
+    return found.length === 1 ? found[0] : undefined;
   }
 
   /**

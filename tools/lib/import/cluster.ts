@@ -200,8 +200,11 @@ const EPITHETS: Array<[RegExp, string]> = [
   [/^(izvoratorul|myrrh-gusher|myrrh-streaming)$/, "myrrh"],
 ];
 
-/** Titles that stand for an epithet: the Coptic Synaxarium calls the Great Martyr George "Prince of the Martyrs". */
-const TITLE_EPITHETS: Array<[RegExp, string]> = [[/\bprince of (?:the )?martyrs\b/giu, "great"]];
+/**
+ * Titles that stand for an epithet and a place: the Coptic Synaxarium calls the Great Martyr George "Prince of the
+ * Martyrs", and also "St. George of Cappadocia" (7 Hatour, the consecration of his church in Lydda).
+ */
+const TITLE_EPITHETS: Array<[RegExp, string]> = [[/\bprince of (?:the )?martyrs\b/giu, "great of Cappadocia"]];
 
 /** Normalised extra words of a name, for comparison across languages. */
 export function extraKeys(part: NamePart): string[] {
@@ -294,10 +297,26 @@ export function ownPart(part: NamePart): NamePart {
   return m ? { ...part, text: part.text.slice(0, m.index) } : part;
 }
 
+/** A place in a name: "din Veria", "of Dymsk", "de la Calapodești". */
+const PLACE = /\b(?:din|de la|de|of|from|at|in)\s+(\p{Lu}[\p{L}'’-]*(?:\s+\p{Lu}[\p{L}'’-]*)?)/gu;
+
+/**
+ * The first name of a list, with the places of the last name when it has none of its own: a place that closes
+ * a list belongs to every name ("Venerable Zosimas and Sabbatius of Solovki" are both of Solovki, "Sergius and
+ * Herman, Wonderworkers of Valaam" both of Valaam).
+ */
+export function firstOfList(names: NamePart[]): NamePart | undefined {
+  const first = names[0];
+  const last = names[names.length - 1];
+  if (!first || !last || last === first || placeKeys(first).length > 0) return first;
+  const places = [...last.text.matchAll(PLACE)].map((m) => m[0]);
+  return places.length > 0 ? { ...first, text: `${first.text} ${places.join(" ")}` } : first;
+}
+
 /** Skeletons of the places in a name ("din Veria", "of Dymsk", "de la Calapodești"). */
 export function placeKeys(part: NamePart): string[] {
   const out: string[] = [];
-  const re = /\b(?:din|de la|de|of|from|at|in)\s+(\p{Lu}[\p{L}'’-]*(?:\s+\p{Lu}[\p{L}'’-]*)?)/gu;
+  const re = new RegExp(PLACE);
   let m: RegExpExecArray | null;
   while ((m = re.exec(part.text))) {
     for (const w of (m[1] ?? "").split(/\s+/)) {

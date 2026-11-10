@@ -1,8 +1,8 @@
 {
-  "id": "sergius-the-wonderworker-of-radonezh--translation-of-relics",
+  "id": "sergius-3--translation-of-relics",
   "kind": "relics_translation",
   "subjects": [
-    "person:sergius-the-wonderworker-of-radonezh"
+    "person:sergius-3"
   ],
   "date_rule": {
     "type": "fixed",
@@ -25,5 +25,8 @@
     "notes": [
       "Importat automat din oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "sergius-the-wonderworker-of-radonezh--translation-of-relics"
+  ]
 }

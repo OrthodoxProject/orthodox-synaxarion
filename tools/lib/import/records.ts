@@ -4,7 +4,7 @@
  * records are kept as they are; existing calendar days get the new lines after
  * their own.
  */
-import { addCitation, holinessCompatible, newSlot, personScore, type Cluster, type GroupSubject, type Slot, type SlotName } from "./cluster.ts";
+import { addCitation, firstOfList, holinessCompatible, newSlot, personScore, type Cluster, type GroupSubject, type Slot, type SlotName } from "./cluster.ts";
 import type { Existing, ExistingLine } from "./existing.ts";
 import { FEASTS } from "./feasts.ts";
 import type { HolinessType, ParsedTitle } from "./model.ts";
@@ -155,7 +155,9 @@ export class RecordWriter {
 
   /** The person a title names, searched in the whole calendar of the family; `day` is the day of the line that names it. */
   private findBest(p: ParsedTitle, lang: "ro" | "en", family: Family, day?: string): Slot | undefined {
-    const part = p.names[0];
+    // The relics of "Venerable Zosimas and Sabbatius of Solovki" are those of Zosimas of Solovki: the first name of a
+    // list takes the place that closes it, or every Venerable Zosimas would match alike.
+    const part = firstOfList(p.names);
     if (!part) return undefined;
     const holiness = new Set(p.holiness);
     const scored: Array<{ slot: Slot; score: number; sameName: boolean }> = [];

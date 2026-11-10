@@ -544,8 +544,12 @@ export function parseEn(original: string): ParsedTitle {
   }
   if (/^(?:The )?Eve of\b/i.test(title)) return { ...base, kind: "movable" };
   if (/^(?:The )?(?:(?:First|Second|Third) )?(?:Translation|Transfer|Translocation|Relocation|Deposition|Return|Transferal|Arrival)\b.*\brelics?\b|^(?:The )?(?:(?:First|Second|Third) )?(?:Translation|Transfer|Translocation|Relocation) of the (?:body|head|hand)/i.test(title)) {
-    const subj = /\b(?:relics?|body|head|hand|remains) of (?:the |our )?(.*?)(?:,? (?:from|to|into|in) (?:the )?[A-Z].*)?$/i.exec(title);
-    return { ...base, kind: "relics_translation", subject: parseEn(subj?.[1] ?? "") };
+    const subj = /\b(?:relics?|body|head|hand|remains) of (?:the |our )?(.*?)(?:,? ((?:from|to|into|in) (?:the )?[A-Z].*))?$/i.exec(title);
+    const subject = parseEn(subj?.[1] ?? "");
+    // "… the Body of St. Theodore, the Prince, to Shotb": where the relics went.
+    const to = /(?:^|\s)(?:to|into) (?:the )?(\p{Lu}.*)$/u.exec(subj?.[2] ?? "")?.[1];
+    if (to) subject.to = to;
+    return { ...base, kind: "relics_translation", subject };
   }
   if (/\bfinding of the (?:honorable |precious |venerable )?head of\b/i.test(title) && /\b(forerunner|baptist)\b/i.test(title)) {
     return { ...base, kind: "relics_finding", subject: parseEn("Prophet John the Baptist") };

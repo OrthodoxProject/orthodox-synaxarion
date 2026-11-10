@@ -4,11 +4,11 @@
  * records are kept as they are; existing calendar days get the new lines after
  * their own.
  */
-import { addCitation, addRef, extraKeys, firstOfList, holinessCompatible, newSlot, personScore, placeKeys, type Cluster, type GroupSubject, type Slot, type SlotName } from "./cluster.ts";
+import { addCitation, addRef, extraKeys, firstOfList, holinessCompatible, knownByPlace, newSlot, numeralOf, personScore, placeKeys, type Cluster, type GroupSubject, type Slot, type SlotName } from "./cluster.ts";
 import type { Existing, ExistingLine } from "./existing.ts";
 import { FEASTS } from "./feasts.ts";
-import type { HolinessType, ParsedTitle } from "./model.ts";
-import { fold, givenSimilarity, slugify } from "./names.ts";
+import type { HolinessType, NamePart, ParsedTitle } from "./model.ts";
+import { fold, givenSimilarity, skeleton, slugify } from "./names.ts";
 import { parseEn } from "./en.ts";
 import { parseRo } from "./ro.ts";
 import type { BuildResult, LineDraft } from "./build.ts";
@@ -55,11 +55,16 @@ const KNOWN_PERSONS: Record<string, { ro: string; roFull: string; roParse?: stri
  * Saints that the Coptic Synaxarium names by their first name alone, where other saints of the family bear that name
  * with a place or an epithet, by the key of the name and the anchor of the saint's own day: "St. George" is the Great
  * Martyr, Prince of the Martyrs (23 Baramouda), "Abba Shenouda" the Archimandrite (7 Abib), "Mari Mina" the Wonder
- * Worker (15 Hatour), "St. Boctor (Victor)" the soldier of Shaou (5 Kiahk), not Boctor son of Romanus.
+ * Worker (15 Hatour), "St. Boctor (Victor)" the soldier of Shaou (5 Kiahk), not Boctor son of Romanus. "The Great St.
+ * Mark" (the Apostle) is the Apostle and Evangelist whose martyrdom it keeps on 30 Baramouda, not a Pope Mark nor an
+ * Apostle Mark of the Seventy: the line of that day points to him in the Byzantine calendars (see anchoredUniversal).
  */
 const BARE_NAMES: Partial<Record<Family, Record<string, string>>> = {
-  coptic: { grg: "8_23#1", snd: "11_7#1", mn: "3_15#1", bctr: "4_5#2" },
+  coptic: { grg: "8_23#1", snd: "11_7#1", mn: "3_15#1", bctr: "4_5#2", mrc: "8_30#1" },
 };
+
+/** Ranks that a name may carry and still name the saint by his first name alone ("the Great St. Mark the Apostle"). */
+const RANK_KEYS = new Set(["apostle", "evangelist", "prophet"].map(skeleton));
 
 export class RecordWriter {
   readonly files = new Map<string, Rec>();
@@ -68,6 +73,8 @@ export class RecordWriter {
   private readonly allSlots: Slot[] = [];
   /** The days ("MM-DD") on which the calendars keep each person, from the commemorations of the person. */
   private readonly keptOn = new Map<Slot, Set<string>>();
+  /** The person of each Coptic line about one person, by the line's anchor ("8_30#1"). */
+  private readonly anchors = new Map<string, Slot>();
   private readonly extraPersons = new Map<string, Slot>();
   private readonly existing: Existing;
   private readonly result: BuildResult;
@@ -115,6 +122,8 @@ export class RecordWriter {
       }
     }
     for (const c of [...this.existing.clusters.values(), ...this.result.clusters]) {
+      const [only] = c.slots;
+      if (c.ext.copticchurch && c.kind === "persons" && c.slots.length === 1 && only && !this.anchors.has(c.ext.copticchurch)) this.anchors.set(c.ext.copticchurch, only);
       if (c.month === 0) continue;
       for (const slot of c.slots) this.keptOn.set(slot, (this.keptOn.get(slot) ?? new Set<string>()).add(mmdd(c.month, c.day)));
     }
@@ -203,6 +212,12 @@ export class RecordWriter {
     // list takes the place that closes it, or every Venerable Zosimas would match alike.
     const part = firstOfList(p.names);
     if (!part) return undefined;
+    const universal = this.anchoredUniversal(part, family);
+    if (universal) return universal;
+    // The body or the relics brought to a place ("the Relocation of the Body of St. Theodore, the Prince, to Shotb"), when
+    // the name gives no place of its own: a saint known only by that place ("Theodore of Shotep") is the one whose body
+    // went home; one known by more ("John, Archpriest of Scetis") is not, for the relic of St. John the Short.
+    const brought: NamePart | undefined = p.to && placeKeys(part).length === 0 ? { ...part, text: `${part.text} of ${p.to}` } : undefined;
     const holiness = new Set(p.holiness);
     const scored: Array<{ slot: Slot; score: number; sameName: boolean; given: string }> = [];
     const honorificWords = new Set(
@@ -217,7 +232,7 @@ export class RecordWriter {
       let score = 0;
       let compared: SlotName | undefined;
       if (name) {
-        score = Math.max(score, personScore(part, name.part, false));
+        score = Math.max(score, personScore(part, name.part, false), brought && knownByPlace(name.part) ? personScore(brought, name.part, false) : 0);
         compared = name;
       }
       // Through the other language only when the kind of holiness agrees exactly.
@@ -262,6 +277,18 @@ export class RecordWriter {
     // and a leading vowel, and both come out as R-M-N).
     if (!best.sameName) return undefined;
     return best.slot;
+  }
+
+  /**
+   * The saint of the Byzantine calendars a Coptic name means when it names him by his first name alone, or with his rank
+   * only ("the Great St. Mark", "the Great St. Mark the Apostle"): the saint of the anchor of BARE_NAMES, when the line
+   * of his own day points to a person of the Byzantine calendars (the Apostle and Evangelist Mark, 30 Baramouda).
+   */
+  private anchoredUniversal(part: NamePart, family: Family): Slot | undefined {
+    const anchor = family === "byzantine" ? undefined : BARE_NAMES[family]?.[part.key];
+    if (!anchor || numeralOf(part) || placeKeys(part).length > 0 || extraKeys(part).some((k) => !RANK_KEYS.has(k))) return undefined;
+    const slot = this.anchors.get(anchor);
+    return slot && slot.family !== family ? slot : undefined;
   }
 
   /** The person the titles of a commemoration name; `from` is the commemoration, whose sources tell of a new person. */

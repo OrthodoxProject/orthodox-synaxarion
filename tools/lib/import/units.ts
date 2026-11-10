@@ -212,15 +212,19 @@ export function copticUnits(data: SourceData): Unit[] {
 
 /** Coptic titles say what happened: "The Departure of St. Dioscorus, 25th Pope of Alexandria". */
 export function parseCopticTitle(title: string): ParsedTitle {
-  const t = title.replace(/\.$/, "").trim();
+  const t = title
+    .replace(/\.$/, "")
+    // "The Commemoration of the Transfer of the Relies of St. James" (30 Baramhat): the relics.
+    .replace(/\bthe Relies of\b/gi, "the Relics of")
+    .trim();
   const event: ParsedTitle = { kind: "event", holiness: [], plural: false, honorific: "", rest: t, names: [], title };
   // "The Angels' Annunciation of John the Baptist to Zacharias": an event of the saint announced.
   const announced = /^(?:The )?(?:Angels?['’]s? )?Annunciation of (?:the )?(.+?) to \p{Lu}/u.exec(t);
   if (announced?.[1]) return { ...event, subject: parseEn(stripCopticTitles(announced[1])) };
   const church = copticChurch(t, title);
   if (church) return church;
-  // Councils, churches, earthquakes …: events, not saints.
-  if (/^(?:The |A )?(?:Assembly|Council|Synod|Re-?Opening|Opening|Building|Construction|Consecration|Dedication|Earthquake|Great Earthquake|Feast|Miracle|Arrival|Coming|Flight|Entrance|Appearance of the Body|Renewal|Restoration|Pilgrimage)\b/i.test(t) && !/\bof (?:St\.?|Saint|Sts\.?|Saints|the (?:Holy |Great )?(?:Martyr|Apostle|Prophet|Archangel))\b/i.test(t)) {
+  // Councils, churches, earthquakes, a liturgy …: events, not saints ("The First Pontifical Liturgy in the New St. Mark Cathedral").
+  if (/^(?:The |A )?(?:Assembly|Council|Synod|Re-?Opening|Opening|Building|Construction|Consecration|Dedication|Earthquake|Great Earthquake|Feast|Miracle|Arrival|Coming|Flight|Entrance|Appearance of the Body|Renewal|Restoration|Pilgrimage|(?:First )?(?:Pontifical |Divine )?Liturgy)\b/i.test(t) && !/\bof (?:St\.?|Saint|Sts\.?|Saints|the (?:Holy |Great )?(?:Martyr|Apostle|Prophet|Archangel))\b/i.test(t)) {
     return event;
   }
   let m: RegExpExecArray | null;
@@ -241,7 +245,8 @@ export function parseCopticTitle(title: string): ParsedTitle {
     if (owner?.[1]) return { kind: "event", holiness: [], plural: false, honorific: "", rest: t, names: [], title, subject: parseEn(owner[1]) };
     const inner = parseEn(person);
     if (inner.kind === "saint" || inner.kind === "saints" || inner.kind === "group") {
-      if (/^(?:The )?Martyrdom/i.test(t) && !inner.holiness.some((h) => /martyr/.test(h))) inner.holiness = [...inner.holiness, "martyr"];
+      // "The Martyrdom of …", "The Commemoration of the Martyrdom of St. Thecla": a martyr.
+      if (/^(?:The )?(?:Commemoration of (?:the )?)?Martyrdom\b/i.test(t) && !inner.holiness.some((h) => /martyr/.test(h))) inner.holiness = [...inner.holiness, "martyr"];
       // The person is named without "The Departure of"; the line keeps it as the day's title.
       const own: ParsedTitle = { ...inner, title: two && inner.names.length > 1 ? person.replace(/^Saint /, "Saints ") : person };
       const also: ParsedTitle[] = [];

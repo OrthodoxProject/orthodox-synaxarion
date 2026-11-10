@@ -108,5 +108,7 @@ export interface ParsedTitle {
   also?: ParsedTitle[];
   /** For a part of `also`: its subject is the saint of the line ("and the Relocation of His Holy Relics"). */
   ofLine?: boolean;
+  /** For the saint of a relics line: the place the relics or the body were brought to ("… of St. Theodore, the Prince, to Shotb"). */
+  to?: string;
   title: string;
 }

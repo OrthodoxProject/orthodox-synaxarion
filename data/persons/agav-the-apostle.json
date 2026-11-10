@@ -18,13 +18,21 @@
       "source": "src:calendar-patriarhia",
       "url": "https://calendar.patriarhia.ro/calendar-entry-26/sfanta-si-marea-miercuri-denie-sf-ap-irodion-agav-ruf-asincrit-flegon-si-ermis-sf-ier-celestin-episcopul-romei/",
       "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/6_4.html?lang=en#1",
+      "accessed": "2026-11-08"
     }
   ],
   "editorial": {
     "status": "draft",
     "confidence": "low",
     "notes": [
-      "Importat automat din doxologia.ro, calendar.patriarhia.ro; de verificat."
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, copticchurch.net; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "agabus"
+  ]
 }

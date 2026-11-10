@@ -1,18 +1,18 @@
 {
-  "id": "evcarpion--repose",
-  "kind": "repose",
+  "id": "eudokia-of-persia--translation-of-relics",
+  "kind": "relics_translation",
   "subjects": [
-    "person:evcarpion"
+    "person:eudokia-of-persia"
   ],
   "date_rule": {
     "type": "fixed",
-    "month": 3,
-    "day": 18
+    "month": 8,
+    "day": 4
   },
   "sources": [
     {
       "source": "src:doxologia",
-      "url": "https://doxologia.ro/sfantul-mucenic-evcarpion",
+      "url": "https://doxologia.ro/aducerea-moastelor-sfintei-mucenite-evdochia",
       "accessed": "2026-11-08"
     }
   ],
@@ -22,5 +22,8 @@
     "notes": [
       "Importat automat din doxologia.ro; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "evdochia-2--translation-of-relics"
+  ]
 }

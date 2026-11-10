@@ -1,8 +1,8 @@
 {
-  "id": "gregorius--finding-of-relics",
+  "id": "george-prince-of-the-martyrs--finding-of-relics",
   "kind": "relics_finding",
   "subjects": [
-    "person:gregorius"
+    "person:george-prince-of-the-martyrs"
   ],
   "date_rule": {
     "type": "fixed",
@@ -31,5 +31,8 @@
     "notes": [
       "Importat automat din copticchurch.net, st-takla.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "gregorius--finding-of-relics"
+  ]
 }

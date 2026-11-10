@@ -1,15 +1,13 @@
 {
-  "id": "donat-of-evria",
+  "id": "eudokia-of-persia--translation-of-relics",
   "locale": "en",
   "names": {
-    "display": "Saint Donatus, Bishop of Euroea",
-    "short": "Donatus, Bishop of Euroea",
-    "given": "Donatus"
+    "display": "Translation of the relics of the Martyr Eudocia"
   },
   "references": [
     {
       "source": "src:doxologia",
-      "url": "https://doxologia.ro/sfantul-ierarh-donat-episcopul-evriei",
+      "url": "https://doxologia.ro/aducerea-moastelor-sfintei-mucenite-evdochia",
       "accessed": "2026-11-08"
     }
   ],

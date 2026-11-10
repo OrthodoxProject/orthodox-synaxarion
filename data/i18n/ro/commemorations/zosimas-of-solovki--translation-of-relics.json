@@ -1,8 +1,8 @@
 {
-  "id": "zosimas-of-vorbozomsk--translation-of-relics",
-  "locale": "en",
+  "id": "zosimas-of-solovki--translation-of-relics",
+  "locale": "ro",
   "names": {
-    "display": "Translation of the relics of Venerable Zosimas and Sabbatius of Solovki"
+    "display": "Aducerea moaștelor Sf. Cuv. Zosima și Savatie de la Solovăț"
   },
   "references": [
     {
@@ -12,7 +12,9 @@
     }
   ],
   "translation": {
-    "status": "draft",
-    "method": "original"
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-08"
   }
 }

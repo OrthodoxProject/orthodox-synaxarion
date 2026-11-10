@@ -1,6 +1,9 @@
 {
   "id": "the-consecration-of-the-church-of-st-george",
   "kind": "event",
+  "subjects": [
+    "person:george-prince-of-the-martyrs"
+  ],
   "date_rule": {
     "type": "fixed",
     "month": 3,

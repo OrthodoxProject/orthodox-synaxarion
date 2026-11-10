@@ -64,7 +64,8 @@ const EQUIVALENTS: string[][] = [
   ["irineu", "irenaeus"],
   ["eftimie", "euthymius", "evfimy", "euthymios"],
   ["eustatie", "eustathius", "eustace", "eustathios"],
-  ["evdochia", "eudocia", "evdokia"],
+  ["evdochia", "eudocia", "evdokia", "eudokia"],
+  ["evdochim", "eudocimus", "eudokimos", "evdokim"],
   ["avraam", "abraham"],
   ["avacum", "habakkuk", "abbacum", "avvakum", "avakum"],
   ["avdie", "obadiah", "abdias"],
@@ -141,6 +142,7 @@ const EQUIVALENTS: string[][] = [
   ["procopie", "procopius"],
   ["sofronie", "sophronius"],
   ["valentin", "valentine"],
+  ["valent", "valens"],
   ["vichentie", "vincent"],
   ["vladimir", "vladimir"],
   ["zenovie", "zenobius"],
@@ -202,6 +204,8 @@ export function equivalent(word: string): string | undefined {
 /** Consonant skeleton of a name, comparable across Romanian and English spellings. */
 export function skeleton(word: string): string {
   let w = fold(word).replace(/[^a-z]/g, "");
+  // Greek "Eu-" is Romanian "Ev-" before a consonant (Evsignie / Eusignius, Evgraf / Eugraphus, Evloghie / Eulogius).
+  w = w.replace(/^ev(?=[bcdfghjklmnpqrstvwxz])/, "eu");
   // Latin and Greek endings (English) and Romanian endings.
   w = w.replace(/(ius|ios|eus|aeus|us|os|ie|iu|ia|ea|is|as|es|e|a|i|o|u|y)$/, "");
   w = w

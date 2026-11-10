@@ -2,26 +2,19 @@
   "id": "eufrosin-bucatarul",
   "locale": "en",
   "names": {
-    "display": "Venerable Euphrosynus the Cook",
-    "short": "Euphrosynus the Cook",
-    "given": "Euphrosynus"
+    "display": "Saint Euphrosynos the Cook of Alexandria",
+    "short": "Euphrosynos the Cook of Alexandria",
+    "given": "Euphrosynos"
   },
   "references": [
     {
-      "source": "src:doxologia",
-      "url": "https://doxologia.ro/sfantul-cuvios-eufrosin-bucatarul",
-      "accessed": "2026-11-08"
-    },
-    {
-      "source": "src:calendar-patriarhia",
-      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-teodora-din-alexandria-sf-cuv-eufrosin-bucatarul/",
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/11/102581-saint-euphrosynos-the-cook-of-alexandria",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "ro",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

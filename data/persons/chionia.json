@@ -3,10 +3,20 @@
   "kind": "saint",
   "gender": "female",
   "holiness_types": [
-    "virgin",
-    "martyr"
+    "martyr",
+    "virgin"
   ],
   "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfintele-mucenite-fecioare-agapia-irina-hionia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-fecioare-agapia-irina-si-hionia/",
+      "accessed": "2026-11-08"
+    },
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/04/16/101106-virgin-martyrs-agape-irene-and-chionia-in-illyria",
@@ -15,9 +25,12 @@
   ],
   "editorial": {
     "status": "draft",
-    "confidence": "low",
+    "confidence": "medium",
     "notes": [
-      "Importat automat din oca.org; de verificat."
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "hionia"
+  ]
 }

@@ -1,0 +1,29 @@
+{
+  "id": "demetrius-of-tsilibinsk--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:demetrius-of-tsilibinsk"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 26
+  },
+  "external_ids": {
+    "oca": "108922"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/26/108922-saint-demetrius-of-tsilibinsk",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

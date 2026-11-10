@@ -1,0 +1,20 @@
+{
+  "id": "coprius-of-pechenga--repose",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Avraam și Coprie de la Pecenga"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/04/100425-venerable-abraham-and-coprius-of-pechenga",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-10"
+  }
+}

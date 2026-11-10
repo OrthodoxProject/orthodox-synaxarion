@@ -1,0 +1,23 @@
+{
+  "id": "john-of-kiev-near",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ioan, de la Peșterile Apropiate din Kiev",
+    "full": "Sfântul Cuvios Ioan, de la Peșterile Apropiate din Kiev",
+    "short": "Ioan, de la Peșterile Apropiate din Kiev",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/29/103684-venerable-mark-the-grave-digger-theophilus-and-john-of-the-kiev",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-10"
+  }
+}

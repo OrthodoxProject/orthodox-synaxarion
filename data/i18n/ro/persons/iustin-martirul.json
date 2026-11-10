@@ -5,20 +5,12 @@
     "display": "Sf. Iustin Martirul și Filosoful",
     "full": "Sfântul Iustin Martirul și Filosoful",
     "short": "Iustin Martirul și Filosoful",
-    "given": "Iustin",
-    "variants": [
-      "Sf. Mc. Iustin"
-    ]
+    "given": "Iustin"
   },
   "references": [
     {
       "source": "src:doxologia",
       "url": "https://doxologia.ro/sfantul-iustin-martirul-filosoful",
-      "accessed": "2026-11-08"
-    },
-    {
-      "source": "src:doxologia",
-      "url": "https://doxologia.ro/sfantul-mucenic-iustin",
       "accessed": "2026-11-08"
     }
   ],

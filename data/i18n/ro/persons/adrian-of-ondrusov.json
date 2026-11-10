@@ -2,15 +2,22 @@
   "id": "adrian-of-ondrusov",
   "locale": "ro",
   "names": {
-    "display": "Sf. Sfințit Mc. Adrian de la Ondrusov, făcătorul de minuni",
-    "full": "Sfântul Sfințit Mucenic Adrian de la Ondrusov, făcătorul de minuni",
-    "short": "Adrian de la Ondrusov, făcătorul de minuni",
+    "display": "Sf. Cuv. Adrian, egumenul de la Ondrusov, Valaam",
+    "full": "Sfântul Cuvios Adrian, egumenul de la Ondrusov, Valaam",
+    "short": "Adrian, egumenul de la Ondrusov, Valaam",
     "given": "Adrian"
   },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/26/102401-venerable-adrian-abbot-of-ondrusov-valaam",
+      "accessed": "2026-11-08"
+    }
+  ],
   "translation": {
     "status": "machine",
     "method": "machine",
     "from": "en",
-    "date": "2026-11-08"
+    "date": "2026-11-10"
   }
 }

@@ -1,0 +1,23 @@
+{
+  "id": "phokas-the-gardener-of-sinope",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Foca grădinarul din Sinope",
+    "full": "Sfântul Mucenic Foca grădinarul din Sinope",
+    "short": "Foca grădinarul din Sinope",
+    "given": "Foca"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/22/102699-martyr-phokas-the-gardener-of-sinope",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-10"
+  }
+}

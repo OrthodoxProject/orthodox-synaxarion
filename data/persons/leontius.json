@@ -3,8 +3,7 @@
   "kind": "saint",
   "gender": "male",
   "holiness_types": [
-    "martyr",
-    "venerable"
+    "martyr"
   ],
   "external_ids": {
     "doxologia": "sfantul-mucenic-leontie-0"
@@ -13,11 +12,6 @@
     {
       "source": "src:doxologia",
       "url": "https://doxologia.ro/sfantul-mucenic-leontie-0",
-      "accessed": "2026-11-08"
-    },
-    {
-      "source": "src:doxologia",
-      "url": "https://doxologia.ro/sfantul-cuvios-leontie-dionisiatul-izvoratorul-de-mir",
       "accessed": "2026-11-08"
     },
     {

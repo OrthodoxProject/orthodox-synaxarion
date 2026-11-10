@@ -1,0 +1,23 @@
+{
+  "id": "adrian-of-uglich",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Adrian din Uglici",
+    "full": "Sfântul Adrian din Uglici",
+    "short": "Adrian din Uglici",
+    "given": "Adrian"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/26/108970-saint-adrian-of-glich",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-10"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "michael-5",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Mihail",
+    "full": "Sfântul Mucenic Mihail",
+    "short": "Mihail",
+    "given": "Mihail"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/29/102129-martyr-michael",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-10"
+  }
+}

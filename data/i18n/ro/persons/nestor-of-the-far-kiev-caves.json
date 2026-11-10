@@ -1,0 +1,23 @@
+{
+  "id": "nestor-of-the-far-kiev-caves",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Nestor (nu Cronicarul), de la Peșterile Depărtate din Kiev",
+    "full": "Sfântul Nestor (nu Cronicarul), de la Peșterile Depărtate din Kiev",
+    "short": "Nestor de la Peșterile Depărtate din Kiev",
+    "given": "Nestor"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/27/108921-saint-nestor-not-the-chronicler-of-the-far-kiev-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-10"
+  }
+}

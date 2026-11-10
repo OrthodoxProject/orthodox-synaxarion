@@ -1,0 +1,29 @@
+{
+  "id": "leontius-the-hagiorite--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:leontius-the-hagiorite"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 18
+  },
+  "external_ids": {
+    "oca": "101750"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/18/101750-venerable-leontius-the-hagiorite",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "publius-of-athens",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Publie, Episcopul Atenei",
+    "full": "Sfântul Sfințit Mucenic Publie, Episcopul Atenei",
+    "short": "Publie, Episcopul Atenei",
+    "given": "Publie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/13/100795-hieromartyr-publius-bishop-of-athens",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-10"
+  }
+}

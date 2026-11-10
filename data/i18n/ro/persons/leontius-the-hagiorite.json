@@ -1,0 +1,23 @@
+{
+  "id": "leontius-the-hagiorite",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Leontie Aghioritul",
+    "full": "Sfântul Cuvios Leontie Aghioritul",
+    "short": "Leontie Aghioritul",
+    "given": "Leontie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/18/101750-venerable-leontius-the-hagiorite",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-10"
+  }
+}

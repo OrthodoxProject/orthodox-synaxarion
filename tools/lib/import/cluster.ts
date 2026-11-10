@@ -11,6 +11,11 @@ import type { Citation, Family, Unit } from "./units.ts";
 
 export interface SlotName {
   part: NamePart;
+  /**
+   * The name with the place that closes its list, when the list gave it without one ("Sergius" of "Sergius and
+   * Herman, Wonderworkers of Valaam" is Sergius of Valaam): see withListPlace.
+   */
+  listed?: NamePart;
   display: string;
   full?: string;
   short: string;
@@ -301,16 +306,21 @@ export function ownPart(part: NamePart): NamePart {
 const PLACE = /\b(?:din|de la|de|of|from|at|in)\s+(\p{Lu}[\p{L}'’-]*(?:\s+\p{Lu}[\p{L}'’-]*)?)/gu;
 
 /**
- * The first name of a list, with the places of the last name when it has none of its own: a place that closes
- * a list belongs to every name ("Venerable Zosimas and Sabbatius of Solovki" are both of Solovki, "Sergius and
- * Herman, Wonderworkers of Valaam" both of Valaam).
+ * A name of a list, with the places of the last name when it has none of its own: a place that closes a list
+ * belongs to every name ("Venerable Zosimas and Sabbatius of Solovki" are both of Solovki, "Sergius and Herman,
+ * Wonderworkers of Valaam" both of Valaam).
  */
+export function withListPlace(part: NamePart, names: NamePart[]): NamePart {
+  const last = names[names.length - 1];
+  if (!last || last === part || !names.includes(part) || placeKeys(part).length > 0) return part;
+  const places = [...last.text.matchAll(PLACE)].map((m) => m[0]);
+  return places.length > 0 ? { ...part, text: `${part.text} ${places.join(" ")}` } : part;
+}
+
+/** The first name of a list, with the place that closes the list (see withListPlace). */
 export function firstOfList(names: NamePart[]): NamePart | undefined {
   const first = names[0];
-  const last = names[names.length - 1];
-  if (!first || !last || last === first || placeKeys(first).length > 0) return first;
-  const places = [...last.text.matchAll(PLACE)].map((m) => m[0]);
-  return places.length > 0 ? { ...first, text: `${first.text} ${places.join(" ")}` } : first;
+  return first ? withListPlace(first, names) : undefined;
 }
 
 /** Skeletons of the places in a name ("din Veria", "of Dymsk", "de la Calapodești"). */

@@ -1,0 +1,28 @@
+{
+  "id": "isidore-the-fool-for-christ-and-wonderworker",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "venerable",
+    "wonderworker",
+    "fool_for_christ"
+  ],
+  "external_ids": {
+    "oca": "101376"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/14/101376-venerable-isidore-the-fool-for-christ-and-wonderworker-of-rostov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat.",
+      "Genul nu reiese din sursă; e de verificat."
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "leontius-of-the-kiev-far-caves",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Leontie de la Peșterile Îndepărtate din Kiev",
+    "full": "Sfântul Cuvios Leontie de la Peșterile Îndepărtate din Kiev",
+    "short": "Leontie de la Peșterile Îndepărtate din Kiev",
+    "given": "Leontie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/18/101749-venerable-leontius-of-the-kiev-far-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-10"
+  }
+}

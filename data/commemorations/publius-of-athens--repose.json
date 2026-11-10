@@ -1,0 +1,29 @@
+{
+  "id": "publius-of-athens--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:publius-of-athens"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 13
+  },
+  "external_ids": {
+    "oca": "100795"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/13/100795-hieromartyr-publius-bishop-of-athens",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "abramius-of-arbela",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Avramie, Episcopul Arbelei din Asiria",
+    "full": "Sfântul Sfințit Mucenic Avramie, Episcopul Arbelei din Asiria",
+    "short": "Avramie, Episcopul Arbelei din Asiria",
+    "given": "Avramie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/04/100428-hieromartyr-abramius-bishop-of-arbela-in-assyria",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-10"
+  }
+}

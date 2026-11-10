@@ -1,0 +1,20 @@
+{
+  "id": "elias-2",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Elias",
+    "short": "Elias",
+    "given": "Elias"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/19/103586-martyrs-elias-probus-and-ares-in-cilicia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

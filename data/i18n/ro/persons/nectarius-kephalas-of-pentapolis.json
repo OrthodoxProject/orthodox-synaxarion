@@ -2,22 +2,28 @@
   "id": "nectarius-kephalas-of-pentapolis",
   "locale": "ro",
   "names": {
-    "display": "Sf. Ier. Nectarie Kefalas, Mitropolitul Pentapolei",
-    "full": "Sfântul Ierarh Nectarie Kefalas, Mitropolitul Pentapolei",
-    "short": "Nectarie Kefalas, Mitropolitul Pentapolei",
-    "given": "Nectarie"
+    "display": "Sf. Ier. Nectarie Taumaturgul de la Eghina",
+    "full": "Sfântul Ierarh Nectarie Taumaturgul de la Eghina",
+    "short": "Nectarie Taumaturgul de la Eghina",
+    "given": "Nectarie",
+    "variants": [
+      "Sf. Ier. Nectarie de la Eghina"
+    ]
   },
   "references": [
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/11/09/103251-saint-nectarius-kephalas-metropolitan-of-pentapolis",
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-nectarie-taumaturgul-de-la-eghina",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ier-nectarie-de-la-eghina-sf-mc-claudiu-castor-sempronian-si-nicostrat-sf-mc-onisifor-si-porfirie-sf-cuv-matrona/",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "en",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

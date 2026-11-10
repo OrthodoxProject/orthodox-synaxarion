@@ -6,21 +6,35 @@
     "hierarch"
   ],
   "external_ids": {
+    "doxologia": "sfantul-ierarh-vasile-de-ostrog",
     "oca": "101245"
   },
   "sources": [
     {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-vasile-de-ostrog",
+      "accessed": "2026-11-08"
+    },
+    {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/04/29/101245-saint-basil-bishop-of-zakholmsk-in-montenegro-serbia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
       "accessed": "2026-11-08"
     }
   ],
   "editorial": {
     "status": "draft",
-    "confidence": "low",
+    "confidence": "medium",
     "notes": [
-      "Importat automat din oca.org; de verificat.",
-      "Genul nu reiese din sursă; e de verificat."
+      "Importat automat din doxologia.ro, oca.org, orthodox-calendar; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "vasile-of-ostrog",
+    "basil-of-ostrog"
+  ]
 }

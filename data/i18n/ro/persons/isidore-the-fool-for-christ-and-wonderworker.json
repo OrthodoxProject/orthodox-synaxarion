@@ -1,0 +1,23 @@
+{
+  "id": "isidore-the-fool-for-christ-and-wonderworker",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Isidor cel nebun pentru Hristos, făcătorul de minuni din Rostov",
+    "full": "Sfântul Cuvios Isidor cel nebun pentru Hristos, făcătorul de minuni din Rostov",
+    "short": "Isidor cel nebun pentru Hristos, făcătorul de minuni din Rostov",
+    "given": "Isidor"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/14/101376-venerable-isidore-the-fool-for-christ-and-wonderworker-of-rostov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-10"
+  }
+}

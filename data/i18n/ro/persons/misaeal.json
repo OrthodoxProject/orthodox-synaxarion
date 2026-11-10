@@ -1,0 +1,23 @@
+{
+  "id": "misaeal",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Misail (Misayil) Pustnicul",
+    "full": "Sfântul Misail (Misayil) Pustnicul",
+    "short": "Misail Pustnicul",
+    "given": "Misail"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/4_13.html?lang=en#3",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-10"
+  }
+}

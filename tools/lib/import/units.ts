@@ -217,6 +217,8 @@ export function parseCopticTitle(title: string): ParsedTitle {
   // "The Angels' Annunciation of John the Baptist to Zacharias": an event of the saint announced.
   const announced = /^(?:The )?(?:Angels?['’]s? )?Annunciation of (?:the )?(.+?) to \p{Lu}/u.exec(t);
   if (announced?.[1]) return { ...event, subject: parseEn(stripCopticTitles(announced[1])) };
+  const church = copticChurch(t, title);
+  if (church) return church;
   // Councils, churches, earthquakes …: events, not saints.
   if (/^(?:The |A )?(?:Assembly|Council|Synod|Re-?Opening|Opening|Building|Construction|Consecration|Dedication|Earthquake|Great Earthquake|Feast|Miracle|Arrival|Coming|Flight|Entrance|Appearance of the Body|Renewal|Restoration|Pilgrimage)\b/i.test(t) && !/\bof (?:St\.?|Saint|Sts\.?|Saints|the (?:Holy |Great )?(?:Martyr|Apostle|Prophet|Archangel))\b/i.test(t)) {
     return event;
@@ -250,9 +252,6 @@ export function parseCopticTitle(title: string): ParsedTitle {
     }
     return withCopticSubject({ ...inner, title });
   }
-  if ((m = /^(?:The )?(?:Consecration|Dedication) of (?:the )?Church of (?:the )?(?:Saint |St\.? |Sts\.? )?(.*)$/i.exec(t))) {
-    return { kind: "event", holiness: [], plural: false, honorific: "", rest: t, names: [], title, subject: parseEn(stripCopticTitles(m[1] ?? "")) };
-  }
   const turning = /^(?:The )?Turning Over of the (?:Relics|Body) of (?:the )?(.*?)(?: by \w+.*)?$/i.exec(t);
   if (turning?.[1]) return { kind: "relics_translation", holiness: [], plural: false, honorific: "", rest: t, names: [], title, subject: parseEn(stripCopticTitles(turning[1])) };
   if (/^(?:The )?(?:Appearance|Apparition|Translocation|Relocation|Translation|Transfer|Return)\b/i.test(t)) {
@@ -261,6 +260,53 @@ export function parseCopticTitle(title: string): ParsedTitle {
   }
   const p = parseEn(stripCopticTitles(t));
   return withCopticSubject({ ...p, title });
+}
+
+/**
+ * A line about the building or the consecration of a church: "The Commemoration of the Consecration of the Church of
+ * St. Peter, the Seal of Martyrs", "The Consecration of the First Church Dedicated for the Forty Martyrs of Sebaste",
+ * "… of the first altar for St. Nicholas, Bishop of Mora for the Jacobite Christians", "The Construction of the first
+ * church of St. George in the cities of Birma and Beer Maa …".
+ */
+const CHURCH_OF = /^(?:The )?(?:(?:Commemoration|Feast) of (?:the )?)?(?:Consecration|Dedication|Construction|Building) of (?:the )?(?:First )?(Church(?:es)?|Altar)(?: Dedicated)? (?:of|for|to) (?:the )?(.+)$/i;
+/** Churches named after no saint: the Theotokos is found by the whole title, the archangels by their names. */
+const NO_SAINT = /^(?:Holy |Pure |Honou?rable )?(?:Virgin|Lady|Cross|Resurrection|Savio(?:u)?r|Lord|Christ|Theotokos|Archangels?|Angels?)\b/i;
+
+/**
+ * The event of the saint, the saints or the group a church is named after. Where the church stands and whom it served
+ * are the church's, not the saint's; the churches of two saints, each with his own title, are of two saints, not of a
+ * group; another commemoration of the line ("Also, the Commemoration of the Martyrdom of …") is one more commemoration.
+ */
+function copticChurch(t: string, title: string): ParsedTitle | undefined {
+  const m = CHURCH_OF.exec(t);
+  if (!m?.[2]) return undefined;
+  let text = m[2];
+  const also = /\.\s+Also,?\s+(?:the )?(Commemoration of .+)$/i.exec(text);
+  if (also) text = text.slice(0, also.index);
+  // The line's other commemoration has its own title.
+  const own: ParsedTitle = { kind: "event", holiness: [], plural: false, honorific: "", rest: t, names: [], title: also ? title.slice(0, title.indexOf(also[0])) : title };
+  text = text
+    // "… and the Appearance of His Holy Head", ", and the Transfer of His Relics to It": the same commemoration.
+    .replace(/,?\s+and the (?:Appearance|Transfer|Relocation|Translation) of (?:His|Her|Their)\b.*$/i, "")
+    // "in the cities of Birma and Beer Maa (Water Well) in the Oases", "in the region of Sho", "at Maryut", "in Alexandria".
+    .replace(/\s+(?:in|at) (?:the )?(?:cit(?:y|ies)|region|village|town|district|province)\b.*$/i, "")
+    .replace(/\s+(?:in|at) \p{Lu}[\p{L}'’-]*$/u, "")
+    // "for the Jacobite Christians"
+    .replace(/\s+for the [\p{L}\s]*Christians$/iu, "")
+    // "the Great St. Anthony" is St. Anthony the Great.
+    .replace(/^Great (?:St\.?|Saint) (\p{Lu}[\p{L}'’-]*)/u, "Saint $1 the Great")
+    .trim();
+  // "Also, the Commemoration of the Martyrdom of Anba Behna …": their martyrdom.
+  if (also?.[1]) own.also = [parseCopticTitle(`The ${also[1].replace(/^Commemoration of (?:the )?(?=Martyrdom|Departure)/i, "")}`)];
+  if (NO_SAINT.test(text)) return own;
+  const each = text.split(/,?\s+and\s+(?=(?:Saint|St\.?|Prince|Anba|Abba)\s)/);
+  if (each.length > 1) {
+    const subjects = each.map((x) => parseEn(stripCopticTitles(x)));
+    const [first] = subjects;
+    if (first && subjects.every((s) => s.kind === "saint")) return { ...own, subject: first, subjects };
+  }
+  const subject = parseEn(stripCopticTitles(text).replace(/(,|\band)\s+(?:St|Sts|Saint|Saints)\.?\s+/g, "$1 "));
+  return subject.kind === "saint" || subject.kind === "saints" || subject.kind === "group" ? { ...own, subject } : own;
 }
 
 /** "Relocation of His Holy Relics" (of the saint of the line), "Relocation of the Body of St. Theodore, the Prince, to Shotb". */

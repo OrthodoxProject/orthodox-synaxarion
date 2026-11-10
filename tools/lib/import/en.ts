@@ -144,9 +144,14 @@ const HONORIFICS: Record<string, Honorific> = {
   abba: {},
   amma: { gender: "female" },
   mar: {},
+  // "Mari Mina": "my lord", as the Coptic Synaxarium names some great martyrs.
+  mari: {},
   anba: {},
   abba_: {},
 };
+
+/** Titles that the Coptic Synaxarium joins to a name with a hyphen ("Abu-Nofer", "Mari-Mina"): the name is what follows. */
+const NAME_TITLES = new Set(["abu", "mari"]);
 
 const NUMBER_WORDS: Record<string, number> = {
   two: 2,
@@ -279,7 +284,8 @@ function namePart(text: string, gender?: Gender): NamePart {
     .map((w) => fold(w).replace(/[^a-z-]/g, ""))
     .filter((w) => w.length > 2 && !NOT_NAME_WORDS.has(w))
     .map((w) => skeleton(w));
-  const first = given.split("-")[0] ?? given;
+  const pieces = given.split("-");
+  const first = (pieces.length > 1 && NAME_TITLES.has(fold(pieces[0] ?? "")) ? pieces[1] : pieces[0]) ?? given;
   const part: NamePart = { text: clean, given, key: skeleton(first), extra };
   const eq = equivalent(first);
   if (eq) part.eq = eq;

@@ -1,0 +1,20 @@
+{
+  "id": "anba-behna-and-anba-kloag-the-priest",
+  "locale": "ro",
+  "names": {
+    "display": "Ava Behna (Bahnu) și Ava Kloag (Bagug), preotul"
+  },
+  "references": [
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/5_20.html?lang=en#2",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-10"
+  }
+}

@@ -1,6 +1,9 @@
 {
   "id": "the-consecration-of-the-church-of-st-mercurius",
   "kind": "event",
+  "subjects": [
+    "person:mercurius-known-as-the-with-the-two"
+  ],
   "date_rule": {
     "type": "fixed",
     "month": 11,

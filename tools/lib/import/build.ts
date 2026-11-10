@@ -396,7 +396,8 @@ export class Builder {
         c = this.base(u, p.kind);
         if (p.feast) c.feast = p.feast;
         if (p.council) c.council = p.council;
-        if (p.subject) {
+        if (p.subjects && p.subjects.length > 1) c.subjectEach = [...p.subjects];
+        else if (p.subject) {
           if (p.subject.kind === "group" || (p.kind === "synaxis" && p.subject.names.length > 1)) c.subjectGroup = this.group(u, p.subject);
           else c.subjectTitles.push(p.subject);
         }

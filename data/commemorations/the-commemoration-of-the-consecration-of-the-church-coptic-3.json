@@ -1,6 +1,9 @@
 {
   "id": "the-commemoration-of-the-consecration-of-the-church-coptic-3",
   "kind": "event",
+  "subjects": [
+    "person:peter-coptic"
+  ],
   "date_rule": {
     "type": "fixed",
     "month": 6,

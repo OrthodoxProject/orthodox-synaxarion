@@ -188,6 +188,9 @@ const EQUIVALENTS: string[][] = [
   ["teopempt", "theopemptus"],
   ["varahisie", "barachisius"],
   ["zosima", "zosimas"],
+  // The Coptic Synaxarium spells one name in several ways: "Anba Sarabamoun, Bishop of Nikios" (28 Baounah) is "St.
+  // Sarapamon, Bishop of Niku" (28 Hatour).
+  ["sarapamon", "sarabamoun", "serapamon"],
 ];
 
 const EQUIV = new Map<string, string>();

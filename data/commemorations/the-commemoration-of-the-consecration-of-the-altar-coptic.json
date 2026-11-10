@@ -1,6 +1,9 @@
 {
   "id": "the-commemoration-of-the-consecration-of-the-altar-coptic",
   "kind": "event",
+  "subjects": [
+    "group:forty-martyrs-of-sebastia"
+  ],
   "date_rule": {
     "type": "fixed",
     "month": 10,

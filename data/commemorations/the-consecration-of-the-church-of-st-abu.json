@@ -1,6 +1,9 @@
 {
   "id": "the-consecration-of-the-church-of-st-abu",
   "kind": "event",
+  "subjects": [
+    "person:nofer-the-anchorite"
+  ],
   "date_rule": {
     "type": "fixed",
     "month": 3,

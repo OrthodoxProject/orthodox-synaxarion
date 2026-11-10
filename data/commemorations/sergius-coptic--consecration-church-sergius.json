@@ -2,7 +2,8 @@
   "id": "sergius-coptic--consecration-church-sergius",
   "kind": "event",
   "subjects": [
-    "person:sergius-coptic"
+    "person:sergius-coptic",
+    "person:bacchus"
   ],
   "date_rule": {
     "type": "fixed",

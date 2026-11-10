@@ -4,7 +4,7 @@
  * records are kept as they are; existing calendar days get the new lines after
  * their own.
  */
-import { addCitation, firstOfList, holinessCompatible, newSlot, personScore, type Cluster, type GroupSubject, type Slot, type SlotName } from "./cluster.ts";
+import { addCitation, addRef, extraKeys, firstOfList, holinessCompatible, newSlot, personScore, placeKeys, type Cluster, type GroupSubject, type Slot, type SlotName } from "./cluster.ts";
 import type { Existing, ExistingLine } from "./existing.ts";
 import { FEASTS } from "./feasts.ts";
 import type { HolinessType, ParsedTitle } from "./model.ts";
@@ -49,6 +49,16 @@ const KNOWN_PERSONS: Record<string, { ro: string; roFull: string; roParse?: stri
     given: ["Ioan", "John"],
     holiness: ["prophet"],
   },
+};
+
+/**
+ * Saints that the Coptic Synaxarium names by their first name alone, where other saints of the family bear that name
+ * with a place or an epithet, by the key of the name and the anchor of the saint's own day: "St. George" is the Great
+ * Martyr, Prince of the Martyrs (23 Baramouda), "Abba Shenouda" the Archimandrite (7 Abib), "Mari Mina" the Wonder
+ * Worker (15 Hatour), "St. Boctor (Victor)" the soldier of Shaou (5 Kiahk), not Boctor son of Romanus.
+ */
+const BARE_NAMES: Partial<Record<Family, Record<string, string>>> = {
+  coptic: { grg: "8_23#1", snd: "11_7#1", mn: "3_15#1", bctr: "4_5#2" },
 };
 
 export class RecordWriter {
@@ -120,11 +130,45 @@ export class RecordWriter {
         }
         continue;
       }
+      const day = c.month > 0 ? mmdd(c.month, c.day) : undefined;
+      // The churches of two saints: each saint on his own.
+      if (c.subjectEach) {
+        for (const t of c.subjectEach) {
+          const resolved = this.resolve([t], c.family, day, c);
+          if (resolved && !c.subjectSlots.includes(resolved)) c.subjectSlots.push(resolved);
+        }
+        continue;
+      }
+      // The church of the Forty Martyrs of Sebaste is theirs, not that of forty other martyrs.
+      if (c.kind === "event" && c.family !== "byzantine" && c.subjectGroup && !c.subjectGroup.existingGroup) {
+        const known = this.findGroup(c.subjectGroup, c.family);
+        if (known) c.subjectGroup = known;
+      }
       if (c.subjectSlots.length > 0 || c.subjectGroup) continue;
       const titles = c.subjectTitles;
-      const resolved = this.resolve(titles, c.family, c.month > 0 ? mmdd(c.month, c.day) : undefined);
+      const resolved = this.resolve(titles, c.family, day, c);
       if (resolved) c.subjectSlots.push(resolved);
     }
+  }
+
+  /**
+   * The group of the family, kept on its own day, that an event names: "the Forty Martyrs (of Sebaste)" are the group of
+   * forty, "Sts. Cosmas, Damian, Their Mother, and Brothers" the group of Cosmas and Damian. The same number, or the same
+   * two names or more; only one group may fit.
+   */
+  private findGroup(g: GroupSubject, family: Family): GroupSubject | undefined {
+    const groups = new Set<GroupSubject>();
+    for (const c of [...this.existing.clusters.values(), ...this.result.clusters]) if (c.family === family && c.kind === "group" && c.group && c.group !== g) groups.add(c.group);
+    const fits: Array<{ group: GroupSubject; score: number }> = [];
+    for (const group of groups) {
+      if (g.count && group.count && g.count !== group.count) continue;
+      const named = g.names.filter((part) => group.names.some((x) => givenSimilarity(part, x) >= 1)).length;
+      const score = (g.count && g.count === group.count ? 2 : 0) + (named >= 2 ? named : 0);
+      if (score > 0) fits.push({ group, score });
+    }
+    fits.sort((a, b) => b.score - a.score);
+    const [best, second] = fits;
+    return best && (!second || second.score < best.score) ? best.group : undefined;
   }
 
   private knownPerson(id: string): Slot | undefined {
@@ -160,7 +204,7 @@ export class RecordWriter {
     const part = firstOfList(p.names);
     if (!part) return undefined;
     const holiness = new Set(p.holiness);
-    const scored: Array<{ slot: Slot; score: number; sameName: boolean }> = [];
+    const scored: Array<{ slot: Slot; score: number; sameName: boolean; given: string }> = [];
     const honorificWords = new Set(
       fold(p.honorific)
         .split(/[\s,.]+/)
@@ -188,7 +232,7 @@ export class RecordWriter {
       let shared = 0;
       for (const w of honorificWords) if (display.includes(w)) shared++;
       score += Math.min(shared, 3) * 0.05;
-      if (score >= 0.95) scored.push({ slot, score, sameName: compared !== undefined && givenSimilarity(part, compared.part) >= 1 });
+      if (score >= 0.95) scored.push({ slot, score, sameName: compared !== undefined && givenSimilarity(part, compared.part) >= 1, given: compared?.part.given ?? "" });
     }
     scored.sort((a, b) => b.score - a.score);
     const best = scored[0];
@@ -198,7 +242,18 @@ export class RecordWriter {
     // on the line's own day: the relics of St Evdochia brought on 4 August are those of the Martyr Eudokia of
     // Persia, whom the OCA keeps that day, not those of the Venerable Martyr Evdochia of 1 March.
     if (second && second.score >= best.score - 0.05 && best.score < 1.15) {
-      const kept = day ? scored.filter((x) => x.score >= best.score - 0.05 && this.keptOn.get(x.slot)?.has(day)) : [];
+      const tied = scored.filter((x) => x.score >= best.score - 0.05);
+      // The Coptic Synaxarium, the one source of its family, names a saint alone one way: the saint it means by a name
+      // that several bear ("St. George" is the Great Martyr, see BARE_NAMES), or else the saint who bears the name as it
+      // is written, not one whose name only sounds alike ("Demiana" is not Damianos nor Damian, "Mercurius" not Marcura).
+      if (family !== "byzantine" && extraKeys(part).length === 0 && placeKeys(part).length === 0) {
+        const anchor = BARE_NAMES[family]?.[part.key];
+        const byAnchor = anchor ? tied.filter((x) => x.slot.ext.copticchurch === anchor) : [];
+        const byName = tied.filter((x) => fold(x.given) === fold(part.given));
+        const one = byAnchor.length === 1 ? byAnchor[0] : byName.length === 1 ? byName[0] : undefined;
+        if (one?.sameName) return one.slot;
+      }
+      const kept = day ? tied.filter((x) => this.keptOn.get(x.slot)?.has(day)) : [];
       const only = kept.length === 1 ? kept[0] : undefined;
       return only?.sameName ? only.slot : undefined;
     }
@@ -209,7 +264,8 @@ export class RecordWriter {
     return best.slot;
   }
 
-  private resolve(titles: ParsedTitle[], family: Family, day?: string): Slot | undefined {
+  /** The person the titles of a commemoration name; `from` is the commemoration, whose sources tell of a new person. */
+  private resolve(titles: ParsedTitle[], family: Family, day?: string, from?: Cluster): Slot | undefined {
     for (const t of titles) {
       const lang = /[ăâîșțĂÂÎȘȚ]|Sfânt|Sf\.|Cuvios|Mucenic/.test(t.title) ? "ro" : "en";
       const found = this.findBest(t, lang, family, day);
@@ -226,6 +282,10 @@ export class RecordWriter {
     for (const h of t.holiness) slot.holiness.add(h);
     if (t.gender) slot.gender = t.gender;
     else if (part.gender) slot.gender = part.gender;
+    // The person is known from the line that names it ("The Consecration of the Church of St. Misaeal …"), not from a
+    // source of its own.
+    for (const x of from?.citations ?? []) addCitation(slot.citations, x);
+    for (const x of from?.refs.get(lang) ?? []) addRef(slot.refs, lang, x);
     this.allSlots.push(slot);
     this.count("persons.from-feasts");
     return slot;

@@ -1,6 +1,9 @@
 {
   "id": "the-construction-of-the-first-church-of-st",
   "kind": "event",
+  "subjects": [
+    "person:george-prince-of-the-martyrs"
+  ],
   "date_rule": {
     "type": "fixed",
     "month": 10,

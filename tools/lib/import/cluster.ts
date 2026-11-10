@@ -82,6 +82,8 @@ export interface Cluster {
   icon?: IconSubject;
   /** The saint a relics, event or synaxis line is about, as parsed. */
   subjectTitles: ParsedTitle[];
+  /** The saints an event is about, each on his own, as parsed (the churches of two saints): see ParsedTitle.subjects. */
+  subjectEach?: ParsedTitle[];
   subjectSlots: Slot[];
   subjectGroup?: GroupSubject;
   feast?: string;
@@ -207,9 +209,14 @@ const EPITHETS: Array<[RegExp, string]> = [
 
 /**
  * Titles that stand for an epithet and a place: the Coptic Synaxarium calls the Great Martyr George "Prince of the
- * Martyrs", and also "St. George of Cappadocia" (7 Hatour, the consecration of his church in Lydda).
+ * Martyrs", and also "St. George of Cappadocia" (7 Hatour, the consecration of his church in Lydda); it calls St. James
+ * the Mangled (Intercisus) "the Persian" (16 Kiahk) and Prince Theodore of Shotep "El-Shotbe" (20 Hatour).
  */
-const TITLE_EPITHETS: Array<[RegExp, string]> = [[/\bprince of (?:the )?martyrs\b/giu, "great of Cappadocia"]];
+const TITLE_EPITHETS: Array<[RegExp, string]> = [
+  [/\bprince of (?:the )?martyrs\b/giu, "great of Cappadocia"],
+  [/\bthe mangled\b/giu, "the Persian, the Mangled"],
+  [/\bEl-Shotbe\b/giu, "of Shotep"],
+];
 
 /** Normalised extra words of a name, for comparison across languages. */
 export function extraKeys(part: NamePart): string[] {

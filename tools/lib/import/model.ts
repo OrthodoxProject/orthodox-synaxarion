@@ -92,6 +92,11 @@ export interface ParsedTitle {
   feast?: string;
   /** The saint a relics, synaxis, event or glorification line is about. */
   subject?: ParsedTitle;
+  /**
+   * The saints an event is about, each on his own (the first is `subject`): "The Consecration of the Churches of
+   * Prince Theodore, the Son of John El-Shotbe, and Prince Theodore El-Mishreke" is about two saints, not a group.
+   */
+  subjects?: ParsedTitle[];
   /** Name of the icon (for kind icon), as written. */
   icon?: string;
   /** Ordinal of an ecumenical council (for kind council). */

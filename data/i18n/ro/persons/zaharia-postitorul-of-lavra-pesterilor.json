@@ -1,0 +1,21 @@
+{
+  "id": "zaharia-postitorul-of-lavra-pesterilor",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Zaharia Postitorul de la Lavra Peșterilor",
+    "full": "Sfântul Cuvios Zaharia Postitorul de la Lavra Peșterilor",
+    "short": "Zaharia Postitorul de la Lavra Peșterilor",
+    "given": "Zaharia"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-zaharia-postitorul-de-la-lavra-pesterilor",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -6,9 +6,15 @@
     "martyr"
   ],
   "external_ids": {
+    "doxologia": "sfantul-mucenic-filumen",
     "oca": "103444"
   },
   "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-filumen",
+      "accessed": "2026-11-08"
+    },
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/11/29/103444-martyr-philoumenus-of-ancyra",
@@ -17,9 +23,9 @@
   ],
   "editorial": {
     "status": "draft",
-    "confidence": "low",
+    "confidence": "medium",
     "notes": [
-      "Importat automat din oca.org; de verificat.",
+      "Importat automat din doxologia.ro, oca.org; de verificat.",
       "Genul nu reiese din sursă; e de verificat."
     ]
   }

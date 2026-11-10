@@ -2,10 +2,20 @@
   "id": "adrian-of-ondrusov",
   "locale": "en",
   "names": {
-    "display": "Hieromartyr Adrian of Ondrusov, Wonderworker",
-    "short": "Adrian of Ondrusov, Wonderworker",
-    "given": "Adrian"
+    "display": "Venerable Adrian, Abbot of Ondrusov, Valaam",
+    "short": "Adrian, Abbot of Ondrusov, Valaam",
+    "given": "Adrian",
+    "variants": [
+      "Hieromartyr Adrian of Ondrusov, Wonderworker"
+    ]
   },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/26/102401-venerable-adrian-abbot-of-ondrusov-valaam",
+      "accessed": "2026-11-08"
+    }
+  ],
   "translation": {
     "status": "draft",
     "method": "original"

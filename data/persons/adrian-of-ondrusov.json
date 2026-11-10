@@ -4,18 +4,24 @@
   "gender": "male",
   "holiness_types": [
     "hieromartyr",
-    "wonderworker"
+    "wonderworker",
+    "venerable"
   ],
+  "external_ids": {
+    "oca": "102401"
+  },
   "sources": [
     {
-      "source": "src:doxologia"
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/26/102401-venerable-adrian-abbot-of-ondrusov-valaam",
+      "accessed": "2026-11-08"
     }
   ],
   "editorial": {
     "status": "draft",
     "confidence": "low",
     "notes": [
-      "Importat automat din doxologia.ro; de verificat.",
+      "Importat automat din oca.org; de verificat.",
       "Genul nu reiese din sursă; e de verificat."
     ]
   }

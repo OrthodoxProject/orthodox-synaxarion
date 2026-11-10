@@ -1,0 +1,23 @@
+{
+  "id": "cyriacus-of-tazlau",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Chiriac de la Tazlău",
+    "full": "Sfântul Cuvios Chiriac de la Tazlău",
+    "short": "Chiriac de la Tazlău",
+    "given": "Chiriac"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/31/103703-venerable-cyriacus-of-tazlau-romania",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-10"
+  }
+}

@@ -187,7 +187,8 @@ const EPITHETS: Array<[RegExp, string]> = [
   [/^(studitul|studite|studion|studium)$/, "studion"],
   [/^(ivirul|iviron|iveron|iberia|iberian|ivir)$/, "iveron"],
   [/^(sinaitul|sinai|sinaite)$/, "sinai"],
-  [/^(athonitul|athonite|athos|aghioritul|hagiorite)$/, "athos"],
+  // A monk of Dionysiou is an Athonite: "Sfântul Cuvios Leontie Dionisiatul" is the OCA's "Venerable Leontius the Hagiorite".
+  [/^(athonitul|athonite|athos|aghioritul|hagiorite|dionisiatul)$/, "athos"],
   [/^(sarovul|sarov)$/, "sarov"],
   [/^(cretanul|criteanul|crete|cretan)$/, "crete"],
   [/^(alexandrinul|alexandrian|alexandria)$/, "alexandria"],
@@ -203,7 +204,17 @@ const EPITHETS: Array<[RegExp, string]> = [
   [/^(lepros|leper)$/, "leper"],
   [/^(tiron|tyro|recruit)$/, "tyro"],
   [/^(izvoratorul|myrrh-gusher|myrrh-streaming)$/, "myrrh"],
+  [/^(bucatarul|cook)$/, "cook"],
 ];
+
+/** Places that the sources call by different names: "Arhiepiscop de Corfu" (doxologia) is "Archbishop of Kerkyra" (OCA). */
+const PLACE_NAMES: Array<[RegExp, string]> = [[/^(corfu|kerk[iy]ra?|corc[iy]ra)$/, "corfu"]];
+
+/** One name of a place that has several (see PLACE_NAMES), as a folded word. */
+function placeName(word: string): string {
+  for (const [re, name] of PLACE_NAMES) if (re.test(word)) return name;
+  return word;
+}
 
 /**
  * Titles that stand for an epithet and a place: the Coptic Synaxarium calls the Great Martyr George "Prince of the
@@ -222,7 +233,7 @@ export function extraKeys(part: NamePart): string[] {
     .filter((w) => w.length > 2 && !STOP.has(w))
     .map((w) => {
       for (const [re, key] of EPITHETS) if (re.test(w)) return `=${key}`;
-      return skeleton(w);
+      return skeleton(placeName(w));
     })
     .filter((w) => w.length >= 2);
 }
@@ -331,7 +342,7 @@ export function placeKeys(part: NamePart): string[] {
   while ((m = re.exec(part.text))) {
     for (const w of (m[1] ?? "").split(/\s+/)) {
       const f = fold(w).replace(/[^a-z]/g, "");
-      if (f.length > 2 && !STOP.has(f)) out.push(skeleton(f));
+      if (f.length > 2 && !STOP.has(f)) out.push(skeleton(placeName(f)));
     }
   }
   // The see of a bishop, in the Romanian genitive: "Episcopul Ciprului", "Patriarhul Ierusalimului".
@@ -340,7 +351,7 @@ export function placeKeys(part: NamePart): string[] {
     const word = fold(m[1] ?? m[2] ?? "")
       .replace(/[^a-z]/g, "")
       .replace(/(ului|iei|ei|lor|ilor|ii)$/, "");
-    if (word.length > 2) out.push(skeleton(word));
+    if (word.length > 2) out.push(skeleton(placeName(word)));
   }
   return out;
 }

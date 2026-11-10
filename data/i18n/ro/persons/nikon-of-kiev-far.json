@@ -1,0 +1,23 @@
+{
+  "id": "nikon-of-kiev-far",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Nicon, egumenul de la Peșterile Depărtate din Kiev",
+    "full": "Sfântul Cuvios Nicon, egumenul de la Peșterile Depărtate din Kiev",
+    "short": "Nicon, egumenul de la Peșterile Depărtate din Kiev",
+    "given": "Nicon"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/23/100867-venerable-nikon-abbot-of-the-kiev-far-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-10"
+  }
+}

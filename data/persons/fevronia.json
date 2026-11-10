@@ -5,7 +5,15 @@
   "holiness_types": [
     "righteous"
   ],
+  "external_ids": {
+    "doxologia": "sfanta-fevronia-cneaghina-de-murom"
+  },
   "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-fevronia-cneaghina-de-murom",
+      "accessed": "2026-11-08"
+    },
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/06/25/101811-saints-peter-and-fevronia-tonsured-david-and-euphrosyne-wonderwo",
@@ -14,9 +22,9 @@
   ],
   "editorial": {
     "status": "draft",
-    "confidence": "low",
+    "confidence": "medium",
     "notes": [
-      "Importat automat din oca.org; de verificat.",
+      "Importat automat din doxologia.ro, oca.org; de verificat.",
       "Chipul sfințeniei nu reiese din titlu; „righteous” e provizoriu."
     ]
   }

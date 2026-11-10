@@ -1,0 +1,23 @@
+{
+  "id": "gregory-of-georgia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Grigorie (Peradze) din Georgia",
+    "full": "Sfântul Sfințit Mucenic Grigorie (Peradze) din Georgia",
+    "short": "Grigorie din Georgia",
+    "given": "Grigorie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/23/205496-hieromartyr-gregory-peradze-of-georgia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-10"
+  }
+}

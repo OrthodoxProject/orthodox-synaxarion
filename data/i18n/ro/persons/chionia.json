@@ -2,22 +2,24 @@
   "id": "chionia",
   "locale": "ro",
   "names": {
-    "display": "Sf. Mc. Fecioară Hionia din Iliria",
-    "full": "Sfânta Muceniță Fecioară Hionia din Iliria",
-    "short": "Hionia din Iliria",
+    "display": "Sf. Mc. Fecioară Hionia",
+    "short": "Hionia",
     "given": "Hionia"
   },
   "references": [
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/04/16/101106-virgin-martyrs-agape-irene-and-chionia-in-illyria",
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfintele-mucenite-fecioare-agapia-irina-hionia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-fecioare-agapia-irina-si-hionia/",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "en",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

@@ -6,9 +6,15 @@
     "venerable"
   ],
   "external_ids": {
+    "doxologia": "sfantul-cuvios-leontie-dionisiatul-izvoratorul-de-mir",
     "oca": "101750"
   },
   "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-leontie-dionisiatul-izvoratorul-de-mir",
+      "accessed": "2026-11-08"
+    },
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/06/18/101750-venerable-leontius-the-hagiorite",
@@ -17,9 +23,9 @@
   ],
   "editorial": {
     "status": "draft",
-    "confidence": "low",
+    "confidence": "medium",
     "notes": [
-      "Importat automat din oca.org; de verificat.",
+      "Importat automat din doxologia.ro, oca.org; de verificat.",
       "Genul nu reiese din sursă; e de verificat."
     ]
   }

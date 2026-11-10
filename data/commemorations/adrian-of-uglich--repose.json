@@ -1,0 +1,29 @@
+{
+  "id": "adrian-of-uglich--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:adrian-of-uglich"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 26
+  },
+  "external_ids": {
+    "oca": "108970"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/26/108970-saint-adrian-of-glich",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

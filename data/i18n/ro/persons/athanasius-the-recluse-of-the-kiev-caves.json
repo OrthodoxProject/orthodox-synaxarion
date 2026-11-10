@@ -1,0 +1,23 @@
+{
+  "id": "athanasius-the-recluse-of-the-kiev-caves",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Atanasie Zăvorâtul, de la Lavra Peșterilor",
+    "full": "Sfântul Cuvios Atanasie Zăvorâtul, de la Lavra Peșterilor",
+    "short": "Atanasie Zăvorâtul, de la Lavra Peșterilor",
+    "given": "Atanasie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/02/103457-venerable-athanasius-the-recluse-of-the-kiev-caves",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-10"
+  }
+}

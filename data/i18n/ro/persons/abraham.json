@@ -2,25 +2,22 @@
   "id": "abraham",
   "locale": "ro",
   "names": {
-    "display": "Sf. Sfințit Mc. Avramie",
-    "full": "Sfântul Sfințit Mucenic Avramie",
-    "short": "Avramie",
-    "given": "Avramie"
+    "display": "Sf. Cuv. Avraam",
+    "full": "Sfântul Cuvios Avraam",
+    "short": "Avraam",
+    "given": "Avraam"
   },
   "references": [
     {
-      "source": "src:doxologia",
-      "url": "https://doxologia.ro/sfantul-sfintit-mucenic-avramie",
-      "accessed": "2026-11-08"
-    },
-    {
-      "source": "src:calendar-patriarhia",
-      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-isidor-pelusiotul-sf-sfintit-mc-avramie-harti/",
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/04/100425-venerable-abraham-and-coprius-of-pechenga",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "draft",
-    "method": "original"
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-10"
   }
 }

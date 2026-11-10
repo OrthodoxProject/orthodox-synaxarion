@@ -1,0 +1,20 @@
+{
+  "id": "sergius-of-paphlagonia",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Confessor Sergius of Paphlagonia",
+    "short": "Sergius of Paphlagonia",
+    "given": "Sergius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/28/100478-venerable-confessor-sergius-of-paphlagonia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

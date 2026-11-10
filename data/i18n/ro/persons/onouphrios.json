@@ -1,0 +1,23 @@
+{
+  "id": "onouphrios",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Onufrie",
+    "full": "Sfântul Cuvios Onufrie",
+    "short": "Onufrie",
+    "given": "Onufrie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/12/101704-venerable-onouphrios-and-auxentios-of-vologda",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-10"
+  }
+}

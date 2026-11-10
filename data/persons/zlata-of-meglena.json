@@ -14,13 +14,21 @@
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/10/13/102961-new-martyr-zlata-of-meglena-bulgaria",
       "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
     }
   ],
   "editorial": {
     "status": "draft",
     "confidence": "low",
     "notes": [
-      "Importat automat din oca.org; de verificat."
+      "Importat automat din oca.org, orthodox-calendar; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "zlata-of-meglen"
+  ]
 }

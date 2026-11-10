@@ -1,0 +1,29 @@
+{
+  "id": "sergius-of-paphlagonia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:sergius-of-paphlagonia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 28
+  },
+  "external_ids": {
+    "oca": "100478"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/28/100478-venerable-confessor-sergius-of-paphlagonia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

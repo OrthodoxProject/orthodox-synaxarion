@@ -871,6 +871,105 @@ describe("matching the sources", () => {
     assert.equal(subjectOf("102571"), "Venerable Sergius");
   });
 
+  /** OCA lines of given days, as the OCA pages of 2026 and 2028 list them. */
+  const ocaLines = (lines: Array<{ id: string; title: string; month: number; day: number }>): SourceData["oca"] =>
+    lines.flatMap((x) => [2026, 2028].map((year) => ({ id: x.id, title: x.title, path: `/saints/lives/${year}/${String(x.month).padStart(2, "0")}/${String(x.day).padStart(2, "0")}/${x.id}`, year, month: x.month, day: x.day, order: 0 })));
+
+  it("does not give a second OCA line of the day to a saint of a list closed by another place (28 June: Sergius of Paphlagonia is not the Sergius of Valaam; 12 June: Onouphrios of Vologda is not Onuphrius the Great)", () => {
+    const lines = [
+      { id: "101836", title: "Venerable Sergius and Herman, Wonderworkers of Valaam", month: 6, day: 28 },
+      { id: "100478", title: "Venerable Confessor Sergius of Paphlagonia", month: 6, day: 28 },
+      { id: "107799", title: "Venerable Onuphrius the Great", month: 6, day: 12 },
+      { id: "101704", title: "Venerable Onouphrios and Auxentios of Vologda", month: 6, day: 12 },
+    ];
+    // The order of the OCA's lines must not decide: the place that closes a list counts on either side.
+    for (const oca of [lines, [...lines].reverse()]) {
+      const existing = loadExisting(join(REPO_ROOT, "tests", "fixtures", "minimal", "data"));
+      const builder = new Builder(existing);
+      builder.russian(ocaUnits({ ...data, doxologia: [], oca: ocaLines(oca) }, [2026, 2028]).fixed);
+      const output = new RecordWriter(existing, { clusters: builder.clusters, lines: builder.lines, movable: builder.movable, stats: builder.stats }).write();
+      const subjectsOf = (id: string): Array<string | undefined> | undefined => {
+        const comm = [...output.files.entries()].find(([k, v]) => k.startsWith("commemorations/") && v.external_ids?.oca === id)?.[1];
+        return comm?.subjects.map((s: string) => output.files.get(`i18n/en/persons/${s.replace(/^person:/, "")}.json`)?.names.display);
+      };
+      assert.deepEqual(subjectsOf("101836"), ["Venerable Sergius", "Venerable Herman, Wonderworkers of Valaam"]);
+      assert.deepEqual(subjectsOf("100478"), ["Venerable Confessor Sergius of Paphlagonia"]);
+      assert.deepEqual(subjectsOf("107799"), ["Venerable Onuphrius the Great"]);
+      assert.deepEqual(subjectsOf("101704"), ["Venerable Onouphrios", "Venerable Auxentios of Vologda"]);
+      assert.equal([...output.files.keys()].filter((k) => k.startsWith("persons/")).length, 6);
+    }
+  });
+
+  it("puts together a hierarch whom one calendar names by his see and the other by the place where he lived, the only one of the name that day (9 November: Nectarie of Aegina, 29 April: Vasile of Ostrog)", () => {
+    const dox = (slug: string, title: string, month: number, day: number): SourceData["doxologia"][number] => ({ slug, title, month, day, order: 0, color: null, cross: null, secondRow: false });
+    const sources: SourceData = {
+      ...data,
+      doxologia: [
+        dox("sfantul-ierarh-vasile-de-ostrog", "Sfântul Ierarh Vasile de Ostrog", 4, 29),
+        dox("mutarea-moastelor-sfantului-ierarh-nectarie", "Mutarea moaștelor Sfântului Ierarh Nectarie", 9, 3),
+        dox("sfantul-ierarh-nectarie-taumaturgul-de-la-eghina", "Sfântul Ierarh Nectarie Taumaturgul de la Eghina", 11, 9),
+        dox("sfantul-clement-arhiepiscopul-ohridei", "Sfântul Clement, Arhiepiscopul Ohridei", 11, 25),
+      ],
+      oca: ocaLines([
+        { id: "101245", title: "Saint Basil, Bishop of Zakholmsk in Montenegro, Serbia", month: 4, day: 29 },
+        { id: "103251", title: "Saint Nectarius Kephalas, Metropolitan of Pentapolis", month: 11, day: 9 },
+        { id: "103393", title: "Hieromartyr Clement, Pope of Rome", month: 11, day: 25 },
+      ]),
+      // The Serbian list gives 12 May, the civil date on which the Serbian Church keeps 29 April.
+      overlays: [{ tradition: "serbian", file: "serbian_saints.json", calendar: "julian", month: 5, day: 12, order: 0, name: "Basil of Ostrog", title: "Basil of Ostrog", url: "https://en.wikipedia.org/wiki/Basil_of_Ostrog", feastType: "Venerable" }],
+    };
+    const existing = loadExisting(join(REPO_ROOT, "tests", "fixtures", "minimal", "data"));
+    const builder = new Builder(existing);
+    builder.romanian(doxologiaUnits(sources), [], [{ month: 4, day: 29 }, { month: 9, day: 3 }, { month: 11, day: 9 }, { month: 11, day: 25 }]);
+    builder.russian(ocaUnits(sources, [2026, 2028]).fixed);
+    builder.overlay(overlayUnits(sources));
+    builder.shared(["ecumenical", "serbian"]);
+    const output = new RecordWriter(existing, { clusters: builder.clusters, lines: builder.lines, movable: builder.movable, stats: builder.stats }).write();
+    const names = (id: string): Array<string | undefined> => ["ro", "en"].map((lang) => output.files.get(`i18n/${lang}/persons/${id}.json`)?.names.display);
+    const lineOf = (tradition: string, date: string): string[][] | undefined => output.files.get(`traditions/${tradition}/menaion/${date}.json`)?.entries.map((e: { commemorations: string[] }) => e.commemorations);
+    // Metropolitan of Pentapolis is the see of St Nectarius; he lived and rests on Aegina.
+    assert.deepEqual(names("nectarius-kephalas-of-pentapolis"), ["Sf. Ier. Nectarie Taumaturgul de la Eghina", "Saint Nectarius Kephalas, Metropolitan of Pentapolis"]);
+    for (const tradition of ["romanian", "russian", "ecumenical", "serbian"]) assert.deepEqual(lineOf(tradition, "11/09"), [["comm:nectarius-kephalas-of-pentapolis--repose"]]);
+    // The relics brought on 3 September are his: no other St Nectarius is left to claim them.
+    assert.deepEqual(output.files.get("commemorations/nectarius-kephalas-of-pentapolis--translation-of-relics.json")?.subjects, ["person:nectarius-kephalas-of-pentapolis"]);
+    // St Basil of Ostrog was Bishop of Zakholmsk (Zahumlje); the Serbian list's line is that commemoration too.
+    assert.deepEqual(names("basil-of-zakholmsk"), ["Sf. Ier. Vasile de Ostrog", "Saint Basil, Bishop of Zakholmsk in Montenegro, Serbia"]);
+    for (const tradition of ["romanian", "russian", "ecumenical", "serbian"]) assert.deepEqual(lineOf(tradition, "04/29"), [["comm:basil-of-zakholmsk--repose"]]);
+    // Two sees are two hierarchs: St Clement of Ohrid is not St Clement, Pope of Rome.
+    assert.equal([...output.files.keys()].filter((k) => k.startsWith("persons/")).length, 4);
+  });
+
+  it("gives a saint of the Russian list whom no calendar keeps on the list's day to the saint of that name and place kept on another day (19 October: John of Kronstadt, 12 December: Herman of Alaska), not to a saint called the New (23 September: John of Epirus)", () => {
+    const sources: SourceData = {
+      ...data,
+      doxologia: [{ slug: "sfantul-ioan-de-kronstadt", title: "Sfântul Ioan de Kronstadt", month: 12, day: 20, order: 0, color: null, cross: null, secondRow: false }],
+      oca: ocaLines([
+        { id: "101143", title: "New Martyr John the New of Epirus", month: 4, day: 18 },
+        { id: "103530", title: "Repose of Venerable Herman of Alaska, Wonderworker of All America", month: 12, day: 13 },
+        { id: "103598", title: "Repose of Saint John of Kronstadt", month: 12, day: 20 },
+      ]),
+      // Civil dates of the Julian calendar: 6 October, 1 November and 25 December are 23 September, 19 October and 12 December.
+      overlays: [
+        { tradition: "russian", file: "russian_saints.json", calendar: "julian", month: 10, day: 6, order: 0, name: "New Martyr John of Epirus (1814)", title: "New Martyr John of Epirus (1814)", feastType: "New Martyr" },
+        { tradition: "russian", file: "russian_saints.json", calendar: "julian", month: 11, day: 1, order: 0, name: "Righteous John", title: "Righteous John, Wonderworker of Kronstadt (1908).", url: "https://en.wikipedia.org/wiki/John_of_Kronstadt", feastType: "Saint" },
+        { tradition: "russian", file: "russian_saints.json", calendar: "julian", month: 12, day: 25, order: 0, name: "St Herman", title: "St Herman, Wonderworker of Alaska (1836)", url: "https://en.wikipedia.org/wiki/Herman_of_Alaska", feastType: "Saint" },
+      ],
+    };
+    const existing = loadExisting(join(REPO_ROOT, "tests", "fixtures", "minimal", "data"));
+    const builder = new Builder(existing);
+    builder.romanian(doxologiaUnits(sources), [], [{ month: 12, day: 20 }]);
+    builder.russian(ocaUnits(sources, [2026, 2028]).fixed);
+    builder.overlay(overlayUnits(sources));
+    const output = new RecordWriter(existing, { clusters: builder.clusters, lines: builder.lines, movable: builder.movable, stats: builder.stats }).write();
+    assert.deepEqual([...output.files.keys()].filter((k) => k.startsWith("persons/")).sort(), ["persons/herman-of-alaska.json", "persons/john-of-epirus.json", "persons/john-of-kronstadt.json", "persons/john-the-new-of-epirus.json"]);
+    // The birth of St John of Kronstadt, and St Herman a day before the OCA keeps him: one more day of the same saint.
+    assert.deepEqual(output.files.get("commemorations/john-of-kronstadt--10-19.json")?.subjects, ["person:john-of-kronstadt"]);
+    assert.deepEqual(output.files.get("traditions/russian/menaion/10/19.json")?.entries, [{ commemorations: ["comm:john-of-kronstadt--10-19"] }]);
+    assert.deepEqual(output.files.get("commemorations/herman-of-alaska--12-12.json")?.subjects, ["person:herman-of-alaska"]);
+    // John of Epirus died in 1814; John the New of Epirus (of Ioannina) in 1526.
+    assert.deepEqual(output.files.get("commemorations/john-of-epirus--repose.json")?.subjects, ["person:john-of-epirus"]);
+  });
+
   it("writes one saint for a line that names him with two places (St Innocent of Komél and Vologda)", () => {
     const innocent: SourceData = {
       ...data,

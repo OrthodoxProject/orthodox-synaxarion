@@ -1,0 +1,23 @@
+{
+  "id": "sergius-of-paphlagonia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mărturisitor Serghie din Paflagonia",
+    "full": "Sfântul Cuvios Mărturisitor Serghie din Paflagonia",
+    "short": "Serghie din Paflagonia",
+    "given": "Serghie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/28/100478-venerable-confessor-sergius-of-paphlagonia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-10"
+  }
+}

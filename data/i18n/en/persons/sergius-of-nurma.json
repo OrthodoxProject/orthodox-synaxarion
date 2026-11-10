@@ -1,0 +1,20 @@
+{
+  "id": "sergius-of-nurma",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Sergius, Abbot of Nurma, disciple of Venerable Sergius of Radonezh, Vologda",
+    "short": "Sergius, Abbot of Nurma, disciple of Venerable Sergius of Radonezh, Vologda",
+    "given": "Sergius"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/07/102891-venerable-sergius-abbot-of-nurma-disciple-of-venerable-sergius-o",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

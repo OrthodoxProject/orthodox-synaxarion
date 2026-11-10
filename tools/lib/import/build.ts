@@ -26,14 +26,17 @@ import {
   newSlot,
   numeralOf,
   personScore,
+  placeKeys,
+  withListPlace,
   type Cluster,
   type GroupSubject,
   type Slot,
+  type SlotName,
 } from "./cluster.ts";
 import type { Existing, ExistingLine } from "./existing.ts";
 import type { HolinessType, NamePart, ParsedTitle } from "./model.ts";
 import { parseEn } from "./en.ts";
-import { fold, givenSimilarity } from "./names.ts";
+import { fold, givenSimilarity, nameSimilarity } from "./names.ts";
 import { mmdd, type Unit } from "./units.ts";
 
 export type Confidence = "low" | "medium" | "high";
@@ -230,12 +233,52 @@ export class Builder {
       same.matched.add(`${u.source}@${mmdd(u.month, u.day)}`);
       return same;
     }
+    // A saint of the lists that the calendars keep on another day (see placeListed).
+    const listed = single ? this.listedSaints.get(u) : undefined;
+    if (listed) {
+      if (!listed.existingPerson) this.fillSlot(listed, u, part, single);
+      listed.matched.add(`${u.source}@${mmdd(u.month, u.day)}`);
+      return listed;
+    }
     const slot = newSlot(u.family);
     this.fillSlot(slot, u, part, single);
     slot.matched.add(`${u.source}@${mmdd(u.month, u.day)}`);
     if (u.ext.doxologia && single) this.doxologiaSlots.set(u.ext.doxologia, slot);
     if (key) this.identity.set(key, slot);
     return slot;
+  }
+
+  /** The saints that list lines name on days on which no other line keeps them (see placeListed). */
+  private readonly listedSaints = new Map<Unit, Slot>();
+
+  /**
+   * The saint of a list line that matched nothing on its day: the one saint of the family with the same first name
+   * and the same place. The Russian list keeps St John of Kronstadt on 19 October as well ("Righteous John,
+   * Wonderworker of Kronstadt"; his repose is on 20 December), and St Herman of Alaska on 12 December ("St Herman,
+   * Wonderworker of Alaska"; the OCA keeps him on 13 December). "The New" tells a saint from an older one of the
+   * same name and place: "New Martyr John of Epirus" (1814), on 23 September, is not "New Martyr John the New of
+   * Epirus" (of Ioannina, 1526), kept on 18 April.
+   */
+  private keptElsewhere(u: Unit, part: NamePart): Slot | undefined {
+    const places = placeKeys(part);
+    if (places.length === 0) return undefined;
+    const holiness = new Set(u.parsed.holiness);
+    const isNew = extraKeys(part).includes("=new");
+    const found = new Set<Slot>();
+    const consider = (slot: Slot): void => {
+      if (slot.family !== u.family || slot.angel || found.has(slot) || !holinessAgrees(holiness, slot.holiness)) return;
+      for (const name of [slot.en?.part, slot.ro?.part, ...slot.alts]) {
+        if (!name || givenSimilarity(part, name) < 1 || gendersDiffer(part, name) || namesConflict(part, name)) continue;
+        if (extraKeys(name).includes("=new") !== isNew) continue;
+        const own = placeKeys(name);
+        if (!places.some((x) => own.some((y) => x === y || nameSimilarity(x, y) >= 0.75))) continue;
+        found.add(slot);
+        return;
+      }
+    };
+    for (const slot of this.existing.persons.values()) consider(slot);
+    for (const c of this.clusters) for (const slot of c.slots) consider(slot);
+    return found.size === 1 ? [...found][0] : undefined;
   }
 
   private readonly identity = new Map<string, Slot>();
@@ -259,6 +302,8 @@ export class Builder {
       const display = u.source === "overlay" && !p.honorific ? `Saint ${part.text}` : shown;
       slot[u.lang] = { part, display, short: part.text, variants: new Set() };
       if (full) (slot[u.lang] as NonNullable<Slot["ro"]>).full = full;
+      const listed = withListPlace(part, p.names);
+      if (listed !== part) (slot[u.lang] as NonNullable<Slot["ro"]>).listed = listed;
     } else if (single) {
       const { display } = displayOf(p, part, u.lang, single);
       const name = slot[u.lang] as NonNullable<Slot["ro"]>;
@@ -417,14 +462,16 @@ export class Builder {
   // Matching a unit against the clusters of its day
   // -------------------------------------------------------------------------
 
-  slotScore(part: NamePart, lang: "ro" | "en", slot: Slot): number {
+  /** How well a name designates a person; `listed` compares the person's names with the place that closes their list. */
+  slotScore(part: NamePart, lang: "ro" | "en", slot: Slot, listed = false): number {
     const same = slot[lang];
     const other = slot[lang === "ro" ? "en" : "ro"];
+    const nameOf = (n: SlotName): NamePart => (listed ? (n.listed ?? n.part) : n.part);
     let score = 0;
     // A name in the same language says more than a transliteration: use it when there is one.
-    if (same) score = personScore(part, same.part, false);
+    if (same) score = personScore(part, nameOf(same), false);
     else {
-      if (other) score = Math.max(score, personScore(part, other.part, true));
+      if (other) score = Math.max(score, personScore(part, nameOf(other), true));
       for (const alt of slot.alts) score = Math.max(score, personScore(part, alt, true));
     }
     // Short skeletons ("In", "Rim") must agree exactly.
@@ -526,11 +573,14 @@ export class Builder {
         if (!PERSON_KINDS.has(c.kind) && !(c.kind === "group" && c.slots.length > 0)) continue;
         for (const slot of c.slots) {
           if (rules.agree && !fits(slot.holiness)) continue;
-          const score = this.slotScore(part, u.lang, slot) + (fits(slot.holiness) ? 0 : -0.15);
           // A second unit of the same source and day lands on a person only when it names it exactly,
           // and a group's unit never does: the group is another commemoration ("Paul", one of St Luchilian's youths, is not "Sfânta Muceniță Paula fecioara").
           const again = slot.matched.has(`${u.source}@${mmdd(u.month, u.day)}`);
           if (again && p.kind === "group") continue;
+          // Exactly means with the places that close the two lists: "Sergius of Paphlagonia" is not the Sergius of
+          // "Sergius and Herman, Wonderworkers of Valaam", whom the OCA lists the same day.
+          const own = again ? this.slotScore(withListPlace(part, p.names), u.lang, slot, true) : this.slotScore(part, u.lang, slot);
+          const score = own + (fits(slot.holiness) ? 0 : -0.15);
           if (score >= (again ? Math.max(1, this.threshold(u.lang, slot)) : this.threshold(u.lang, slot))) scored.push({ part, slot, cluster: c, score, agreement: this.slotAgreement(part, u.lang, slot) });
         }
       }
@@ -681,6 +731,14 @@ export class Builder {
       if (!r.clusters.includes(x.cluster)) r.clusters.push(x.cluster);
       out.set(x.u, r);
     }
+    for (const [u, part, slot, cluster] of this.seeAndPlace(units, pool, done, uses)) {
+      done.add(part);
+      uses.set(slot, (uses.get(slot) ?? 0) + 1);
+      const r = out.get(u) ?? { clusters: [], pairs: [], rest: [] };
+      r.pairs.push([part, slot]);
+      if (!r.clusters.includes(cluster)) r.clusters.push(cluster);
+      out.set(u, r);
+    }
     for (const [u, r] of out) {
       // A name left over may still lead a group of the other source, as in match() ("Sf. Mc. Terentie, soția sa, Neonila și cei 7 fii").
       const leaders = new Map<Cluster, NamePart>();
@@ -694,6 +752,37 @@ export class Builder {
       }
       r.rest = u.parsed.names.filter((n) => !done.has(n));
       r.clusters.sort((a, b) => firstIndex(a, r.pairs, u.parsed.names, leaders) - firstIndex(b, r.pairs, u.parsed.names, leaders));
+    }
+    return out;
+  }
+
+  /**
+   * Across languages, a hierarch whom one calendar names by his see and the other by the place where he lived is one
+   * saint when he is the only one of his name that day in each: "Saint Nectarius Kephalas, Metropolitan of
+   * Pentapolis" (OCA) is "Sf. Ier. Nectarie de la Eghina" (doxologia, the official calendar) on 9 November. The
+   * first names must be the same in the table of equivalents; the see stands for neither a place nor an epithet of
+   * the other name, so the two names score as two saints. Returns the pairs that no score made.
+   */
+  private seeAndPlace(units: Unit[], pool: Cluster[], done: Set<NamePart>, uses: Map<Slot, number>): Array<[Unit, NamePart, Slot, Cluster]> {
+    const parts = units
+      .filter((u) => (u.parsed.kind === "saint" || u.parsed.kind === "saints") && this.exactFor(u).length === 0)
+      .flatMap((u) => u.parsed.names.map((part) => ({ u, part })));
+    const out: Array<[Unit, NamePart, Slot, Cluster]> = [];
+    for (const { u, part } of parts) {
+      if (done.has(part) || !part.eq || parts.filter((x) => x.part.eq === part.eq).length !== 1) continue;
+      const named: Array<{ slot: Slot; cluster: Cluster }> = [];
+      for (const c of pool) {
+        if (!PERSON_KINDS.has(c.kind)) continue;
+        for (const slot of c.slots) if ([slot.ro, slot.en].some((n) => n?.part.eq === part.eq) && !named.some((x) => x.slot === slot)) named.push({ slot, cluster: c });
+      }
+      const only = named.length === 1 ? named[0] : undefined;
+      const name = only?.slot[u.lang === "ro" ? "en" : "ro"]?.part;
+      if (!only || !name || only.slot[u.lang] || uses.has(only.slot) || only.slot.matched.has(`${u.source}@${mmdd(u.month, u.day)}`)) continue;
+      const hierarch = (holiness: Iterable<HolinessType>, n: NamePart): boolean => [...holiness].includes("hierarch") || hasSee(n);
+      // Two sees are two hierarchs: "Sfântul Clement, Arhiepiscopul Ohridei" is not "Hieromartyr Clement, Pope of Rome" (25 November).
+      if (!hierarch(u.parsed.holiness, part) || !hierarch(only.slot.holiness, name) || hasSee(part) === hasSee(name)) continue;
+      if (gendersDiffer(part, name) || namesConflictByNumber(part, name)) continue;
+      out.push([u, part, only.slot, only.cluster]);
     }
     return out;
   }
@@ -956,7 +1045,10 @@ export class Builder {
    * way (see saintsOtherDay). The OCA keeps some saints of the 20th century on
    * their civil day (Sf. Patriarh Tihon on 7 April, the Royal Martyrs on 17
    * July), so a line that matches nothing on its Menaion date is looked for on
-   * the day listed.
+   * the day listed. A line that matches nothing on either day names a saint
+   * the calendars keep on another day, or on that day under another name (see
+   * keptElsewhere): on its Menaion date it is then a commemoration of that
+   * saint, or the one that keeps him that day.
    */
   private placeListed(u: Unit): { clusters: Cluster[]; month: number; day: number } {
     const here = { month: u.month, day: u.day };
@@ -971,6 +1063,14 @@ export class Builder {
     if (result.clusters.length === 0) {
       const late = this.match(civil, this.candidates(civil.month, civil.day), { anyHoliness: u.holinessFromList === true, sameGender: true });
       if (late.clusters.length > 0 && late.rest.length === 0) return { clusters: this.place(civil, undefined, late), ...u.listed };
+      const part = u.parsed.names.length === 1 && (u.parsed.kind === "saint" || u.parsed.kind === "saints") ? u.parsed.names[0] : undefined;
+      const saint = part ? this.keptElsewhere(u, part) : undefined;
+      if (part && saint) {
+        // "Basil of Ostrog" (the Serbian list) is the OCA's "Saint Basil, Bishop of Zakholmsk", kept the same day.
+        const today = pool.find((c) => (PERSON_KINDS.has(c.kind) || c.kind === "group") && c.slots.includes(saint));
+        if (today) return { clusters: this.place(u, pool, { clusters: [today], pairs: [[part, saint]], rest: [] }), ...here };
+        this.listedSaints.set(u, saint);
+      }
     }
     return { clusters: this.place(u, pool, result), ...here };
   }
@@ -1241,6 +1341,21 @@ function identityKey(u: Unit, part: NamePart): string | null {
   const extra = extraKeys(part);
   if (extra.length === 0) return null;
   return `${u.family}|${u.lang}|${part.eq ?? part.key}|${numeralOf(part) ?? ""}|${[...new Set(extra)].sort().join(",")}`;
+}
+
+/** A bishop's see in a name: "Metropolitan of Pentapolis", "Bishop of Ryazan", "Episcopul Ciprului", "Arhiepiscop de Corfu", "Mitropolitul Moldovei". */
+function hasSee(part: NamePart): boolean {
+  return (
+    /\b(?:(?:arch)?bishop|metropolitan|patriarch|pope|catholicos)\s+of\s/i.test(part.text) ||
+    /\b(?:[Aa]rhi)?[Ee]piscop(?:ul)?\s+(?:al\s+|a\s+|de\s+(?:la\s+)?)?\p{Lu}|\b(?:[Mm]itropolit|[Pp]atriarh)(?:ul)?\s+(?:al\s+|a\s+)?\p{Lu}/u.test(part.text)
+  );
+}
+
+/** Two names with different regnal numbers ("Eustathius I" / "Eustathius II"). */
+function namesConflictByNumber(a: NamePart, b: NamePart): boolean {
+  const na = numeralOf(a);
+  const nb = numeralOf(b);
+  return na !== undefined && nb !== undefined && na !== nb;
 }
 
 /** "a Maicii Domnului din Tinos" → "Icoana Maicii Domnului din Tinos". */

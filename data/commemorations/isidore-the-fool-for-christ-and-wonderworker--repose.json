@@ -1,0 +1,29 @@
+{
+  "id": "isidore-the-fool-for-christ-and-wonderworker--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:isidore-the-fool-for-christ-and-wonderworker"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 14
+  },
+  "external_ids": {
+    "oca": "101376"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/14/101376-venerable-isidore-the-fool-for-christ-and-wonderworker-of-rostov",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

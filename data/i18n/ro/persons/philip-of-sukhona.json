@@ -1,0 +1,23 @@
+{
+  "id": "philip-of-sukhona",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Filip de pe Suhona",
+    "full": "Sfântul Filip de pe Suhona",
+    "short": "Filip de pe Suhona",
+    "given": "Filip"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/17/108988-saint-philip-of-sukhona",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-10"
+  }
+}

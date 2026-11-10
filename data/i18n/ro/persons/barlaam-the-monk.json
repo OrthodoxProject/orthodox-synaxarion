@@ -1,0 +1,23 @@
+{
+  "id": "barlaam-the-monk",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Varlaam monahul",
+    "full": "Sfântul Varlaam monahul",
+    "short": "Varlaam monahul",
+    "given": "Varlaam"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/19/100292-saints-barlaam-the-monk-and-prince-ioasaph-of-india",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-10"
+  }
+}

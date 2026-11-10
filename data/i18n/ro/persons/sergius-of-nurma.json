@@ -1,0 +1,23 @@
+{
+  "id": "sergius-of-nurma",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Serghie, egumenul de la Nurma, ucenicul Sf. Cuv. Serghie de Radonej, Vologda",
+    "full": "Sfântul Cuvios Serghie, egumenul de la Nurma, ucenicul Sfântului Cuvios Serghie de Radonej, Vologda",
+    "short": "Serghie, egumenul de la Nurma, ucenicul Sf. Cuv. Serghie de Radonej, Vologda",
+    "given": "Serghie"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/07/102891-venerable-sergius-abbot-of-nurma-disciple-of-venerable-sergius-o",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-10"
+  }
+}

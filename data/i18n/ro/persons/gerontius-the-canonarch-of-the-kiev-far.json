@@ -2,25 +2,22 @@
   "id": "gerontius-the-canonarch-of-the-kiev-far",
   "locale": "ro",
   "names": {
-    "display": "Sf. Mc. Gherontie",
-    "full": "Sfântul Mucenic Gherontie",
-    "short": "Gherontie",
+    "display": "Sf. Cuv. Gherontie Canonarhul, de la Peșterile Depărtate din Kiev",
+    "full": "Sfântul Cuvios Gherontie Canonarhul, de la Peșterile Depărtate din Kiev",
+    "short": "Gherontie Canonarhul, de la Peșterile Depărtate din Kiev",
     "given": "Gherontie"
   },
   "references": [
     {
-      "source": "src:doxologia",
-      "url": "https://doxologia.ro/sfantul-mucenic-gherontie",
-      "accessed": "2026-11-08"
-    },
-    {
-      "source": "src:calendar-patriarhia",
-      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-maria-egipteanca-sf-cuv-macarie-marturisitorul-sf-mc-gherontie-sf-cuv-varsanufie-de-la-optina/",
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/01/100966-venerable-gerontius-the-canonarch-of-the-kiev-far-caves",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "draft",
-    "method": "original"
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-11"
   }
 }

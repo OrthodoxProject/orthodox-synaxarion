@@ -203,7 +203,7 @@ const EPITHETS: Array<[RegExp, string]> = [
   [/^(tacutul|silent)$/, "silent"],
   [/^(postitorul|faster)$/, "faster"],
   [/^(iconograful|iconographer)$/, "iconographer"],
-  [/^(lepros|leper)$/, "leper"],
+  [/^(lepros|leprosul|leper)$/, "leper"],
   [/^(tiron|tyro|recruit)$/, "tyro"],
   [/^(izvoratorul|myrrh-gusher|myrrh-streaming)$/, "myrrh"],
   [/^(bucatarul|cook)$/, "cook"],
@@ -227,12 +227,16 @@ function placeName(word: string): string {
 /**
  * Titles that stand for an epithet and a place: the Coptic Synaxarium calls the Great Martyr George "Prince of the
  * Martyrs", and also "St. George of Cappadocia" (7 Hatour, the consecration of his church in Lydda); it calls St. James
- * the Mangled (Intercisus) "the Persian" (16 Kiahk) and Prince Theodore of Shotep "El-Shotbe" (20 Hatour).
+ * the Mangled (Intercisus) "the Persian" (16 Kiahk) and Prince Theodore of Shotep "El-Shotbe" (20 Hatour). Doxologia
+ * calls St Joseph the Hymnographer (Iosif Imnograful) "Iosif, scriitorul de cântări" (4 April), and St Macarius the
+ * Great (Macarie cel Mare, the OCA's "Macarius the Great of Egypt") "Macarie Egipteanul" (19 January).
  */
 const TITLE_EPITHETS: Array<[RegExp, string]> = [
   [/\bprince of (?:the )?martyrs\b/giu, "great of Cappadocia"],
   [/\bthe mangled\b/giu, "the Persian, the Mangled"],
   [/\bEl-Shotbe\b/giu, "of Shotep"],
+  [/\bscriitorul de c[âa]nt[ăa]ri\b/giu, "Imnograful"],
+  [/\bMacarie Egipteanul\b/gu, "Macarie cel Mare Egipteanul"],
 ];
 
 /** Normalised extra words of a name, for comparison across languages. */

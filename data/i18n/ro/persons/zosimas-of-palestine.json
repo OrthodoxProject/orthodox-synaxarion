@@ -2,22 +2,25 @@
   "id": "zosimas-of-palestine",
   "locale": "ro",
   "names": {
-    "display": "Sf. Cuv. Zosima din Palestina",
-    "full": "Sfântul Cuvios Zosima din Palestina",
-    "short": "Zosima din Palestina",
+    "display": "Sf. Cuv. Zosima",
+    "full": "Sfântul Cuvios Zosima",
+    "short": "Zosima",
     "given": "Zosima"
   },
   "references": [
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/04/04/100988-venerable-zosimas-of-palestine",
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-zosima",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-iosif-imnograful-gheorghe-din-maleon-si-zosima-sambata-lui-lazar-pomenirea-celor-adormiti/",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "en",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

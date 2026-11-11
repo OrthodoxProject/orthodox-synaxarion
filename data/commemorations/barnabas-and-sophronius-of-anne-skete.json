@@ -3,7 +3,7 @@
   "kind": "repose",
   "subjects": [
     "person:barnabas",
-    "person:sophronius-of-anne-skete"
+    "person:sophronius-of-asia-minor"
   ],
   "date_rule": {
     "type": "fixed",
@@ -11,17 +11,12 @@
     "day": 18
   },
   "external_ids": {
-    "oca": "102337"
+    "oca": "108980"
   },
   "sources": [
     {
       "source": "src:doxologia",
       "url": "https://doxologia.ro/sfintii-cuviosi-barnaba-sofronie",
-      "accessed": "2026-11-08"
-    },
-    {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/08/18/102337-venerable-sophronius-of-saint-anne-skete-mount-athos",
       "accessed": "2026-11-08"
     },
     {
@@ -36,5 +31,8 @@
     "notes": [
       "Importat automat din doxologia.ro, oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "sophronius-of-asia-minor--repose"
+  ]
 }

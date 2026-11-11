@@ -2,19 +2,22 @@
   "id": "sophronius-of-anne-skete",
   "locale": "ro",
   "names": {
-    "display": "Sf. Cuv. Sofronie",
-    "short": "Sofronie",
+    "display": "Sf. Cuv. Sofronie de la Schitul Sfânta Ana, Muntele Athos",
+    "full": "Sfântul Cuvios Sofronie de la Schitul Sfânta Ana, Muntele Athos",
+    "short": "Sofronie de la Schitul Sfânta Ana, Muntele Athos",
     "given": "Sofronie"
   },
   "references": [
     {
-      "source": "src:doxologia",
-      "url": "https://doxologia.ro/sfintii-cuviosi-barnaba-sofronie",
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/18/102337-venerable-sophronius-of-saint-anne-skete-mount-athos",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "draft",
-    "method": "original"
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-11"
   }
 }

@@ -36,7 +36,7 @@ import {
 import type { Existing, ExistingLine } from "./existing.ts";
 import type { HolinessType, NamePart, ParsedTitle } from "./model.ts";
 import { parseEn } from "./en.ts";
-import { fold, givenSimilarity, levenshtein, nameSimilarity } from "./names.ts";
+import { equivalent, fold, givenSimilarity, levenshtein, nameSimilarity, skeleton } from "./names.ts";
 import { mmdd, type Unit } from "./units.ts";
 
 export type Confidence = "low" | "medium" | "high";
@@ -56,6 +56,16 @@ export interface MatchRules {
   agree?: boolean;
   anyHoliness?: boolean;
   sameGender?: boolean;
+  /**
+   * Persons that the prematch of the unit's source and day gave to its other lines: taken as if those lines had landed
+   * already, so that a line the prematch left out does not take them in their stead (see claimedBy).
+   */
+  claimed?: Set<Slot>;
+}
+
+/** The persons that a prematch gave to the lines of its source and day. */
+function claimedBy(pre: Map<Unit, MatchResult>): Set<Slot> {
+  return new Set([...pre.values()].flatMap((r) => r.pairs.map(([, slot]) => slot)));
 }
 
 /** What a unit matched: the clusters, the persons its names landed on, and the names left over. */
@@ -503,6 +513,30 @@ export class Builder {
     return best ?? 0;
   }
 
+  /**
+   * How much the sources write alike of a name and of a person, beyond the name: the proper names (places, people)
+   * that what the unit writes of the name shares with what the other sources' lines of the person's cluster write of
+   * him (see textAbout). The official synaxarion of 4 April has "Sf. Zosima din Palestina" bring St Mary of Egypt
+   * communion beyond the Jordan, as the OCA's short life of "Venerable Zosimas of Palestine" does, while the OCA's
+   * "Venerable Zosimas, Abbot of Vorbozomsk" founded a monastery on Lake Vorbozoma; that of 18 July has St Pamvo live in
+   * the mountains of Nitria, in Egypt, where the OCA has "Venerable Pambo the Hermit of Egypt", not "Venerable Pambo the
+   * Recluse of the Kiev Far Caves". It only breaks the ties of the scores (see bestFirst).
+   */
+  evidence(u: Unit, part: NamePart, slot: Slot, c: Cluster): number {
+    const others = c.units.filter((x) => x.source !== u.source);
+    if (!u.texts && others.every((x) => !x.texts)) return 0;
+    const names = [slot.ro?.part, slot.en?.part, ...slot.alts].filter((n): n is NamePart => n !== undefined);
+    const their = new Set<string>();
+    for (const x of others) for (const name of names) for (const key of properNames(textAbout(x, name))) their.add(key);
+    // The saint's own name is in every text about him.
+    const named = new Set([part.key, ...names.map((n) => n.key)]);
+    let shared = 0;
+    for (const key of properNames(textAbout(u, part))) {
+      if (!named.has(key) && [...their].some((k) => !named.has(k) && (k === key || nameSimilarity(k, key) >= 0.8))) shared++;
+    }
+    return shared;
+  }
+
   private threshold(lang: "ro" | "en", slot: Slot): number {
     return slot[lang] ? 0.95 : 0.8;
   }
@@ -579,7 +613,7 @@ export class Builder {
     const holiness = new Set(p.holiness);
     const fits = (other: Set<HolinessType>): boolean => (rules.agree ? holinessAgrees(holiness, other) : holinessCompatible(holiness, other));
     const taken = new Set<Slot>();
-    const scored: Array<{ part: NamePart; slot: Slot; cluster: Cluster; score: number; agreement: number }> = [];
+    const scored: Array<{ part: NamePart; slot: Slot; cluster: Cluster; score: number; agreement: number; holiness: number; evidence: number }> = [];
     for (const part of p.names) {
       for (const c of pool) {
         if (!PERSON_KINDS.has(c.kind) && !(c.kind === "group" && c.slots.length > 0)) continue;
@@ -587,13 +621,13 @@ export class Builder {
           if (rules.agree && !fits(slot.holiness)) continue;
           // A second unit of the same source and day lands on a person only when it names it exactly (see namedExactly),
           // and a group's unit never does: the group is another commemoration ("Paul", one of St Luchilian's youths, is not "Sfânta Muceniță Paula fecioara").
-          const again = slot.matched.has(`${u.source}@${mmdd(u.month, u.day)}`);
+          const again = slot.matched.has(`${u.source}@${mmdd(u.month, u.day)}`) || rules.claimed?.has(slot) === true;
           if (again && (p.kind === "group" || !this.namedExactly(withListPlace(part, p.names), u.lang, slot))) continue;
           // Exactly means with the places that close the two lists: "Sergius of Paphlagonia" is not the Sergius of
           // "Sergius and Herman, Wonderworkers of Valaam", whom the OCA lists the same day.
           const own = again ? this.slotScore(withListPlace(part, p.names), u.lang, slot, true) : this.slotScore(part, u.lang, slot);
           const score = own + (fits(slot.holiness) ? 0 : -0.15);
-          if (score >= (again ? Math.max(1, this.threshold(u.lang, slot)) : this.threshold(u.lang, slot))) scored.push({ part, slot, cluster: c, score, agreement: this.slotAgreement(part, u.lang, slot) });
+          if (score >= (again ? Math.max(1, this.threshold(u.lang, slot)) : this.threshold(u.lang, slot))) scored.push({ part, slot, cluster: c, score, agreement: this.slotAgreement(part, u.lang, slot), holiness: holinessAgrees(holiness, slot.holiness) ? 1 : 0, evidence: this.evidence(u, part, slot, c) });
         }
       }
     }
@@ -617,7 +651,7 @@ export class Builder {
         if (!PERSON_KINDS.has(c.kind) && !(c.kind === "group" && c.slots.length > 0)) continue;
         for (const slot of c.slots) {
           const name = slot[u.lang];
-          if (!name || taken.has(slot) || slot.matched.has(`${u.source}@${mmdd(u.month, u.day)}`)) continue;
+          if (!name || taken.has(slot) || slot.matched.has(`${u.source}@${mmdd(u.month, u.day)}`) || rules.claimed?.has(slot)) continue;
           if (givenSimilarity(part, name.part) < 1 || gendersDiffer(part, name.part)) continue;
           if (!rules.anyHoliness && !fits(slot.holiness)) continue;
           if (rules.agree && namesConflict(part, name.part)) continue;
@@ -712,7 +746,7 @@ export class Builder {
    * not "Hieromartyr Phocas, Bishop of Sinope" (OCA, 22 September).
    */
   prematch(units: Unit[], pool: Cluster[]): Map<Unit, MatchResult> {
-    type Candidate = { u: Unit; part: NamePart; slot: Slot; cluster: Cluster; score: number; agreement: number };
+    type Candidate = { u: Unit; part: NamePart; slot: Slot; cluster: Cluster; score: number; agreement: number; holiness: number; evidence: number };
     const candidates: Candidate[] = [];
     for (const u of units) {
       const p = u.parsed;
@@ -723,7 +757,7 @@ export class Builder {
           if (!PERSON_KINDS.has(c.kind) && !(c.kind === "group" && c.slots.length > 0)) continue;
           for (const slot of c.slots) {
             const score = this.slotScore(part, u.lang, slot) + (holinessCompatible(new Set(p.holiness), slot.holiness) ? 0 : -0.15);
-            if (score >= this.threshold(u.lang, slot)) candidates.push({ u, part, slot, cluster: c, score, agreement: this.slotAgreement(part, u.lang, slot) });
+            if (score >= this.threshold(u.lang, slot)) candidates.push({ u, part, slot, cluster: c, score, agreement: this.slotAgreement(part, u.lang, slot), holiness: holinessAgrees(new Set(p.holiness), slot.holiness) ? 1 : 0, evidence: this.evidence(u, part, slot, c) });
           }
         }
       }
@@ -806,14 +840,14 @@ export class Builder {
   }
 
   /** Matches a unit on its day; creates a cluster for what is left. */
-  place(u: Unit, pool = this.candidates(u.month, u.day), pre?: MatchResult): Cluster[] {
+  place(u: Unit, pool = this.candidates(u.month, u.day), pre?: MatchResult, rules: MatchRules = {}): Cluster[] {
     const known = this.exactFor(u);
     if (known.length > 0) {
       for (const c of known) this.attach(c, u);
       this.count(`${u.source}.known`);
       return known;
     }
-    const result = pre ?? this.match(u, pool);
+    const result = pre ?? this.match(u, pool, rules);
     if (result.clusters.length > 0) {
       this.absorb(u, result);
       this.count(`${u.source}.matched`);
@@ -828,7 +862,7 @@ export class Builder {
     const subject = u.parsed.subject;
     if (u.parsed.kind === "glorification" && subject && (subject.kind === "saint" || subject.kind === "saints")) {
       const own: Unit = { ...u, parsed: subject };
-      const r = this.match(own, pool);
+      const r = this.match(own, pool, rules);
       if (r.pairs.length > 0 && r.rest.length === 0) {
         this.absorb(own, r);
         this.count(`${u.source}.matched`);
@@ -903,6 +937,7 @@ export class Builder {
       const key = mmdd(month, day);
       const dayClusters: Cluster[] = [];
       const doxPre = this.prematch(doxByDay.get(key) ?? [], this.candidates(month, day));
+      const doxClaimed = claimedBy(doxPre);
       for (const u of doxByDay.get(key) ?? []) {
         const k = u.parsed.kind;
         if (k === "movable" || k === "skip") {
@@ -918,11 +953,12 @@ export class Builder {
           }
           continue;
         }
-        for (const c of this.place(u, undefined, doxPre.get(u))) if (!dayClusters.includes(c)) dayClusters.push(c);
+        for (const c of this.place(u, undefined, doxPre.get(u), { claimed: doxClaimed })) if (!dayClusters.includes(c)) dayClusters.push(c);
       }
       // The official lines, in their order.
       const lineOf = new Set<Cluster>();
       const patrPre = this.prematch(patrByDay.get(key) ?? [], this.candidates(month, day));
+      const patrClaimed = claimedBy(patrPre);
       for (const u of patrByDay.get(key) ?? []) {
         const k = u.parsed.kind;
         if (k === "movable" || k === "skip") continue;
@@ -936,7 +972,7 @@ export class Builder {
             periodUnits.set(c, list);
           }
         } else {
-          clusters = this.placeOfficial(u, patrPre.get(u));
+          clusters = this.placeOfficial(u, patrPre.get(u), { claimed: patrClaimed });
         }
         if (clusters.length === 0) continue;
         for (const c of clusters) lineOf.add(c);
@@ -972,7 +1008,7 @@ export class Builder {
    * One official item: its names are looked up among the saints of the day
    * (doxologia first); names that are not there become new saints.
    */
-  private placeOfficial(u: Unit, pre?: MatchResult): Cluster[] {
+  private placeOfficial(u: Unit, pre?: MatchResult, rules: MatchRules = {}): Cluster[] {
     const known = this.exactFor(u);
     if (known.length > 0) {
       for (const c of known) this.attach(c, u);
@@ -982,7 +1018,7 @@ export class Builder {
     const pool = this.candidates(u.month, u.day);
     const p = u.parsed;
     if (p.kind === "saint" || p.kind === "saints") {
-      const result = pre ?? this.match(u, pool);
+      const result = pre ?? this.match(u, pool, rules);
       if (result.clusters.length > 0) this.absorb(u, result);
       const out = [...result.clusters];
       // Names left over: a second place ("de la Cernica și Căldărușani") is not a saint.
@@ -994,7 +1030,7 @@ export class Builder {
       this.count(result.clusters.length > 0 ? "patriarhia.matched" : "patriarhia.new");
       return out;
     }
-    return this.place(u, pool, pre);
+    return this.place(u, pool, pre, rules);
   }
 
   // -------------------------------------------------------------------------
@@ -1004,12 +1040,14 @@ export class Builder {
   russian(oca: Unit[]): void {
     const periodUnits = new Map<Cluster, Unit[]>();
     let pre = new Map<Unit, MatchResult>();
+    let claimed = new Set<Slot>();
     let preDay = "";
     for (const u of oca) {
       const day = mmdd(u.month, u.day);
       if (day !== preDay) {
         preDay = day;
         pre = this.prematch(oca.filter((x) => x.month === u.month && x.day === u.day), this.candidates(u.month, u.day));
+        claimed = claimedBy(pre);
       }
       const k = u.parsed.kind;
       if (k === "movable" || k === "skip") {
@@ -1026,7 +1064,7 @@ export class Builder {
         continue;
       }
       const pool = this.candidates(u.month, u.day);
-      const clusters = this.place(u, pool, pre.get(u));
+      const clusters = this.place(u, pool, pre.get(u), { claimed });
       if (clusters.length > 0) this.addLine("russian", u.month, u.day, withDiffers({ clusters }, u.month, u.day));
     }
     this.placePeriods("russian", periodUnits);
@@ -1460,10 +1498,48 @@ function withDiffers(line: LineDraft, month: number, day: number): LineDraft {
  * Order of the candidate pairs of names and persons: the best score first;
  * between equal scores (on the 0.05 grid of the scores), the pair whose
  * names agree most, not the source that comes first ("Antonina" takes
- * "Sfânta Muceniță Antonina" before "Sfântul Mucenic Antonie" can).
+ * "Sfânta Muceniță Antonina" before "Sfântul Mucenic Antonie" can); then the
+ * pair whose kinds of holiness agree (see holinessAgrees: "Martyrs Gerontius
+ * and Basilides" take the "Sf. Mc. Gherontie" of 1 April before "Venerable
+ * Gerontius the Canonarch of the Kiev Far Caves", whom the OCA lists first);
+ * then the pair that the texts of the sources bring together (see
+ * Builder.evidence): "Venerable Zosimas of Palestine" takes the "Sf. Cuv.
+ * Zosima" of 4 April before "Venerable Zosimas, Abbot of Vorbozomsk".
  */
-function bestFirst(a: { score: number; agreement: number }, b: { score: number; agreement: number }): number {
-  return Math.round((b.score - a.score) * 1000) || b.agreement - a.agreement;
+function bestFirst(a: { score: number; agreement: number; holiness?: number; evidence?: number }, b: { score: number; agreement: number; holiness?: number; evidence?: number }): number {
+  return Math.round((b.score - a.score) * 1000) || b.agreement - a.agreement || (b.holiness ?? 0) - (a.holiness ?? 0) || (b.evidence ?? 0) - (a.evidence ?? 0);
+}
+
+/** Capitalised words that name no place or person in particular: honorifics, the Lord, the headings of hymns, words that start a sentence. */
+const NOT_PROPER = new Set([
+  "saint", "saints", "venerable", "holy", "blessed", "righteous", "martyr", "martyrs", "hieromartyr", "monk", "nun", "bishop", "father", "fathers", "mother", "lord", "god", "christ", "jesus", "theotokos", "church", "life", "feast",
+  "sfantul", "sfanta", "sfintii", "sfintele", "sfantului", "sfintei", "sfintilor", "cuviosul", "cuvioasa", "cuvios", "cuviosului", "cuvioasei", "mucenic", "mucenicul", "mucenita", "mucenicii", "ierarhul", "apostol", "apostolul", "proroc", "prorocul",
+  "domnul", "domnului", "dumnezeu", "dumnezeul", "dumnezeului", "hristos", "hristoase", "hristosului", "iisus", "maica", "biserica", "bisericii", "parintele", "parintii", "tropar", "troparul", "glasul", "condac", "condacul", "amin",
+  "the", "this", "that", "then", "there", "these", "when", "after", "before", "once", "from", "with", "they", "their", "also", "while", "during", "according",
+  "dupa", "cand", "pentru", "deci", "atunci", "acesta", "aceasta", "fiind",
+]);
+
+/** Name keys of the proper names of a text (places, people), without the words of NOT_PROPER. */
+function properNames(text: string): Set<string> {
+  const out = new Set<string>();
+  for (const word of text.match(/\p{Lu}[\p{L}'’-]+/gu) ?? []) {
+    const f = fold(word).replace(/[^a-z]/g, "");
+    if (f.length < 4 || NOT_PROPER.has(f)) continue;
+    const key = skeleton(f);
+    if (key.length >= 3) out.add(key);
+  }
+  return out;
+}
+
+/** Whether a heading of a synaxarion names a saint of that first name ("Sf. Zosima din Palestina", "Sfântul Cuvios Pamvo"). */
+function headingNames(heading: string, part: NamePart): boolean {
+  return heading.split(/[\s,.;:()]+/).some((w) => w.length > 1 && (skeleton(w) === part.key || (part.eq !== undefined && equivalent(w) === part.eq)));
+}
+
+/** What a unit writes of one of its saints, with its title: the OCA's short life, the sections of the synaxarion that his name heads. */
+function textAbout(u: Unit, part: NamePart): string {
+  const texts = (u.texts ?? []).filter((t) => t.heading === undefined || headingNames(t.heading, part));
+  return [u.title, ...texts.map((t) => `${t.heading ?? ""} ${t.text}`)].join(" ");
 }
 
 /** Whether another line of the unit's source and day already describes the cluster: one source lists a commemoration once a day. */

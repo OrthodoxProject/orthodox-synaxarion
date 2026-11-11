@@ -6,15 +6,9 @@
     "venerable"
   ],
   "external_ids": {
-    "doxologia": "sfantul-cuvios-zosima",
     "oca": "100987"
   },
   "sources": [
-    {
-      "source": "src:doxologia",
-      "url": "https://doxologia.ro/sfantul-cuvios-zosima",
-      "accessed": "2026-11-08"
-    },
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/04/04/100987-venerable-zosimas-abbot-of-vorbozomsk",
@@ -23,9 +17,10 @@
   ],
   "editorial": {
     "status": "draft",
-    "confidence": "medium",
+    "confidence": "low",
     "notes": [
-      "Importat automat din doxologia.ro, oca.org; de verificat."
+      "Importat automat din oca.org; de verificat.",
+      "Genul nu reiese din sursă; e de verificat."
     ]
   }
 }

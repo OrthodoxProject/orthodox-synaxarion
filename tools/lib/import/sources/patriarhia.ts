@@ -4,7 +4,8 @@
  * day, the title printed in the official calendar, with the crosses and their
  * colours, and a link to the day's page. Only facts are used (what is
  * celebrated, on which day, with which cross); the synaxarion texts and the
- * readings' texts are not copied.
+ * readings' texts are not copied. The synaxarion of the day is read only to
+ * tell apart two saints of one name (see Builder.evidence).
  */
 import { cleanText, decodeEntities } from "../html.ts";
 import type { PoliteFetcher } from "../fetch.ts";
@@ -32,6 +33,35 @@ export interface PatriarhiaDay {
   /** "Anul Nou", national days … */
   subtitle: string;
   publicHoliday: boolean;
+  /** The day's synaxarion, as text, in the sections its headings open ("Sf. Zosima din Palestina"). */
+  synaxarion?: SynaxarionSection[];
+}
+
+export interface SynaxarionSection {
+  /** The heading that opens the section; "" before the first heading. */
+  heading: string;
+  text: string;
+}
+
+/** Splits the HTML of a synaxarion into the sections its headings open. */
+export function synaxarionSections(html: string): SynaxarionSection[] {
+  const text = (h: string): string => cleanText(decodeEntities(h.replace(/<br\s*\/?>/gi, " ").replace(/<[^>]+>/g, " ")));
+  const out: SynaxarionSection[] = [];
+  const re = /<h[1-6][^>]*>([\s\S]*?)<\/h[1-6]>/gi;
+  let heading = "";
+  let start = 0;
+  let m: RegExpExecArray | null;
+  const push = (end: number): void => {
+    const body = text(html.slice(start, end));
+    if (heading || body) out.push({ heading, text: body });
+  };
+  while ((m = re.exec(html))) {
+    push(m.index);
+    heading = text(m[1] ?? "");
+    start = m.index + m[0].length;
+  }
+  push(html.length);
+  return out;
 }
 
 /** Finds the JSON object assigned to `var copData` in the page. */
@@ -125,7 +155,7 @@ export function parseCalendar(html: string): PatriarhiaDay[] {
   for (const entries of Object.values(data.calendarData as Record<string, any[]>)) {
     for (const e of entries) {
       const ymd = String(e.data_zilei);
-      days.push({
+      const day: PatriarhiaDay = {
         year: Number(ymd.slice(0, 4)),
         month: Number(ymd.slice(4, 6)),
         day: Number(ymd.slice(6, 8)),
@@ -134,7 +164,10 @@ export function parseCalendar(html: string): PatriarhiaDay[] {
         title: cleanText(String(e.titlu_acf ?? "").replace(/<[^>]+>/g, "")),
         subtitle: cleanText(decodeEntities(String(e.subtitlu_acf ?? ""))),
         publicHoliday: e.zi_libera_acf === true,
-      });
+      };
+      const synaxarion = synaxarionSections(String(e.sinaxar_text_acf ?? ""));
+      if (synaxarion.length > 0) day.synaxarion = synaxarion;
+      days.push(day);
     }
   }
   return days.sort((a, b) => a.month - b.month || a.day - b.day);

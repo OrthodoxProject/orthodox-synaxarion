@@ -1,6 +1,9 @@
 {
   "id": "the-commemoration-of-the-consecration-of-the-church-coptic-6",
   "kind": "event",
+  "subjects": [
+    "person:victor-coptic"
+  ],
   "date_rule": {
     "type": "fixed",
     "month": 10,

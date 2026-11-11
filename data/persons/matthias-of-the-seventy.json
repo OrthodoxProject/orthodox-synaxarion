@@ -24,13 +24,26 @@
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/08/09/102243-apostle-matthias-of-the-seventy",
       "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:copticchurch-synaxarium",
+      "url": "https://www.copticchurch.net/synaxarium/7_8.html?lang=en#1",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:st-takla-synaxarium",
+      "url": "https://st-takla.org/books/en/church/synaxarium/07-baramhat/08-paramhat-matthias.html",
+      "accessed": "2026-11-08"
     }
   ],
   "editorial": {
     "status": "draft",
     "confidence": "medium",
     "notes": [
-      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org, copticchurch.net, st-takla.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "matthias"
+  ]
 }

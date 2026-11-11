@@ -1,6 +1,9 @@
 {
   "id": "the-consecration-of-the-church-of-st-james",
   "kind": "event",
+  "subjects": [
+    "person:james-the-mangled"
+  ],
   "date_rule": {
     "type": "fixed",
     "month": 4,

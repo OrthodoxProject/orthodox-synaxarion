@@ -396,7 +396,8 @@ export class Builder {
         c = this.base(u, p.kind);
         if (p.feast) c.feast = p.feast;
         if (p.council) c.council = p.council;
-        if (p.subject) {
+        if (p.subjects && p.subjects.length > 1) c.subjectEach = [...p.subjects];
+        else if (p.subject) {
           if (p.subject.kind === "group" || (p.kind === "synaxis" && p.subject.names.length > 1)) c.subjectGroup = this.group(u, p.subject);
           else c.subjectTitles.push(p.subject);
         }
@@ -1198,7 +1199,13 @@ export class Builder {
    * The person of the Byzantine calendars a Coptic or Armenian name designates:
    * St John the Baptist, or the only apostle, prophet or evangelist of that
    * name (of a compatible kind of holiness, when `holinessMustFit`), or of
-   * that name and epithet ("St. John the Evangelist").
+   * that name and epithet ("St. John the Evangelist"). What the line calls the
+   * saint counts with the kind of holiness of its title: "The Martyrdom of the
+   * Great Saint Mark, the Apostle The Evangelist" is about an apostle who was a
+   * martyr, and "One of the Seventy Disciples" names an apostle of the Seventy.
+   * The one apostle of the name who was also a martyr comes first: "The
+   * Martyrdom of St. Simon Cleophas, the Apostle" is Hieromartyr Simeon, not
+   * another Apostle Simon.
    */
   private universalFor(part: NamePart, holiness: Set<HolinessType>, text: string, holinessMustFit: boolean): Slot | undefined {
     // Many Johns are apostles or prophets: "the Baptist" names one.
@@ -1206,12 +1213,16 @@ export class Builder {
       const john = this.universal().find((s) => s.personId === "john-the-baptist");
       if (john) return john;
     }
-    const universal = holiness.has("apostle") || holiness.has("prophet") || holiness.has("evangelist") || /\b(?:the Apostle|the Prophet|the Evangelist)\b/i.test(text);
-    if (!universal) return undefined;
-    const found = this.universal().filter((s) => {
+    const kinds = new Set([...holiness, ...namedHoliness(text)]);
+    if (!kinds.has("apostle") && !kinds.has("prophet") && !kinds.has("evangelist")) return undefined;
+    const sameName = this.universal().filter((s) => {
       const other = s.en?.part ?? s.ro?.part;
-      return other !== undefined && givenSimilarity(part, other) >= 0.9 && (!holinessMustFit || holinessCompatible(holiness, s.holiness));
+      return other !== undefined && givenSimilarity(part, other) >= 0.9;
     });
+    const fitting = (h: Set<HolinessType>): Slot[] => sameName.filter((s) => !holinessMustFit || holinessCompatible(h, s.holiness));
+    const both = fitting(holiness);
+    if (both.length === 1) return both[0];
+    const found = fitting(kinds);
     if (found.length === 1) return found[0];
     const epithets = (["apostle", "prophet", "evangelist"] as const).filter((h) => new RegExp(`\\bthe ${h}\\b`, "i").test(text));
     const named = epithets.length > 0 ? found.filter((s) => epithets.every((h) => s.holiness.has(h))) : [];
@@ -1331,6 +1342,19 @@ export function namesTheotokos(title: string): boolean {
   let text = title;
   for (const re of NOT_THEOTOKOS) text = text.replace(re, " ");
   return /\b(?:Theotokos|Mother of God|Virgin|(?:St\.?|Saint)\s+Mary)\b/u.test(text);
+}
+
+/**
+ * The kinds of holiness a Coptic or Armenian line gives a saint in words, besides those of its title: "St. Bartholomew,
+ * the Apostle", "St. Luke the Evangelist", "Zacharias the Prophet", and "St. Agabus, One of the Seventy Disciples" (the
+ * Byzantine calendars call them Apostles of the Seventy).
+ */
+export function namedHoliness(text: string): HolinessType[] {
+  const out: HolinessType[] = [];
+  if (/\bthe Apostle\b|\bOne of the Seventy\b/i.test(text)) out.push("apostle");
+  if (/\bthe Evangelist\b/i.test(text)) out.push("evangelist");
+  if (/\bthe Prophet\b/i.test(text)) out.push("prophet");
+  return out;
 }
 
 /**

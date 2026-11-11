@@ -82,6 +82,8 @@ export interface Cluster {
   icon?: IconSubject;
   /** The saint a relics, event or synaxis line is about, as parsed. */
   subjectTitles: ParsedTitle[];
+  /** The saints an event is about, each on his own, as parsed (the churches of two saints): see ParsedTitle.subjects. */
+  subjectEach?: ParsedTitle[];
   subjectSlots: Slot[];
   subjectGroup?: GroupSubject;
   feast?: string;
@@ -207,8 +209,14 @@ const EPITHETS: Array<[RegExp, string]> = [
   [/^(bucatarul|cook)$/, "cook"],
 ];
 
-/** Places that the sources call by different names: "Arhiepiscop de Corfu" (doxologia) is "Archbishop of Kerkyra" (OCA). */
-const PLACE_NAMES: Array<[RegExp, string]> = [[/^(corfu|kerk[iy]ra?|corc[iy]ra)$/, "corfu"]];
+/**
+ * Places that the sources call by different names: "Arhiepiscop de Corfu" (doxologia) is "Archbishop of Kerkyra" (OCA);
+ * the Coptic Synaxarium writes the city of Prince Theodore "Shotep" (20 Abib) and "Shotb" (5 Hatour).
+ */
+const PLACE_NAMES: Array<[RegExp, string]> = [
+  [/^(corfu|kerk[iy]ra?|corc[iy]ra)$/, "corfu"],
+  [/^(shotep|shotbe?)$/, "shotep"],
+];
 
 /** One name of a place that has several (see PLACE_NAMES), as a folded word. */
 function placeName(word: string): string {
@@ -218,9 +226,14 @@ function placeName(word: string): string {
 
 /**
  * Titles that stand for an epithet and a place: the Coptic Synaxarium calls the Great Martyr George "Prince of the
- * Martyrs", and also "St. George of Cappadocia" (7 Hatour, the consecration of his church in Lydda).
+ * Martyrs", and also "St. George of Cappadocia" (7 Hatour, the consecration of his church in Lydda); it calls St. James
+ * the Mangled (Intercisus) "the Persian" (16 Kiahk) and Prince Theodore of Shotep "El-Shotbe" (20 Hatour).
  */
-const TITLE_EPITHETS: Array<[RegExp, string]> = [[/\bprince of (?:the )?martyrs\b/giu, "great of Cappadocia"]];
+const TITLE_EPITHETS: Array<[RegExp, string]> = [
+  [/\bprince of (?:the )?martyrs\b/giu, "great of Cappadocia"],
+  [/\bthe mangled\b/giu, "the Persian, the Mangled"],
+  [/\bEl-Shotbe\b/giu, "of Shotep"],
+];
 
 /** Normalised extra words of a name, for comparison across languages. */
 export function extraKeys(part: NamePart): string[] {
@@ -326,6 +339,11 @@ export function withListPlace(part: NamePart, names: NamePart[]): NamePart {
   if (!last || last === part || !names.includes(part) || placeKeys(part).length > 0) return part;
   const places = [...last.text.matchAll(PLACE)].map((m) => m[0]);
   return places.length > 0 ? { ...part, text: `${part.text} ${places.join(" ")}` } : part;
+}
+
+/** Whether a name says nothing of the saint but his places ("Theodore of Shotep", not "John, Archpriest of Scetis"). */
+export function knownByPlace(part: NamePart): boolean {
+  return placeKeys(part).length > 0 && extraKeys({ ...part, text: part.text.replace(PLACE, " ") }).length === 0;
 }
 
 /** The first name of a list, with the place that closes the list (see withListPlace). */

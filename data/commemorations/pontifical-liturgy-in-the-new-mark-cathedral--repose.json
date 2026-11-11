@@ -1,9 +1,6 @@
 {
   "id": "pontifical-liturgy-in-the-new-mark-cathedral--repose",
-  "kind": "repose",
-  "subjects": [
-    "person:pontifical-liturgy-in-the-new-mark-cathedral"
-  ],
+  "kind": "event",
   "date_rule": {
     "type": "fixed",
     "month": 10,

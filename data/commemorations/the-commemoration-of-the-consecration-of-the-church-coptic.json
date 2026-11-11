@@ -1,6 +1,9 @@
 {
   "id": "the-commemoration-of-the-consecration-of-the-church-coptic",
   "kind": "event",
+  "subjects": [
+    "person:mark-the-apostle"
+  ],
   "date_rule": {
     "type": "fixed",
     "month": 2,

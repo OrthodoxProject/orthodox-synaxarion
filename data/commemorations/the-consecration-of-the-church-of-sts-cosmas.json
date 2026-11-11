@@ -1,6 +1,9 @@
 {
   "id": "the-consecration-of-the-church-of-sts-cosmas",
   "kind": "event",
+  "subjects": [
+    "group:cosmas-damian-their-brothers-and-companions"
+  ],
   "date_rule": {
     "type": "fixed",
     "month": 10,

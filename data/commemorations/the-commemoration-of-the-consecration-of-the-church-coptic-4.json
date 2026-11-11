@@ -1,6 +1,9 @@
 {
   "id": "the-commemoration-of-the-consecration-of-the-church-coptic-4",
   "kind": "event",
+  "subjects": [
+    "person:agav-the-apostle"
+  ],
   "date_rule": {
     "type": "fixed",
     "month": 8,

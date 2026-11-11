@@ -1,6 +1,9 @@
 {
   "id": "the-commemoration-of-the-consecration-of-the-church-coptic-2",
   "kind": "event",
+  "subjects": [
+    "person:john-of-golden-gospel"
+  ],
   "date_rule": {
     "type": "fixed",
     "month": 5,

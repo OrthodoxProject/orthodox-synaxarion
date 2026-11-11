@@ -1,6 +1,9 @@
 {
   "id": "consecration-of-the-church-of-the-great-st",
   "kind": "event",
+  "subjects": [
+    "person:anthony-the-great-coptic"
+  ],
   "date_rule": {
     "type": "fixed",
     "month": 12,

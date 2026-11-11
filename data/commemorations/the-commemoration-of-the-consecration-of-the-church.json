@@ -1,6 +1,9 @@
 {
   "id": "the-commemoration-of-the-consecration-of-the-church",
   "kind": "event",
+  "subjects": [
+    "person:julius-of-aqfahs"
+  ],
   "date_rule": {
     "type": "fixed",
     "month": 2,

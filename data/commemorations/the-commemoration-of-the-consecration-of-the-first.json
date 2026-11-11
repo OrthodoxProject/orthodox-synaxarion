@@ -1,6 +1,9 @@
 {
   "id": "the-commemoration-of-the-consecration-of-the-first",
   "kind": "event",
+  "subjects": [
+    "person:nicholas-of-myra-coptic"
+  ],
   "date_rule": {
     "type": "fixed",
     "month": 8,

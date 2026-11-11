@@ -1,6 +1,9 @@
 {
   "id": "the-commemoration-of-the-consecration-of-the-church-coptic-5",
   "kind": "event",
+  "subjects": [
+    "person:demiana"
+  ],
   "date_rule": {
     "type": "fixed",
     "month": 9,

@@ -144,9 +144,14 @@ const HONORIFICS: Record<string, Honorific> = {
   abba: {},
   amma: { gender: "female" },
   mar: {},
+  // "Mari Mina": "my lord", as the Coptic Synaxarium names some great martyrs.
+  mari: {},
   anba: {},
   abba_: {},
 };
+
+/** Titles that the Coptic Synaxarium joins to a name with a hyphen ("Abu-Nofer", "Mari-Mina"): the name is what follows. */
+const NAME_TITLES = new Set(["abu", "mari"]);
 
 const NUMBER_WORDS: Record<string, number> = {
   two: 2,
@@ -279,7 +284,8 @@ function namePart(text: string, gender?: Gender): NamePart {
     .map((w) => fold(w).replace(/[^a-z-]/g, ""))
     .filter((w) => w.length > 2 && !NOT_NAME_WORDS.has(w))
     .map((w) => skeleton(w));
-  const first = given.split("-")[0] ?? given;
+  const pieces = given.split("-");
+  const first = (pieces.length > 1 && NAME_TITLES.has(fold(pieces[0] ?? "")) ? pieces[1] : pieces[0]) ?? given;
   const part: NamePart = { text: clean, given, key: skeleton(first), extra };
   const eq = equivalent(first);
   if (eq) part.eq = eq;
@@ -538,8 +544,12 @@ export function parseEn(original: string): ParsedTitle {
   }
   if (/^(?:The )?Eve of\b/i.test(title)) return { ...base, kind: "movable" };
   if (/^(?:The )?(?:(?:First|Second|Third) )?(?:Translation|Transfer|Translocation|Relocation|Deposition|Return|Transferal|Arrival)\b.*\brelics?\b|^(?:The )?(?:(?:First|Second|Third) )?(?:Translation|Transfer|Translocation|Relocation) of the (?:body|head|hand)/i.test(title)) {
-    const subj = /\b(?:relics?|body|head|hand|remains) of (?:the |our )?(.*?)(?:,? (?:from|to|into|in) (?:the )?[A-Z].*)?$/i.exec(title);
-    return { ...base, kind: "relics_translation", subject: parseEn(subj?.[1] ?? "") };
+    const subj = /\b(?:relics?|body|head|hand|remains) of (?:the |our )?(.*?)(?:,? ((?:from|to|into|in) (?:the )?[A-Z].*))?$/i.exec(title);
+    const subject = parseEn(subj?.[1] ?? "");
+    // "… the Body of St. Theodore, the Prince, to Shotb": where the relics went.
+    const to = /(?:^|\s)(?:to|into) (?:the )?(\p{Lu}.*)$/u.exec(subj?.[2] ?? "")?.[1];
+    if (to) subject.to = to;
+    return { ...base, kind: "relics_translation", subject };
   }
   if (/\bfinding of the (?:honorable |precious |venerable )?head of\b/i.test(title) && /\b(forerunner|baptist)\b/i.test(title)) {
     return { ...base, kind: "relics_finding", subject: parseEn("Prophet John the Baptist") };

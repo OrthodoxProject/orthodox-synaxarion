@@ -1,6 +1,9 @@
 {
   "id": "the-commemoration-of-the-transfer-of-the-relies",
-  "kind": "event",
+  "kind": "relics_translation",
+  "subjects": [
+    "person:james-the-mangled"
+  ],
   "date_rule": {
     "type": "fixed",
     "month": 7,

@@ -1,6 +1,9 @@
 {
   "id": "the-consecration-of-the-church-of-the-saint",
   "kind": "event",
+  "subjects": [
+    "person:shenouda"
+  ],
   "date_rule": {
     "type": "fixed",
     "month": 4,

@@ -1,6 +1,10 @@
 {
   "id": "the-consecration-of-the-churches-of-prince-theodore",
   "kind": "event",
+  "subjects": [
+    "person:theodore-of-shotep",
+    "person:theodore-el-mishreke"
+  ],
   "date_rule": {
     "type": "fixed",
     "month": 3,

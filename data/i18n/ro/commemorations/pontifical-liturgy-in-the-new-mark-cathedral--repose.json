@@ -1,16 +1,13 @@
 {
-  "id": "bartholomew",
+  "id": "pontifical-liturgy-in-the-new-mark-cathedral--repose",
   "locale": "ro",
   "names": {
-    "display": "Sf. Ap. Bartolomeu",
-    "full": "Sfântul Apostol Bartolomeu",
-    "short": "Bartolomeu",
-    "given": "Bartolomeu"
+    "display": "Prima Liturghie arhierească în noua Catedrală Sf. Marcu de la Mănăstirea Ava Ruais"
   },
   "references": [
     {
       "source": "src:copticchurch-synaxarium",
-      "url": "https://www.copticchurch.net/synaxarium/1_1.html?lang=en#2",
+      "url": "https://www.copticchurch.net/synaxarium/10_19.html?lang=en#1",
       "accessed": "2026-11-08"
     }
   ],

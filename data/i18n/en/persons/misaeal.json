@@ -1,15 +1,15 @@
 {
-  "id": "timothy-coptic-3",
+  "id": "misaeal",
   "locale": "en",
   "names": {
-    "display": "Saint Timothy",
-    "short": "Timothy",
-    "given": "Timothy"
+    "display": "Saint Misaeal (Misayil), the Anchorite",
+    "short": "Misaeal, the Anchorite",
+    "given": "Misaeal"
   },
   "references": [
     {
       "source": "src:copticchurch-synaxarium",
-      "url": "https://www.copticchurch.net/synaxarium/3_5.html?lang=en#2",
+      "url": "https://www.copticchurch.net/synaxarium/4_13.html?lang=en#3",
       "accessed": "2026-11-08"
     }
   ],

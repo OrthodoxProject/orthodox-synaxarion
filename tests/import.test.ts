@@ -336,6 +336,21 @@ describe("Coptic titles", () => {
     const john2 = parseCopticTitle("The Arrival of the Holy Relic of St. John, the Short, to the Wilderness of Scetis.");
     assert.equal(john2.kind, "relics_translation");
     assert.equal(john2.subject?.names[0]?.text, "John, the Short");
+    // Where the body went is the place of the relocation, kept apart from the name.
+    const theodore = parseCopticTitle("The Martyrdom of St. Timothy and the Relocation of the Body of St. Theodore, the Prince, to Shotb.").also?.[0]?.subject;
+    assert.equal(theodore?.names[0]?.text, "Theodore, the Prince");
+    assert.equal(theodore?.to, "Shotb");
+    // The source writes "Relies" for the relics of St. James the Mangled (30 Baramhat); the title stays as written.
+    const james = parseCopticTitle("The Commemoration of the Transfer of the Relies of St. James, known as the Mangled.");
+    assert.equal(james.kind, "relics_translation");
+    assert.equal(james.subject?.names[0]?.given, "James");
+    assert.equal(james.title, "The Commemoration of the Transfer of the Relies of St. James, known as the Mangled.");
+  });
+  it("read the commemoration of a martyrdom as a martyr's", () => {
+    for (const title of ["The Commemoration of the Martyrdom of St. Thecla.", "Commemoration of the Martyrdom of St. Eudexia (Eutychia).", "The Commemoration of the Martyrdom of Master (Moallem) Malati.", "The Commemoration of the Martyrdom of St. Archelaus and the Martyrdom of Elisha the Hegumen."]) {
+      assert.ok(parseCopticTitle(title).holiness.includes("martyr"), title);
+    }
+    assert.ok(!parseCopticTitle("The Commemoration of the Departure of St. Mary Known as Marina, the Ascetic.").holiness.includes("martyr"));
   });
   it("read events as events of their saint", () => {
     const severus = parseCopticTitle("The Coming of Saint Severus, Patriarch of Antioch, to Egypt");
@@ -349,6 +364,11 @@ describe("Coptic titles", () => {
     assert.equal(cathedral.kind, "event");
     assert.equal(cathedral.subject, undefined);
     assert.equal(parseCopticTitle("The Beginning of the Fast of the Nativity (Advent) in the Coptic Church.").subject, undefined);
+    // Nor is a liturgy in that church.
+    const liturgy = parseCopticTitle("The First Pontifical Liturgy in the New St. Mark Cathedral in the Monastery of Anba Rowais.");
+    assert.equal(liturgy.kind, "event");
+    assert.equal(liturgy.subject, undefined);
+    assert.deepEqual(liturgy.names, []);
   });
   it("read numbered groups", () => {
     const elders = parseCopticTitle("The Martyrdom of the Forty-Nine Saints, the Elders of Sheheat (Scetis).");
@@ -389,6 +409,37 @@ describe("Coptic titles", () => {
     assert.equal(martyrs.also?.length, 1);
     assert.equal(martyrs.also?.[0]?.title, "Saints Thomas, Victor, and Isaac of the City of Ashmunen");
     assert.deepEqual(martyrs.also?.[0]?.names.map((n) => n.given), ["Thomas", "Victor", "Isaac"]);
+  });
+  it("read the building or the consecration of a church as an event of the saint it is named after, without the church's place", () => {
+    const subject = (title: string): string[] | undefined => parseCopticTitle(title).subject?.names.map((n) => n.text);
+    assert.deepEqual(subject("The Commemoration of the Consecration of the Church of St. Peter, the Seal of Martyrs."), ["Peter, the Seal of Martyrs"]);
+    assert.deepEqual(subject("The Commemoration of the Consecration of the Church of St. Mark the Evangelist and the Appearance of His Holy Head."), ["Mark the Evangelist"]);
+    assert.deepEqual(subject("The Consecration of the Church of the Saint Abba Shenouda."), ["Shenouda"]);
+    assert.deepEqual(subject("Consecration of the Church of the Great St. Anthony"), ["Anthony the Great"]);
+    assert.deepEqual(subject("The Construction of the first church of St. George in the cities of Birma and Beer Maa (Water Well) in the Oases."), ["George"]);
+    assert.deepEqual(subject("The Commemoration of the Consecration of the church of St. Boctor (Victor) in the region of Sho."), ["Boctor"]);
+    assert.deepEqual(subject("The Commemoration of the Consecration of the first altar for St. Nicholas, Bishop of Mora for the Jacobite Christians."), ["Nicholas, Bishop of Mora"]);
+    // "Mari" is a title, as the hyphen of "Abu-Nofer" and "Mari-Mina": the name is Mina, Nofer.
+    assert.deepEqual(subject("The Consecration of the Church of Mari Mina at Maryut."), ["Mina"]);
+    assert.equal(parseEn("Saint Mari-Mina, the Wonder Worker").names[0]?.key, parseEn("Saint Mina (Menas), the Monk").names[0]?.key);
+    assert.equal(parseEn("Saint Abu-Nofer (Onuphrius)").names[0]?.key, parseEn("Saint Abba Nofer the Anchorite").names[0]?.key);
+    for (const title of ["The Consecration of the First Church Dedicated for the Forty Martyrs of Sebaste.", "The Commemoration of the Consecration of the Altar of the Forty Martyrs in Alexandria."]) {
+      assert.equal(parseCopticTitle(title).subject?.kind, "group", title);
+      assert.equal(parseCopticTitle(title).subject?.count, 40, title);
+    }
+    // The churches of two saints, each with his own title: two saints, not a group.
+    const theodores = parseCopticTitle("The Consecration of the Churches of Prince Theodore, the Son of John El-Shotbe, and Prince Theodore El-Mishreke.");
+    assert.deepEqual(theodores.subjects?.map((s) => s.names.map((n) => n.text)), [["Theodore, the Son of John El-Shotbe"], ["Theodore El-Mishreke"]]);
+    // Another commemoration of the line has its own title.
+    const john = parseCopticTitle("The Commemoration of the Consecration of the Church of St. John, the Owner of the Golden Gospel, and the Transfer of His Relics to It. Also, the Commemoration of the Martyrdom of Anba Behna (Bahnou) and Anba Kloag (Bagoug), the Priest.");
+    assert.deepEqual(john.subject?.names.map((n) => n.text), ["John, the Owner of the Golden Gospel"]);
+    assert.equal(john.title, "The Commemoration of the Consecration of the Church of St. John, the Owner of the Golden Gospel, and the Transfer of His Relics to It");
+    assert.deepEqual(john.also?.[0]?.names.map((n) => n.given), ["Behna", "Kloag"]);
+    // The churches of the Virgin, of the Cross, of an archangel name no saint.
+    for (const title of ["The Feast of the Consecration of the Church of the Honorable Cross.", "The Consecration of the church of the Virgin in the Mouharaque Monastery in Quosquam Mount.", "The Consecration of the Church of Archangel Gabriel."]) {
+      assert.equal(parseCopticTitle(title).kind, "event", title);
+      assert.equal(parseCopticTitle(title).subject, undefined, title);
+    }
   });
 });
 
@@ -1265,6 +1316,116 @@ describe("matching the sources", () => {
     assert.equal([...output.files.keys()].filter((k) => k.startsWith("persons/")).length, 2);
   });
 
+  /**
+   * Coptic lines ("month_day#n" → title) imported on the minimal fixture. `of(anchor)` gives, for each commemoration of
+   * the line, its subjects by the anchor of their own line (the line's own anchor for a saint known by no other line).
+   */
+  const copticLines = (lines: Record<string, string>): { files: Map<string, any>; of: (anchor: string) => string[][] } => {
+    const coptic = Object.entries(lines).map(([anchor, title]) => {
+      const [month, day, n] = anchor.split(/[_#]/).map(Number);
+      return { month: month ?? 0, day: day ?? 0, n: n ?? 0, title };
+    });
+    const data: SourceData = { accessed: "2026-11-08", patriarhia: [], doxologia: [], oca: [], coptic, armenian: [], overlays: [] };
+    const existing = loadExisting(join(REPO_ROOT, "tests", "fixtures", "minimal", "data"));
+    const builder = new Builder(existing);
+    builder.coptic(copticUnits(data));
+    const files = new RecordWriter(existing, { clusters: builder.clusters, lines: builder.lines, movable: builder.movable, stats: builder.stats }).write().files;
+    const own = (ref: string): string => {
+      const [kind, id] = ref.split(":");
+      return files.get(`${kind === "group" ? "groups" : "persons"}/${id}.json`)?.external_ids?.copticchurch ?? ref;
+    };
+    const of = (anchor: string): string[][] => [...files.entries()].filter(([k, v]) => k.startsWith("commemorations/") && v.external_ids?.copticchurch === anchor).map(([, v]) => (v.subjects ?? []).map(own));
+    return { files, of };
+  };
+
+  it("gives a Coptic church named by a name alone to the saint the Synaxarium means by it (George the Great Martyr, Shenouda the Archimandrite, Mari Mina, Boctor of Shaou), or else to the saint who bears the name as written (Demiana, Mercurius)", () => {
+    const { of } = copticLines({
+      "8_23#1": "The Martyrdom of St. George Prince of the Martyrs.",
+      "3_7#1": "The Martyrdom of St. George of Alexandria.",
+      "10_19#3": "The Martyrdom of St. George (Girgis) known as El-Mezahem.",
+      "10_3#1": "The Construction of the first church of St. George in the cities of Birma and Beer Maa (Water Well) in the Oases.",
+      "11_7#1": "The Departure of St. Shenouda (Shenoute), the Archimandrite.",
+      "7_14#2": "The Martyrdom of St. Shenouda (Sinouti) El Bahnasawy.",
+      "4_1#2": "The Consecration of the Church of the Saint Abba Shenouda.",
+      "3_15#1": "The Martyrdom of Saint Mari-Mina, the Wonder Worker",
+      "6_17#1": "The Martyrdom of St. Mina (Menas), the Monk.",
+      "3_7#3": "The Departure of St. Mina, Bishop of Tamai (Thmoui).",
+      "10_15#2": "The Consecration of the Church of Mari Mina at Maryut.",
+      "4_5#2": "The Martyrdom of St. Victor (Boctor).",
+      "8_27#1": "Martyrdom of St. Boctor Ebn Romanus",
+      "10_5#3": "The Commemoration of the Consecration of the church of St. Boctor (Victor) in the region of Sho.",
+      "5_13#3": "The Martyrdom of St. Demiana.",
+      "10_18#2": "The Departure of St. Damianos, 35th Pope of Alexandria.",
+      "12_23#2": "The Martyrdom of St. Damian in Antioch.",
+      "9_12#1": "The Commemoration of the Consecration of the church of St. Demiana.",
+      "3_25#1": "The Martyrdom of St. Mercurius Known as the Saint with the Two Swords",
+      "7_1#3": "Commemoration of Anba Marcura.",
+      "11_25#8": "The Consecration of the Church of St. Mercurius.",
+    });
+    assert.deepEqual(of("10_3#1"), [["8_23#1"]]);
+    assert.deepEqual(of("4_1#2"), [["11_7#1"]]);
+    assert.deepEqual(of("10_15#2"), [["3_15#1"]]);
+    assert.deepEqual(of("10_5#3"), [["4_5#2"]]);
+    assert.deepEqual(of("9_12#1"), [["5_13#3"]]);
+    assert.deepEqual(of("11_25#8"), [["3_25#1"]]);
+  });
+
+  it("finds the saint of a Coptic church named with another epithet, spelling or title, and the saints of the churches of two saints (James the Persian, the two Theodores, Sarabamoun of Nikios, Abu-Nofer, Sergius and Bacchus)", () => {
+    const { of } = copticLines({
+      "3_27#1": "The Martyrdom of St. James the Mangled (Sawn).",
+      "4_16#3": "The Consecration of the Church of St. James, the Persian.",
+      "11_20#1": "The Martyrdom of St. Theodore of Shotep.",
+      "5_12#2": "The Martyrdom of St. Theodore El-Mishreke (the Oriental).",
+      "6_28#1": "The Martyrdom of St. Theodore, the Roman.",
+      "3_20#2": "The Consecration of the Churches of Prince Theodore, the Son of John El-Shotbe, and Prince Theodore El-Mishreke.",
+      "3_28#1": "The Martyrdom of St. Sarapamon, Bishop of Niku.",
+      "7_5#1": "The Departure of Anba Serapamon, Archpriest of Abba Yehnis (John) monastery.",
+      "10_28#2": "The Commemoration of the Consecration of the Church of Anba Sarabamoun, Bishop of Nikios.",
+      "10_16#1": "The Departure of St. Abba Nofer the Anchorite.",
+      "3_16#2": "The Consecration of the Church of St. Abu-Nofer (Onuphrius).",
+      "2_4#1": "The Martyrdom of St. Bacchus, the Friend of St. Sergius",
+      "2_10#1": "The Martyrdom of St. Sergius, the Friend of St. Bacchus",
+      "3_19#1": "The Consecration of the Church of St. Sergius and St. Bacchus.",
+    });
+    assert.deepEqual(of("4_16#3"), [["3_27#1"]]);
+    assert.deepEqual(of("3_20#2"), [["11_20#1", "5_12#2"]]);
+    assert.deepEqual(of("10_28#2"), [["3_28#1"]]);
+    assert.deepEqual(of("3_16#2"), [["10_16#1"]]);
+    assert.deepEqual(of("3_19#1"), [["2_10#1", "2_4#1"]]);
+  });
+
+  it("gives the Coptic churches of the Forty Martyrs and of Cosmas and Damian to their groups, not to new groups or to Pope Cosmas, and the line's other commemoration its own group (20 Tobi: Behna and Kloag)", () => {
+    const { files, of } = copticLines({
+      "7_13#3": "The Martyrdom of the Forty Martyrs of Sebastia.",
+      "6_15#2": "The Consecration of the First Church Dedicated for the Forty Martyrs of Sebaste.",
+      "10_9#2": "The Commemoration of the Consecration of the Altar of the Forty Martyrs in Alexandria.",
+      "3_22#1": "The Martyrdom of Saints Cosmas, Damian, Their Brothers and Their Mother",
+      "3_30#3": "The Consecration of the Church of Saints Cosmas, Damian, Their Brothers and Their Mother.",
+      "10_22#1": "The Consecration of the Church of Sts. Cosmas, Damian, Their Mother, and Brothers.",
+      "10_3#4": "The Departure of Pope Cosmas, the 44th Patriarch.",
+      "11_16#1": "The Departure of St. John, of the Golden Gospel.",
+      "5_20#2": "The Commemoration of the Consecration of the Church of St. John, the Owner of the Golden Gospel, and the Transfer of His Relics to It. Also, the Commemoration of the Martyrdom of Anba Behna (Bahnou) and Anba Kloag (Bagoug), the Priest.",
+    });
+    for (const anchor of ["6_15#2", "10_9#2"]) assert.deepEqual(of(anchor), [["7_13#3"]], anchor);
+    for (const anchor of ["3_30#3", "10_22#1"]) assert.deepEqual(of(anchor), [["3_22#1"]], anchor);
+    // The Forty Martyrs, Cosmas and Damian, Behna and Kloag.
+    assert.equal([...files.keys()].filter((k) => k.startsWith("groups/")).length, 3);
+    assert.deepEqual(of("5_20#2"), [["11_16#1"], ["5_20#2"]]);
+    const church = [...files.entries()].find(([k, v]) => k.startsWith("commemorations/") && v.external_ids?.copticchurch === "5_20#2" && v.kind === "event")?.[1];
+    assert.equal(files.get(`i18n/en/commemorations/${church?.id}.json`)?.names.display, "The Commemoration of the Consecration of the Church of St. John, the Owner of the Golden Gospel, and the Transfer of His Relics to It");
+  });
+
+  it("writes the saint of a Coptic church that no other line names with the source of that line, not with another source (13 Kiahk: St. Misaeal)", () => {
+    const { files, of } = copticLines({ "4_13#3": "The Consecration of the Church of St. Misaeal (Misayil), the Anchorite." });
+    const [[ref]] = of("4_13#3") as [[string]];
+    const id = ref.replace(/^person:/, "");
+    assert.equal(files.get(`i18n/en/persons/${id}.json`)?.names.display, "Saint Misaeal (Misayil), the Anchorite");
+    assert.deepEqual(
+      files.get(`persons/${id}.json`)?.sources.map((s: { source: string; url?: string }) => `${s.source} ${s.url ?? ""}`),
+      ["src:copticchurch-synaxarium https://www.copticchurch.net/synaxarium/4_13.html?lang=en#3"],
+    );
+  });
+
   it("writes a man whose name ends like a woman's as a man (Apostle Aquila, Sf. Ap. Achila)", () => {
     const aquila: SourceData = {
       accessed: "2026-11-08",
@@ -1441,6 +1602,90 @@ describe("Coptic and Armenian lines on universal saints", () => {
       assert.deepEqual(output.files.get("commemorations/severus-of-antioch--translation-of-relics.json")?.subjects, ["person:severus-of-antioch"]);
       assert.deepEqual(output.files.get("commemorations/joshua-son-of-nun--coptic.json")?.subjects, ["person:joshua-son-of-nun"]);
       assert.deepEqual([...output.files.keys()].filter((k) => k.startsWith("persons/")), []);
+    } finally {
+      rmSync(dir, { recursive: true, force: true });
+    }
+  });
+
+  /** A Coptic saint already known, with his own day. */
+  const copticSaint = (id: string, holiness: string[], en: string, month: number, day: number): Record<string, unknown> => {
+    const mm = String(month).padStart(2, "0");
+    const dd = String(day).padStart(2, "0");
+    return {
+      ...person(id, holiness, en),
+      [`commemorations/${id}--repose.json`]: { id: `${id}--repose`, kind: "repose", subjects: [`person:${id}`], date_rule: { type: "fixed", month, day, calendar: "coptic" } },
+      [`traditions/coptic/menaion/${mm}/${dd}.json`]: { tradition: "coptic", date: `${mm}-${dd}`, entries: [{ commemorations: [`comm:${id}--repose`] }] },
+    };
+  };
+  const copticLine = (anchor: string): string => `https://www.copticchurch.net/synaxarium/${anchor.replace("#", ".html?lang=en#")}`;
+  const importCoptic = (dir: string, coptic: SourceData["coptic"]): Map<string, any> => {
+    const data: SourceData = { accessed: "2026-11-10", patriarhia: [], doxologia: [], oca: [], coptic, armenian: [], overlays: [] };
+    const existing = loadExisting(dir);
+    const builder = new Builder(existing);
+    builder.coptic(copticUnits(data));
+    return new RecordWriter(existing, { clusters: builder.clusters, lines: builder.lines, movable: builder.movable, stats: builder.stats }).write().files;
+  };
+  const commOf = (files: Map<string, any>, url: string): Record<string, any> | undefined =>
+    [...files].find(([path, rec]) => path.startsWith("commemorations/") && rec.sources.some((s: { url?: string }) => s.url === url))?.[1];
+
+  it("point the martyrdom of an apostle, the apostles of the Seventy and the relics of St. Mark to the universal saints", () => {
+    const dir = fixtureWith({
+      // Three apostles are named Mark: the Evangelist and two of the Seventy.
+      ...person("mark-the-apostle", ["apostle", "evangelist"], "Apostle and Evangelist Mark", "Sf. Ap. și Evanghelist Marcu"),
+      ...person("mark-of-the-seventy", ["apostle"], "Apostle Mark of the Seventy"),
+      ...person("marcu-the-apostle", ["apostle"], "Apostle Mark", "Sf. Ap. Marcu"),
+      ...person("agav-the-apostle", ["apostle"], "Apostle Agabus", "Sf. Ap. Agav"),
+      ...person("bartholomew-of-the-twelve", ["apostle"], "Apostle Bartholomew of the Twelve", "Sf. Ap. Bartolomeu"),
+      // Of the apostles named Simon, one was also a martyr.
+      ...person("simeon-the-apostle", ["hieromartyr", "apostle"], "Hieromartyr Simeon, Kinsman of the Lord", "Sf. Sfințit Mc. Simeon, ruda Domnului"),
+      ...person("simon-the-zealot", ["apostle"], "Apostle Simon the Zealot", "Sf. Ap. Simon Zilotul"),
+    });
+    try {
+      const files = importCoptic(dir, [
+        { month: 1, day: 1, n: 2, title: "The Martyrdom of St. Bartholomew, the Apostle." },
+        { month: 6, day: 4, n: 1, title: "The Martyrdom of St. Agabus, One of the Seventy Disciples." },
+        { month: 8, day: 22, n: 3, title: "The Departure of St. Mark 11, 49th Pope of the See of St. Mark." },
+        { month: 8, day: 30, n: 1, title: "The Martyrdom of the Great Saint Mark, the Apostle The Evangelist of the Land of Egypt." },
+        { month: 10, day: 15, n: 1, title: "The Turning Over of the Relics of the Great St. Mark the Apostle by the hand of Pope Paul the Sixth, Pope of Rome." },
+        { month: 10, day: 17, n: 1, title: "The Return of the Relics of the Great St. Mark to the New St. Mark Cathedral." },
+        { month: 11, day: 9, n: 1, title: "The Martyrdom of St. Simon Cleophas, the Apostle." },
+      ]);
+      const subjects = (anchor: string): string[] => commOf(files, copticLine(anchor))?.subjects ?? [];
+      // The martyrdom of an apostle is the apostle's; "One of the Seventy" names an apostle.
+      assert.deepEqual(subjects("1_1#2"), ["person:bartholomew-of-the-twelve"]);
+      assert.deepEqual(subjects("6_4#1"), ["person:agav-the-apostle"]);
+      assert.deepEqual(subjects("8_30#1"), ["person:mark-the-apostle"]);
+      // "The Great St. Mark" is the saint of 30 Baramouda, not a Pope Mark nor an Apostle Mark of the Seventy.
+      assert.deepEqual(subjects("10_15#1"), ["person:mark-the-apostle"]);
+      assert.deepEqual(subjects("10_17#1"), ["person:mark-the-apostle"]);
+      assert.deepEqual(subjects("11_9#1"), ["person:simeon-the-apostle"]);
+      // The Pope Mark is the only new person.
+      const persons = [...files].filter(([path]) => path.startsWith("persons/")).map(([, rec]) => rec);
+      assert.deepEqual(persons.map((p) => p.external_ids?.copticchurch), ["8_22#3"]);
+    } finally {
+      rmSync(dir, { recursive: true, force: true });
+    }
+  });
+
+  it("find the saint of a Coptic relics line by the place his body was brought to, and by relics the source misspells", () => {
+    const dir = fixtureWith({
+      ...copticSaint("theodore-of-shotep", ["martyr"], "Saint Theodore of Shotep", 11, 20),
+      ...copticSaint("theodore-el-mishreke", ["martyr"], "Saint Theodore El-Mishreke", 5, 12),
+      ...copticSaint("james-the-mangled", ["martyr"], "Saint James the Mangled (Sawn)", 3, 27),
+      // Known by more than his place: not the saint whose relic was brought to Scetis.
+      ...copticSaint("john-coptic", ["righteous"], "Saint John, Archpriest of Scetis", 4, 30),
+    });
+    try {
+      const files = importCoptic(dir, [
+        { month: 3, day: 5, n: 2, title: "The Martyrdom of St. Timothy and the Relocation of the Body of St. Theodore, the Prince, to Shotb." },
+        { month: 7, day: 30, n: 2, title: "The Commemoration of the Transfer of the Relies of St. James, known as the Mangled." },
+        { month: 12, day: 29, n: 2, title: "The Arrival of the Holy Relic of St. John, the Short, to the Wilderness of Scetis." },
+      ]);
+      const relics = [...files].filter(([path, rec]) => path.startsWith("commemorations/") && rec.kind === "relics_translation").map(([, rec]) => rec);
+      const of = (anchor: string): Record<string, any> | undefined => relics.find((r) => r.sources.some((s: { url?: string }) => s.url === copticLine(anchor)));
+      assert.deepEqual(of("3_5#2")?.subjects, ["person:theodore-of-shotep"]);
+      assert.deepEqual(of("7_30#2")?.subjects, ["person:james-the-mangled"]);
+      assert.notDeepEqual(of("12_29#2")?.subjects, ["person:john-coptic"]);
     } finally {
       rmSync(dir, { recursive: true, force: true });
     }

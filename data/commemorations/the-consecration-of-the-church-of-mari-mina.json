@@ -1,6 +1,9 @@
 {
   "id": "the-consecration-of-the-church-of-mari-mina",
   "kind": "event",
+  "subjects": [
+    "person:mari-mina"
+  ],
   "date_rule": {
     "type": "fixed",
     "month": 10,

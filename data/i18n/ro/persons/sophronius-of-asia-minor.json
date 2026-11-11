@@ -2,22 +2,19 @@
   "id": "sophronius-of-asia-minor",
   "locale": "ro",
   "names": {
-    "display": "Sf. Sofronie din Asia Mică",
-    "full": "Sfântul Sofronie din Asia Mică",
-    "short": "Sofronie din Asia Mică",
+    "display": "Sf. Cuv. Sofronie",
+    "short": "Sofronie",
     "given": "Sofronie"
   },
   "references": [
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/08/18/108980-saints-barnabas-and-sophronius-of-asia-minor",
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfintii-cuviosi-barnaba-sofronie",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "en",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

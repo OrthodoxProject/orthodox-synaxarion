@@ -1,8 +1,8 @@
 {
-  "id": "sophronius-of-asia-minor--repose",
+  "id": "sophronius-of-anne-skete--repose",
   "kind": "repose",
   "subjects": [
-    "person:sophronius-of-asia-minor"
+    "person:sophronius-of-anne-skete"
   ],
   "date_rule": {
     "type": "fixed",
@@ -10,12 +10,12 @@
     "day": 18
   },
   "external_ids": {
-    "oca": "108980"
+    "oca": "102337"
   },
   "sources": [
     {
       "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/08/18/108980-saints-barnabas-and-sophronius-of-asia-minor",
+      "url": "https://www.oca.org/saints/lives/0000/08/18/102337-venerable-sophronius-of-saint-anne-skete-mount-athos",
       "accessed": "2026-11-08"
     }
   ],

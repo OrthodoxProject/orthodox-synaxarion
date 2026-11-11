@@ -49,6 +49,17 @@ export interface Unit {
   /** For patriarhia items: cross and colour. */
   cross?: string | null;
   color?: string;
+  /**
+   * What the source writes of the line besides its title: the OCA's short life, the official calendar's synaxarion of
+   * the day in its sections. Read only to tell apart two saints of one name (see Builder.evidence), never copied.
+   */
+  texts?: UnitText[];
+}
+
+export interface UnitText {
+  /** The heading of a section of the synaxarion, which names the saint it is about; none for a text about the line's saint. */
+  heading?: string;
+  text: string;
 }
 
 export interface SourceData {
@@ -102,7 +113,7 @@ export function patriarhiaUnits(data: SourceData): Unit[] {
   const units: Unit[] = [];
   for (const day of data.patriarhia) {
     patriarhiaItems(day).forEach((item, i) => {
-      units.push({
+      const unit: Unit = {
         uid: `patriarhia:${mmdd(day.month, day.day)}#${i}`,
         source: "patriarhia",
         family: "byzantine",
@@ -117,7 +128,9 @@ export function patriarhiaUnits(data: SourceData): Unit[] {
         ext: {},
         cross: item.cross,
         color: item.color,
-      });
+      };
+      if (day.synaxarion) unit.texts = day.synaxarion;
+      units.push(unit);
     });
   }
   return units;
@@ -181,6 +194,8 @@ export function ocaUnits(data: SourceData, years: number[]): { fixed: Unit[]; mo
       ext: { oca: id },
     };
     if (leapDay) unit.leapDay = true;
+    const description = listings.find((l) => l.description)?.description;
+    if (description) unit.texts = [{ text: description }];
     fixed.push(unit);
   }
   fixed.sort((a, b) => a.month - b.month || a.day - b.day || a.order - b.order);

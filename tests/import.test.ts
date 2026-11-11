@@ -15,7 +15,8 @@ import { abbreviateRo, parseRo } from "../tools/lib/import/ro.ts";
 import { isAllowed, parseRobots } from "../tools/lib/import/robots.ts";
 import { parseMonth } from "../tools/lib/import/sources/doxologia.ts";
 import { parseDay } from "../tools/lib/import/sources/oca.ts";
-import { splitTitle, type PatriarhiaDay, type PatriarhiaItem } from "../tools/lib/import/sources/patriarhia.ts";
+import { splitTitle, synaxarionSections, type PatriarhiaDay, type PatriarhiaItem, type SynaxarionSection } from "../tools/lib/import/sources/patriarhia.ts";
+import { findSuspects } from "../tools/lib/import/suspects.ts";
 import { armenianUnits, cleanOverlayTitle, copticUnits, doxologiaUnits, julianMenaionDate, ocaUnits, overlayUnits, parseCopticTitle, patriarhiaUnits, type SourceData } from "../tools/lib/import/units.ts";
 import { REPO_ROOT } from "../tools/lib/validate.ts";
 
@@ -162,6 +163,13 @@ describe("Romanian titles", () => {
     assert.deepEqual(parseRo("Sfântul Iustin Martirul și Filosoful").names.map((n) => n.text), ["Iustin Martirul și Filosoful"]);
     // After a comma, "și" names another saint.
     assert.deepEqual(parseRo("Sf. Ier. Epifanie, arhiepiscopul Ciprului, și Gherman, patriarhul Constantinopolului").names.map((n) => n.given), ["Epifanie", "Gherman"]);
+  });
+  it("reads a first name after a place as another saint, not as a second place (4 April: Zosima; 21 June: Afrodisie)", () => {
+    assert.deepEqual(parseRo("Sf. Cuv. Iosif Imnograful, Gheorghe din Maleon și Zosima").names.map((n) => n.text), ["Iosif Imnograful", "Gheorghe din Maleon", "Zosima"]);
+    assert.deepEqual(parseRo("Sf. Mc. Iulian din Tars și Afrodisie").names.map((n) => n.text), ["Iulian din Tars", "Afrodisie"]);
+    // Places in the genitive, and a place in -i, stay places.
+    assert.deepEqual(parseRo("Sf. Cuv. Gheorghe de la Cernica și Căldărușani").names.map((n) => n.text), ["Gheorghe de la Cernica și Căldărușani"]);
+    assert.deepEqual(parseRo("Sf. Ier. Nicolae Velimirovici, episcop al Ohridei și Jicei").names.map((n) => n.text), ["Nicolae Velimirovici, episcop al Ohridei și Jicei"]);
   });
   it("reads men's names that end like women's as men's names", () => {
     // The official calendar's abbreviations ("Sf. Ap.", "Sf. Mc.") do not tell the gender: the name does.
@@ -501,6 +509,15 @@ describe("source pages", () => {
     assert.equal(listings.length, 1);
     assert.equal(listings[0]?.id, "103340");
     assert.equal(listings[0]?.title, "Venerable Gregory the Decapolite");
+  });
+  it("reads the short life of a saint of the OCA, and the sections of the official synaxarion", () => {
+    const html = '<section class="saints"><article class="saint"><h2 class="name">Venerable Zosimas of Palestine <!-- 100988--></h2><p class="description">He gave Holy Communion to Saint Mary of Egypt&hellip;</p><a href="/saints/lives/2026/04/04/100988-venerable-zosimas-of-palestine" class="button"><span>Read the Life</span></a></article></section>';
+    assert.equal(parseDay(html, 2026, 4, 4)[0]?.description, "He gave Holy Communion to Saint Mary of Egypt…");
+    assert.deepEqual(synaxarionSections("<p>Introducere</p><h2>Sf. Zosima din Palestina</h2>\r\nMonah lângă <em>Iordan</em>.<h2>Tropar</h2>Text"), [
+      { heading: "", text: "Introducere" },
+      { heading: "Sf. Zosima din Palestina", text: "Monah lângă Iordan." },
+      { heading: "Tropar", text: "Text" },
+    ]);
   });
 });
 
@@ -1141,6 +1158,131 @@ describe("matching the sources", () => {
     });
   });
 
+  /**
+   * As pairsOf, with the official line of the day and its synaxarion, and the OCA's short lives (the third item of a
+   * listing); also returns the English names of the official line's saints.
+   */
+  const officialPairsOf = (
+    doxologia: string[],
+    official: string,
+    synaxarion: SynaxarionSection[],
+    oca: Array<[string, string, string?]>,
+    month: number,
+    day: number,
+  ): { pairs: Record<string, string | undefined>; line: Array<string | undefined> } => {
+    const mm = String(month).padStart(2, "0");
+    const dd = String(day).padStart(2, "0");
+    const sources: SourceData = {
+      accessed: "2026-11-11",
+      patriarhia: [{ year: 2026, month, day, url: `https://calendar.patriarhia.ro/${mm}-${dd}/`, items: [{ text: official, cross: null, color: "black" }], title: official, subtitle: "", publicHoliday: false, synaxarion }],
+      doxologia: doxologia.map((title, order) => ({ slug: `doxologia-${order}`, title, month, day, order, color: null, cross: null, secondRow: false })),
+      oca: oca.flatMap(([id, title, description], order) => [2026, 2028].map((year) => ({ id, title, path: `/saints/lives/${year}/${mm}/${dd}/${id}`, year, month, day, order, ...(description ? { description } : {}) }))),
+      coptic: [],
+      armenian: [],
+      overlays: [],
+    };
+    const builder = new Builder(loadExisting(join(REPO_ROOT, "tests", "fixtures", "minimal", "data")));
+    builder.romanian(doxologiaUnits(sources), patriarhiaUnits(sources), [{ month, day }]);
+    builder.russian(ocaUnits(sources, [2026, 2028]).fixed);
+    const slots = new Set(builder.clusters.flatMap((c) => c.slots));
+    const line = builder.lines.get("romanian")?.get(`${mm}-${dd}`)?.[0]?.clusters.flatMap((c) => c.slots.map((s) => s.en?.display)) ?? [];
+    return { pairs: Object.fromEntries([...slots].map((s) => [s.ro?.display ?? `(${s.en?.display})`, s.en?.display])), line };
+  };
+
+  it("tells apart two saints of one name by what the official synaxarion and the OCA's short lives say of them (4 April: Zosima of Palestine, not of Vorbozomsk; 18 July: Pamvo of Egypt, not of the Kiev Caves)", () => {
+    const doxologia = ["Sfântul Cuvios Iosif, scriitorul de cântări", "Sfântul Cuvios Gheorghe de la Maleon", "Sfântul Cuvios Zosima"];
+    const synaxarion = [
+      { heading: "Sf. Cuv. Iosif Imnograful", text: "S-a născut în Sicilia și a scris multe canoane." },
+      { heading: "Sf. Gheorghe din Maleon", text: "A viețuit în Muntele Maleon, în Peloponez." },
+      { heading: "Sf. Zosima din Palestina", text: "Monah într-o mănăstire de lângă Iordan, a împărtășit-o pe Sfânta Maria Egipteanca." },
+    ];
+    const zosimas: Array<[string, string, string]> = [
+      ["100987", "Venerable Zosimas, Abbot of Vorbozomsk", "He founded a monastery on an island in Lake Vorbozoma, south of White Lake."],
+      ["100988", "Venerable Zosimas of Palestine", "He lived in a monastery by the Jordan River and gave Holy Communion to Saint Mary of Egypt."],
+    ];
+    const others: Array<[string, string, string]> = [
+      ["100984", "Venerable Joseph the Hymnographer", "He was born in Sicily and wrote many canons."],
+      ["100985", "Venerable George of Mount Maleon in the Peloponnesus", "He lived on Mount Maleon."],
+    ];
+    for (const oca of [[...others, ...zosimas], [...others, ...zosimas].reverse()]) {
+      const { pairs, line } = officialPairsOf(doxologia, "Sf. Cuv. Iosif Imnograful, Gheorghe din Maleon și Zosima", synaxarion, oca, 4, 4);
+      assert.deepEqual(pairs, {
+        "Sf. Cuv. Iosif, scriitorul de cântări": "Venerable Joseph the Hymnographer",
+        "Sf. Cuv. Gheorghe de la Maleon": "Venerable George of Mount Maleon in the Peloponnesus",
+        "Sf. Cuv. Zosima": "Venerable Zosimas of Palestine",
+        "(Venerable Zosimas, Abbot of Vorbozomsk)": "Venerable Zosimas, Abbot of Vorbozomsk",
+      });
+      // The official line holds its three saints, in its order.
+      assert.deepEqual(line, ["Venerable Joseph the Hymnographer", "Venerable George of Mount Maleon in the Peloponnesus", "Venerable Zosimas of Palestine"]);
+    }
+    const pambos: Array<[string, string, string]> = [
+      ["102050", "Venerable Pambo the Recluse of the Kiev Far Caves", "A hieromonk of the Kiev Caves, taken captive by the Tatars."],
+      ["102051", "Venerable Pambo the Hermit of Egypt", "He lived the ascetic life in the Nitrian desert in Egypt."],
+    ];
+    for (const oca of [pambos, [...pambos].reverse()]) {
+      const { pairs } = officialPairsOf(["Sfântul Cuvios Pamvo"], "Sf. Cuv. Pamvo", [{ heading: "Sfântul Cuvios Pamvo", text: "A viețuit în pustia munților Nitriei, din părțile Egiptului." }], oca, 7, 18);
+      assert.deepEqual(pairs, { "Sf. Cuv. Pamvo": "Venerable Pambo the Hermit of Egypt", "(Venerable Pambo the Recluse of the Kiev Far Caves)": "Venerable Pambo the Recluse of the Kiev Far Caves" });
+    }
+  });
+
+  it("tells apart two saints of one name by their kind of holiness, then by the companion a line names (1 April: the martyr Gherontie; 18 August: Barnabas and Sophronius of Asia Minor)", () => {
+    const gerontius: Array<[string, string, string]> = [
+      ["100966", "Venerable Gerontius the Canonarch of the Kiev Far Caves", "He was a monk of the Kiev Caves Monastery and led the church singing."],
+      ["100968", "Martyrs Gerontius and Basilides", "They were beheaded by the sword in the third century."],
+    ];
+    for (const oca of [gerontius, [...gerontius].reverse()]) {
+      const { pairs, line } = officialPairsOf(["Sfântul Mucenic Gherontie"], "Sf. Mc. Gherontie", [], oca, 4, 1);
+      assert.equal(pairs["Sf. Mc. Gherontie"], "Martyr Gerontius");
+      assert.equal(pairs["(Venerable Gerontius the Canonarch of the Kiev Far Caves)"], "Venerable Gerontius the Canonarch of the Kiev Far Caves");
+      assert.deepEqual(line, ["Martyr Gerontius"]);
+    }
+    const sophronius: Array<[string, string, string]> = [
+      ["102337", "Venerable Sophronius of Saint Anne Skete, Mount Athos", "He left home on his wedding night and became a monk on Mount Athos."],
+      ["108980", "Saints Barnabas and Sophronius of Asia Minor", "Barnabas and his nephew Sophronius were Athenians who lived on Mount Mela near Trebizond."],
+    ];
+    for (const oca of [sophronius, [...sophronius].reverse()]) {
+      const { pairs } = officialPairsOf(["Sfinții Cuvioși Barnaba și Sofronie"], "Sf. Mc. Flor și Lavru", [], oca, 8, 18);
+      assert.equal(pairs["Sf. Cuv. Barnaba"], "Saint Barnabas");
+      assert.equal(pairs["Sf. Cuv. Sofronie"], "Saint Sophronius of Asia Minor");
+      assert.equal(pairs["(Venerable Sophronius of Saint Anne Skete, Mount Athos)"], "Venerable Sophronius of Saint Anne Skete, Mount Athos");
+    }
+  });
+
+  it("finds the saint that doxologia names with other words than the official calendar (19 January: Macarie Egipteanul is Macarie cel Mare)", () => {
+    const { pairs, line } = officialPairsOf(
+      ["Sfântul Cuvios Macarie Egipteanul", "Sfântul Cuvios Macarie Alexandrinul"],
+      "Sf. Cuv. Macarie cel Mare și Macarie Alexandrinul",
+      [],
+      [
+        ["100226", "Venerable Macarius the Great of Egypt"],
+        ["100227", "Venerable Macarius of Alexandria"],
+      ],
+      1,
+      19,
+    );
+    assert.deepEqual(pairs, { "Sf. Cuv. Macarie Egipteanul": "Venerable Macarius the Great of Egypt", "Sf. Cuv. Macarie Alexandrinul": "Venerable Macarius of Alexandria" });
+    assert.deepEqual(line, ["Venerable Macarius the Great of Egypt", "Venerable Macarius of Alexandria"]);
+  });
+
+  it("finds the saint that doxologia names with other words than the official calendar (4 January: Nichifor Leprosul is Nichifor cel Lepros)", () => {
+    const { pairs, line } = officialPairsOf(
+      ["Sfântul Cuvios Nichifor Leprosul"],
+      "Sf. Cuv. Teoctist din Sicilia, Nichifor cel Lepros și Apolinaria",
+      [],
+      [["205506", "Saint Nikephoros the Leper"]],
+      1,
+      4,
+    );
+    assert.equal(pairs["Sf. Cuv. Nichifor Leprosul"], "Saint Nikephoros the Leper");
+    assert.deepEqual(
+      Object.keys(pairs).filter((k) => k.includes("Nichifor") || k.includes("Nikephoros")),
+      ["Sf. Cuv. Nichifor Leprosul"],
+    );
+    // The official line holds him with the two saints that no other line names.
+    assert.equal(line.length, 3);
+    assert.ok(line.includes("Saint Nikephoros the Leper"));
+  });
+
   it("writes one saint for a line that names him with two places (St Innocent of Komél and Vologda)", () => {
     const innocent: SourceData = {
       ...data,
@@ -1686,6 +1828,72 @@ describe("Coptic and Armenian lines on universal saints", () => {
       assert.deepEqual(of("3_5#2")?.subjects, ["person:theodore-of-shotep"]);
       assert.deepEqual(of("7_30#2")?.subjects, ["person:james-the-mangled"]);
       assert.notDeepEqual(of("12_29#2")?.subjects, ["person:john-coptic"]);
+    } finally {
+      rmSync(dir, { recursive: true, force: true });
+    }
+  });
+});
+
+describe("the suspects of an import", () => {
+  /** Writes a small data folder: persons with their names and sources, their reposes, the Romanian and Russian lines of the days. */
+  const dataWith = (
+    persons: Array<{ id: string; ro?: string; en?: string; sources: string[]; oca?: string; holiness?: string; date: string }>,
+    lines: Record<string, Record<string, string[][]>>,
+    titles: Record<string, string>,
+  ): string => {
+    const dir = mkdtempSync(join(tmpdir(), "suspects-"));
+    const put = (rel: string, value: unknown): void => {
+      mkdirSync(dirname(join(dir, rel)), { recursive: true });
+      writeFileSync(join(dir, rel), JSON.stringify(value));
+    };
+    for (const p of persons) {
+      const [month, day] = p.date.split("-").map(Number);
+      put(`persons/${p.id}.json`, { id: p.id, kind: "saint", gender: "male", holiness_types: [p.holiness ?? "venerable"], ...(p.oca ? { external_ids: { oca: p.oca } } : {}), sources: p.sources.map((source) => ({ source })) });
+      put(`commemorations/${p.id}--repose.json`, { id: `${p.id}--repose`, kind: "repose", subjects: [`person:${p.id}`], date_rule: { type: "fixed", month, day } });
+      if (p.ro) put(`i18n/ro/persons/${p.id}.json`, { id: p.id, locale: "ro", names: { display: p.ro, given: parseRo(p.ro).names[0]?.given } });
+      if (p.en) put(`i18n/en/persons/${p.id}.json`, { id: p.id, locale: "en", names: { display: p.en, given: parseEn(p.en).names[0]?.given } });
+    }
+    for (const [tradition, days] of Object.entries(lines)) {
+      for (const [date, entries] of Object.entries(days)) put(`traditions/${tradition}/menaion/${date.replace("-", "/")}.json`, { tradition, date, entries: entries.map((ids) => ({ commemorations: ids.map((id) => `comm:${id}--repose`) })) });
+    }
+    put("i18n/ro/traditions/romanian.json", { id: "romanian", locale: "ro", names: { display: "BOR" }, official_titles: titles });
+    return dir;
+  };
+
+  it("list, for the whole year at once, the 4 April kind of mistakes of the first import", () => {
+    const dox = "src:doxologia";
+    const official = "src:calendar-patriarhia";
+    const oca = "src:oca-lives";
+    const dir = dataWith(
+      [
+        { id: "joseph-the-hymnographer", ro: "Sf. Cuv. Iosif Imnograful", en: "Venerable Joseph the Hymnographer", sources: [official, oca], oca: "100984", date: "04-04" },
+        { id: "george-of-maleon", ro: "Sf. Cuv. Gheorghe de la Maleon", en: "Venerable George of Mount Maleon in the Peloponnesus", sources: [dox, official, oca], oca: "100985", date: "04-04" },
+        { id: "iosif", ro: "Sf. Cuv. Iosif, scriitorul de cântări", sources: [dox], date: "04-04" },
+        { id: "zosimas-of-vorbozomsk", ro: "Sf. Cuv. Zosima", en: "Venerable Zosimas, Abbot of Vorbozomsk", sources: [dox, oca], oca: "100987", date: "04-04" },
+        { id: "zosimas-of-palestine", en: "Venerable Zosimas of Palestine", sources: [oca], oca: "100988", date: "04-04" },
+        { id: "maria-egipteanca", ro: "Sf. Cuv. Maria Egipteanca", sources: [dox, official], date: "04-01" },
+        { id: "mary-of-egypt", en: "Venerable Mary of Egypt", sources: [oca], oca: "100969", date: "04-01" },
+      ],
+      {
+        romanian: {
+          "04-01": [["maria-egipteanca"]],
+          "04-04": [["george-of-maleon", "joseph-the-hymnographer"], ["iosif"], ["zosimas-of-vorbozomsk"]],
+        },
+        russian: {
+          "04-01": [["mary-of-egypt"]],
+          "04-04": [["joseph-the-hymnographer"], ["george-of-maleon"], ["zosimas-of-vorbozomsk"], ["zosimas-of-palestine"]],
+        },
+      },
+      { "comm:george-of-maleon--repose": "Sf. Cuv. Iosif Imnograful, Gheorghe din Maleon și Zosima", "comm:maria-egipteanca--repose": "Sf. Cuv. Maria Egipteanca" },
+    );
+    try {
+      const found = findSuspects(loadExisting(dir)).map((s) => [s.check, s.date, ...s.ids]);
+      assert.deepEqual(found, [
+        ["official-missing", "04-04", "george-of-maleon--repose", "zosimas-of-vorbozomsk"],
+        ["tie", "04-04", "zosimas-of-vorbozomsk", "zosimas-of-palestine"],
+        ["same-day", "04-04", "iosif", "joseph-the-hymnographer"],
+        ["romanian-only", "04-01", "maria-egipteanca", "mary-of-egypt"],
+      ]);
     } finally {
       rmSync(dir, { recursive: true, force: true });
     }

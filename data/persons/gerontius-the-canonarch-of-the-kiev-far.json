@@ -3,23 +3,12 @@
   "kind": "saint",
   "gender": "male",
   "holiness_types": [
-    "martyr"
+    "venerable"
   ],
   "external_ids": {
-    "doxologia": "sfantul-mucenic-gherontie",
     "oca": "100966"
   },
   "sources": [
-    {
-      "source": "src:doxologia",
-      "url": "https://doxologia.ro/sfantul-mucenic-gherontie",
-      "accessed": "2026-11-08"
-    },
-    {
-      "source": "src:calendar-patriarhia",
-      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-maria-egipteanca-sf-cuv-macarie-marturisitorul-sf-mc-gherontie-sf-cuv-varsanufie-de-la-optina/",
-      "accessed": "2026-11-08"
-    },
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/04/01/100966-venerable-gerontius-the-canonarch-of-the-kiev-far-caves",
@@ -28,9 +17,10 @@
   ],
   "editorial": {
     "status": "draft",
-    "confidence": "medium",
+    "confidence": "low",
     "notes": [
-      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
+      "Importat automat din oca.org; de verificat.",
+      "Genul nu reiese din sursă; e de verificat."
     ]
   }
 }

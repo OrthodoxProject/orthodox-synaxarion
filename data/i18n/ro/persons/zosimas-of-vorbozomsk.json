@@ -2,20 +2,22 @@
   "id": "zosimas-of-vorbozomsk",
   "locale": "ro",
   "names": {
-    "display": "Sf. Cuv. Zosima",
-    "full": "Sfântul Cuvios Zosima",
-    "short": "Zosima",
+    "display": "Sf. Cuv. Zosima, egumenul de la Vorbozomsk",
+    "full": "Sfântul Cuvios Zosima, egumenul de la Vorbozomsk",
+    "short": "Zosima, egumenul de la Vorbozomsk",
     "given": "Zosima"
   },
   "references": [
     {
-      "source": "src:doxologia",
-      "url": "https://doxologia.ro/sfantul-cuvios-zosima",
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/04/100987-venerable-zosimas-abbot-of-vorbozomsk",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "draft",
-    "method": "original"
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-11"
   }
 }

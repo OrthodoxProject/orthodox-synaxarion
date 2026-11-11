@@ -4,8 +4,9 @@
  * id. The OCA follows the new calendar, so the civil day is the Menaion date.
  * Two years are read: a commemoration on the same month and day in both is
  * fixed; the others belong to the movable cycle (their place in each year is
- * kept, relative to Pascha). Only the index is used (title, id, URL), never the
- * text of the lives.
+ * kept, relative to Pascha). Only the index is used (title, id, URL); the short
+ * life that the day's page prints under a title is read only to tell apart two
+ * saints of one name (see Builder.evidence), and is never copied.
  */
 import { cleanText, decodeEntities } from "../html.ts";
 import type { PoliteFetcher } from "../fetch.ts";
@@ -22,6 +23,8 @@ export interface OcaListing {
   day: number;
   /** Position on the day's page (0-based). */
   order: number;
+  /** The short life printed under the title on the day's page, as text. */
+  description?: string;
 }
 
 export function dayUrl(year: number, month: number, day: number): string {
@@ -39,20 +42,23 @@ export function* daysOf(year: number): Generator<{ month: number; day: number }>
 export function parseDay(html: string, year: number, month: number, day: number): OcaListing[] {
   const out: OcaListing[] = [];
   const section = html.slice(html.indexOf('<section class="saints">'), html.indexOf("</section>", html.indexOf('<section class="saints">')));
-  const re = /<h2 class="name">([\s\S]*?)<!--\s*(\d+)\s*-->\s*<\/h2>[\s\S]*?href="(\/saints\/lives\/\d+\/\d+\/\d+\/(\d+)-[^"]*)"/g;
+  const re = /<h2 class="name">([\s\S]*?)<!--\s*(\d+)\s*-->\s*<\/h2>([\s\S]*?)href="(\/saints\/lives\/\d+\/\d+\/\d+\/(\d+)-[^"]*)"/g;
   let m: RegExpExecArray | null;
   while ((m = re.exec(section))) {
     const id = m[2] ?? "";
-    if (m[4] !== id) continue;
-    out.push({
+    if (m[5] !== id) continue;
+    const listing: OcaListing = {
       id,
       title: cleanText(decodeEntities((m[1] ?? "").replace(/<[^>]+>/g, ""))),
-      path: m[3] ?? "",
+      path: m[4] ?? "",
       year,
       month,
       day,
       order: out.length,
-    });
+    };
+    const description = /<p class="description">([\s\S]*?)<\/p>/.exec(m[3] ?? "")?.[1];
+    if (description) listing.description = cleanText(decodeEntities(description.replace(/<[^>]+>/g, " ")));
+    out.push(listing);
   }
   return out;
 }

@@ -316,6 +316,16 @@ const MALE_ENDING_A = new Set([
   "stefana", "suhia", "teona", "uarsenufa", "urosita", "varula", "vavila", "zevina", "zina",
 ]);
 
+/**
+ * A word known as a first name, not as a place: a man's name that ends like a woman's ("Zosima", "Sava"), a man's name
+ * in -ie ("Afrodisie", where the places of the titles are in the genitive: "Siberiei", "Irakliei") or a name of the
+ * table of equivalents ("Iosif").
+ */
+function isGivenName(word: string): boolean {
+  const f = fold(word);
+  return MALE_ENDING_A.has(f) || /ie$/.test(f) || equivalent(word) !== undefined;
+}
+
 /** Gender of a Romanian first name, when the ending tells it. */
 export function genderOfRoName(given: string): Gender | undefined {
   const g = fold(given);
@@ -407,8 +417,9 @@ export function splitNames(rest: string, gender?: Gender, plural = false, singul
       continue;
     }
     // "luminător al Siberiei și Americii", "de la Cernica și Căldărușani", "Mitropolitul Moscovei și Kolomnei": a second place, not a second saint.
+    // A first name is a saint, though: "Iosif Imnograful, Gheorghe din Maleon și Zosima" (4 April) names Zosima.
     const previous = names[names.length - 1] ?? "";
-    if (conj && /^\p{Lu}[\p{L}-]*$/u.test(bare) && (/(?:^|\s)(?:al|a|ai|ale|din|de la|de|lui)\s+\p{Lu}[\p{L}-]*$/u.test(previous) || (!afterComma && SEE.test(previous)))) {
+    if (conj && /^\p{Lu}[\p{L}-]*$/u.test(bare) && !isGivenName(bare) && (/(?:^|\s)(?:al|a|ai|ale|din|de la|de|lui)\s+\p{Lu}[\p{L}-]*$/u.test(previous) || (!afterComma && SEE.test(previous)))) {
       names[names.length - 1] += ` și ${bare}`;
       continue;
     }

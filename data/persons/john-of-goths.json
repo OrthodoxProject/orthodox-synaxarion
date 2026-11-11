@@ -6,9 +6,20 @@
     "hierarch"
   ],
   "external_ids": {
+    "doxologia": "sfantul-ierarh-ioan-episcopul-gotiei",
     "oca": "101443"
   },
   "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-ioan-episcopul-gotiei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-david-din-tesalonic-sf-ier-ioan-episcopul-gotiei/",
+      "accessed": "2026-11-08"
+    },
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/05/19/101443-saint-john-bishop-of-the-goths-in-the-crimea",
@@ -22,10 +33,12 @@
   ],
   "editorial": {
     "status": "draft",
-    "confidence": "low",
+    "confidence": "medium",
     "notes": [
-      "Importat automat din oca.org; de verificat.",
-      "Genul nu reiese din sursă; e de verificat."
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "ioan-of-gotia"
+  ]
 }

@@ -6,9 +6,20 @@
     "righteous"
   ],
   "external_ids": {
+    "doxologia": "sfantul-dreptul-iov-mult-rabdatorul",
     "oca": "101301"
   },
   "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-dreptul-iov-mult-rabdatorul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/injumatatirea-cincizecimii-sf-si-dreptul-iov-mult-rabdatorul-sf-mc-varvar-dezlegare-la-peste/",
+      "accessed": "2026-11-08"
+    },
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/05/06/101301-righteous-job-the-long-suffering",
@@ -17,10 +28,12 @@
   ],
   "editorial": {
     "status": "draft",
-    "confidence": "low",
+    "confidence": "medium",
     "notes": [
-      "Importat automat din oca.org; de verificat.",
-      "Genul nu reiese din sursă; e de verificat."
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "iov"
+  ]
 }

@@ -2,22 +2,28 @@
   "id": "luke-of-simferopol",
   "locale": "ro",
   "names": {
-    "display": "Sf. Ier. Luca, Arhiepiscopul Simferopolului",
-    "full": "Sfântul Ierarh Luca, Arhiepiscopul Simferopolului",
-    "short": "Luca, Arhiepiscopul Simferopolului",
-    "given": "Luca"
+    "display": "Sf. Ier. Luca, Arhiepiscopul Crimeei",
+    "full": "Sfântul Ierarh Luca, Arhiepiscopul Crimeei",
+    "short": "Luca, Arhiepiscopul Crimeei",
+    "given": "Luca",
+    "variants": [
+      "Sf. Ier. Luca, arhiepiscopul Crimeei"
+    ]
   },
   "references": [
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/06/11/100476-saint-luke-archbishop-of-simferopol",
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-luca-arhiepiscopul-crimeei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ap-bartolomeu-si-barnaba-sf-ier-luca-arhiepiscopul-crimeei-cinstirea-sfintei-icoane-a-maicii-domnului-axion-estin-dezlegare-la-peste/",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "en",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

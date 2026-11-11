@@ -3,12 +3,19 @@
   "kind": "saint",
   "gender": "male",
   "holiness_types": [
+    "hierarch",
     "venerable"
   ],
   "external_ids": {
+    "doxologia": "sfantul-ierarh-dionisie-din-zakynthos",
     "oca": "103564"
   },
   "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-dionisie-din-zakynthos",
+      "accessed": "2026-11-08"
+    },
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/12/17/103564-venerable-dionysius-of-aegina",
@@ -17,10 +24,12 @@
   ],
   "editorial": {
     "status": "draft",
-    "confidence": "low",
+    "confidence": "medium",
     "notes": [
-      "Importat automat din oca.org; de verificat.",
-      "Genul nu reiese din sursă; e de verificat."
+      "Importat automat din doxologia.ro, oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "dionisie-of-zakynthos"
+  ]
 }

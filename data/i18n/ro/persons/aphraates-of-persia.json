@@ -2,22 +2,20 @@
   "id": "aphraates-of-persia",
   "locale": "ro",
   "names": {
-    "display": "Sf. Afraat din Persia",
-    "full": "Sfântul Afraat din Persia",
-    "short": "Afraat din Persia",
+    "display": "Sf. Afraat Persanul",
+    "full": "Sfântul Afraat Persanul",
+    "short": "Afraat Persanul",
     "given": "Afraat"
   },
   "references": [
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/01/29/109041-saint-aphraates-of-persia",
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-afraat-persanul",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "en",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

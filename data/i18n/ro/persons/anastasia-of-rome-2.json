@@ -2,22 +2,28 @@
   "id": "anastasia-of-rome-2",
   "locale": "ro",
   "names": {
-    "display": "Sf. Cuv. Mc. Anastasia Romana",
-    "full": "Sfânta Cuvioasă Muceniță Anastasia Romana",
+    "display": "Sf. Mare Mc. Anastasia Romana",
+    "full": "Sfânta Mare Muceniță Anastasia Romana",
     "short": "Anastasia Romana",
-    "given": "Anastasia"
+    "given": "Anastasia",
+    "variants": [
+      "Sf. Cuv. Mc. Anastasia Romana"
+    ]
   },
   "references": [
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/10/29/103099-monastic-martyr-anastasia-of-rome",
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mare-mucenita-anastasia-romana",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-mc-anastasia-romana-sf-cuv-avramie-si-maria-nepoata-sa/",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "en",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

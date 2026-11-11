@@ -2,22 +2,20 @@
   "id": "ita",
   "locale": "ro",
   "names": {
-    "display": "Sf. Cuv. Ita, pustnica din Killeedy",
-    "full": "Sfânta Cuvioasă Ita, pustnica din Killeedy",
-    "short": "Ita, pustnica din Killeedy",
+    "display": "Sf. Cuv. Ita din Irlanda",
+    "full": "Sfânta Cuvioasă Ita din Irlanda",
+    "short": "Ita din Irlanda",
     "given": "Ita"
   },
   "references": [
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/01/15/100201-saint-ita-hermitess-of-killeedy",
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-ita-din-irlanda",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "en",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

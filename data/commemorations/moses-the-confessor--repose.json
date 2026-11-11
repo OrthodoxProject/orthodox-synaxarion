@@ -14,6 +14,16 @@
   },
   "sources": [
     {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-preot-marturisitor-moise-macinic-din-sibiel",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-marturisitori-visarion-si-sofronie-sf-mc-oprea-sf-preoti-marturisitori-ioan-din-gales-si-moise-macinic-din-sibiel-sf-cuv-ilarion-cel-mare/",
+      "accessed": "2026-11-08"
+    },
+    {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/10/21/149003-martyr-moses-macinic-the-confessor",
       "accessed": "2026-11-08"
@@ -21,9 +31,12 @@
   ],
   "editorial": {
     "status": "draft",
-    "confidence": "low",
+    "confidence": "medium",
     "notes": [
-      "Importat automat din oca.org; de verificat."
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "moise-macinic-of-sibiel--repose"
+  ]
 }

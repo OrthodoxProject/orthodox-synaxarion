@@ -14,6 +14,16 @@
   },
   "sources": [
     {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-luca-arhiepiscopul-crimeei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ap-bartolomeu-si-barnaba-sf-ier-luca-arhiepiscopul-crimeei-cinstirea-sfintei-icoane-a-maicii-domnului-axion-estin-dezlegare-la-peste/",
+      "accessed": "2026-11-08"
+    },
+    {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/06/11/100476-saint-luke-archbishop-of-simferopol",
       "accessed": "2026-11-08"
@@ -21,9 +31,12 @@
   ],
   "editorial": {
     "status": "draft",
-    "confidence": "low",
+    "confidence": "medium",
     "notes": [
-      "Importat automat din oca.org; de verificat."
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "luca-of-crimea--repose"
+  ]
 }

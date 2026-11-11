@@ -4,7 +4,19 @@
   "entries": [
     {
       "commemorations": [
+        "comm:paul-of-thebes--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
         "comm:john-calabytes-the-hut-dweller--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:ita--repose"
       ],
       "confidence": "low"
     }

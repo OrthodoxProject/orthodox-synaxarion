@@ -4,6 +4,18 @@
   "entries": [
     {
       "commemorations": [
+        "comm:lupus--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:irenaeus-of-lyons--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
         "comm:callinicus-of-constantinople--repose"
       ],
       "confidence": "low"

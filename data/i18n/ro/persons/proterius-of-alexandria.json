@@ -2,22 +2,20 @@
   "id": "proterius-of-alexandria",
   "locale": "ro",
   "names": {
-    "display": "Sf. Sfințit Mc. Proterie, Patriarhul Alexandriei",
-    "full": "Sfântul Sfințit Mucenic Proterie, Patriarhul Alexandriei",
-    "short": "Proterie, Patriarhul Alexandriei",
+    "display": "Sf. Sfințit Mc. Proterie, patriarhul Alexandriei",
+    "full": "Sfântul Sfințit Mucenic Proterie, patriarhul Alexandriei",
+    "short": "Proterie, patriarhul Alexandriei",
     "given": "Proterie"
   },
   "references": [
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/02/28/100617-hieromartyr-proterius-patriarch-of-alexandria",
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-sfintit-mucenic-proterie-patriarhul-alexandriei",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "en",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

@@ -7,9 +7,15 @@
     "new_martyr"
   ],
   "external_ids": {
+    "doxologia": "sfantul-mucenic-ioan-din-ianina",
     "oca": "101143"
   },
   "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-ioan-din-ianina",
+      "accessed": "2026-11-08"
+    },
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/04/18/101143-new-martyr-john-the-new-of-epirus",
@@ -18,10 +24,12 @@
   ],
   "editorial": {
     "status": "draft",
-    "confidence": "low",
+    "confidence": "medium",
     "notes": [
-      "Importat automat din oca.org; de verificat.",
-      "Genul nu reiese din sursă; e de verificat."
+      "Importat automat din doxologia.ro, oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "ioan-of-ianina"
+  ]
 }

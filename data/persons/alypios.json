@@ -6,9 +6,15 @@
     "venerable"
   ],
   "external_ids": {
+    "doxologia": "sfantul-alipie-iconarul",
     "oca": "102310"
   },
   "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-alipie-iconarul",
+      "accessed": "2026-11-08"
+    },
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/08/17/102310-venerable-alypios-iconographer-of-the-kiev-near-caves",
@@ -17,10 +23,12 @@
   ],
   "editorial": {
     "status": "draft",
-    "confidence": "low",
+    "confidence": "medium",
     "notes": [
-      "Importat automat din oca.org; de verificat.",
-      "Genul nu reiese din sursă; e de verificat."
+      "Importat automat din doxologia.ro, oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "alipie"
+  ]
 }

@@ -2,22 +2,25 @@
   "id": "myron-the-wonderworker-of-crete",
   "locale": "ro",
   "names": {
-    "display": "Sf. Ier. Miron făcătorul de minuni, Episcopul Cretei",
-    "full": "Sfântul Ierarh Miron făcătorul de minuni, Episcopul Cretei",
-    "short": "Miron făcătorul de minuni, Episcopul Cretei",
+    "display": "Sf. Ier. Miron, Episcopul Cretei",
+    "full": "Sfântul Ierarh Miron, Episcopul Cretei",
+    "short": "Miron, Episcopul Cretei",
     "given": "Miron"
   },
   "references": [
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/08/08/102233-saint-myron-the-wonderworker-bishop-of-crete",
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-miron-episcopul-cretei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-preot-mucenic-alexandru-din-basarabia-sf-ier-emilian-marturisitorul-episcopul-cizicului-si-miron-episcopul-cretei/",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "en",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

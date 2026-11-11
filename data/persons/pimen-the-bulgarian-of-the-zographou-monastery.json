@@ -6,9 +6,15 @@
     "venerable"
   ],
   "external_ids": {
+    "doxologia": "sfantul-cuvios-pimen-iconarul",
     "oca": "108028"
   },
   "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-pimen-iconarul",
+      "accessed": "2026-11-08"
+    },
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/11/03/108028-venerable-pimen-the-bulgarian-of-the-zographou-monastery-mount-a",
@@ -17,10 +23,12 @@
   ],
   "editorial": {
     "status": "draft",
-    "confidence": "low",
+    "confidence": "medium",
     "notes": [
-      "Importat automat din oca.org; de verificat.",
-      "Genul nu reiese din sursă; e de verificat."
+      "Importat automat din doxologia.ro, oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "pimen-iconarul"
+  ]
 }

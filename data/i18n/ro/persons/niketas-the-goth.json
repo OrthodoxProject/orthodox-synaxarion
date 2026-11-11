@@ -2,22 +2,28 @@
   "id": "niketas-the-goth",
   "locale": "ro",
   "names": {
-    "display": "Sf. Mare Mc. Nichita Gotul",
-    "full": "Sfântul Mare Mucenic Nichita Gotul",
-    "short": "Nichita Gotul",
-    "given": "Nichita"
+    "display": "Sf. Mare Mc. Nichita Romanul",
+    "full": "Sfântul Mare Mucenic Nichita Romanul",
+    "short": "Nichita Romanul",
+    "given": "Nichita",
+    "variants": [
+      "Sf. Mare Mc. Nichita"
+    ]
   },
   "references": [
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/09/15/102615-greatmartyr-niketas-the-goth",
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mare-mucenic-nichita-romanul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ier-iosif-cel-nou-de-la-partos-mitropolitul-banatului-%e2%80%a0-sf-mare-mc-nichita-%e2%80%a0-sf-ier-visarion-arhiepiscopul-larisei/",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "en",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

@@ -14,6 +14,11 @@
   },
   "sources": [
     {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ioan-cucuzel",
+      "accessed": "2026-11-08"
+    },
+    {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/10/01/102832-venerable-john-koukouzelis-the-hymnographer-of-mount-athos",
       "accessed": "2026-11-08"
@@ -21,9 +26,12 @@
   ],
   "editorial": {
     "status": "draft",
-    "confidence": "low",
+    "confidence": "medium",
     "notes": [
-      "Importat automat din oca.org; de verificat."
+      "Importat automat din doxologia.ro, oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "ioan-cucuzel--repose"
+  ]
 }

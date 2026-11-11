@@ -1010,7 +1010,10 @@ describe("matching the sources", () => {
   it("gives a saint of the Russian list whom no calendar keeps on the list's day to the saint of that name and place kept on another day (19 October: John of Kronstadt, 12 December: Herman of Alaska), not to a saint called the New (23 September: John of Epirus)", () => {
     const sources: SourceData = {
       ...data,
-      doxologia: [{ slug: "sfantul-ioan-de-kronstadt", title: "Sfântul Ioan de Kronstadt", month: 12, day: 20, order: 0, color: null, cross: null, secondRow: false }],
+      doxologia: [
+        { slug: "sfantul-mucenic-ioan-din-ianina", title: "Sfântul Mucenic Ioan din Ianina", month: 4, day: 18, order: 0, color: null, cross: null, secondRow: false },
+        { slug: "sfantul-ioan-de-kronstadt", title: "Sfântul Ioan de Kronstadt", month: 12, day: 20, order: 0, color: null, cross: null, secondRow: false },
+      ],
       oca: ocaLines([
         { id: "101143", title: "New Martyr John the New of Epirus", month: 4, day: 18 },
         { id: "103530", title: "Repose of Venerable Herman of Alaska, Wonderworker of All America", month: 12, day: 13 },
@@ -1025,11 +1028,16 @@ describe("matching the sources", () => {
     };
     const existing = loadExisting(join(REPO_ROOT, "tests", "fixtures", "minimal", "data"));
     const builder = new Builder(existing);
-    builder.romanian(doxologiaUnits(sources), [], [{ month: 12, day: 20 }]);
+    builder.romanian(doxologiaUnits(sources), [], [
+      { month: 4, day: 18 },
+      { month: 12, day: 20 },
+    ]);
     builder.russian(ocaUnits(sources, [2026, 2028]).fixed);
     builder.overlay(overlayUnits(sources));
     const output = new RecordWriter(existing, { clusters: builder.clusters, lines: builder.lines, movable: builder.movable, stats: builder.stats }).write();
     assert.deepEqual([...output.files.keys()].filter((k) => k.startsWith("persons/")).sort(), ["persons/herman-of-alaska.json", "persons/john-of-epirus.json", "persons/john-of-kronstadt.json", "persons/john-the-new-of-epirus.json"]);
+    // The official calendar's John of Ioannina is John the New of Epirus.
+    assert.equal(output.files.get("i18n/ro/persons/john-the-new-of-epirus.json")?.names.display, "Sf. Mc. Ioan din Ianina");
     // The birth of St John of Kronstadt, and St Herman a day before the OCA keeps him: one more day of the same saint.
     assert.deepEqual(output.files.get("commemorations/john-of-kronstadt--10-19.json")?.subjects, ["person:john-of-kronstadt"]);
     assert.deepEqual(output.files.get("traditions/russian/menaion/10/19.json")?.entries, [{ commemorations: ["comm:john-of-kronstadt--10-19"] }]);
@@ -1156,6 +1164,194 @@ describe("matching the sources", () => {
       "Sf. Mc. Haritina": "Martyr Charitina of Amisos",
       "(Saint Charitina, Princess of Lithuania)": "Saint Charitina, Princess of Lithuania",
     });
+  });
+
+  it("puts together, in the whole year, the saints whom the Romanian calendars and the OCA describe with other epithets, places and sees (1 April: Maria Egipteanca / Mary of Egypt; 18 July: Emilian de la Durostor / Emilian of Silistria; 7 December: Ambrozie, Episcopul Mediolanului / Ambrose of Milan)", () => {
+    // [day, doxologia title, OCA id, OCA title]: one saint each, as the official synaxarion, the doxologia page and the
+    // OCA's short life tell (docs/PLAN.md).
+    const same: Array<[string, string, string, string]> = [
+      ["01-03", "Sfânta Cuvioasă Genoveva, ocrotitoarea Parisului", "100015", "Venerable Genevieve of Paris"],
+      ["01-10", "Sfântul Cuvios Antipa de la Calapodești", "100146", "Venerable Antipas of Valaam Monastery"],
+      ["01-15", "Sfântul Cuvios Pavel Tebeul", "100196", "Venerable Paul of Thebes"],
+      ["01-15", "Sfânta Cuvioasă Ita din Irlanda", "100201", "Saint Ita, Hermitess of Killeedy"],
+      ["01-18", "Sfântul Ierarh Atanasie, Arhiepiscopul Alexandriei", "100219", "Saint Athanasius the Great, Archbishop of Alexandria"],
+      ["01-18", "Sfântul Cuvios Alexie Șușania", "205454", "Venerable Hieromonk Alexei of Teklati"],
+      ["01-24", "Sfântul Ierarh Filon, episcopul Carpasiei", "109037", "Saint Philon, Bishop of Kolpasteia, Crete"],
+      ["01-29", "Sfântul Afraat Persanul", "109041", "Saint Aphraates of Persia"],
+      ["02-03", "Sfântul și Dreptul Simeon, primitorul de Dumnezeu", "100409", "Holy, Righteous Simeon the God-Receiver"],
+      ["02-07", "Sfântul Cuvios Luca din Elada", "100458", "Venerable Luke of Hellas"],
+      ["02-13", "Sfântul Ierarh Evloghie, Patriarhul Alexandriei", "100517", "Saint Eulogius, Archbishop of Alexandria"],
+      ["02-28", "Sfântul Sfințit Mucenic Proterie, patriarhul Alexandriei", "100617", "Hieromartyr Proterius, Patriarch of Alexandria"],
+      ["03-01", "Sfântul David, ocrotitorul Țării Galilor", "103905", "Saint David, Bishop of Wales"],
+      ["03-01", "Sfântul Cuvios Agapie de la Colciu", "100633", "Venerable Agapius of Vatopedi"],
+      ["03-05", "Sfântul Cuvios Marcu Pustnicul", "100669", "Saint Mark the Ascetic of Egypt"],
+      ["03-17", "Sfântul Cuvios Alexie, omul lui Dumnezeu", "100822", "Venerable Alexis the Man of God"],
+      ["03-23", "Sfântul Cuvios Nou Mucenic Luca din Mitilini", "100875", "Monastic Martyr Luke of Saint Anne’s Skete on Mount Athos and Odrin"],
+      ["03-24", "Sfântul Cuvios Zaharia Postitorul de la Lavra Peșterilor", "100879", "Venerable Zachariah the Ascetic of the Kiev Caves"],
+      ["03-30", "Sfântul Cuvios Ioan Scărarul", "100943", "Venerable John Climacus of Sinai, Author of “the Ladder”"],
+      ["04-01", "Sfânta Cuvioasă Maria Egipteanca", "100963", "Venerable Mary of Egypt"],
+      ["04-01", "Sfântul Cuvios Macarie Mărturisitorul", "100967", "Venerable Makarios, Igoumen of Pelēketḗ"],
+      ["04-09", "Sfântul Cuvios Vadim, arhimandritul", "101040", "Monastic Martyr Bademus (Vadim) of Persia"],
+      ["04-18", "Sfântul Mucenic Ioan din Ianina", "101143", "New Martyr John the New of Epirus"],
+      ["04-19", "Sfântul Cuvios Ioan de la Lavra Veche", "101146", "Venerable John of the Ancient Caves in Palestine"],
+      ["04-20", "Sfântul Ierarh Teotim, Episcopul Tomisului", "103714", "Saint Theotimus, Bishop of Lesser Scythia"],
+      ["04-22", "Sfântul Cuvios Vitalie Monahul", "101183", "Venerable Vitalius of Gaza"],
+      ["05-03", "Sfântul Cuvios Teodosie de la Lavra Pecerska", "101280", "Venerable Theodosius, Abbot of the Kiev Far Caves Monastery, and Founder of Coenobitic Monasticism in Russia"],
+      ["05-06", "Sfântul și Dreptul Iov, mult răbdătorul", "101301", "Righteous Job the Long-Suffering"],
+      ["05-12", "Sfântul Mucenic Ioan Valahul", "101362", "Martyr John of Vlachia, Romania"],
+      ["05-16", "Sfântul Cuvios Teodor cel Sfințit", "101393", "Venerable Theodore the Sanctified, disciple of Venerable Pachomius the Great"],
+      ["05-27", "Sfântul Mărturisitor Ioan Rusul", "101545", "Saint John the Russian and Confessor, whose relics are on the island of Euboia"],
+      ["05-30", "Sfântul Cuvios Isaachie Mărturisitorul", "101566", "Venerable Isaac, Founder of Dalmátos Monastery at Constantinople"],
+      ["06-01", "Sfântul Cuvios Agapit de la Lavra Pecerska", "101580", "Venerable Agapitus the Unmercenary Physician of the Kiev Near Caves"],
+      ["06-05", "Sfântul Sfințit Mucenic Dorotei, Episcopul Tirului", "101610", "Hieromartyr Dorotheus, Bishop of Tyre"],
+      ["06-11", "Sfântul Ierarh Luca, Arhiepiscopul Crimeei", "100476", "Saint Luke, Archbishop of Simferopol"],
+      ["06-22", "Sfântul Ierarh Grigorie Dascălul, Mitropolitul Țării Românești", "149028", "Saint Gregory, Metropolitan of Wallachia"],
+      ["06-26", "Sfântul Ierarh Ioan, Episcopul Goției", "101819", "Saint John, Bishop of the Goths in the Crimea"],
+      ["06-27", "Sfânta Ioana Mironosița", "101827", "Saint Joanna the Myrrhbearer"],
+      ["07-07", "Sfântul Cuvios Toma din Maleon", "101843", "Venerable Thomas of Mount Maleos"],
+      ["07-08", "Sfântul Cuvios Teofil, Izvorâtorul de mir", "108015", "Venerable Theophilus the Myrrhgusher of Macedonia"],
+      ["07-10", "Sfântul Cuvios Antonie de la Lavra Pecerska", "101994", "Venerable Anthony of the Kiev Far Caves, Founder of Monasticism in Russia"],
+      ["07-12", "Sfântul Cuvios Paisie Aghioritul", "100401", "Venerable Paisios of the Holy Mountain"],
+      ["07-13", "Sfântul Cuvios Ștefan Savaitul", "102018", "Venerable Stephen of Saint Savva Monastery"],
+      ["07-18", "Sfântul Mucenic Emilian de la Durostor", "102047", "Martyr Emilian of Silistria in Bulgaria"],
+      ["08-08", "Sfântul Ierarh Miron, Episcopul Cretei", "102233", "Saint Myron the Wonderworker, Bishop of Crete"],
+      ["08-11", "Sfântul Mare Mucenic Evplu, Arhidiaconul", "102264", "Martyr and Archdeacon Euplus of Catania"],
+      ["08-16", "Sfântul Mucenic Diomid", "102305", "Holy Unmercenary Physician Diomedes"],
+      ["08-17", "Sfântul Alipie, iconarul", "102310", "Venerable Alypios, Iconographer of the Kiev Near Caves"],
+      ["08-19", "Sfântul Cuvios Teofan cel Nou de la Dohiariu, făcătorul de minuni", "102346", "Venerable Theophanes of Docheiariou, Mount Athos"],
+      ["08-23", "Sfântul Mucenic Lup din Nove", "102378", "Martyr Lupus, slave of Saint Demetrius of Thessalonica"],
+      ["08-23", "Sfântul Sfințit Mucenic Irineu, Episcopul de Lugdunum", "102379", "Hieromartyr Irenaeus, Bishop of Lyons"],
+      ["09-01", "Sfântul Cuvios Simeon Stâlpnicul", "102448", "Saint Simeon Stylites, the Elder"],
+      ["09-07", "Sfânta Cuvioasă Casiana Imnografa", "100454", "Venerable Cassiani the Hymnographer"],
+      ["09-15", "Sfântul Mare Mucenic Nichita Romanul", "102615", "Greatmartyr Niketas the Goth"],
+      ["09-20", "Sfântul Cuvios Nou Mucenic Ilarion Criteanul", "102681", "Monastic Martyr Hilarion of Saint Anne Skete, Mount Athos"],
+      ["09-24", "Sfântul Ștefan Întâiîncoronatul", "108948", "Holy King Stephen of Serbia"],
+      ["09-27", "Sfântul Ierarh Martir Antim Ivireanul, Mitropolitul Țării Românești", "149021", "Saint Anthimus the Georgian"],
+      ["10-01", "Sfântul Ioan Cucuzel", "102832", "Venerable John (Koukouzelis) the Hymnographer of Mount Athos"],
+      ["10-15", "Sfântul Ierarh Savin, Episcopul Ciprului", "102978", "Saint Sabinus, Bishop of Catania"],
+      ["10-17", "Sfântul Cuvios Mucenic Andrei din Creta", "102984", "Monastic Martyr Andrew of Crete"],
+      ["10-18", "Sfântul Mucenic Marin cel Bătrân", "102994", "Martyr Marinus the Elder at Anazarbus"],
+      ["10-21", "Sfântul Preot Mărturisitor Ioan din Galeș", "149004", "Saint John of Galesh"],
+      ["10-21", "Sfântul Preot Mărturisitor Moise Măcinic din Sibiel", "149003", "Martyr Moses (Macinic) the Confessor"],
+      ["10-27", "Sfântul Cuvios Dimitrie cel Nou, Ocrotitorul Bucureștilor", "108027", "Saint Demetrius of Basarabov"],
+      ["10-29", "Sfânta Cuvioasă Muceniță Anastasia Romana", "103099", "Monastic Martyr Anastasia of Rome"],
+      ["11-03", "Sfantul Cuvios Pimen Iconarul", "108028", "Venerable Pimen the Bulgarian of the Zographou Monastery, Mount Athos"],
+      ["11-05", "Sfântul Ierarh Grigorie, Arhiepiscopul Alexandriei", "103184", "Saint Gregory, Archbishop of Alexandria"],
+      ["11-06", "Sfântul Varlaam Hutinski", "103186", "Venerable Barlaam, Abbot of Khutyn, Novgorod"],
+      ["11-09", "Sfântul Cuvios Ioan Colov", "103258", "Venerable John the Short, of Egypt"],
+      ["11-12", "Sfântul Ierarh Ioan cel Milostiv, Patriarhul Alexandriei", "103286", "Saint John the Merciful, Patriarch of Alexandria"],
+      ["11-12", "Sfântul Cuvios Nil Pustnicul", "103287", "Venerable Neilos the Ascetic of Sinai"],
+      ["11-15", "Sfântul Cuvios Paisie de la Neamț", "103311", "Venerable Paisios Velichkovsky"],
+      ["11-17", "Sfântul Cuvios Lazăr Zugravul", "103317", "Venerable Lazarus the Iconographer, of Constantinople"],
+      ["11-23", "Sfântul Ierarh Grigorie, Episcopul Acragandandelor", "103376", "Saint Gregory, Bishop of Agrigentum"],
+      ["12-01", "Sfântul Cuvios Filaret cel Milostiv", "103453", "Righteous Philaret the Merciful of Amnia in Asia Minor"],
+      ["12-03", "Sfântul Sfințit Mucenic Teodor, Arhiepiscopul Alexandriei", "103469", "Hieromartyr Theodore, Archbishop of Alexandria"],
+      ["12-05", "Sfântul Cuvios Sava cel Sfințit", "103477", "Venerable Savva the Sanctified"],
+      ["12-07", "Sfântul Ierarh Ambrozie, Episcopul Mediolanului", "103485", "Saint Ambrose, Bishop of Milan"],
+      ["12-17", "Sfântul Ierarh Dionisie din Zakynthos", "103564", "Venerable Dionysius of Aegina"],
+      ["12-31", "Sfânta Cuvioasă Melania Romana", "103701", "Venerable Melania the Younger of Rome"],
+    ];
+    for (const [date, ro, id, en] of same) {
+      const [month = 0, day = 0] = date.split("-").map(Number);
+      // One person, with the name of each calendar.
+      const persons = Object.entries(pairsOf([ro], [[id, en]], month, day));
+      assert.equal(persons.length, 1, `${date}: ${ro} / ${en}`);
+      assert.ok(!persons[0]?.[0].startsWith("(") && persons[0]?.[1] !== undefined, `${date}: ${ro} / ${en}`);
+    }
+  });
+
+  it("gives a Romanian saint the OCA saint of the day his name describes, and none when the OCA's saints of his name are others (18 January: Athanasius the Great, not Athanasius of Syandemsk; 30 March: John Climacus, not John the Silent; 24 April: Ilie Iorest is the OCA's Iorest, not Elijah the Wallachian; 17 January: Antonie cel Nou of Veria is none of the OCA's Anthonys)", () => {
+    // [day, doxologia title, the OCA saints of his first name that day, the one that is the Romanian saint]
+    const days: Array<[string, string, Array<[string, string]>, string | undefined]> = [
+      ["01-18", "Sfântul Ierarh Atanasie, Arhiepiscopul Alexandriei", [["100219", "Saint Athanasius the Great, Archbishop of Alexandria"], ["100221", "Venerable Athanasius, Abbot of Syandemsk, Vologda"], ["100222", "Righteous Athanasius of Novolotsk"]], "Saint Athanasius the Great, Archbishop of Alexandria"],
+      ["02-03", "Sfântul și Dreptul Simeon, primitorul de Dumnezeu", [["100409", "Holy, Righteous Simeon the God-Receiver"], ["100420", "Saint Simeon, Bishop of Polotsk and Tver"]], "Holy, Righteous Simeon the God-Receiver"],
+      ["03-30", "Sfântul Cuvios Ioan Scărarul", [["100943", "Venerable John Climacus of Sinai, Author of “the Ladder”"], ["100952", "Venerable John the Silent of Saint Savva Monastery"]], "Venerable John Climacus of Sinai, Author of “the Ladder”"],
+      ["04-24", "Sfântul Ierarh Mărturisitor Ilie Iorest, Mitropolitul Transilvaniei", [["101200", "Saint Iorest, Metropolitan of Ardeal, Confessor of Romania"], ["101202", "Hieromartyr and Confessor Elijah (Ilie) the Wallachian"]], "Saint Iorest, Metropolitan of Ardeal, Confessor of Romania"],
+      ["05-16", "Sfântul Cuvios Teodor cel Sfințit", [["101393", "Venerable Theodore the Sanctified, disciple of Venerable Pachomius the Great"], ["108044", "Saint Theodore of Vrsac, Serbia"]], "Venerable Theodore the Sanctified, disciple of Venerable Pachomius the Great"],
+      ["06-05", "Sfântul Sfințit Mucenic Dorotei, Episcopul Tirului", [["101610", "Hieromartyr Dorotheus, Bishop of Tyre"], ["101628", "Venerable Abba Dorotheus of Palestine"]], "Hieromartyr Dorotheus, Bishop of Tyre"],
+      ["10-21", "Sfântul Preot Mărturisitor Ioan din Galeș", [["149004", "Saint John of Galesh"], ["100509", "New Martyr John of Monemvasia"]], "Saint John of Galesh"],
+      ["11-06", "Sfântul Varlaam Hutinski", [["103186", "Venerable Barlaam, Abbot of Khutyn, Novgorod"], ["103189", "Venerable Barlaam of Keret Lake"]], "Venerable Barlaam, Abbot of Khutyn, Novgorod"],
+      ["11-12", "Sfântul Ierarh Ioan cel Milostiv, Patriarhul Alexandriei", [["103286", "Saint John the Merciful, Patriarch of Alexandria"], ["102480", "Blessed John “the Hairy” and Fool-For-Christ at Rostov"]], "Saint John the Merciful, Patriarch of Alexandria"],
+      ["11-23", "Sfântul Ierarh Grigorie, Episcopul Acragandandelor", [["103376", "Saint Gregory, Bishop of Agrigentum"], ["205496", "Hieromartyr Gregory (Peradze) of Georgia"]], "Saint Gregory, Bishop of Agrigentum"],
+      // Two saints: the Romanian saint is none of the OCA's.
+      ["01-17", "Sfântul Cuvios Antonie cel Nou de la Veria", [["100217", "Venerable Anthony of Dymsk, Novgorod"], ["100218", "Venerable Anthony of Chernoezero"], ["109026", "Saint Anthony of Krasny Kholm"]], undefined],
+      ["01-26", "Sfântul Ierarh Iosif cel Milostiv, Mitropolitul Moldovei", [["100324", "Saint Joseph, Bishop of Thessalonica, and brother of Saint Theodore of Studion"]], undefined],
+      ["02-12", "Sfântul Cuvios Meletie din Lardos", [["100507", "Saint Meletius, Archbishop of Khar'kov and Akhtyrsk"]], undefined],
+      ["02-16", "Sfântul Ierarh Flavian, Arhiepiscopul Constantinopolului", [["109046", "Saint Flavian, Archbishop of Antioch"]], undefined],
+      ["04-06", "Sfântul Cuvios Grigorie Sinaitul", [["101014", "Venerable Gregory the Byzantine"]], undefined],
+      ["05-17", "Sfântul Nou Mucenic Nicolae din Metsovo", [["108011", "Great Martyr Nicholas of Sofia (Bulgaria)"]], undefined],
+      ["08-25", "Sfântul Ioan Carpatiul", [["108971", "Saint John the Cappadocian, Patriarch of Constantinople"]], undefined],
+      ["11-04", "Sfântul Sfințit Mucenic Nicandru, Episcopul Mirelor", [["103175", "Venerable Nicander, Abbot of Gorodensk, Novgorod"]], undefined],
+      ["11-17", "Sfântul Ierarh Ghenadie, patriarhul Constantinopolului", [["103320", "Venerable Gennadius of Vatopedi, Mount Athos"]], undefined],
+      ["11-25", "Sfântul Clement, Arhiepiscopul Ohridei", [["103393", "Hieromartyr Clement, Pope of Rome"]], undefined],
+    ];
+    for (const [date, ro, oca, en] of days) {
+      const [month = 0, day = 0] = date.split("-").map(Number);
+      for (const order of [oca, [...oca].reverse()]) {
+        const joined = Object.entries(pairsOf([ro], order, month, day)).filter(([name, other]) => !name.startsWith("(") && other !== undefined);
+        assert.deepEqual(
+          joined.map(([, other]) => other),
+          en ? [en] : [],
+          `${date}: ${ro}`,
+        );
+      }
+    }
+  });
+
+  it("keeps one saint whose OCA titles spell his monastery two ways (30 March and 3 December: John the Silent of Saint Savva and of Saint Sabbas Monastery)", () => {
+    const sources: SourceData = {
+      ...data,
+      doxologia: [],
+      oca: [
+        ["100952", "Venerable John the Silent of Saint Savva Monastery", 3, 30],
+        ["103466", "Venerable John the Silent of Saint Sabbas Monastery", 12, 3],
+      ].flatMap(([id, title, month, day]) =>
+        [2026, 2028].map((year) => ({ id: String(id), title: String(title), path: `/saints/lives/${year}/${String(month).padStart(2, "0")}/${String(day).padStart(2, "0")}/${id}`, year, month: Number(month), day: Number(day), order: 0 })),
+      ),
+    };
+    const existing = loadExisting(join(REPO_ROOT, "tests", "fixtures", "minimal", "data"));
+    const builder = new Builder(existing);
+    builder.russian(ocaUnits(sources, [2026, 2028]).fixed);
+    const files = new RecordWriter(existing, { clusters: builder.clusters, lines: builder.lines, movable: builder.movable, stats: builder.stats }).write().files;
+    assert.deepEqual([...files.keys()].filter((k) => k.startsWith("persons/")), ["persons/john-the-silent-of-savva-monastery.json"]);
+  });
+
+  it("gives an OCA line to the saint that the Romanian calendar keeps that day, not to a saint of a like name kept on another day (2 August: the relics of St Gamaliel are the Righteous Gamaliel's, not those of Martyr Gemellus of Paphlagonia; 3 December: Hieromartyr Theodore, Archbishop of Alexandria is not the Martyr Theodore of Alexandria of 12 September)", () => {
+    const listing = (id: string, title: string, month: number, day: number): SourceData["oca"] =>
+      [2026, 2028].map((year) => ({ id, title, path: `/saints/lives/${year}/${String(month).padStart(2, "0")}/${String(day).padStart(2, "0")}/${id}`, year, month, day, order: 0 }));
+    const sources: SourceData = {
+      ...data,
+      doxologia: [
+        { slug: "dreptul-gamaliel", title: "Dreptul Gamaliel", month: 8, day: 2, order: 0, color: null, cross: null, secondRow: false },
+        { slug: "sfantul-sfintit-mucenic-teodor-arhiepiscopul-alexandriei", title: "Sfântul Sfințit Mucenic Teodor, Arhiepiscopul Alexandriei", month: 12, day: 3, order: 0, color: null, cross: null, secondRow: false },
+      ],
+      oca: [
+        ...listing("102183", "Finding of the relics of Saint Gamaliel", 8, 2),
+        ...listing("102590", "Martyr Theodore of Alexandria", 9, 12),
+        ...listing("103469", "Hieromartyr Theodore, Archbishop of Alexandria", 12, 3),
+        ...listing("103515", "Martyr Gemellus of Paphlagonia", 12, 10),
+      ],
+    };
+    const existing = loadExisting(join(REPO_ROOT, "tests", "fixtures", "minimal", "data"));
+    const builder = new Builder(existing);
+    builder.romanian(doxologiaUnits(sources), [], [
+      { month: 8, day: 2 },
+      { month: 9, day: 12 },
+      { month: 12, day: 3 },
+      { month: 12, day: 10 },
+    ]);
+    builder.russian(ocaUnits(sources, [2026, 2028]).fixed);
+    const files = new RecordWriter(existing, { clusters: builder.clusters, lines: builder.lines, movable: builder.movable, stats: builder.stats }).write().files;
+    // The Romanian and English names of the person of the commemoration of an OCA line.
+    const personOf = (oca: string): Array<string | undefined> => {
+      const ref = [...files].find(([path, rec]) => path.startsWith("commemorations/") && rec.external_ids?.oca === oca)?.[1]?.subjects?.[0] as string | undefined;
+      const id = ref?.replace(/^person:/, "");
+      return [files.get(`i18n/ro/persons/${id}.json`)?.names.display, files.get(`i18n/en/persons/${id}.json`)?.names.display];
+    };
+    assert.deepEqual(personOf("102183"), ["Dreptul Gamaliel", undefined]);
+    assert.deepEqual(personOf("103515"), [undefined, "Martyr Gemellus of Paphlagonia"]);
+    assert.deepEqual(personOf("103469"), ["Sf. Sfințit Mc. Teodor, Arhiepiscopul Alexandriei", "Hieromartyr Theodore, Archbishop of Alexandria"]);
+    assert.deepEqual(personOf("102590"), [undefined, "Martyr Theodore of Alexandria"]);
   });
 
   /**

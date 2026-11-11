@@ -1,0 +1,21 @@
+{
+  "id": "sabinus-of-catania",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Savin, Episcopul Ciprului",
+    "full": "Sfântul Ierarh Savin, Episcopul Ciprului",
+    "short": "Savin, Episcopul Ciprului",
+    "given": "Savin"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-savin-episcopul-ciprului",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

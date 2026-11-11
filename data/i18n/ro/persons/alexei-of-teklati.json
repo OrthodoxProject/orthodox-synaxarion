@@ -2,22 +2,20 @@
   "id": "alexei-of-teklati",
   "locale": "ro",
   "names": {
-    "display": "Sf. Cuv. Alexie ieromonahul, de la Teklati",
-    "full": "Sfântul Cuvios Alexie ieromonahul, de la Teklati",
-    "short": "Alexie ieromonahul, de la Teklati",
+    "display": "Sf. Cuv. Alexie Șușania",
+    "full": "Sfântul Cuvios Alexie Șușania",
+    "short": "Alexie Șușania",
     "given": "Alexie"
   },
   "references": [
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/01/18/205454-venerable-hieromonk-alexei-of-teklati",
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-alexie-susania",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "en",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

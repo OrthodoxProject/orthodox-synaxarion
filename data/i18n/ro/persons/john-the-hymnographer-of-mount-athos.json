@@ -2,22 +2,20 @@
   "id": "john-the-hymnographer-of-mount-athos",
   "locale": "ro",
   "names": {
-    "display": "Sf. Cuv. Ioan (Cucuzel) Imnograful, de la Muntele Athos",
-    "full": "Sfântul Cuvios Ioan (Cucuzel) Imnograful, de la Muntele Athos",
-    "short": "Ioan Imnograful, de la Muntele Athos",
+    "display": "Sf. Ioan Cucuzel",
+    "full": "Sfântul Ioan Cucuzel",
+    "short": "Ioan Cucuzel",
     "given": "Ioan"
   },
   "references": [
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/10/01/102832-venerable-john-koukouzelis-the-hymnographer-of-mount-athos",
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ioan-cucuzel",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "en",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

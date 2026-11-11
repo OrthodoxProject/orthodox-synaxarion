@@ -2,19 +2,17 @@
   "id": "synaxis-of-fathers-of-the-kiev-near-caves",
   "locale": "ro",
   "names": {
-    "display": "Soborul Sfinților Cuvioși Părinți de la Peșterile Apropiate din Kiev"
+    "display": "Soborul Sfinților Cuvioși din Lavra Pecerska cu moaște în „Peșterile de aproape”"
   },
   "references": [
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/09/28/102757-synaxis-of-the-venerable-fathers-of-the-kiev-near-caves",
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/soborul-sfintilor-cuviosi-din-lavra-pecerska-cu-moaste-pesterile-de-aproape",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "en",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

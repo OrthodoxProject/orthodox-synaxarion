@@ -164,7 +164,12 @@ export function namesConflict(a: NamePart, b: NamePart): boolean {
   return pa.length > 0 && pb.length > 0 && !pa.some((x) => pb.some((y) => x === y || nameSimilarity(x, y) >= 0.75));
 }
 
-/** Common words of English and Romanian titles, normalised so that both languages compare. */
+/**
+ * Common words of English and Romanian titles, normalised so that both languages compare: an epithet in Romanian is
+ * often a word of its own (with its article, its feminine, its genitive), where the OCA writes a place ("Maria
+ * Egipteanca" / "Mary of Egypt", "Anastasia Romana" / "Anastasia of Rome", "Afraat Persanul" / "Aphraates of Persia",
+ * "Pavel Tebeul" / "Paul of Thebes", "Ioan Rusul" / "John the Russian", "Antim Ivireanul" / "Anthimus the Georgian").
+ */
 const EPITHETS: Array<[RegExp, string]> = [
   [/^(mare|marele|great)$/, "great"],
   [/^(nou|noul|new|younger|tanar)$/, "new"],
@@ -172,22 +177,24 @@ const EPITHETS: Array<[RegExp, string]> = [
   [/^(teologul|theologian)$/, "theologian"],
   [/^(taumaturgul|wonderworker|facatorul)$/, "wonderworker"],
   [/^(sirul|syrian|sirian)$/, "syrian"],
-  [/^(persul|persian|persia)$/, "persia"],
-  [/^(egipteanul|egyptian|egypt)$/, "egypt"],
-  [/^(romanul|roman|rome|roma|romei)$/, "rome"],
-  [/^(stalpnicul|stylite)$/, "stylite"],
-  [/^(pustnicul|sihastrul|hermit|anchorite)$/, "hermit"],
+  [/^(persul|persanul|persian|persia)$/, "persia"],
+  [/^(egipteanul|egipteanca|egyptian|egypt)$/, "egypt"],
+  [/^(romanul|roman|romana|rome|roma|romei)$/, "rome"],
+  [/^(stalpnicul|stylite|stylites)$/, "stylite"],
+  // "Marcu Pustnicul" is "Mark the Ascetic of Egypt", "Nil Pustnicul" is "Neilos the Ascetic of Sinai".
+  [/^(pustnicul|sihastrul|hermit|anchorite|ascetic)$/, "hermit"],
   [/^(zavoratul|recluse)$/, "recluse"],
-  [/^(milostivul|merciful|almsgiver)$/, "merciful"],
+  [/^(milostivul|milostiv|merciful|almsgiver)$/, "merciful"],
   [/^(gura|chrysostom|hrisostom)$/, "chrysostom"],
   [/^(botezatorul|baptist)$/, "baptist"],
   [/^(inaintemergatorul|forerunner)$/, "forerunner"],
-  [/^(imnograful|hymnographer|hymnographer)$/, "hymnographer"],
+  [/^(imnograful|imnografa|hymnographer)$/, "hymnographer"],
   [/^(hozevitul|chozebite|choziba)$/, "chozebite"],
   [/^(decapolitul|decapolite)$/, "decapolite"],
   [/^(stratilat|stratelates|general)$/, "stratelates"],
   [/^(studitul|studite|studion|studium)$/, "studion"],
-  [/^(ivirul|iviron|iveron|iberia|iberian|ivir)$/, "iveron"],
+  // Iberia is Georgia: "Sf. Ier. Martir Antim Ivireanul" is "Saint Anthimus the Georgian".
+  [/^(ivirul|ivireanul|iviron|iveron|iberia|iberian|ivir|georgian)$/, "iveron"],
   [/^(sinaitul|sinai|sinaite)$/, "sinai"],
   // A monk of Dionysiou is an Athonite: "Sfântul Cuvios Leontie Dionisiatul" is the OCA's "Venerable Leontius the Hagiorite".
   [/^(athonitul|athonite|athos|aghioritul|hagiorite|dionisiatul)$/, "athos"],
@@ -202,20 +209,49 @@ const EPITHETS: Array<[RegExp, string]> = [
   [/^(preotul|presbyter|priest)$/, "priest"],
   [/^(tacutul|silent)$/, "silent"],
   [/^(postitorul|faster)$/, "faster"],
-  [/^(iconograful|iconographer)$/, "iconographer"],
+  [/^(iconograful|iconarul|zugravul|iconographer)$/, "iconographer"],
   [/^(lepros|leprosul|leper)$/, "leper"],
   [/^(tiron|tyro|recruit)$/, "tyro"],
-  [/^(izvoratorul|myrrh-gusher|myrrh-streaming)$/, "myrrh"],
+  [/^(izvoratorul|myrrh-gusher|myrrhgusher|myrrh-streaming)$/, "myrrh"],
   [/^(bucatarul|cook)$/, "cook"],
+  [/^(scararul|climacus)$/, "climacus"],
+  [/^(sfintit|sfintitul|sanctified)$/, "sanctified"],
+  [/^(batran|batranul|elder)$/, "elder"],
+  // "Colobos" means "the Short": "Sf. Cuv. Ioan Colov" is "Venerable John the Short, of Egypt".
+  [/^(colov|colobos|kolobos|short)$/, "short"],
+  [/^(mironosita|myrrhbearer)$/, "myrrhbearer"],
+  [/^(tebeul|theban|thebes)$/, "thebes"],
+  [/^(savaitul|sabbaite)$/, "sabbaite"],
+  [/^(rusul|russian)$/, "russian"],
 ];
 
 /**
  * Places that the sources call by different names: "Arhiepiscop de Corfu" (doxologia) is "Archbishop of Kerkyra" (OCA);
- * the Coptic Synaxarium writes the city of Prince Theodore "Shotep" (20 Abib) and "Shotb" (5 Hatour).
+ * the Coptic Synaxarium writes the city of Prince Theodore "Shotep" (20 Abib) and "Shotb" (5 Hatour). Romanian names
+ * the old cities in Latin or Greek and the OCA in English, or by their names of today: "Durostor" is "Silistria",
+ * "Mediolan" "Milan", "Lugdunum" "Lyons", "Acragas" "Agrigentum", "Elada" "Hellas", "Pecerska" the Kiev Caves; the
+ * genitive of a see stands for the see ("Episcopul Tirului", "of Tyre"; "Episcopul Goției", "of the Goths").
  */
 const PLACE_NAMES: Array<[RegExp, string]> = [
   [/^(corfu|kerk[iy]ra?|corc[iy]ra)$/, "corfu"],
   [/^(shotep|shotbe?)$/, "shotep"],
+  [/^(paris|parisului)$/, "paris"],
+  [/^(elada|ellada|hellas)$/, "hellas"],
+  [/^(tir|tirului|tyre)$/, "tyre"],
+  [/^(pecerska|pechersk|kiev|kyiv)$/, "kiev"],
+  [/^(durostor|durostorum|dorostolum|silistra|silistria)$/, "durostorum"],
+  [/^(dohiariu|docheiariou)$/, "docheiariou"],
+  [/^(lugdunum|lyon|lyons)$/, "lyon"],
+  [/^(gales|galesh)$/, "gales"],
+  [/^(hutin|hutinski|khutyn)$/, "khutyn"],
+  // The key of "Agrigentum" (A-G-R-G-…) would start like that of "Georgia": the place goes by its Greek name.
+  [/^(acragas|acragande|acragandande|acragandandelor|agrigentum|agrigento)$/, "acragas"],
+  [/^(mediolan|mediolanului|mediolanum|milan)$/, "milan"],
+  [/^(maleon|maleos|malea)$/, "malea"],
+  [/^(valah|valahul|valahia|valahiei|vlachia|wallachia|wallachian)$/, "wallachia"],
+  // "Nichita Romanul" is also called "Gotul" (the official synaxarion of 15 September): "Niketas the Goth".
+  [/^(got|gotul|goth|goths|gotia|gotiei|gothia)$/, "gothia"],
+  [/^(ardeal|ardealului|transilvan|transilvania|transilvaniei|transylvania)$/, "transylvania"],
 ];
 
 /** One name of a place that has several (see PLACE_NAMES), as a folded word. */
@@ -237,13 +273,74 @@ const TITLE_EPITHETS: Array<[RegExp, string]> = [
   [/\bEl-Shotbe\b/giu, "of Shotep"],
   [/\bscriitorul de c[âa]nt[ăa]ri\b/giu, "Imnograful"],
   [/\bMacarie Egipteanul\b/gu, "Macarie cel Mare Egipteanul"],
+  // Epithets of several words: "Simeon, primitorul de Dumnezeu" is "Simeon the God-Receiver", "Alexie, omul lui
+  // Dumnezeu" "Alexis the Man of God", "Iov, mult răbdătorul" "Job the Long-Suffering"; "the Holy Mountain" is Athos
+  // ("Paisie Aghioritul" / "Paisios of the Holy Mountain"), the monastery of St Sava that of the Sabbaites ("Ștefan
+  // Savaitul" / "Stephen of Saint Savva Monastery"; the OCA writes it also "Saint Sabbas Monastery").
+  [/\bprimitorul de Dumnezeu\b/giu, "God-Receiver"],
+  [/\bomul lui Dumnezeu\b/giu, "Man of God"],
+  [/\bmult r[ăa]bd[ăa]torul\b/giu, "Long-Suffering"],
+  [/\b(?:of )?the Holy Mountain\b/giu, "the Athonite"],
+  [/\bof Saint S(?:avv?a|abbas) Monastery\b/giu, "the Sabbaite"],
+  // Places of several words: "Țara Galilor" is Wales, "Țara Românească" Wallachia, "Lavra Peșterilor" the Kiev Caves.
+  [/(?<!\p{L})[ȚŢT][ăa]rii Galilor\b/giu, "of Wales"],
+  [/(?<!\p{L})[ȚŢT][ăa]rii Rom[âa]ne[șşs]ti\b/giu, "Valahiei"],
+  [/\bLavra Pe[șşs]terilor\b/giu, "Lavra Pecerska"],
+  // What a saint founded is not a place of his: "Theodosius, Abbot of the Kiev Far Caves Monastery and Founder of
+  // Coenobitic Monasticism in Russia".
+  [/,?\s+(?:and\s+)?Founder of (?:Coenobitic )?Monasticism in Russia\b/giu, ""],
+  // A see that stands for its land: the bishop of Tomis was the bishop of Lesser Scythia ("Theotimus, Bishop of
+  // Lesser Scythia" is "Teotim, Episcopul Tomisului"), the archbishop of Simferopol that of Crimea ("Luke, Archbishop
+  // of Simferopol" is "Luca, Arhiepiscopul Crimeei").
+  [/\bEpiscopul Tomisului\b/giu, "Episcopul Tomisului, of Lesser Scythia"],
+  [/\bArchbishop of Simferopol\b/gu, "Archbishop of Simferopol and of Crimea"],
+  // Saints that one calendar names by one place, epithet or name of theirs and the other by another, as the official
+  // synaxarion, doxologia and the OCA's short lives tell (docs/PLAN.md): Antipa of Calapodești, born in Moldavia, was
+  // a monk at Valaam; St Ita of Ireland founded Killeedy; Alexie Șușania is the OCA's "Alexi (Shushania)" of Teklati;
+  // the OCA's "Philon, Bishop of Kolpasteia, Crete", who wrote on the Song of Songs, is Philo of Carpasia; Agapie of
+  // Colciu lived at the Kolitsa cell of Vatopedi; Luke of Mytilene, hanged there, was a monk of St Anne's Skete;
+  // Makarios of Pelekete is "Macarie Mărturisitorul", Isaac of Dalmatos "Isaachie Mărturisitorul"; the archimandrite
+  // Vadim was of Persia; John of Ioannina is the New Martyr John the New, of Epirus (not the John of Epirus of 1814); the Old Lavra ("Lavra Veche") is St Chariton's, in Palestine; Lupus
+  // of Novae, the servant of St Demetrius, was of Thessalonica; Hilarion of St Anne Skete was from Crete; Stephen the
+  // First-Crowned was the first crowned king of Serbia; John Koukouzelis and Moses Macinic are named so in the OCA's
+  // titles only in brackets; Demetrius of Basarabov is "Dimitrie cel Nou"; doxologia's "Pimen Iconarul" is the Pimen of
+  // Zographou; Paisios Velichkovsky was abbot of Neamț; Dionysius of Zakynthos was archbishop of Aegina; doxologia's
+  // "Savin, Episcopul Ciprului" is the OCA's "Sabinus, Bishop of Catania" (the same life; the official calendar has
+  // "Cuv. Savin Episcopul").
+  [/\bAntipa de la Calapode[șşs]ti\b/gu, "Antipa de la Calapodești și de la Valaam"],
+  [/\bHermitess of Killeedy\b/gu, "Hermitess of Killeedy, in Ireland"],
+  [/\bAlexei of Teklati\b/gu, "Alexei Shushania of Teklati"],
+  [/\bKolpasteia,? Crete\b/gu, "Carpasia"],
+  [/\bAgapie de la Colciu\b/gu, "Agapie de la Colciu, de la Vatoped"],
+  [/\bLuca din Mitilini\b/gu, "Luca din Mitilini, of Saint Anne’s Skete"],
+  [/\bMakarios, Igoumen of Pel[\p{L}\p{M}]*/gu, "Makarios the Confessor, Igoumen of Pelekete"],
+  [/\bIsaac, Founder of Dalm[aá]tos Monastery\b/gu, "Isaac the Confessor, Founder of Dalmatos Monastery"],
+  [/\bVadim, arhimandritul\b/gu, "Vadim, arhimandritul din Persia"],
+  [/\bIoan din Ianina\b/gu, "Ioan cel Nou din Ianina, of Epirus"],
+  [/\bde la Lavra Veche\b/giu, "of the Old Lavra in Palestine"],
+  [/\bLup din Nove\b/gu, "Lup din Nove, of Thessalonica"],
+  [/\bHilarion of Saint Anne Skete\b/gu, "Hilarion the Cretan, of Saint Anne Skete"],
+  [/(?<!\p{L})[ȘŞS]tefan [ÎI]nt[âa]i[îi]ncoronatul\b/gu, "Ștefan Întâiîncoronatul of Serbia"],
+  [/\bJohn the Hymnographer of Mount Athos\b/gu, "John Koukouzelis the Hymnographer of Mount Athos"],
+  [/\bMoise M[ăa]cinic\b/gu, "Moise Măcinic the Confessor"],
+  [/\bDemetrius of Basarabov\b/gu, "Demetrius the New of Basarabov"],
+  [/\bPimen Iconarul\b/gu, "Pimen Iconarul de la Zografu"],
+  [/\bPaisios Velichkovsky\b/gu, "Paisios Velichkovsky of Neamț"],
+  [/\bDionisie din Zakynthos\b/gu, "Dionisie din Zakynthos, of Aegina"],
+  [/\bNichita Romanul\b/gu, "Nichita Romanul, Gotul"],
+  [/\bSavin, Episcopul Ciprului\b/gu, "Savin, Episcopul Cataniei"],
 ];
+
+/** The text of a name, with the titles of TITLE_EPITHETS written as the epithets and places they stand for. */
+function described(part: NamePart): string {
+  let text = part.text;
+  for (const [re, word] of TITLE_EPITHETS) text = text.replace(re, word);
+  return text;
+}
 
 /** Normalised extra words of a name, for comparison across languages. */
 export function extraKeys(part: NamePart): string[] {
-  let text = part.text;
-  for (const [re, word] of TITLE_EPITHETS) text = text.replace(re, word);
-  return text
+  return described(part)
     .split(/[\s,()]+/)
     .slice(1)
     .map((w) => fold(w).replace(/[^a-z-]/g, ""))
@@ -257,8 +354,25 @@ export function extraKeys(part: NamePart): string[] {
 
 const STOP = new Set([
   "din", "de", "la", "cel", "cea", "cei", "cele", "si", "al", "ale", "ai", "lui", "in", "cu", "pe", "sa", "lor", "sau", "ca", "dupa", "the", "of", "and", "at", "near", "from", "by", "with", "who", "on", "to", "his", "her", "their", "saint", "holy",
-  "episcopul", "episcop", "arhiepiscopul", "arhiepiscop", "mitropolitul", "patriarhul", "bishop", "archbishop", "metropolitan", "patriarch", "pope", "papa", "abbot", "igumen", "egumenul", "monk", "nun", "deacon", "diaconul", "presbyter", "preotul", "priest", "virgin", "fecioara", "martyr", "mucenic", "venerable", "cuvios", "founder", "ctitorul", "disciple", "ucenicul", "mother", "mama", "wife", "sotia", "sister", "sora", "brother", "fratele", "monastery", "manastirea", "manastirii", "mount", "muntele", "city", "orasul", "lavra", "caves", "pesterile", "near", "langa", "church", "biserica", "all", "first", "intai", "sfantul", "sfanta", "sfintilor", "sfantului", "sf",
+  "episcopul", "episcop", "arhiepiscopul", "arhiepiscop", "mitropolitul", "patriarhul", "bishop", "archbishop", "metropolitan", "patriarch", "pope", "papa", "abbot", "igumen", "egumenul", "monk", "monahul", "nun", "deacon", "diaconul", "archdeacon", "arhidiaconul", "presbyter", "preotul", "priest", "virgin", "fecioara", "martyr", "mucenic", "venerable", "cuvios", "founder", "ctitorul", "disciple", "ucenicul", "mother", "mama", "wife", "sotia", "sister", "sora", "brother", "fratele", "monastery", "manastirea", "manastirii", "mount", "muntele", "city", "orasul", "lavra", "caves", "pesterile", "near", "langa", "church", "biserica", "all", "first", "intai", "sfantul", "sfanta", "sfintilor", "sfantului", "sf",
 ]);
+
+/**
+ * Whether two extra keys of two names say the same: alike, or an epithet and the key of the place it names. The place
+ * of an epithet is in a Romanian genitive a key of its own ("Miron, Episcopul Cretei" / "Myron, Bishop of Crete",
+ * "Atanasie, Arhiepiscopul Alexandriei" / "Athanasius, Archbishop of Alexandria"), so that the full names of one
+ * language keep apart the saints they told apart ("Andrei Criteanul, Arhiepiscopul Cretei", the hierarch of 4 July, is
+ * not "Andrei din Creta", the monastic martyr of 17 October).
+ */
+function keysMatch(x: string, y: string): boolean {
+  if (x === y) return true;
+  const ex = x.startsWith("=");
+  const ey = y.startsWith("=");
+  if (!ex && !ey) return nameSimilarity(x, y) >= 0.75 || commonPrefix(x, y) >= 3;
+  if (ex && ey) return false;
+  const place = skeleton((ex ? x : y).slice(1));
+  return place.length >= 3 && place === (ex ? y : x);
+}
 
 /** How well two names designate the same person, from 0 to about 1.4. */
 export function personScore(a: NamePart, b: NamePart, crossLanguage: boolean): number {
@@ -268,7 +382,7 @@ export function personScore(a: NamePart, b: NamePart, crossLanguage: boolean): n
   const eb = extraKeys(b);
   let overlap = 0;
   for (const x of ea) {
-    if (eb.some((y) => x === y || (!x.startsWith("=") && !y.startsWith("=") && (nameSimilarity(x, y) >= 0.75 || commonPrefix(x, y) >= 3)))) overlap++;
+    if (eb.some((y) => keysMatch(x, y))) overlap++;
   }
   let score = g + 0.2 * Math.min(overlap, 2);
   // Across languages the sources describe a saint in different ways: the OCA names
@@ -360,8 +474,9 @@ export function firstOfList(names: NamePart[]): NamePart | undefined {
 export function placeKeys(part: NamePart): string[] {
   const out: string[] = [];
   const re = new RegExp(PLACE);
+  const text = described(part);
   let m: RegExpExecArray | null;
-  while ((m = re.exec(part.text))) {
+  while ((m = re.exec(text))) {
     for (const w of (m[1] ?? "").split(/\s+/)) {
       const f = fold(w).replace(/[^a-z]/g, "");
       if (f.length > 2 && !STOP.has(f)) out.push(skeleton(placeName(f)));
@@ -369,7 +484,7 @@ export function placeKeys(part: NamePart): string[] {
   }
   // The see of a bishop, in the Romanian genitive: "Episcopul Ciprului", "Patriarhul Ierusalimului".
   const see = /\b(?:arhi)?episcop(?:ul)?\s+(?:al\s+|de\s+)?(\p{Lu}[\p{L}-]*)|\b(?:mitropolitul|patriarhul|papa)\s+(\p{Lu}[\p{L}-]*)/giu;
-  while ((m = see.exec(part.text))) {
+  while ((m = see.exec(text))) {
     const word = fold(m[1] ?? m[2] ?? "")
       .replace(/[^a-z]/g, "")
       .replace(/(ului|iei|ei|lor|ilor|ii)$/, "");

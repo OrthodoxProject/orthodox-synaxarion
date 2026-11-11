@@ -6,9 +6,20 @@
     "venerable"
   ],
   "external_ids": {
+    "doxologia": "sfanta-cuvioasa-melania-romana",
     "oca": "103701"
   },
   "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-melania-romana",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/odovania-praznicului-nasterii-domnului-%e2%80%a0-sf-mc-hermes-sf-cuv-melania-romana-slujba-la-cumpana-dintre-ani/",
+      "accessed": "2026-11-08"
+    },
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/12/31/103701-venerable-melania-the-younger-of-rome",
@@ -17,9 +28,12 @@
   ],
   "editorial": {
     "status": "draft",
-    "confidence": "low",
+    "confidence": "medium",
     "notes": [
-      "Importat automat din oca.org; de verificat."
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "melania-romana"
+  ]
 }

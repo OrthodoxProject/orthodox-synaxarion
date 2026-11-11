@@ -2,22 +2,25 @@
   "id": "makarios",
   "locale": "ro",
   "names": {
-    "display": "Sf. Cuv. Macarie, egumenul de la Pelechete",
-    "full": "Sfântul Cuvios Macarie, egumenul de la Pelechete",
-    "short": "Macarie, egumenul de la Pelechete",
+    "display": "Sf. Cuv. Macarie Mărturisitorul",
+    "full": "Sfântul Cuvios Macarie Mărturisitorul",
+    "short": "Macarie Mărturisitorul",
     "given": "Macarie"
   },
   "references": [
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/04/01/100967-venerable-makarios-igoumen-of-pelket",
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-macarie-marturisitorul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-maria-egipteanca-sf-cuv-macarie-marturisitorul-sf-mc-gherontie-sf-cuv-varsanufie-de-la-optina/",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "en",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

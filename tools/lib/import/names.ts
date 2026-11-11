@@ -37,7 +37,9 @@ const EQUIVALENTS: string[][] = [
   ["iacob", "iacov", "james", "jacob", "iakovos", "yakov"],
   ["pavel", "paul", "pavlos", "paulus"],
   ["mihail", "michael", "mihai", "mikhail"],
-  ["ilie", "elijah", "elias", "ilia", "ilya"],
+  // The OCA names Metropolitan Ilie Iorest of Transylvania by his monastic name only: "Saint Iorest, Metropolitan of
+  // Ardeal, Confessor of Romania" (24 April; "received the name Elias at Holy Baptism").
+  ["ilie", "elijah", "elias", "ilia", "ilya", "iorest"],
   ["vasile", "basil", "vasilios", "basilius", "vasily", "vasilije"],
   ["gheorghe", "george", "georgios", "georgy", "georgije", "giorgi"],
   ["dimitrie", "demetrius", "dimitrios", "dmitry", "dimitrije"],

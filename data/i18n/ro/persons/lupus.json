@@ -2,22 +2,28 @@
   "id": "lupus",
   "locale": "ro",
   "names": {
-    "display": "Sf. Mc. Lup, robul Sf. Dimitrie din Tesalonic",
-    "full": "Sfântul Mucenic Lup, robul Sfântului Dimitrie din Tesalonic",
-    "short": "Lup, robul Sf. Dimitrie din Tesalonic",
-    "given": "Lup"
+    "display": "Sf. Mc. Lup din Nove",
+    "full": "Sfântul Mucenic Lup din Nove",
+    "short": "Lup din Nove",
+    "given": "Lup",
+    "variants": [
+      "Sf. Mc. Lup"
+    ]
   },
   "references": [
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/08/23/102378-martyr-lupus-slave-of-saint-demetrius-of-thessalonica",
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-lup-din-nove",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/odovania-praznicului-adormirii-maicii-domnului-%e2%80%a0-sf-mc-lup-sf-sfintit-mc-irineu-episcop-de-lugdunum-duminica-a-12-a-dupa-rusalii-ap-1-corinteni-15-1-11-ev-matei-19-16-26-tanarul/",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "en",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

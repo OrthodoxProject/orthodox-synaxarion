@@ -2,22 +2,20 @@
   "id": "barlaam-of-khutyn",
   "locale": "ro",
   "names": {
-    "display": "Sf. Cuv. Varlaam, egumenul de la Hutin, Novgorod",
-    "full": "Sfântul Cuvios Varlaam, egumenul de la Hutin, Novgorod",
-    "short": "Varlaam, egumenul de la Hutin, Novgorod",
+    "display": "Sf. Varlaam Hutinski",
+    "full": "Sfântul Varlaam Hutinski",
+    "short": "Varlaam Hutinski",
     "given": "Varlaam"
   },
   "references": [
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/11/06/103186-venerable-barlaam-abbot-of-khutyn-novgorod",
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-varlaam-hutinski",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "en",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

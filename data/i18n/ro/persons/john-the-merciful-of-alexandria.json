@@ -5,19 +5,25 @@
     "display": "Sf. Ier. Ioan cel Milostiv, Patriarhul Alexandriei",
     "full": "Sfântul Ierarh Ioan cel Milostiv, Patriarhul Alexandriei",
     "short": "Ioan cel Milostiv, Patriarhul Alexandriei",
-    "given": "Ioan"
+    "given": "Ioan",
+    "variants": [
+      "Sf. Ier. Ioan cel Milostiv, patriarhul Alexandriei"
+    ]
   },
   "references": [
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/11/12/103286-saint-john-the-merciful-patriarch-of-alexandria",
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-ioan-cel-milostiv-patriarhul-alexandriei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-martiri-si-marturisitori-nasaudeni-atanasie-todoran-din-bichigiu-vasile-din-mocod-grigorie-din-zagra-si-vasile-din-telciu-sf-ier-ioan-cel-milostiv-patriarhul-alexandriei-sf-cu/",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "en",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

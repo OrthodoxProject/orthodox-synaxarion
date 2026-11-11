@@ -6,9 +6,15 @@
     "hierarch"
   ],
   "external_ids": {
+    "doxologia": "sfantul-ierarh-savin-episcopul-ciprului",
     "oca": "102978"
   },
   "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-savin-episcopul-ciprului",
+      "accessed": "2026-11-08"
+    },
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/10/15/102978-saint-sabinus-bishop-of-catania",
@@ -17,10 +23,13 @@
   ],
   "editorial": {
     "status": "draft",
-    "confidence": "low",
+    "confidence": "medium",
     "notes": [
-      "Importat automat din oca.org; de verificat.",
-      "Genul nu reiese din sursă; e de verificat."
+      "Importat automat din doxologia.ro, oca.org; de verificat.",
+      "Doxologia îl numește „Episcopul Ciprului”; OCA îl dă episcop al Cataniei, în Sicilia, cu aceeași viață (minuni, darul înainte-vederii, s-a odihnit în pace), iar calendarul oficial scrie doar „Cuv. Savin Episcopul”."
     ]
-  }
+  },
+  "aliases": [
+    "savin-of-cipr"
+  ]
 }

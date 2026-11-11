@@ -2,22 +2,20 @@
   "id": "philon-of-kolpasteia",
   "locale": "ro",
   "names": {
-    "display": "Sf. Ier. Filon, Episcopul de Kolpasteia, Creta",
-    "full": "Sfântul Ierarh Filon, Episcopul de Kolpasteia, Creta",
-    "short": "Filon, Episcopul de Kolpasteia, Creta",
+    "display": "Sf. Ier. Filon, episcopul Carpasiei",
+    "full": "Sfântul Ierarh Filon, episcopul Carpasiei",
+    "short": "Filon, episcopul Carpasiei",
     "given": "Filon"
   },
   "references": [
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/01/24/109037-saint-philon-bishop-of-kolpasteia-crete",
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-filon-episcopul-carpasiei",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "en",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

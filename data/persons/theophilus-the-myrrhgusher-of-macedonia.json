@@ -6,9 +6,15 @@
     "venerable"
   ],
   "external_ids": {
+    "doxologia": "sfantul-cuvios-teofil-izvoratorul-de-mir",
     "oca": "108015"
   },
   "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-teofil-izvoratorul-de-mir",
+      "accessed": "2026-11-08"
+    },
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/07/08/108015-venerable-theophilus-the-myrrhgusher-of-macedonia",
@@ -17,10 +23,12 @@
   ],
   "editorial": {
     "status": "draft",
-    "confidence": "low",
+    "confidence": "medium",
     "notes": [
-      "Importat automat din oca.org; de verificat.",
-      "Genul nu reiese din sursă; e de verificat."
+      "Importat automat din doxologia.ro, oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "teofil"
+  ]
 }

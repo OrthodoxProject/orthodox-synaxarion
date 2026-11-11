@@ -2,22 +2,20 @@
   "id": "theodosius-of-kiev-far",
   "locale": "ro",
   "names": {
-    "display": "Sf. Cuv. Teodosie, egumenul de la Peșterile Depărtate din Kiev și întemeietorul monahismului de obște în Rusia",
-    "full": "Sfântul Cuvios Teodosie, egumenul de la Peșterile Depărtate din Kiev și întemeietorul monahismului de obște în Rusia",
-    "short": "Teodosie, egumenul de la Peșterile Depărtate din Kiev și întemeietorul monahismului de obște în Rusia",
+    "display": "Sf. Cuv. Teodosie de la Lavra Pecerska",
+    "full": "Sfântul Cuvios Teodosie de la Lavra Pecerska",
+    "short": "Teodosie de la Lavra Pecerska",
     "given": "Teodosie"
   },
   "references": [
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/05/03/101280-venerable-theodosius-abbot-of-the-kiev-far-caves-monastery-and-f",
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-teodosie-de-la-lavra-pecerska",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "en",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

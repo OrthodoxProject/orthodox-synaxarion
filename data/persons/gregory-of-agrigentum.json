@@ -6,9 +6,20 @@
     "hierarch"
   ],
   "external_ids": {
+    "doxologia": "sfantul-ierarh-grigorie-episcopul-acragandandelor",
     "oca": "103376"
   },
   "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-grigorie-episcopul-acragandandelor",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-antonie-de-la-iezerul-valcii-sf-ier-amfilohie-episcopul-iconiei-si-grigorie-episcopul-acragandelor-dezlegare-la-peste/",
+      "accessed": "2026-11-08"
+    },
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/11/23/103376-saint-gregory-bishop-of-agrigentum",
@@ -17,10 +28,12 @@
   ],
   "editorial": {
     "status": "draft",
-    "confidence": "low",
+    "confidence": "medium",
     "notes": [
-      "Importat automat din oca.org; de verificat.",
-      "Genul nu reiese din sursă; e de verificat."
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "grigorie-of-acragandande"
+  ]
 }

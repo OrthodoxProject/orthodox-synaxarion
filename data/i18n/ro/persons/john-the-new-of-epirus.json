@@ -2,22 +2,20 @@
   "id": "john-the-new-of-epirus",
   "locale": "ro",
   "names": {
-    "display": "Sf. Noul Mc. Ioan cel Nou din Epir",
-    "full": "Sfântul Noul Mucenic Ioan cel Nou din Epir",
-    "short": "Ioan cel Nou din Epir",
+    "display": "Sf. Mc. Ioan din Ianina",
+    "full": "Sfântul Mucenic Ioan din Ianina",
+    "short": "Ioan din Ianina",
     "given": "Ioan"
   },
   "references": [
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/04/18/101143-new-martyr-john-the-new-of-epirus",
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-ioan-din-ianina",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "en",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

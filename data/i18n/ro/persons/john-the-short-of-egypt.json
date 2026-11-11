@@ -2,22 +2,20 @@
   "id": "john-the-short-of-egypt",
   "locale": "ro",
   "names": {
-    "display": "Sf. Cuv. Ioan cel Mic, din Egipt",
-    "full": "Sfântul Cuvios Ioan cel Mic, din Egipt",
-    "short": "Ioan cel Mic, din Egipt",
+    "display": "Sf. Cuv. Ioan Colov",
+    "full": "Sfântul Cuvios Ioan Colov",
+    "short": "Ioan Colov",
     "given": "Ioan"
   },
   "references": [
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/11/09/103258-venerable-john-the-short-of-egypt",
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-ioan-colov",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "en",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

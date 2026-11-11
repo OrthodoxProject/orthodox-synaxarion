@@ -2,22 +2,20 @@
   "id": "stephen-of-serbia",
   "locale": "ro",
   "names": {
-    "display": "Sf. Ștefan, regele Serbiei",
-    "full": "Sfântul Ștefan, regele Serbiei",
-    "short": "Ștefan, regele Serbiei",
+    "display": "Sf. Ștefan Întâiîncoronatul",
+    "full": "Sfântul Ștefan Întâiîncoronatul",
+    "short": "Ștefan Întâiîncoronatul",
     "given": "Ștefan"
   },
   "references": [
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/09/24/108948-holy-king-stephen-of-serbia",
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-stefan-intaiincoronatul",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "en",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

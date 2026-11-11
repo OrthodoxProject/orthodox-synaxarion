@@ -2,22 +2,25 @@
   "id": "john-of-the-ancient-caves-in-palestine",
   "locale": "ro",
   "names": {
-    "display": "Sf. Cuv. Ioan de la Lavra Veche din Palestina",
-    "full": "Sfântul Cuvios Ioan de la Lavra Veche din Palestina",
-    "short": "Ioan de la Lavra Veche din Palestina",
+    "display": "Sf. Cuv. Ioan de la Lavra Veche",
+    "full": "Sfântul Cuvios Ioan de la Lavra Veche",
+    "short": "Ioan de la Lavra Veche",
     "given": "Ioan"
   },
   "references": [
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/04/19/101146-venerable-john-of-the-ancient-caves-in-palestine",
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-ioan-de-la-lavra-veche",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-ioan-de-la-lavra-veche-sf-sfintit-mc-pafnutie-duminica-a-2-a-dupa-pasti-a-sf-apostol-toma-ap-fapte-5-12-20-ev-ioan-20-19-31-glas-1-voscr-1/",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "en",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

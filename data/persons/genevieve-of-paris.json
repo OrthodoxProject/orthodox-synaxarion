@@ -6,9 +6,15 @@
     "venerable"
   ],
   "external_ids": {
+    "doxologia": "sfanta-cuvioasa-genoveva-ocrotitoarea-parisului",
     "oca": "100015"
   },
   "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-genoveva-ocrotitoarea-parisului",
+      "accessed": "2026-11-08"
+    },
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/01/03/100015-venerable-genevieve-of-paris",
@@ -17,9 +23,12 @@
   ],
   "editorial": {
     "status": "draft",
-    "confidence": "low",
+    "confidence": "medium",
     "notes": [
-      "Importat automat din oca.org; de verificat."
+      "Importat automat din doxologia.ro, oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "genoveva"
+  ]
 }

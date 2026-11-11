@@ -2,22 +2,20 @@
   "id": "agapitus-the-unmercenary-physician-of-the-kiev",
   "locale": "ro",
   "names": {
-    "display": "Sf. Cuv. Agapit, doctorul fără de arginți, de la Peșterile Apropiate din Kiev",
-    "full": "Sfântul Cuvios Agapit, doctorul fără de arginți, de la Peșterile Apropiate din Kiev",
-    "short": "Agapit, doctorul fără de arginți, de la Peșterile Apropiate din Kiev",
+    "display": "Sf. Cuv. Agapit de la Lavra Pecerska",
+    "full": "Sfântul Cuvios Agapit de la Lavra Pecerska",
+    "short": "Agapit de la Lavra Pecerska",
     "given": "Agapit"
   },
   "references": [
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/06/01/101580-venerable-agapitus-the-unmercenary-physician-of-the-kiev-near-ca",
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-agapit-de-la-lavra-pecerska",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "en",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

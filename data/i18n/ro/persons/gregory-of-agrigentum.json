@@ -2,22 +2,25 @@
   "id": "gregory-of-agrigentum",
   "locale": "ro",
   "names": {
-    "display": "Sf. Ier. Grigorie, Episcopul Agrigentului",
-    "full": "Sfântul Ierarh Grigorie, Episcopul Agrigentului",
-    "short": "Grigorie, Episcopul Agrigentului",
+    "display": "Sf. Ier. Grigorie, Episcopul Acragandandelor",
+    "full": "Sfântul Ierarh Grigorie, Episcopul Acragandandelor",
+    "short": "Grigorie, Episcopul Acragandandelor",
     "given": "Grigorie"
   },
   "references": [
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/11/23/103376-saint-gregory-bishop-of-agrigentum",
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-grigorie-episcopul-acragandandelor",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-antonie-de-la-iezerul-valcii-sf-ier-amfilohie-episcopul-iconiei-si-grigorie-episcopul-acragandelor-dezlegare-la-peste/",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "en",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

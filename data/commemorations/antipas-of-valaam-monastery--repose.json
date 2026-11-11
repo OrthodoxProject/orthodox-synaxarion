@@ -14,6 +14,16 @@
   },
   "sources": [
     {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-antipa-de-la-calapodesti",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ier-grigorie-episcopul-nyssei-%e2%80%a0-sf-cuv-antipa-de-la-calapodesti-sf-ier-dometian-episcopul-melitinei/",
+      "accessed": "2026-11-08"
+    },
+    {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/01/10/100146-venerable-antipas-of-valaam-monastery",
       "accessed": "2026-11-08"
@@ -21,9 +31,12 @@
   ],
   "editorial": {
     "status": "draft",
-    "confidence": "low",
+    "confidence": "medium",
     "notes": [
-      "Importat automat din oca.org; de verificat."
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "antipa-of-calapodesti--repose"
+  ]
 }

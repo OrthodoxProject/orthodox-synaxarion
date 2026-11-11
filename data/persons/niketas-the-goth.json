@@ -6,9 +6,20 @@
     "great_martyr"
   ],
   "external_ids": {
+    "doxologia": "sfantul-mare-mucenic-nichita-romanul",
     "oca": "102615"
   },
   "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mare-mucenic-nichita-romanul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ier-iosif-cel-nou-de-la-partos-mitropolitul-banatului-%e2%80%a0-sf-mare-mc-nichita-%e2%80%a0-sf-ier-visarion-arhiepiscopul-larisei/",
+      "accessed": "2026-11-08"
+    },
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/09/15/102615-greatmartyr-niketas-the-goth",
@@ -17,10 +28,12 @@
   ],
   "editorial": {
     "status": "draft",
-    "confidence": "low",
+    "confidence": "medium",
     "notes": [
-      "Importat automat din oca.org; de verificat.",
-      "Genul nu reiese din sursă; e de verificat."
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "nichita-romanul"
+  ]
 }

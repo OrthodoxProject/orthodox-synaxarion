@@ -14,6 +14,11 @@
   },
   "sources": [
     {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-agapit-de-la-lavra-pecerska",
+      "accessed": "2026-11-08"
+    },
+    {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/06/01/101580-venerable-agapitus-the-unmercenary-physician-of-the-kiev-near-ca",
       "accessed": "2026-11-08"
@@ -26,12 +31,13 @@
   ],
   "editorial": {
     "status": "draft",
-    "confidence": "low",
+    "confidence": "medium",
     "notes": [
-      "Importat automat din oca.org; de verificat."
+      "Importat automat din doxologia.ro, oca.org, orthodox-calendar; de verificat."
     ]
   },
   "aliases": [
-    "agapitus-of-the-kiev-caves--repose"
+    "agapitus-of-the-kiev-caves--repose",
+    "agapit-of-lavra-pecerska--repose"
   ]
 }

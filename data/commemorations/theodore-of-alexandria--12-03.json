@@ -2,7 +2,7 @@
   "id": "theodore-of-alexandria--12-03",
   "kind": "repose",
   "subjects": [
-    "person:theodore-of-alexandria"
+    "person:teodor-of-alexandria"
   ],
   "date_rule": {
     "type": "fixed",
@@ -14,6 +14,11 @@
   },
   "sources": [
     {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-sfintit-mucenic-teodor-arhiepiscopul-alexandriei",
+      "accessed": "2026-11-08"
+    },
+    {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/12/03/103469-hieromartyr-theodore-archbishop-of-alexandria",
       "accessed": "2026-11-08"
@@ -21,9 +26,12 @@
   ],
   "editorial": {
     "status": "draft",
-    "confidence": "low",
+    "confidence": "medium",
     "notes": [
-      "Importat automat din oca.org; de verificat."
+      "Importat automat din doxologia.ro, oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "teodor-of-alexandria--repose"
+  ]
 }

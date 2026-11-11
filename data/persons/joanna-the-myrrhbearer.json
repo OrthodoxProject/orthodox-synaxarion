@@ -3,12 +3,23 @@
   "kind": "saint",
   "gender": "female",
   "holiness_types": [
-    "righteous"
+    "myrrhbearer"
   ],
   "external_ids": {
+    "doxologia": "sfanta-ioana-mironosita",
     "oca": "101827"
   },
   "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-ioana-mironosita",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-samson-primitorul-de-straini-sf-mironosita-ioana-dezlegare-la-peste/",
+      "accessed": "2026-11-08"
+    },
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/06/27/101827-saint-joanna-the-myrrhbearer",
@@ -17,10 +28,12 @@
   ],
   "editorial": {
     "status": "draft",
-    "confidence": "low",
+    "confidence": "medium",
     "notes": [
-      "Importat automat din oca.org; de verificat.",
-      "Chipul sfințeniei nu reiese din titlu; „righteous” e provizoriu."
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "ioana-mironosita"
+  ]
 }

@@ -2,22 +2,28 @@
   "id": "demetrius-of-basarabov",
   "locale": "ro",
   "names": {
-    "display": "Sf. Cuv. Dimitrie cel Nou din Basarabov",
-    "full": "Sfântul Cuvios Dimitrie cel Nou din Basarabov",
-    "short": "Dimitrie cel Nou din Basarabov",
-    "given": "Dimitrie"
+    "display": "Sf. Cuv. Dimitrie cel Nou, Ocrotitorul Bucureștilor",
+    "full": "Sfântul Cuvios Dimitrie cel Nou, Ocrotitorul Bucureștilor",
+    "short": "Dimitrie cel Nou, Ocrotitorul Bucureștilor",
+    "given": "Dimitrie",
+    "variants": [
+      "Sf. Cuv. Dimitrie cel Nou, Ocrotitorul Bucureștilor (ale cărui moaște se află în Catedrala Patriarhală)"
+    ]
   },
   "references": [
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/10/27/108027-saint-demetrius-of-basarabov",
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-dimitrie-cel-nou-ocrotitorul-bucurestilor-ale-carui-moaste-se-afla-catedrala",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-dimitrie-cel-nou-ocrotitorul-bucurestilor-ale-carui-moaste-se-afla-in-catedrala-patriarhala-sf-mc-nestor/",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "en",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

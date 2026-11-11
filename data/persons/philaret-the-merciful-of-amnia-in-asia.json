@@ -3,12 +3,23 @@
   "kind": "saint",
   "gender": "male",
   "holiness_types": [
-    "righteous"
+    "venerable"
   ],
   "external_ids": {
+    "doxologia": "sfantul-cuvios-filaret-cel-milostiv",
     "oca": "103453"
   },
   "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-filaret-cel-milostiv",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-anastasia-mama-sf-ier-andrei-saguna-sf-proroc-naum-sf-filaret-cel-milostiv-tedeum-dezlegare-la-peste/",
+      "accessed": "2026-11-08"
+    },
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/12/01/103453-righteous-philaret-the-merciful-of-amnia-in-asia-minor",
@@ -17,10 +28,12 @@
   ],
   "editorial": {
     "status": "draft",
-    "confidence": "low",
+    "confidence": "medium",
     "notes": [
-      "Importat automat din oca.org; de verificat.",
-      "Genul nu reiese din sursă; e de verificat."
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "filaret-the-milostiv"
+  ]
 }

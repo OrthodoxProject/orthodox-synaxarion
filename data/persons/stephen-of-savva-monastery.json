@@ -6,9 +6,20 @@
     "venerable"
   ],
   "external_ids": {
+    "doxologia": "sfantul-cuvios-stefan-savaitul-0",
     "oca": "102018"
   },
   "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-stefan-savaitul-0",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-aducerea-moastelor-sfantului-cuvios-dimitrie-cel-nou-la-bucuresti-soborul-sf-arhanghel-gavriil-sf-cuv-stefan-savaitul-sf-mc-maria-din-persia-sf-cuv-sara-duminica-a-5-a-dupa-rusali/",
+      "accessed": "2026-11-08"
+    },
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/07/13/102018-venerable-stephen-of-saint-savva-monastery",
@@ -17,10 +28,12 @@
   ],
   "editorial": {
     "status": "draft",
-    "confidence": "low",
+    "confidence": "medium",
     "notes": [
-      "Importat automat din oca.org; de verificat.",
-      "Genul nu reiese din sursă; e de verificat."
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "stefan-savaitul"
+  ]
 }

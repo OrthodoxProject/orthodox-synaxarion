@@ -2,22 +2,28 @@
   "id": "melania-the-younger-of-rome",
   "locale": "ro",
   "names": {
-    "display": "Sf. Cuv. Melania cea Tânără, din Roma",
-    "full": "Sfânta Cuvioasă Melania cea Tânără, din Roma",
-    "short": "Melania cea Tânără, din Roma",
-    "given": "Melania"
+    "display": "Sf. Cuv. Melania Romana",
+    "full": "Sfânta Cuvioasă Melania Romana",
+    "short": "Melania Romana",
+    "given": "Melania",
+    "variants": [
+      "Sf. Cuv. Melania Romana (Slujba la cumpăna dintre ani)"
+    ]
   },
   "references": [
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/12/31/103701-venerable-melania-the-younger-of-rome",
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-melania-romana",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/odovania-praznicului-nasterii-domnului-%e2%80%a0-sf-mc-hermes-sf-cuv-melania-romana-slujba-la-cumpana-dintre-ani/",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "en",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

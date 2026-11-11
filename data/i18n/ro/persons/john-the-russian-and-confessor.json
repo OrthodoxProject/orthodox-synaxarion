@@ -2,22 +2,25 @@
   "id": "john-the-russian-and-confessor",
   "locale": "ro",
   "names": {
-    "display": "Sf. Mărt. Ioan Rusul, ale cărui moaște se află în insula Evia",
-    "full": "Sfântul Mărturisitor Ioan Rusul, ale cărui moaște se află în insula Evia",
-    "short": "Ioan Rusul, ale cărui moaște se află în insula Evia",
+    "display": "Sf. Mărt. Ioan Rusul",
+    "full": "Sfântul Mărturisitor Ioan Rusul",
+    "short": "Ioan Rusul",
     "given": "Ioan"
   },
   "references": [
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/05/27/101545-saint-john-the-russian-and-confessor-whose-relics-are-on-the-isl",
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-marturisitor-ioan-rusul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-iuliu-veteranul-sf-sfintiti-mc-eladie-si-terapont-episcopul-sardei-sf-mart-ioan-rusul-dezlegare-la-peste/",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "en",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

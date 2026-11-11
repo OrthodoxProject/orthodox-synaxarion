@@ -2,22 +2,28 @@
   "id": "job-the-long-suffering",
   "locale": "ro",
   "names": {
-    "display": "Sf. Drept Iov cel mult-pătimitor",
-    "full": "Sfântul Drept Iov cel mult-pătimitor",
-    "short": "Iov cel mult-pătimitor",
-    "given": "Iov"
+    "display": "Sf. și Drept. Iov, mult răbdătorul",
+    "full": "Sfântul și Dreptul Iov, mult răbdătorul",
+    "short": "Iov, mult răbdătorul",
+    "given": "Iov",
+    "variants": [
+      "Sf. și Dreptul Iov, mult răbdătorul"
+    ]
   },
   "references": [
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/05/06/101301-righteous-job-the-long-suffering",
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-dreptul-iov-mult-rabdatorul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/injumatatirea-cincizecimii-sf-si-dreptul-iov-mult-rabdatorul-sf-mc-varvar-dezlegare-la-peste/",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "en",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

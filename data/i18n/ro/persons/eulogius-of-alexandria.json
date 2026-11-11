@@ -2,22 +2,28 @@
   "id": "eulogius-of-alexandria",
   "locale": "ro",
   "names": {
-    "display": "Sf. Ier. Evloghie, Arhiepiscopul Alexandriei",
-    "full": "Sfântul Ierarh Evloghie, Arhiepiscopul Alexandriei",
-    "short": "Evloghie, Arhiepiscopul Alexandriei",
-    "given": "Evloghie"
+    "display": "Sf. Ier. Evloghie, Patriarhul Alexandriei",
+    "full": "Sfântul Ierarh Evloghie, Patriarhul Alexandriei",
+    "short": "Evloghie, Patriarhul Alexandriei",
+    "given": "Evloghie",
+    "variants": [
+      "Sf. Ier. Evloghie, patriarhul Alexandriei"
+    ]
   },
   "references": [
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/02/13/100517-saint-eulogius-archbishop-of-alexandria",
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-evloghie-patriarhul-alexandriei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-martinian-sf-ap-acvila-si-sotia-sa-priscila-sf-ier-evloghie-patriarhul-alexandriei/",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "en",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

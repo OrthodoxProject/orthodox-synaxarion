@@ -6,9 +6,20 @@
     "venerable"
   ],
   "external_ids": {
+    "doxologia": "sfanta-cuvioasa-casiana-imnografa",
     "oca": "100454"
   },
   "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-cuvioasa-casiana-imnografa",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/inainte-praznuirea-nasterii-maicii-domnului-%e2%80%a0-sf-cuv-simeon-si-amfilohie-de-la-pangarati-sf-mc-sozont-sf-cuv-casiana-imnografa-duminica-dinaintea-inaltarii-sfintei-cruci-ap-gal/",
+      "accessed": "2026-11-08"
+    },
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/09/07/100454-venerable-cassiani-the-hymnographer",
@@ -17,9 +28,12 @@
   ],
   "editorial": {
     "status": "draft",
-    "confidence": "low",
+    "confidence": "medium",
     "notes": [
-      "Importat automat din oca.org; de verificat."
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "casiana-imnografa"
+  ]
 }

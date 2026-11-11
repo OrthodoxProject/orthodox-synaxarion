@@ -1,10 +1,19 @@
 {
   "id": "saints-of-the-kiev-caves-whose-relics-repose-in",
   "kind": "synaxis",
+  "holiness_types": [
+    "venerable"
+  ],
   "external_ids": {
+    "doxologia": "soborul-sfintilor-cuviosi-din-lavra-pecerska-cu-moaste-pesterile-de-departe",
     "oca": "102418"
   },
   "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/soborul-sfintilor-cuviosi-din-lavra-pecerska-cu-moaste-pesterile-de-departe",
+      "accessed": "2026-11-08"
+    },
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/08/28/102418-synaxis-of-the-saints-of-the-kiev-caves-whose-relics-repose-in-t",
@@ -13,9 +22,12 @@
   ],
   "editorial": {
     "status": "draft",
-    "confidence": "low",
+    "confidence": "medium",
     "notes": [
-      "Importat automat din oca.org; de verificat."
+      "Importat automat din doxologia.ro, oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "venerable-of-lavra-pecerska-cu-moaste-in-pesterile"
+  ]
 }

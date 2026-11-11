@@ -4,6 +4,12 @@
   "entries": [
     {
       "commemorations": [
+        "comm:athanasius-the-great-of-alexandria--repose"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
         "comm:cyril-of-alexandria--repose"
       ],
       "confidence": "low"
@@ -12,6 +18,12 @@
       "commemorations": [
         "comm:maximus-the-new--repose"
       ]
+    },
+    {
+      "commemorations": [
+        "comm:alexei-of-teklati--repose"
+      ],
+      "confidence": "low"
     }
   ]
 }

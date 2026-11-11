@@ -6,9 +6,15 @@
     "hierarch"
   ],
   "external_ids": {
+    "doxologia": "sfantul-ierarh-grigorie-arhiepiscopul-alexandriei",
     "oca": "103184"
   },
   "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-grigorie-arhiepiscopul-alexandriei",
+      "accessed": "2026-11-08"
+    },
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/11/05/103184-saint-gregory-archbishop-of-alexandria",
@@ -17,10 +23,12 @@
   ],
   "editorial": {
     "status": "draft",
-    "confidence": "low",
+    "confidence": "medium",
     "notes": [
-      "Importat automat din oca.org; de verificat.",
-      "Genul nu reiese din sursă; e de verificat."
+      "Importat automat din doxologia.ro, oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "grigorie-of-alexandria"
+  ]
 }

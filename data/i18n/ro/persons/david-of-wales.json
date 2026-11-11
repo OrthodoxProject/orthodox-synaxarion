@@ -2,22 +2,20 @@
   "id": "david-of-wales",
   "locale": "ro",
   "names": {
-    "display": "Sf. Ier. David, Episcopul Țării Galilor",
-    "full": "Sfântul Ierarh David, Episcopul Țării Galilor",
-    "short": "David, Episcopul Țării Galilor",
+    "display": "Sf. David, ocrotitorul Țării Galilor",
+    "full": "Sfântul David, ocrotitorul Țării Galilor",
+    "short": "David, ocrotitorul Țării Galilor",
     "given": "David"
   },
   "references": [
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/03/01/103905-saint-david-bishop-of-wales",
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-david-ocrotitorul-tarii-galilor",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "en",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

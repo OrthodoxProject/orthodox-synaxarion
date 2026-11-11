@@ -9,15 +9,18 @@
   },
   "references": [
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/12/05/103477-venerable-savva-the-sanctified",
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-sava-cel-sfintit",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-sava-cel-sfintit-dezlegare-la-peste/",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "en",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

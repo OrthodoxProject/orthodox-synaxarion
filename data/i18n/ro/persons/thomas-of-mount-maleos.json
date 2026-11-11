@@ -2,22 +2,25 @@
   "id": "thomas-of-mount-maleos",
   "locale": "ro",
   "names": {
-    "display": "Sf. Cuv. Toma de la Muntele Maleos",
-    "full": "Sfântul Cuvios Toma de la Muntele Maleos",
-    "short": "Toma de la Muntele Maleos",
+    "display": "Sf. Cuv. Toma din Maleon",
+    "full": "Sfântul Cuvios Toma din Maleon",
+    "short": "Toma din Maleon",
     "given": "Toma"
   },
   "references": [
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/07/07/101843-venerable-thomas-of-mount-maleos",
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-toma-din-maleon",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-mare-mc-chiriachi-sf-cuv-toma-din-maleon-sf-mc-evanghel/",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "en",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

@@ -235,8 +235,11 @@ export class RecordWriter {
         score = Math.max(score, personScore(part, name.part, false), brought && knownByPlace(name.part) ? personScore(brought, name.part, false) : 0);
         compared = name;
       }
-      // Through the other language only when the kind of holiness agrees exactly.
-      if (other && !name && holiness.size > 0 && sameCategory(holiness, slot.holiness)) {
+      // Through the other language only when the kind of holiness agrees exactly, or for a saint that another line keeps
+      // on the line's own day: the OCA's "Finding of the relics of Saint Gamaliel" (2 August) names no kind of holiness,
+      // and is the "Dreptul Gamaliel" of the Romanian calendar that day, not "Martyr Gemellus of Paphlagonia" (10 December).
+      const keptThatDay = day !== undefined && this.keptOn.get(slot)?.has(day) === true;
+      if (other && !name && ((holiness.size > 0 && sameCategory(holiness, slot.holiness)) || keptThatDay)) {
         score = Math.max(score, personScore(part, other.part, true));
         compared = other;
       }

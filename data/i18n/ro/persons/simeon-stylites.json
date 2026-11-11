@@ -2,22 +2,25 @@
   "id": "simeon-stylites",
   "locale": "ro",
   "names": {
-    "display": "Sf. Cuv. Simeon Stâlpnicul cel Bătrân",
-    "full": "Sfântul Cuvios Simeon Stâlpnicul cel Bătrân",
-    "short": "Simeon Stâlpnicul cel Bătrân",
+    "display": "Sf. Cuv. Simeon Stâlpnicul",
+    "full": "Sfântul Cuvios Simeon Stâlpnicul",
+    "short": "Simeon Stâlpnicul",
     "given": "Simeon"
   },
   "references": [
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/09/01/102448-saint-simeon-stylites-the-elder",
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-simeon-stalpnicul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-inceputul-anului-bisericesc-%e2%80%a0-sf-cuv-dionisie-exiguul-sf-cuv-simeon-stalpnicul-sf-40-de-mucenite-din-adrianopol-dreptul-iosua-tedeum/",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "en",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

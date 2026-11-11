@@ -6,9 +6,20 @@
     "hieromartyr"
   ],
   "external_ids": {
+    "doxologia": "sfantul-sfintit-mucenic-irineu-episcopul-de-lugdunum",
     "oca": "102379"
   },
   "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-sfintit-mucenic-irineu-episcopul-de-lugdunum",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/odovania-praznicului-adormirii-maicii-domnului-%e2%80%a0-sf-mc-lup-sf-sfintit-mc-irineu-episcop-de-lugdunum-duminica-a-12-a-dupa-rusalii-ap-1-corinteni-15-1-11-ev-matei-19-16-26-tanarul/",
+      "accessed": "2026-11-08"
+    },
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/08/23/102379-hieromartyr-irenaeus-bishop-of-lyons",
@@ -17,10 +28,12 @@
   ],
   "editorial": {
     "status": "draft",
-    "confidence": "low",
+    "confidence": "medium",
     "notes": [
-      "Importat automat din oca.org; de verificat.",
-      "Genul nu reiese din sursă; e de verificat."
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "irineu-of-lugdunum"
+  ]
 }

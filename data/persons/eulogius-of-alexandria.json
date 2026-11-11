@@ -6,9 +6,20 @@
     "hierarch"
   ],
   "external_ids": {
+    "doxologia": "sfantul-ierarh-evloghie-patriarhul-alexandriei",
     "oca": "100517"
   },
   "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-evloghie-patriarhul-alexandriei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-martinian-sf-ap-acvila-si-sotia-sa-priscila-sf-ier-evloghie-patriarhul-alexandriei/",
+      "accessed": "2026-11-08"
+    },
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/02/13/100517-saint-eulogius-archbishop-of-alexandria",
@@ -17,10 +28,12 @@
   ],
   "editorial": {
     "status": "draft",
-    "confidence": "low",
+    "confidence": "medium",
     "notes": [
-      "Importat automat din oca.org; de verificat.",
-      "Genul nu reiese din sursă; e de verificat."
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "evloghie-of-alexandria"
+  ]
 }

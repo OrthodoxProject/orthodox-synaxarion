@@ -5,19 +5,25 @@
     "display": "Sf. Ioana Mironosița",
     "full": "Sfânta Ioana Mironosița",
     "short": "Ioana Mironosița",
-    "given": "Ioana"
+    "given": "Ioana",
+    "variants": [
+      "Sf. Mironosiță Ioana"
+    ]
   },
   "references": [
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/06/27/101827-saint-joanna-the-myrrhbearer",
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-ioana-mironosita",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-samson-primitorul-de-straini-sf-mironosita-ioana-dezlegare-la-peste/",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "en",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

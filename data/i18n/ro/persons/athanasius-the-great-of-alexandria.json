@@ -2,27 +2,25 @@
   "id": "athanasius-the-great-of-alexandria",
   "locale": "ro",
   "names": {
-    "display": "Sf. Ier. Atanasie cel Mare, Arhiepiscopul Alexandriei",
-    "full": "Sfântul Ierarh Atanasie cel Mare, Arhiepiscopul Alexandriei",
-    "short": "Atanasie cel Mare, Arhiepiscopul Alexandriei",
+    "display": "Sf. Ier. Atanasie, Arhiepiscopul Alexandriei",
+    "full": "Sfântul Ierarh Atanasie, Arhiepiscopul Alexandriei",
+    "short": "Atanasie, Arhiepiscopul Alexandriei",
     "given": "Atanasie"
   },
   "references": [
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/01/18/100219-saint-athanasius-the-great-archbishop-of-alexandria",
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-atanasie-arhiepiscopul-alexandriei",
       "accessed": "2026-11-08"
     },
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/05/02/101269-saint-athanasius-the-great-patriarch-of-alexandria",
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ier-atanasie-si-chiril-arhiepiscopii-alexandriei/",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "en",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

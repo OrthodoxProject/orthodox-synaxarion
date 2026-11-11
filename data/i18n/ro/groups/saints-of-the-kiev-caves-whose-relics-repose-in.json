@@ -2,19 +2,17 @@
   "id": "saints-of-the-kiev-caves-whose-relics-repose-in",
   "locale": "ro",
   "names": {
-    "display": "Sfinții din Lavra Peșterilor de la Kiev, ale căror moaște odihnesc în Peșterile Îndepărtate ale Sf. Cuv. Teodosie"
+    "display": "Sfinții Cuvioși din Lavra Pecerska cu moaște în „Peșterile de Departe”"
   },
   "references": [
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/08/28/102418-synaxis-of-the-saints-of-the-kiev-caves-whose-relics-repose-in-t",
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/soborul-sfintilor-cuviosi-din-lavra-pecerska-cu-moaste-pesterile-de-departe",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "en",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

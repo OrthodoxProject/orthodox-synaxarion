@@ -2,22 +2,20 @@
   "id": "dionysius-of-aegina",
   "locale": "ro",
   "names": {
-    "display": "Sf. Cuv. Dionisie din Eghina",
-    "full": "Sfântul Cuvios Dionisie din Eghina",
-    "short": "Dionisie din Eghina",
+    "display": "Sf. Ier. Dionisie din Zakynthos",
+    "full": "Sfântul Ierarh Dionisie din Zakynthos",
+    "short": "Dionisie din Zakynthos",
     "given": "Dionisie"
   },
   "references": [
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/12/17/103564-venerable-dionysius-of-aegina",
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-dionisie-din-zakynthos",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "en",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

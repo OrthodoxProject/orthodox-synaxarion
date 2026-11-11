@@ -14,6 +14,16 @@
   },
   "sources": [
     {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-paisie-de-la-neamt",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-paisie-de-la-neamt-sf-mc-si-marturisitori-gurie-samona-si-aviv-diaconul-inceputul-postului-nasterii-domnului-duminica-a-25-a-dupa-rusalii-ap-efeseni-4-1-7-ev-luca-10/",
+      "accessed": "2026-11-08"
+    },
+    {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/11/15/103311-venerable-paisios-velichkovsky",
       "accessed": "2026-11-08"
@@ -30,9 +40,12 @@
   ],
   "editorial": {
     "status": "draft",
-    "confidence": "low",
+    "confidence": "medium",
     "notes": [
-      "Importat automat din oca.org, orthodox-calendar, Wikipedia; de verificat."
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org, orthodox-calendar, Wikipedia; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "paisie-of-neamt--repose"
+  ]
 }

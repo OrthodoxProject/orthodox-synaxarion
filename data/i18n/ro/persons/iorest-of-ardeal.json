@@ -2,22 +2,25 @@
   "id": "iorest-of-ardeal",
   "locale": "ro",
   "names": {
-    "display": "Sf. Ier. Mărt. Ilie Iorest, Mitropolitul Ardealului",
-    "full": "Sfântul Ierarh Mărturisitor Ilie Iorest, Mitropolitul Ardealului",
-    "short": "Ilie Iorest, Mitropolitul Ardealului",
+    "display": "Sf. Ier. Mărt. Ilie Iorest, Mitropolitul Transilvaniei",
+    "full": "Sfântul Ierarh Mărturisitor Ilie Iorest, Mitropolitul Transilvaniei",
+    "short": "Ilie Iorest, Mitropolitul Transilvaniei",
     "given": "Ilie"
   },
   "references": [
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/04/24/101200-saint-iorest-metropolitan-of-ardeal-confessor-of-romania",
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-marturisitor-ilie-iorest-mitropolitul-transilvaniei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ierarhi-ilie-iorest-simion-stefan-si-sava-brancovici-mitropolitii-transilvaniei-sf-ier-iosif-marturisitorul-din-maramures-sf-mc-pasicrat-si-valentin-sf-cuv-elisabeta-dezlega/",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "en",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

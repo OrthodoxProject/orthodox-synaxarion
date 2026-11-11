@@ -6,9 +6,20 @@
     "hieromartyr"
   ],
   "external_ids": {
+    "doxologia": "sfantul-sfintit-mucenic-dorotei-episcopul-tirului",
     "oca": "101610"
   },
   "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-sfintit-mucenic-dorotei-episcopul-tirului",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-elisabeta-de-la-pasarea-sf-sfintit-mc-dorotei-episcopul-tirului-harti/",
+      "accessed": "2026-11-08"
+    },
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/06/05/101610-hieromartyr-dorotheus-bishop-of-tyre",
@@ -17,10 +28,12 @@
   ],
   "editorial": {
     "status": "draft",
-    "confidence": "low",
+    "confidence": "medium",
     "notes": [
-      "Importat automat din oca.org; de verificat.",
-      "Genul nu reiese din sursă; e de verificat."
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "dorotei-of-tir"
+  ]
 }

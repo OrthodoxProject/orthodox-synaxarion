@@ -9,15 +9,18 @@
   },
   "references": [
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/03/17/100822-venerable-alexis-the-man-of-god",
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-alexie-omul-lui-dumnezeu",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-alexie-omul-lui-dumnezeu/",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "en",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

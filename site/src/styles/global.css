@@ -188,21 +188,9 @@ main {
   padding: 0.25rem 0;
 }
 
-.lines .major > a,
-.lines .major > span:not(.symbol) {
+.lines .major > a {
   font-weight: 700;
   color: var(--accent);
-}
-
-.sublinks {
-  display: block;
-  font-size: 0.88rem;
-  padding-left: 1.4rem;
-}
-
-.sublinks a + a::before {
-  content: " · ";
-  color: var(--muted);
 }
 
 .symbol {

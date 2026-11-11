@@ -96,7 +96,7 @@ O linie din calendar are una sau mai multe pomeniri tipărite împreună, plus s
 ```
 
 - `symbol` trimite la `symbol_legend` din `tradition.json` (glifa și culoarea). Etichetele semnelor stau în `i18n/<limbă>/traditions/<id>.json`, la `symbols`.
-- Titlul oficial al liniei (ex. *Sf. Cuv. Ioan Casian și Gherman, din Dobrogea*) stă în același fișier de limbă, la `official_titles`, sub cheia primei pomeniri. E un citat: îl păstrăm cum îl tipărește Biserica, cu diacriticele corectate.
+- Titlul oficial al liniei (ex. *Sf. Cuv. Ioan Casian și Gherman, din Dobrogea*) stă în același fișier de limbă, la `official_titles`, sub cheia primei pomeniri. E un citat: îl păstrăm cum îl tipărește Biserica, cu diacriticele corectate. Site-ul îl arată în calendarul lunii, în zilele următoare de pe pagina de azi și în fișierele ICS. În lista sfinților zilei (pagina zilei și pagina de azi) îl arată doar pe rândurile cu o singură pomenire: un rând cu mai multe pomeniri are acolo câte un link pentru fiecare, despărțite prin „; ”.
 - `overrides/<an>.json` adună fapte din calendarul oficial pe un an (lecturi, glas, voscresnă, post, numărul duminicii, zile libere). Sunt datele de control pentru calculul calendarului.
 
 ## Limbi

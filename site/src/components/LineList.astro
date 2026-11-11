@@ -20,8 +20,6 @@ const MAJOR = new Set(["great_feast", "feast_of_feasts"]);
     lines.map((line) => {
       const comms = line.commemorations as string[];
       const symbol = line.symbol ? legend.get(line.symbol) : undefined;
-      const title = lineTitle(line, lang, tradition);
-      const first = comms[0] ?? "";
       return (
         <li class={MAJOR.has(line.rank) ? "line major" : "line"}>
           {symbol && (
@@ -29,19 +27,21 @@ const MAJOR = new Set(["great_feast", "feast_of_feasts"]);
               {symbol.glyph}
             </span>
           )}
-          {comms.length === 1 ? <a href={linkOf(first, lang)}>{title}</a> : <span>{title}</span>}
+          {/* A line of several commemorations shows each one as its own link, without the line's title, which would only repeat their names. */}
+          {comms.length === 1 ? (
+            <a href={linkOf(comms[0] ?? "", lang)}>{lineTitle(line, lang, tradition)}</a>
+          ) : (
+            comms.map((c, i) => (
+              <>
+                {i > 0 && "; "}<a href={linkOf(c, lang)}>{commName(c, lang)}</a>
+              </>
+            ))
+          )}
           {line.transferred_from && (
             <small class="muted">
               {" "}
               ({t(lang, "transferredFrom")} {dateText(line.transferred_from, lang)})
             </small>
-          )}
-          {comms.length > 1 && (
-            <span class="sublinks">
-              {comms.map((c) => (
-                <a href={linkOf(c, lang)}>{commName(c, lang)}</a>
-              ))}
-            </span>
           )}
         </li>
       );

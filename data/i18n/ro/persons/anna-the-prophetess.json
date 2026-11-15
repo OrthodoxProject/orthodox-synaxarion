@@ -5,7 +5,11 @@
     "display": "Sf. Prorociță Ana",
     "full": "Sfânta Prorociță Ana",
     "short": "Ana",
-    "given": "Ana"
+    "given": "Ana",
+    "variants": [
+      "Sf. Ana Prorocița, fiica lui Fanuel",
+      "Sfânta Ana Prorocița, fiica lui Fanuel"
+    ]
   },
   "references": [
     {
@@ -16,6 +20,11 @@
     {
       "source": "src:calendar-patriarhia",
       "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-si-dreptul-simeon-primitorul-de-dumnezeu-sf-prorocita-ana/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-ana-prorocita-fiica-lui-fanuel",
       "accessed": "2026-11-08"
     }
   ],

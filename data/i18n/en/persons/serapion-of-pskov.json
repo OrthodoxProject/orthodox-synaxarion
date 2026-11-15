@@ -6,13 +6,19 @@
     "short": "Serapion of Pskov",
     "given": "Serapion",
     "variants": [
-      "Our Venerable Father Serapion of Pskov (1481)"
+      "Our Venerable Father Serapion of Pskov (1481)",
+      "Venerable Serapion of Spaso-Eleazar Monastery, Pskov"
     ]
   },
   "references": [
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/05/15/101391-venerable-serapion-of-pskov",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/07/102534-venerable-serapion-of-spaso-eleazar-monastery-pskov",
       "accessed": "2026-11-08"
     }
   ],

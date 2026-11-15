@@ -4,12 +4,20 @@
   "names": {
     "display": "Venerable Nectarius of Bitolya and Mount Athos",
     "short": "Nectarius of Bitolya and Mount Athos",
-    "given": "Nectarius"
+    "given": "Nectarius",
+    "variants": [
+      "Saint Nectarius of Bitel"
+    ]
   },
   "references": [
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/12/05/103482-venerable-nectarius-of-bitolya-and-mount-athos",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/15/108905-saint-nectarius-of-bitel",
       "accessed": "2026-11-08"
     }
   ],

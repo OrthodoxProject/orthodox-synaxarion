@@ -4,12 +4,20 @@
   "names": {
     "display": "Saint Theodore, Bishop of Edessa",
     "short": "Theodore, Bishop of Edessa",
-    "given": "Theodore"
+    "given": "Theodore",
+    "variants": [
+      "Saint Theodore of Edessa, Mesopotamia"
+    ]
   },
   "references": [
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/07/09/101975-saint-theodore-bishop-of-edessa",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/19/100483-saint-theodore-of-edessa-mesopotamia",
       "accessed": "2026-11-08"
     }
   ],

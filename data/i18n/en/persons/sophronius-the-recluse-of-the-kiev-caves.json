@@ -4,12 +4,20 @@
   "names": {
     "display": "Venerable Sophronius the Recluse of the Kiev Caves",
     "short": "Sophronius the Recluse of the Kiev Caves",
-    "given": "Sophronius"
+    "given": "Sophronius",
+    "variants": [
+      "Venerable Sophronius the Recluse of the Kiev Far Caves"
+    ]
   },
   "references": [
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/03/11/100786-venerable-sophronius-the-recluse-of-the-kiev-caves",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/11/101352-venerable-sophronius-the-recluse-of-the-kiev-far-caves",
       "accessed": "2026-11-08"
     }
   ],

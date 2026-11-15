@@ -4,12 +4,20 @@
   "names": {
     "display": "Greatmartyr George the New at Sofia, Bulgaria",
     "short": "George the New at Sofia, Bulgaria",
-    "given": "George"
+    "given": "George",
+    "variants": [
+      "Saint George, New Martyr of Sofia"
+    ]
   },
   "references": [
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/05/26/101537-greatmartyr-george-the-new-at-sofia-bulgaria",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/11/108005-saint-george-new-martyr-of-sofia",
       "accessed": "2026-11-08"
     }
   ],

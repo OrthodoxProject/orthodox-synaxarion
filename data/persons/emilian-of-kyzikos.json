@@ -17,8 +17,18 @@
       "accessed": "2026-11-08"
     },
     {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-emilian-marturisitorul",
+      "accessed": "2026-11-08"
+    },
+    {
       "source": "src:calendar-patriarhia",
       "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-preot-mucenic-alexandru-din-basarabia-sf-ier-emilian-marturisitorul-episcopul-cizicului-si-miron-episcopul-cretei/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/08/100114-saint-emilian-the-confessor-bishop-of-cyzicus",
       "accessed": "2026-11-08"
     },
     {
@@ -33,5 +43,8 @@
     "notes": [
       "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "emilian-the-confessor-of-cyzicus"
+  ]
 }

@@ -11,6 +11,11 @@
   "sources": [
     {
       "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/02/11/108005-saint-george-new-martyr-of-sofia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/05/26/101537-greatmartyr-george-the-new-at-sofia-bulgaria",
       "accessed": "2026-11-08"
     }
@@ -22,5 +27,8 @@
       "Importat automat din oca.org; de verificat.",
       "Genul nu reiese din sursă; e de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "george"
+  ]
 }

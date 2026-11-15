@@ -5,7 +5,11 @@
     "display": "Sf. Cuv. Isaachie Mărturisitorul",
     "full": "Sfântul Cuvios Isaachie Mărturisitorul",
     "short": "Isaachie Mărturisitorul",
-    "given": "Isaachie"
+    "given": "Isaachie",
+    "variants": [
+      "Sf. Cuv. Isaachie",
+      "Sfântul Cuvios Isaachie"
+    ]
   },
   "references": [
     {
@@ -16,6 +20,16 @@
     {
       "source": "src:calendar-patriarhia",
       "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-isaachie-marturisitorul-si-varlaam-sambata-celor-adormiti-mosii-de-vara/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-isaachie",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-marturisitor-iraclie-din-basarabia-sf-cuv-isaachie-dalmat-si-faust-sf-mironosita-salomeea-sf-cuv-teodora-din-tesalonic/",
       "accessed": "2026-11-08"
     }
   ],

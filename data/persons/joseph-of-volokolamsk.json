@@ -13,6 +13,11 @@
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/09/09/102549-venerable-joseph-abbot-of-volokolamsk-volotsk",
       "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/18/102996-venerable-joseph-the-wonderworker-igumen-of-volokolamsk",
+      "accessed": "2026-11-08"
     }
   ],
   "editorial": {
@@ -22,5 +27,8 @@
       "Importat automat din oca.org; de verificat.",
       "Genul nu reiese din sursă; e de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "joseph-the-wonderworker-of-volokolamsk"
+  ]
 }

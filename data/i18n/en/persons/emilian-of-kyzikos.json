@@ -4,12 +4,20 @@
   "names": {
     "display": "Holy Confessor Emilian, Bishop of Kyzikos",
     "short": "Emilian, Bishop of Kyzikos",
-    "given": "Emilian"
+    "given": "Emilian",
+    "variants": [
+      "Saint Emilian the Confessor, Bishop of Cyzicus"
+    ]
   },
   "references": [
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/08/08/102229-holy-confessor-emilian-bishop-of-kyzikos",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/08/100114-saint-emilian-the-confessor-bishop-of-cyzicus",
       "accessed": "2026-11-08"
     }
   ],

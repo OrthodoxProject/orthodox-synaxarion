@@ -2,14 +2,19 @@
   "id": "anna-of-constantinople",
   "locale": "en",
   "names": {
-    "display": "Saint Anna and her son, Saint John, of Constantinople",
-    "short": "Anna, her son, John, of Constantinople",
+    "display": "Righteous Anna of Constantinople",
+    "short": "Anna of Constantinople",
     "given": "Anna"
   },
   "references": [
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/06/13/101716-saint-anna-and-her-son-saint-john-of-constantinople",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/29/103107-righteous-anna-of-constantinople",
       "accessed": "2026-11-08"
     }
   ],

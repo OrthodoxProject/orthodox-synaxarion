@@ -5,7 +5,11 @@
     "display": "Sf. Ier. Emilian Mărturisitorul, Episcopul Cizicului",
     "full": "Sfântul Ierarh Emilian Mărturisitorul, Episcopul Cizicului",
     "short": "Emilian Mărturisitorul, Episcopul Cizicului",
-    "given": "Emilian"
+    "given": "Emilian",
+    "variants": [
+      "Sf. Cuv. Emilian Mărturisitorul",
+      "Sfântul Cuvios Emilian Mărturisitorul"
+    ]
   },
   "references": [
     {
@@ -16,6 +20,11 @@
     {
       "source": "src:calendar-patriarhia",
       "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-preot-mucenic-alexandru-din-basarabia-sf-ier-emilian-marturisitorul-episcopul-cizicului-si-miron-episcopul-cretei/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-emilian-marturisitorul",
       "accessed": "2026-11-08"
     }
   ],

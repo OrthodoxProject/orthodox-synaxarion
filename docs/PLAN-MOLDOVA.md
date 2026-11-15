@@ -44,6 +44,6 @@ Pașii de mai jos sunt în issue-ul [#56](https://github.com/OrthodoxProject/ort
 
 ## De unde se continuă
 
-Înainte de merge: PR-ul [#51](https://github.com/OrthodoxProject/orthodox-synaxarion/pull/51) unește persoanele pe care OCA le ține de două ori și schimbă multe dintre fișierele schimbate aici (și unele înregistrări care primesc linkul sunt unite cu altele sau redenumite acolo). Dacă #51 intră primul în `main`, importul acestui branch se rulează din nou peste `main`, nu se unesc fișierele de date; la fel cu sursa e-religie.ro (#39).
+Înainte de merge: între timp au intrat în `main` PR-urile #47, #48, #51 și #54, iar PR-ul #50 are conflicte (77 de persoane, 9 pomeniri, un nume românesc, `.github/labels.yml`, `docs/SCHEMA.md`; codul se unește fără conflicte). Se aduce la zi așa: `git merge origin/main`, cu `labels.yml` și `SCHEMA.md` unite de mână, datele luate de pe `main` (în afară de cele 5 fișiere scrise de mână ale tradiției și sursei), apoi importul din nou, un al doilea import care nu scrie nimic, verificarea că fișierele existente au primit doar citarea, `npm run check` și construcția site-ului. La fel dacă intră întâi sursa e-religie.ro (#39, PR #55).
 
 După merge, din issue-ul [#56](https://github.com/OrthodoxProject/orthodox-synaxarion/issues/56): pasul 1 (numele în engleză), apoi pasul 2, cu raportul potrivirilor: `node tools/import.ts --offline --dry-run` arată numerele, iar paginile sunt în `build/cache/calendar.ortodox.md/` din dosarul principal al depozitului (dintr-un worktree: `--cache <dosarul principal>/build/cache`).

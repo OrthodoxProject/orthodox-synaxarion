@@ -2,14 +2,19 @@
   "id": "vasile-41",
   "locale": "ro",
   "names": {
-    "display": "Sf. Sfințit Nou Mc. Vasile (Guriev)",
-    "short": "Vasile (Guriev)",
+    "display": "Sf. Mc. Vasile (Vinogradov)",
+    "short": "Vasile (Vinogradov)",
     "given": "Vasile"
   },
   "references": [
     {
       "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/659c4649-25cc-4e0d-817c-5b3cf2e66225",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/826#2",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b17a56a8-bac9-4feb-bcfd-e737f2ab361e",
       "accessed": "2026-11-15"
     }
   ],

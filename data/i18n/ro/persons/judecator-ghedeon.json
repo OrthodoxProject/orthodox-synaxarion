@@ -2,14 +2,15 @@
   "id": "judecator-ghedeon",
   "locale": "ro",
   "names": {
-    "display": "Dreptul Judecător Ghedeon",
+    "display": "Sf. și Drept. Judecător Ghedeon",
+    "full": "Sfântul și Dreptul Judecător Ghedeon",
     "short": "Judecător Ghedeon",
     "given": "Judecător"
   },
   "references": [
     {
       "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/29ff3e5c-2287-43bf-a13b-97cb69d3e2e0#2",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/29ff3e5c-2287-43bf-a13b-97cb69d3e2e0",
       "accessed": "2026-11-15"
     }
   ],

@@ -2,14 +2,15 @@
   "id": "vasile-21",
   "locale": "ro",
   "names": {
-    "display": "Sf. Sfințit Nou Mc. Vasile (Preobrajenski)",
-    "short": "Vasile (Preobrajenski)",
+    "display": "Sf. Cuv. Vasile, bunicii Sfântului Ier. Vasile cel Mare",
+    "full": "Sfântul Cuvios Vasile, bunicii Sfântului Ierarh Vasile cel Mare",
+    "short": "Vasile, bunicii Sfântului Ierarh Vasile cel Mare",
     "given": "Vasile"
   },
   "references": [
     {
       "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/1555",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8a0c11b6-a516-4785-9759-856ee85f460e#2",
       "accessed": "2026-11-15"
     }
   ],

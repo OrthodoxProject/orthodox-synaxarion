@@ -1,0 +1,27 @@
+{
+  "id": "veniamin-of-romanov-and-mihail-of-rusia-2",
+  "kind": "repose",
+  "subjects": [
+    "person:veniamin-of-romanov",
+    "person:mihail-of-rusia-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 15
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9ae1d92e-40eb-4841-aec8-803f9e09f7d0",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

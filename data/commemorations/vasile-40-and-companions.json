@@ -3,8 +3,9 @@
   "kind": "repose",
   "subjects": [
     "person:vasile-40",
-    "person:serghie-15",
-    "person:spiridon"
+    "person:andrei-13",
+    "person:pavel-35",
+    "person:vitalie-3"
   ],
   "date_rule": {
     "type": "fixed",
@@ -14,7 +15,7 @@
   "sources": [
     {
       "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/826#2",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/826",
       "accessed": "2026-11-15"
     }
   ],

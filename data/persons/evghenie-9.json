@@ -3,12 +3,12 @@
   "kind": "saint",
   "gender": "male",
   "holiness_types": [
-    "martyr"
+    "righteous"
   ],
   "sources": [
     {
       "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/0d596adf-0bf3-433d-ae9e-75a7d15e2ac6",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6d0dad7d-e8d6-4886-ab7b-d4194dd5257e",
       "accessed": "2026-11-15"
     }
   ],
@@ -17,7 +17,7 @@
     "confidence": "low",
     "notes": [
       "Importat automat din calendar.ortodox.md; de verificat.",
-      "Genul nu reiese din sursă; e de verificat."
+      "Chipul sfințeniei nu reiese din titlu; „righteous” e provizoriu."
     ]
   }
 }

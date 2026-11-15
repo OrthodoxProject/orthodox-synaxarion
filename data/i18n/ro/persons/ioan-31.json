@@ -2,15 +2,19 @@
   "id": "ioan-31",
   "locale": "ro",
   "names": {
-    "display": "Sf. Mc. Ioan",
-    "full": "Sfântul Mucenic Ioan",
-    "short": "Ioan",
+    "display": "Sf. Sfințit Nou Mc. Ioan (Vasilev)",
+    "short": "Ioan (Vasilev)",
     "given": "Ioan"
   },
   "references": [
     {
       "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/db5983fd-47ce-46f0-8846-3a16bf142826",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/112ead4b-2429-4105-8f80-218e6e6cc1c5",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8b0da094-4ff8-4bcd-a8d0-156fdf9ce84e",
       "accessed": "2026-11-15"
     }
   ],

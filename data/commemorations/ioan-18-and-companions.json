@@ -3,18 +3,23 @@
   "kind": "repose",
   "subjects": [
     "person:ioan-18",
-    "person:inaintemergatorul",
-    "person:botezatorul-domnului"
+    "person:mihail-6",
+    "person:alexie-5",
+    "person:nicolae-12",
+    "person:alexie-6",
+    "person:simeon-11",
+    "person:pavel-12",
+    "person:sofia-of-rusia"
   ],
   "date_rule": {
     "type": "fixed",
     "month": 2,
-    "day": 24
+    "day": 15
   },
   "sources": [
     {
       "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/e66024d4-9527-4a09-a032-3413ab7047e5",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2445a78c-69d4-47b3-ba87-a7fe0a3cd735",
       "accessed": "2026-11-15"
     }
   ],

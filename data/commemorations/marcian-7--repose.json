@@ -1,0 +1,26 @@
+{
+  "id": "marcian-7--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:marcian-7"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 20
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/aa76f05e-9670-490c-a328-d9189833eebd",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -2,19 +2,14 @@
   "id": "vasile-48",
   "locale": "ro",
   "names": {
-    "display": "Sf. Sfințit Nou Mc. Vasile (Arhanghelski)",
-    "short": "Vasile (Arhanghelski)",
+    "display": "Sf. Mc. Vasile",
+    "short": "Vasile",
     "given": "Vasile"
   },
   "references": [
     {
       "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/e6ee1e53-b6ef-420d-8573-601c5a86e94c",
-      "accessed": "2026-11-15"
-    },
-    {
-      "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/e403f051-ef05-427d-bada-d9563e3fc8b1",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1611202a-89b9-4f4a-aa6f-1c27c566269d",
       "accessed": "2026-11-15"
     }
   ],

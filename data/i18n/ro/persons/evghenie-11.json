@@ -2,14 +2,15 @@
   "id": "evghenie-11",
   "locale": "ro",
   "names": {
-    "display": "Sf. Sfințit Nou Mc. Evghenie (Harikov)",
-    "short": "Evghenie (Harikov)",
+    "display": "Sf. Mc. Evghenie",
+    "full": "Sfântul Mucenic Evghenie",
+    "short": "Evghenie",
     "given": "Evghenie"
   },
   "references": [
     {
       "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/78719e7a-4e99-4f0f-97bf-1a8cb9350bc3",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c4b4aba4-94bf-460c-a2ad-f2a55501c8e7",
       "accessed": "2026-11-15"
     }
   ],

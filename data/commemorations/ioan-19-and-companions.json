@@ -3,21 +3,18 @@
   "kind": "repose",
   "subjects": [
     "person:ioan-19",
-    "person:petru-7",
-    "person:vasile-9",
-    "person:veniamin-2",
-    "person:mihail-8",
-    "person:alexandru-of-rusia-3"
+    "person:inaintemergatorul",
+    "person:botezatorul-domnului"
   ],
   "date_rule": {
     "type": "fixed",
-    "month": 3,
-    "day": 1
+    "month": 2,
+    "day": 24
   },
   "sources": [
     {
       "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/05f32878-bdda-4572-91b1-2028dabf9996",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e66024d4-9527-4a09-a032-3413ab7047e5",
       "accessed": "2026-11-15"
     }
   ],

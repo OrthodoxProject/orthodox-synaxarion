@@ -2,19 +2,14 @@
   "id": "vasile-40",
   "locale": "ro",
   "names": {
-    "display": "Sf. Mc. Vasile (Vinogradov)",
-    "short": "Vasile (Vinogradov)",
+    "display": "Sf. Sfințit Nou Mc. Vasile (Voscresenskii)",
+    "short": "Vasile (Voscresenskii)",
     "given": "Vasile"
   },
   "references": [
     {
       "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/826#2",
-      "accessed": "2026-11-15"
-    },
-    {
-      "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/b17a56a8-bac9-4feb-bcfd-e737f2ab361e",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/826",
       "accessed": "2026-11-15"
     }
   ],

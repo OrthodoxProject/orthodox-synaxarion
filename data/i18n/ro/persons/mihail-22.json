@@ -2,14 +2,14 @@
   "id": "mihail-22",
   "locale": "ro",
   "names": {
-    "display": "Sf. Sfințit Nou Mc. Mihail (Markov)",
-    "short": "Mihail (Markov)",
+    "display": "Sf. Sfințit Nou Mc. Mihail (Voteakov)",
+    "short": "Mihail (Voteakov)",
     "given": "Mihail"
   },
   "references": [
     {
       "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/1084",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/27a07d01-9a4d-4c99-9e9f-27a02821421a",
       "accessed": "2026-11-15"
     }
   ],

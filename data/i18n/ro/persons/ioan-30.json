@@ -2,19 +2,14 @@
   "id": "ioan-30",
   "locale": "ro",
   "names": {
-    "display": "Sf. Sfințit Nou Mc. Ioan (Vasilev)",
-    "short": "Ioan (Vasilev)",
+    "display": "Sf. Sfințit Nou Mc. Ioan",
+    "short": "Ioan",
     "given": "Ioan"
   },
   "references": [
     {
       "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/112ead4b-2429-4105-8f80-218e6e6cc1c5",
-      "accessed": "2026-11-15"
-    },
-    {
-      "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/8b0da094-4ff8-4bcd-a8d0-156fdf9ce84e",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/fcdc6989-7bc4-4321-9bb7-48cf8168eca8",
       "accessed": "2026-11-15"
     }
   ],

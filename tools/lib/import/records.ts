@@ -11,7 +11,7 @@ import type { HolinessType, NamePart, ParsedTitle } from "./model.ts";
 import { fold, givenSimilarity, skeleton, slugify } from "./names.ts";
 import { parseEn } from "./en.ts";
 import { parseRo } from "./ro.ts";
-import type { BuildResult, LineDraft } from "./build.ts";
+import { REFERENCE_SOURCES, type BuildResult, type LineDraft } from "./build.ts";
 import { mmdd, type Citation, type Family } from "./units.ts";
 
 type Rec = Record<string, any>;
@@ -31,6 +31,7 @@ const SOURCE_NAMES: Record<string, string> = {
   "src:armenianchurch-ge": "armenianchurch.ge",
   "src:orthodox-calendar": "orthodox-calendar",
   "src:wikipedia": "Wikipedia",
+  "src:calendar-ortodox-md": "calendar.ortodox.md",
 };
 
 function importNote(citations: Citation[]): string {
@@ -461,7 +462,49 @@ export class RecordWriter {
     for (const [pid, slot] of persons) this.writePerson(pid, slot);
     for (const [gid, { g, family }] of groups) this.writeGroup(gid, g, family);
     this.writeCalendars();
+    this.writeReferences();
     return { files: this.files, stats: this.stats };
+  }
+
+  /**
+   * The links of the sources of references (see REFERENCE_SOURCES) on the existing records their lines matched: the
+   * commemoration, its group or icon, and the persons the line names. Nothing else of these records changes.
+   */
+  private writeReferences(): void {
+    const only = (list: Citation[]): Citation[] => list.filter((x) => REFERENCE_SOURCES.has(x.source));
+    for (const c of this.existing.clusters.values()) {
+      const cites = only(c.citations);
+      if (!c.existingComm || cites.length === 0) continue;
+      this.addSources("commemorations", c.existingComm, cites);
+      const rec = this.existing.dataset.records.get("commemorations")?.get(c.existingComm);
+      for (const subject of (rec?.subjects ?? []) as string[]) {
+        const [prefix, id] = subject.split(":");
+        if (prefix === "group" && id) this.addSources("groups", id, cites);
+        if (prefix === "icon" && id) this.addSources("icons", id, cites);
+      }
+    }
+    for (const slot of this.existing.persons.values()) {
+      const cites = only(slot.citations);
+      if (slot.existingPerson && cites.length > 0) this.addSources("persons", slot.existingPerson, cites);
+    }
+  }
+
+  /** Adds citations to the sources of an existing record, once; the record is written only when it changes. */
+  private addSources(collection: "commemorations" | "persons" | "groups" | "icons", id: string, cites: Citation[]): void {
+    const path = `${collection}/${id}.json`;
+    const rec = this.files.get(path) ?? this.existing.dataset.records.get(collection)?.get(id);
+    if (!rec) return;
+    // The record's own citations stay as they are; the new ones follow them.
+    const sources = [...((rec.sources ?? []) as Citation[])];
+    let added = 0;
+    for (const x of dedupeCitations(cites)) {
+      if (sources.some((s) => s.source === x.source && s.url === x.url)) continue;
+      sources.push(x);
+      added++;
+    }
+    if (added === 0) return;
+    this.files.set(path, { ...rec, sources });
+    this.count(`references.${collection}`, added);
   }
 
   private editorial(citations: Citation[], confidence: "low" | "medium", extra: string[] = []): Rec {

@@ -82,6 +82,9 @@
 - name: "tradition: serbian"
   color: "fef2c0"
   description: "Serbian Orthodox Church"
+- name: "tradition: moldova"
+  color: "fef2c0"
+  description: "Orthodox Church of Moldova (Metropolis of Chișinău, Moscow Patriarchate)"
 # Oriental Orthodox
 - name: "tradition: coptic"
   color: "f9d0c4"

@@ -43,6 +43,12 @@ import { mmdd, type Unit } from "./units.ts";
 export type Confidence = "low" | "medium" | "high";
 
 /**
+ * Sources whose lines also give the existing records they match a reference (their link): calendar.ortodox.md
+ * cites the page of every commemoration. The other sources only add records.
+ */
+export const REFERENCE_SOURCES = new Set(["src:calendar-ortodox-md"]);
+
+/**
  * Extra conditions for the bare names of the orthodox-calendar lists:
  * - agree: on the Menaion date, the kind of holiness must agree (a martyr is
  *   not a hierarch), and a match on the first name alone must not have other
@@ -62,6 +68,24 @@ export interface MatchRules {
    * already, so that a line the prematch left out does not take them in their stead (see claimedBy).
    */
   claimed?: Set<Slot>;
+  /**
+   * The only saint of the day with a first name is the saint of that name in either language, for a source whose
+   * titles say much more of the saints than the other sources' do (calendar.ortodox.md): "Sfântul Sfințit Teogen,
+   * episcopul Pariei" is "Hieromartyr Theogenes, Bishop of Parium on the Hellespont" (2 January).
+   */
+  onlyOfName?: boolean;
+  /**
+   * For the same sources: a group of the day matches only by its count, its names or a word that is not an honorific
+   * ("Sfinții 4 Mucenici din Perga Pamfiliei" is not "Sfinții Mucenici din Dobrogea: Macrobie, …"), and not across
+   * another place; a fool for Christ is a monk, not a martyr (see holinessAgreesStrictly).
+   */
+  strict?: boolean;
+}
+
+/** holinessAgrees, with a fool for Christ among the monks: "Sfânta Muceniță Isidora" is not "Blessed Isidora the Fool". */
+function holinessAgreesStrictly(a: Set<HolinessType>, b: Set<HolinessType>): boolean {
+  const monk = (h: Set<HolinessType>): Set<HolinessType> => (h.has("fool_for_christ") && ![...h].some((x) => x !== "fool_for_christ" && x !== "righteous") ? new Set([...h, "venerable" as HolinessType]) : h);
+  return holinessAgrees(monk(a), monk(b));
 }
 
 /** The persons that a prematch gave to the lines of its source and day. */
@@ -121,11 +145,16 @@ export class Builder {
 
   private readonly existing: Existing;
 
+  /** Existing commemorations known only from the sources read last, with their days: indexed when those are read (see indexLate). */
+  private readonly late: Array<{ c: Cluster; date?: string }> = [];
+
   constructor(existing: Existing) {
     this.existing = existing;
     for (const c of existing.clusters.values()) {
       this.existingByComm.set(c.existingComm ?? "", c);
-      if (c.family === "byzantine" && c.month > 0) this.index(c);
+      if (c.family !== "byzantine" || c.month === 0) continue;
+      if (c.late) this.late.push({ c });
+      else this.index(c);
     }
     // Existing placements count as placed, and index clusters on the days where traditions put them.
     for (const [tradition, byDate] of existing.menaion) {
@@ -135,7 +164,9 @@ export class Builder {
             const c = this.existingByComm.get(ref.replace(/^comm:/, ""));
             if (!c) continue;
             this.markPlaced(tradition, c);
-            if (c.family === "byzantine") this.indexAt(date, c);
+            if (c.family !== "byzantine") continue;
+            if (c.late) this.late.push({ c, date });
+            else this.indexAt(date, c);
           }
         }
       }
@@ -277,7 +308,7 @@ export class Builder {
     const isNew = extraKeys(part).includes("=new");
     const found = new Set<Slot>();
     const consider = (slot: Slot): void => {
-      if (slot.family !== u.family || slot.angel || found.has(slot) || !holinessAgrees(holiness, slot.holiness)) return;
+      if (slot.family !== u.family || slot.angel || slot.late || found.has(slot) || !holinessAgrees(holiness, slot.holiness)) return;
       for (const name of [slot.en?.part, slot.ro?.part, ...slot.alts]) {
         if (!name || givenSimilarity(part, name) < 1 || gendersDiffer(part, name) || namesConflict(part, name)) continue;
         if (extraKeys(name).includes("=new") !== isNew) continue;
@@ -588,12 +619,13 @@ export class Builder {
       }
       case "group": {
         const groups = pool.filter((c) => c.kind === "group" || (c.kind === "synaxis" && c.subjectGroup));
-        const best = this.bestByScore(groups, (c) => groupScore(this, u, c));
+        const best = this.bestByScore(groups, (c) => (rules.strict ? strictGroupScore(u, c) : groupScore(this, u, c)));
         if (best && best.score >= 1) return { ...none, clusters: [best.item], rest: [] };
         if (p.names.length >= 1) {
           const byNames = this.matchNames(u, pool, rules);
           // A group matches persons only through its leading name.
-          if (byNames.pairs.length > 0) return { ...byNames, rest: [] };
+          // With strict rules, its leading name must be one of them ("Harisa, Nunehia, Vasilisa …" is not St Basil).
+          if (byNames.pairs.length > 0 && (!rules.strict || byNames.pairs.some(([part]) => part === p.names[0]))) return { ...byNames, rest: [] };
         }
         return none;
       }
@@ -617,7 +649,7 @@ export class Builder {
   private matchNames(u: Unit, pool: Cluster[], rules: MatchRules = {}): { clusters: Cluster[]; pairs: Array<[NamePart, Slot]>; rest: NamePart[] } {
     const p = u.parsed;
     const holiness = new Set(p.holiness);
-    const fits = (other: Set<HolinessType>): boolean => (rules.agree ? holinessAgrees(holiness, other) : holinessCompatible(holiness, other));
+    const fits = (other: Set<HolinessType>): boolean => (rules.strict ? holinessAgreesStrictly(holiness, other) : rules.agree ? holinessAgrees(holiness, other) : holinessCompatible(holiness, other));
     const taken = new Set<Slot>();
     const scored: Array<{ part: NamePart; slot: Slot; cluster: Cluster; score: number; agreement: number; holiness: number; evidence: number }> = [];
     for (const part of p.names) {
@@ -672,6 +704,14 @@ export class Builder {
       pairs.push([part, only.slot]);
       if (!clusters.includes(only.cluster)) clusters.push(only.cluster);
     }
+    // The only saint of the day with that first name, in either language (see MatchRules.onlyOfName).
+    if (rules.onlyOfName) {
+      for (const [part, slot, cluster] of this.onlyOfName(u, p.names.filter((n) => !usedParts.has(n)), pool, taken, rules)) {
+        usedParts.add(part);
+        pairs.push([part, slot]);
+        if (!clusters.includes(cluster)) clusters.push(cluster);
+      }
+    }
     // A name may be the leader of a group of the other source.
     const leaders = new Map<Cluster, NamePart>();
     for (const part of p.names) {
@@ -692,6 +732,37 @@ export class Builder {
     // Keep the order of the unit's names.
     clusters.sort((a, b) => firstIndex(a, pairs, p.names, leaders) - firstIndex(b, pairs, p.names, leaders));
     return { clusters, pairs, rest };
+  }
+
+  /**
+   * The names that are each the only saint of the day with that first name, in either language (see
+   * MatchRules.onlyOfName), with the person and its cluster: a person that no other source keeps that day does not
+   * count, nor one that another line of the same source already took; the gender, the kind of holiness, the places and
+   * the numbers must not disagree. `taken` gets the persons found.
+   */
+  onlyOfName(u: Unit, parts: NamePart[], pool: Cluster[], taken: Set<Slot>, rules: MatchRules = {}): Array<[NamePart, Slot, Cluster]> {
+    const out: Array<[NamePart, Slot, Cluster]> = [];
+    const holiness = new Set(u.parsed.holiness);
+    const namesOf = (slot: Slot): NamePart[] => [slot.ro?.part, slot.en?.part, ...slot.alts].filter((n): n is NamePart => n !== undefined);
+    for (const part of parts) {
+      const same: Array<{ slot: Slot; cluster: Cluster }> = [];
+      for (const c of pool) {
+        if (!PERSON_KINDS.has(c.kind) && !(c.kind === "group" && c.slots.length > 0)) continue;
+        if (!c.existingComm && c.units.every((x) => x.source === u.source)) continue;
+        for (const slot of c.slots) {
+          if (namesOf(slot).some((n) => givenSimilarity(part, n) >= 1) && !same.some((x) => x.slot === slot)) same.push({ slot, cluster: c });
+        }
+      }
+      const only = same.length === 1 ? same[0] : undefined;
+      if (!only || taken.has(only.slot) || only.slot.matched.has(`${u.source}@${mmdd(u.month, u.day)}`) || rules.claimed?.has(only.slot)) continue;
+      // A martyr is not a hierarch; the OCA's plain "Saint X", read as righteous, says nothing (see holinessAgrees).
+      if (!holinessAgreesStrictly(holiness, only.slot.holiness)) continue;
+      if (namesOf(only.slot).some((n) => gendersDiffer(part, n) || placesDisagree(part, n) || (numeralOf(part) && numeralOf(n) && numeralOf(part) !== numeralOf(n)))) continue;
+      if (part.gender && only.slot.gender && part.gender !== only.slot.gender) continue;
+      taken.add(only.slot);
+      out.push([part, only.slot, only.cluster]);
+    }
+    return out;
   }
 
   /**
@@ -723,7 +794,11 @@ export class Builder {
     const single = u.parsed.names.length === 1 && result.pairs.length === 1;
     for (const [part, slot] of result.pairs) {
       slot.matched.add(`${u.source}@${mmdd(u.month, u.day)}`);
-      if (slot.existingPerson) continue;
+      if (slot.existingPerson) {
+        // A source of references gives an existing person its link (see RecordWriter.writeReferences).
+        if (REFERENCE_SOURCES.has(u.citation.source)) addCitation(slot.citations, u.citation);
+        continue;
+      }
       this.fillSlot(slot, u, part, single);
     }
   }
@@ -734,7 +809,7 @@ export class Builder {
     if (u.ext.oca) keys.push(`oca:${u.ext.oca}`);
     if (u.ext.doxologia) keys.push(`doxologia:${u.ext.doxologia}`);
     if (u.source === "patriarhia") keys.push(`patriarhia:${mmdd(u.month, u.day)}|${officialTitle(u.title)}`);
-    if (u.url && (u.source === "overlay" || u.source === "armenian" || u.source === "coptic")) keys.push(`url:${u.url}`);
+    if (u.url && (u.source === "overlay" || u.source === "armenian" || u.source === "coptic" || u.source === "ortodoxmd")) keys.push(`url:${u.url}`);
     const day = new Set(this.candidates(u.month, u.day));
     for (const key of keys) {
       const list = (this.existing.exact.get(key) ?? []).filter((c) => u.family !== "byzantine" || day.has(c));
@@ -1074,6 +1149,111 @@ export class Builder {
       if (clusters.length > 0) this.addLine("russian", u.month, u.day, withDiffers({ clusters }, u.month, u.day));
     }
     this.placePeriods("russian", periodUnits);
+  }
+
+  // -------------------------------------------------------------------------
+  // Calendar of the Orthodox Church of Moldova (calendar.ortodox.md)
+  // -------------------------------------------------------------------------
+
+  /**
+   * The calendar of the Orthodox Church of Moldova, on the old style: each line is looked up among the
+   * commemorations of its Menaion date, as the Russian lines are, and a line that matches nothing becomes a new
+   * commemoration. Every line goes to the Moldovan calendar, in the order of the site. The site lists some saints
+   * twice a day, an older entry and a newer one (see repeats): the second goes where the first went.
+   */
+  moldova(units: Unit[]): void {
+    // The commemorations that an earlier import took from this calendar alone are found from now on.
+    for (const { c, date } of this.late.splice(0)) {
+      if (date) this.indexAt(date, c);
+      else this.index(c);
+    }
+    const periodUnits = new Map<Cluster, Unit[]>();
+    const byDay = new Map<string, Unit[]>();
+    for (const u of units) {
+      const key = mmdd(u.month, u.day);
+      const list = byDay.get(key) ?? [];
+      list.push(u);
+      byDay.set(key, list);
+    }
+    for (const list of byDay.values()) {
+      const first = list[0];
+      if (!first) continue;
+      const pre = this.prematch(list, this.candidates(first.month, first.day));
+      // The site's titles tell the kind of holiness well: a pair of the prematch whose kinds disagree (a martyr and a
+      // hierarch) is left to match(), which then reads them strictly (see holinessAgrees).
+      for (const [u, r] of pre) if (r.pairs.some(([, slot]) => !holinessAgreesStrictly(new Set(u.parsed.holiness), slot.holiness))) pre.delete(u);
+      const claimed = claimedBy(pre);
+      const done: Array<{ u: Unit; clusters: Cluster[] }> = [];
+      for (const u of list) {
+        const k = u.parsed.kind;
+        if (k === "movable" || k === "skip") {
+          this.count(`ortodoxmd.${k}`);
+          continue;
+        }
+        if (k === "forefeast" || k === "afterfeast" || k === "leavetaking") {
+          const c = this.period(u);
+          if (c) {
+            const periods = periodUnits.get(c) ?? [];
+            periods.push(u);
+            periodUnits.set(c, periods);
+          }
+          continue;
+        }
+        const twin = done.find((x) => x.clusters.length > 0 && repeats(u, x.u));
+        if (twin) {
+          for (const c of twin.clusters) {
+            this.attach(c, u);
+            // Its link goes to the group or the icon too, as RecordWriter.writeReferences gives it to them in a later import.
+            for (const g of [c.group, c.subjectGroup]) if (g) addCitation(g.citations, u.citation);
+            if (c.icon) addCitation(c.icon.citations, u.citation);
+          }
+          this.count("ortodoxmd.twin");
+          continue;
+        }
+        // The prematch may have given the saints to a later line that repeats this one: this line takes them.
+        let mine = pre.get(u);
+        const later = mine ? undefined : list.find((v) => v !== u && pre.has(v) && repeats(u, v));
+        const theirs = later ? pre.get(later) : undefined;
+        if (later && theirs) {
+          const own = (part: NamePart): NamePart => u.parsed.names[later.parsed.names.indexOf(part)] ?? part;
+          mine = { clusters: theirs.clusters, pairs: theirs.pairs.map(([part, slot]) => [own(part), slot]), rest: theirs.rest.map(own) };
+        }
+        // Names that the prematch left over may each be the only saint of their name that day.
+        if (mine && mine.rest.length > 0) {
+          const found = this.onlyOfName(u, mine.rest, this.candidates(u.month, u.day), new Set(mine.pairs.map(([, slot]) => slot)), { claimed });
+          if (found.length > 0) {
+            const known = mine;
+            mine = {
+              clusters: [...known.clusters, ...found.map(([, , c]) => c).filter((c, i, all) => !known.clusters.includes(c) && all.indexOf(c) === i)],
+              pairs: [...known.pairs, ...found.map(([part, slot]): [NamePart, Slot] => [part, slot])],
+              rest: known.rest.filter((n) => !found.some(([part]) => part === n)),
+            };
+          }
+        }
+        const rules: MatchRules = { claimed, onlyOfName: true, agree: true, strict: true };
+        // The OCA keeps some saints of the 20th century on their civil day, 13 days after the old-style one (the Royal
+        // Martyrs on 17 July): a line that matches nothing on its day is looked for on that day too, as the lists are.
+        if (!mine && this.exactFor(u).length === 0 && this.match(u, this.candidates(u.month, u.day), rules).clusters.length === 0) {
+          const civil = civilDay(u.month, u.day);
+          const late = this.match({ ...u, ...civil }, this.candidates(civil.month, civil.day), rules);
+          if (late.clusters.length > 0 && late.rest.length === 0) {
+            mine = late;
+            this.count("ortodoxmd.civil-day");
+          }
+        }
+        const clusters = this.place(u, this.candidates(u.month, u.day), mine, rules);
+        // A line that lands on a group or an icon made by another line of this run gives it its link now, as
+        // RecordWriter.writeReferences does in a later import.
+        for (const c of clusters) {
+          if (c.existingComm) continue;
+          for (const g of [c.group, c.subjectGroup]) if (g) addCitation(g.citations, u.citation);
+          if (c.icon) addCitation(c.icon.citations, u.citation);
+        }
+        done.push({ u, clusters });
+        if (clusters.length > 0) this.addLine("moldova", u.month, u.day, withDiffers({ clusters }, u.month, u.day));
+      }
+    }
+    this.placePeriods("moldova", periodUnits);
   }
 
   /** Adds what the units say to the clusters of their day, without creating or placing anything. */
@@ -1495,6 +1675,66 @@ function roIconName(rest: string): string {
   return `Icoana ${rest.trim().replace(/^a\s+/, "")}`;
 }
 
+/**
+ * Whether two names give the saint other places, read loosely: the sources transliterate the Russian and Georgian
+ * places each its own way ("Velicoperm" / "Perm", "Utiarma" / "Ujarma"), so a place that holds the other or is like it
+ * is the same place.
+ */
+function placesDisagree(a: NamePart, b: NamePart): boolean {
+  // A country says too little: "Fructuosus din Toledo în Spania" is not "Fructuosis, Bishop of Tarragona, Spain".
+  const pa = placeKeys(a).filter((x) => !COUNTRY_KEYS.has(x));
+  const pb = placeKeys(b).filter((x) => !COUNTRY_KEYS.has(x));
+  // A see in the genitive keeps less of the name than the English ("Pariei" / "Parium", "pr" / "prm").
+  const alike = (x: string, y: string): boolean =>
+    x === y || nameSimilarity(x, y) >= 0.6 || (Math.min(x.length, y.length) >= 3 && (x.includes(y) || y.includes(x))) || (Math.min(x.length, y.length) >= 2 && (x.startsWith(y) || y.startsWith(x)));
+  return pa.length > 0 && pb.length > 0 && !pa.some((x) => pb.some((y) => alike(x, y)));
+}
+
+const COUNTRY_KEYS = new Set(
+  ["Rusia", "Russia", "Grecia", "Greece", "Italia", "Italy", "Georgia", "Anglia", "England", "Irlanda", "Ireland", "Franța", "France", "Egipt", "Egypt", "Siria", "Syria", "Palestina", "Palestine", "Serbia", "Bulgaria", "Moldova", "România", "Romania", "Ucraina", "Ukraine", "Spania", "Spain", "Germania", "Germany", "Turcia", "Turkey", "Scoția", "Scotland", "Wales", "Persia", "Armenia", "Cipru", "Cyprus", "Elveția", "Switzerland", "Galia", "Gaul", "Britania", "Britain", "Asia", "Africa", "Estonia", "Finlanda", "Finland", "Polonia", "Poland", "America", "Japonia", "Japan", "China"].flatMap((country) =>
+    placeKeys({ text: `X din ${country}`, given: "X", key: "x", extra: [] }),
+  ),
+);
+
+/** Words of a name that tell little of the saint: a country, an office, a deed. */
+const COMMON_KEYS = new Set(
+  ["Rusia", "Grecia", "Italia", "Georgia", "Anglia", "Irlanda", "Franța", "Egipt", "Siria", "Palestina", "Serbia", "Bulgaria", "Moldova", "România", "Ucraina", "Spania", "Germania", "Turcia", "întemeietorul", "făcător", "făcătorul", "minuni", "nevoitor", "pustnic", "stareț", "preot", "diacon", "monah", "schimonah", "ieromonah", "nebun", "pentru", "Hristos"].map((w) => skeleton(fold(w))),
+);
+
+/**
+ * The line of the same day that a calendar.ortodox.md line repeats: the site lists some saints twice, an older entry
+ * and a newer one ("Cuviosul Nicolai Salos din Pskov, cel Nebun întru Hristos (1576)" and "Sfântul Cuvios Nicolae din
+ * Pskov, nebun pentru Hristos (Rusia, +1576)"). Two lines are one when they are of one kind and name as many saints,
+ * in the same order, each of the same first name and gender, with no other place or number ("Erasm de la Orhida" is
+ * not "Erasm din Formia", "Crispin I" not "Crispin al III-lea"), and either give the same year or describe them alike:
+ * all the words of one name are in the other, and one of them says more than a country, an office or a deed.
+ */
+function repeats(u: Unit, v: Unit): boolean {
+  const a = u.parsed;
+  const b = v.parsed;
+  const named = (k: string): boolean => k === "saint" || k === "saints" || k === "group";
+  if (!named(a.kind) || !named(b.kind) || a.names.length === 0 || b.names.length !== a.names.length) return false;
+  // The parts of one line (see splitOrtodoxMdTitle) are other saints, and so are a martyr and a nun of one name
+  // ("Sfânta Muceniță Pelaghia fecioara, din Antiohia" is not "Sfânta Cuvioasă Pelaghia din Antiohia").
+  if ((a.kind === "group") !== (b.kind === "group") || u.uid.split("#")[0] === v.uid.split("#")[0] || !holinessAgreesStrictly(new Set(a.holiness), new Set(b.holiness))) return false;
+  const sameYear = (u.dated ?? []).some((y) => (v.dated ?? []).includes(y));
+  return a.names.every((n, i) => {
+    const m = b.names[i];
+    if (!m || givenSimilarity(n, m) < 1 || gendersDiffer(n, m) || namesConflict(n, m)) return false;
+    if (sameYear) return true;
+    const ka = extraKeys(n);
+    const kb = extraKeys(m);
+    const [small, big] = ka.length <= kb.length ? [ka, new Set(kb)] : [kb, new Set(ka)];
+    return small.length > 0 && small.every((k) => big.has(k)) && small.some((k) => !COMMON_KEYS.has(k));
+  });
+}
+
+/** The civil day of an old-style day: 13 days later (1900–2099), counted in a leap year. */
+function civilDay(month: number, day: number): { month: number; day: number } {
+  const date = new Date(Date.UTC(2028, month - 1, day) + 13 * 86_400_000);
+  return { month: date.getUTCMonth() + 1, day: date.getUTCDate() };
+}
+
 function withDiffers(line: LineDraft, month: number, day: number): LineDraft {
   const differs = line.clusters.some((c) => c.month > 0 && (c.month !== month || c.day !== day) && !(c.leapDay && month === 2 && day === 28));
   return differs ? { ...line, differs: true } : line;
@@ -1651,6 +1891,31 @@ function groupScore(b: Builder, u: Unit, c: Cluster): number {
   score += Math.min(overlap, 2) * 0.5;
   score += groupNamesScore(u, c);
   void b;
+  return score;
+}
+
+/** Words of group titles that name no one: "Sfinții", "Mucenici", "Noi", "Cuvioși" (see MatchRules.strict). */
+const GROUP_WORDS = new Set(
+  extraKeys({ text: "x Sfinții Sfinți Sfintele Sfinte Sfințiți Mucenici Mucenicii Mucenițe Mucenițele Cuvioși Cuvioșii Cuvioase Noi Noii Mari Părinți Părinții Ierarhi Apostoli Martiri Mărturisitori Fecioare Saints Holy Martyrs Venerable Fathers New", given: "x", key: "x", extra: [] }),
+);
+
+/** groupScore without the words that name no one, and below zero across another place (see MatchRules.strict). */
+function strictGroupScore(u: Unit, c: Cluster): number {
+  const p = u.parsed;
+  const g = c.group ?? c.subjectGroup;
+  if (!g) return 0;
+  const name = [g.ro, g.en].filter(Boolean).join(" ");
+  const places = (text: string): string[] => placeKeys({ text: `x ${text}`, given: "x", key: "x", extra: [] }).filter((k) => !COUNTRY_KEYS.has(k));
+  const pu = places(p.title);
+  const pg = places(name);
+  if (pu.length > 0 && pg.length > 0 && !pu.some((x) => pg.some((y) => x === y || nameSimilarity(x, y) >= 0.6))) return -1;
+  let score = 0;
+  if (p.count && g.count) score += p.count === g.count ? 1 : -1;
+  const ka = new Set(extraKeys({ text: `x ${p.title}`, given: "x", key: "x", extra: [] }));
+  let overlap = 0;
+  for (const k of extraKeys({ text: `x ${name}`, given: "x", key: "x", extra: [] })) if (ka.has(k) && !TITLE_FILLER.has(k) && !GROUP_WORDS.has(k)) overlap++;
+  score += Math.min(overlap, 2) * 0.5;
+  score += groupNamesScore(u, c);
   return score;
 }
 

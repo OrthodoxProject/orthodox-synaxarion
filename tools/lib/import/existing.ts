@@ -11,7 +11,7 @@ import { parseEn } from "./en.ts";
 import { FEASTS } from "./feasts.ts";
 import type { Gender, HolinessType, NamePart } from "./model.ts";
 import { parseRo } from "./ro.ts";
-import type { Family } from "./units.ts";
+import { onlyLate, type Family } from "./units.ts";
 
 type Rec = Record<string, any>;
 
@@ -72,6 +72,7 @@ function personSlot(ds: Dataset, id: string, rec: Rec, family: Family): Slot {
       slot.alts.push(...parts.slice(1));
     }
   }
+  if (onlyLate(rec.sources)) slot.late = true;
   const ext = rec.external_ids ?? {};
   if (ext.oca) slot.ext.oca = ext.oca;
   if (ext.doxologia) slot.ext.doxologia = ext.doxologia;
@@ -172,12 +173,15 @@ export function loadExisting(dataDir: string): Existing {
       ext: {},
       units: [],
       existingComm: id,
+      ...(onlyLate(rec.sources) ? { late: true } : {}),
       commId: id,
     };
     if (rule.type === "fixed" && rule.month === 2 && rule.day === 29) c.leapDay = true;
     if (rec.duration_days) c.durationDays = rec.duration_days;
     const feast = FEASTS.find((f) => f.id === id || `comm:${f.id}` === rec.parent_feast);
     if (feast && (kind === "feast" || kind === "forefeast" || kind === "afterfeast" || kind === "leavetaking")) c.feast = feast.id;
+    // The events and synaxes of the table of feasts (the Beheading of St John, the Church New Year) are found by it too.
+    else if (feast && feast.id === id) c.feast = feast.id;
     if (rec.external_ids?.oca) c.ext.oca = rec.external_ids.oca;
     for (const s of rec.sources ?? []) {
       const url = s.url as string | undefined;

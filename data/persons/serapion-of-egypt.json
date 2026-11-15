@@ -6,9 +6,20 @@
     "venerable"
   ],
   "external_ids": {
+    "doxologia": "sfantul-cuvios-serapion",
     "oca": "101022"
   },
   "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-serapion",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ier-iacob-marturisitorul-sf-cuv-serapion-pomenirea-celor-adormiti/",
+      "accessed": "2026-11-08"
+    },
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/04/07/101022-venerable-serapion-of-egypt",
@@ -32,10 +43,10 @@
   ],
   "editorial": {
     "status": "draft",
-    "confidence": "low",
+    "confidence": "medium",
     "notes": [
-      "Importat automat din oca.org; de verificat.",
-      "Genul nu reiese din sursă; e de verificat."
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat.",
+      "Calendarul BOR îl pomenește și pe 21 martie (Sf. Cuv. Serapion): sinaxarul oficial al zilei îl numește întâi episcop de Thmuis, apoi îi spune viața Sindonitului, aceeași cu cea de pe paginile OCA din 7 aprilie și 14 mai."
     ]
   }
 }

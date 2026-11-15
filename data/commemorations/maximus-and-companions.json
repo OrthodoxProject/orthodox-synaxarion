@@ -3,7 +3,7 @@
   "kind": "repose",
   "subjects": [
     "person:maximus",
-    "person:cvintilian",
+    "person:quinctilian",
     "person:dada-of-ozovia"
   ],
   "date_rule": {
@@ -42,5 +42,8 @@
     "notes": [
       "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "quinctilian--repose"
+  ]
 }

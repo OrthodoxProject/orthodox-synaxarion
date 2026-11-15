@@ -1,0 +1,37 @@
+{
+  "id": "eupsychius-of-caesarea-2--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:eupsychius-of-caesarea-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 7
+  },
+  "external_ids": {
+    "oca": "102538"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/07/102538-martyr-eupsychius-of-caesarea-in-cappadocia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/septembrie/sinaxar-ziua-7-luna-9/#ancora-continut-4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  },
+  "aliases": [
+    "eupsychius-of-caesarea--09-07"
+  ]
+}

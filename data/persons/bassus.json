@@ -5,7 +5,15 @@
   "holiness_types": [
     "martyr"
   ],
+  "external_ids": {
+    "doxologia": "sfantul-mucenic-vas"
+  },
   "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-vas",
+      "accessed": "2026-11-08"
+    },
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/01/20/100245-martyrs-bassus-eusebius-euthychius-and-basileides-at-nicomedia",
@@ -19,10 +27,12 @@
   ],
   "editorial": {
     "status": "draft",
-    "confidence": "low",
+    "confidence": "medium",
     "notes": [
-      "Importat automat din oca.org; de verificat.",
-      "Genul nu reiese din sursă; e de verificat."
+      "Importat automat din doxologia.ro, oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "vas"
+  ]
 }

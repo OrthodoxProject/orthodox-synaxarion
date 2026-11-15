@@ -1,0 +1,32 @@
+{
+  "id": "elpis",
+  "kind": "saint",
+  "gender": "female",
+  "holiness_types": [
+    "martyr"
+  ],
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-mucenita-sofia-fiicele-sale-pistis-elpis-agapis",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-ier-dionisie-episcopul-cetatii-albe-ismail-sf-mc-sofia-intelepciunea-si-fiicele-ei-pistis-credinta-elpis-nadejdea-si-agapi-dragostea/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/septembrie/sinaxar-ziua-17-luna-9/#ancora-continut-1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro; de verificat."
+    ]
+  }
+}

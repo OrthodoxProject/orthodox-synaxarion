@@ -6,18 +6,29 @@
     "martyr"
   ],
   "external_ids": {
+    "doxologia": "sfantul-mucenic-eupsihie-din-cezareea-capadociei",
     "oca": "101035"
   },
   "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-eupsihie-din-cezareea-capadociei",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sfanta-si-marea-joi-denia-celor-12-evanghelii-sf-mc-eupsihie-sf-cuv-vadim/",
+      "accessed": "2026-11-08"
+    },
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/04/09/101035-martyr-eupsychius-of-caesarea-in-cappadocia",
       "accessed": "2026-11-08"
     },
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/09/07/102538-martyr-eupsychius-of-caesarea-in-cappadocia",
-      "accessed": "2026-11-08"
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/aprilie/sinaxar-ziua-9-luna-4/#ancora-continut-1",
+      "accessed": "2026-11-15"
     },
     {
       "source": "src:e-religie",
@@ -27,10 +38,12 @@
   ],
   "editorial": {
     "status": "draft",
-    "confidence": "low",
+    "confidence": "medium",
     "notes": [
-      "Importat automat din oca.org; de verificat.",
-      "Genul nu reiese din sursă; e de verificat."
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "eupsihie-of-cezareea-capadociei"
+  ]
 }

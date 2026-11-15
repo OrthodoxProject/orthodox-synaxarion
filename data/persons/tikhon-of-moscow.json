@@ -6,9 +6,15 @@
     "hierarch"
   ],
   "external_ids": {
+    "doxologia": "sfantul-ierarh-tihon-patriarhul-moscovei-al-intregii-rusii",
     "oca": "101016"
   },
   "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-ierarh-tihon-patriarhul-moscovei-al-intregii-rusii",
+      "accessed": "2026-11-08"
+    },
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/04/07/101016-repose-of-saint-tikhon-patriarch-of-moscow-enlightener-of-north",
@@ -32,14 +38,14 @@
   ],
   "editorial": {
     "status": "draft",
-    "confidence": "low",
+    "confidence": "medium",
     "notes": [
-      "Importat automat din oca.org; de verificat.",
-      "Genul nu reiese din sursă; e de verificat."
+      "Importat automat din doxologia.ro, oca.org, orthodox-calendar; de verificat."
     ]
   },
   "aliases": [
     "tikhon-of-moscow-2",
-    "confessor-hieromartyr-tikhon-of-moscow"
+    "confessor-hieromartyr-tikhon-of-moscow",
+    "tihon-of-moscova"
   ]
 }

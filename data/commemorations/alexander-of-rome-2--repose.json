@@ -1,0 +1,37 @@
+{
+  "id": "alexander-of-rome-2--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:alexander-of-rome-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 13
+  },
+  "external_ids": {
+    "oca": "101367"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/13/101367-martyr-alexander-of-rome",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/mai/sinaxar-ziua-13-luna-5/#ancora-continut-2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  },
+  "aliases": [
+    "alexander-of-rome--05-13"
+  ]
+}

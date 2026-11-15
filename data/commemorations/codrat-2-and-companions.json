@@ -2,19 +2,19 @@
   "id": "codrat-2-and-companions",
   "kind": "repose",
   "subjects": [
-    "person:anect-2",
-    "person:pavel-5",
-    "person:crescent-2"
+    "person:codrat-2",
+    "person:teodosie",
+    "person:emanuil"
   ],
   "date_rule": {
     "type": "fixed",
     "month": 3,
-    "day": 10
+    "day": 26
   },
   "sources": [
     {
       "source": "src:e-religie",
-      "url": "https://e-religie.ro/sinaxar/martie/sinaxar-ziua-10-luna-3/#ancora-continut-1",
+      "url": "https://e-religie.ro/sinaxar/martie/sinaxar-ziua-26-luna-3/#ancora-continut-5",
       "accessed": "2026-11-15"
     }
   ],

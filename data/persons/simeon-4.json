@@ -5,18 +5,34 @@
   "holiness_types": [
     "martyr"
   ],
+  "external_ids": {
+    "doxologia": "sfantul-mucenic-simeon"
+  },
   "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-simeon",
+      "accessed": "2026-11-08"
+    },
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/05/18/101426-martyrs-simeon-isaac-and-bachtisius-of-persia",
       "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/mai/sinaxar-ziua-16-luna-5/#ancora-continut-4",
+      "accessed": "2026-11-15"
     }
   ],
   "editorial": {
     "status": "draft",
-    "confidence": "low",
+    "confidence": "medium",
     "notes": [
-      "Importat automat din oca.org; de verificat."
+      "Importat automat din doxologia.ro, oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "simeon-2"
+  ]
 }

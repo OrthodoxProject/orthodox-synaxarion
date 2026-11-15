@@ -6,20 +6,49 @@
     "right_believing"
   ],
   "external_ids": {
+    "doxologia": "sfanta-imparateasa-pulheria",
     "oca": "102566"
   },
   "sources": [
     {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-imparateasa-pulheria",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mare-mc-teodor-tiron-sf-mariamna-sf-imparati-marcian-si-pulheria/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-minodora-mitrodora-si-nimfodora-sf-imparateasa-pulheria/",
+      "accessed": "2026-11-08"
+    },
+    {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/09/10/102566-right-believing-pulcheria-byzantine-empress",
       "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/februarie/sinaxar-ziua-17-luna-2/#ancora-continut-6",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/septembrie/sinaxar-ziua-10-luna-9/#ancora-continut-2",
+      "accessed": "2026-11-15"
     }
   ],
   "editorial": {
     "status": "draft",
-    "confidence": "low",
+    "confidence": "medium",
     "notes": [
-      "Importat automat din oca.org; de verificat."
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "pulheria"
+  ]
 }

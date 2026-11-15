@@ -1,0 +1,34 @@
+{
+  "id": "plato-the-confessor-of-studion--04-04",
+  "kind": "repose",
+  "subjects": [
+    "person:plato-the-confessor-of-studion"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 4
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-platon",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/aprilie/sinaxar-ziua-4-luna-4/#ancora-continut-4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din doxologia.ro; de verificat."
+    ]
+  },
+  "aliases": [
+    "platon-2--repose"
+  ]
+}

@@ -2,7 +2,8 @@
   "id": "karion-of-egypt--repose",
   "kind": "repose",
   "subjects": [
-    "person:karion-of-egypt"
+    "person:karion-of-egypt",
+    "person:zachariah-of-egypt"
   ],
   "date_rule": {
     "type": "fixed",

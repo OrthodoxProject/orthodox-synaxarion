@@ -1,0 +1,42 @@
+{
+  "tradition": "georgian",
+  "date": "09-15",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:joseph-of-alaverdi--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:niketas-the-goth--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:acacius-the-confessor--repose"
+      ],
+      "differs_from_default": true
+    },
+    {
+      "commemorations": [
+        "comm:theodotus-4-and-companions"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:porphyrius-the-actor--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:protomartyr--finding-of-relics"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:philotheus-the-presbyter-in-asia-minor--repose"
+      ]
+    }
+  ]
+}

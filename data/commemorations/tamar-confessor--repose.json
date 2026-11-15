@@ -1,0 +1,26 @@
+{
+  "id": "tamar-confessor--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:tamar-confessor"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 10
+  },
+  "sources": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-06-23?text=4389",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendarul Patriarhiei Georgiei (patriarchate.ge); de verificat."
+    ]
+  }
+}

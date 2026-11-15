@@ -1,0 +1,19 @@
+{
+  "id": "shushanik-queen",
+  "locale": "ka",
+  "names": {
+    "display": "მოწამე შუშანიკ",
+    "given": "შუშანიკ"
+  },
+  "references": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-09-10?text=2748",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "saturnine",
+  "locale": "ka",
+  "names": {
+    "display": "მღვდელმოწამე სატურნინე",
+    "given": "სატურნინე"
+  },
+  "references": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-06-16?text=4339",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

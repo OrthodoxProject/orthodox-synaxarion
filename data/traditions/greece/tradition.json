@@ -23,6 +23,9 @@
     "grc"
   ],
   "default_locale": "el",
+  "external_ids": {
+    "wikidata": "Q59778"
+  },
   "editorial": {
     "status": "draft",
     "confidence": "medium",

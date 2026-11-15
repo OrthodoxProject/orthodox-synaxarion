@@ -1,0 +1,26 @@
+{
+  "id": "michael-6--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:michael-6"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 18
+  },
+  "sources": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-07-01?text=4439",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendarul Patriarhiei Georgiei (patriarchate.ge); de verificat."
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "theodore-7",
+  "locale": "ka",
+  "names": {
+    "display": "დიდმოწამე თეოდორე",
+    "given": "თეოდორე"
+  },
+  "references": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-02-28?text=5245",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

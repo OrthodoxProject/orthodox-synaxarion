@@ -1,0 +1,19 @@
+{
+  "id": "ipolite",
+  "locale": "ka",
+  "names": {
+    "display": "მოწამე იპოლიტე",
+    "given": "იპოლიტე"
+  },
+  "references": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-08-26?text=4753",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

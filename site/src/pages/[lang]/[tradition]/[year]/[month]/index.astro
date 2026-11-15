@@ -1,7 +1,7 @@
 ---
 import Base from "../../../../../layouts/Base.astro";
-import { capitalize, churchDateText, lineTitle, monthName, traditionName, vocab, weekdayText } from "../../../../../lib/format.ts";
-import { calendarTraditions, dayHref, daysOf, ds, monthHref, siteYears, todayIso } from "../../../../../lib/site.ts";
+import { capitalize, churchDateText, lineTitle, monthName, symbolLegend, traditionName, vocab, weekdayText } from "../../../../../lib/format.ts";
+import { calendarTraditions, dayHref, daysOf, monthHref, siteYears, todayIso } from "../../../../../lib/site.ts";
 import { LANGS, t, type Lang } from "../../../../../lib/ui.ts";
 
 export function getStaticPaths() {
@@ -22,7 +22,7 @@ const tradition = params.tradition as string;
 const year = Number(params.year);
 const month = Number(params.month);
 const days = daysOf(tradition, year).filter((d) => Number(d.date.slice(5, 7)) === month);
-const legend = new Map(((ds().traditions.get(tradition)?.symbol_legend ?? []) as Array<Record<string, any>>).map((s) => [s.key as string, s]));
+const legend = symbolLegend(tradition);
 const years = siteYears();
 const prev = month === 1 ? { y: year - 1, m: 12 } : { y: year, m: month - 1 };
 const next = month === 12 ? { y: year + 1, m: 1 } : { y: year, m: month + 1 };

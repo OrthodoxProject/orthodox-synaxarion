@@ -1,0 +1,26 @@
+{
+  "id": "nina-of-samtavro--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:nina-of-samtavro"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 11
+  },
+  "sources": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-02-24?text=3712",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendarul Patriarhiei Georgiei (patriarchate.ge); de verificat."
+    ]
+  }
+}

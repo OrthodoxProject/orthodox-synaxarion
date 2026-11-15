@@ -1,0 +1,26 @@
+{
+  "id": "julian-marcian-john-james-alexis-demetrius-fotios-peter",
+  "kind": "repose",
+  "subjects": [
+    "group:julian-marcian-john-james-alexis-demetrius-fotios-peter"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 9
+  },
+  "sources": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-08-22?text=4734",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendarul Patriarhiei Georgiei (patriarchate.ge); de verificat."
+    ]
+  }
+}

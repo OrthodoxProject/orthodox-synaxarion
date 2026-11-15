@@ -1,0 +1,27 @@
+{
+  "id": "polieukt-and-timothy-deacon",
+  "kind": "repose",
+  "subjects": [
+    "person:polieukt",
+    "person:timothy-deacon"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 19
+  },
+  "sources": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2027-01-01?text=3426",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendarul Patriarhiei Georgiei (patriarchate.ge); de verificat."
+    ]
+  }
+}

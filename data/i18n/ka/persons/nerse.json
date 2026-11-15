@@ -1,0 +1,19 @@
+{
+  "id": "nerse",
+  "locale": "ka",
+  "names": {
+    "display": "ნერსე",
+    "given": "ნერსე"
+  },
+  "references": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-10-18?text=2969",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

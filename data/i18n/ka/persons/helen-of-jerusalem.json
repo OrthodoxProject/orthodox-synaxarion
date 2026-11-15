@@ -1,0 +1,19 @@
+{
+  "id": "helen-of-jerusalem",
+  "locale": "ka",
+  "names": {
+    "display": "წმიდა ელენე",
+    "given": "ელენე"
+  },
+  "references": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-03-19?text=3843",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

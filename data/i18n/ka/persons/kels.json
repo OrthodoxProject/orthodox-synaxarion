@@ -1,0 +1,19 @@
+{
+  "id": "kels",
+  "locale": "ka",
+  "names": {
+    "display": "მოწამე კელსი",
+    "given": "კელსი"
+  },
+  "references": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-01-21?text=3526",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

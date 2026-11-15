@@ -1,0 +1,26 @@
+{
+  "id": "george-teacher--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:george-teacher"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 3
+  },
+  "sources": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-07-16?text=4506",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendarul Patriarhiei Georgiei (patriarchate.ge); de verificat."
+    ]
+  }
+}

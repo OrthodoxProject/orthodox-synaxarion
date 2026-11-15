@@ -1,0 +1,26 @@
+{
+  "id": "alexander-alfes-zosimas-mark-nikon-neon-and-iliodore",
+  "kind": "repose",
+  "subjects": [
+    "group:alexander-alfes-zosimas-mark-nikon-neon-and-iliodore"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 28
+  },
+  "sources": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-10-11?text=2920",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendarul Patriarhiei Georgiei (patriarchate.ge); de verificat."
+    ]
+  }
+}

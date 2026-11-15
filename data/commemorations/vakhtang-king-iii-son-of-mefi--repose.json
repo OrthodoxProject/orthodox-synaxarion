@@ -1,0 +1,26 @@
+{
+  "id": "vakhtang-king-iii-son-of-mefi--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:vakhtang-king-iii-son-of-mefi"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 10
+  },
+  "sources": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-12-23?text=3375",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendarul Patriarhiei Georgiei (patriarchate.ge); de verificat."
+    ]
+  }
+}

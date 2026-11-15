@@ -1,7 +1,7 @@
 import type { APIRoute } from "astro";
-import { bibleRefText, churchDateText, lineTitle, readingRoleText, traditionName, vocab } from "../../lib/format.ts";
+import { bibleRefText, churchDateText, lineTitle, readingRoleText, symbolLegend, traditionName, vocab } from "../../lib/format.ts";
 import { icsCalendar } from "../../lib/ics.ts";
-import { calendarTraditions, dayHref, daysOf, ds, siteYears } from "../../lib/site.ts";
+import { calendarTraditions, dayHref, daysOf, siteYears } from "../../lib/site.ts";
 import { LANGS, t, type Lang } from "../../lib/ui.ts";
 
 export function getStaticPaths() {
@@ -13,7 +13,7 @@ type Rec = Record<string, any>;
 export const GET: APIRoute = ({ params, site }) => {
   const lang = params.lang as Lang;
   const tradition = params.tradition as string;
-  const glyphs = new Map(((ds().traditions.get(tradition)?.symbol_legend ?? []) as Rec[]).map((s) => [s.key as string, s.glyph as string]));
+  const glyphs = new Map([...symbolLegend(tradition)].map(([key, s]) => [key, s.glyph as string]));
   const events = siteYears()
     .flatMap((year) => daysOf(tradition, year))
     .filter((day) => day.lines.length > 0)

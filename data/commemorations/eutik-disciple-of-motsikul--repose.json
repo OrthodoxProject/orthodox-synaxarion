@@ -1,0 +1,26 @@
+{
+  "id": "eutik-disciple-of-motsikul--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:eutik-disciple-of-motsikul"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 24
+  },
+  "sources": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-09-06?text=4822",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendarul Patriarhiei Georgiei (patriarchate.ge); de verificat."
+    ]
+  }
+}

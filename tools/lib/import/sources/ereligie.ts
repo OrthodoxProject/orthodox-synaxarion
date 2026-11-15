@@ -106,6 +106,19 @@ export function parseDay(html: string, day: EReligieDay): EReligieEntry[] {
  */
 const NOT_A_COMMEMORATION = /^(?:\(|Cuvânt\b|Povestire\b|Povestirea\b|Minunea\b|Minunile\b|Din minunile\b|Alți sfinți\b|Monahul\b|Despre (?!Icoana\b|alt\b|alți\b))/i;
 
+/**
+ * Lines checked by hand that keep no commemoration of their own: stories told on the day (an unknown hermit, 4
+ * February; the three women found on a mountain, 10 September), the history of an icon told on the day of another (the
+ * Hodegetria, on the day of the Tikhvin icon, 26 June) and a heading whose names are those of the heretics condemned by
+ * the council of Pope Martin (14 April).
+ */
+const LEFT_OUT = new Set([
+  "Pomenirea unui sihastru necunoscut",
+  "Sfintele trei femei, ce s-au aflat într-un munte pustiu",
+  "Icoana Maicii Domnului Odighitria",
+  "Sf. Mărturisitori episcopi de Apus: Serghie, Pir și Teodor",
+]);
+
 /** Genitive honorifics that open the name of a saint ("Viața Cuviosului Iosif", "Pătimirea Sfinților Mucenici …"). */
 const GENITIVE_SAINT = /^(?:Sf\.|Sfântului|Sfintei|Sfinților|Sfintelor|Cuviosului|Cuvioasei|Cuvioșilor|Cuvioaselor|Preacuviosului|Dreptului|Dreptei|Fericitului|Fericitei|Proorocului|Prorocului|Apostolului|Ierarhului|Mucenicului|Muceniței|Evlaviosului|Binecredinciosului)\s/;
 
@@ -177,7 +190,9 @@ const CALENDAR_FORMS: Array<[RegExp, string]> = [
  */
 export function ereligieTitle(heading: string): string | null {
   let t = cleanText(heading);
-  if (NOT_A_COMMEMORATION.test(t)) return null;
+  if (NOT_A_COMMEMORATION.test(t) || LEFT_OUT.has(t)) return null;
+  // A stray bracket ("Sf. Mc. Maxim]", 7 May).
+  if (!t.includes("[")) t = t.replace(/\]/g, "").trim();
   t = t.replace(/^Despre\s+/i, "").replace(/^(?:alt|alți|alte|altă)\s+/i, "");
   for (const [re, to] of CALENDAR_FORMS) t = t.replace(re, to);
   const own = /^(?:Viața|Pătimirea|Pomenirea|Nevoințele)\s+(.*)$/i.exec(t);

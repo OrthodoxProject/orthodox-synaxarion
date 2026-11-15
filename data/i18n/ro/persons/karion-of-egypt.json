@@ -2,9 +2,9 @@
   "id": "karion-of-egypt",
   "locale": "ro",
   "names": {
-    "display": "Sf. Cuv. Carion și fiul său, Sf. Cuv. Zaharia, din Egipt",
-    "full": "Sfântul Cuvios Carion și fiul său, Sfântul Cuvios Zaharia, din Egipt",
-    "short": "Carion și fiul său, Zaharia, din Egipt",
+    "display": "Sf. Cuv. Carion din Egipt",
+    "full": "Sfântul Cuvios Carion din Egipt",
+    "short": "Carion din Egipt",
     "given": "Carion"
   },
   "references": [
@@ -18,6 +18,6 @@
     "status": "machine",
     "method": "machine",
     "from": "en",
-    "date": "2026-11-08"
+    "date": "2026-11-15"
   }
 }

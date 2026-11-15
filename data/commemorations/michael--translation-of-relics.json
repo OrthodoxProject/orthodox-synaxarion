@@ -2,7 +2,8 @@
   "id": "michael--translation-of-relics",
   "kind": "relics_translation",
   "subjects": [
-    "person:michael"
+    "person:michael",
+    "person:theodore-of-chernigov"
   ],
   "date_rule": {
     "type": "fixed",

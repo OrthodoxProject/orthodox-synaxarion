@@ -2,7 +2,8 @@
   "id": "michael--repose",
   "kind": "repose",
   "subjects": [
-    "person:michael"
+    "person:michael",
+    "person:theodore-of-chernigov"
   ],
   "date_rule": {
     "type": "fixed",

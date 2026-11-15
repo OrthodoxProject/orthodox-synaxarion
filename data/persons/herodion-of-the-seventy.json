@@ -16,13 +16,28 @@
       "accessed": "2026-11-08"
     },
     {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-apostol-rodion",
+      "accessed": "2026-11-08"
+    },
+    {
       "source": "src:calendar-patriarhia",
       "url": "https://calendar.patriarhia.ro/calendar-entry-26/sfanta-si-marea-miercuri-denie-sf-ap-irodion-agav-ruf-asincrit-flegon-si-ermis-sf-ier-celestin-episcopul-romei/",
       "accessed": "2026-11-08"
     },
     {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ap-olimp-rodion-sosipatru-erast-tertiu-si-cvart-%e2%80%a0-sf-cuv-mc-visarion-de-la-lainici-sf-mc-orest/",
+      "accessed": "2026-11-08"
+    },
+    {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/04/08/101024-apostle-herodion-of-the-seventy-and-those-with-him",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/10/103265-apostles-of-the-seventy-erastus-olympas-herodion-sosipater-quart",
       "accessed": "2026-11-08"
     }
   ],
@@ -32,5 +47,8 @@
     "notes": [
       "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "herodion-the-apostle"
+  ]
 }

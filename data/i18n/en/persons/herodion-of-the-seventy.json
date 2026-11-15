@@ -4,12 +4,20 @@
   "names": {
     "display": "Apostle Herodion of the Seventy, and those with Him",
     "short": "Herodion of the Seventy",
-    "given": "Herodion"
+    "given": "Herodion",
+    "variants": [
+      "Apostle Herodion"
+    ]
   },
   "references": [
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/04/08/101024-apostle-herodion-of-the-seventy-and-those-with-him",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/10/103265-apostles-of-the-seventy-erastus-olympas-herodion-sosipater-quart",
       "accessed": "2026-11-08"
     }
   ],

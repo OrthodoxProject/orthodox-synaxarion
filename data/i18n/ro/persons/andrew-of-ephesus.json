@@ -1,0 +1,23 @@
+{
+  "id": "andrew-of-ephesus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Andrei preotul, din Efes",
+    "full": "Sfântul Sfințit Mucenic Andrei preotul, din Efes",
+    "short": "Andrei preotul",
+    "given": "Andrei"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/21/102687-hieromartyr-hypatius-bishop-of-ephesus-and-his-presbyter-andrew",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-15"
+  }
+}

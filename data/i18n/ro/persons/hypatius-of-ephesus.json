@@ -2,9 +2,9 @@
   "id": "hypatius-of-ephesus",
   "locale": "ro",
   "names": {
-    "display": "Sf. Sfințit Mc. Ipatie, Episcopul Efesului, și preotul său, Andrei",
-    "full": "Sfântul Sfințit Mucenic Ipatie, Episcopul Efesului, și preotul său, Andrei",
-    "short": "Ipatie, Episcopul Efesului, și preotul său, Andrei",
+    "display": "Sf. Sfințit Mc. Ipatie, Episcopul Efesului",
+    "full": "Sfântul Sfințit Mucenic Ipatie, Episcopul Efesului",
+    "short": "Ipatie, Episcopul Efesului",
     "given": "Ipatie"
   },
   "references": [
@@ -18,6 +18,6 @@
     "status": "machine",
     "method": "machine",
     "from": "en",
-    "date": "2026-11-08"
+    "date": "2026-11-15"
   }
 }

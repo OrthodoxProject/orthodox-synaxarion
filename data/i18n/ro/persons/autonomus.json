@@ -2,22 +2,25 @@
   "id": "autonomus",
   "locale": "ro",
   "names": {
-    "display": "Sf. Sfințit Mc. Avtonom, episcop în Italia",
-    "full": "Sfântul Sfințit Mucenic Avtonom, episcop în Italia",
-    "short": "Avtonom, episcop în Italia",
+    "display": "Sf. Mc. Avtonom",
+    "full": "Sfântul Mucenic Avtonom",
+    "short": "Avtonom",
     "given": "Avtonom"
   },
   "references": [
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/09/12/102585-hieromartyr-autonomus-bishop-in-italy",
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-avtonom",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/odovania-praznicului-nasterii-maicii-domnului-sf-mc-avtonom-macedonie-si-teodul/",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "en",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

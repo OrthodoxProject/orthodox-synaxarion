@@ -1,0 +1,20 @@
+{
+  "id": "stephen-of-constantinople-2",
+  "locale": "en",
+  "names": {
+    "display": "Saint Stephen, Archbishop of Constantinople",
+    "short": "Stephen, Archbishop of Constantinople",
+    "given": "Stephen"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/17/101411-saint-stephen-archbishop-of-constantinople",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

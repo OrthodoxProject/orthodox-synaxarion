@@ -2,7 +2,8 @@
   "id": "hypatius-of-ephesus--repose",
   "kind": "repose",
   "subjects": [
-    "person:hypatius-of-ephesus"
+    "person:hypatius-of-ephesus",
+    "person:andrew-of-ephesus"
   ],
   "date_rule": {
     "type": "fixed",

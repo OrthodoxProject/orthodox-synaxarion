@@ -1188,9 +1188,13 @@ export class Builder {
       const names = [...(c.group?.names ?? []), ...c.slots.flatMap((s) => [s.ro?.part, s.en?.part, ...s.alts])].filter((n): n is NamePart => n !== undefined);
       return u.parsed.names.some((part) => names.some((n) => givenSimilarity(part, n) >= 0.85));
     };
-    const keptClusters = found.clusters.filter((c) => (!found.pairs.some(([, slot]) => c.slots.includes(slot)) && named(c)) || pairs.some(([, slot]) => c.slots.includes(slot)));
+    const pairless = (c: Cluster): boolean => !found.pairs.some(([, slot]) => c.slots.includes(slot));
+    const keptClusters = found.clusters.filter((c) => (pairless(c) && named(c)) || pairs.some(([, slot]) => c.slots.includes(slot)));
+    // The names that found a commemoration left out are names left over again.
+    const lost = found.clusters.some((c) => pairless(c) && !keptClusters.includes(c));
+    const leftOver = lost ? u.parsed.names.filter((n) => !pairs.some(([part]) => part === n)) : [...found.rest, ...dropped];
     const result: MatchResult = { clusters: keptClusters, pairs, rest: [] };
-    const left = this.sameLine(u, { ...result, rest: [...found.rest, ...dropped] });
+    const left = this.sameLine(u, { ...result, rest: leftOver });
     result.pairs.push(...left.pairs);
     for (const part of left.rest) {
       const taken = new Set([...claimed, ...result.pairs.map(([, slot]) => slot)]);

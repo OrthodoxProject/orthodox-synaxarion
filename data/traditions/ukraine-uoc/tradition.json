@@ -13,9 +13,13 @@
   ],
   "liturgical_languages": [
     "cu",
-    "uk"
+    "uk",
+    "ro"
   ],
   "default_locale": "uk",
+  "external_ids": {
+    "wikidata": "Q752474"
+  },
   "editorial": {
     "status": "draft",
     "confidence": "medium",

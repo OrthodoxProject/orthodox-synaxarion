@@ -20,11 +20,14 @@
     "ro"
   ],
   "default_locale": "ro",
+  "external_ids": {
+    "wikidata": "Q1300999"
+  },
   "editorial": {
     "status": "draft",
     "confidence": "medium",
     "notes": [
-      "Mitropolie autonomă a Patriarhiei Române, pe stil nou: ține calendarul Bisericii Ortodoxe Române (calendar_from), plus sfinții Basarabiei."
+      "Mitropolie autonomă a Patriarhiei Române, reactivată în 1992, pe stil nou: ține calendarul Bisericii Ortodoxe Române (calendar_from). Sfinții ei, Sf. Ier. Iraclie și Alexandru ai Basarabiei (canonizați de Sinodul BOR în 2024), sunt deja în calendarul BOR; multe parohii venite de la Mitropolia Chișinăului țin încă stilul vechi."
     ]
   }
 }

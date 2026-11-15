@@ -15,10 +15,10 @@ Issue: [#46](https://github.com/OrthodoxProject/orthodox-synaxarion/issues/46).
 | `cyprus` | Biserica Ciprului | stil nou (din 1924) | *Τυπική Διάταξη* a Bisericii Ciprului (churchofcyprus.org.cy) |
 | `bulgarian` | Biserica Ortodoxă Bulgară | stil nou (din 20 decembrie 1968) | calendarul oficial de pe bg-patriarshia.bg |
 | `georgian` | Biserica Ortodoxă a Georgiei | stil vechi | calendarul oficial de pe patriarchate.ge |
-| `ukraine-ocu` | Biserica Ortodoxă a Ucrainei | stil nou (din 2023) | de ales |
-| `ukraine-uoc` | Biserica Ortodoxă Ucraineană | stil vechi | de ales |
+| `ukraine-ocu` | Biserica Ortodoxă a Ucrainei | stil nou (din 1 septembrie 2023) | *Богослужбові вказівки* ale Bisericii (pomisna.info) |
+| `ukraine-uoc` | Biserica Ortodoxă Ucraineană | stil vechi | calendarul blagovist.info (cel de pe news.church.ua) |
 | `montenegro` | Mitropolia Muntenegrului și a Litoralului | stil vechi | calendarul Serbiei (`calendar_from`), plus sfinții Muntenegrului |
-| `moldova-bessarabia` | Mitropolia Basarabiei | stil nou | calendarul BOR (`calendar_from`), plus sfinții Basarabiei |
+| `moldova-bessarabia` | Mitropolia Basarabiei | stil nou | calendarul BOR (`calendar_from`) |
 
 ## Sursele
 
@@ -28,6 +28,9 @@ Sursele au toate drepturile rezervate (Sinodul Bisericii Bulgare permite citarea
 - **Bulgaria, bg-patriarshia.bg**: calendarul pe un an întreg într-o singură pagină, `https://bg-patriarshia.bg/calendar/<an>` (2009–2026). E o alegere a Sinodului, nu tot Mineiul: 1–6 nume pe zi, cu sfinții bulgari, cu semnele `+`/`†` (praznic mare sau duminică) și `*` (praznic mijlociu). Sf. Gheorghe e pe 6 mai. Zilele mobile ale anului stau în aceeași celulă și se lasă deoparte, păstrând numele care se repetă în mai mulți ani.
 - **Grecia, saint.gr**: câte o pagină pe zi, `https://www.saint.gr/<LL>/<ZZ>/index.aspx`, cu câte un titlu la nominativ pentru fiecare pomenire și pagina ei, `https://www.saint.gr/<id>/saint.aspx` (ID-ul merge în `external_ids.saint_gr`). E la zi (are sfinții canonizați după 2008). Sinaxarul oficial al Bisericii Greciei, pe ecclesiagreece.gr, are câte un paragraf pe zi, la genitiv, și nu mai e ținut la zi: servește la verificare.
 - **Cipru, churchofcyprus.org.cy**: *Τυπική Διάταξη* a fiecărui an (2010–2026), câte un PDF pe lună: pentru fiecare zi, pomenirile cu slujbă și sfinții Ciprului. Restul Mineiului e cel grecesc.
+- **Ucraina, Biserica Ortodoxă a Ucrainei**: *Богослужбові вказівки* (rânduiala slujbelor) a fiecărui an, câte un PDF pe pomisna.info (2025, 2026): pentru fiecare zi civilă, toate pomenirile, cu anii lor, icoanele, soboarele și sfinții canonizați de ea, plus duminica și lecturile. Rangul e spus în cuvinte (*бдінна*, *полієлейна*, *славословна* …). O pomenire în aceeași zi în ambii ani e fixă. Textul iese din PDF doar cu `pdftotext -enc UTF-8`. Calendarul ei nu e cel rusesc: pe 10 octombrie nu îi are pe Sf. Ambrozie de la Optina, Andrei de la Totma și Inochentie de Penza și are icoana de la Brailiv.
+- **Ucraina, Biserica Ortodoxă Ucraineană**: calendarul blagovist.info, cel pe care îl arată și site-ul ei de știri (news.church.ua): câte o zi în JSON, `https://blagovist.info/calendar/jsCalData.php?dofcet=<AAAA-LL-ZZ>`, cu ambele date, cu toate pomenirile (sfinții locali și soboarele lor) și cu un link pentru fiecare; praznicele mari sunt cu majuscule, sfinții cu slujbă proprie cu litere groase. `robots.txt` oprește doar căutarea. Se citesc doi ani pe stil vechi (2026 și 2028), ca la OCA.
+- **Mitropolia Basarabiei**: nu are un calendar al ei; sfinții ei, Sf. Ier. Iraclie și Alexandru ai Basarabiei (canonizați de Sinodul BOR în 2024), sunt deja în calendarul BOR, deci `calendar_from` îi dă tot.
 - **Muntenegru**: nici Mitropolia, nici Patriarhia Sârbă nu publică un calendar pe zile. Mitropolia ține calendarul Bisericii Sârbe, iar sfinții Muntenegrului (Sf. Vasile de Ostrog, Sf. Petru de Cetinje, Sf. Ioan Vladimir, Sf. Ștefan Piperski, Sf. Isaia de Onogošt, Sf. Simeon Dajbabski, Sf. Ioanichie Lipovac, cei 42 de mucenici de la Momišići …) se adaugă de mână. Calendarul sârbesc însuși, azi ghicit (pomenirile comune calendarului BOR și celui OCA), s-ar putea reface din pravoslavno.rs, care are pe fiecare zi numele principale și ziua pe stil vechi.
 
 ## Făcut
@@ -38,9 +41,8 @@ Sursele au toate drepturile rezervate (Sinodul Bisericii Bulgare permite citarea
 ## Urmează
 
 1. **Importul din surse în alte limbi**, începând cu Georgia: numele se trec în litere latine (`tools/lib/import/translit.ts`), titlurile („მოწამისა”, „Св. мчк”, „Άγιος”) se citesc cu câte un tabel pe limbă și se scriu ca titlurile englezești pe care importul le citește deja, iar fiecare rând se caută, cu potrivirea importului (`Builder.match`), între pomenirile pe care calendarele din date le țin în aceeași zi din Minei. Ce se găsește primește rândul în calendarul nou; ce nu se găsește devine înregistrare nouă, cu numele în limba sursei, ciornă, de tradus apoi cu `npm run translate`.
-2. **Câte o Biserică pe PR**, cu verificarea pe tot anul deodată (rândurile negăsite și potrivirile nesigure, cu un script), apoi un import offline care nu mai scrie nimic și `npm run check`. Ordinea: Georgia, Bulgaria, Grecia, Cipru, Ucraina.
-3. **Sfinții locului** pentru Mitropolia Muntenegrului și Mitropolia Basarabiei.
-4. **Ucraina**: sursele celor două Biserici, de ales.
+2. **Câte o Biserică pe PR**, cu verificarea pe tot anul deodată (rândurile negăsite și potrivirile nesigure, cu un script), apoi un import offline care nu mai scrie nimic și `npm run check`. Ordinea: Georgia, Bulgaria, Grecia, Cipru, Biserica Ortodoxă Ucraineană, Biserica Ortodoxă a Ucrainei.
+3. **Sfinții Muntenegrului**, adăugați de mână în calendarul Mitropoliei.
 
 ## De unde se continuă
 

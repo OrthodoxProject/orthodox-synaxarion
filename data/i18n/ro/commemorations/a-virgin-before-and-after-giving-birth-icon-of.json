@@ -2,19 +2,17 @@
   "id": "a-virgin-before-and-after-giving-birth-icon-of",
   "locale": "ro",
   "names": {
-    "display": "Icoana Maicii Domnului „Fecioară înainte de naștere și după naștere”"
+    "display": "Cinstirea Sfintei Icoanei a Maicii Domnului „Întru naștere fecioria ai păzit”"
   },
   "references": [
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/10/17/102992-a-virgin-before-and-after-giving-birth-icon-of-the-mother-of-god",
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoanei-maicii-domnului-intru-nastere-fecioria-ai-pazit",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "en",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

@@ -34,6 +34,18 @@
         "comm:maximus-the-greek--repose"
       ],
       "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:icon-of-theotokos-comfort-or-consolation"
+      ],
+      "confidence": "low"
+    },
+    {
+      "commemorations": [
+        "comm:icon-of-theotokos-stabbed"
+      ],
+      "confidence": "low"
     }
   ]
 }

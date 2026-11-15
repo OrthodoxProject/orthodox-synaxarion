@@ -2,19 +2,17 @@
   "id": "finding-of-the-icon-of-theotokos-at-the-miasena",
   "locale": "ro",
   "names": {
-    "display": "Icoana Maicii Domnului de la Mănăstirea Miasena"
+    "display": "Icoana Preasfintei Născătoare de Dumnezeu, cea de la Miasine"
   },
   "references": [
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/09/01/102457-finding-of-the-icon-of-the-mother-of-god-at-the-miasena-monaster",
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/soborul-preasfintei-nascatoare-de-dumnezeu-cea-de-la-miasine",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "en",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

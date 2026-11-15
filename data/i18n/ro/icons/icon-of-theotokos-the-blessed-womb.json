@@ -2,19 +2,17 @@
   "id": "icon-of-theotokos-the-blessed-womb",
   "locale": "ro",
   "names": {
-    "display": "Icoana Maicii Domnului „Pântecele cel binecuvântat”"
+    "display": "Icoana Maicii Domnului „Binecuvântat este pântecele...”"
   },
   "references": [
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/12/26/103657-icon-of-the-mother-of-god-the-blessed-womb",
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoanei-maicii-domnului-binecuvantat-este-pantecele",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "en",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

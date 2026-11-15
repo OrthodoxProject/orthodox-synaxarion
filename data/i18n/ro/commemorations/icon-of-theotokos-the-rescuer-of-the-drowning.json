@@ -2,19 +2,17 @@
   "id": "icon-of-theotokos-the-rescuer-of-the-drowning",
   "locale": "ro",
   "names": {
-    "display": "Icoana Maicii Domnului „Izbăvitoarea celor ce se îneacă”"
+    "display": "Cinstirea Sfintei Icoanei a Maicii Domnului „Salvatoarea de la înec”"
   },
   "references": [
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/12/20/103599-icon-of-the-mother-of-god-the-rescuer-of-the-drowning",
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoanei-maicii-domnului-salvatoarea-de-la-inec",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "en",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

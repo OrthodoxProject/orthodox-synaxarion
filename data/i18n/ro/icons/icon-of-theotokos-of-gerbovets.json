@@ -2,19 +2,17 @@
   "id": "icon-of-theotokos-of-gerbovets",
   "locale": "ro",
   "names": {
-    "display": "Icoana Maicii Domnului de la Hârbovăț"
+    "display": "Icoana Maicii Domnului din Hârbovăț"
   },
   "references": [
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/10/01/108938-icon-of-the-mother-of-god-of-gerbovets",
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoane-maicii-domnului-din-harbovat",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "en",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

@@ -6,6 +6,11 @@
   ],
   "sources": [
     {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoanei-maicii-domnului-patimirilor",
+      "accessed": "2026-11-08"
+    },
+    {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/08/13/102292-icon-of-the-mother-of-god-of-the-passion",
       "accessed": "2026-11-08"
@@ -13,9 +18,12 @@
   ],
   "editorial": {
     "status": "draft",
-    "confidence": "low",
+    "confidence": "medium",
     "notes": [
-      "Importat automat din oca.org; de verificat."
+      "Importat automat din doxologia.ro, oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "icon-of-theotokos-a-patimirilor"
+  ]
 }

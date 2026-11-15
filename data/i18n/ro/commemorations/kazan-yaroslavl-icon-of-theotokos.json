@@ -1,0 +1,20 @@
+{
+  "id": "kazan-yaroslavl-icon-of-theotokos",
+  "locale": "ro",
+  "names": {
+    "display": "Icoana Maicii Domnului de la Kazan-Iaroslavl"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/08/100129-kazan-yaroslavl-icon-of-the-mother-of-god",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-15"
+  }
+}

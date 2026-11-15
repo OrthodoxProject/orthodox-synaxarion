@@ -2,19 +2,17 @@
   "id": "jerusalem-icon-of-theotokos",
   "locale": "ro",
   "names": {
-    "display": "Icoana Maicii Domnului „Ierusalimiteana”"
+    "display": "Cinstirea Sfintei Icoane a Maicii Domnului din Ierusalim"
   },
   "references": [
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/10/12/102948-jerusalem-icon-of-the-mother-of-god",
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoane-maicii-domnului-din-ierusalim",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "en",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

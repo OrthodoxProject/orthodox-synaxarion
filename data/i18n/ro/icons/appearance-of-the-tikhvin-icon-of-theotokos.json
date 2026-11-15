@@ -2,19 +2,17 @@
   "id": "appearance-of-the-tikhvin-icon-of-theotokos",
   "locale": "ro",
   "names": {
-    "display": "Icoana Maicii Domnului de la Tihvin"
+    "display": "Icoana Maicii Domnului din Tihvin"
   },
   "references": [
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/06/26/101821-appearance-of-the-tikhvin-icon-of-the-mother-of-god",
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoane-maicii-domnului-din-tihvin",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "en",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

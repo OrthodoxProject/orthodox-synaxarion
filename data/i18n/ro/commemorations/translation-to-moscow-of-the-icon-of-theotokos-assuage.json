@@ -2,19 +2,17 @@
   "id": "translation-to-moscow-of-the-icon-of-theotokos-assuage",
   "locale": "ro",
   "names": {
-    "display": "Aducerea la Moscova a Icoanei Maicii Domnului „Alină întristările mele”"
+    "display": "Cinstirea Sfintei Icoanei a Maicii Domnului „Potolește întristările noastre”"
   },
   "references": [
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/01/25/100312-translation-to-moscow-of-the-icon-of-the-mother-of-god-assuage-m",
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoanei-maicii-domnului-potoleste-intristarile-noastre",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "en",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

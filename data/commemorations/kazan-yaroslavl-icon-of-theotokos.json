@@ -1,0 +1,29 @@
+{
+  "id": "kazan-yaroslavl-icon-of-theotokos",
+  "kind": "icon",
+  "subjects": [
+    "icon:kazan-yaroslavl-icon-of-theotokos"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 8
+  },
+  "external_ids": {
+    "oca": "100129"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/08/100129-kazan-yaroslavl-icon-of-the-mother-of-god",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  }
+}

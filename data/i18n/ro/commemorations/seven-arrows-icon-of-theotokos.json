@@ -2,19 +2,17 @@
   "id": "seven-arrows-icon-of-theotokos",
   "locale": "ro",
   "names": {
-    "display": "Icoana Maicii Domnului „Cele șapte săgeți”"
+    "display": "Cinstirea Sfintei Icoanei a Maicii Domnului „cu șapte săgeți”"
   },
   "references": [
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/08/13/102293-seven-arrows-icon-of-the-mother-of-god",
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoanei-maicii-domnului-cu-sapte-sageti",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "en",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

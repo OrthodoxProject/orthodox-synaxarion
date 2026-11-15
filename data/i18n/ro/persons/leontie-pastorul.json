@@ -1,0 +1,21 @@
+{
+  "id": "leontie-pastorul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Leontie Păstorul",
+    "full": "Sfântul Cuvios Leontie Păstorul",
+    "short": "Leontie Păstorul",
+    "given": "Leontie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c8c3bca9-09aa-4d65-add2-6dad32d544f1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

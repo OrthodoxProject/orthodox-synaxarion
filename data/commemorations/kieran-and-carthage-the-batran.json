@@ -1,0 +1,27 @@
+{
+  "id": "kieran-and-carthage-the-batran",
+  "kind": "repose",
+  "subjects": [
+    "person:kieran",
+    "person:carthage-the-batran"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 5
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/da3a8611-ab1b-404c-810b-ddb0db7bb4a4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iustus-of-urgell--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:iustus-of-urgell"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 28
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8205b147-b259-41ed-8d71-074035ed5873",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

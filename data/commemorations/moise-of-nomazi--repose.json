@@ -1,0 +1,26 @@
+{
+  "id": "moise-of-nomazi--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:moise-of-nomazi"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 7
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c6aa3c42-617a-45f7-9f67-6a843eba655b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

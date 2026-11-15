@@ -1,0 +1,21 @@
+{
+  "id": "efrem-the-new-of-nea-makri-in",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Efrem cel Nou din Nea Makri în Grecia",
+    "full": "Sfântul Cuvios Mucenic Efrem cel Nou din Nea Makri în Grecia",
+    "short": "Efrem cel Nou din Nea Makri în Grecia",
+    "given": "Efrem"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c5902b88-d5df-4388-9a96-22459238192b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

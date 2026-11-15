@@ -1,0 +1,28 @@
+{
+  "id": "amator-of-auxerre-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:amator-of-auxerre",
+    "person:orentie-of-auch",
+    "person:corentin-of-quimper"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 1
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b015cb09-215b-43bf-8b6c-90e6a778e30a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

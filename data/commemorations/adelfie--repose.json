@@ -1,0 +1,26 @@
+{
+  "id": "adelfie--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:adelfie"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 11
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/972ddb11-9683-4667-8fe7-662ce1d4a33e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

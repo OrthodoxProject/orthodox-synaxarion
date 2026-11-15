@@ -1,0 +1,26 @@
+{
+  "id": "malrubie--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:malrubie"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 27
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6e8ef3c6-c1b7-4f05-af49-8f683c1c10f7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

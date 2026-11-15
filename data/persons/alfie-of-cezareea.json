@@ -1,0 +1,23 @@
+{
+  "id": "alfie-of-cezareea",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "hieromartyr"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/07c02b21-1464-47f5-acd4-8923f70962fa",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat.",
+      "Genul nu reiese din sursă; e de verificat."
+    ]
+  }
+}

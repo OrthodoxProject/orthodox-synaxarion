@@ -1,0 +1,21 @@
+{
+  "id": "encratia-fecioara-of-saragossa-in-spania",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Encratia fecioara din Saragossa în Spania",
+    "full": "Sfânta Muceniță Encratia fecioara din Saragossa în Spania",
+    "short": "Encratia fecioara din Saragossa în Spania",
+    "given": "Encratia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8ce64348-056e-4698-806a-d1481028e001",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

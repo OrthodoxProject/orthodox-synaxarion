@@ -1,0 +1,20 @@
+{
+  "id": "teotim",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Teotim",
+    "short": "Teotim",
+    "given": "Teotim"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2ff077eb-a7d4-4779-a56c-baa39f3540cf",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

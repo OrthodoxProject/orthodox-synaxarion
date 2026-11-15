@@ -1,0 +1,21 @@
+{
+  "id": "leontie-filozoful",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Leontie Filozoful, nevoitor în Lavra Sfântului Sava din Palestina",
+    "full": "Sfântul Cuvios Leontie Filozoful, nevoitor în Lavra Sfântului Sava din Palestina",
+    "short": "Leontie Filozoful, nevoitor în Lavra Sfântului Sava din Palestina",
+    "given": "Leontie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3ecbc169-5f1a-441c-a6df-daefeffeb3d1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

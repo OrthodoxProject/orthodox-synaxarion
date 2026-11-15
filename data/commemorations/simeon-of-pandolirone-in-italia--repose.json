@@ -1,0 +1,26 @@
+{
+  "id": "simeon-of-pandolirone-in-italia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:simeon-of-pandolirone-in-italia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 26
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c27e62cd-f682-4df9-8f31-f73695e5f62c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

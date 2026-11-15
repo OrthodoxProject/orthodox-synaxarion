@@ -1,0 +1,21 @@
+{
+  "id": "antioh-of-ancira-galatiei",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Antioh din Ancira Galatiei, monah în Țara Sfântă",
+    "full": "Sfântul Cuvios Antioh din Ancira Galatiei, monah în Țara Sfântă",
+    "short": "Antioh din Ancira Galatiei, monah în Țara Sfântă",
+    "given": "Antioh"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/958ed6a6-8927-4671-926e-1026f201e4c5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

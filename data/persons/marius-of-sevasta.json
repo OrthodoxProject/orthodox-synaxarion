@@ -1,0 +1,22 @@
+{
+  "id": "marius-of-sevasta",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "hierarch"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2b9d5284-c251-43b4-a41a-148d8aa5ffca",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

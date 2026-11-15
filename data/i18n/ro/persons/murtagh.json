@@ -1,0 +1,21 @@
+{
+  "id": "murtagh",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Murtagh, primul episcop de Killala în Irlanda",
+    "full": "Sfântul Ierarh Murtagh, primul episcop de Killala în Irlanda",
+    "short": "Murtagh, primul episcop de Killala în Irlanda",
+    "given": "Murtagh"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b262353d-ec99-4032-96bf-2eda6ed9f8a4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

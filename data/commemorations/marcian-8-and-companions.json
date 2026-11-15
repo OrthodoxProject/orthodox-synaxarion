@@ -1,0 +1,28 @@
+{
+  "id": "marcian-8-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:marcian-8",
+    "person:luciu",
+    "person:victus-of-roma"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 27
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7dec84f8-677f-424e-89d9-30a67d94a209",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

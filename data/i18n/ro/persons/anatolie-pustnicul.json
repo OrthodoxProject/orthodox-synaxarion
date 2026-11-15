@@ -1,0 +1,20 @@
+{
+  "id": "anatolie-pustnicul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Anatolie Pustnicul",
+    "short": "Anatolie Pustnicul",
+    "given": "Anatolie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/cceec67d-da87-4393-8e5f-93df027358b4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

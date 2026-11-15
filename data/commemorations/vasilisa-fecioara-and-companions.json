@@ -1,0 +1,28 @@
+{
+  "id": "vasilisa-fecioara-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:vasilisa-fecioara",
+    "person:nuscia",
+    "person:aurel"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 20
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/049709ab-9b5d-4c7c-8bb3-a12202064b49",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

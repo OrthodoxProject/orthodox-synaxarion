@@ -1,0 +1,20 @@
+{
+  "id": "raven-of-franta",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Raven din Franța",
+    "short": "Raven din Franța",
+    "given": "Raven"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5e84a1fa-f8e9-468d-a6bc-738e06cf3695",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

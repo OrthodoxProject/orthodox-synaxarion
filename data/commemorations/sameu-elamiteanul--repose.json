@@ -1,0 +1,26 @@
+{
+  "id": "sameu-elamiteanul--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:sameu-elamiteanul"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 8
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c5a5ab01-2272-49c7-bf17-64cc615df52d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

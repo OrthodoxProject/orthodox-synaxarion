@@ -1,0 +1,20 @@
+{
+  "id": "petru-of-trevi-in-italia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Petru din Trevi în Italia",
+    "short": "Petru din Trevi în Italia",
+    "given": "Petru"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d61bdfd7-6aeb-430e-a298-abeada5aaa08",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

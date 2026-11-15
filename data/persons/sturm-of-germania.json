@@ -1,0 +1,22 @@
+{
+  "id": "sturm-of-germania",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "venerable"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/45ed1ede-a872-4026-92eb-8ced902fc9b2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

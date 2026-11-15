@@ -1,0 +1,28 @@
+{
+  "id": "casie-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:casie",
+    "person:filip",
+    "person:eutihie-of-tesalonic"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 3
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/831adb6a-732e-418a-a259-a687a620df9a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

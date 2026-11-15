@@ -1,0 +1,20 @@
+{
+  "id": "ioan-23",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Nou Mc. Ioan (Blinov)",
+    "short": "Ioan (Blinov)",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/774110a5-a586-400f-bda8-bb3387230d5d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

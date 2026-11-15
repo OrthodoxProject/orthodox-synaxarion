@@ -1,0 +1,21 @@
+{
+  "id": "teodor-marturisitorul-of-arghira",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Teodor Mărturisitorul, episcopul Arghirei",
+    "full": "Sfântul Ierarh Teodor Mărturisitorul, episcopul Arghirei",
+    "short": "Teodor Mărturisitorul, episcopul Arghirei",
+    "given": "Teodor"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0144e440-216a-474f-a180-bf8b1d88d6cd#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "nicolae-34",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Nicolae (Pomeranțev)",
+    "short": "Nicolae (Pomeranțev)",
+    "given": "Nicolae"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/827e2534-9cf9-46d0-a1aa-d431fbf781ad",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "macarie-6-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:macarie-6",
+    "person:vasile-14",
+    "person:stefan-10",
+    "person:alexie-8",
+    "person:anastasia-2",
+    "person:ilie-of-rusia-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 23
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/899d1b4c-5190-418e-8877-2f4c455bfcfd#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

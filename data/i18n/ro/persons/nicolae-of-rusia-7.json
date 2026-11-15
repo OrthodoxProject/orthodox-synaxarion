@@ -1,0 +1,20 @@
+{
+  "id": "nicolae-of-rusia-7",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Nicolae (Zapolskii) din Rusia",
+    "short": "Nicolae (Zapolskii) din Rusia",
+    "given": "Nicolae"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/582d8d8c-f225-4c3f-8b26-ab6f1f55fde7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

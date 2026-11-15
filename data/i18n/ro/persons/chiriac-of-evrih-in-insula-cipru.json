@@ -1,0 +1,21 @@
+{
+  "id": "chiriac-of-evrih-in-insula-cipru",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Chiriac din Evrih în insula Cipru",
+    "full": "Sfântul Cuvios Chiriac din Evrih în insula Cipru",
+    "short": "Chiriac din Evrih în insula Cipru",
+    "given": "Chiriac"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1b1fe1c9-0bcf-4095-bb34-083c47567f5f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

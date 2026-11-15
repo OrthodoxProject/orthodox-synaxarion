@@ -1,0 +1,20 @@
+{
+  "id": "pavel-of-rusia-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Pavel (Uspenskii) din Rusia",
+    "short": "Pavel (Uspenskii) din Rusia",
+    "given": "Pavel"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1306",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

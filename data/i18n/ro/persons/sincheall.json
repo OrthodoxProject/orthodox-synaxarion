@@ -1,0 +1,21 @@
+{
+  "id": "sincheall",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Sincheall, ucenicul Sfântului Patrick din Irlanda",
+    "full": "Sfântul Cuvios Sincheall, ucenicul Sfântului Patrick din Irlanda",
+    "short": "Sincheall, ucenicul Sfântului Patrick din Irlanda",
+    "given": "Sincheall"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/07d0bda3-3305-4737-911b-a58a75d38a1f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

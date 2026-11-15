@@ -1,0 +1,20 @@
+{
+  "id": "arigie-of-gap",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Arigie, episcop de Gap și Theodard, arhiepiscop de Narbonne în Franța",
+    "short": "Arigie, episcop de Gap și Theodard, arhiepiscop de Narbonne în Franța",
+    "given": "Arigie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f92dac89-ff5c-4255-bee7-8ef290c752ef",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "timotei-of-kakusta",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Timotei din Kakușta",
+    "full": "Sfântul Cuvios Timotei din Kakușta",
+    "short": "Timotei din Kakușta",
+    "given": "Timotei"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/83b96eea-97e4-42d0-a6a3-18671361d90d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

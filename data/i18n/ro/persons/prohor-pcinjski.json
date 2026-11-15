@@ -1,0 +1,21 @@
+{
+  "id": "prohor-pcinjski",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Prohor Pcinjski, întemeietorul Mănăstirii Vranki din Bulgaria",
+    "full": "Sfântul Cuvios Prohor Pcinjski, întemeietorul Mănăstirii Vranki din Bulgaria",
+    "short": "Prohor Pcinjski, întemeietorul Mănăstirii Vranki din Bulgaria",
+    "given": "Prohor"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b236de09-c805-408b-8a5b-3d01ff3ec541",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

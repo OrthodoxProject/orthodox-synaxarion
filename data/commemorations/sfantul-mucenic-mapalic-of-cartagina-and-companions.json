@@ -1,0 +1,26 @@
+{
+  "id": "sfantul-mucenic-mapalic-of-cartagina-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "group:sfantul-mucenic-mapalic-of-cartagina-and-companions"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 17
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b905b523-f6b8-4410-b658-edf9db1905a6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

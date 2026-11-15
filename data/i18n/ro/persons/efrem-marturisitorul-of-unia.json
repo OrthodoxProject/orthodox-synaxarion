@@ -1,0 +1,21 @@
+{
+  "id": "efrem-marturisitorul-of-unia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Efrem Mărturisitorul, episcop de Unia",
+    "full": "Sfântul Ierarh Efrem Mărturisitorul, episcop de Unia",
+    "short": "Efrem Mărturisitorul, episcop de Unia",
+    "given": "Efrem"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e1a83d12-c417-4011-bd26-10b9924cf72b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

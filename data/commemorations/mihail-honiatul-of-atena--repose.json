@@ -1,0 +1,26 @@
+{
+  "id": "mihail-honiatul-of-atena--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:mihail-honiatul-of-atena"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 4
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/acc4d0ad-5b65-49fe-a258-387df0b1b7dd",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

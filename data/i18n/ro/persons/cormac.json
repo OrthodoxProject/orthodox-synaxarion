@@ -1,0 +1,21 @@
+{
+  "id": "cormac",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Cormac, stareț la Durrow în Irlanda",
+    "full": "Sfântul Cuvios Cormac, stareț la Durrow în Irlanda",
+    "short": "Cormac, stareț la Durrow în Irlanda",
+    "given": "Cormac"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f907e59b-01ff-4b6b-a8f5-7f743bbfa6a2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

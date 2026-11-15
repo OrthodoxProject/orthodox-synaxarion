@@ -1,0 +1,20 @@
+{
+  "id": "vasile-8",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Vasile (Triumfov)",
+    "short": "Vasile (Triumfov)",
+    "given": "Vasile"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/446761ff-662b-4fa1-a77b-3abe2f178c0b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

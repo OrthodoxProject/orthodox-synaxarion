@@ -1,0 +1,26 @@
+{
+  "id": "martyrs-andrei-stratilatul-faust-mina-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "group:martyrs-andrei-stratilatul-faust-mina-and-companions"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 12
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c3abb3fb-3db5-4ced-9528-77498acb8698",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

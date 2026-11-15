@@ -1,0 +1,21 @@
+{
+  "id": "marc-of-lucera",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Marc, episcop de Lucera în Italia",
+    "full": "Sfântul Ierarh Marc, episcop de Lucera în Italia",
+    "short": "Marc, episcop de Lucera în Italia",
+    "given": "Marc"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9a1cdd35-99b8-4a64-b489-50842b2636e7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

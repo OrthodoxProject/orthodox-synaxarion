@@ -1,0 +1,27 @@
+{
+  "id": "anastasie-5-and-dimitrie-of-insula-lesvos-in-asia-mica",
+  "kind": "repose",
+  "subjects": [
+    "person:anastasie-5",
+    "person:dimitrie-of-insula-lesvos-in-asia-mica"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 11
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9c85286f-c9c0-4742-9039-4cffaa683fc3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

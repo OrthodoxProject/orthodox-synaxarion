@@ -1,0 +1,26 @@
+{
+  "id": "zoil-3--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:zoil-3"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 22
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3be249ce-937b-448d-8364-4e96d6c1defe",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

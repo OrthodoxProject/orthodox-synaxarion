@@ -1,0 +1,20 @@
+{
+  "id": "stefan-of-manastirea-jetee-of-franta",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ștefan de la Mănăstirea Jetée din Franța",
+    "short": "Ștefan de la Mănăstirea Jetée din Franța",
+    "given": "Ștefan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f8c51072-456e-45a0-b3d7-8c9ac60e2d97",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

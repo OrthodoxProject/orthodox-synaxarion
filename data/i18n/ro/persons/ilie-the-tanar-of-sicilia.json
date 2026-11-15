@@ -1,0 +1,21 @@
+{
+  "id": "ilie-the-tanar-of-sicilia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ilie cel Tânăr din Sicilia, monah la Calabria în Italia",
+    "full": "Sfântul Cuvios Ilie cel Tânăr din Sicilia, monah la Calabria în Italia",
+    "short": "Ilie cel Tânăr din Sicilia, monah la Calabria în Italia",
+    "given": "Ilie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1b31fb2c-8f2b-46dd-85c0-5cb908b4fc85",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

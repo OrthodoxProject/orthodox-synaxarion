@@ -1,0 +1,26 @@
+{
+  "id": "icon-of-theotokos-a-educatiei",
+  "kind": "icon",
+  "subjects": [
+    "icon:icon-of-theotokos-a-educatiei"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 5
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/fba21233-f783-4324-afe7-5eeec8985a0c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

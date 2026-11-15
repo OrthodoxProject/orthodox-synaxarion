@@ -1,0 +1,18 @@
+{
+  "id": "benedict-of-nursia--translation-of-relics",
+  "locale": "ro",
+  "names": {
+    "display": "Mutarea moaștelor Sf. Cuv. Benedict de Nursia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/40700217-460e-4154-ad9b-8da83797abae",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

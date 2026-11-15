@@ -1,0 +1,26 @@
+{
+  "id": "leon-of-troyes--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:leon-of-troyes"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 25
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c3ab9018-6644-4c62-861f-f13c1b0034ef",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

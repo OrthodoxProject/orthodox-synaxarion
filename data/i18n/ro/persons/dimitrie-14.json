@@ -1,0 +1,20 @@
+{
+  "id": "dimitrie-14",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Dimitrie",
+    "short": "Dimitrie",
+    "given": "Dimitrie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d4ad602d-b5ed-45b5-ba0b-ef4b991fea57",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

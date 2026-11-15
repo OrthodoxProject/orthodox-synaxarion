@@ -1,0 +1,22 @@
+{
+  "id": "aureliu-of-cartagina",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "hierarch"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f44cf852-5093-4cae-a87c-31cb2a905946",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

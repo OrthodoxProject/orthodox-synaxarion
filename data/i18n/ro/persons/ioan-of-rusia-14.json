@@ -1,0 +1,20 @@
+{
+  "id": "ioan-of-rusia-14",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Ioan (Vasilev) din Rusia",
+    "short": "Ioan (Vasilev) din Rusia",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1b1fd768-9ad5-48ea-b252-80ade43c41ce#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

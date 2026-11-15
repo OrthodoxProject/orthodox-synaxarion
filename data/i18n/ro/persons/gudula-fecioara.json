@@ -1,0 +1,20 @@
+{
+  "id": "gudula-fecioara",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Gudula fecioara, ocrotitoarea orașului Bruxelles din Belgia și Pega, pustnică din Anglia",
+    "short": "Gudula fecioara, ocrotitoarea orașului Bruxelles din Belgia și Pega, pustnică din Anglia",
+    "given": "Gudula"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/59c29716-0b2d-4900-8fa1-8db121af2359",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

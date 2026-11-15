@@ -1,0 +1,21 @@
+{
+  "id": "anastasie-of-roma",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Anastasie, episcopul Romei, mărturisitor al dreptei credințe în fața origenismului",
+    "full": "Sfântul Ierarh Anastasie, episcopul Romei, mărturisitor al dreptei credințe în fața origenismului",
+    "short": "Anastasie, episcopul Romei, mărturisitor al dreptei credințe în fața origenismului",
+    "given": "Anastasie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d42539a7-4183-47df-9b4d-9f088bc43b47",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

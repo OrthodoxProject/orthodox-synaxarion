@@ -1,0 +1,26 @@
+{
+  "id": "alban-preotul-of-naxos-in-grecia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:alban-preotul-of-naxos-in-grecia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 21
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/56b6510b-5f37-41ab-b4f2-1f4310427585",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

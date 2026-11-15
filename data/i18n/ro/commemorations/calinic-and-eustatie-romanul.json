@@ -1,0 +1,18 @@
+{
+  "id": "calinic-and-eustatie-romanul",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici Calinic și Eustatie Romanul"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d43b45c0-1d57-4c10-88b4-78a33f6e4770",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

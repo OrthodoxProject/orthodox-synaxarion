@@ -1,0 +1,20 @@
+{
+  "id": "nicolae-26",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Nicolae (Rojdestvenskii)",
+    "short": "Nicolae (Rojdestvenskii)",
+    "given": "Nicolae"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1092",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

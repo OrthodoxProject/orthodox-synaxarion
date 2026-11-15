@@ -1,0 +1,21 @@
+{
+  "id": "olaf",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Olaf, regele Norvegiei",
+    "full": "Sfântul Mucenic Olaf, regele Norvegiei",
+    "short": "Olaf, regele Norvegiei",
+    "given": "Olaf"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/fcec686d-b5bd-4367-829c-5e8e0fde25ce",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

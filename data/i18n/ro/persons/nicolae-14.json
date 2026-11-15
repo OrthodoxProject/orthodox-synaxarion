@@ -1,0 +1,20 @@
+{
+  "id": "nicolae-14",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Nicolae",
+    "short": "Nicolae",
+    "given": "Nicolae"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7427ad33-adaa-496d-9ffd-c181cbf42080",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

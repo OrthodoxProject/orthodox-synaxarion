@@ -1,0 +1,32 @@
+{
+  "id": "teodor-26-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:teodor-26",
+    "person:dimitrie-18",
+    "person:teodor-27",
+    "person:dimitrie-19",
+    "person:ioan-69",
+    "person:nicolae-48",
+    "person:zharki-of-rusia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 12
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5428fd88-435b-43ff-95bd-63e462816c8e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

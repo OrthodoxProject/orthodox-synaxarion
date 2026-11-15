@@ -1,0 +1,21 @@
+{
+  "id": "gavriil-of-chisina",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Gavriil (Bănuescu-Bodoni), mitropolitul Chișinăului și Hotinului",
+    "full": "Sfântul Ierarh Gavriil (Bănuescu-Bodoni), mitropolitul Chișinăului și Hotinului",
+    "short": "Gavriil (Bănuescu-Bodoni), mitropolitul Chișinăului și Hotinului",
+    "given": "Gavriil"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ff68f6c6-3f21-4d12-bde4-5457451c3405",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

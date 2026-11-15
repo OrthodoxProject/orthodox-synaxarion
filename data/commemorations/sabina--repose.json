@@ -1,0 +1,26 @@
+{
+  "id": "sabina--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:sabina"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 29
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2d160826-dbef-4e97-89a1-ee205c075bc8",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

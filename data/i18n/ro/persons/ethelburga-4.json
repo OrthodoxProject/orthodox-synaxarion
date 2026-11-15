@@ -1,0 +1,20 @@
+{
+  "id": "ethelburga-4",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ethelburga",
+    "short": "Ethelburga",
+    "given": "Ethelburga"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d29ecefc-ee6f-4015-8a03-3e95b934e004",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

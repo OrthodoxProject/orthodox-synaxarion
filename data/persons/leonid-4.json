@@ -1,0 +1,23 @@
+{
+  "id": "leonid-4",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "martyr"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/befc069d-d560-4f36-a6e1-a5b713445789",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat.",
+      "Genul nu reiese din sursă; e de verificat."
+    ]
+  }
+}

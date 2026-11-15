@@ -1,0 +1,20 @@
+{
+  "id": "serghie-15",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Serghie (Mihailov)",
+    "short": "Serghie (Mihailov)",
+    "given": "Serghie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/826#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

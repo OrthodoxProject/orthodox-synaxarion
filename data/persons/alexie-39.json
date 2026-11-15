@@ -1,0 +1,24 @@
+{
+  "id": "alexie-39",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "new_martyr",
+    "hieromartyr"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e22f15d3-9d4d-434a-938b-fa7ba5597840",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat.",
+      "Genul nu reiese din sursă; e de verificat."
+    ]
+  }
+}

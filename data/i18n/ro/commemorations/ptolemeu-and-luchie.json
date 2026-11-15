@@ -1,0 +1,18 @@
+{
+  "id": "ptolemeu-and-luchie",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici Ptolemeu și Luchie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a07e6d4e-a78b-4992-b1bf-c9f160558071",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

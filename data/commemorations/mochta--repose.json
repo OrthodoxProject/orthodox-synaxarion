@@ -1,0 +1,26 @@
+{
+  "id": "mochta--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:mochta"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 19
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1e9bc956-1fbf-4b62-b97e-9deea23e09e5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

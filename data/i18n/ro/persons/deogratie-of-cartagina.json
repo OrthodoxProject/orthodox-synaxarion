@@ -1,0 +1,21 @@
+{
+  "id": "deogratie-of-cartagina",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Deogratie, episcop de Cartagina în nordul Africii",
+    "full": "Sfântul Ierarh Deogratie, episcop de Cartagina în nordul Africii",
+    "short": "Deogratie, episcop de Cartagina în nordul Africii",
+    "given": "Deogratie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/651c1ee7-e4ee-437f-97b7-592e72466dd4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

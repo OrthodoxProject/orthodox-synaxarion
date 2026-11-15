@@ -1,0 +1,20 @@
+{
+  "id": "alcmund-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Alcmund",
+    "short": "Alcmund",
+    "given": "Alcmund"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/cc338673-a0da-437d-b98f-6fb1d967cfef",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

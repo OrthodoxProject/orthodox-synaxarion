@@ -1,0 +1,26 @@
+{
+  "id": "ruf-of-capua--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:ruf-of-capua"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 27
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9833483d-4cb8-453b-a38b-e41df42351b7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

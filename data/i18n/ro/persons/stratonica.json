@@ -1,0 +1,20 @@
+{
+  "id": "stratonica",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Stratonica",
+    "short": "Stratonica",
+    "given": "Stratonica"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f64174d6-f839-4295-b9dc-751e79ccf4b0",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

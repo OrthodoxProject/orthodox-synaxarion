@@ -1,0 +1,26 @@
+{
+  "id": "carloman--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:carloman"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 17
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/fdec94f6-545f-4a63-b8d1-3e96b0e69d07",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

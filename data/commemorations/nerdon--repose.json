@@ -1,0 +1,26 @@
+{
+  "id": "nerdon--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:nerdon"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 24
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6cfb84f3-efd2-4799-a723-b04356cb0546",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

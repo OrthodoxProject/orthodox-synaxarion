@@ -1,0 +1,21 @@
+{
+  "id": "david-of-irlanda",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. David din Irlanda, ucenicul Sfântului Finian",
+    "full": "Sfântul Cuvios David din Irlanda, ucenicul Sfântului Finian",
+    "short": "David din Irlanda, ucenicul Sfântului Finian",
+    "given": "David"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/70d66e05-3c60-46ab-b487-a079ef9666d0",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

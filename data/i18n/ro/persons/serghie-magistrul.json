@@ -1,0 +1,21 @@
+{
+  "id": "serghie-magistrul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Serghie Magistrul",
+    "full": "Sfântul Cuvios Serghie Magistrul",
+    "short": "Serghie Magistrul",
+    "given": "Serghie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/962f0ff5-0e23-4deb-9679-b0a95b12d327",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "marinus-2-and-audifax",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici Marinus, Marta, soția sa, Audifax și Avacum"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/601",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

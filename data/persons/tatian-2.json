@@ -1,0 +1,23 @@
+{
+  "id": "tatian-2",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "martyr"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f1425c24-a7f6-4c86-b485-d25b91751ef3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat.",
+      "Genul nu reiese din sursă; e de verificat."
+    ]
+  }
+}

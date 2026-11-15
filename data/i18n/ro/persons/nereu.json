@@ -1,0 +1,20 @@
+{
+  "id": "nereu",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Nereu",
+    "short": "Nereu",
+    "given": "Nereu"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1c89526d-29ee-40f1-8f63-986e7e6ffb9a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

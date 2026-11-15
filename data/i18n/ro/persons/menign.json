@@ -1,0 +1,21 @@
+{
+  "id": "menign",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Menign",
+    "full": "Sfântul Cuvios Menign",
+    "short": "Menign",
+    "given": "Menign"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8a51ed63-593f-45ce-b20e-178ba3af3166",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

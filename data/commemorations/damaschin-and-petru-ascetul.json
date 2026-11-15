@@ -1,0 +1,27 @@
+{
+  "id": "damaschin-and-petru-ascetul",
+  "kind": "repose",
+  "subjects": [
+    "person:damaschin",
+    "person:petru-ascetul"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 11
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0f5489b3-ee77-4653-8412-8d21619922b8",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

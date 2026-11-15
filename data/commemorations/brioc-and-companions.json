@@ -1,0 +1,29 @@
+{
+  "id": "brioc-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:brioc",
+    "person:marcu-4",
+    "person:ultan",
+    "person:mihail-15"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 1
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/eb3ea1e6-72d6-45fc-ab50-37a09ad24e64",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

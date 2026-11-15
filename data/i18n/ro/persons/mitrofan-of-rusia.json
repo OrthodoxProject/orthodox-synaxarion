@@ -1,0 +1,20 @@
+{
+  "id": "mitrofan-of-rusia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Mitrofan din Rusia",
+    "short": "Mitrofan din Rusia",
+    "given": "Mitrofan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/66a72890-34d4-4fd2-b882-eaf6ec8bc761",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

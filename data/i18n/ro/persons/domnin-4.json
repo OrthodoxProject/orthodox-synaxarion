@@ -1,0 +1,21 @@
+{
+  "id": "domnin-4",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Domnin, mărturisitor la Umbria în Italia",
+    "full": "Sfântul Domnin, mărturisitor la Umbria în Italia",
+    "short": "Domnin, mărturisitor la Umbria în Italia",
+    "given": "Domnin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5fd93bfe-552b-4d9c-8475-52fef40831d6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

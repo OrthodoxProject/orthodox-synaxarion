@@ -1,0 +1,21 @@
+{
+  "id": "heldrad-of-franta",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Heldrad din Franța, egumenul Mănăstirii Novalese din Italia",
+    "full": "Sfântul Cuvios Heldrad din Franța, egumenul Mănăstirii Novalese din Italia",
+    "short": "Heldrad din Franța, egumenul Mănăstirii Novalese din Italia",
+    "given": "Heldrad"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8fd9d0fd-336f-41cc-87a2-8d87cb61363a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "alexandru-13",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Alexandru (Polivanov)",
+    "short": "Alexandru (Polivanov)",
+    "given": "Alexandru"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7712b14e-decf-4724-b318-8a6f7fd6c967",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

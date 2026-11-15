@@ -1,0 +1,22 @@
+{
+  "id": "iulian-of-toledo",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "hierarch"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8a98d630-ac6f-47a9-a67a-a0f7b59260dd",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

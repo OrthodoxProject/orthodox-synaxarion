@@ -1,0 +1,26 @@
+{
+  "id": "sfanta-cuvioasa-mucenita-reineldis-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "group:sfanta-cuvioasa-mucenita-reineldis-and-companions"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 16
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/36756145-da42-413a-ad43-425ead413aef",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

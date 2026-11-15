@@ -1,0 +1,20 @@
+{
+  "id": "novotorsk-in-rusia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Novotorsk în Rusia",
+    "short": "Novotorsk în Rusia",
+    "given": "Novotorsk"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/709",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

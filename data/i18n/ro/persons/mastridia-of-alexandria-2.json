@@ -1,0 +1,21 @@
+{
+  "id": "mastridia-of-alexandria-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Mastridia din Alexandria",
+    "full": "Sfânta Muceniță Mastridia din Alexandria",
+    "short": "Mastridia din Alexandria",
+    "given": "Mastridia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f5b9d3a6-b593-4d2a-94ac-177be00a38d6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

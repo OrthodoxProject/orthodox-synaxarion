@@ -1,0 +1,20 @@
+{
+  "id": "policarp-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. POLICARP",
+    "short": "POLICARP",
+    "given": "POLICARP"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3526d34d-126b-4485-a44c-a9b9451451b2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

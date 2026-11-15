@@ -1,0 +1,21 @@
+{
+  "id": "kuksa-of-odesa",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Kukșa din Odesa, făcătorul de minuni",
+    "full": "Sfântul Cuvios Kukșa din Odesa, făcătorul de minuni",
+    "short": "Kukșa din Odesa, făcătorul de minuni",
+    "given": "Kukșa"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1188",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

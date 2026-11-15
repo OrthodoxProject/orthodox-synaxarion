@@ -1,0 +1,26 @@
+{
+  "id": "iaroslav-the-intelept--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:iaroslav-the-intelept"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 19
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/700c9d8e-42f7-479c-9d27-dcee6389eece",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "parascheva",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Parascheva",
+    "short": "Parascheva",
+    "given": "Parascheva"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/261",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

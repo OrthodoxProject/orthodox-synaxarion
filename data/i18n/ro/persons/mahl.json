@@ -1,0 +1,20 @@
+{
+  "id": "mahl",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Mahl",
+    "short": "Mahl",
+    "given": "Mahl"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5cdc271b-cc89-4069-b525-28a60ebad1da",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

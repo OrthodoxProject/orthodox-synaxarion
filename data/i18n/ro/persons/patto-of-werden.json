@@ -1,0 +1,21 @@
+{
+  "id": "patto-of-werden",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Patto, episcop de Werden în Germania",
+    "full": "Sfântul Ierarh Patto, episcop de Werden în Germania",
+    "short": "Patto, episcop de Werden în Germania",
+    "given": "Patto"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/92b0c7f1-06e1-4f94-a6f4-ec3d65d7de3c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

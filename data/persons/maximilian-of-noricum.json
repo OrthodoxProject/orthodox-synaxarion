@@ -1,0 +1,23 @@
+{
+  "id": "maximilian-of-noricum",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "hierarch"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/dc8a474c-b50c-469a-9e47-3047f5ff6a5c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat.",
+      "Genul nu reiese din sursă; e de verificat."
+    ]
+  }
+}

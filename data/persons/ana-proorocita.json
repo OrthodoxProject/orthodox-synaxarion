@@ -1,0 +1,22 @@
+{
+  "id": "ana-proorocita",
+  "kind": "saint",
+  "gender": "female",
+  "holiness_types": [
+    "righteous"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/835e4792-bb9e-4a65-aa71-e344f8aca084",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

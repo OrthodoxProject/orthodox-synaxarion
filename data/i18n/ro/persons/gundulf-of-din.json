@@ -1,0 +1,21 @@
+{
+  "id": "gundulf-of-din",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Gundulf, episcop din Franța",
+    "full": "Sfântul Ierarh Gundulf, episcop din Franța",
+    "short": "Gundulf, episcop din Franța",
+    "given": "Gundulf"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2840a515-7484-4d55-a692-8d9bf8b08d93#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

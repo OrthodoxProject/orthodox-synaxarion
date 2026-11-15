@@ -1,0 +1,24 @@
+{
+  "id": "sozont-2",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "new_martyr",
+    "hieromartyr"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/30252f1b-b23f-407a-ba8b-465b1159cec8",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat.",
+      "Genul nu reiese din sursă; e de verificat."
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ioan-cassian-of-dobrogea--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:ioan-cassian-of-dobrogea"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 23
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/62fe84ce-90de-4206-865c-9992fd673b38",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

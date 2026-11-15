@@ -1,0 +1,26 @@
+{
+  "id": "elena-8--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:elena-8"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 2
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/00cfb63e-ef8b-46a1-a2e7-f42ade9dcf25",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

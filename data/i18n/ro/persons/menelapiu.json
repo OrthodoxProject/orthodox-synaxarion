@@ -1,0 +1,20 @@
+{
+  "id": "menelapiu",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Menelapiu",
+    "short": "Menelapiu",
+    "given": "Menelapiu"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c1bf7c0c-47fe-4c0b-888e-24a4664730cc",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

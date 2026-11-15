@@ -1,0 +1,26 @@
+{
+  "id": "quintinian-of-clermont--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:quintinian-of-clermont"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 13
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d5f0714a-aa2b-4d01-91c3-19f43b2d826d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

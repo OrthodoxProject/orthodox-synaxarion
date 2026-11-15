@@ -1,0 +1,18 @@
+{
+  "id": "martyrs-euviot",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici Euviot"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5aacd089-8371-42ff-828b-702647f7285a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

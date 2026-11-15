@@ -1,0 +1,21 @@
+{
+  "id": "sitnil",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Sitnil, pustnic din Anglia",
+    "full": "Sfântul Cuvios Sitnil, pustnic din Anglia",
+    "short": "Sitnil, pustnic din Anglia",
+    "given": "Sitnil"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/55a0f0b4-1f2f-4ac4-a7ca-2557648446c5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

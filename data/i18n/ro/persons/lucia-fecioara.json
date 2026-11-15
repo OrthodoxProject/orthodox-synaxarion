@@ -1,0 +1,20 @@
+{
+  "id": "lucia-fecioara",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Lucia fecioara",
+    "short": "Lucia fecioara",
+    "given": "Lucia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b01bb00f-a941-456a-98cb-c39c2d0ccf9e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

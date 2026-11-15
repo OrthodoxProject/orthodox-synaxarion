@@ -1,0 +1,21 @@
+{
+  "id": "cellach-of-armagh",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Cellach, arhiepiscop de Armagh în Irlanda",
+    "full": "Sfântul Ierarh Cellach, arhiepiscop de Armagh în Irlanda",
+    "short": "Cellach, arhiepiscop de Armagh în Irlanda",
+    "given": "Cellach"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a294dd95-6ee8-4092-9eac-e44a28a9dda9",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "gherman-6-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:gherman-6",
+    "person:ierotei",
+    "person:simeon-14",
+    "person:visarion-of-georgia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 14
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d41ddb1b-7f31-4c9c-9482-c43dbce342b3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

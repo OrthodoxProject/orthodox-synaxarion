@@ -1,0 +1,22 @@
+{
+  "id": "felix-11",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "hieromartyr"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/fd1b910e-de45-4ffd-894e-cb2870c1c78c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "avda-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Avda",
+    "full": "Sfântul Mucenic Avda",
+    "short": "Avda",
+    "given": "Avda"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/daceacd7-a5e9-4328-afd6-89adea01dd17",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

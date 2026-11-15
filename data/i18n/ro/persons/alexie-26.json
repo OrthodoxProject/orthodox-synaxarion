@@ -1,0 +1,20 @@
+{
+  "id": "alexie-26",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Alexie (Nikonov)",
+    "short": "Alexie (Nikonov)",
+    "given": "Alexie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/18e7594a-8887-4eba-a1f8-190fadee74ec",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

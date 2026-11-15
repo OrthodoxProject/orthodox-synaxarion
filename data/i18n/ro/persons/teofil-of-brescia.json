@@ -1,0 +1,21 @@
+{
+  "id": "teofil-of-brescia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Teofil, episcop de Brescia în Italia",
+    "full": "Sfântul Ierarh Teofil, episcop de Brescia în Italia",
+    "short": "Teofil, episcop de Brescia în Italia",
+    "given": "Teofil"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f8780c76-8bb6-4a58-aca3-b8dd1fe9d26c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

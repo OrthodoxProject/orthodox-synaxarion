@@ -1,0 +1,26 @@
+{
+  "id": "nicetas-of-pitia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:nicetas-of-pitia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 4
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d3d9b064-eaad-4167-a53d-d2ead69bf7f9",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

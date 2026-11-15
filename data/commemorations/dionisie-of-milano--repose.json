@@ -1,0 +1,26 @@
+{
+  "id": "dionisie-of-milano--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:dionisie-of-milano"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 25
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/eb6b653d-0e2f-41e4-ad36-ddb4adb47ed9",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

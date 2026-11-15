@@ -1,0 +1,21 @@
+{
+  "id": "cvadragesimie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Cvadragesimie, ipodiacon și făcător de minuni în Calabria Italiei",
+    "full": "Sfântul Cuvios Cvadragesimie, ipodiacon și făcător de minuni în Calabria Italiei",
+    "short": "Cvadragesimie, ipodiacon, făcător de minuni în Calabria Italiei",
+    "given": "Cvadragesimie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/006dd321-cb5e-400e-b50e-e18336609ace",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

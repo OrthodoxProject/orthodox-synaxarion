@@ -1,0 +1,20 @@
+{
+  "id": "irina-7",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Nouă Mc. Irina (Florova)",
+    "short": "Irina (Florova)",
+    "given": "Irina"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1191",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

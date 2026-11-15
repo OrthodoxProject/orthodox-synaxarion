@@ -1,0 +1,26 @@
+{
+  "id": "artemidor--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:artemidor"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 8
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/873ae89e-1ca7-4a21-88b9-bfc3d993b3dc",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

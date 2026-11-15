@@ -1,0 +1,21 @@
+{
+  "id": "ioachim-of-antiohia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Ioachim, patriarhul Antiohiei",
+    "full": "Sfântul Sfințit Mucenic Ioachim, patriarhul Antiohiei",
+    "short": "Ioachim, patriarhul Antiohiei",
+    "given": "Ioachim"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ef1aa7e5-4e43-4c30-b1a1-a774d37b5d25",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

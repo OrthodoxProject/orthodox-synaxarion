@@ -1,0 +1,20 @@
+{
+  "id": "geminus-of-tracia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Geminus din Tracia",
+    "short": "Geminus din Tracia",
+    "given": "Geminus"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5544be20-a3a7-477b-9a82-eb64f7dc3fa9",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

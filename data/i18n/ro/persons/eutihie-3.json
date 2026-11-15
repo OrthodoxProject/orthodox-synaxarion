@@ -1,0 +1,20 @@
+{
+  "id": "eutihie-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Eutihie",
+    "short": "Eutihie",
+    "given": "Eutihie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8c343a04-ff5b-4c7d-b618-459a29fe2f31",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

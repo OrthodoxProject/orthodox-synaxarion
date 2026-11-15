@@ -1,0 +1,24 @@
+{
+  "id": "gherman-4",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "new_martyr",
+    "hieromartyr"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/80093377-a938-42b3-9c2f-74fcfcc15b2f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat.",
+      "Genul nu reiese din sursă; e de verificat."
+    ]
+  }
+}

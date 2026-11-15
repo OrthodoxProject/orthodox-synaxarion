@@ -1,0 +1,20 @@
+{
+  "id": "parintel-nostru-zaharia-ciobotarul",
+  "locale": "ro",
+  "names": {
+    "display": "Preacuviosul Părintelе nostru Zaharia Ciobotarul",
+    "short": "Părintelе nostru Zaharia Ciobotarul",
+    "given": "Părintelе"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9f1e4edf-72d5-47de-813d-d127c6a1981f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "leon-of-troyes",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Leon, stareț din Troyes în Franța",
+    "full": "Sfântul Cuvios Leon, stareț din Troyes în Franța",
+    "short": "Leon, stareț din Troyes în Franța",
+    "given": "Leon"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c3ab9018-6644-4c62-861f-f13c1b0034ef",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

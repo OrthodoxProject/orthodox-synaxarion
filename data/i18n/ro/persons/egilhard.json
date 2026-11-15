@@ -1,0 +1,21 @@
+{
+  "id": "egilhard",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Egilhard, stareț la Cornelimunster în Germania",
+    "full": "Sfântul Cuvios Mucenic Egilhard, stareț la Cornelimunster în Germania",
+    "short": "Egilhard, stareț la Cornelimunster în Germania",
+    "given": "Egilhard"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/476090b8-a3ce-4c83-9d46-1b1ce50a039f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

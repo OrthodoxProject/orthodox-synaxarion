@@ -1,0 +1,26 @@
+{
+  "id": "teodora-of-alexandria--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:teodora-of-alexandria"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 12
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/69711bef-8a6e-4344-8996-e290139b23a9",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

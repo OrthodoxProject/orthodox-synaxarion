@@ -1,0 +1,21 @@
+{
+  "id": "sinesie-of-roma",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Sinesie (Sinet), citețul Sfântului Sixt, episcopul Romei",
+    "full": "Sfântul Sfințit Mucenic Sinesie (Sinet), citețul Sfântului Sixt, episcopul Romei",
+    "short": "Sinesie (Sinet), citețul Sfântului Sixt, episcopul Romei",
+    "given": "Sinesie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/48d4c3ed-cfe1-404c-9d65-a7ded3f91cdc",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

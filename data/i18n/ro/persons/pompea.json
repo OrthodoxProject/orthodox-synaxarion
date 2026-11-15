@@ -1,0 +1,20 @@
+{
+  "id": "pompea",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Pompea",
+    "short": "Pompea",
+    "given": "Pompea"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ee510ca0-5098-4351-bdf5-86d15956240e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

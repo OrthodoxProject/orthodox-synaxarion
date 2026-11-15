@@ -1,0 +1,18 @@
+{
+  "id": "avramie-and-vologda",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Cuvioși Avramie și Coprie de Pecenga, Vologda (Rusia)"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5a20269a-0327-436f-b2ae-356cc8c6e369",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

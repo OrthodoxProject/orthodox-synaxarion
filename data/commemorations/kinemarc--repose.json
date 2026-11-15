@@ -1,0 +1,26 @@
+{
+  "id": "kinemarc--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:kinemarc"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 8
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7f4edb7f-087e-4ff3-b19c-357dcf6ac0d1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

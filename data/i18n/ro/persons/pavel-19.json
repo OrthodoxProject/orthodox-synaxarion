@@ -1,0 +1,20 @@
+{
+  "id": "pavel-19",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Pavel",
+    "short": "Pavel",
+    "given": "Pavel"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b2679555-72a3-4641-a650-3d8d5b34f05f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "aime-of-sion",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Aime, episcop de Sion în Elveția",
+    "full": "Sfântul Ierarh Aime, episcop de Sion în Elveția",
+    "short": "Aime, episcop de Sion în Elveția",
+    "given": "Aime"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0b7ea250-e382-4287-a329-3f0d52e16866",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

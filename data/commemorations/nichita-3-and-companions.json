@@ -1,0 +1,30 @@
+{
+  "id": "nichita-3-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:nichita-3",
+    "person:chiril-3",
+    "person:nichifor-6",
+    "person:climent",
+    "person:isaachie-alfanov-of-novgorod"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 4
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/99d2381b-f837-44b7-82ac-9f8704676905",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

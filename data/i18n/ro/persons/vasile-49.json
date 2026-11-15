@@ -1,0 +1,20 @@
+{
+  "id": "vasile-49",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Vasile (Kolokolov)",
+    "short": "Vasile (Kolokolov)",
+    "given": "Vasile"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e6ee1e53-b6ef-420d-8573-601c5a86e94c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

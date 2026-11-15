@@ -1,0 +1,27 @@
+{
+  "id": "teofan-zavoratul-of-tambov-and-vladimir-3",
+  "kind": "repose",
+  "subjects": [
+    "person:teofan-zavoratul-of-tambov",
+    "person:vladimir-3"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 6
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1274",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "haralambie-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Haralambie",
+    "short": "Haralambie",
+    "given": "Haralambie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8ba81b2a-200b-4f3f-8757-a86d06176d8f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

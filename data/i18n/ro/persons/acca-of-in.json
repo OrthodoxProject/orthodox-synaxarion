@@ -1,0 +1,21 @@
+{
+  "id": "acca-of-in",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Acca, episcop în Anglia",
+    "full": "Sfântul Ierarh Acca, episcop în Anglia",
+    "short": "Acca, episcop în Anglia",
+    "given": "Acca"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9a99224f-0bec-4f8e-9902-915081dabbb0",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

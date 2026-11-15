@@ -1,0 +1,26 @@
+{
+  "id": "theodora-of-thessalonica--translation-of-relics",
+  "kind": "relics_translation",
+  "subjects": [
+    "person:theodora-of-thessalonica"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 3
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/cf54a56b-4616-4903-84e5-40a793476acb",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

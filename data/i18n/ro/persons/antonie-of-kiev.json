@@ -1,0 +1,21 @@
+{
+  "id": "antonie-of-kiev",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Antonie, starețul Lavrei Pecerska din Kiev, iar apoi arhiepiscop de Novgorod",
+    "full": "Sfântul Ierarh Antonie, starețul Lavrei Pecerska din Kiev, iar apoi arhiepiscop de Novgorod",
+    "short": "Antonie, starețul Lavrei Pecerska din Kiev, iar apoi arhiepiscop de Novgorod",
+    "given": "Antonie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4e8856d2-87f6-4182-8c32-41ab69d76633",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

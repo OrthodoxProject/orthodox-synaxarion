@@ -1,0 +1,20 @@
+{
+  "id": "ecaterina-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințită Nouă Mc. Ecaterina (Decalina)",
+    "short": "Ecaterina (Decalina)",
+    "given": "Ecaterina"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1352",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

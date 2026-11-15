@@ -1,0 +1,60 @@
+{
+  "id": "ucraina-ioan-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:ucraina-ioan",
+    "person:ioasaf-of-christopol",
+    "person:porfirie-of-simferopol",
+    "person:grigorie-19",
+    "person:serghie-25",
+    "person:mihail-47",
+    "person:alexandru-64",
+    "person:ioan-92",
+    "person:constantin-22",
+    "person:alexandru-65",
+    "person:ignatie-7",
+    "person:ioan-93",
+    "person:simeon-19",
+    "person:ioan-94",
+    "person:iacov-7",
+    "person:dimitrie-26",
+    "person:iacov-8",
+    "person:ioasaf-7",
+    "person:ghenadie-3",
+    "person:petru-52",
+    "person:gherasim",
+    "person:mihail-48",
+    "person:dimitrie-27",
+    "person:ioan-95",
+    "person:timotei-10",
+    "person:nicolae-72",
+    "person:vladimir-31",
+    "person:veniamin-6",
+    "person:antonie-11",
+    "person:vartolomeu-3",
+    "person:valentin-10",
+    "person:petru-53",
+    "person:leonid-8",
+    "person:valentina-3",
+    "person:timotei-of-rusia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 19
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/edade40c-0d78-42ab-aaf9-6ed777d9cb94",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

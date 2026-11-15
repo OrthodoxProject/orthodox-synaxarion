@@ -1,0 +1,20 @@
+{
+  "id": "zosima-of-cicilia",
+  "locale": "ro",
+  "names": {
+    "display": "Cuviosul Zosima din Cicilia",
+    "short": "Zosima din Cicilia",
+    "given": "Zosima"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/498",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "38-martyrs-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții 38 de Mucenici"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/793bab78-16f5-4295-b37b-7b93c6bc806a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "valilisc",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Valilisc",
+    "short": "Valilisc",
+    "given": "Valilisc"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/227",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

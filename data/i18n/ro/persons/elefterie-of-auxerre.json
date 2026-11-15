@@ -1,0 +1,21 @@
+{
+  "id": "elefterie-of-auxerre",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Elefterie, episcop de Auxerre în Franța",
+    "full": "Sfântul Ierarh Elefterie, episcop de Auxerre în Franța",
+    "short": "Elefterie, episcop de Auxerre în Franța",
+    "given": "Elefterie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c7f27b6c-02dd-4713-bb9d-3b750ca3b12d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "virie-of-constantinopol",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Virie din Constantinopol",
+    "short": "Virie din Constantinopol",
+    "given": "Virie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/dc15b414-0fd4-4f50-8536-cb88673aaacb",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

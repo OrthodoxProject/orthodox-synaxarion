@@ -1,0 +1,29 @@
+{
+  "id": "eugen-of-nijni-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:eugen-of-nijni",
+    "person:varnava-of-hvosno",
+    "person:leonid-7",
+    "person:matei-of-rusia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 30
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/610b994d-d3e9-4e9a-b72e-a1139c510d81",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

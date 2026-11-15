@@ -1,0 +1,26 @@
+{
+  "id": "benedict-of-milano--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:benedict-of-milano"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 11
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2ef7ca22-933e-4c4c-ade5-e7e0d305bc03",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

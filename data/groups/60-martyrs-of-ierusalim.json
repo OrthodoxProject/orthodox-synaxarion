@@ -1,0 +1,25 @@
+{
+  "id": "60-martyrs-of-ierusalim",
+  "kind": "martyrs",
+  "count": {
+    "value": 60,
+    "precision": "exact"
+  },
+  "holiness_types": [
+    "martyr"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3b76d57d-bce7-49e7-aedc-0159974b1001",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

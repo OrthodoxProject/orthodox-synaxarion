@@ -1,0 +1,22 @@
+{
+  "id": "everilda-of-manastirii-everingham",
+  "kind": "saint",
+  "gender": "female",
+  "holiness_types": [
+    "venerable"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b4da2121-cf23-4259-b2d8-721570c54eea",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "leo-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici Leo, Donat, Abudantie, Nichifor și cei împreună cu dânșii"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7ee0858a-491e-40eb-b981-cd6a007624c9",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

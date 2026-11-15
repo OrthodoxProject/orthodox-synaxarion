@@ -1,0 +1,21 @@
+{
+  "id": "elwin-of-lindsey",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Elwin, episcop de Lindsey",
+    "full": "Sfântul Ierarh Elwin, episcop de Lindsey",
+    "short": "Elwin, episcop de Lindsey",
+    "given": "Elwin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/97fc30a5-fd49-4172-bedc-3d50c50f44a9",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "benedict-of-angers--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:benedict-of-angers"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 15
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c18a5392-96bd-45c7-aa0e-238d2f04c375",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

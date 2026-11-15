@@ -1,0 +1,21 @@
+{
+  "id": "asela",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Asela, stareță la Roma",
+    "full": "Sfânta Cuvioasă Asela, stareță la Roma",
+    "short": "Asela, stareță la Roma",
+    "given": "Asela"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/dbe6fd10-7939-4bad-8e61-621552166a7d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

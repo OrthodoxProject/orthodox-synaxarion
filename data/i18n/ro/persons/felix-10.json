@@ -1,0 +1,20 @@
+{
+  "id": "felix-10",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Felix",
+    "short": "Felix",
+    "given": "Felix"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/52a72537-1841-44a4-b361-47c5d63bf6d2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

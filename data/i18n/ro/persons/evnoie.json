@@ -1,0 +1,20 @@
+{
+  "id": "evnoie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Evnoie",
+    "short": "Evnoie",
+    "given": "Evnoie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/870b2e4e-cd73-4f3f-bcb8-abea257aa264",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "dionisie-of-corint--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:dionisie-of-corint"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 29
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1b93ed96-6700-42d4-9800-39bb7d9ad49e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

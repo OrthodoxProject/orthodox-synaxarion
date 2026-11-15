@@ -1,0 +1,31 @@
+{
+  "id": "petru-29-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:petru-29",
+    "person:apolinarie-3",
+    "person:ignatie-4",
+    "person:pavel-34",
+    "person:elisabeta",
+    "person:teodor-of-rusia-4"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 30
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/19bf34c7-0bd9-4b56-803f-8a02394a69d5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "stefan-15-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:stefan-15",
+    "person:vladimir-19",
+    "person:alexandru-33",
+    "person:ana-8",
+    "person:boris-4",
+    "person:iacob-of-rusia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 16
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/32dc0bee-7c46-4bc8-baed-e0eb15bed1d2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

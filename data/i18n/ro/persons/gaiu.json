@@ -1,0 +1,21 @@
+{
+  "id": "gaiu",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Gaiu",
+    "full": "Sfântul Cuvios Gaiu",
+    "short": "Gaiu",
+    "given": "Gaiu"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b2971f4c-81ac-4f66-9dc3-f7742c735649",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

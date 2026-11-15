@@ -1,0 +1,18 @@
+{
+  "id": "sfantul-mucenic-apostol",
+  "locale": "ro",
+  "names": {
+    "display": "Sfântul Mucenic Apostol"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c785b6d7-b559-4323-b940-3750f15779fa",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

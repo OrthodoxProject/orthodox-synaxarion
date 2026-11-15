@@ -1,0 +1,21 @@
+{
+  "id": "cerasie-of-grenoble",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Cerasie, episcop de Grenoble în Franța",
+    "full": "Sfântul Sfințit Mucenic Cerasie, episcop de Grenoble în Franța",
+    "short": "Cerasie, episcop de Grenoble în Franța",
+    "given": "Cerasie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4fe86028-aac2-4bbb-9eb6-1ead1ffc75d9",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

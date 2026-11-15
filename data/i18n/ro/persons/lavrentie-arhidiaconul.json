@@ -1,0 +1,20 @@
+{
+  "id": "lavrentie-arhidiaconul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Lavrentie arhidiaconul",
+    "short": "Lavrentie arhidiaconul",
+    "given": "Lavrentie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/700",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

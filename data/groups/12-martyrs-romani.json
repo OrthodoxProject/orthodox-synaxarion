@@ -1,0 +1,25 @@
+{
+  "id": "12-martyrs-romani",
+  "kind": "martyrs",
+  "count": {
+    "value": 12,
+    "precision": "exact"
+  },
+  "holiness_types": [
+    "martyr"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/318ec23d-389d-45b6-ae30-c30b364e7b0d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

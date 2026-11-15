@@ -1,0 +1,21 @@
+{
+  "id": "romulus-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Romulus, prefectul palatului împărătesc, martirizat",
+    "full": "Sfântul Mucenic Romulus, prefectul palatului împărătesc, martirizat",
+    "short": "Romulus, prefectul palatului împărătesc, martirizat",
+    "given": "Romulus"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/747422dd-8e8f-4bf9-a2aa-3b4c78dc15a7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

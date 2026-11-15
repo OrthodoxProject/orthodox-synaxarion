@@ -1,0 +1,26 @@
+{
+  "id": "viventie-of-lyon--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:viventie-of-lyon"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 12
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a00efe01-bf1c-44f1-828b-ee1d364c8c45",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

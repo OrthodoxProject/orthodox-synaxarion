@@ -1,0 +1,21 @@
+{
+  "id": "slavitului",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Slăvitului și întru tot lăudatului Ap. Filip, unul din cei 12 Apostoli",
+    "full": "Sfântul Slăvitului și întru tot lăudatului Apostol Filip, unul din cei 12 Apostoli",
+    "short": "Slăvitului, întru tot lăudatului Apostol Filip, unul din cei 12 Apostoli",
+    "given": "Slăvitului"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/963",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "mamilian-of-roma--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:mamilian-of-roma"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 12
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a2306ae7-bcb8-4ab3-b40f-cee85718bc6b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "inochentia-fecioara",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Inochentia fecioara",
+    "full": "Sfânta Muceniță Inochentia fecioara",
+    "short": "Inochentia fecioara",
+    "given": "Inochentia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/99c0e089-b775-44e1-a005-79587bba4398",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

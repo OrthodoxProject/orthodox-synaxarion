@@ -1,0 +1,30 @@
+{
+  "id": "nicolae-of-velikoustiuj-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:nicolae-of-velikoustiuj",
+    "person:ilie-17",
+    "person:ioan-112",
+    "person:vladimir-39",
+    "person:nicolae-88"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 18
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b293aae5-8d5f-4d45-abab-3dd50d63b35f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

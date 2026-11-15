@@ -1,0 +1,21 @@
+{
+  "id": "sacerdot-of-lyon",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Sacerdot, episcop de Lyon în Galia",
+    "full": "Sfântul Ierarh Sacerdot, episcop de Lyon în Galia",
+    "short": "Sacerdot, episcop de Lyon în Galia",
+    "given": "Sacerdot"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/08d94169-3443-4830-8e5c-5bc32c312df5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "teodot-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Teodot",
+    "short": "Teodot",
+    "given": "Teodot"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/42aaac91-6eff-4cf7-903f-762c5a2300ea",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

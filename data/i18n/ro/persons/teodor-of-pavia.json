@@ -1,0 +1,21 @@
+{
+  "id": "teodor-of-pavia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Teodor, episcop de Pavia în Italia",
+    "full": "Sfântul Ierarh Teodor, episcop de Pavia în Italia",
+    "short": "Teodor, episcop de Pavia în Italia",
+    "given": "Teodor"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ac3acae8-843d-490d-a150-c1246f7d91f6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

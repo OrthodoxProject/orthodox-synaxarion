@@ -1,0 +1,21 @@
+{
+  "id": "ioan-of-muntele",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Ioan, episcop de Muntele Sinai",
+    "full": "Sfântul Sfințit Mucenic Ioan, episcop de Muntele Sinai",
+    "short": "Ioan, episcop de Muntele Sinai",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6e1a937b-60ee-44fe-84e4-b24112fb49b2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

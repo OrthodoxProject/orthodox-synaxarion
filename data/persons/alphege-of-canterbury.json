@@ -1,0 +1,22 @@
+{
+  "id": "alphege-of-canterbury",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "hieromartyr"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b4582f15-fa8f-41cc-a72d-79ada18d903a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

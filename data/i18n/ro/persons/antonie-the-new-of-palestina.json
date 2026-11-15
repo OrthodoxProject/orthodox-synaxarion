@@ -1,0 +1,21 @@
+{
+  "id": "antonie-the-new-of-palestina",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Antonie cel Nou din Palestina",
+    "full": "Sfântul Cuvios Antonie cel Nou din Palestina",
+    "short": "Antonie cel Nou din Palestina",
+    "given": "Antonie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/361cf2d6-9020-47a6-942c-79de27d880e6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

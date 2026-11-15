@@ -1,0 +1,26 @@
+{
+  "id": "teodichildis--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:teodichildis"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 28
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/271561a0-7642-4dee-a267-85350e395db1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "tortred",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Tortred",
+    "short": "Tortred",
+    "given": "Tortred"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0b685636-1e27-408a-bb46-ad12602c5f3a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

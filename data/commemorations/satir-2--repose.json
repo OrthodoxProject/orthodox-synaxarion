@@ -1,0 +1,26 @@
+{
+  "id": "satir-2--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:satir-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 17
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a26a43aa-e6bb-4d2f-ab12-a2c389e36b45",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

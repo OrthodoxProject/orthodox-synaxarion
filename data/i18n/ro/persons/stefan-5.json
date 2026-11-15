@@ -1,0 +1,20 @@
+{
+  "id": "stefan-5",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Ștefan (Graceov)",
+    "short": "Ștefan (Graceov)",
+    "given": "Ștefan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/186533f3-f976-430f-96b2-abd61a8da895",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

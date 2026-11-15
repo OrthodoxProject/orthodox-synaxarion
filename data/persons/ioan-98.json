@@ -1,0 +1,24 @@
+{
+  "id": "ioan-98",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "new_martyr",
+    "hieromartyr"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/26cb14bf-96b9-44f5-9cd1-8eaf7b9e1f51",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat.",
+      "Genul nu reiese din sursă; e de verificat."
+    ]
+  }
+}

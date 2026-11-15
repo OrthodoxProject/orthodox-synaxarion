@@ -1,0 +1,32 @@
+{
+  "id": "sinaiti-romil-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:sinaiti-romil",
+    "person:roman-4",
+    "person:sisoe",
+    "person:martirie-2",
+    "person:grigorie-6",
+    "person:zosima-4",
+    "person:grigorie-sinaitul-of-serbia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 6
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1ba01a7f-dd91-488d-8a8e-95687d3b501b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

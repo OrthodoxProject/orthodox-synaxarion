@@ -1,0 +1,20 @@
+{
+  "id": "alexandra-of-rusia-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Nouă Mc. Alexandra (Hvorostiannikova) din Rusia",
+    "short": "Alexandra (Hvorostiannikova) din Rusia",
+    "given": "Alexandra"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1191",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

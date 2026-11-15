@@ -1,0 +1,21 @@
+{
+  "id": "faust-4",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Faust, însoțitorul și biograful Sfântului Maur",
+    "full": "Sfântul Faust, însoțitorul și biograful Sfântului Maur",
+    "short": "Faust, însoțitorul, biograful Sfântului Maur",
+    "given": "Faust"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/fa49d82e-d79f-4b4b-ac6e-76d4b8889c76",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

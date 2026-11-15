@@ -1,0 +1,21 @@
+{
+  "id": "bavon-of-gand",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Bavon, episcop de Gand în Belgia",
+    "full": "Sfântul Ierarh Bavon, episcop de Gand în Belgia",
+    "short": "Bavon, episcop de Gand în Belgia",
+    "given": "Bavon"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9e3ff447-d0d1-4624-9b98-23fca719d55f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

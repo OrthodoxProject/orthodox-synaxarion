@@ -1,0 +1,21 @@
+{
+  "id": "edbert-of-lindisfarne",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Edbert, episcop de Lindisfarne în Anglia",
+    "full": "Sfântul Ierarh Edbert, episcop de Lindisfarne în Anglia",
+    "short": "Edbert, episcop de Lindisfarne în Anglia",
+    "given": "Edbert"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b29fb153-2f45-4381-9b37-31efc0b9b804",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

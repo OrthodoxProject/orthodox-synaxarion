@@ -1,0 +1,18 @@
+{
+  "id": "azades-pustnicul-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici Azades pustnicul, Malah, Malohia și Zaruantin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e50be2bf-9388-4e28-af7f-58b31709d830",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

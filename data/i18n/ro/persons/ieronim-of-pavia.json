@@ -1,0 +1,26 @@
+{
+  "id": "ieronim-of-pavia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ieronim, episcop de Pavia în Italia",
+    "full": "Sfântul Ierarh Ieronim, episcop de Pavia în Italia",
+    "short": "Ieronim, episcop de Pavia în Italia",
+    "given": "Ieronim"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/94c9c143-39f5-4785-84ba-9a5d7fad933e",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/39464227-8b73-44bb-afd3-d9ecef75ef23",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ermagora--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:ermagora"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 12
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/50766ddc-dd67-4d62-b73f-f6e2ccfa6065",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

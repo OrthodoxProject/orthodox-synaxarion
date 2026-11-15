@@ -1,0 +1,26 @@
+{
+  "id": "cynibil-of-anglia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:cynibil-of-anglia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 2
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/438d223e-1abe-4efc-a8dd-9398a922a56d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

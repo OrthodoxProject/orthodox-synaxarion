@@ -1,0 +1,18 @@
+{
+  "id": "100-martyrs-of-egipt-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții 100 de Mucenici din Egipt și cei împreună cu ei"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1189",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

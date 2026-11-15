@@ -1,0 +1,20 @@
+{
+  "id": "aldegrin",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Aldegrin, monah la Cluny",
+    "short": "Aldegrin, monah la Cluny",
+    "given": "Aldegrin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d1a771ff-58f5-4f49-bc22-e483bbe9223c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

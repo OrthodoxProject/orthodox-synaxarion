@@ -1,0 +1,20 @@
+{
+  "id": "teodor-of-bologna",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Teodor, episcop de Bologna în Italia",
+    "short": "Teodor, episcop de Bologna în Italia",
+    "given": "Teodor"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/af3de784-1933-48af-b548-59d4764b5212",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

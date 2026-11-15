@@ -1,0 +1,20 @@
+{
+  "id": "papia-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Papia",
+    "short": "Papia",
+    "given": "Papia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0ccd6506-e22f-4bdc-bbcd-648d7ef3398a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

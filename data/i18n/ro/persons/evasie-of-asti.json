@@ -1,0 +1,21 @@
+{
+  "id": "evasie-of-asti",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Evasie, episcop de Asti în Italia",
+    "full": "Sfântul Mucenic Evasie, episcop de Asti în Italia",
+    "short": "Evasie, episcop de Asti în Italia",
+    "given": "Evasie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d3630913-c5dd-4e5e-b945-190dfa3a767e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

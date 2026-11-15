@@ -1,0 +1,26 @@
+{
+  "id": "soter-of-roma--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:soter-of-roma"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 22
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/daa434e9-3cbf-4cd7-9612-94198c91bcfd",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

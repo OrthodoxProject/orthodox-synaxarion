@@ -1,0 +1,26 @@
+{
+  "id": "martyrs-cneji-ai-rusiei-boris-and-gleb-numiti--translation-of-relics",
+  "kind": "relics_translation",
+  "subjects": [
+    "group:martyrs-cneji-ai-rusiei-boris-and-gleb-numiti"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 2
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/363",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

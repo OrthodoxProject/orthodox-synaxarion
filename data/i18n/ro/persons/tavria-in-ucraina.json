@@ -1,0 +1,20 @@
+{
+  "id": "tavria-in-ucraina",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Tavria în Ucraina",
+    "short": "Tavria în Ucraina",
+    "given": "Tavria"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1074",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

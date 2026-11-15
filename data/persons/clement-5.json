@@ -1,0 +1,23 @@
+{
+  "id": "clement-5",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "righteous"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/354bbbde-6ce4-46a0-904a-5e952131aa7b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat.",
+      "Chipul sfințeniei nu reiese din titlu; „righteous” e provizoriu."
+    ]
+  }
+}

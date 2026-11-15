@@ -1,0 +1,26 @@
+{
+  "id": "iona-cipriotul--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:iona-cipriotul"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 11
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/fb47f562-feb3-4a49-8a4a-c681023c3475",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "erotiida-of-capadocia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Erotiida din Capadocia",
+    "short": "Erotiida din Capadocia",
+    "given": "Erotiida"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/922",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

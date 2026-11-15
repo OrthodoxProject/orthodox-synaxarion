@@ -1,0 +1,21 @@
+{
+  "id": "uar-of-egipt",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Uar din Egipt",
+    "full": "Sfântul Mucenic Uar din Egipt",
+    "short": "Uar din Egipt",
+    "given": "Uar"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/516c7878-b6a7-4b82-8500-311b235dad34",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

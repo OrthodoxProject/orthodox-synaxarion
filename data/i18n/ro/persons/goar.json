@@ -1,0 +1,21 @@
+{
+  "id": "goar",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Goar, pustnic și misionar de-a lungul râului Rin în Germania",
+    "full": "Sfântul Cuvios Goar, pustnic și misionar de-a lungul râului Rin în Germania",
+    "short": "Goar, pustnic, misionar de-a lungul râului Rin în Germania",
+    "given": "Goar"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9e68c85b-e180-4727-a2bd-4b14b4a37643",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

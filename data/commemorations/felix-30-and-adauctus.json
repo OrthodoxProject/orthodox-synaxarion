@@ -1,0 +1,27 @@
+{
+  "id": "felix-30-and-adauctus",
+  "kind": "repose",
+  "subjects": [
+    "person:felix-30",
+    "person:adauctus"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 30
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c166234b-fdbb-45dc-a16b-e5a98f8f89e1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "mihail-54",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Mihail (Celțov)",
+    "short": "Mihail (Celțov)",
+    "given": "Mihail"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7c367b35-f05f-4471-b33a-45398af761c0",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

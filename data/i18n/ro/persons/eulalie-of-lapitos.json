@@ -1,0 +1,21 @@
+{
+  "id": "eulalie-of-lapitos",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Eulalie, episcop de Lapitos în insula Cipru",
+    "full": "Sfântul Ierarh Eulalie, episcop de Lapitos în insula Cipru",
+    "short": "Eulalie, episcop de Lapitos în insula Cipru",
+    "given": "Eulalie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/54920e80-6706-46a6-8202-db988e90663f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

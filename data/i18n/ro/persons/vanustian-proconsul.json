@@ -1,0 +1,21 @@
+{
+  "id": "vanustian-proconsul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Vanustian proconsul",
+    "full": "Sfântul Mucenic Vanustian proconsul",
+    "short": "Vanustian proconsul",
+    "given": "Vanustian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9cb357ce-2203-4bba-88bb-4ff394482c9c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

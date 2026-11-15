@@ -1,0 +1,23 @@
+{
+  "id": "pomenirea-inchinarii-celor-3-magi-melchior-gaspar-si",
+  "kind": "event",
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 25
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/cf46e2fc-2744-4645-a754-b12eadd981ec",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

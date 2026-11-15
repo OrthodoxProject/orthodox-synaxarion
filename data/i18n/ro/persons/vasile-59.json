@@ -1,0 +1,20 @@
+{
+  "id": "vasile-59",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Vasile (Agafonikov)",
+    "short": "Vasile (Agafonikov)",
+    "given": "Vasile"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4de9f423-7fe3-4e25-a75e-bed5fc2c71f0",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

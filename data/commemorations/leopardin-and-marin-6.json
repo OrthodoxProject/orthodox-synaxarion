@@ -1,0 +1,27 @@
+{
+  "id": "leopardin-and-marin-6",
+  "kind": "repose",
+  "subjects": [
+    "person:leopardin",
+    "person:marin-6"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 25
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/14c3c030-b899-4c07-9f1e-984123e028f3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

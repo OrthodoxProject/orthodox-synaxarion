@@ -1,0 +1,21 @@
+{
+  "id": "aurelian-of-arles",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Aurelian, episcop de Arles în Franța",
+    "full": "Sfântul Ierarh Aurelian, episcop de Arles în Franța",
+    "short": "Aurelian, episcop de Arles în Franța",
+    "given": "Aurelian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/96d37eeb-a703-4472-b010-413592251652",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

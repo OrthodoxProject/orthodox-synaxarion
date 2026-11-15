@@ -1,0 +1,20 @@
+{
+  "id": "galican-of-embrun",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Galican, episcop de Embrun în Franța",
+    "short": "Galican, episcop de Embrun în Franța",
+    "given": "Galican"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3512ded0-3d5d-446e-ab16-5cab29771f60",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

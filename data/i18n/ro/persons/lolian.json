@@ -1,0 +1,21 @@
+{
+  "id": "lolian",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Lolian",
+    "full": "Sfântul Mucenic Lolian",
+    "short": "Lolian",
+    "given": "Lolian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/41edc36b-dfbe-4ce1-885a-90fa989ca595",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

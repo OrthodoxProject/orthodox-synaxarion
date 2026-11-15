@@ -1,0 +1,21 @@
+{
+  "id": "bertamie-of-ilam",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Bertamie de Ilam, pustnic în Marea Britanie",
+    "full": "Sfântul Cuvios Bertamie de Ilam, pustnic în Marea Britanie",
+    "short": "Bertamie de Ilam, pustnic în Marea Britanie",
+    "given": "Bertamie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8c241a43-e662-45f6-83fb-0419784ee092",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

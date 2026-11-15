@@ -1,0 +1,21 @@
+{
+  "id": "marcela-of-roma",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Marcela din Roma, ucenica Fericitului Ieronim",
+    "full": "Sfânta Cuvioasă Muceniță Marcela din Roma, ucenica Fericitului Ieronim",
+    "short": "Marcela din Roma, ucenica Fericitului Ieronim",
+    "given": "Marcela"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/261e7f3f-b200-42c9-986a-9aad3f42ac6a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

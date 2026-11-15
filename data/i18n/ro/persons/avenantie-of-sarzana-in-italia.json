@@ -1,0 +1,20 @@
+{
+  "id": "avenantie-of-sarzana-in-italia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Avenantie din Sarzana în Italia",
+    "short": "Avenantie din Sarzana în Italia",
+    "given": "Avenantie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/62c5a895-ff35-4741-b647-7df844fca9df",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

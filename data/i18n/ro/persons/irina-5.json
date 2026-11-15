@@ -1,0 +1,21 @@
+{
+  "id": "irina-5",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. împărăteasă Irina, ctitora Mănăstirii Pantocrator din Sfântul Munte Athos",
+    "full": "Sfânta împărăteasă Irina, ctitora Mănăstirii Pantocrator din Sfântul Munte Athos",
+    "short": "Irina, ctitora Mănăstirii Pantocrator din Sfântul Munte Athos",
+    "given": "Irina"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f0424f69-8fd4-4ac3-8a9b-d8d6d678c9bf",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

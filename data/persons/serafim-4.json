@@ -1,0 +1,24 @@
+{
+  "id": "serafim-4",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "new_martyr",
+    "hieromartyr"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1a263d5d-f426-4d79-9e13-8e81ff01774f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat.",
+      "Genul nu reiese din sursă; e de verificat."
+    ]
+  }
+}

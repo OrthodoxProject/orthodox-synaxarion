@@ -1,0 +1,26 @@
+{
+  "id": "faustinian--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:faustinian"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 26
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5a43aef3-ce20-4bc3-81bf-ad105437a2c7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

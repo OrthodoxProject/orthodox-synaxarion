@@ -1,0 +1,18 @@
+{
+  "id": "secundin-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici Secundin, Agripin, Maxim, Fortunat și Marțial"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e1293a88-28f1-41e4-8030-e52c9a56c5f6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

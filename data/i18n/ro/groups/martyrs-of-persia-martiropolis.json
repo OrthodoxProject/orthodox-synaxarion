@@ -1,0 +1,18 @@
+{
+  "id": "martyrs-of-persia-martiropolis",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici din Persia, Martiropolis"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a4d6fdf9-df02-4557-976b-352598afd42b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

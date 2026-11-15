@@ -1,0 +1,26 @@
+{
+  "id": "gamaliel-2--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:gamaliel-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 4
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/37489029-0226-41c4-9ad2-535e0a546892",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

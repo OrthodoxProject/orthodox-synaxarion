@@ -1,0 +1,21 @@
+{
+  "id": "pamfiliu-of-roma",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Pamfiliu din Roma",
+    "full": "Sfântul Mucenic Pamfiliu din Roma",
+    "short": "Pamfiliu din Roma",
+    "given": "Pamfiliu"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/24bffcf3-cf09-4f02-8b18-93315cdfbfec",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

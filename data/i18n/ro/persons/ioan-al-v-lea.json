@@ -1,0 +1,20 @@
+{
+  "id": "ioan-al-v-lea",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ioan al V-lea",
+    "short": "Ioan al V-lea",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/721",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

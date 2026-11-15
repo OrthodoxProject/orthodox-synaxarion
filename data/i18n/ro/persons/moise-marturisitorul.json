@@ -1,0 +1,21 @@
+{
+  "id": "moise-marturisitorul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Moise Mărturisitorul",
+    "full": "Sfântul Moise Mărturisitorul",
+    "short": "Moise Mărturisitorul",
+    "given": "Moise"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8d7c50a4-12ef-4a15-83f9-127f49dcd571",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "avramie-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Avramie",
+    "short": "Avramie",
+    "given": "Avramie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a28f3da4-337c-4e25-b057-e3d03facbef1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "leon-preotul-of-laskov",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sf. Nou Mc LEON (Korobezuk) preotul din Laskov (Polonia)",
+    "full": "Sfântul Sf. Nou Mc LEON (Korobezuk) preotul din Laskov (Polonia)",
+    "short": "LEON (Korobezuk) preotul din Laskov",
+    "given": "LEON"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6a65d9b6-fa8c-444e-a389-b6e170ce5d09",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

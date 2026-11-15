@@ -1,0 +1,26 @@
+{
+  "id": "numerian-of-trier--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:numerian-of-trier"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 5
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3521ffe1-8438-4b7a-9529-8eaba654e2b4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

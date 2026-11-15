@@ -1,0 +1,20 @@
+{
+  "id": "teodosia-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Teodosia",
+    "short": "Teodosia",
+    "given": "Teodosia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4a08bd2c-7d88-4b8e-aeb3-c1fcba476d17",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

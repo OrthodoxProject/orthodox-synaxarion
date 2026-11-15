@@ -1,0 +1,20 @@
+{
+  "id": "chiriachi-4",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Chiriachi",
+    "short": "Chiriachi",
+    "given": "Chiriachi"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/dd4059b1-0e4e-4679-8d79-dd596a6274e2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

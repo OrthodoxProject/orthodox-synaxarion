@@ -1,0 +1,21 @@
+{
+  "id": "cvint",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Cvint, făcătorul de minuni și mărturisitor din Frigia",
+    "full": "Sfântul Mucenic Cvint, făcătorul de minuni și mărturisitor din Frigia",
+    "short": "Cvint, făcătorul de minuni, mărturisitor din Frigia",
+    "given": "Cvint"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5a463946-a601-40c3-90f6-1c26d690593b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ninnid-of-irlanda",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ninnid din Irlanda",
+    "full": "Sfântul Ninnid din Irlanda",
+    "short": "Ninnid din Irlanda",
+    "given": "Ninnid"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/80c6f474-e8a0-49ee-a6e8-7b2c7095cf51",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

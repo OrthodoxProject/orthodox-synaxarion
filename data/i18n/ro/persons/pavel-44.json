@@ -1,0 +1,20 @@
+{
+  "id": "pavel-44",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Pavel",
+    "short": "Pavel",
+    "given": "Pavel"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/993c7664-65bf-4170-becb-776248d26857",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

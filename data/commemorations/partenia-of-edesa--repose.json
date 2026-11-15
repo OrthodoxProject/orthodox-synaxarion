@@ -1,0 +1,26 @@
+{
+  "id": "partenia-of-edesa--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:partenia-of-edesa"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 9
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1c300b04-413f-45bc-90cf-b997c19e1a12",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "pirmin-of-in",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Pirmin, episcop în Germania",
+    "short": "Pirmin, episcop în Germania",
+    "given": "Pirmin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c3e3b525-88b3-4b99-90c5-0640d3b19963",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

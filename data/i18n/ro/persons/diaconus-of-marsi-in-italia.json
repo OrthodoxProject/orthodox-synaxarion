@@ -1,0 +1,21 @@
+{
+  "id": "diaconus-of-marsi-in-italia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Diaconus din Marsi în Italia",
+    "full": "Sfântul Sfințit Mucenic Diaconus din Marsi în Italia",
+    "short": "Diaconus din Marsi în Italia",
+    "given": "Diaconus"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ac79474e-060c-4eba-959a-90f26cd15638",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

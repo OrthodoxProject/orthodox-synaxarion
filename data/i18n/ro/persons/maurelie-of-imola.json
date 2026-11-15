@@ -1,0 +1,21 @@
+{
+  "id": "maurelie-of-imola",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Maurelie, episcop de Imola în Italia",
+    "full": "Sfântul Ierarh Maurelie, episcop de Imola în Italia",
+    "short": "Maurelie, episcop de Imola în Italia",
+    "given": "Maurelie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/faf084bf-a8b4-4490-8353-e5b6fcaf94bb",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

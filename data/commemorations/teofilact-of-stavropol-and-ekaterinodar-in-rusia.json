@@ -1,0 +1,27 @@
+{
+  "id": "teofilact-of-stavropol-and-ekaterinodar-in-rusia",
+  "kind": "repose",
+  "subjects": [
+    "person:teofilact-of-stavropol",
+    "person:ekaterinodar-in-rusia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 11
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/76e897a3-f564-44d9-a51e-d742387cb0f7#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

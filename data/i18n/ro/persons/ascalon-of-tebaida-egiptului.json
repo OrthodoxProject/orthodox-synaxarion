@@ -1,0 +1,21 @@
+{
+  "id": "ascalon-of-tebaida-egiptului",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Ascalon (Ascla) din Tebaida Egiptului",
+    "full": "Sfântul Mucenic Ascalon (Ascla) din Tebaida Egiptului",
+    "short": "Ascalon (Ascla) din Tebaida Egiptului",
+    "given": "Ascalon"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1518",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

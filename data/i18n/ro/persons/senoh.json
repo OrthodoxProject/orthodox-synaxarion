@@ -1,0 +1,21 @@
+{
+  "id": "senoh",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Senoh, egumen la Tours în Galia",
+    "full": "Sfântul Cuvios Senoh, egumen la Tours în Galia",
+    "short": "Senoh, egumen la Tours în Galia",
+    "given": "Senoh"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b416d6c8-81b4-45e9-a671-bee3a8a30fb8",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "botezatorul-domnului",
+  "locale": "ro",
+  "names": {
+    "display": "Întâia Botezătorul Domnului",
+    "short": "Botezătorul Domnului",
+    "given": "Botezătorul"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e66024d4-9527-4a09-a032-3413ab7047e5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "iuliu-i-of-roma",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Mărt. Iuliu I, episcopul Romei",
+    "full": "Sfântul Ierarh Mărturisitor Iuliu I, episcopul Romei",
+    "short": "Iuliu I, episcopul Romei",
+    "given": "Iuliu"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/11f39f17-2fca-473e-a075-b1f977f957ae",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

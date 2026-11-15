@@ -1,0 +1,26 @@
+{
+  "id": "apolonie-5--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:apolonie-5"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 23
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9489d746-684d-4aeb-b7e4-137081c1a6a7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

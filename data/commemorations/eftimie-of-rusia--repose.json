@@ -1,0 +1,26 @@
+{
+  "id": "eftimie-of-rusia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:eftimie-of-rusia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 5
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/789a565e-9ca5-4b66-a4df-cab3e8ee506c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

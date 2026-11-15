@@ -1,0 +1,20 @@
+{
+  "id": "petru-20",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Petru (Korelin)",
+    "short": "Petru (Korelin)",
+    "given": "Petru"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ce80c518-acf0-4344-bac6-9cbedc941563",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

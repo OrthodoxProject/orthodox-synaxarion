@@ -1,0 +1,21 @@
+{
+  "id": "onorat-of-milano",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Onorat, episcop de Milano în Italia",
+    "full": "Sfântul Ierarh Onorat, episcop de Milano în Italia",
+    "short": "Onorat, episcop de Milano în Italia",
+    "given": "Onorat"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/38eaa598-b488-44c6-9e6f-f6b5c090fa60",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

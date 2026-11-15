@@ -1,0 +1,26 @@
+{
+  "id": "martyrs-zoil-clement-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "group:martyrs-zoil-clement-and-companions"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 27
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d50f2864-6b06-4e01-9e30-fc9048ce0898",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ursicin-of-sens--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:ursicin-of-sens"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 24
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f58846a2-4c43-423e-9e7b-d9c6cd07b3ba",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

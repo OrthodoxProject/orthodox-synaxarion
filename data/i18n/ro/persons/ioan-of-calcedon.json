@@ -1,0 +1,21 @@
+{
+  "id": "ioan-of-calcedon",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ioan, mitropolitul Calcedonului",
+    "full": "Sfântul Ierarh Ioan, mitropolitul Calcedonului",
+    "short": "Ioan, mitropolitul Calcedonului",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ac4e84d9-3909-4fe2-aae4-5974afa4776e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

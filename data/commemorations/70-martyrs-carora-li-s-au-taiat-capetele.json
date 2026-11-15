@@ -1,0 +1,26 @@
+{
+  "id": "70-martyrs-carora-li-s-au-taiat-capetele",
+  "kind": "repose",
+  "subjects": [
+    "group:70-martyrs-carora-li-s-au-taiat-capetele"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 30
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4c4a0725-0212-4f87-be18-b278f6f65c09",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "emilian",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Emilian",
+    "short": "Emilian",
+    "given": "Emilian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e45d9df2-8ead-4d58-b5fc-fcd78132d802",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "arsenie-of-latro",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Arsenie din Latro",
+    "full": "Sfântul Cuvios Arsenie din Latro",
+    "short": "Arsenie din Latro",
+    "given": "Arsenie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/426e9194-341b-400b-a2a7-99c2ba25226f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "damian-4",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Damian",
+    "short": "Damian",
+    "given": "Damian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3d18fd34-0ea2-4013-b992-12f3a84f93b5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

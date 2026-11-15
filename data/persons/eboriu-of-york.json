@@ -1,0 +1,22 @@
+{
+  "id": "eboriu-of-york",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "hieromartyr"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/cfe48596-fb60-4bce-8cf9-2d67dc014c43",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

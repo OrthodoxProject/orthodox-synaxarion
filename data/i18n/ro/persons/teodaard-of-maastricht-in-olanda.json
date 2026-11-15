@@ -1,0 +1,21 @@
+{
+  "id": "teodaard-of-maastricht-in-olanda",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Teodaard de la Maastricht în Olanda",
+    "full": "Sfântul Teodaard de la Maastricht în Olanda",
+    "short": "Teodaard de la Maastricht în Olanda",
+    "given": "Teodaard"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/843c5302-5c06-42a6-b054-17986d3a12d7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

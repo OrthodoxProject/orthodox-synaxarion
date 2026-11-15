@@ -1,0 +1,26 @@
+{
+  "id": "ursin-of-bourges--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:ursin-of-bourges"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 9
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/857d182f-90d8-4442-8b46-4de8965c1181",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

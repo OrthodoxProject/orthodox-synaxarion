@@ -1,0 +1,26 @@
+{
+  "id": "wulmar-of-franta--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:wulmar-of-franta"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 20
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5384a9b2-e720-4544-b791-3e4b7dc5d9ea",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

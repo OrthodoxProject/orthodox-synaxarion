@@ -1,0 +1,21 @@
+{
+  "id": "apolonius-dregatorul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Apolonius dregătorul",
+    "full": "Sfântul Mucenic Apolonius dregătorul",
+    "short": "Apolonius dregătorul",
+    "given": "Apolonius"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/bf1ffc59-4899-4a30-8524-556b0e6e6019",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

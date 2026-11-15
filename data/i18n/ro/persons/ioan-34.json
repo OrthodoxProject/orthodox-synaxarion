@@ -1,0 +1,21 @@
+{
+  "id": "ioan-34",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Ioan",
+    "full": "Sfântul Mucenic Ioan",
+    "short": "Ioan",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/db5983fd-47ce-46f0-8846-3a16bf142826",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

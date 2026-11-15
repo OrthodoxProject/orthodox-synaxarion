@@ -1,0 +1,20 @@
+{
+  "id": "ianuarie-9",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Ianuarie",
+    "short": "Ianuarie",
+    "given": "Ianuarie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5a5e2701-3c7f-471f-8d17-e2e4a66455eb",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

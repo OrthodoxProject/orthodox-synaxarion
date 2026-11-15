@@ -1,0 +1,26 @@
+{
+  "id": "sixt-i-of-roma--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:sixt-i-of-roma"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 3
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6c1d2cb1-1951-4c28-893b-d95464e30bd2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

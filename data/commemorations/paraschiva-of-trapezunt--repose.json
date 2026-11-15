@@ -1,0 +1,26 @@
+{
+  "id": "paraschiva-of-trapezunt--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:paraschiva-of-trapezunt"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 1
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2183f522-913c-4a4a-98e5-34ac43b49627",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

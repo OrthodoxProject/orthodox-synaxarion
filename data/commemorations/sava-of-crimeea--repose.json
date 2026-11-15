@@ -1,0 +1,26 @@
+{
+  "id": "sava-of-crimeea--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:sava-of-crimeea"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 2
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/56fde3d5-6a16-4aab-b708-66f764354f92",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

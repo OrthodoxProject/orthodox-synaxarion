@@ -1,0 +1,26 @@
+{
+  "id": "trudo--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:trudo"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 23
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3709ed53-fec5-4147-8ea8-b60c68a8987d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

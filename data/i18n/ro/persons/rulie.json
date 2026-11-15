@@ -1,0 +1,21 @@
+{
+  "id": "rulie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Rulie, misionar în Scoția",
+    "full": "Sfântul Rulie, misionar în Scoția",
+    "short": "Rulie, misionar în Scoția",
+    "given": "Rulie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/87b8d2dd-3c45-4c4c-b31c-52f0d916c1a8",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

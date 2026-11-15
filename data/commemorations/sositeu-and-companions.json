@@ -1,0 +1,28 @@
+{
+  "id": "sositeu-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:sositeu",
+    "person:narsu",
+    "person:isaac-of-persia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 9
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/deb5b63a-ac3d-4509-8dbb-8b417d545430",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

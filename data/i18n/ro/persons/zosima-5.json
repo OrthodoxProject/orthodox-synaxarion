@@ -1,0 +1,21 @@
+{
+  "id": "zosima-5",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Zosima",
+    "full": "Sfântul Cuvios Zosima",
+    "short": "Zosima",
+    "given": "Zosima"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1095#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "vasile-of-manastirea-mirozh",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Vasile de la Mănăstirea Mirozh, Pskov, Rusia",
+    "full": "Sfântul Vasile de la Mănăstirea Mirozh, Pskov, Rusia",
+    "short": "Vasile de la Mănăstirea Mirozh, Pskov, Rusia",
+    "given": "Vasile"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d3360452-080d-4d0e-bde2-2c6febadb31b#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "turnin",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Turnin, preot din Irlanda, propovăduitor în Olanda",
+    "short": "Turnin, preot din Irlanda, propovăduitor în Olanda",
+    "given": "Turnin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/83abde3e-51f3-4ee5-9fb7-ef5b37891443",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

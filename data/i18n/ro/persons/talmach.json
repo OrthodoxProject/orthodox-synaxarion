@@ -1,0 +1,21 @@
+{
+  "id": "talmach",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Talmach, ucenicul Sfântului Barr din Irlanda",
+    "full": "Sfântul Cuvios Talmach, ucenicul Sfântului Barr din Irlanda",
+    "short": "Talmach, ucenicul Sfântului Barr din Irlanda",
+    "given": "Talmach"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/97289bfb-e662-4015-99d0-628cc670f62b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

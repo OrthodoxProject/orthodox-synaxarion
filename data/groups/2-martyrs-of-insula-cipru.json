@@ -1,0 +1,25 @@
+{
+  "id": "2-martyrs-of-insula-cipru",
+  "kind": "martyrs",
+  "count": {
+    "value": 2,
+    "precision": "exact"
+  },
+  "holiness_types": [
+    "martyr"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/29883fe3-2f66-4a5b-88e9-2b8413d2d8a7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

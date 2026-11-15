@@ -1,0 +1,26 @@
+{
+  "id": "willihad-of-bremen--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:willihad-of-bremen"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 8
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d9d6b554-f87c-49cd-9ef1-5829cbd3b6ab",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

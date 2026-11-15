@@ -1,0 +1,21 @@
+{
+  "id": "marcian-7",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Marcian, monah la Mănăstirea „Sfinții Cosma și Damian” din Auxerre în Franța",
+    "full": "Sfântul Cuvios Marcian, monah la Mănăstirea „Sfinții Cosma și Damian” din Auxerre în Franța",
+    "short": "Marcian, monah la Mănăstirea „Sfinții Cosma și Damian” din Auxerre în Franța",
+    "given": "Marcian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/aa76f05e-9670-490c-a328-d9189833eebd",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

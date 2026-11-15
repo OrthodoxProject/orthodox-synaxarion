@@ -1,0 +1,21 @@
+{
+  "id": "clement-10",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Clement, primul episcop de Metz în Franța",
+    "full": "Sfântul Ierarh Clement, primul episcop de Metz în Franța",
+    "short": "Clement, primul episcop de Metz în Franța",
+    "given": "Clement"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a13d26ef-bf17-401b-bacd-a76ecfcf840b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

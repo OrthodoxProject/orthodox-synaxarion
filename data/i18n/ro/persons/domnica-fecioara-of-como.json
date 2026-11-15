@@ -1,0 +1,20 @@
+{
+  "id": "domnica-fecioara-of-como",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Domnica fecioara, fiica Sfântului Ierarh Agripin, episcop de Como în Italia",
+    "short": "Domnica fecioara, fiica Sfântului Ierarh Agripin, episcop de Como în Italia",
+    "given": "Domnica"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e49041fd-75c5-466c-9e2a-63b124877071#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "paternian-of-fano",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Paternian, episcop de Fano în Italia",
+    "full": "Sfântul Ierarh Paternian, episcop de Fano în Italia",
+    "short": "Paternian, episcop de Fano în Italia",
+    "given": "Paternian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ac313c14-16d3-4c07-8355-4840e3c3a9f8",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "alexie-21-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:alexie-21",
+    "person:petru-37",
+    "person:amfilohie-of-krasnoyarsk",
+    "person:ioan-33",
+    "person:boris-5",
+    "person:vladimir-24",
+    "person:mihail-38",
+    "person:veniamin-5",
+    "person:constantin-11",
+    "person:serghie-of-rusia-6"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 18
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8b0da094-4ff8-4bcd-a8d0-156fdf9ce84e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

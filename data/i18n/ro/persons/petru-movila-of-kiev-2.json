@@ -1,0 +1,21 @@
+{
+  "id": "petru-movila-of-kiev-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Petru Movilă, Mitropolitul Kievului",
+    "full": "Sfântul Ierarh Petru Movilă, Mitropolitul Kievului",
+    "short": "Petru Movilă, Mitropolitul Kievului",
+    "given": "Petru"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/72",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

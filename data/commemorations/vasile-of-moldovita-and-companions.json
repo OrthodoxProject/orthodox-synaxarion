@@ -1,0 +1,29 @@
+{
+  "id": "vasile-of-moldovita-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:vasile-of-moldovita",
+    "person:inochentie-of-probota",
+    "person:epifanie-of-voronet",
+    "person:evstatie-of-probota"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 31
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3e0bfeab-c3ad-42ab-bdc3-7e962c34c4ac",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

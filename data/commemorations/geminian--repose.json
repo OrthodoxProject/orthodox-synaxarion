@@ -1,0 +1,26 @@
+{
+  "id": "geminian--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:geminian"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 7
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ce2eeccd-d067-44e6-8326-0c6994425f49",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

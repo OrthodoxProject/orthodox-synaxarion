@@ -1,0 +1,26 @@
+{
+  "id": "paternian-of-fano--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:paternian-of-fano"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 23
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ac313c14-16d3-4c07-8355-4840e3c3a9f8",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

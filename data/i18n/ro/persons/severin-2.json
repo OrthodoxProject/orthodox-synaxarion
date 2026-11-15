@@ -1,0 +1,21 @@
+{
+  "id": "severin-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Severin, monah la Paris în Franța",
+    "full": "Sfântul Cuvios Severin, monah la Paris în Franța",
+    "short": "Severin, monah la Paris în Franța",
+    "given": "Severin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/51e5ccc5-0695-468e-acbd-f0fdfa32dc82",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

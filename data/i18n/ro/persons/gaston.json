@@ -1,0 +1,20 @@
+{
+  "id": "gaston",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Gaston",
+    "short": "Gaston",
+    "given": "Gaston"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/03009707-1a26-4d9e-98f4-21ad51452e59",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

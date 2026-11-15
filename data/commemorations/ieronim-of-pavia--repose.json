@@ -1,0 +1,26 @@
+{
+  "id": "ieronim-of-pavia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:ieronim-of-pavia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 19
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/94c9c143-39f5-4785-84ba-9a5d7fad933e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

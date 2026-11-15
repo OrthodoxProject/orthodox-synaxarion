@@ -1,0 +1,21 @@
+{
+  "id": "guinoch-of-in",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Guinoch, episcop în Scoția",
+    "full": "Sfântul Ierarh Guinoch, episcop în Scoția",
+    "short": "Guinoch, episcop în Scoția",
+    "given": "Guinoch"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2884a83e-f421-44a4-912c-65ae51fd47a1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

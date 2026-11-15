@@ -1,0 +1,26 @@
+{
+  "id": "stefan-of-antiohia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:stefan-of-antiohia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 25
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8708599c-1ac5-4cb3-a57a-c4a9fe257d8a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

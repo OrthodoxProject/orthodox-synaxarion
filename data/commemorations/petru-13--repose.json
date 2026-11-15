@@ -1,0 +1,26 @@
+{
+  "id": "petru-13--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:petru-13"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 26
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1e0afa30-8d98-4f29-ae0b-530ab7a1da5d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

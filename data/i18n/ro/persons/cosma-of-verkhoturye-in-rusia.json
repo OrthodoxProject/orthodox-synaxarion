@@ -1,0 +1,21 @@
+{
+  "id": "cosma-of-verkhoturye-in-rusia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cosma de Verkhoturye în Rusia",
+    "full": "Sfântul Cosma de Verkhoturye în Rusia",
+    "short": "Cosma de Verkhoturye în Rusia",
+    "given": "Cosma"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b9a7c5d2-9425-47d1-999d-a9ba9c3ea9b7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

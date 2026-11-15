@@ -1,0 +1,18 @@
+{
+  "id": "alevtina-and-hionia-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici Pavel, Alevtina, Hionia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/629",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

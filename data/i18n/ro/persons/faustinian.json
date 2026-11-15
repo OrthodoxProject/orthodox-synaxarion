@@ -1,0 +1,21 @@
+{
+  "id": "faustinian",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Faustinian, al 2-lea episcop al Boloniei",
+    "full": "Sfântul Ierarh Faustinian, al 2-lea episcop al Boloniei",
+    "short": "Faustinian, al 2-lea episcop al Boloniei",
+    "given": "Faustinian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5a43aef3-ce20-4bc3-81bf-ad105437a2c7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

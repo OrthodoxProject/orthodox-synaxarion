@@ -1,0 +1,21 @@
+{
+  "id": "lup-marturisitorul-of-troyes",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Lup Mărturisitorul, episcop de Troyes în Franța",
+    "full": "Sfântul Ierarh Lup Mărturisitorul, episcop de Troyes în Franța",
+    "short": "Lup Mărturisitorul, episcop de Troyes în Franța",
+    "given": "Lup"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4ac95438-f224-442f-9f23-2f55a3d2aa92",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

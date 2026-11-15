@@ -1,0 +1,26 @@
+{
+  "id": "atanasie-naupliotul--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:atanasie-naupliotul"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 1
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d3a1822b-3d70-4f4d-9678-17653353896f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

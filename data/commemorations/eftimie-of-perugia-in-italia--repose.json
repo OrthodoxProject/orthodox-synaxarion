@@ -1,0 +1,26 @@
+{
+  "id": "eftimie-of-perugia-in-italia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:eftimie-of-perugia-in-italia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 29
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9daeff19-38cd-48bc-8d0d-ca680e38817d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

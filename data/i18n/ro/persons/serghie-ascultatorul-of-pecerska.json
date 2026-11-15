@@ -1,0 +1,21 @@
+{
+  "id": "serghie-ascultatorul-of-pecerska",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Serghie Ascultătorul, de la Pecerska",
+    "full": "Sfântul Cuvios Serghie Ascultătorul, de la Pecerska",
+    "short": "Serghie Ascultătorul, de la Pecerska",
+    "given": "Serghie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/867",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

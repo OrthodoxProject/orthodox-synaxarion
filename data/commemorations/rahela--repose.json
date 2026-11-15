@@ -1,0 +1,26 @@
+{
+  "id": "rahela--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:rahela"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 27
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/dae3fdd1-c19c-4414-809e-693e64eb145b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

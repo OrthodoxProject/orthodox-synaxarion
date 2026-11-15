@@ -1,0 +1,21 @@
+{
+  "id": "lavrentie-5",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Lavrentie, nevoitor în Sfântul Munte Athos, iar mai târziu întemeietor al unei mănăstiri pe Muntele Pilion-Voios în Grecia (secolul al XIV-lea)",
+    "full": "Sfântul Cuvios Lavrentie, nevoitor în Sfântul Munte Athos, iar mai târziu întemeietor al unei mănăstiri pe Muntele Pilion-Voios în Grecia (secolul al XIV-lea)",
+    "short": "Lavrentie, nevoitor în Sfântul Munte Athos, iar mai târziu întemeietor al unei mănăstiri pe Muntele Pilion-Voios în Grecia",
+    "given": "Lavrentie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/346207c7-54be-4ee7-8a8f-740bda2b74ea",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

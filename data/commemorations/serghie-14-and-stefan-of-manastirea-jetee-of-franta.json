@@ -1,0 +1,27 @@
+{
+  "id": "serghie-14-and-stefan-of-manastirea-jetee-of-franta",
+  "kind": "repose",
+  "subjects": [
+    "person:serghie-14",
+    "person:stefan-of-manastirea-jetee-of-franta"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 13
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f8c51072-456e-45a0-b3d7-8c9ac60e2d97",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "auvin-of-angers",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Auvin (sau Albin), episcop de Angers",
+    "full": "Sfântul Ierarh Auvin (sau Albin), episcop de Angers",
+    "short": "Auvin (sau Albin), episcop de Angers",
+    "given": "Auvin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8f8881c4-6f8e-4925-bc3d-31a7cbcb6a90",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

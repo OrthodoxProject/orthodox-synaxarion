@@ -1,0 +1,27 @@
+{
+  "id": "rufin-6-and-avenantie-of-sarzana-in-italia",
+  "kind": "repose",
+  "subjects": [
+    "person:rufin-6",
+    "person:avenantie-of-sarzana-in-italia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 14
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/62c5a895-ff35-4741-b647-7df844fca9df",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

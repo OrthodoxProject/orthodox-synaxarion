@@ -1,0 +1,26 @@
+{
+  "id": "haruch-of-la--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:haruch-of-la"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 15
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/78d3fa62-4084-4fa7-a719-bb1c678f021c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

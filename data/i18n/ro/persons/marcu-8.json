@@ -1,0 +1,20 @@
+{
+  "id": "marcu-8",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Marcu",
+    "short": "Marcu",
+    "given": "Marcu"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d7be64a7-8f7c-4fd9-896a-e78d6a61ca64",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

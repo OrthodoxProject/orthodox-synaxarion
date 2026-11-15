@@ -1,0 +1,21 @@
+{
+  "id": "vercuntie-of-verona",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Vercuntie, episcop de Verona în Italia",
+    "full": "Sfântul Ierarh Vercuntie, episcop de Verona în Italia",
+    "short": "Vercuntie, episcop de Verona în Italia",
+    "given": "Vercuntie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/757842b5-4c8b-4fda-9c7a-fda3b519c3a4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

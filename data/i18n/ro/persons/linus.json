@@ -1,0 +1,20 @@
+{
+  "id": "linus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Linus",
+    "short": "Linus",
+    "given": "Linus"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7c18203f-2c56-4ca4-87c4-06bc56060578",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

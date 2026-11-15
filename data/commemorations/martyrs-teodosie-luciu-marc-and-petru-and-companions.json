@@ -1,0 +1,26 @@
+{
+  "id": "martyrs-teodosie-luciu-marc-and-petru-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "group:martyrs-teodosie-luciu-marc-and-petru-and-companions"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 25
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ed87d22e-aa44-4a00-a022-b09c7cfcad08",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

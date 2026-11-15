@@ -1,0 +1,36 @@
+{
+  "id": "petru-41-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:petru-41",
+    "person:alexie-24",
+    "person:iona-4",
+    "person:macarie-13",
+    "person:filip-5",
+    "person:iov-2",
+    "person:ermoghen-4",
+    "person:tihon-2",
+    "person:petru-42",
+    "person:filaret-3",
+    "person:inochentie-4"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 5
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/863",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

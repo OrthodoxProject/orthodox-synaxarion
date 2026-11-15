@@ -1,0 +1,21 @@
+{
+  "id": "faust-of-riez",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Faust, episcop de Riez în Franța",
+    "full": "Sfântul Ierarh Faust, episcop de Riez în Franța",
+    "short": "Faust, episcop de Riez în Franța",
+    "given": "Faust"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0c7043ce-52ef-4e2c-9123-8c02527e3030",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

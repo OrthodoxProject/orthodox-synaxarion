@@ -1,0 +1,21 @@
+{
+  "id": "onorat-of-canterbury",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Onorat, arhiepiscop de Canterbury în Anglia",
+    "full": "Sfântul Ierarh Onorat, arhiepiscop de Canterbury în Anglia",
+    "short": "Onorat, arhiepiscop de Canterbury în Anglia",
+    "given": "Onorat"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/89230e43-167a-48e5-b0bb-736a9736753e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

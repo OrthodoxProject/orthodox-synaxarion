@@ -1,0 +1,21 @@
+{
+  "id": "friard-of-vindumitta-galicia-in-franta",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Friard din Vindumitta-Galicia în Franța",
+    "full": "Sfântul Friard din Vindumitta-Galicia în Franța",
+    "short": "Friard din Vindumitta-Galicia în Franța",
+    "given": "Friard"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3ddb6b4e-0b0e-4dd4-8263-fd57ceb9ef87",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

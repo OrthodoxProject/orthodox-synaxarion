@@ -1,0 +1,26 @@
+{
+  "id": "eusebiu-4--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:eusebiu-4"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 14
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/97d87c33-546c-4094-9598-089552e84720",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

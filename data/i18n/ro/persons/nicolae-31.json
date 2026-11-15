@@ -1,0 +1,20 @@
+{
+  "id": "nicolae-31",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Nicolae",
+    "short": "Nicolae",
+    "given": "Nicolae"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d1bcaf76-9e53-41df-9bab-e64679789cca",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

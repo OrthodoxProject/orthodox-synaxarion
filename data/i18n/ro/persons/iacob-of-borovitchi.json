@@ -1,0 +1,20 @@
+{
+  "id": "iacob-of-borovitchi",
+  "locale": "ro",
+  "names": {
+    "display": "Cuviosul Iacob de la Borovițchi",
+    "short": "Iacob de la Borovițchi",
+    "given": "Iacob"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/910",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

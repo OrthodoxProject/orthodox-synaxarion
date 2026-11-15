@@ -1,0 +1,26 @@
+{
+  "id": "sfantul-mucenic-eustatie-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "group:sfantul-mucenic-eustatie-and-companions"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 14
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a8e10887-9bbd-46a2-982c-6c7d61c03fb6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

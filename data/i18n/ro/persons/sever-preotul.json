@@ -1,0 +1,21 @@
+{
+  "id": "sever-preotul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sever preotul, luminătorul regiunii Vienne în Franța",
+    "full": "Sfântul Sever preotul, luminătorul regiunii Vienne în Franța",
+    "short": "Sever preotul, luminătorul regiunii Vienne în Franța",
+    "given": "Sever"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1c5836af-fa47-4de5-87bc-304ef561cd22",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "asterie-singliticul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Asterie Singliticul, adică slujitorul la palat",
+    "full": "Sfântul Cuvios Mucenic Asterie Singliticul, adică slujitorul la palat",
+    "short": "Asterie Singliticul, adică slujitorul la palat",
+    "given": "Asterie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/af0416a8-77d1-4878-aff7-02e233e40119",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

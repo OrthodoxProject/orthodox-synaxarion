@@ -1,0 +1,27 @@
+{
+  "id": "acius-and-aceolus",
+  "kind": "repose",
+  "subjects": [
+    "person:acius",
+    "person:aceolus"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 1
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/cd013977-d32a-458b-ba20-95e4deb1cdb3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

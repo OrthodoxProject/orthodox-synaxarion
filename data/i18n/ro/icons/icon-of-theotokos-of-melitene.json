@@ -1,0 +1,18 @@
+{
+  "id": "icon-of-theotokos-of-melitene",
+  "locale": "ro",
+  "names": {
+    "display": "Icoana Maicii Domnului din Melitene"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c81ef1a9-1ad2-4058-af77-98540c56d68e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

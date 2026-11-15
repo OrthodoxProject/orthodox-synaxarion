@@ -1,0 +1,27 @@
+{
+  "id": "macarie-7-and-serghie-of-rusia-2",
+  "kind": "repose",
+  "subjects": [
+    "person:macarie-7",
+    "person:serghie-of-rusia-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 1
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/172fe3ca-8476-4bd8-a7e5-3bdcb0100bb9",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

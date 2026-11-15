@@ -1,0 +1,21 @@
+{
+  "id": "petru-of-ravenna",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Petru, arhiepiscop de Ravenna în Italia",
+    "full": "Sfântul Ierarh Petru, arhiepiscop de Ravenna în Italia",
+    "short": "Petru, arhiepiscop de Ravenna în Italia",
+    "given": "Petru"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4ae9e82a-ea5d-4cff-b177-68d7763c5c4a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

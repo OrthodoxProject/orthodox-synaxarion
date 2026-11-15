@@ -1,0 +1,21 @@
+{
+  "id": "efrem-the-new-of-nea-makri",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Efrem cel Nou de la Nea Makri (Grecia)",
+    "full": "Sfântul Efrem cel Nou de la Nea Makri (Grecia)",
+    "short": "Efrem cel Nou de la Nea Makri",
+    "given": "Efrem"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/434edf6d-866d-4b2c-b92f-ef32534105f4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

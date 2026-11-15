@@ -1,0 +1,21 @@
+{
+  "id": "celestin-i-of-roma",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Celestin I, episcopul Romei, ucenicul Sfântului Ambrozie al Mediolanului și mărturisitor al dreptei credințe în fața pelagianismului și a nestorianismului",
+    "full": "Sfântul Ierarh Celestin I, episcopul Romei, ucenicul Sfântului Ambrozie al Mediolanului și mărturisitor al dreptei credințe în fața pelagianismului și a nestorianismului",
+    "short": "Celestin I, episcopul Romei, ucenicul Sfântului Ambrozie al Mediolanului, mărturisitor al dreptei credințe în fața pelagianismului, a nestorianismului",
+    "given": "Celestin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/898cc3aa-f4d1-4c6d-90ee-4c0d92ebdacf",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

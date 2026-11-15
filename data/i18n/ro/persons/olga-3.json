@@ -1,0 +1,21 @@
+{
+  "id": "olga-3",
+  "locale": "ro",
+  "names": {
+    "display": "Cuvioasa Mc. Olga (Jilțova)",
+    "full": "Cuvioasa Muceniță Olga (Jilțova)",
+    "short": "Olga",
+    "given": "Olga"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ae86ae53-cdfb-4031-ac3e-0a2982f22b52",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

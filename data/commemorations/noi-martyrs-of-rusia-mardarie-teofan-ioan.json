@@ -1,0 +1,26 @@
+{
+  "id": "noi-martyrs-of-rusia-mardarie-teofan-ioan",
+  "kind": "repose",
+  "subjects": [
+    "group:noi-martyrs-of-rusia-mardarie-teofan-ioan"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 5
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/688a7d7e-b630-45ac-9e36-7417063dc9c7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

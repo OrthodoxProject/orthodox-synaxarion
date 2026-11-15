@@ -1,0 +1,21 @@
+{
+  "id": "godeberta",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Godeberta, stareță la Noyon în Franța",
+    "full": "Sfânta Cuvioasă Godeberta, stareță la Noyon în Franța",
+    "short": "Godeberta, stareță la Noyon în Franța",
+    "given": "Godeberta"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9b336506-8f41-49ec-965f-c9ecb2428d03",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

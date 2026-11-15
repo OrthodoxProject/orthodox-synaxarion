@@ -1,0 +1,20 @@
+{
+  "id": "maria-15",
+  "locale": "ro",
+  "names": {
+    "display": "Cuvioasa Mc. Maria (Volnuhina)",
+    "short": "Maria (Volnuhina)",
+    "given": "Maria"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e2720f5b-d7bf-41d2-bef4-4cbf478e14f1#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

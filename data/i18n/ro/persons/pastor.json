@@ -1,0 +1,21 @@
+{
+  "id": "pastor",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Pastor, preot din Roma",
+    "full": "Sfântul Pastor, preot din Roma",
+    "short": "Pastor, preot din Roma",
+    "given": "Pastor"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7ae20abb-ad3c-4f04-9a66-014f7aa521ba",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

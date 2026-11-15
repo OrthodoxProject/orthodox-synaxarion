@@ -1,0 +1,21 @@
+{
+  "id": "maria-14",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Maria, pustnică din Palestina, despre",
+    "full": "Sfânta Cuvioasă Maria, pustnică din Palestina, despre",
+    "short": "Maria, pustnică din Palestina, despre",
+    "given": "Maria"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1a2e26e6-dcd2-419a-9990-11e7de98d5d1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

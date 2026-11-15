@@ -1,0 +1,26 @@
+{
+  "id": "luminita-of-pavia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:luminita-of-pavia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 9
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/52cf9903-8b43-49f5-8306-6176ce197297",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

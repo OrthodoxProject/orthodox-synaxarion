@@ -1,0 +1,21 @@
+{
+  "id": "vindician-of-in",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Vindician, episcop în Franța",
+    "full": "Sfântul Ierarh Vindician, episcop în Franța",
+    "short": "Vindician, episcop în Franța",
+    "given": "Vindician"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/02df2f16-dd99-4864-b43a-f2b7559bbb27",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

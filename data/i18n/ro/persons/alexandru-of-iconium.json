@@ -1,0 +1,21 @@
+{
+  "id": "alexandru-of-iconium",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Alexandru din Iconium",
+    "full": "Sfântul Alexandru din Iconium",
+    "short": "Alexandru din Iconium",
+    "given": "Alexandru"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/855e23e1-c583-4f7a-bb75-13ab71195598",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

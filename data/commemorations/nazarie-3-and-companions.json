@@ -1,0 +1,37 @@
+{
+  "id": "nazarie-3-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:nazarie-3",
+    "person:nicolae-76",
+    "person:vasile-57",
+    "person:daniil-3",
+    "person:nicolae-77",
+    "person:vasile-58",
+    "person:ilie-13",
+    "person:ioan-36",
+    "person:vasile-59",
+    "person:mihail-49",
+    "person:petru-54",
+    "person:tihon-of-rusia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 26
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4de9f423-7fe3-4e25-a75e-bed5fc2c71f0",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

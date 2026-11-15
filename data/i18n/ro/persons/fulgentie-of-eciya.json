@@ -1,0 +1,20 @@
+{
+  "id": "fulgentie-of-eciya",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Fulgentie, episcop de Eciya în Spania",
+    "short": "Fulgentie, episcop de Eciya în Spania",
+    "given": "Fulgentie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b2d35fc0-6166-4d28-9db6-f85124e8dc66",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

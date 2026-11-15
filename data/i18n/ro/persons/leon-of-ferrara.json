@@ -1,0 +1,20 @@
+{
+  "id": "leon-of-ferrara",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Leon, episcop de Ferrara",
+    "short": "Leon, episcop de Ferrara",
+    "given": "Leon"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/970b3e15-460c-40a1-b4f8-d5108dce7668",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

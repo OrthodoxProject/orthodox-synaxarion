@@ -1,0 +1,26 @@
+{
+  "id": "ishirion--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:ishirion"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 23
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1a9b657a-2c94-438d-939f-b9a0db65c2a3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

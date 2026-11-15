@@ -1,0 +1,26 @@
+{
+  "id": "artemie-of-sens--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:artemie-of-sens"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 28
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/bc4b3f7e-7b46-40cc-8629-d27f4ad2bacc",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "ioanichie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ioanichie",
+    "short": "Ioanichie",
+    "given": "Ioanichie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/13b6b9bc-d0b5-49b8-8c71-02aea79cdb0f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

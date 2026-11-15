@@ -1,0 +1,20 @@
+{
+  "id": "moise-of-rusia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Moise (Cojin) din Rusia",
+    "short": "Moise (Cojin) din Rusia",
+    "given": "Moise"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ac92a2d7-fb24-48d8-b767-2c71c5fe8817",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "quintinian-of-clermont",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Quintinian, episcop de Clermont în Franța",
+    "full": "Sfântul Ierarh Quintinian, episcop de Clermont în Franța",
+    "short": "Quintinian, episcop de Clermont în Franța",
+    "given": "Quintinian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d5f0714a-aa2b-4d01-91c3-19f43b2d826d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

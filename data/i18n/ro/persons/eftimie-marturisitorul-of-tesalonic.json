@@ -1,0 +1,21 @@
+{
+  "id": "eftimie-marturisitorul-of-tesalonic",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Eftimie Mărturisitorul din Tesalonic, luptător pentru Sfintele Icoane",
+    "full": "Sfântul Cuvios Eftimie Mărturisitorul din Tesalonic, luptător pentru Sfintele Icoane",
+    "short": "Eftimie Mărturisitorul din Tesalonic, luptător pentru Sfintele Icoane",
+    "given": "Eftimie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f98189a3-6d76-4989-b2a5-e8e177f9ea62",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

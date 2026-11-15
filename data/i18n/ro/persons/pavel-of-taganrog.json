@@ -1,0 +1,21 @@
+{
+  "id": "pavel-of-taganrog",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Pavel din Taganrog",
+    "full": "Sfântul Cuvios Pavel din Taganrog",
+    "short": "Pavel din Taganrog",
+    "given": "Pavel"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d0377345-b34d-45a9-a478-142f88a20175",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

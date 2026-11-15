@@ -1,0 +1,35 @@
+{
+  "id": "dimitrie-12",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Dimitrie (Rozanov)",
+    "short": "Dimitrie (Rozanov)",
+    "given": "Dimitrie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/256",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3f79410c-dca0-4347-9976-8e34c89b7221",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e6e25911-bc1a-41ba-a6f7-0b39901e2374",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/283bd904-e1c3-437a-b557-72f97f9aadf6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

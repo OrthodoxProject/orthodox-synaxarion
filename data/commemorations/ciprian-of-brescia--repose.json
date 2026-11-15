@@ -1,0 +1,26 @@
+{
+  "id": "ciprian-of-brescia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:ciprian-of-brescia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 21
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6e254929-acc3-42e6-bba3-bc9f9b8ce613",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

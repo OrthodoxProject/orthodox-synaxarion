@@ -1,0 +1,20 @@
+{
+  "id": "aristeu",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Aristeu",
+    "short": "Aristeu",
+    "given": "Aristeu"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/368ba8ce-f266-4066-bf1d-aba6fc05c9c9",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

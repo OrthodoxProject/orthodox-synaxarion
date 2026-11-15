@@ -1,0 +1,23 @@
+{
+  "id": "antonina-of-kizliar",
+  "kind": "saint",
+  "gender": "female",
+  "holiness_types": [
+    "new_martyr",
+    "venerable_martyr"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7921c4b0-9959-4ae1-8e8f-e084db11793e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "2-sihastri",
+  "kind": "other",
+  "count": {
+    "value": 2,
+    "precision": "exact"
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1806ad31-08ff-4364-87f4-71982539a21c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

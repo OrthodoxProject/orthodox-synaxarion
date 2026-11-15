@@ -1,0 +1,30 @@
+{
+  "id": "pavel-19-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:pavel-19",
+    "person:heraclie",
+    "person:secondil",
+    "person:ianuaria",
+    "person:luciosa-of-porto-romano"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 2
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b2679555-72a3-4641-a650-3d8d5b34f05f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

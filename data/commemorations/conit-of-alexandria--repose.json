@@ -1,0 +1,26 @@
+{
+  "id": "conit-of-alexandria--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:conit-of-alexandria"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 8
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d35cb7a9-43f8-414d-851e-989e69299441",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

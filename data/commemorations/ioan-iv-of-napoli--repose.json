@@ -1,0 +1,26 @@
+{
+  "id": "ioan-iv-of-napoli--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:ioan-iv-of-napoli"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 22
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/454355b9-4f04-47c0-9c0a-1116dd4c3d48",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

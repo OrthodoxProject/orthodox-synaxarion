@@ -1,0 +1,21 @@
+{
+  "id": "fursey",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Fursey, misionar în Irlanda, luminătorul Angliei de Est și întemeietorul Mănăstirii Lagny din Franța",
+    "full": "Sfântul Cuvios Fursey, misionar în Irlanda, luminătorul Angliei de Est și întemeietorul Mănăstirii Lagny din Franța",
+    "short": "Fursey, misionar în Irlanda, luminătorul Angliei de Est, întemeietorul Mănăstirii Lagny din Franța",
+    "given": "Fursey"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/978260e5-e071-4527-8421-d505ded92b52#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "iunila-of-capadocia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Iunila din Capadocia",
+    "full": "Sfânta Muceniță Iunila din Capadocia",
+    "short": "Iunila din Capadocia",
+    "given": "Iunila"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/948e8258-468f-4920-a0a6-f75372000b20",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

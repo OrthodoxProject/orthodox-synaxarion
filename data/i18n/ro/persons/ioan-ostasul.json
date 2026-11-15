@@ -1,0 +1,20 @@
+{
+  "id": "ioan-ostasul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ioan Ostașul",
+    "short": "Ioan Ostașul",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c6df99c1-1c37-4acc-aa93-40502949f2e1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

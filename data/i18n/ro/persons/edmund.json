@@ -1,0 +1,21 @@
+{
+  "id": "edmund",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Edmund, regele Angliei",
+    "full": "Sfântul Mucenic Edmund, regele Angliei",
+    "short": "Edmund, regele Angliei",
+    "given": "Edmund"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4224da48-fdba-44df-9f6e-5afaa22741d2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

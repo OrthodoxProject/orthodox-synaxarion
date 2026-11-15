@@ -1,0 +1,26 @@
+{
+  "id": "agricola-of-la--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:agricola-of-la"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 17
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/43b8c017-771e-486a-a118-90d65999151d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

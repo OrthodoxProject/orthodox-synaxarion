@@ -1,0 +1,21 @@
+{
+  "id": "pavel-of-narbonne",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Pavel, episcop de Narbonne în Franța și ucenicul Sfântului Ap. Pavel",
+    "full": "Sfântul Ierarh Pavel, episcop de Narbonne în Franța și ucenicul Sfântului Apostol Pavel",
+    "short": "Pavel, episcop de Narbonne în Franța, ucenicul Sfântului Apostol Pavel",
+    "given": "Pavel"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7094c91c-9ba6-4605-8128-0e9925c9a18b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

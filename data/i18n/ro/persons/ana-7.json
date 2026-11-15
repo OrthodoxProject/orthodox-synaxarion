@@ -1,0 +1,21 @@
+{
+  "id": "ana-7",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Ana (Serova)",
+    "full": "Sfânta Muceniță Ana (Serova)",
+    "short": "Ana",
+    "given": "Ana"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c3675194-afd2-4017-976b-73f77f84e8b5#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

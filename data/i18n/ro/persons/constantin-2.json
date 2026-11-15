@@ -1,0 +1,21 @@
+{
+  "id": "constantin-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Constantin, regele Irlandei, apoi monah misionar în Scoția",
+    "full": "Sfântul Mucenic Constantin, regele Irlandei, apoi monah misionar în Scoția",
+    "short": "Constantin, regele Irlandei, apoi monah misionar în Scoția",
+    "given": "Constantin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/da2a798e-19f4-4b98-8297-278ce51b3c6e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

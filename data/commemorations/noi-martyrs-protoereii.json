@@ -1,0 +1,26 @@
+{
+  "id": "noi-martyrs-protoereii",
+  "kind": "repose",
+  "subjects": [
+    "group:noi-martyrs-protoereii"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 7
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c0db51bf-f5cb-4cf4-8a8f-7e24b824cef1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

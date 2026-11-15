@@ -1,0 +1,25 @@
+{
+  "id": "48-martyrs-of-lugdunum-in-franta",
+  "kind": "martyrs",
+  "count": {
+    "value": 48,
+    "precision": "exact"
+  },
+  "holiness_types": [
+    "martyr"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f52d5a1a-ace9-422f-beee-43d85667426a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

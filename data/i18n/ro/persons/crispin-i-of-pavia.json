@@ -1,0 +1,21 @@
+{
+  "id": "crispin-i-of-pavia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Crispin I, episcopul Paviei și mărturisitor în Italia",
+    "full": "Sfântul Ierarh Crispin I, episcopul Paviei și mărturisitor în Italia",
+    "short": "Crispin I, episcopul Paviei, mărturisitor în Italia",
+    "given": "Crispin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/13105a5b-6bcd-429d-8deb-aca412e45723",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

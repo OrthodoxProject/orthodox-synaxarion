@@ -1,0 +1,21 @@
+{
+  "id": "victurnin",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Victurnin, pustnic din Franța",
+    "full": "Sfântul Cuvios Victurnin, pustnic din Franța",
+    "short": "Victurnin, pustnic din Franța",
+    "given": "Victurnin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/16a6be91-404a-46d7-9576-0fcef2731e7b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

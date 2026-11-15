@@ -1,0 +1,42 @@
+{
+  "id": "grigorie-7-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:grigorie-7",
+    "person:achindin-3",
+    "person:ioan-35",
+    "person:teodor-16",
+    "person:pantoleon",
+    "person:dimitrie-15",
+    "person:pangratie",
+    "person:evodie-2",
+    "person:mihail-16",
+    "person:pavel-21",
+    "person:emilian-2",
+    "person:ardomie"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 9
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1fbc38c6-a979-4b08-be0b-4e1c17c2ce77",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4d942fd5-ad7a-4343-82b9-e8be67713ed8",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

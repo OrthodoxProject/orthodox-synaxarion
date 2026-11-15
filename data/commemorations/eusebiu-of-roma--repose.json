@@ -1,0 +1,26 @@
+{
+  "id": "eusebiu-of-roma--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:eusebiu-of-roma"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 26
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/98cc3d74-c943-4de1-a254-3b73e7ac4cc1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

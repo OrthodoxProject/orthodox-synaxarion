@@ -1,0 +1,27 @@
+{
+  "id": "aventin-and-deochar",
+  "kind": "repose",
+  "subjects": [
+    "person:aventin",
+    "person:deochar"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 7
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a2c73829-ecef-4b46-be1b-7dbacc32c7e4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

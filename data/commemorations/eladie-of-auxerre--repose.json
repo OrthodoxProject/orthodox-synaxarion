@@ -1,0 +1,26 @@
+{
+  "id": "eladie-of-auxerre--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:eladie-of-auxerre"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 8
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ee4336e0-5b39-44b6-8444-648cf48288fb",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

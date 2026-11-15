@@ -1,0 +1,26 @@
+{
+  "id": "martyrs-donat-felix-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "group:martyrs-donat-felix-and-companions"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 1
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f17c95fc-4643-4caf-9036-68e71771c3fe",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

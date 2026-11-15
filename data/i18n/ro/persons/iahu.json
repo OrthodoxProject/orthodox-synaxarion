@@ -1,0 +1,21 @@
+{
+  "id": "iahu",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Iahu",
+    "full": "Sfântul Mucenic Iahu",
+    "short": "Iahu",
+    "given": "Iahu"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/049bbf76-d6e3-4c8e-94d7-c5fe8f0e81a3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

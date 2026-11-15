@@ -1,0 +1,21 @@
+{
+  "id": "cynibil-of-anglia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cynibil, din Anglia",
+    "full": "Sfântul Cynibil, din Anglia",
+    "short": "Cynibil, din Anglia",
+    "given": "Cynibil"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/438d223e-1abe-4efc-a8dd-9398a922a56d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

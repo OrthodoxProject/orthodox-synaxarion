@@ -1,0 +1,21 @@
+{
+  "id": "sidronie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Sidronie",
+    "full": "Sfântul Mucenic Sidronie",
+    "short": "Sidronie",
+    "given": "Sidronie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/78d11f03-0830-4ba2-bbaf-ae72a70d4e3e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

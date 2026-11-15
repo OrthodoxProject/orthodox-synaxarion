@@ -1,0 +1,20 @@
+{
+  "id": "antonie-of-iviria",
+  "locale": "ro",
+  "names": {
+    "display": "Cuviosul Antonie, stâlpnicul de la Martkop, din Iviria",
+    "short": "Antonie, stâlpnicul de la Martkop, din Iviria",
+    "given": "Antonie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1316",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "arcadie-of-bourges",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Arcadie, episcop de Bourges în Franța",
+    "full": "Sfântul Ierarh Arcadie, episcop de Bourges în Franța",
+    "short": "Arcadie, episcop de Bourges în Franța",
+    "given": "Arcadie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/58b610c2-3359-4ec4-b349-62f6c4211366",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

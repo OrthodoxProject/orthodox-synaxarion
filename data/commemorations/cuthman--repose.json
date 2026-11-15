@@ -1,0 +1,26 @@
+{
+  "id": "cuthman--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:cuthman"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 8
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0325bc1b-a5d4-4590-a754-5f091b16001c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

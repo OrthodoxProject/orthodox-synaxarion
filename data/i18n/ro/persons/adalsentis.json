@@ -1,0 +1,21 @@
+{
+  "id": "adalsentis",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Adalsentis, fiica Sfintei Cuv. Rictrude din Franța",
+    "full": "Sfânta Adalsentis, fiica Sfintei Cuvioase Rictrude din Franța",
+    "short": "Adalsentis, fiica Sfintei Cuvioase Rictrude din Franța",
+    "given": "Adalsentis"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ce52ac00-36e0-4a88-ad4f-72fe6d4e759f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

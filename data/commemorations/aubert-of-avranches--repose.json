@@ -1,0 +1,26 @@
+{
+  "id": "aubert-of-avranches--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:aubert-of-avranches"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 10
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2c410ba2-8510-447a-b5ab-73c92d1976de",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

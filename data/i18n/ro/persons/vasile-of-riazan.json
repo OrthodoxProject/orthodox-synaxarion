@@ -1,0 +1,21 @@
+{
+  "id": "vasile-of-riazan",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Vasile, episcop de Riazan în Rusia și făcătorul de minuni",
+    "full": "Sfântul Ierarh Vasile, episcop de Riazan în Rusia și făcătorul de minuni",
+    "short": "Vasile, episcop de Riazan în Rusia, făcătorul de minuni",
+    "given": "Vasile"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/aa20a1e2-1ed8-4b24-a094-8234801bfa2b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "gaiani",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Gaiani",
+    "short": "Gaiani",
+    "given": "Gaiani"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b851c85d-8135-405a-96ea-42648acbef53",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

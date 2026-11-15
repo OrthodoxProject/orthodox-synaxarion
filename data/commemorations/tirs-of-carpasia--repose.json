@@ -1,0 +1,26 @@
+{
+  "id": "tirs-of-carpasia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:tirs-of-carpasia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 23
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b91e7331-37ce-4618-8dce-14eb63913989",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

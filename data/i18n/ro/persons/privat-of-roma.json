@@ -1,0 +1,21 @@
+{
+  "id": "privat-of-roma",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Privat din Roma",
+    "full": "Sfântul Mucenic Privat din Roma",
+    "short": "Privat din Roma",
+    "given": "Privat"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0b8c529a-f3f7-4151-82c7-9dcd2ca62de5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

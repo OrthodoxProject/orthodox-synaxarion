@@ -1,0 +1,28 @@
+{
+  "id": "ipolit-of-din",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "hieromartyr",
+    "martyr"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/aa701155-019a-4e68-9704-6bcdedf789ab",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/555122f3-8a1c-470d-b2cc-63e72264d176",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

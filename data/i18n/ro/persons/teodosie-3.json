@@ -1,0 +1,21 @@
+{
+  "id": "teodosie-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Teodosie, egumenul Mănăstirii Filoteu din Sfântul Munte Athos, iar mai târziu episcopul Trapezuntei",
+    "full": "Sfântul Ierarh Teodosie, egumenul Mănăstirii Filoteu din Sfântul Munte Athos, iar mai târziu episcopul Trapezuntei",
+    "short": "Teodosie, egumenul Mănăstirii Filoteu din Sfântul Munte Athos, iar mai târziu episcopul Trapezuntei",
+    "given": "Teodosie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/61fa61da-c5fb-421e-8128-0c92659fe1ac",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

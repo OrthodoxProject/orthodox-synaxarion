@@ -1,0 +1,26 @@
+{
+  "id": "eustatie-of-tesalonic--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:eustatie-of-tesalonic"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 20
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4411cba2-418f-4ab3-90b0-0008c1a4283e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

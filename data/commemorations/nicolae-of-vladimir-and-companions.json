@@ -1,0 +1,44 @@
+{
+  "id": "nicolae-of-vladimir-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:nicolae-of-vladimir",
+    "person:cronid",
+    "person:vasile-52",
+    "person:boris-7",
+    "person:nicolae-78",
+    "person:alexie-37",
+    "person:ioan-103",
+    "person:serghie-26",
+    "person:nicolae-74",
+    "person:serghie-27",
+    "person:teodor-38",
+    "person:ioan-104",
+    "person:ioasa",
+    "person:cronid-2",
+    "person:alexie-38",
+    "person:apolo",
+    "person:xenofont",
+    "person:nicolae-79",
+    "person:ioan-of-rusia-15"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 27
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ed57f4c2-f4d2-4b39-a139-456c34e0cb01",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

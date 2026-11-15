@@ -1,0 +1,21 @@
+{
+  "id": "lucain-of-lagny-in-franta",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Lucain din Lagny în Franța",
+    "full": "Sfântul Mucenic Lucain din Lagny în Franța",
+    "short": "Lucain din Lagny în Franța",
+    "given": "Lucain"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8161f08a-797d-4464-945d-77626253705d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

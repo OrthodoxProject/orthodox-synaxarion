@@ -25,6 +25,7 @@ const HONORIFICS: Record<string, Honorific> = {
   sfantului: { gender: "male" },
   sfintei: { gender: "female" },
   sfintilor: { plural: true },
+  sfintelor: { plural: true, gender: "female" },
   cuv: { holiness: ["venerable"] },
   cuvios: { holiness: ["venerable"], gender: "male" },
   cuviosul: { holiness: ["venerable"], gender: "male" },
@@ -36,10 +37,12 @@ const HONORIFICS: Record<string, Honorific> = {
   cuviosilor: { holiness: ["venerable"], plural: true },
   cuviosii: { holiness: ["venerable"], plural: true },
   cuvioasele: { holiness: ["venerable"], plural: true, gender: "female" },
+  preacuvios: { holiness: ["venerable"], gender: "male" },
   preacuviosul: { holiness: ["venerable"], gender: "male" },
   preacuvioasa: { holiness: ["venerable"], gender: "female" },
   preacuviosi: { holiness: ["venerable"], plural: true },
   preacuviosii: { holiness: ["venerable"], plural: true },
+  preacuvioase: { holiness: ["venerable"], plural: true, gender: "female" },
   mc: { holiness: ["martyr"] },
   mucenic: { holiness: ["martyr"], gender: "male" },
   mucenicul: { holiness: ["martyr"], gender: "male" },
@@ -49,6 +52,8 @@ const HONORIFICS: Record<string, Honorific> = {
   mucenicului: { holiness: ["martyr"], gender: "male" },
   mucenitei: { holiness: ["martyr"], gender: "female" },
   mucenicilor: { holiness: ["martyr"], plural: true },
+  mucenicii: { holiness: ["martyr"], plural: true },
+  mucenitele: { holiness: ["martyr"], plural: true, gender: "female" },
   martir: { holiness: ["martyr"], gender: "male" },
   martiri: { holiness: ["martyr"], plural: true },
   martira: { holiness: ["martyr"], gender: "female" },
@@ -105,6 +110,7 @@ const HONORIFICS: Record<string, Honorific> = {
   noua: { holiness: ["new_martyr"], gender: "female" },
   noii: { holiness: ["new_martyr"], plural: true },
   noului: { holiness: ["new_martyr"] },
+  noi: { holiness: ["new_martyr"], plural: true },
   "nou-mucenic": { holiness: ["new_martyr", "martyr"], gender: "male" },
   "noul-mucenic": { holiness: ["new_martyr", "martyr"], gender: "male" },
   mironosita: { holiness: ["myrrhbearer"], gender: "female" },
@@ -135,6 +141,10 @@ const HONORIFICS: Record<string, Honorific> = {
   binecredincios: { holiness: ["right_believing"], gender: "male" },
   binecredinciosi: { holiness: ["right_believing"], plural: true },
   evlaviosul: { holiness: ["right_believing"], gender: "male" },
+  binecredinciosului: { holiness: ["right_believing"], gender: "male" },
+  binecredincioasei: { holiness: ["right_believing"], gender: "female" },
+  fericitului: { holiness: ["venerable"], gender: "male" },
+  fericitei: { holiness: ["venerable"], gender: "female" },
   fecioara: { holiness: ["virgin"], gender: "female" },
   fecioare: { holiness: ["virgin"], plural: true, gender: "female" },
   stalpnic: { holiness: ["stylite"], gender: "male" },
@@ -244,7 +254,9 @@ export function splitHonorifics(title: string): { honorific: string; rest: strin
       if (fold(words[i + 1] ?? "") === "de") i++;
       continue;
     }
-    if (w in NUMBER_WORDS && i > 0) {
+    // "Sfânta Nouă Muceniță Chirana" is a new martyr, not nine martyrs ("Sfinții nouă Mucenici din Cizic").
+    const newMartyr = w === "noua" && /^(?:mucenita|martira)$/.test(fold(words[i + 1] ?? "").replace(/[.,:;]+$/, ""));
+    if (w in NUMBER_WORDS && i > 0 && !newMartyr) {
       let n = NUMBER_WORDS[w] ?? 0;
       if (fold(words[i + 1] ?? "") === "mii") {
         n *= 1000;
@@ -367,7 +379,7 @@ function namePart(text: string, gender?: Gender): NamePart {
 }
 
 /** Offices and descriptions that follow a name after a comma ("Episcopul Nyssei", "Luminătorul Georgiei"). */
-const TITLE_WORD = /^(?:(?:arhi)?episcop\w*|mitropolit\w*|patriarh\w*|papa|papă|(?:i|e)gumen\w*|stare[țţ]\w*|ctitor\w*|ocrotitor\w*|[îi]ntemeietor\w*|i?lumin[ăa]tor\w*|[îi]nv[ăa][țţ][ăa]tor\w*|dasc[ăa]l\w*|preot\w*|diacon\w*|arhidiacon\w*|protopop\w*|monah\w*|schimonah\w*|ieromonah\w*|arhimandrit\w*|c[ăa]lug[ăa]r\w*|pustnic\w*|sihastr\w*|[îi]mp[ăa]rat\w*|rege\w*|regin\w*|prin[țţ]\w*|domn\w*|voievod\w*|cneaz\w*|[țţ]ar\w*|nebun\w*|cel|cea|fost\w*|ap[ăa]r[ăa]tor\w*|mucenic\w*|m[ăa]rturisitor\w*|izvor[âa]tor\w*|t[ăa]m[ăa]duitor\w*|f[ăa]c[ăa]tor\w*|purt[ăa]tor\w*|prieten\w*|r[ăa]zboinic\w*|sfetnic\w*|vistier\w*|osta[șş]\w*|soldat\w*|comandant\w*|tribun\w*|medic\w*|doctor\w*|tovar[ăa][șş]\w*|apostol\w*|evanghelist\w*|ucenic\w*|fratele|fra[țţ]ii|sora|surorile|mama|tat[ăa]l|so[țţ]ia|so[țţ]ul|fiii|fiul|fiica|fiicele|nepot\w*|bunic\w*|p[ăa]rin[țţ]ii)(?=\s|,|$)/i;
+const TITLE_WORD = /^(?:(?:arhi)?episcop\w*|mitropolit\w*|patriarh\w*|papa|papă|(?:i|e)gumen\w*|stare[țţ]\w*|ctitor\w*|ocrotitor\w*|[îi]ntemeietor\w*|i?lumin[ăa]tor\w*|[îi]nv[ăa][țţ][ăa]tor\w*|dasc[ăa]l\w*|preot\w*|diacon\w*|arhidiacon\w*|protopop\w*|monah\w*|schimonah\w*|ieromonah\w*|arhimandrit\w*|c[ăa]lug[ăa]r\w*|pustnic\w*|sihastr\w*|[îi]mp[ăa]rat\w*|rege\w*|regin\w*|prin[țţ]\w*|domn(?:ul|itor\w*)|voievod\w*|cneaz\w*|[țţ]ar\w*|nebun\w*|cel|cea|fost\w*|ap[ăa]r[ăa]tor\w*|mucenic\w*|m[ăa]rturisitor\w*|izvor[âa]tor\w*|t[ăa]m[ăa]duitor\w*|f[ăa]c[ăa]tor\w*|purt[ăa]tor\w*|prieten\w*|r[ăa]zboinic\w*|sfetnic\w*|vistier\w*|osta[șş]\w*|soldat\w*|comandant\w*|tribun\w*|medic\w*|doctor\w*|tovar[ăa][șş]\w*|apostol\w*|evanghelist\w*|ucenic\w*|fratele|fra[țţ]ii|sora|surorile|mama|tat[ăa]l|so[țţ]ia|so[țţ]ul|fiii|fiul|fiica|fiicele|nepot\w*|bunic\w*|p[ăa]rin[țţ]ii)(?=\s|,|$)/i;
 const RELATION = /^(?:mama|tatăl|soția|soțul|fiul|fiica|fiii|fiicele|fratele|frații|sora|surorile|ucenicul|ucenicii|ucenica|părinții|nepotul|nepoata)\b(?:\s+(?:sa|său|lui|lor|săi|sale|ei))?\s*/i;
 /** Unnamed companions closing a list: "și cei 7 fii" (as "cu cei 4 fii ai lor"). */
 const COMPANIONS = /^(?:cei|cele) \S+ (?:fii|ucenici|tineri)\b/i;
@@ -393,6 +405,11 @@ export function splitNames(rest: string, gender?: Gender, plural = false, singul
   const text = rest.replace(/\s*\([^)]*\)\s*$/, "").replace(/[.;]+$/, "").trim();
   if (!text) return [];
   const pieces = text.split(/(,\s*|\s+și\s+)/);
+  // A name in quotes is one name: "monah la Mănăstirea „Sfinții Cosma și Damian” din Auxerre".
+  for (let i = 0; i + 2 < pieces.length; ) {
+    if (((pieces[i] ?? "").match(/[„“”"]/g) ?? []).length % 2 === 1) pieces.splice(i, 3, `${pieces[i]}${pieces[i + 1]}${pieces[i + 2]}`);
+    else i += 2;
+  }
   const names: string[] = [];
   let pendingRelation = false;
   for (let i = 0; i < pieces.length; i += 2) {
@@ -407,7 +424,7 @@ export function splitNames(rest: string, gender?: Gender, plural = false, singul
     if (!seg) continue;
     if (/^(cei|cele) (împreună|dimpreună)/i.test(seg) || /^cu cei\b/i.test(seg) || COMPANIONS.test(seg)) break;
     // "Sfântul Mucenic Ciprian și Sfânta Muceniță Iustina": each name may have its own honorifics.
-    const bare = seg.replace(/^(?:(?:Sf\.|Sfântul|Sfânta|Sfinții|Cuv\.|Mc\.|Ap\.|Ier\.|Cuvioasa|Cuviosul|Dreapta|Dreptul|Fericitul|Fericita|Mucenicul|Mucenic|Muceni[țţ][ăa]|Fecioar[ăa]|Apostolul|Apostol|Ierarhul|Ierarh|Pro?orocul|Pro?oroc|Marele|Mare)\s+)+/, "");
+    const bare = seg.replace(/^(?:(?:Sf\.|Sfântul|Sfânta|Sfinții|Cuv\.|Mc\.|Ap\.|Ier\.|Cuvioasa|Cuviosul|Cuvios|Cuvioasă|Dreapta|Dreptul|Fericitul|Fericita|Mucenicul|Mucenic|Muceni[țţ][ăa]|Fecioar[ăa]|Apostolul|Apostol|Ierarhul|Ierarh|Pro?orocul|Pro?oroc|Marele|Mare|Sfințit|Nou|Nouă)\s+)+/, "");
     if (names.length === 0) {
       names.push(bare);
       continue;
@@ -518,6 +535,10 @@ export function parseRo(original: string): ParsedTitle {
     if (inner.plural && inner.kind === "saints" && !/\bși\b/.test(inner.rest)) inner.kind = "group";
     if (inner.kind === "skip") inner.kind = "group";
     return { ...base, kind: "synaxis", subject: inner };
+  }
+  // "Proslăvirea Sfântului Ierarh Gavriil (Bănulescu-Bodoni)", "Canonizarea Sfântului Cuvios Gherman din Alaska": the saint's glorification.
+  if ((m = /^(?:Proslăvirea|Canonizarea)\s+(.*)$/i.exec(title))) {
+    return { ...base, kind: "glorification", subject: parseRo(nominative(trimDestination(m[1] ?? ""))) };
   }
   if ((m = /^(?:Pomenirea minunii(?: din Colose a)?|Ar[ăa]tarea Maicii Domnului|Adormirea|Mutarea|Pomenirea)\s+(.*)$/i.exec(title))) {
     // Only the saint's own words turn to the nominative: "Sfânta Ana, mama Preasfintei Născătoare de Dumnezeu".

@@ -1,0 +1,21 @@
+{
+  "id": "vasie-of-saintes-in-franta",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Vasie din Saintes în Franța",
+    "full": "Sfântul Mucenic Vasie din Saintes în Franța",
+    "short": "Vasie din Saintes în Franța",
+    "given": "Vasie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c41cc16e-aa7d-49c8-8b0e-833fd25bfe55",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

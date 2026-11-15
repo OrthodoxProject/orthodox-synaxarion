@@ -1,0 +1,26 @@
+{
+  "id": "anahid-of-persia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:anahid-of-persia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 18
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/04e44638-369f-409f-9b5e-434aece649df",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

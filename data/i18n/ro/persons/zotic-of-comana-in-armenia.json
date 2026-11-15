@@ -1,0 +1,21 @@
+{
+  "id": "zotic-of-comana-in-armenia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Zotic din Comana în Armenia",
+    "full": "Sfântul Mucenic Zotic din Comana în Armenia",
+    "short": "Zotic din Comana în Armenia",
+    "given": "Zotic"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b1e3d091-f679-4931-bdc5-ce7ef194aa1a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

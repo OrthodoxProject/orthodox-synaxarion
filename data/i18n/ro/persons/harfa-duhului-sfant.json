@@ -1,0 +1,19 @@
+{
+  "id": "harfa-duhului-sfant",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. „harfa Duhului Sfânt”",
+    "short": "„harfa Duhului Sfânt”"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/145",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

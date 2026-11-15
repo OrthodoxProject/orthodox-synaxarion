@@ -1,0 +1,26 @@
+{
+  "id": "hugh--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:hugh"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 20
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d894b482-e6c2-48af-81b4-8191e531f635",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "eustatie-of-litva",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Eustatie din Litva",
+    "short": "Eustatie din Litva",
+    "given": "Eustatie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ae1b66c8-1a7d-4016-902e-66c81fa901a2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

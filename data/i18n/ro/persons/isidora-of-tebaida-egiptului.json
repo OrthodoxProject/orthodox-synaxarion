@@ -1,0 +1,20 @@
+{
+  "id": "isidora-of-tebaida-egiptului",
+  "locale": "ro",
+  "names": {
+    "display": "Cuvioasa Isidora, cea nebună întru Hristos, din Tebaida Egiptului",
+    "short": "Isidora, cea nebună întru Hristos, din Tebaida Egiptului",
+    "given": "Isidora"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1060",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

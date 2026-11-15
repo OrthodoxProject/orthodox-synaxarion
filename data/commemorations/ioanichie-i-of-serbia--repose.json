@@ -1,0 +1,26 @@
+{
+  "id": "ioanichie-i-of-serbia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:ioanichie-i-of-serbia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 23
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a1bd411c-9571-4cfd-bd66-8d39770b4ffc",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

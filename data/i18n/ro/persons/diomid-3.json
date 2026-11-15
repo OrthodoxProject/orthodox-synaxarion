@@ -1,0 +1,20 @@
+{
+  "id": "diomid-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Diomid",
+    "short": "Diomid",
+    "given": "Diomid"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/cd66fbdc-a43d-4c1b-bb2b-389774ca7090",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

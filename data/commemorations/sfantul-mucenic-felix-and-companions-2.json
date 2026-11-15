@@ -1,0 +1,26 @@
+{
+  "id": "sfantul-mucenic-felix-and-companions-2",
+  "kind": "repose",
+  "subjects": [
+    "group:sfantul-mucenic-felix-and-companions-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 14
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7e2b23b5-e7e7-410a-8143-f642f78e9017",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "ioan-53",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Ioan (Șișev)",
+    "short": "Ioan (Șișev)",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7d0ec1db-bf33-4887-81d3-874fa5e22e43",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

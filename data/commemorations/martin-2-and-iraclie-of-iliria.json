@@ -1,0 +1,27 @@
+{
+  "id": "martin-2-and-iraclie-of-iliria",
+  "kind": "repose",
+  "subjects": [
+    "person:martin-2",
+    "person:iraclie-of-iliria"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 5
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/da1ddad1-eb2d-47cb-ac69-9f37b2254bc2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

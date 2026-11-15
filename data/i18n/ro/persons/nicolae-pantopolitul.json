@@ -1,0 +1,21 @@
+{
+  "id": "nicolae-pantopolitul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Nicolae Pantopolitul",
+    "full": "Sfântul Mucenic Nicolae Pantopolitul",
+    "short": "Nicolae Pantopolitul",
+    "given": "Nicolae"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3e5ddec4-886f-4e74-a85f-b2855b64915f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

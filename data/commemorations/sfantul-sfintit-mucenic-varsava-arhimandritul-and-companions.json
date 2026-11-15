@@ -1,0 +1,26 @@
+{
+  "id": "sfantul-sfintit-mucenic-varsava-arhimandritul-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "group:sfantul-sfintit-mucenic-varsava-arhimandritul-and-companions"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 11
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ac0b3fcc-6eef-41ac-9fd9-c9152d11ae6c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

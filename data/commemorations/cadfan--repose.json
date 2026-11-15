@@ -1,0 +1,26 @@
+{
+  "id": "cadfan--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:cadfan"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 1
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/fc460381-2960-4992-915f-7e77418520c0",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

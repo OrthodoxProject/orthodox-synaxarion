@@ -1,0 +1,20 @@
+{
+  "id": "onisim-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Onisim",
+    "short": "Onisim",
+    "given": "Onisim"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c6ce04a4-ce12-441f-aab7-ff0eaf3110e6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

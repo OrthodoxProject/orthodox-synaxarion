@@ -1,0 +1,21 @@
+{
+  "id": "dyfnan-of-tara-galilor",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Dyfnan din Țara Galilor",
+    "full": "Sfântul Dyfnan din Țara Galilor",
+    "short": "Dyfnan din Țara Galilor",
+    "given": "Dyfnan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/dc9008b8-e6d7-4eb5-87f6-5e8b59ae9c67#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

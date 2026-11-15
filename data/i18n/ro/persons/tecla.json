@@ -1,0 +1,20 @@
+{
+  "id": "tecla",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Tecla",
+    "short": "Tecla",
+    "given": "Tecla"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/89c6b53c-74d0-46a3-949e-cbdd78a4fc8c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

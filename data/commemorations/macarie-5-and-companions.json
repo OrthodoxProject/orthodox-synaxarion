@@ -1,0 +1,29 @@
+{
+  "id": "macarie-5-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:macarie-5",
+    "person:rufin",
+    "person:just",
+    "person:teofil-of-roma"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 28
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/374e389c-656a-49a3-b0c3-78cc4dbace6c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

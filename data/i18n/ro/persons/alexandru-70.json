@@ -1,0 +1,20 @@
+{
+  "id": "alexandru-70",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Alexandru (Buravțev)",
+    "short": "Alexandru (Buravțev)",
+    "given": "Alexandru"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1026",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "teoctist-of-cernigov",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Teoctist, episcop de Cernigov în Ucraina",
+    "full": "Sfântul Ierarh Teoctist, episcop de Cernigov în Ucraina",
+    "short": "Teoctist, episcop de Cernigov în Ucraina",
+    "given": "Teoctist"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d03d5caf-dd36-47eb-a063-e191ff93c6ea",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

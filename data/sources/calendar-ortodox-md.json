@@ -1,0 +1,17 @@
+{
+  "id": "calendar-ortodox-md",
+  "type": "calendar",
+  "title": "Calendar Ortodox",
+  "publisher": "Portalul „Moldova Ortodoxă” (ortodox.md)",
+  "url": "https://calendar.ortodox.md/calendar/detailed/RO/",
+  "language": "ro",
+  "license": "LicenseRef-AllRightsReserved",
+  "accessed": "2026-11-15",
+  "notes": [
+    "Calendarul pe stil vechi al Bisericii Ortodoxe din Moldova (Mitropolia Chișinăului și a întregii Moldove): câte o pagină pe zi, cu legătură la pagina fiecărei pomeniri (/calendar/entry/RO/<id>). Folosim doar fapte (cine se pomenește și în ce zi pe stil vechi), cu trimitere la pagina pomenirii."
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium"
+  }
+}

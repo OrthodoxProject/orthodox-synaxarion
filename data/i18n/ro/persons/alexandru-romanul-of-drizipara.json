@@ -1,0 +1,21 @@
+{
+  "id": "alexandru-romanul-of-drizipara",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Alexandru Romanul din Drizipara (Tracia)",
+    "full": "Sfântul Mucenic Alexandru Romanul din Drizipara (Tracia)",
+    "short": "Alexandru Romanul din Drizipara",
+    "given": "Alexandru"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/671baf2d-b993-4122-9bab-59c4a95277fe",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

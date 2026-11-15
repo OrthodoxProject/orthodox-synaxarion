@@ -1,0 +1,21 @@
+{
+  "id": "anghelis-of-constantinopol",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Anghelis din Constantinopol",
+    "full": "Sfântul Mucenic Anghelis din Constantinopol",
+    "short": "Anghelis din Constantinopol",
+    "given": "Anghelis"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e87e8a89-74fd-4ab4-ba63-7eff78b78e44",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

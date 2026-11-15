@@ -1,0 +1,23 @@
+{
+  "id": "eufimia-imparateasa",
+  "kind": "saint",
+  "gender": "female",
+  "holiness_types": [
+    "righteous"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/14cf7f0e-9fda-4ec2-b39f-72c6a37ecf1e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat.",
+      "Chipul sfințeniei nu reiese din titlu; „righteous” e provizoriu."
+    ]
+  }
+}

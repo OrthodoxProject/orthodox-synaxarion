@@ -1,0 +1,20 @@
+{
+  "id": "flavian-of-toulon-in-franta",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Flavian de la Toulon în Franța",
+    "short": "Flavian de la Toulon în Franța",
+    "given": "Flavian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b84ab2d9-ebda-4344-9c81-62258d224b8e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

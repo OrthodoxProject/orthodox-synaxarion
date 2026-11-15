@@ -1,0 +1,21 @@
+{
+  "id": "iasmin",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Iasmin, făcătorul de minuni",
+    "full": "Sfântul Cuvios Iasmin, făcătorul de minuni",
+    "short": "Iasmin, făcătorul de minuni",
+    "given": "Iasmin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9bcb4cdd-2f63-410f-930c-4e5f2a16c427",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

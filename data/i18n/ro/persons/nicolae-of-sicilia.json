@@ -1,0 +1,21 @@
+{
+  "id": "nicolae-of-sicilia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Nicolae din Sicilia, nevoitor în insula Eubeea din Grecia",
+    "full": "Sfântul Cuvios Nicolae din Sicilia, nevoitor în insula Eubeea din Grecia",
+    "short": "Nicolae din Sicilia, nevoitor în insula Eubeea din Grecia",
+    "given": "Nicolae"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1f1d7990-878c-460d-91d4-0c2a3e694f47",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

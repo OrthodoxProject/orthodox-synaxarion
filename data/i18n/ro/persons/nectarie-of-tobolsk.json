@@ -1,0 +1,21 @@
+{
+  "id": "nectarie-of-tobolsk",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Nectarie, episcop de Tobolsk în Rusia",
+    "full": "Sfântul Ierarh Nectarie, episcop de Tobolsk în Rusia",
+    "short": "Nectarie, episcop de Tobolsk în Rusia",
+    "given": "Nectarie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/29d91ae5-6c6c-4de6-9dff-9a37e21b887c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

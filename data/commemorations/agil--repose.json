@@ -1,0 +1,26 @@
+{
+  "id": "agil--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:agil"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 30
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2ef5b750-c490-4885-bbeb-6bc704bd9e03",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

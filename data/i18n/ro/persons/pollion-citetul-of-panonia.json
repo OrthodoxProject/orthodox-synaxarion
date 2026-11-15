@@ -1,0 +1,21 @@
+{
+  "id": "pollion-citetul-of-panonia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Pollion citețul din Panonia",
+    "full": "Sfântul Mucenic Pollion citețul din Panonia",
+    "short": "Pollion citețul din Panonia",
+    "given": "Pollion"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/486b24c7-1eca-4d4c-ae02-d7d879938a98",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

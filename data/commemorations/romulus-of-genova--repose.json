@@ -1,0 +1,26 @@
+{
+  "id": "romulus-of-genova--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:romulus-of-genova"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 13
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d1e61781-c1e0-47a9-8c8a-526e07393018",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

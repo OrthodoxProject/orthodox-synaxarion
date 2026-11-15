@@ -1,0 +1,29 @@
+{
+  "id": "atanasie-of-kovrov-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:atanasie-of-kovrov",
+    "person:simeon-16",
+    "person:dimitrie-22",
+    "person:valerian-of-rusia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 15
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/07ba56f5-76b1-4de5-ae02-22b58759a175",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

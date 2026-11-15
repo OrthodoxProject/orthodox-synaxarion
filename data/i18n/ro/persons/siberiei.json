@@ -1,0 +1,20 @@
+{
+  "id": "siberiei",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Siberiei",
+    "short": "Siberiei",
+    "given": "Siberiei"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/285",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

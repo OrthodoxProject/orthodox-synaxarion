@@ -1,0 +1,30 @@
+{
+  "id": "alexandru-75-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:alexandru-75",
+    "person:serghie-38",
+    "person:nicolae-87",
+    "person:petru-60",
+    "person:ioan-of-rusia-17"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 17
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f26ab1e2-91c4-4ded-abdd-9321842ce7b7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

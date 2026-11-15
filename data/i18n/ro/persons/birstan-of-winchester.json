@@ -1,0 +1,21 @@
+{
+  "id": "birstan-of-winchester",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Birstan, episcop de Winchester în Anglia",
+    "full": "Sfântul Ierarh Birstan, episcop de Winchester în Anglia",
+    "short": "Birstan, episcop de Winchester în Anglia",
+    "given": "Birstan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c5b4dcc9-08b5-409c-b6f1-1c9fed88846c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

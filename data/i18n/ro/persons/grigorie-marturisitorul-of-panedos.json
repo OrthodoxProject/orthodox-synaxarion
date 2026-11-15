@@ -1,0 +1,21 @@
+{
+  "id": "grigorie-marturisitorul-of-panedos",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Grigorie Mărturisitorul, episcop de Panedos",
+    "full": "Sfântul Ierarh Grigorie Mărturisitorul, episcop de Panedos",
+    "short": "Grigorie Mărturisitorul, episcop de Panedos",
+    "given": "Grigorie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d37130be-0c70-48b3-ba13-8dcad3537d4a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

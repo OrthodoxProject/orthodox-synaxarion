@@ -1,0 +1,21 @@
+{
+  "id": "atinodor-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Atinodor, ucenicul Sfântului Pahomie cel Mare",
+    "full": "Sfântul Cuvios Atinodor, ucenicul Sfântului Pahomie cel Mare",
+    "short": "Atinodor, ucenicul Sfântului Pahomie cel Mare",
+    "given": "Atinodor"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/cba840ca-c823-4212-8936-9c8c41a8e387",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

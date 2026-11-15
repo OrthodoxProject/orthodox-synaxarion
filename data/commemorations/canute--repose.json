@@ -1,0 +1,26 @@
+{
+  "id": "canute--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:canute"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 10
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/27c7286a-8a63-4e15-984d-ef5120c7445a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

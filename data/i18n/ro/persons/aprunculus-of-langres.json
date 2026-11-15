@@ -1,0 +1,21 @@
+{
+  "id": "aprunculus-of-langres",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Aprunculus, episcop de Langres și de Clermont în Franța",
+    "full": "Sfântul Ierarh Aprunculus, episcop de Langres și de Clermont în Franța",
+    "short": "Aprunculus, episcop de Langres, de Clermont în Franța",
+    "given": "Aprunculus"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d77659c6-8ff9-4329-832f-9f14710e7155",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iust-8--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:iust-8"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 21
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6268ef84-d747-43d7-bc43-fab734cad7f5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

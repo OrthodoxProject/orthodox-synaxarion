@@ -1,0 +1,18 @@
+{
+  "id": "agricola-and-vitalie-5",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici Agricola și Vitalie, slujitorul său"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/15e2f8f1-7507-448e-859a-09242aa8b136",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

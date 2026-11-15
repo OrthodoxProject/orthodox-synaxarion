@@ -1,0 +1,23 @@
+{
+  "id": "atanasie-of-brest-litovsk",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "hieromartyr",
+    "stylite"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/21b56ea3-1018-41d7-9bdb-e235a522c3d0",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

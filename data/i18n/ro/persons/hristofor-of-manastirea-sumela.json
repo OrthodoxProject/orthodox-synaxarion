@@ -1,0 +1,20 @@
+{
+  "id": "hristofor-of-manastirea-sumela",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Hristofor de la Mănăstirea Sumela",
+    "short": "Hristofor de la Mănăstirea Sumela",
+    "given": "Hristofor"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d39ee1ab-dc84-4f3e-9fe4-dda9e3020796",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

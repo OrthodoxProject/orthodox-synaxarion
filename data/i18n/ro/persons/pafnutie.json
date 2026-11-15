@@ -1,0 +1,20 @@
+{
+  "id": "pafnutie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Pafnutie (Kostin)",
+    "short": "Pafnutie (Kostin)",
+    "given": "Pafnutie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a40b6cc1-0a74-4f6b-9b82-c6565d9b19e3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

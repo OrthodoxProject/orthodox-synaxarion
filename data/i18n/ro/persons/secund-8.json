@@ -1,0 +1,20 @@
+{
+  "id": "secund-8",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Secund",
+    "short": "Secund",
+    "given": "Secund"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/44a8d944-df3d-4d0a-a971-c189a2b0d2e4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

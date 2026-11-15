@@ -1,0 +1,20 @@
+{
+  "id": "lavrentie-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Lavrentie",
+    "short": "Lavrentie",
+    "given": "Lavrentie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b9ad2dc6-35a4-4f50-a85b-d1477c873a7d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

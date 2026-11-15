@@ -1,0 +1,20 @@
+{
+  "id": "antonie-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Antonie",
+    "short": "Antonie",
+    "given": "Antonie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/95f08908-2513-4451-9c1d-2c2fd7ec7f3e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

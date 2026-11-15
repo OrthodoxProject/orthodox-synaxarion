@@ -1,0 +1,18 @@
+{
+  "id": "2-martyrs-calai",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții 2 Mucenici călăi"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/424e9386-89ee-4b2c-ba47-648330d26d43",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "dionisie-of-milano",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Dionisie, episcop de Milano în Italia și mărturisitor al Ortodoxiei în fața ereziei ariene",
+    "full": "Sfântul Ierarh Dionisie, episcop de Milano în Italia și mărturisitor al Ortodoxiei în fața ereziei ariene",
+    "short": "Dionisie, episcop de Milano în Italia, mărturisitor al Ortodoxiei în fața ereziei ariene",
+    "given": "Dionisie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/eb6b653d-0e2f-41e4-ad36-ddb4adb47ed9",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

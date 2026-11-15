@@ -1,0 +1,21 @@
+{
+  "id": "teodosie-of-rusia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Teodosie, starețul Mănăstirii Orobeea din Rusia",
+    "full": "Sfântul Cuvios Teodosie, starețul Mănăstirii Orobeea din Rusia",
+    "short": "Teodosie, starețul Mănăstirii Orobeea din Rusia",
+    "given": "Teodosie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b9948a66-1700-4854-8979-b027d2e5db63",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

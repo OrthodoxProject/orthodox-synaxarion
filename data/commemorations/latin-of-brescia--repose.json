@@ -1,0 +1,26 @@
+{
+  "id": "latin-of-brescia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:latin-of-brescia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 24
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d748391e-2518-4736-bebd-c974b5efb6ea",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

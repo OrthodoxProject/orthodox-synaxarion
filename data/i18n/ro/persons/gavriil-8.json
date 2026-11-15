@@ -1,0 +1,20 @@
+{
+  "id": "gavriil-8",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Gavriil (Vladimirov)",
+    "short": "Gavriil (Vladimirov)",
+    "given": "Gavriil"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/31e6bf2c-d63a-471c-a3ce-495b98718657",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

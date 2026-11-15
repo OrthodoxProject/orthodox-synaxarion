@@ -1,0 +1,21 @@
+{
+  "id": "anastasie-of-ioanina",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Anastasie din Ioanina",
+    "full": "Sfântul Mucenic Anastasie din Ioanina",
+    "short": "Anastasie din Ioanina",
+    "given": "Anastasie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/61000127-5267-417e-86bf-ad49e1a5e4ba",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

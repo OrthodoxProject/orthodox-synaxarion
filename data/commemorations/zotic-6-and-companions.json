@@ -1,0 +1,33 @@
+{
+  "id": "zotic-6-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:zotic-6",
+    "person:zeno-5",
+    "person:achindin-2",
+    "person:cezarie",
+    "person:teona-2",
+    "person:hristofor-2",
+    "person:antonin-2",
+    "person:severian-3"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 18
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1458",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

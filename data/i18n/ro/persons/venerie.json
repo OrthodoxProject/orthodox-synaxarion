@@ -1,0 +1,21 @@
+{
+  "id": "venerie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Venerie, pustnic în insula Palmaria",
+    "full": "Sfântul Cuvios Venerie, pustnic în insula Palmaria",
+    "short": "Venerie, pustnic în insula Palmaria",
+    "given": "Venerie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4c1be159-8e84-4aac-a7c8-d8fb1b3a209a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

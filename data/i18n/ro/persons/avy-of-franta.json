@@ -1,0 +1,21 @@
+{
+  "id": "avy-of-franta",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Avy, stareț din Franța",
+    "full": "Sfântul Cuvios Avy, stareț din Franța",
+    "short": "Avy, stareț din Franța",
+    "given": "Avy"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7df14d64-750f-447d-b437-caa1f604d338",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

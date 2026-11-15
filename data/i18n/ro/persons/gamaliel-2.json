@@ -1,0 +1,21 @@
+{
+  "id": "gamaliel-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Gamaliel, din ceata fariseilor, dascălul Sfântului Ap. Pavel",
+    "full": "Sfântul Gamaliel, din ceata fariseilor, dascălul Sfântului Apostol Pavel",
+    "short": "Gamaliel, din ceata fariseilor, dascălul Sfântului Apostol Pavel",
+    "given": "Gamaliel"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/37489029-0226-41c4-9ad2-535e0a546892",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4-noi-martyrs",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții 4 Noi Mucenici"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1123#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

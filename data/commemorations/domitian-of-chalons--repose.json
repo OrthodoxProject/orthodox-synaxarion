@@ -1,0 +1,26 @@
+{
+  "id": "domitian-of-chalons--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:domitian-of-chalons"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 9
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ea61905b-574a-4684-8a2b-3b1e0ed48506",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "walhere-of-belgia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:walhere-of-belgia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 23
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d54bb8f9-9ce3-4046-99a2-f581c736228e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

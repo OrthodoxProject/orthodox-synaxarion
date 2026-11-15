@@ -1,0 +1,21 @@
+{
+  "id": "paramon-of-bielorusia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Nou Mc. Paramon din Bielorusia",
+    "full": "Sfântul Nou Mucenic Paramon din Bielorusia",
+    "short": "Paramon din Bielorusia",
+    "given": "Paramon"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/67f2aa8b-071b-462e-9323-fc95a3fea90b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

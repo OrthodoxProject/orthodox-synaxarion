@@ -1,0 +1,27 @@
+{
+  "id": "calimah-and-dionisie-5",
+  "kind": "repose",
+  "subjects": [
+    "person:calimah",
+    "person:dionisie-5"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 6
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1506",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

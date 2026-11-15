@@ -1,0 +1,26 @@
+{
+  "id": "abban-of-kilabban-in-irlanda--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:abban-of-kilabban-in-irlanda"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 16
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/97b77b12-1565-44ae-b2b2-aa369d2aedab",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

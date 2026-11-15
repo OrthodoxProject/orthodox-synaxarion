@@ -1,0 +1,26 @@
+{
+  "id": "martyrs-chiriac-preotul-maxim-diaconul-arhelau-ipolit-and",
+  "kind": "repose",
+  "subjects": [
+    "group:martyrs-chiriac-preotul-maxim-diaconul-arhelau-ipolit-and"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 23
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0a64305f-a333-4fc2-83b5-9ecf815027f0",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

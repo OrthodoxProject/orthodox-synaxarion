@@ -1,0 +1,21 @@
+{
+  "id": "mercurial-of-forli",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Mercurial, episcop de Forli în Italia și mărturisitor al dreptei credințe",
+    "full": "Sfântul Ierarh Mercurial, episcop de Forli în Italia și mărturisitor al dreptei credințe",
+    "short": "Mercurial, episcop de Forli în Italia, mărturisitor al dreptei credințe",
+    "given": "Mercurial"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/fbcfd9d4-4eac-4820-b7ee-a4a4c9f78d7a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

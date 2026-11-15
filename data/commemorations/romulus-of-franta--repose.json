@@ -1,0 +1,26 @@
+{
+  "id": "romulus-of-franta--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:romulus-of-franta"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 27
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a9733035-acee-4184-9329-15c32259f00d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

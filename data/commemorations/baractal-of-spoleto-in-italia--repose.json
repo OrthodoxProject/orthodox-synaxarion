@@ -1,0 +1,26 @@
+{
+  "id": "baractal-of-spoleto-in-italia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:baractal-of-spoleto-in-italia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 9
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/64f3150b-b81d-49bf-a862-5fb066cdc916",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

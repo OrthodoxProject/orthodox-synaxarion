@@ -1,0 +1,21 @@
+{
+  "id": "constantin-i-of-constantinopol",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Constantin I, patriarhul Constantinopolului",
+    "full": "Sfântul Ierarh Constantin I, patriarhul Constantinopolului",
+    "short": "Constantin I, patriarhul Constantinopolului",
+    "given": "Constantin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5f00fa24-7b4f-4952-84a5-e6bd71191351",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "nerdon",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Nerdon",
+    "full": "Sfântul Mucenic Nerdon",
+    "short": "Nerdon",
+    "given": "Nerdon"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6cfb84f3-efd2-4799-a723-b04356cb0546",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

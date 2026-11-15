@@ -1,0 +1,21 @@
+{
+  "id": "venantie-of-tours-in-galia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Venantie din Tours în Galia",
+    "full": "Sfântul Venantie din Tours în Galia",
+    "short": "Venantie din Tours în Galia",
+    "given": "Venantie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/92362149-a5b1-4a09-8e96-17cac5572b59",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

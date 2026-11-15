@@ -1,0 +1,21 @@
+{
+  "id": "devota",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Devota, fecioara din Corsica",
+    "full": "Sfânta Muceniță Devota, fecioara din Corsica",
+    "short": "Devota, fecioara din Corsica",
+    "given": "Devota"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1337",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

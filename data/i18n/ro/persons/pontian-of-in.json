@@ -1,0 +1,21 @@
+{
+  "id": "pontian-of-in",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ponțian, episcop în Italia",
+    "full": "Sfântul Ierarh Ponțian, episcop în Italia",
+    "short": "Ponțian, episcop în Italia",
+    "given": "Ponțian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/26a17863-bdcf-4c0f-886c-5330aa7603fc",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

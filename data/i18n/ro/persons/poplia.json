@@ -1,0 +1,21 @@
+{
+  "id": "poplia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Poplia, diaconița din Antiohia",
+    "full": "Sfânta Muceniță Poplia, diaconița din Antiohia",
+    "short": "Poplia, diaconița din Antiohia",
+    "given": "Poplia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0ac0a624-e14c-45eb-9287-c6acbfe8aad2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

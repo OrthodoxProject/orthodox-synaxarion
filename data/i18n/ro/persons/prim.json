@@ -1,0 +1,20 @@
+{
+  "id": "prim",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Prim",
+    "short": "Prim",
+    "given": "Prim"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f52e3f26-ba51-4b27-84b8-dcc388ba782b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

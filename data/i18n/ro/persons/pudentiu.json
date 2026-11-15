@@ -1,0 +1,21 @@
+{
+  "id": "pudentiu",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Pudențiu, senator din Roma",
+    "full": "Sfântul Pudențiu, senator din Roma",
+    "short": "Pudențiu, senator din Roma",
+    "given": "Pudențiu"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f2d00ce9-839f-49d0-9978-ec603cef2237",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

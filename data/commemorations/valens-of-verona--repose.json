@@ -1,0 +1,26 @@
+{
+  "id": "valens-of-verona--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:valens-of-verona"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 26
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/35bc3fce-e5b6-4deb-abb3-3b8102fb5ec6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

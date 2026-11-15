@@ -1,0 +1,21 @@
+{
+  "id": "sebastian-of-legiunea-tebana",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Sebastian din Legiunea Tebană",
+    "full": "Sfântul Mucenic Sebastian din Legiunea Tebană",
+    "short": "Sebastian din Legiunea Tebană",
+    "given": "Sebastian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/318588d9-07ad-4932-abb4-0b86dd4ebc37#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

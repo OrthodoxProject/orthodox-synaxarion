@@ -1,0 +1,21 @@
+{
+  "id": "betie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Betie, stareț la Derbyshire în Anglia",
+    "full": "Sfântul Cuvios Betie, stareț la Derbyshire în Anglia",
+    "short": "Betie, stareț la Derbyshire în Anglia",
+    "given": "Betie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/72dff4cb-c98e-4a73-a381-a68c201c42cc",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

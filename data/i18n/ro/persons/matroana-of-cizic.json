@@ -1,0 +1,21 @@
+{
+  "id": "matroana-of-cizic",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Matroana din Cizic",
+    "full": "Sfânta Cuvioasă Matroana din Cizic",
+    "short": "Matroana din Cizic",
+    "given": "Matroana"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4cead293-5a7d-4783-838b-ce4d6cf79950",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

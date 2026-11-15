@@ -1,0 +1,21 @@
+{
+  "id": "onisifor-of-cipru",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Onisifor din Cipru",
+    "full": "Sfântul Cuvios Onisifor din Cipru",
+    "short": "Onisifor din Cipru",
+    "given": "Onisifor"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/66085ffa-0663-41c9-b12d-afe56b0f3519",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

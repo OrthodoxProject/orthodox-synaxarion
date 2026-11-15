@@ -1,0 +1,26 @@
+{
+  "id": "12-martyrs-singlitice-adica-slujitoare-la-palat",
+  "kind": "repose",
+  "subjects": [
+    "group:12-martyrs-singlitice-adica-slujitoare-la-palat"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 8
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/130b6988-ad61-4113-ab27-71cd5c236546",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

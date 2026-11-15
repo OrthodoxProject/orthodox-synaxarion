@@ -1,0 +1,27 @@
+{
+  "id": "agontie-and-nona-of-roma",
+  "kind": "repose",
+  "subjects": [
+    "person:agontie",
+    "person:nona-of-roma"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 25
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a8ddc194-f1d9-4a2d-80f8-9fd6da0723ae",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

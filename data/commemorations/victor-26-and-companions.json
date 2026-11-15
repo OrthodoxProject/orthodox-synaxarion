@@ -1,0 +1,28 @@
+{
+  "id": "victor-26-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:victor-26",
+    "person:serghie-39",
+    "person:vera-of-rusia-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 18
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b293aae5-8d5f-4d45-abab-3dd50d63b35f#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

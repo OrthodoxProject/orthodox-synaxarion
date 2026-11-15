@@ -1,0 +1,21 @@
+{
+  "id": "vriena-of-siria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Vriena, egumena unei mănăstiri de călugărițe din Siria",
+    "full": "Sfânta Cuvioasă Vriena, egumena unei mănăstiri de călugărițe din Siria",
+    "short": "Vriena, egumena unei mănăstiri de călugărițe din Siria",
+    "given": "Vriena"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4d25a9ea-1d29-4716-97b7-98e2da427d3a#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

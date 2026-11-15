@@ -1,0 +1,26 @@
+{
+  "id": "daniel-2--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:daniel-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 21
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a5f3cec1-9f38-4f85-addc-3772d7738fb4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

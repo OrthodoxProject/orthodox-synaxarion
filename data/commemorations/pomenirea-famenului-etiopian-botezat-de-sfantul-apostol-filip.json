@@ -1,0 +1,23 @@
+{
+  "id": "pomenirea-famenului-etiopian-botezat-de-sfantul-apostol-filip",
+  "kind": "event",
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 27
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/aa44f33b-0ad3-4ec0-87c5-22657d8ef293",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

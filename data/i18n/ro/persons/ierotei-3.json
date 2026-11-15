@@ -1,0 +1,20 @@
+{
+  "id": "ierotei-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Ierotei",
+    "short": "Ierotei",
+    "given": "Ierotei"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3721d0be-783a-4971-a895-ae3c04ddb862#4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

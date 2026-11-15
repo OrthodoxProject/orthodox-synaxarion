@@ -1,0 +1,26 @@
+{
+  "id": "leucie-of-brindisi--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:leucie-of-brindisi"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 11
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d1133679-547f-4ff3-9210-25ec048543e3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

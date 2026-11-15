@@ -1,0 +1,26 @@
+{
+  "id": "5-martyrs-of-nicomidia",
+  "kind": "repose",
+  "subjects": [
+    "group:5-martyrs-of-nicomidia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 16
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3b0259b1-bac2-4456-b8db-0e78022e8c8c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

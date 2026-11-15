@@ -1,0 +1,39 @@
+{
+  "id": "ismail-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:ismail",
+    "person:evghenie-7",
+    "person:ioan-popov",
+    "person:constantin-10",
+    "person:petru-35",
+    "person:vasile-38",
+    "person:gleb-5",
+    "person:vasile-15",
+    "person:ioan-68",
+    "person:petru-36",
+    "person:nicolae-46",
+    "person:paladie",
+    "person:meletie-fediunev",
+    "person:gavriil-of-rusia-3"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 10
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/cd57521c-bfcf-4c04-8138-86b088c21cb8",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

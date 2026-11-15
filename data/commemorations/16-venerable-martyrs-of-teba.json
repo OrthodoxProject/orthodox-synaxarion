@@ -1,0 +1,26 @@
+{
+  "id": "16-venerable-martyrs-of-teba",
+  "kind": "repose",
+  "subjects": [
+    "group:16-venerable-martyrs-of-teba"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 30
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d01437b0-7875-4a39-ad80-934260b23f30#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

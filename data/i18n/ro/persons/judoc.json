@@ -1,0 +1,21 @@
+{
+  "id": "judoc",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Judoc, pustnic la Ponthieu în Franța",
+    "full": "Sfântul Cuvios Judoc, pustnic la Ponthieu în Franța",
+    "short": "Judoc, pustnic la Ponthieu în Franța",
+    "given": "Judoc"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/29e0c400-e2b5-4f64-b76c-b20416225568",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

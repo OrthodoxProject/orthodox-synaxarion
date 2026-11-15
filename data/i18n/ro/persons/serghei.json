@@ -1,0 +1,20 @@
+{
+  "id": "serghei",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Serghei (Lavrov)",
+    "short": "Serghei (Lavrov)",
+    "given": "Serghei"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c7d41f61-2396-425a-9def-b408c216b85d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

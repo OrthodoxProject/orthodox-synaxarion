@@ -1,0 +1,26 @@
+{
+  "id": "simeon-stalpnicul-the-new-of-egeea-in--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:simeon-stalpnicul-the-new-of-egeea-in"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 27
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/555e34bd-f116-4812-bac1-2faf5be6e1bc",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

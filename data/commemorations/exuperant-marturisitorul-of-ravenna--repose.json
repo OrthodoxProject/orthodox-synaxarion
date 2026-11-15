@@ -1,0 +1,26 @@
+{
+  "id": "exuperant-marturisitorul-of-ravenna--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:exuperant-marturisitorul-of-ravenna"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 30
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c4a64bd5-12a5-4df9-a715-0c707ddc9eea",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

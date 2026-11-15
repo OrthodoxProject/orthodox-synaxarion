@@ -1,0 +1,20 @@
+{
+  "id": "trifon-of-pecenga",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Trifon din Pecenga",
+    "short": "Trifon din Pecenga",
+    "given": "Trifon"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3009a5da-c10c-4c34-bb37-8fc1963ce8d3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

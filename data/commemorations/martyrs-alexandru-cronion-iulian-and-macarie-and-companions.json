@@ -1,0 +1,26 @@
+{
+  "id": "martyrs-alexandru-cronion-iulian-and-macarie-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "group:martyrs-alexandru-cronion-iulian-and-macarie-and-companions"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 30
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/68077094-d50d-42f3-b9ee-be9a95233ed7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

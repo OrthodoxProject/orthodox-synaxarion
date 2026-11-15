@@ -1,0 +1,31 @@
+{
+  "id": "arsenie-of-rostov--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:arsenie-of-rostov"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 28
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/26f5cc11-e160-464e-9b58-fb5e6c6a971e",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f1df5093-60b5-4fd6-ab94-941ca206b762",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

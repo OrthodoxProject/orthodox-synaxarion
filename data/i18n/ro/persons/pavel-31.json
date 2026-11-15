@@ -1,0 +1,21 @@
+{
+  "id": "pavel-31",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Pavel, diacon la Mănăstirea „Sfântul Zoil” din Cordoba în Spania",
+    "full": "Sfântul Sfințit Mucenic Pavel, diacon la Mănăstirea „Sfântul Zoil” din Cordoba în Spania",
+    "short": "Pavel, diacon la Mănăstirea „Sfântul Zoil” din Cordoba în Spania",
+    "given": "Pavel"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b1b5070c-fafa-489b-a2b3-ba2de98b482a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

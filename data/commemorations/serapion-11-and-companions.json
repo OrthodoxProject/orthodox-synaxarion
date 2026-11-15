@@ -1,0 +1,29 @@
+{
+  "id": "serapion-11-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:serapion-11",
+    "person:leontie-seleuc",
+    "person:valerian-12",
+    "person:straton-of-alexandria"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 13
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1184",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

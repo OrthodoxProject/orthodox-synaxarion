@@ -1,0 +1,18 @@
+{
+  "id": "salutar-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici Salutar, Posesiu, Ianuarie, Amplie, Celedonie, Iustin și mulți alți mucenici ostași"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5a5e2701-3c7f-471f-8d17-e2e4a66455eb",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

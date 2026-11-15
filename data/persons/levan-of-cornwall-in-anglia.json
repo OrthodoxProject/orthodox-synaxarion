@@ -1,0 +1,23 @@
+{
+  "id": "levan-of-cornwall-in-anglia",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "righteous"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d44de89c-9d29-4318-937b-f231f117973e#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat.",
+      "Chipul sfințeniei nu reiese din titlu; „righteous” e provizoriu."
+    ]
+  }
+}

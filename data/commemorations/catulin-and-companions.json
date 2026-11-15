@@ -1,0 +1,30 @@
+{
+  "id": "catulin-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:catulin",
+    "person:ianuarie-6",
+    "person:florentie-3",
+    "person:iulia",
+    "person:iusta-of-cartagina-in-africa"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 15
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6e2b80cb-35d9-48e4-a5c2-6ca18199ed09",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

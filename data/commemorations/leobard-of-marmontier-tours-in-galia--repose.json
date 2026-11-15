@@ -1,0 +1,26 @@
+{
+  "id": "leobard-of-marmontier-tours-in-galia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:leobard-of-marmontier-tours-in-galia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 18
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5ff1b709-9d4d-4942-b8cf-ffee1c8f4454",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

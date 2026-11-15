@@ -1,0 +1,20 @@
+{
+  "id": "narsi",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Narsi",
+    "short": "Narsi",
+    "given": "Narsi"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e974d108-c836-4ccd-ab3e-929dae0ec8de",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

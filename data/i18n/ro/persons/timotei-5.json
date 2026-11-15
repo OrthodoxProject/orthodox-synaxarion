@@ -1,0 +1,20 @@
+{
+  "id": "timotei-5",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Timotei (Ulianov)",
+    "short": "Timotei (Ulianov)",
+    "given": "Timotei"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9a78031d-e704-4e8f-8921-3640aac5422b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

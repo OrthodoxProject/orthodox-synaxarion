@@ -1,0 +1,26 @@
+{
+  "id": "eldat-of-gloucester-in-anglia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:eldat-of-gloucester-in-anglia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 4
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9acfc93b-5ad5-4080-a630-04c07e10f80d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

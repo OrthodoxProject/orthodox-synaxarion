@@ -1,0 +1,22 @@
+{
+  "id": "argymir-of-cabra-in-spania",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "venerable_martyr"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1837a5ee-481b-465c-ab38-3dc7f779e42f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

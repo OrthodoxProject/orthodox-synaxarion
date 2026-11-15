@@ -1,0 +1,20 @@
+{
+  "id": "clement-6",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Clement, Italia",
+    "short": "Clement, Italia",
+    "given": "Clement"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/18c14c7a-0b91-42c7-af86-cf075a019fc3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

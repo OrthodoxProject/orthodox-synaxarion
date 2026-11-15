@@ -1,0 +1,21 @@
+{
+  "id": "didier-of-alsacia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Didier, episcopul Alsaciei în Franța",
+    "full": "Sfântul Sfințit Mucenic Didier, episcopul Alsaciei în Franța",
+    "short": "Didier, episcopul Alsaciei în Franța",
+    "given": "Didier"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/94596814-e251-44c3-82c6-e9164c7822f5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

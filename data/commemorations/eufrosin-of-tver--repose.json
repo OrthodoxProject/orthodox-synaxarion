@@ -1,0 +1,26 @@
+{
+  "id": "eufrosin-of-tver--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:eufrosin-of-tver"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 2
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d9d15a3e-b855-4e3f-bd43-7cbb60d37398",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

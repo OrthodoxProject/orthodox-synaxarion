@@ -1,0 +1,21 @@
+{
+  "id": "anahid-of-persia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Anahid din Persia",
+    "full": "Sfânta Muceniță Anahid din Persia",
+    "short": "Anahid din Persia",
+    "given": "Anahid"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/04e44638-369f-409f-9b5e-434aece649df",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

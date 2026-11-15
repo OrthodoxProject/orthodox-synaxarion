@@ -1,0 +1,27 @@
+{
+  "id": "ioan-23-and-matrona-of-rusia-2",
+  "kind": "repose",
+  "subjects": [
+    "person:ioan-23",
+    "person:matrona-of-rusia-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 19
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/774110a5-a586-400f-bda8-bb3387230d5d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

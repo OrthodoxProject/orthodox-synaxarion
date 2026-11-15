@@ -1,0 +1,26 @@
+{
+  "id": "rufin-7--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:rufin-7"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 30
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/50c4c44c-13dd-4309-bf54-d333f1c182fe",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

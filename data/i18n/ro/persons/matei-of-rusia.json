@@ -1,0 +1,20 @@
+{
+  "id": "matei-of-rusia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Matei (Cazarin) din Rusia",
+    "short": "Matei (Cazarin) din Rusia",
+    "given": "Matei"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/610b994d-d3e9-4e9a-b72e-a1139c510d81",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

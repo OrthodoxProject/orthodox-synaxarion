@@ -1,0 +1,21 @@
+{
+  "id": "trudpert",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Trudpert, pustnic din Germania",
+    "full": "Sfântul Cuvios Mucenic Trudpert, pustnic din Germania",
+    "short": "Trudpert, pustnic din Germania",
+    "given": "Trudpert"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5cc18fab-2ea3-4699-98a0-bcf3f63ab02c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

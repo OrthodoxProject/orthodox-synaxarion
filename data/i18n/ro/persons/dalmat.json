@@ -1,0 +1,21 @@
+{
+  "id": "dalmat",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Dalmat, egumenul și întemeietorul Mănăstirii Dormition din Siberia în Rusia",
+    "full": "Sfântul Cuvios Dalmat, egumenul și întemeietorul Mănăstirii Dormition din Siberia în Rusia",
+    "short": "Dalmat, egumenul, întemeietorul Mănăstirii Dormition din Siberia în Rusia",
+    "given": "Dalmat"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9276d140-97e7-4add-ba15-d820c5de2852",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

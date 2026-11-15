@@ -1,0 +1,20 @@
+{
+  "id": "agapit",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Agapit, egumen la Markushev-Vologda în Rusia",
+    "short": "Agapit, egumen la Markushev-Vologda în Rusia",
+    "given": "Agapit"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/af3fc29c-b25d-4983-9b75-da8e3f932851",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "icoana-a-maicii-domnului-hodighitria-of-manastirea--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:icoana-a-maicii-domnului-hodighitria-of-manastirea"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 20
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ce80026e-2bca-4a2f-8394-2b52943da615",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

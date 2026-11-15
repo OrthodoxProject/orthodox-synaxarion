@@ -1,0 +1,21 @@
+{
+  "id": "isaia-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Isaia, nevoitor din Sfântul Munte Athos",
+    "full": "Sfântul Cuvios Isaia, nevoitor din Sfântul Munte Athos",
+    "short": "Isaia, nevoitor din Sfântul Munte Athos",
+    "given": "Isaia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8afa532f-034b-4c46-b183-a934f3846b36",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

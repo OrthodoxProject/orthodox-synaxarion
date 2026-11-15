@@ -1,0 +1,21 @@
+{
+  "id": "ethelwida",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ethelwida, soția regelui Alfred cel Mare",
+    "full": "Sfânta Cuvioasă Ethelwida, soția regelui Alfred cel Mare",
+    "short": "Ethelwida, soția regelui Alfred cel Mare",
+    "given": "Ethelwida"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/fbebe4b9-a9a9-4da4-983b-75656a0d4189",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "salvian-of-verdun",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Salvian, episcop de Verdun în Franța",
+    "short": "Salvian, episcop de Verdun în Franța",
+    "given": "Salvian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/84db4ecf-da3e-4ec5-8a8c-5d1a0f513c21",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

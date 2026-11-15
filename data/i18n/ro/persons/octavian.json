@@ -1,0 +1,21 @@
+{
+  "id": "octavian",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Octavian, pustnic la Volterra în Italia",
+    "full": "Sfântul Cuvios Octavian, pustnic la Volterra în Italia",
+    "short": "Octavian, pustnic la Volterra în Italia",
+    "given": "Octavian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/47e5c776-0971-4211-8e20-4905d0a4caa7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

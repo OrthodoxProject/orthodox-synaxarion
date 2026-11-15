@@ -1,0 +1,20 @@
+{
+  "id": "luciu-of-roma",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Luciu din Roma",
+    "short": "Luciu din Roma",
+    "given": "Luciu"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c427d838-aa4e-44c3-9572-8f2952627f2e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

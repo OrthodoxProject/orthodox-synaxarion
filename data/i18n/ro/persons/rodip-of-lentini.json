@@ -1,0 +1,21 @@
+{
+  "id": "rodip-of-lentini",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Rodip, episcop de Lentini în Sicilia Italiei",
+    "full": "Sfântul Ierarh Rodip, episcop de Lentini în Sicilia Italiei",
+    "short": "Rodip, episcop de Lentini în Sicilia Italiei",
+    "given": "Rodip"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1dd686c6-e8c6-4bb8-b1c1-62673f53c9e9",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

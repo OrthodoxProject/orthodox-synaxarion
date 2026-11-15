@@ -1,0 +1,27 @@
+{
+  "id": "vladimir-10-and-ioan-of-rusia-3",
+  "kind": "repose",
+  "subjects": [
+    "person:vladimir-10",
+    "person:ioan-of-rusia-3"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 2
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/cad511ea-8238-485f-986b-0b7f0d3f6a42",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

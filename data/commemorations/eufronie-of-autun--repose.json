@@ -1,0 +1,26 @@
+{
+  "id": "eufronie-of-autun--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:eufronie-of-autun"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 3
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/87f2646f-2788-4a04-8667-753078d52e3d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

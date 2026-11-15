@@ -1,0 +1,21 @@
+{
+  "id": "diomna-of-irlanda",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Diomna din Irlanda, învățătorul Sfântului Declan de Ardmore",
+    "full": "Sfântul Diomna din Irlanda, învățătorul Sfântului Declan de Ardmore",
+    "short": "Diomna din Irlanda, învățătorul Sfântului Declan de Ardmore",
+    "given": "Diomna"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8cf83ff4-7115-4e29-97b9-037a4881536d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

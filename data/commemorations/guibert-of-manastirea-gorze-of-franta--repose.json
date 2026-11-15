@@ -1,0 +1,26 @@
+{
+  "id": "guibert-of-manastirea-gorze-of-franta--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:guibert-of-manastirea-gorze-of-franta"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 23
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7540168d-5887-418e-acdd-bd51c006d9fc",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

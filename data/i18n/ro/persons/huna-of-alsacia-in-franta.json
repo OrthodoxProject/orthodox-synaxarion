@@ -1,0 +1,21 @@
+{
+  "id": "huna-of-alsacia-in-franta",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Huna din Alsacia în Franța",
+    "full": "Sfânta Cuvioasă Huna din Alsacia în Franța",
+    "short": "Huna din Alsacia în Franța",
+    "given": "Huna"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/37bd6f64-2e70-4609-b397-3e819442637d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

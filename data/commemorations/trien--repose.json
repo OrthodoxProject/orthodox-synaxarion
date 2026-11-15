@@ -1,0 +1,26 @@
+{
+  "id": "trien--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:trien"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 22
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a16d9303-293a-4a6c-a161-528943420039",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

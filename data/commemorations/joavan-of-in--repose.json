@@ -1,0 +1,26 @@
+{
+  "id": "joavan-of-in--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:joavan-of-in"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 2
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f7e6da4f-9533-411b-b9b8-ab9b77876424",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

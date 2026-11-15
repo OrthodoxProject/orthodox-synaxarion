@@ -1,0 +1,22 @@
+{
+  "id": "venerable-noi-martyrs-un-episcop-and-companions",
+  "kind": "martyrs",
+  "holiness_types": [
+    "new_martyr",
+    "venerable_martyr"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4834513f-e0fa-42e0-a2a8-b94787409c51",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

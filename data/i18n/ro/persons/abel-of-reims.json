@@ -1,0 +1,21 @@
+{
+  "id": "abel-of-reims",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Abel, arhiepiscop de Reims în Franța",
+    "full": "Sfântul Ierarh Abel, arhiepiscop de Reims în Franța",
+    "short": "Abel, arhiepiscop de Reims în Franța",
+    "given": "Abel"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/34a785f9-2f7a-41ff-a3ae-4d584fe17cf7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

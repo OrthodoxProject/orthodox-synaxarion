@@ -1,0 +1,26 @@
+{
+  "id": "isidora-the-nebuna-pentru-hristos--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:isidora-the-nebuna-pentru-hristos"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 1
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6687e2b5-b5b0-44e7-8312-d3e8da3f991f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

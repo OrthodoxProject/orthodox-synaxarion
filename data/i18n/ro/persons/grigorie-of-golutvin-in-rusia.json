@@ -1,0 +1,21 @@
+{
+  "id": "grigorie-of-golutvin-in-rusia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Grigorie din Golutvin în Rusia",
+    "full": "Sfântul Grigorie din Golutvin în Rusia",
+    "short": "Grigorie din Golutvin în Rusia",
+    "given": "Grigorie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/eb8edcaf-d656-434d-8b24-be1d98434b3b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

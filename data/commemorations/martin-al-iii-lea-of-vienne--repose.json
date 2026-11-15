@@ -1,0 +1,26 @@
+{
+  "id": "martin-al-iii-lea-of-vienne--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:martin-al-iii-lea-of-vienne"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 1
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/506138e1-56c7-483e-8b76-2c344497b840",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "sfanta-mucenita-regina-fecioara-of-franta",
+  "kind": "repose",
+  "subjects": [
+    "group:sfanta-mucenita-regina-fecioara-of-franta"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 7
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/29b9f30d-e8a7-48f6-b0a5-f07c74a06cdd",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

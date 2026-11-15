@@ -1,0 +1,22 @@
+{
+  "id": "367-fathers-of-sinodul-al-vii-lea-ecumenic",
+  "kind": "council_fathers",
+  "count": {
+    "value": 367,
+    "precision": "exact"
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3c9083ea-b6fd-48f9-8498-90b0a38d6b99",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

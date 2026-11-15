@@ -1,0 +1,26 @@
+{
+  "id": "asclepie-of-limoges--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:asclepie-of-limoges"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 23
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6f9f05b3-605c-4ec6-9f16-cfe07bc12171",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

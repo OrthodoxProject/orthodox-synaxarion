@@ -1,0 +1,23 @@
+{
+  "id": "tatiana-of-rusia",
+  "kind": "saint",
+  "gender": "female",
+  "holiness_types": [
+    "new_martyr",
+    "martyr"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d4f5d335-ac60-4bbb-aaed-e0355728b53a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

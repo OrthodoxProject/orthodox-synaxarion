@@ -1,0 +1,20 @@
+{
+  "id": "filibert-of-toledo-in-spania",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Filibert din Toledo în Spania",
+    "short": "Filibert din Toledo în Spania",
+    "given": "Filibert"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/963069c8-3fae-4e35-8eb2-7a22cb48ee5c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

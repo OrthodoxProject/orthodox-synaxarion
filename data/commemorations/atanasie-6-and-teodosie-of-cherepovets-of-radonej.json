@@ -1,0 +1,27 @@
+{
+  "id": "atanasie-6-and-teodosie-of-cherepovets-of-radonej",
+  "kind": "repose",
+  "subjects": [
+    "person:atanasie-6",
+    "person:teodosie-of-cherepovets-of-radonej"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 5
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7e477b80-1715-4963-9d96-24a1b2466817",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

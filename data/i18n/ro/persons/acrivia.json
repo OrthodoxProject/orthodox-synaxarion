@@ -1,0 +1,21 @@
+{
+  "id": "acrivia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Acrivia",
+    "full": "Sfânta Muceniță Acrivia",
+    "short": "Acrivia",
+    "given": "Acrivia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/033e35ac-91c4-4f25-aaaa-b663b8b3b89a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

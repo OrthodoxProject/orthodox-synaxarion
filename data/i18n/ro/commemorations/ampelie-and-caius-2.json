@@ -1,0 +1,18 @@
+{
+  "id": "ampelie-and-caius-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici Ampelie și Caius"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/cbf1422b-0071-434a-a723-36090796eb82",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

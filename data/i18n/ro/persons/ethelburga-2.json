@@ -1,0 +1,21 @@
+{
+  "id": "ethelburga-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ethelburga, stareță în Franța",
+    "full": "Sfânta Cuvioasă Ethelburga, stareță în Franța",
+    "short": "Ethelburga, stareță în Franța",
+    "given": "Ethelburga"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0611cfa3-179a-4c8a-89c4-37f519dc276f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

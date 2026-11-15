@@ -1,0 +1,26 @@
+{
+  "id": "cellach-of-armagh--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:cellach-of-armagh"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 1
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a294dd95-6ee8-4092-9eac-e44a28a9dda9",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

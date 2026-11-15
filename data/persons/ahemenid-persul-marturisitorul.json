@@ -1,0 +1,22 @@
+{
+  "id": "ahemenid-persul-marturisitorul",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "confessor"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8c6bb66d-a8dd-4659-a66a-aa1ad43bca26",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

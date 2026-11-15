@@ -1,0 +1,26 @@
+{
+  "id": "vasile-of-de--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:vasile-of-de"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 20
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/80f51df3-c0cd-4539-af0a-ff0621a622af",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

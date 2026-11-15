@@ -1,0 +1,21 @@
+{
+  "id": "benedicta-fecioara-of-roma",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Benedicta fecioara din Roma",
+    "full": "Sfânta Cuvioasă Benedicta fecioara din Roma",
+    "short": "Benedicta fecioara din Roma",
+    "given": "Benedicta"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/aec8de66-7983-4083-bdb5-80aa575f410b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

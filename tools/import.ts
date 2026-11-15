@@ -2,12 +2,14 @@
  * Imports the saints and feasts listed by the sources in data/sources/ into the
  * dataset: calendar.patriarhia.ro and doxologia.ro (Romanian calendar), the OCA
  * lives of the saints (Russian calendar), the local lists of orthodox-calendar,
- * the Coptic Synaxarium (copticchurch.net, st-takla.org) and the Armenian
- * calendar (armenianchurch.ge). The synaxarion of e-religie.ro is only cited:
- * the saints it names get the link to its page, and those that no other source
- * has are added to the Romanian calendar. Only facts are taken: names, days,
- * crosses, links and the fasting printed in the official Romanian calendar,
- * which goes to the yearly overrides; texts of lives and hymns are not copied.
+ * the Coptic Synaxarium (copticchurch.net, st-takla.org), the Armenian
+ * calendar (armenianchurch.ge) and the calendar of the Orthodox Church of
+ * Moldova (calendar.ortodox.md), whose lines also give the existing records
+ * they match a link. The synaxarion of e-religie.ro is only cited: the saints
+ * it names get the link to its page, and those that no other source has are
+ * added to the Romanian calendar. Only facts are taken: names, days, crosses,
+ * links and the fasting printed in the official Romanian calendar, which goes
+ * to the yearly overrides; texts of lives and hymns are not copied.
  *
  *   npm run import                    # download what is missing, then write data/
  *   node tools/import.ts --offline    # use only pages already in build/cache/
@@ -35,8 +37,9 @@ import * as doxologia from "./lib/import/sources/doxologia.ts";
 import * as ereligie from "./lib/import/sources/ereligie.ts";
 import * as oca from "./lib/import/sources/oca.ts";
 import * as orthodoxCalendar from "./lib/import/sources/orthodox-calendar.ts";
+import * as ortodoxMd from "./lib/import/sources/ortodox-md.ts";
 import * as patriarhia from "./lib/import/sources/patriarhia.ts";
-import { armenianUnits, copticUnits, doxologiaUnits, ereligieUnits, ocaUnits, overlayUnits, patriarhiaUnits, type SourceData } from "./lib/import/units.ts";
+import { armenianUnits, copticUnits, doxologiaUnits, ereligieUnits, ocaUnits, ortodoxMdUnits, overlayUnits, patriarhiaUnits, type SourceData } from "./lib/import/units.ts";
 import { classify, isRomanian } from "./lib/layout.ts";
 import { canonicalJson, fixCedilla, mapStrings } from "./lib/text.ts";
 import { REPO_ROOT } from "./lib/validate.ts";
@@ -67,6 +70,7 @@ const data: SourceData = {
   coptic: await coptic.crawl(fetcher, log),
   armenian: await armenian.crawl(fetcher),
   overlays: await orthodoxCalendar.crawl(fetcher),
+  ortodoxMd: await ortodoxMd.crawl(fetcher, log),
   ereligie: await ereligie.crawl(fetcher, log),
 };
 log(`  ${fetcher.requests} page(s) downloaded, ${fetcher.cacheHits} from the cache.`);
@@ -84,6 +88,7 @@ const overlays = overlayUnits(data);
 // The Romanian list only completes saints that the official calendar already has.
 builder.overlay(overlays.filter((u) => u.tradition !== "romanian"));
 builder.enrich(overlays.filter((u) => u.tradition === "romanian"));
+builder.moldova(ortodoxMdUnits(data));
 builder.shared(["ecumenical", "serbian"]);
 // After the shared Menaion: a saint it adds is in the Romanian calendar only.
 builder.cite(ereligieUnits(data), "romanian");

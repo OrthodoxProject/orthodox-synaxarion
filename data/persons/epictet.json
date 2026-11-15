@@ -1,0 +1,24 @@
+{
+  "id": "epictet",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "venerable",
+    "wonderworker"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/745cf309-8775-427b-94ec-5e4d8bbd43a4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat.",
+      "Genul nu reiese din sursă; e de verificat."
+    ]
+  }
+}

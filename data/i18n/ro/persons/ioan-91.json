@@ -1,0 +1,20 @@
+{
+  "id": "ioan-91",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ioan, nevoitor la Olumba, Cairo",
+    "short": "Ioan, nevoitor la Olumba, Cairo",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e4f1a488-e321-4084-bf80-9485de8f7170",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

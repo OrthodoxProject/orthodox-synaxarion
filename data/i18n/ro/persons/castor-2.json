@@ -1,0 +1,21 @@
+{
+  "id": "castor-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Castor",
+    "full": "Sfântul Cuvios Castor",
+    "short": "Castor",
+    "given": "Castor"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/21778d4c-9af1-41ab-82f7-e7258ea921ae",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

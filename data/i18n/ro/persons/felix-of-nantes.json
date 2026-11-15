@@ -1,0 +1,21 @@
+{
+  "id": "felix-of-nantes",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Felix, episcop de Nantes în Franța",
+    "full": "Sfântul Ierarh Felix, episcop de Nantes în Franța",
+    "short": "Felix, episcop de Nantes în Franța",
+    "given": "Felix"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d95930bb-66b1-44b5-a65a-211b1bb81fc5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

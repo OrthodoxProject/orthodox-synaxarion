@@ -1,0 +1,25 @@
+{
+  "id": "4-venerable-sihastri-impreuna-nevoitori",
+  "kind": "community",
+  "count": {
+    "value": 4,
+    "precision": "exact"
+  },
+  "holiness_types": [
+    "venerable"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/611e4eea-25ae-4319-a943-d591379e81b5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

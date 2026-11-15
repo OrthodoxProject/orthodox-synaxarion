@@ -1,0 +1,21 @@
+{
+  "id": "sofronie-of-irkutsk",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Sofronie, Episcop de Irkutsk în Rusia",
+    "full": "Sfântul Ierarh Sofronie, Episcop de Irkutsk în Rusia",
+    "short": "Sofronie, Episcop de Irkutsk în Rusia",
+    "given": "Sofronie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/566",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

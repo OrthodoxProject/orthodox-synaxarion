@@ -1,0 +1,21 @@
+{
+  "id": "clinie-of-italia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Clinie, monah la Monte Cassino și egumenul unei mănăstiri din regiunea Lazio din Italia",
+    "full": "Sfântul Cuvios Clinie, monah la Monte Cassino și egumenul unei mănăstiri din regiunea Lazio din Italia",
+    "short": "Clinie, monah la Monte Cassino, egumenul unei mănăstiri din regiunea Lazio din Italia",
+    "given": "Clinie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d902e436-e2df-4271-9caf-8a8c11248d0c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

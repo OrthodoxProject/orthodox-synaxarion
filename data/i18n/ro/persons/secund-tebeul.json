@@ -1,0 +1,21 @@
+{
+  "id": "secund-tebeul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Secund Tebeul",
+    "full": "Sfântul Mucenic Secund Tebeul",
+    "short": "Secund Tebeul",
+    "given": "Secund"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/91c76e2d-2bcf-4c82-8efc-95942f53f0fa",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

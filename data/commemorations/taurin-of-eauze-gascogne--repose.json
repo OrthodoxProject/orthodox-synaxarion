@@ -1,0 +1,26 @@
+{
+  "id": "taurin-of-eauze-gascogne--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:taurin-of-eauze-gascogne"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 5
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/08460b23-87a9-4c82-b7db-c1c71aa5e6f4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

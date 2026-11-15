@@ -1,0 +1,26 @@
+{
+  "id": "fulk-of-arpino-in-italia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:fulk-of-arpino-in-italia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 22
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f0f7bccb-6ab0-4d68-8807-d8a82e2b3c3d#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

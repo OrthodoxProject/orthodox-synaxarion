@@ -1,0 +1,26 @@
+{
+  "id": "erasm-of-chefala--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:erasm-of-chefala"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 25
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3b625a11-9294-4b24-852f-823418728fa2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "lupicin-of-verona",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Lupicin, episcop de Verona în Italia",
+    "full": "Sfântul Ierarh Lupicin, episcop de Verona în Italia",
+    "short": "Lupicin, episcop de Verona în Italia",
+    "given": "Lupicin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7197ca6e-ba83-4202-a931-93de25773483",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

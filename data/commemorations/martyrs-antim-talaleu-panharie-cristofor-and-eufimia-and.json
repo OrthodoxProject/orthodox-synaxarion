@@ -1,0 +1,26 @@
+{
+  "id": "martyrs-antim-talaleu-panharie-cristofor-and-eufimia-and",
+  "kind": "repose",
+  "subjects": [
+    "group:martyrs-antim-talaleu-panharie-cristofor-and-eufimia-and"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 19
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/434666a1-0874-4a3a-aea8-26eef2158872",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

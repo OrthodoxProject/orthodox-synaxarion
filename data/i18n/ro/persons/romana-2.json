@@ -1,0 +1,21 @@
+{
+  "id": "romana-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Romana, fecioară din Roma",
+    "full": "Sfânta Muceniță Romana, fecioară din Roma",
+    "short": "Romana, fecioară din Roma",
+    "given": "Romana"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3423de21-2a85-46da-bc1f-8d5b2eab0d17",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

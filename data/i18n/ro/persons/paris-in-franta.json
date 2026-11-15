@@ -1,0 +1,20 @@
+{
+  "id": "paris-in-franta",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Paris în Franța",
+    "short": "Paris în Franța",
+    "given": "Paris"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8fac85b9-89d1-4914-87b1-4d32ee8f032c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

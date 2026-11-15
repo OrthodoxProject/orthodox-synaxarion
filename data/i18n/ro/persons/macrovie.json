@@ -1,0 +1,20 @@
+{
+  "id": "macrovie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Macrovie",
+    "short": "Macrovie",
+    "given": "Macrovie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1185",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

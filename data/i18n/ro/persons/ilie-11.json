@@ -1,0 +1,20 @@
+{
+  "id": "ilie-11",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Ilie",
+    "short": "Ilie",
+    "given": "Ilie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1221",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

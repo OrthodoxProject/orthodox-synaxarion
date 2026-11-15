@@ -1,0 +1,20 @@
+{
+  "id": "serghie-of-elets-and-melitopol",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Serghie de Elets și Melitopol",
+    "short": "Serghie de Elets și Melitopol",
+    "given": "Serghie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e88168b1-32f8-4cac-984a-596765b492e5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "alexandru-of-nijni-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:alexandru-of-nijni",
+    "person:alexandru-of-semipalatinsk",
+    "person:neofit-5",
+    "person:anatolie-6"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 17
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/50767ae1-892a-4306-8572-5d00e42bb50b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

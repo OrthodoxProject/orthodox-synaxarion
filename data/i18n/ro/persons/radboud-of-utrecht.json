@@ -1,0 +1,21 @@
+{
+  "id": "radboud-of-utrecht",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Radboud, episcop de Utrecht în Olanda",
+    "full": "Sfântul Ierarh Radboud, episcop de Utrecht în Olanda",
+    "short": "Radboud, episcop de Utrecht în Olanda",
+    "given": "Radboud"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/172f188d-2af6-4e93-80a4-9243d3d6f01c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

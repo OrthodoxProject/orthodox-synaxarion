@@ -1,0 +1,25 @@
+{
+  "id": "teodor-5",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Teodor (Bogoiavlenskii)",
+    "short": "Teodor (Bogoiavlenskii)",
+    "given": "Teodor"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f3248a76-f1ec-4949-99a0-cba83b483483",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7dfb366e-5907-46b9-b9d4-28743e3ef827",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

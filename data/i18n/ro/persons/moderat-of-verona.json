@@ -1,0 +1,21 @@
+{
+  "id": "moderat-of-verona",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Moderat, episcop de Verona în Italia",
+    "full": "Sfântul Ierarh Moderat, episcop de Verona în Italia",
+    "short": "Moderat, episcop de Verona în Italia",
+    "given": "Moderat"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d8a0fe1d-dde4-4aa1-be0d-50a42766f630",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

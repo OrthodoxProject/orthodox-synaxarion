@@ -1,0 +1,26 @@
+{
+  "id": "teodosie-of-totma-in-rusia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:teodosie-of-totma-in-rusia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 29
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9201f76a-64dd-4f12-b2d2-950895ec7490",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

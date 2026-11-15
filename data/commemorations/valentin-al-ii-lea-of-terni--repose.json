@@ -1,0 +1,26 @@
+{
+  "id": "valentin-al-ii-lea-of-terni--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:valentin-al-ii-lea-of-terni"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 7
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/cdd6959b-a5d2-4352-84b6-992cd175429e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

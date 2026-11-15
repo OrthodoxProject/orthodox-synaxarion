@@ -1,0 +1,26 @@
+{
+  "id": "anastasie-of-ioanina--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:anastasie-of-ioanina"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 8
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/61000127-5267-417e-86bf-ad49e1a5e4ba",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

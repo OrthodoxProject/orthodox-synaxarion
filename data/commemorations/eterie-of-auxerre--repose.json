@@ -1,0 +1,26 @@
+{
+  "id": "eterie-of-auxerre--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:eterie-of-auxerre"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 27
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0e9793b1-fecb-4473-af9f-853cd76d35f4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

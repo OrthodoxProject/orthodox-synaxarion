@@ -1,0 +1,21 @@
+{
+  "id": "becan-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Becan, pustnic de lângă Cork în Irlanda",
+    "full": "Sfântul Cuvios Becan, pustnic de lângă Cork în Irlanda",
+    "short": "Becan, pustnic de lângă Cork în Irlanda",
+    "given": "Becan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/14df601b-1aab-492a-b4bf-438b36252bbb",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

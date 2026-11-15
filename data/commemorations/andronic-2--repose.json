@@ -1,0 +1,26 @@
+{
+  "id": "andronic-2--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:andronic-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 21
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/963a86ba-987a-4611-8fca-acf51180241b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

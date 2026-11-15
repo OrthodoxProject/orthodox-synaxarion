@@ -1,0 +1,21 @@
+{
+  "id": "trifonia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Trifonia, soția unui demnitar roman prigonitor",
+    "full": "Sfânta Trifonia, soția unui demnitar roman prigonitor",
+    "short": "Trifonia, soția unui demnitar roman prigonitor",
+    "given": "Trifonia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e68d91ab-11b4-48e4-b52d-c31c4091ff89",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

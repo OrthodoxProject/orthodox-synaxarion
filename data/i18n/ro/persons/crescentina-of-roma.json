@@ -1,0 +1,21 @@
+{
+  "id": "crescentina-of-roma",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Crescentina din Roma",
+    "full": "Sfânta Muceniță Crescentina din Roma",
+    "short": "Crescentina din Roma",
+    "given": "Crescentina"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/936c705d-4339-4293-b14e-68d63129fed0",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

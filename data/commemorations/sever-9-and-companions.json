@@ -1,0 +1,30 @@
+{
+  "id": "sever-9-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:sever-9",
+    "person:androna",
+    "person:teodot-7",
+    "person:teodota-5",
+    "person:dasie-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 3
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0407740f-6abe-4b63-933c-af199b68d5e8",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "gaius-5-and-leo-2",
+  "kind": "repose",
+  "subjects": [
+    "person:gaius-5",
+    "person:leo-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 30
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4369ffe5-a203-47e9-97cb-f6a6dd61b8ce",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

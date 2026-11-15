@@ -1,0 +1,27 @@
+{
+  "id": "diodor-3-and-marian-of-roma",
+  "kind": "repose",
+  "subjects": [
+    "person:diodor-3",
+    "person:marian-of-roma"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 17
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c4ea05ce-69f8-4fd1-9e5a-e318f8a3a77a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "martyrs-felix-blanda-sotia-sa-senatorul-simplicius-and",
+  "kind": "repose",
+  "subjects": [
+    "group:martyrs-felix-blanda-sotia-sa-senatorul-simplicius-and"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 10
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/18e84ceb-2d47-4f48-a872-11bc6e681867",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

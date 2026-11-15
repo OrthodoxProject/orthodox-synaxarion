@@ -1,0 +1,21 @@
+{
+  "id": "vasilid-soldatul-of-alexandria-in-egipt",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Vasilid soldatul din Alexandria în Egipt",
+    "full": "Sfântul Mucenic Vasilid soldatul din Alexandria în Egipt",
+    "short": "Vasilid soldatul din Alexandria în Egipt",
+    "given": "Vasilid"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/57e77406-53ac-4878-b4ad-2493b04c0786",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

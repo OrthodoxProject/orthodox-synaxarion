@@ -1,0 +1,26 @@
+{
+  "id": "crescentia-3--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:crescentia-3"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 19
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/16e778db-378f-44a8-b5b9-6e8a0f74e8f5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

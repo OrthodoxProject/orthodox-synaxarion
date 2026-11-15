@@ -1,0 +1,21 @@
+{
+  "id": "abelard-of-belgia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Abelard, stareț din Belgia",
+    "full": "Sfântul Cuvios Abelard, stareț din Belgia",
+    "short": "Abelard, stareț din Belgia",
+    "given": "Abelard"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/aabf1de1-45ac-4019-a26a-81d5e62e47b2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

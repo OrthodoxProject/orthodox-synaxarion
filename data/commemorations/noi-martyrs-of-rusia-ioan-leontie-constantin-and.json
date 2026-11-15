@@ -1,0 +1,26 @@
+{
+  "id": "noi-martyrs-of-rusia-ioan-leontie-constantin-and",
+  "kind": "repose",
+  "subjects": [
+    "group:noi-martyrs-of-rusia-ioan-leontie-constantin-and"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 29
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b8338370-ab11-4f58-a34f-3abc4ccd459c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

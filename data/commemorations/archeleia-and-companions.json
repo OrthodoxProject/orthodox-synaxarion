@@ -1,0 +1,28 @@
+{
+  "id": "archeleia-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:archeleia",
+    "person:tecla-2",
+    "person:suzana-of-salermo-in-italia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 18
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/92697e18-b9a0-471f-bf35-64a7c7dbd5eb",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

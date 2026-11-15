@@ -1,0 +1,21 @@
+{
+  "id": "nicolae-imnograful-of-georgia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Nicolae imnograful din Georgia",
+    "full": "Sfântul Nicolae imnograful din Georgia",
+    "short": "Nicolae imnograful din Georgia",
+    "given": "Nicolae"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/52599a7b-8c99-4fd2-9360-db399652315e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

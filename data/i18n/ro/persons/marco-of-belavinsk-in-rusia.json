@@ -1,0 +1,21 @@
+{
+  "id": "marco-of-belavinsk-in-rusia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Marco din Belavinsk în Rusia",
+    "full": "Sfântul Marco din Belavinsk în Rusia",
+    "short": "Marco din Belavinsk în Rusia",
+    "given": "Marco"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0e5d1475-128b-42c1-999c-651f3916a662",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

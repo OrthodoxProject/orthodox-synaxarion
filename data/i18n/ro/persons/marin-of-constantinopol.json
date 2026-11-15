@@ -1,0 +1,21 @@
+{
+  "id": "marin-of-constantinopol",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Marin din Constantinopol",
+    "full": "Sfântul Cuvios Marin din Constantinopol",
+    "short": "Marin din Constantinopol",
+    "given": "Marin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ae42ea6e-e3e1-43c7-9dec-6cad65e5a4e1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

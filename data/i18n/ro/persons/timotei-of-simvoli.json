@@ -1,0 +1,20 @@
+{
+  "id": "timotei-of-simvoli",
+  "locale": "ro",
+  "names": {
+    "display": "Cuviosul Timotei din Simvoli (Grecia)",
+    "short": "Timotei din Simvoli",
+    "given": "Timotei"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c76f1365-7e68-41ee-81c7-9153af9d1f18",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

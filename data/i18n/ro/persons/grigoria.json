@@ -1,0 +1,21 @@
+{
+  "id": "grigoria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Grigoria, fecioară din Roma",
+    "full": "Sfânta Grigoria, fecioară din Roma",
+    "short": "Grigoria, fecioară din Roma",
+    "given": "Grigoria"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8f6d0e72-7b02-44ef-b73b-61a9b5a41f0d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

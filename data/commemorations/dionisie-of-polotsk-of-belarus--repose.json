@@ -1,0 +1,26 @@
+{
+  "id": "dionisie-of-polotsk-of-belarus--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:dionisie-of-polotsk-of-belarus"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 23
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/610743fb-62f7-4fa8-a741-c003bd493dc4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

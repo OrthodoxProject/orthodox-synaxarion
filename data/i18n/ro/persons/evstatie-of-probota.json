@@ -1,0 +1,20 @@
+{
+  "id": "evstatie-of-probota",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Evstatie de la Probota",
+    "short": "Evstatie de la Probota",
+    "given": "Evstatie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3e0bfeab-c3ad-42ab-bdc3-7e962c34c4ac",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

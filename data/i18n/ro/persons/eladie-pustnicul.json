@@ -1,0 +1,21 @@
+{
+  "id": "eladie-pustnicul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Eladie pustnicul",
+    "full": "Sfântul Cuvios Eladie pustnicul",
+    "short": "Eladie pustnicul",
+    "given": "Eladie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6645ffa5-d1b8-4877-931f-5be1062dff19",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

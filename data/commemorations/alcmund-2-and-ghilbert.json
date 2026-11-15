@@ -1,0 +1,27 @@
+{
+  "id": "alcmund-2-and-ghilbert",
+  "kind": "repose",
+  "subjects": [
+    "person:alcmund-2",
+    "person:ghilbert"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 7
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/cc338673-a0da-437d-b98f-6fb1d967cfef",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

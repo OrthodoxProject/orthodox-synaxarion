@@ -1,0 +1,20 @@
+{
+  "id": "ghitlin",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Ghitlin",
+    "short": "Ghitlin",
+    "given": "Ghitlin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/94bbe6a1-fa98-4cd6-acf0-6030ffc0c689",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

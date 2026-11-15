@@ -1,0 +1,21 @@
+{
+  "id": "amantie-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Amantie, preot din Umbria în Italia",
+    "full": "Sfântul Amantie, preot din Umbria în Italia",
+    "short": "Amantie, preot din Umbria în Italia",
+    "given": "Amantie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/92f4e0a0-e244-4b53-807c-c0ac132daec6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

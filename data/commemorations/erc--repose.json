@@ -1,0 +1,26 @@
+{
+  "id": "erc--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:erc"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 2
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e43e9caa-35a1-48bc-966e-e214ba43ecee",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

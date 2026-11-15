@@ -1,0 +1,21 @@
+{
+  "id": "teodota-4",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Teodota",
+    "full": "Sfânta Cuvioasă Muceniță Teodota",
+    "short": "Teodota",
+    "given": "Teodota"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ef239e74-bc67-40e6-8fef-c7ecd6dabb61",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

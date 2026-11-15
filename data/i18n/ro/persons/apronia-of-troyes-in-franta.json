@@ -1,0 +1,21 @@
+{
+  "id": "apronia-of-troyes-in-franta",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Apronia din Troyes în Franța",
+    "full": "Sfânta Cuvioasă Apronia din Troyes în Franța",
+    "short": "Apronia din Troyes în Franța",
+    "given": "Apronia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/374ab5c8-620e-4579-892c-cf3ae6387e8a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

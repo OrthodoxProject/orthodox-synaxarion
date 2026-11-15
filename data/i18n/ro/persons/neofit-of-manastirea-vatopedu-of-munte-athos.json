@@ -1,0 +1,21 @@
+{
+  "id": "neofit-of-manastirea-vatopedu-of-munte-athos",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Neofit de la Mănăstirea Vatopedu din Sfântul Munte Athos",
+    "full": "Sfântul Cuvios Neofit de la Mănăstirea Vatopedu din Sfântul Munte Athos",
+    "short": "Neofit de la Mănăstirea Vatopedu din Sfântul Munte Athos",
+    "given": "Neofit"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6535f135-9a0d-4c5b-8b84-e7cc07fa2649",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

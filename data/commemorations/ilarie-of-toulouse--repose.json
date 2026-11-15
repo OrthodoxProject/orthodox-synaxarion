@@ -1,0 +1,26 @@
+{
+  "id": "ilarie-of-toulouse--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:ilarie-of-toulouse"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 20
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0ad9a591-58ea-4479-addf-0bbec9c9e9bf",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

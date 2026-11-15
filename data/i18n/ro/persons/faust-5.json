@@ -1,0 +1,21 @@
+{
+  "id": "faust-5",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Faust",
+    "full": "Sfântul Mucenic Faust",
+    "short": "Faust",
+    "given": "Faust"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/758d3b68-8c03-4311-b821-02ed0aeefeea",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

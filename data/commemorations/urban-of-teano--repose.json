@@ -1,0 +1,26 @@
+{
+  "id": "urban-of-teano--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:urban-of-teano"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 7
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/bb7a9eca-485a-4ffa-aa98-c99b5a987607",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

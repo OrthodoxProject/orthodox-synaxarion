@@ -1,0 +1,21 @@
+{
+  "id": "domna-of-tomsk-in-rusia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Domna din Tomsk în Rusia",
+    "full": "Sfântul Domna din Tomsk în Rusia",
+    "short": "Domna din Tomsk în Rusia",
+    "given": "Domna"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/189ee813-54b8-4202-9739-3372605725e5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

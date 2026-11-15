@@ -1,0 +1,18 @@
+{
+  "id": "12-martyrs-ostasi",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții 12 Mucenici ostași"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5b9bf503-d308-4e2f-8267-9a72d2de72d0",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "sebbi",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Sebbi, regele Saxonilor din est și apoi monah la Essex în Anglia",
+    "full": "Sfântul Cuvios Sebbi, regele Saxonilor din est și apoi monah la Essex în Anglia",
+    "short": "Sebbi, regele Saxonilor din est, apoi monah la Essex în Anglia",
+    "given": "Sebbi"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/70e74658-49ba-4def-9bd2-d28389375a54",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

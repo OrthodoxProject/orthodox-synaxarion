@@ -1,0 +1,20 @@
+{
+  "id": "eterie-of-lyon",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Eterie, episcop de Lyon în Franța",
+    "short": "Eterie, episcop de Lyon în Franța",
+    "given": "Eterie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6f53684c-dc5c-4a72-ae97-c00f6053c39d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

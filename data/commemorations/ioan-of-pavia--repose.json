@@ -1,0 +1,26 @@
+{
+  "id": "ioan-of-pavia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:ioan-of-pavia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 27
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/fb9c3d73-9c69-45ae-b5fa-40df8a9e2cf1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

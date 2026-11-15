@@ -1,0 +1,20 @@
+{
+  "id": "eutihian",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Eutihian",
+    "short": "Eutihian",
+    "given": "Eutihian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4d0108d2-24a5-40bc-a6f8-2dd055d68a2a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

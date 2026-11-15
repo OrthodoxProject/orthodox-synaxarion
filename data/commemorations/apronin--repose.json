@@ -1,0 +1,26 @@
+{
+  "id": "apronin--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:apronin"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 2
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e118a6c2-2ef9-4a28-bdd6-fa2a5822fd3d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

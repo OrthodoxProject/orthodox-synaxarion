@@ -1,0 +1,21 @@
+{
+  "id": "teodosia-fecioara-of-tyr",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Teodosia fecioara din Tyr",
+    "full": "Sfânta Muceniță Teodosia fecioara din Tyr",
+    "short": "Teodosia fecioara din Tyr",
+    "given": "Teodosia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/293",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

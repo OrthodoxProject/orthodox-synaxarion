@@ -1,0 +1,21 @@
+{
+  "id": "iosif-of-capadocia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Iosif din Capadocia",
+    "full": "Sfântul Iosif din Capadocia",
+    "short": "Iosif din Capadocia",
+    "given": "Iosif"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/159b01fa-855f-4dee-a5a3-8e1c3521e061",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

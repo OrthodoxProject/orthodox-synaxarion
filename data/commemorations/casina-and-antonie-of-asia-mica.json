@@ -1,0 +1,27 @@
+{
+  "id": "casina-and-antonie-of-asia-mica",
+  "kind": "repose",
+  "subjects": [
+    "person:casina",
+    "person:antonie-of-asia-mica"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 7
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a3e2a1ee-64c7-41a7-bb79-383d810f9abf",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

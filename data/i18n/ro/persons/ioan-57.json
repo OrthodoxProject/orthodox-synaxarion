@@ -1,0 +1,20 @@
+{
+  "id": "ioan-57",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Ioan (Vostorgov)",
+    "short": "Ioan (Vostorgov)",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/45003a2b-52a8-4f51-85be-46e14e8e4362",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

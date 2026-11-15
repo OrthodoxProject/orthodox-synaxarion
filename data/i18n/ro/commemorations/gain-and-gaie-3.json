@@ -1,0 +1,18 @@
+{
+  "id": "gain-and-gaie-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici Gain și Gaie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/53e48561-128d-4f21-a028-afda437075b0",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

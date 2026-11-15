@@ -1,0 +1,26 @@
+{
+  "id": "valerie-3--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:valerie-3"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 25
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/cf50c3a8-6196-4a11-bfe3-0c8f4d0b8c49",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

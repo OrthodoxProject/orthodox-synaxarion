@@ -1,0 +1,20 @@
+{
+  "id": "rupert",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Rupert",
+    "short": "Rupert",
+    "given": "Rupert"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f487ed02-fde5-41ab-bc8c-ef2dadc508da",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ioan-of-spoleto--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:ioan-of-spoleto"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 19
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0333a9d9-9afc-4b3c-8bf3-ca825e40dbb3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

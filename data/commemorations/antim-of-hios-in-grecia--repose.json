@@ -1,0 +1,26 @@
+{
+  "id": "antim-of-hios-in-grecia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:antim-of-hios-in-grecia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 15
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2dbe4bc5-ff5b-497d-8b17-79e2fc1933b7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

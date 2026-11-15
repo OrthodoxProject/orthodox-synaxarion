@@ -1,0 +1,21 @@
+{
+  "id": "cataldie-of-taranto",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Cataldie, episcop de Taranto în Italia",
+    "full": "Sfântul Ierarh Cataldie, episcop de Taranto în Italia",
+    "short": "Cataldie, episcop de Taranto în Italia",
+    "given": "Cataldie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/16c3d113-9723-47d5-99bf-be5d61bd605e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

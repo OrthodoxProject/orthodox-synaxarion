@@ -1,0 +1,28 @@
+{
+  "id": "alexandru-34-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:alexandru-34",
+    "person:leon-6",
+    "person:vladimir-20"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 20
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3b1870a3-78d5-45f4-96d6-e1de873260d6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "nicolae-39",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Nicolae (Gheorghevskii)",
+    "short": "Nicolae (Gheorghevskii)",
+    "given": "Nicolae"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1a90001d-92c7-41f1-ae55-af04fc1d16dd",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

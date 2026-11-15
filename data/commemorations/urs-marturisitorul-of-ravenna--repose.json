@@ -1,0 +1,26 @@
+{
+  "id": "urs-marturisitorul-of-ravenna--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:urs-marturisitorul-of-ravenna"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 13
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e6fc18fc-2fef-4400-825e-7147068efc0d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

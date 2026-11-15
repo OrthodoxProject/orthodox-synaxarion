@@ -1,0 +1,39 @@
+{
+  "id": "diomid-5-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:diomid-5",
+    "person:iulian-9",
+    "person:filip-4",
+    "person:eutihian-3",
+    "person:isihie-5",
+    "person:leonid-4",
+    "person:eutihie-4",
+    "person:filadelf-2",
+    "person:melanip"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 2
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/befc069d-d560-4f36-a6e1-a5b713445789",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f0657ede-23e3-4342-a4fb-6b291b8a42ca#3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

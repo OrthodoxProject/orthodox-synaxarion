@@ -1,0 +1,26 @@
+{
+  "id": "victurnin--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:victurnin"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 30
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/16a6be91-404a-46d7-9576-0fcef2731e7b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "serghie-al-ii-lea-of-constantinopol",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Serghie al II-lea, patriarhul Constantinopolului",
+    "full": "Sfântul Ierarh Serghie al II-lea, patriarhul Constantinopolului",
+    "short": "Serghie al II-lea, patriarhul Constantinopolului",
+    "given": "Serghie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2eff20e1-ce13-48e7-8e6e-945cdca02bb5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

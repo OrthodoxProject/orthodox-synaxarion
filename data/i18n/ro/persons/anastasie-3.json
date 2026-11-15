@@ -1,0 +1,20 @@
+{
+  "id": "anastasie-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Anastasie",
+    "short": "Anastasie",
+    "given": "Anastasie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b5442dd2-6cb5-4a05-8c43-0bd534ff6bf2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

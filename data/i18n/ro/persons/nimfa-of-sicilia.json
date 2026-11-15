@@ -1,0 +1,21 @@
+{
+  "id": "nimfa-of-sicilia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Nimfa din Sicilia, ocrotitoarea orașului Palermo din Italia",
+    "full": "Sfânta Muceniță Nimfa din Sicilia, ocrotitoarea orașului Palermo din Italia",
+    "short": "Nimfa din Sicilia, ocrotitoarea orașului Palermo din Italia",
+    "given": "Nimfa"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0ce98378-72f9-40bf-8592-f92d4529b231",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

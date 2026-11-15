@@ -1,0 +1,21 @@
+{
+  "id": "herulf-of-langres",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Herulf, episcop de Langres în Franța",
+    "full": "Sfântul Ierarh Herulf, episcop de Langres în Franța",
+    "short": "Herulf, episcop de Langres în Franța",
+    "given": "Herulf"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/01a851e4-9870-45be-a89a-760ce85cbc5d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

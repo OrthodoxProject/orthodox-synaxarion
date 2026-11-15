@@ -1,0 +1,26 @@
+{
+  "id": "acacius-the-confessor--finding-of-relics",
+  "kind": "relics_finding",
+  "subjects": [
+    "person:acacius-the-confessor"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 15
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e38dfa7c-b424-4ad2-ada3-6662abaa3ea0",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

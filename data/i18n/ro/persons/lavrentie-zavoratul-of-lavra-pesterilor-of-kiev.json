@@ -1,0 +1,21 @@
+{
+  "id": "lavrentie-zavoratul-of-lavra-pesterilor-of-kiev",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Lavrentie Zăvorâtul de la Lavra Peșterilor (Pecerska) din Kiev (Ucraina)",
+    "full": "Sfântul Lavrentie Zăvorâtul de la Lavra Peșterilor (Pecerska) din Kiev (Ucraina)",
+    "short": "Lavrentie Zăvorâtul de la Lavra Peșterilor (Pecerska) din Kiev",
+    "given": "Lavrentie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/64d3df5c-b2a4-4852-a658-136dffa6caf5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

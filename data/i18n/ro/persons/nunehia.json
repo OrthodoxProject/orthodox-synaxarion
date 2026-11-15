@@ -1,0 +1,20 @@
+{
+  "id": "nunehia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Nunehia",
+    "short": "Nunehia",
+    "given": "Nunehia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1445",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

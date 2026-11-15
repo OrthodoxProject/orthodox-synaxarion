@@ -1,0 +1,21 @@
+{
+  "id": "agapia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Agapia",
+    "full": "Sfânta Muceniță Agapia",
+    "short": "Agapia",
+    "given": "Agapia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/177b5f03-6b5b-4f82-a01e-19a450aa9345",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

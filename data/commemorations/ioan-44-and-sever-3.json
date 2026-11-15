@@ -1,0 +1,27 @@
+{
+  "id": "ioan-44-and-sever-3",
+  "kind": "repose",
+  "subjects": [
+    "person:ioan-44",
+    "person:sever-3"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 27
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5aac6e1e-fa70-4b2c-8470-c1c27791981c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

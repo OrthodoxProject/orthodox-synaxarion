@@ -1,0 +1,26 @@
+{
+  "id": "peris--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:peris"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 11
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/05a5f99d-61b3-40d9-8038-7e5a19ba7665",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

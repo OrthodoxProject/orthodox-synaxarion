@@ -1,0 +1,21 @@
+{
+  "id": "archil-al-ii-lea",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Archil al II-lea, regele Georgiei",
+    "full": "Sfântul Mucenic Archil al II-lea, regele Georgiei",
+    "short": "Archil al II-lea, regele Georgiei",
+    "given": "Archil"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/77f94b1b-b516-4c3c-ab8a-19ef3e54700c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

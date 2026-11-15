@@ -1,0 +1,26 @@
+{
+  "id": "ipolit-of-din--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:ipolit-of-din"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 22
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/aa701155-019a-4e68-9704-6bcdedf789ab",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

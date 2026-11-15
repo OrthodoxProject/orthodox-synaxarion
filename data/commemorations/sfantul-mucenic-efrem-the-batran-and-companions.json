@@ -1,0 +1,26 @@
+{
+  "id": "sfantul-mucenic-efrem-the-batran-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "group:sfantul-mucenic-efrem-the-batran-and-companions"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 10
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4529a561-1f76-4063-b42d-f33c3dc53a03",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

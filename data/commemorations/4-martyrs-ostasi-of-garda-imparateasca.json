@@ -1,0 +1,26 @@
+{
+  "id": "4-martyrs-ostasi-of-garda-imparateasca",
+  "kind": "repose",
+  "subjects": [
+    "group:4-martyrs-ostasi-of-garda-imparateasca"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 14
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/90c59b2f-81c2-4688-bdd4-4f21245b23e4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

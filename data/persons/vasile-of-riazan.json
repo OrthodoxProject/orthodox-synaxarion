@@ -1,0 +1,23 @@
+{
+  "id": "vasile-of-riazan",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "hierarch",
+    "wonderworker"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/aa20a1e2-1ed8-4b24-a094-8234801bfa2b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

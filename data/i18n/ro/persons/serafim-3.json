@@ -1,0 +1,21 @@
+{
+  "id": "serafim-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Serafim, mitropolit și mărturisitor în Lavra Glinska din Gluhov în Ucraina",
+    "full": "Sfântul Ierarh Serafim, mitropolit și mărturisitor în Lavra Glinska din Gluhov în Ucraina",
+    "short": "Serafim, mitropolit, mărturisitor în Lavra Glinska din Gluhov în Ucraina",
+    "given": "Serafim"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5adc9469-4e08-4ce2-9845-092aa3d88974",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

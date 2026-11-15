@@ -1,0 +1,26 @@
+{
+  "id": "isihie-tacutul-of-muntele-horeb--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:isihie-tacutul-of-muntele-horeb"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 3
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/efcd6a4a-d61f-4a0f-bbe3-5a65a2a40d61",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

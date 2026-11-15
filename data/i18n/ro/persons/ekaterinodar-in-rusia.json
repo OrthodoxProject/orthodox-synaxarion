@@ -1,0 +1,20 @@
+{
+  "id": "ekaterinodar-in-rusia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ekaterinodar în Rusia",
+    "short": "Ekaterinodar în Rusia",
+    "given": "Ekaterinodar"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/76e897a3-f564-44d9-a51e-d742387cb0f7#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

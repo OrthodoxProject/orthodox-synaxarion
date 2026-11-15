@@ -1,0 +1,20 @@
+{
+  "id": "winebald",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Winebald, stareț la Saint-Loup-de-Troyes",
+    "short": "Winebald, stareț la Saint-Loup-de-Troyes",
+    "given": "Winebald"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/71e7870c-954e-4472-a9ed-461604aaf492",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

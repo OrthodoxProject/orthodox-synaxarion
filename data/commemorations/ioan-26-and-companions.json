@@ -1,0 +1,29 @@
+{
+  "id": "ioan-26-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:ioan-26",
+    "person:serghie-7",
+    "person:patrichie-2",
+    "person:anastasie-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 20
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/79feeca9-4bd4-476c-9541-5fb8e0dc0b1c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

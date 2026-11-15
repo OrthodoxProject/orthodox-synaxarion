@@ -1,0 +1,21 @@
+{
+  "id": "cedd-of-northumbria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Cedd, episcop de Northumbria în Anglia",
+    "full": "Sfântul Ierarh Cedd, episcop de Northumbria în Anglia",
+    "short": "Cedd, episcop de Northumbria în Anglia",
+    "given": "Cedd"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/cbd9635b-3155-4fdc-a6ae-1c09e8e5cf6c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

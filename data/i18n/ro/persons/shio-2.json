@@ -1,0 +1,21 @@
+{
+  "id": "shio-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Shio (sau Simeon), monah din Georgia",
+    "full": "Sfântul Cuvios Shio (sau Simeon), monah din Georgia",
+    "short": "Shio (sau Simeon), monah din Georgia",
+    "given": "Shio"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0c8cfd77-d872-49b7-8c4e-f41ed4d10b42",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "geminian-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Geminian, fiul său",
+    "full": "Sfântul Mucenic Geminian, fiul său",
+    "short": "Geminian, fiul său",
+    "given": "Geminian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a325b00a-28c7-4f57-bbb4-9d874354b3b0#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

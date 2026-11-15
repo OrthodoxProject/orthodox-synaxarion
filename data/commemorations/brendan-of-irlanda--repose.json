@@ -1,0 +1,26 @@
+{
+  "id": "brendan-of-irlanda--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:brendan-of-irlanda"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 29
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/71d34a57-1874-4bef-a285-e1ceb3d2633e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

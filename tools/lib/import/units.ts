@@ -4,16 +4,19 @@
  */
 import { parseEn } from "./en.ts";
 import type { HolinessType, ParsedTitle } from "./model.ts";
-import { parseRo } from "./ro.ts";
+import { cleanText } from "./html.ts";
+import { fold } from "./names.ts";
+import { parseRo, splitHonorifics } from "./ro.ts";
 import type { ArmenianEntry } from "./sources/armenian.ts";
 import { copticUrl, type CopticEntry } from "./sources/coptic.ts";
 import type { DoxologiaListing } from "./sources/doxologia.ts";
 import { entryUrl, ereligieTitle, type EReligieEntry } from "./sources/ereligie.ts";
 import type { OcaListing } from "./sources/oca.ts";
 import type { OverlayEntry } from "./sources/orthodox-calendar.ts";
+import { entryUrl as ortodoxMdEntryUrl, ORTODOX_MD_YEARS, type OrtodoxMdEntry } from "./sources/ortodox-md.ts";
 import type { PatriarhiaDay, PatriarhiaItem } from "./sources/patriarhia.ts";
 
-export type SourceKey = "doxologia" | "patriarhia" | "oca" | "coptic" | "armenian" | "overlay" | "ereligie";
+export type SourceKey = "doxologia" | "patriarhia" | "oca" | "coptic" | "armenian" | "overlay" | "ortodoxmd" | "ereligie";
 export type Family = "byzantine" | "coptic" | "armenian";
 
 export interface Citation {
@@ -44,6 +47,8 @@ export interface Unit {
   tradition?: string;
   /** For the lists of Julian-calendar Churches: the civil date as listed (month and day are the Menaion date). */
   listed?: { month: number; day: number };
+  /** For calendar.ortodox.md: the years its title gives in parentheses ("1576"), which tell the same saint listed twice a day. */
+  dated?: string[];
   /** The kind of holiness comes from the list's "feast_type", not from the title. */
   holinessFromList?: boolean;
   armenianMonth?: string;
@@ -78,6 +83,20 @@ export interface SourceData {
   overlays: OverlayEntry[];
   /** The synaxarion of e-religie.ro, read only to cite it (see Builder.cite). */
   ereligie?: EReligieEntry[];
+  /** The calendar of the Orthodox Church of Moldova (calendar.ortodox.md), on the old style. */
+  ortodoxMd?: OrtodoxMdEntry[];
+}
+
+/**
+ * Sources read after all the others (calendar.ortodox.md, see Builder.moldova): the records known only from them are
+ * looked for only from that step on, so that the other sources match the same records whether or not an earlier
+ * import already added them, and a second import writes nothing.
+ */
+export const LATE_SOURCES = new Set(["src:calendar-ortodox-md"]);
+
+/** Whether a record's sources are all sources read last. */
+export function onlyLate(sources: Array<{ source?: string }> | undefined): boolean {
+  return (sources ?? []).length > 0 && (sources ?? []).every((s) => LATE_SOURCES.has(s.source ?? ""));
 }
 
 export function mmdd(month: number, day: number): string {
@@ -486,4 +505,407 @@ export function overlayUnits(data: SourceData): Unit[] {
     if (e.url) unit.url = e.url;
     return unit;
   });
+}
+
+/**
+ * The fixed commemorations of calendar.ortodox.md, on their old-style day (the Menaion date): an entry is fixed when
+ * it is on the same old-style day in every year read. An entry found only on 29 February (2028), or on 28 February
+ * in a common year and on 29 February in a leap year, is kept on 29 February. The others move with Pascha (the
+ * Sundays, the weeks, the synaxes kept on a Sunday) or have no day (the page of Pascha lists thousands of them).
+ */
+export function ortodoxMdUnits(data: SourceData, years: number[] = ORTODOX_MD_YEARS): Unit[] {
+  const byId = new Map<string, OrtodoxMdEntry[]>();
+  for (const listed of data.ortodoxMd ?? []) {
+    // In a leap year the site lists the saints of 16–28 February one day later (17 February … 29 February).
+    const e = listed.year % 4 === 0 && listed.month === 2 && listed.day >= 17 ? { ...listed, day: listed.day - 1 } : listed;
+    const list = byId.get(e.id) ?? [];
+    list.push(e);
+    byId.set(e.id, list);
+  }
+  const units: Unit[] = [];
+  for (const [id, entries] of byId) {
+    const dates = new Set(entries.map((e) => mmdd(e.month, e.day)));
+    const on = (year: number): Set<string> => new Set(entries.filter((e) => e.year === year).map((e) => mmdd(e.month, e.day)));
+    const shared = [...dates].filter((d) => years.every((y) => on(y).has(d)));
+    let fixed: string | undefined;
+    let leapDay = false;
+    if (shared.length === 1) fixed = shared[0];
+    else if (shared.length === 0 && [...dates].every((d) => d === "02-28" || d === "02-29") && dates.has("02-29") && years.every((y) => on(y).size === 1)) {
+      fixed = "02-29";
+      leapDay = true;
+    }
+    if (!fixed) continue;
+    const [month, day] = fixed.split("-").map(Number);
+    const listing = entries.find((e) => mmdd(e.month, e.day) === fixed) ?? entries[0];
+    if (!listing) continue;
+    const url = ortodoxMdEntryUrl(id);
+    const dated = [...listing.title.matchAll(/\(([^()]*)\)/g)].flatMap((m) => (m[1] ?? "").match(/\d{3,4}/g) ?? []);
+    // "Sfântul Mucenic Uar din Egipt. Sfânta fericită Cleopatra și fiul său Ioan din Egipt": two lines in one.
+    const titles = listing.title
+      .split(/\.\s+(?=(?:Sfântul|Sfânta|Sfinții|Sfintele|Cuviosul|Cuvioasa)\s)/u)
+      .flatMap((raw) => iconsOfLine(raw) ?? [raw])
+      .flatMap((raw) => splitOrtodoxMdTitle(cleanOrtodoxMdTitle(raw)));
+    titles.forEach((title, k) => {
+      // Each commemoration of a line has a link of its own (the second is "…#2"), so that a later import finds each.
+      const link = k === 0 ? url : `${url}#${k + 1}`;
+      const unit: Unit = {
+        uid: k === 0 ? `ortodoxmd:${id}` : `ortodoxmd:${id}#${k}`,
+        source: "ortodoxmd",
+        family: "byzantine",
+        lang: "ro",
+        title,
+        parsed: parseOrtodoxMd(title),
+        month: month ?? 0,
+        day: day ?? 0,
+        order: listing.order + k / 10,
+        url: link,
+        citation: { source: "src:calendar-ortodox-md", url: link, accessed: data.accessed },
+        ext: {},
+      };
+      if (dated.length > 0) unit.dated = [...new Set(dated)];
+      if (leapDay) unit.leapDay = true;
+      units.push(unit);
+    });
+  }
+  return units.sort((a, b) => a.month - b.month || a.day - b.day || a.order - b.order);
+}
+
+/** Honorifics in the genitive at the start of a part, and their nominative. */
+const GENITIVE_START: Array<[RegExp, string]> = [
+  [/^Sfântului /u, "Sfântul "],
+  [/^Sfintei Mucenițe /u, "Sfânta Muceniță "],
+  [/^Sfintei Cuvioase /u, "Sfânta Cuvioasă "],
+  [/^Sfintei /u, "Sfânta "],
+  [/^Sfinților /u, "Sfinții "],
+  [/^Sfintelor /u, "Sfintele "],
+  [/^Cuviosului /u, "Cuviosul "],
+  [/^Cuvioasei /u, "Cuvioasa "],
+  [/^Cuvioșilor /u, "Cuvioșii "],
+  [/^Dreptului /u, "Dreptul "],
+  [/^Dreptei /u, "Dreapta "],
+];
+
+/**
+ * The commemorations that one line of the site joins, each with its honorifics: "Sfântul Ierarh Erhard, episcop de
+ * Regensburg în Bavaria, a Sfântului Mucenic Avo din Tbilisi în Georgia, și a Sfântului Ierarh Grigor, episcop de
+ * Ohrida" is three saints, "Sfântul Mucenic Codrat din Nicomidia și Sfinții Mucenici Saturnin, Rufin și ceilalți" two
+ * lines. A relative named by an honorific in the genitive ("ucenicul Sfântului Ioan de la Rila") is not a part.
+ */
+export function splitOrtodoxMdTitle(title: string): string[] {
+  // The saints an event names are its own, not lines of theirs: "Pomenirea punerii moaștelor … Sfinților Apostoli: Luca,
+  // Andrei și Toma, a Sfântului Prooroc Elisei și a Sfântului Sfințit Mucenic Lazăr".
+  if (/^(?:Pomenirea|Proslăvirea|Canonizarea|Soborul|Cinstirea|Târnosirea|Sfințirea|Înnoirea|Minunea|Arătarea|Scoaterea|Întâlnirea|Aducerea|Mutarea|Așezarea|Aflarea)\s/u.test(title)) return [title];
+  // "Sfântul și Dreptul Simeon" is one saint, the "Sf. și Drept. Simeon" of the official calendar.
+  const parts = title.split(/(?:,\s+(?:și\s+)?|(?<!(?:^|\s)(?:Sfântul|Sfânta|Sfinții|Sfântului|Sfintei|Sfinților))\s+și\s+)(?:a\s+)?(?=(?:Sfântul|Sfânta|Sfinții|Sfintele|Sfântului|Sfintei|Sfinților|Sfintelor|Cuviosul|Cuvioasa|Cuvioșii|Cuviosului|Cuvioasei|Cuvioșilor|Dreptul|Dreapta|Dreptului|Dreptei)\s+[\p{Lu}\d])/u);
+  if (parts.length === 1) return parts;
+  return parts
+    .map((part, i) => {
+      if (i === 0) return part;
+      let p = part;
+      for (const [re, to] of GENITIVE_START) p = p.replace(re, to);
+      return cleanOrtodoxMdTitle(p);
+    })
+    .filter((p) => p.length > 0);
+}
+
+/** parseRo, with the other events of the site as events ("Aducerea cinstitului veșmânt al Domnului … la Moscova"). */
+function parseOrtodoxMd(title: string): ParsedTitle {
+  // The readings of the day: "1 Cor. I, 18-24. Ioan XIX, 6-11", "Gal. IV, 4-7".
+  if (/^(?:\d\s+)?\p{Lu}\p{Ll}*\.?\s+[IVXLC]+[,.]\s*\d/u.test(title)) return { kind: "skip", holiness: [], plural: false, honorific: "", rest: title, names: [], title };
+  const p = parseRo(title);
+  if (p.kind === "skip" && /^(?:Aducerea|Așezarea|Scoaterea|Arătarea|Sfințirea|Înnoirea|Târnosirea|Minunea|Pomenirea)\s/u.test(title)) return { ...p, kind: "event" };
+  return p;
+}
+
+/** A note in parentheses that dates a saint: "(+341)", "(+ 320)", "(XVI)", "(sec. I)", "(apr. 450)", "(Italia, sec. V)", "(1751 sau 1651)". */
+function isDateNote(inner: string): boolean {
+  return /\d/.test(inner) || /\bsec(?:\.|olul)\s*[IVXL]+/i.test(inner) || /^\s*[IVXL]+(?:\s*[-–]\s*[IVXL]+)?\s*(?:î\.\s*Hr\.?)?\s*$/.test(inner);
+}
+
+/** The site's other spellings and slips: "Sfîntul", "Sfinta", "moastelor", "Bine-credincioasa", "Vasile(Smirnov)". */
+const MD_SPELLING: Array<[RegExp, string]> = [
+  [/Sfînt/g, "Sfânt"],
+  [/(?<![\p{L}])Sfinta(?= \p{Lu})/gu, "Sfânta"],
+  [/(?<![\p{L}])Sîmbăt/gu, "Sâmbăt"],
+  [/dîns/g, "dâns"],
+  [/moastel/g, "moaștel"],
+  [/Sfintilor/g, "Sfinților"],
+  [/(?<![\p{L}])([Bb])ine-credincio/gu, "$1inecredincio"],
+  [/(\p{L})\(/gu, "$1 ("],
+  [/^(Sfinții|Sfintele|Sfinți)\s+noi\s/u, "$1 Noi "],
+  // "Sfântul și Dreptului Iezechia", "Sfânta Cuvioase Gertrude", "Sfânta Mucenițe Teodota", "kneaz".
+  [/(?<![\p{L}])Sfântul și Dreptului(?![\p{L}])/gu, "Sfântul și Dreptul"],
+  [/(?<![\p{L}])Sfânta Cuvioase Mucenițe(?= \p{Lu})/gu, "Sfânta Cuvioasă Muceniță"],
+  [/(?<![\p{L}])Sfânta Cuvioase(?= \p{Lu})/gu, "Sfânta Cuvioasă"],
+  [/(?<![\p{L}])Sfânta Mucenițe(?= \p{Lu})/gu, "Sfânta Muceniță"],
+  [/(?<![\p{L}])kneaz/gu, "cneaz"],
+  [/^Mutărea /u, "Mutarea "],
+  // "Sfinții Cuvioși Români: Vasile de la Moldovița, …": the nation is not a name.
+  [/^((?:Sfinții|Sfintele)(?: \p{Lu}\p{Ll}+)*) (?:Români|Ruși|Greci|Sârbi|Georgieni|Bulgari)(?=:)/u, "$1"],
+  // A quote opened at the start and never closed: "„Sfinții Sfințiți Noi Mucenici din Rusia: …".
+  [/^[„“”"](?=[^„“”"]*$)/u, ""],
+];
+
+/** Without the parentheses that the site opened and never closed, or closed without opening ("Liubov), maica lor"). */
+function balanced(text: string): string {
+  let depth = 0;
+  const out: string[] = [];
+  for (const c of text) {
+    if (c === "(") depth++;
+    if (c === ")") {
+      if (depth === 0) continue;
+      depth--;
+    }
+    out.push(c);
+  }
+  let s = out.join("");
+  while (depth-- > 0) s = s.replace(/\s*\((?![^(]*\))/u, " ");
+  return s;
+}
+
+/** The Theotokos and the Cross as the feasts of the official calendar name them. */
+const MD_NAMES: Array<[RegExp, string]> = [
+  [/(?<![\p{L}])Preasfintei (?:Stăpânei noastre,? )?(?:de Dumnezeu )?Născătoare[ai]?(?: de Dumnezeu)?(?:,? și [Pp]ururea Fecioar(?:ei|a) Maria)?(?![\p{L}])/gu, "Maicii Domnului"],
+  [/(?<![\p{L}])[Cc]institei (?:și de viață făcătoarei )?Cruci(?![\p{L}])/gu, "Sfintei Cruci"],
+];
+
+/** Feasts that the site writes otherwise than the official calendar. */
+const MD_FEASTS: Array<[RegExp, string]> = [
+  [/^Nașterea Maicii Domnului.*$/u, "Nașterea Maicii Domnului"],
+  [/^(?:Cinstita )?Adormire(?:a)? (?:a )?Maicii Domnului.*$/u, "Adormirea Maicii Domnului"],
+  [/^Nașterea [^,]*?Ioan(?![\p{L}]).*$/u, "Nașterea Sfântului Ioan Botezătorul"],
+  [/^Tăierea [Cc]apului .*Ioan(?![\p{L}]).*$/u, "Tăierea capului Sfântului Ioan Botezătorul"],
+  [/^Zămislirea .*?(?:Înaintemergăt|Botezăt)\p{L}*.*Ioan(?![\p{L}]).*$/u, "Zămislirea Sfântului Ioan Botezătorul"],
+  [/^Așezarea .*[Vv]eșmânt\p{L}* al Maicii Domnului.*$/u, "Așezarea veșmântului Maicii Domnului"],
+  [/^Așezarea .*br[âa]u\p{L}* al Maicii Domnului.*$/u, "Așezarea cinstitului brâu al Maicii Domnului"],
+  [/^((?:Întâia|Prima|A doua|A treia)(?: și a doua)? aflare a )(?:[Cc]institului )?[Cc]ap(?:ului)?(?: al)? /u, "$1capului "],
+  [/^Înainte[ -]?[Pp]răznuirea /u, "Înainte-prăznuirea "],
+  [/^După[ -]?[Pp]răznuirea /u, "După-prăznuirea "],
+  [/^Pomenirea (?:celor \d+ )?Sfin(?:ților|ți) Părinți de la Sinodul/u, "Sfinții Părinți de la Sinodul"],
+  [/^.*[Ll]anțuri\p{L}* ale Sfântului Apostol Petru.*$/u, "Cinstirea lanțului Sfântului Apostol Petru"],
+  [/^Pomenirea arătării pe cer a semnului Sfintei Cruci.*$/u, "Arătarea pe cer a semnului Sfintei Cruci"],
+  [/^Pomenirea arătării minunii .*Arhanghel Mihail la Colose.*$/u, "Pomenirea minunii din Colose a Sfântului Arhanghel Mihail"],
+  // Relics: "Pomenirea aducerii moaștelor …", "Mutarea cinstitelor moaște ale …", "Aducerea moaștelor în Răsărit a …".
+  [/^Pomenirea (aducerii|mutării|aflării)(?: aducerii)? (?:cinstitelor |sfintelor )?moaștelor:? /u, "$1 moaștelor "],
+  [/^aducerii /u, "Aducerea "],
+  [/^mutării /u, "Mutarea "],
+  [/^aflării /u, "Aflarea "],
+  [/^(Aducerea|Mutarea|Aflarea) cinstitelor moaște ale /u, "$1 moaștelor "],
+  [/^(Aducerea|Mutarea|Aflarea) moaștelor (?:în|la) [^,]+? a /u, "$1 moaștelor "],
+  // The saint's own day: "Pomenirea Sfântul Cuvios Vasian din Uglici", "Pomenirea adormirii Cuviosului Arhimandrit Cleopa".
+  [/^Pomenirea (?:adormirii )?(?=(?:Sfântul|Sfânta|Sfinții|Sfintele|Cuviosul|Cuvioasa|Sfântului|Sfintei|Sfinților|Sfintelor|Cuviosului|Cuvioasei|Dreptului|Dreptei)\s)/u, ""],
+  [/^Sinaxa /u, "Soborul "],
+  [/^Soborului /u, "Soborul "],
+  // The synaxes of the feasts as the official calendar names them, and the groups of the others in the nominative
+  // ("Soborul Noilor Mucenici din Creta" is that of the Holy New Martyrs of Crete).
+  [/^Prăznuirea Soborului /u, "Soborul "],
+  [/^Soborul Preacuratei Fecioare Maria, Născătoarea de Dumnezeu.*$/u, "Soborul Maicii Domnului"],
+  [/^Soborul Sfântului, [Ss]lăvitului Pro?oroc, Înaintemergătorului și Botezătorului Ioan.*$/u, "Soborul Sfântului Prooroc Ioan Botezătorul"],
+  [/^Soborul (?:Sfinților )?mai marilor Arhistrategi Mihail [sș]i Gavriil.*$/u, "Soborul Sfinților Arhangheli Mihail și Gavriil"],
+  [/^Soborul (?:[Tt]uturor )?[Nn]oilor (?:Mucenici|Martiri)(?![\p{L}])/u, "Soborul Sfinților Noi Mucenici"],
+  [/^Soborul (?:[Tt]uturor )?[Pp]rimilor Mucenici(?![\p{L}])/u, "Soborul Sfinților Primi Mucenici"],
+  [/^Soborul (?:[Tt]uturor )?celor (\d+) de Noi Mucenici(?![\p{L}])/u, "Soborul Sfinților $1 Noi Mucenici"],
+  [/^Soborul (?:[Tt]uturor )?celor (\d+) de Sfinți(?![\p{L}])/u, "Soborul Sfinților $1"],
+  [/^Soborul (?:[Tt]uturor )?patriarhilor (?:de|ai) Ierusalim\p{L}*/u, "Soborul Sfinților Patriarhi ai Ierusalimului"],
+  [/^Soborul (?:[Tt]uturor )?Sfintelor /u, "Soborul Sfintele "],
+  [/^Soborul (?:[Tt]uturor )?[Dd]repților /u, "Soborul Drepții "],
+];
+
+/** The honorifics of a relics line in the official calendar's abbreviations, which the genitive leaves alike. */
+const RELICS_HONORIFICS: Record<string, string> = Object.fromEntries(
+  Object.entries({
+    "Sf.": ["sfantul", "sfanta", "sfintii", "sfintele", "sfantului", "sfintei", "sfintilor", "sfintelor"],
+    Sfințit: ["sfintit", "sfintitul", "sfintitului"],
+    Sfințiți: ["sfintiti", "sfintitii", "sfintitilor"],
+    Mare: ["mare", "marele", "marelui", "marii"],
+    "Mc.": ["mucenic", "mucenicul", "mucenicului", "mucenita", "mucenite", "mucenitei", "mucenici", "mucenicii", "mucenicilor", "mucenitele", "mucenitelor"],
+    "Cuv.": ["cuvios", "cuviosul", "cuviosului", "cuvioasa", "cuvioase", "cuvioasei", "cuviosi", "cuviosii", "cuviosilor", "cuvioasele", "cuvioaselor", "preacuviosul", "preacuviosului", "preacuvioasa", "preacuvioasei"],
+    "Ier.": ["ierarh", "ierarhul", "ierarhului", "ierarhi", "ierarhii", "ierarhilor"],
+    "Ap.": ["apostol", "apostolul", "apostolului", "apostoli", "apostolii", "apostolilor"],
+    "Mărt.": ["marturisitor", "marturisitorul", "marturisitorului"],
+    Proroc: ["proroc", "prooroc", "prorocul", "proorocul", "prorocului", "proorocului"],
+    Drept: ["drept", "dreptul", "dreptului"],
+    Dreaptă: ["dreapta", "dreptei"],
+    Drepți: ["drepti", "dreptii", "dreptilor"],
+    Mironosiță: ["mironosita", "mironosite", "mironositei"],
+    Nou: ["nou", "noul", "noului"],
+    Nouă: ["noua"],
+    Noi: ["noi", "noii", "noilor"],
+  }).flatMap(([abbreviation, words]) => words.map((w) => [w, abbreviation])),
+);
+
+/**
+ * "Sfintei Cuvioase Matrona din Moscova" → "Sf. Cuv. Matrona din Moscova", "Sfântului și Dreptului Lazăr" → "Sf. și Drept.
+ * Lazăr", "Sfintelor Cuvioase: Alexandra, Marta și Elena" → "Sf. Cuv. Alexandra, Marta și Elena": the saint of a relics line
+ * as the official calendar writes it, whose honorifics read alike in the genitive and in the nominative.
+ */
+function abbreviatedHonorifics(text: string): string {
+  const words = text.split(/\s+/);
+  const key = (w: string): string => fold(w.replace(/[:,]$/, ""));
+  const out: string[] = [];
+  let i = 0;
+  for (; i < words.length; i++) {
+    const word = words[i] ?? "";
+    if (key(word) === "si" && out.length > 0 && RELICS_HONORIFICS[key(words[i + 1] ?? "")]) {
+      out.push("și");
+      continue;
+    }
+    const abbreviation = RELICS_HONORIFICS[key(word)];
+    if (!abbreviation) break;
+    out.push(abbreviation === "Drept" && out[out.length - 1] === "și" ? "Drept." : abbreviation);
+    if (/[:,]$/.test(word)) {
+      i++;
+      break;
+    }
+  }
+  return out.length === 0 ? text : `${out.join(" ")} ${words.slice(i).join(" ")}`.trim();
+}
+
+/**
+ * "Icoanele Maicii Domnului: din Tabânsk și „Oranta” (Znamenie)", "Icoanele Maicii Domnului: de la Pskovo-Pecerska, numită
+ * ”Umilenie” (1524); numită ”Lumânare nestinsă” (+1894)": one line for each icon.
+ */
+export function iconsOfLine(raw: string): string[] | undefined {
+  const many = /^Icoanele (Maicii Domnului|Mântuitorului)(?::\s*|\s+(?=(?:de la|din)\s))(.+)$/u.exec(raw.trim());
+  if (!many) return undefined;
+  const [, whose = "", rest = ""] = many;
+  let items = rest.split(/\s*;\s*(?:și\s+)?/u);
+  if (items.length === 1) items = rest.split(/\s+și\s+(?=(?:de la|din|numită)\s|[„“”"])/u);
+  if (items.length < 2) return undefined;
+  // "Adormirii, de la Kievo-Pecerska": the icon of the Dormition.
+  return items.map((item) => `Icoana ${whose} ${/^\p{Lu}\p{L}*ii(?![\p{L}])/u.test(item) ? "a " : ""}${item.trim()}`);
+}
+
+/** Offices and states before a name in the lists of the new martyrs ("episcopul Victorin și preoții: Anania …"). */
+const MD_ROLES =
+  "(?:arhi)?episcop(?:ul|ii)|mitropolit(?:ul|ii)|protopresbiter(?:ul|ii)|protoiere(?:ul|ii)|preo(?:tul|ții)|prezbiter(?:ul|ii)|protodiacon(?:ul|ii)|arhidiacon(?:ul)|ierodiacon(?:ul|ii)|diacon(?:ul|ii|ița)|ieroschimonah(?:ul|ii)|ieromonah(?:ul|ii)|schimonah(?:ul|ia|ii)|schiarhimandrit(?:ul)|arhimandrit(?:ul|ii)|[ie]gumen(?:ul|a)|starețul|stareța|monah(?:ul|ii|ia|iile)|călugăr(?:ul|ița|ii)|rasofor(?:ul|ii)|ipodiacon(?:ul|ii)|citeț(?:ul|ii)|psalt(?:ul|ii)|cântăreț(?:ul|ii)|paracliser(?:ul)|novic(?:ele|ea|ii)|poslușnic(?:ul|a|ii)|fecioar(?:a|ele)|soldat(?:ul|ii)|ostaș(?:ul|ii)|mirean(?:ul|a)|miren(?:ii|ele)|(?:bine)?credincio(?:sul|asa|șii|asele)(?: creștin(?:ul|a|ă|ii|i|e|ele)?)?|creștin(?:ul|a|ii|ele)|învățător(?:ul|ii)|țăran(?:ul|ii)";
+/** Names that end like a genitive ("Andrei" is not "Romei"). */
+const NAMES_IN_EI = new Set(["andrei", "matei", "timotei", "filotei", "dorotei", "ierotei", "bartolomei", "alexei", "serghei", "zebedei", "pantelei", "elisei", "mihei", "tadei"]);
+
+/**
+ * Without the words that describe the saints between the honorifics and the first name ("Sfinții Mucenici pruncii Iacob și
+ * Ioan", "Sfântul Ierarh cărturar Varlaam", "Sfinții Cuvioși egumenii: Amfilohie …", "Sfinții Împărați întocmai cu Apostolii
+ * și primii împărați creștini Constantin …"), but with a place ("Sfinții Mucenici din Litva, Antonie, Ioan și Eustatie", whose
+ * place goes after the names).
+ */
+function withoutDescriptors(t: string): string {
+  const h = splitHonorifics(t);
+  if (!h.honorific || h.count !== undefined) return t;
+  const place = /^((?:din|de la) \p{Lu}[^,:]*),? (\p{Lu}[^,]*(?:,|\s+și\s+).*)$/u.exec(h.rest);
+  if (place) return `${h.honorific} ${place[2]} ${place[1]}`;
+  const words = /^((?:\p{Ll}[\p{L}-]*[,:]?\s+)+)(?=\p{Lu})/u.exec(h.rest);
+  if (!words?.[1] || /^(?:din|de|dintre|ai|ale|al|a|la|de la|de pe)\s+$/u.test(words[1])) return t;
+  // The colon of a list stays: "Sfinții Sfințiți Mucenici: episcopii: Petru și Leon, preoții: …" (see withoutRoles).
+  return `${h.honorific}${/:\s*$/.test(words[1]) ? ":" : ""} ${h.rest.slice(words[1].length)}`;
+}
+
+/** Removes the offices before the names of a list, but not before a see ("Marcel, episcopul Siciliei"). */
+function withoutRoles(list: string): string {
+  return list.replace(new RegExp(`(?<![\\p{L}])(?:${MD_ROLES})(?![\\p{L}])\\s*:?\\s+(?=(\\p{Lu}[\\p{L}-]*))`, "giu"), (whole, next: string) => {
+    const f = fold(next);
+    return /(?:ului|ilor|iei|ei)$/.test(f) && !NAMES_IN_EI.has(f) ? whole : "";
+  });
+}
+
+/**
+ * A title of calendar.ortodox.md in the wording that parseRo reads: without the years and centuries in parentheses,
+ * the fasting notes, "Părintele nostru", and the clauses that tell what happened to the saints ("…, care au pătimit în
+ * timpul regimului comunist", "…, săvârșit prin sabie"); "dimpreună cu …" as "și cei împreună cu …"; the lists of
+ * the new martyrs without the offices before their names and with their place after them ("Sfinții Sfințiți Noi
+ * Mucenici din Rusia: episcopul Victorin și preoții: Anania (Aristov), …" → "Sfinții Sfințiți Noi Mucenici Victorin
+ * și Anania (Aristov), … din Rusia"); the feasts, icons and relics as the official calendar writes them.
+ */
+export function cleanOrtodoxMdTitle(title: string): string {
+  // Names in quotes stay as written ("Cea care alăptează", "Zid neclintit"): they are set aside while the rules run.
+  const quoted: string[] = [];
+  let t = cleanText(title).replace(/[„“”"][^„“”"]+[”“"]/gu, (whole) => String.fromCharCode(0xe000 + quoted.push(whole) - 1));
+  for (const [re, to] of MD_SPELLING) t = t.replace(re, to);
+  t = t.replace(/[.,;]?\s*(?:ZI FĂRĂ POST|Zi fără post|Post aspru|Dezlegare la [^.]*)\.?\s*$/iu, "");
+  // Years, notes, and lists of other names ("Pistis, Elpis și Agapis (Vera, Nadejda, Liubov)") in parentheses go.
+  t = t.replace(/\s*\(([^()]*)\)/g, (whole, inner: string) => (isDateNote(inner) || /Sărbătoare|schimbătoare|,/i.test(inner) ? "" : whole));
+  // A parenthesis with a year that the site never closed: "Serghie(+1938, și Alexandru", "Gheorghe, Grecia(1805,1818".
+  t = balanced(t.replace(/\s*\(\s*\+?\s*\d{3,4}[^()]*?(?=[,;]\s*\p{L}|$)/gu, ""));
+  // Not inside parentheses: "Icoana Maicii Domnului „Epakouousa” (Cea care ascultă) de la Mănăstirea Zografu".
+  for (const m of t.matchAll(/,?\s+(?:și\s+)?care[\s,]/giu)) {
+    const before = t.slice(0, m.index);
+    if ((before.match(/\(/g) ?? []).length > (before.match(/\)/g) ?? []).length) continue;
+    t = before;
+    break;
+  }
+  // Companions counted, not named: "… și 3 mucenici soldați", "…, alți 40 de mucenici", "… împreună cu 12 fecioare
+  // mucenițe și 6 credincioși", "…, 4 dintre părinții uciși de arabi".
+  t = t.replace(/,\s+\d+\s+dintre\s.*$/u, "");
+  // Counted companions whom a colon then names stay: "…, cei 5 copii ai lor: Olga, Tatiana, Maria, Anastasia și Alexie".
+  t = t.replace(/(?:,\s*(?:dimpreună\s+)?(?:și\s+|împreună cu\s+|cu\s+)?|\s+(?:dimpreună\s+)?(?:și|împreună cu|cu)\s+)(?:cei\s+|cele\s+|alți\s+|alte\s+)?\d+(?:\.\d+)?\s+(?:de\s+)?\p{L}(?![^:]*:).*$/u, " și cei împreună cu ei");
+  t = t.replace(/^((?:Sfinții|Sfintele|Sfinți)(?:\s+\p{Lu}\p{Ll}+)*)\s+(?:și\s+)?(?:frați|surori)(?:\s+buni)?(?=[\s:,])/u, "$1");
+  t = t.replace(/,?\s*\+\s*\d{3,4}.*$/u, "");
+  t = t.replace(/^(Aflarea moaștelor), și a doua proslăvire a /u, "$1 ");
+  t = t.replace(/,?\s*(?:s-au\s+|s-a\s+)?săvârșit\p{L}*\s+(?:prin|de|în|cu)\s.*$/iu, "");
+  t = t.replace(/,?\s+în anul \d{3,4}.*$/u, "");
+  t = t.replace(/,?\s+în (?:vremea|timpul|zilele)\s.*$/u, "");
+  // "…, împreună pătimitori cu Sfinții Iona și Varahisiu": the saints named after are others; "…, dintre care: Teodul, …"
+  // names a few of a group.
+  t = t.replace(/,?\s+(?:împreună|dimpreună) pătimitori cu\s.*$/u, "");
+  t = t.replace(/,?\s+dintre care:?\s.*$/u, "");
+  t = t.replace(/,?\s+ce\s+(?:a|au)\s.*$/u, "");
+  t = t.replace(/(?<![\p{L}])cu dâns(ul|a|ii|ele)(?![\p{L}])/gu, (_, end: string) => `cu ${({ ul: "el", a: "ea", ii: "ei", ele: "ele" } as Record<string, string>)[end] ?? "el"}`);
+  // A Russian monastery and its region: "din Koriajemsk-Vologda" is "Koryazhemsk, Vologda".
+  // The icons keep their double names ("Șuia-Smolensk").
+  if (!/[Ii]coan/u.test(t)) t = t.replace(/(?<=(?:din|de la|de) \p{Lu}\p{L}+)-(?:Vologda|Novgorod|Pskov|Kostroma|Iaroslavl|Yaroslavl|Tver|Riazan|Moscova|Perm|Kaluga|Tula|Olonets|Arhanghelsk|Kursk|Orel|Voronej)(?![\p{L}])/gu, "");
+  t = t.replace(/(?<![\p{L}])(?:[Pp]ărintele|[Pp]ărinții|[Mm]aica) (?:nostru|noștri|noastră)(?![\p{L}])\s*/gu, "");
+  for (const [re, to] of MD_NAMES) t = t.replace(re, to);
+  for (const [re, to] of MD_FEASTS) t = t.replace(re, to);
+  const plural = /^(?:Sfinții|Sfinți|Sfintele|Sfinte|Cuvioșii|Cuvioasele|Preacuvioșii)\s/u.test(t);
+  t = t.replace(/,?\s+(?:și\s+)?(?:cei\s+|cele\s+)?dimpreună cu\s.*$/iu, plural ? " și cei împreună cu ei" : " și cei împreună cu el");
+  // Icons: "Icoana făcătoare de minuni a Maicii Domnului – Kasperovskaia", "Prăznuirea Sfintei Icoane a Maicii Domnului …".
+  t = t.replace(/^(?:(?:Prăznuirea|Cinstirea|Arătarea) (?:a )?)?(?:[Ss]fintei )?[Ii]coan(?:a|ei|e|ele)(?: [Ff]ăcătoare de minuni)? (?:a )?(Maicii Domnului|Mântuitorului),?\s*(?:[–-]\s*)?(?:numită\s+)?/u, "Cinstirea Icoanei $1 ");
+  t = t.replace(/^[Ii]coana ([^,]+?) a (Maicii Domnului|Mântuitorului),?\s*/u, "Cinstirea Icoanei $2 $1 ");
+  t = t.replace(/^(Cinstirea Icoanei Maicii Domnului) din orașul /u, "$1 din ");
+  // Relics: "Aducerea în Constantinopol a moaștelor sfântului mucenic Epimah", "A doua mutare a moaștelor …".
+  t = t.replace(/^(?:Prima|Întâia|A doua|A treia) (aducere|mutare|aflare) a (?=(?:sfintelor |cinstitelor )?moaștelor)/u, (_, w: string) => `${w[0]?.toUpperCase()}${w.slice(1)}a `);
+  t = t.replace(/^(Aducerea|Mutarea|Așezarea|Aflarea)(?: și mutarea)? (?:(?:în|la|de la|din) [^,]+? a )?(?:sfintelor |cinstitelor )?[Mm]oaștelor:? /u, "$1 moaștelor ");
+  t = t.replace(/^(Aducerea|Mutarea|Așezarea|Aflarea|Pomenirea|Soborul|Proslăvirea|Canonizarea) (.*)$/u, (_, verb: string, rest: string) => `${verb} ${rest.replace(/(?<![\p{L}])(sfântului|sfintei|sfinților|sfintelor|sfânta|sfântul|sfinții|cuviosului|cuvioasei|cuvioșilor|mucenicului|muceniței|mucenicilor|ierarhului|apostolului|proorocului|prorocului|dreptului|dreptei|binecredinciosului|binecredincioasei|împăratului|împărătesei|sfințitului|slăvitului|cinstitului)(?![\p{L}])/gu, (w) => `${w[0]?.toUpperCase()}${w.slice(1)}`)}`);
+  // The saint of a relics line or a glorification with the honorifics of the official calendar; in a synaxis, the
+  // saints named in the genitive after the first word keep it ("Soborul Sfinților de la Mănăstirea Sf. Onufrie").
+  // The saints named after him stay in the genitive ("tatăl Sf. Ioan Botezătorul"), and his place stays: "de la Optina"
+  // at the end would read as where the relics went.
+  t = t.replace(/^((?:Aducerea|Mutarea|Așezarea|Aflarea) moaștelor|Proslăvirea|Canonizarea) (.*)$/u, (_, head: string, rest: string) =>
+    `${head} ${abbreviatedHonorifics(rest)
+      .replace(/(?<=\s)(?:Sfântului|Sfintei)(?![\p{L}])/gu, "Sf.")
+      .replace(/,?\s+(?:în|la) (?:orașul|cetatea|insula)\s.*$/u, "")
+      // "…, și a fiilor lui, David și Constantin", "… și a fiicei sale, Teopisti": the relics of the saint's kin go with his.
+      .replace(/,?\s+și a (?:fiilor|fiicei|fiului|fratelui|soției|ucenicului|ucenicilor)\s.*$/u, "")
+      .replace(/\s+de la (\p{Lu}[\p{L}-]*(?:\s+\p{Lu}[\p{L}-]*)*)$/u, " din $1")}`,
+  );
+  t = t.replace(/^(Soborul\s+\S+)(.*)$/u, (_, head: string, rest: string) => `${head}${rest.replace(/(?<![\p{L}])(?:Sfântului|Sfintei)(?![\p{L}])/gu, "Sf.")}`);
+  // A genitive at the start ("Sfinților Apostoli …"), the Seventy ("Sfinții Apostoli din cei 70: …"), the words of praise
+  // ("Sfântul, Slăvitul și întru tot lăudatul Apostol Andrei", "Sfântul și purtătorul de Dumnezeu Naum").
+  for (const [re, to] of GENITIVE_START) t = t.replace(re, to);
+  t = t.replace(/\s+(?:din|dintre) cei (?:70|72|șaptezeci)(?=[\s,:])/u, "");
+  t = t.replace(/^(Sfântul|Sfânta),? Slăvitul și întru tot lăudatul /u, "$1 ").replace(/^(Sfântul|Sfânta) și purtătorul de Dumnezeu /u, "$1 ");
+  t = withoutDescriptors(t);
+  // Honorifics inside a list: "și fiii săi, Sfinții: Ștefan Milutin și Dragutin", "fiii săi: Mucenicii Boris și Nicolae".
+  t = t.replace(/(?<=:\s*)(?:Sfinții|Sfântul|Sfânta|Sfintele|Mucenicii|Mucenițele|Cuvioșii)(?:\s+(?:Mucenici|Mucenic|Muceniță|Mucenițe|Cuvioși|Sfințiți))*\s+(?=\p{Lu})/gu, "");
+  t = t.replace(/,?\s+(?:Sfinții|Sfintele):\s+/gu, " ");
+  // Lists: the offices before the names go, the place before the colon goes after the names.
+  const list = /^((?:Sfinții|Sfintele|Sfinți|Sfinte|Sfântul|Sfânta|Cuvioșii|Preacuvioșii|Cuviosul|Cuvioasa)(?:\s+(?:\p{Lu}[\p{Ll}-]*|și|fără|de|fecioare))*?)(?:\s+(?:și\s+)?(?:frați|surori)(?:\s+buni)?)?(?:\s+(din(?! cei)\s[^:]+?|din cei (?:70|șaptezeci)))?\s*:\s*(.+)$/u.exec(t);
+  if (list) {
+    const [, honorific = "", place, rest = ""] = list;
+    const names = withoutRoles(rest).replace(/^(?:și\s+)/, "");
+    t = `${honorific} ${names}${place && !/^din cei/.test(place) ? ` ${place}` : ""}`;
+  } else if (/(?<![\p{L}])No(?:i|u|uă) Mucenic/u.test(t)) t = withoutRoles(t);
+  // A plural list does not end with what all of them were: "…, prezbiteri", "…, mari dascăli și învățători ai lumii".
+  const all = /^(?:Sfinții|Sfinți|Sfintele|Sfinte|Cuvioșii|Preacuvioșii)\s/u.test(t) ? /,\s+\p{Ll}[\p{L}-]*[ie](?=[\s,]|$)([^,]*)$/u.exec(t) : null;
+  if (all) {
+    // The place stays: "Macarie, Rufin, Just și Teofil, olari din Roma" → "… și Teofil din Roma".
+    const place = /(?<![\p{L}])(?:din|de la) \p{Lu}.*$/u.exec(all[1] ?? "");
+    t = `${t.slice(0, all.index)}${place ? ` ${place[0]}` : ""}`;
+  }
+  t = t.replace(/[-]/gu, (c) => quoted[c.charCodeAt(0) - 0xe000] ?? "");
+  // "pomenirea punerii moaștelor …", "Icoana Maicii Domnului , numită …".
+  return cleanSpaces(t.replace(/[\s,.;:]+$/, "").replace(/\s+([,;:])/g, "$1")).replace(/^\p{Ll}/u, (c) => c.toUpperCase());
+}
+
+function cleanSpaces(text: string): string {
+  return text.replace(/\s+/g, " ").trim();
 }

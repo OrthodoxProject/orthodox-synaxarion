@@ -1,0 +1,21 @@
+{
+  "id": "beuno",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Beuno, egumen la Clynnog în Anglia",
+    "full": "Sfântul Cuvios Beuno, egumen la Clynnog în Anglia",
+    "short": "Beuno, egumen la Clynnog în Anglia",
+    "given": "Beuno"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/21568bd2-88da-4e0b-9d78-107899b92e24",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

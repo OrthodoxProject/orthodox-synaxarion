@@ -1,0 +1,21 @@
+{
+  "id": "serenus-of-marseilles",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Serenus, episcop de Marseilles în Franța",
+    "full": "Sfântul Ierarh Serenus, episcop de Marseilles în Franța",
+    "short": "Serenus, episcop de Marseilles în Franța",
+    "given": "Serenus"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4546f779-eca1-42cd-991e-46a2b328d184",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

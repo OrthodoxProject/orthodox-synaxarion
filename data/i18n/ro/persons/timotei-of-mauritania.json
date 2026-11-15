@@ -1,0 +1,20 @@
+{
+  "id": "timotei-of-mauritania",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Timotei din Mauritania",
+    "short": "Timotei din Mauritania",
+    "given": "Timotei"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c20cc2bb-7f99-431d-8d0b-459b2d58a5c0",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

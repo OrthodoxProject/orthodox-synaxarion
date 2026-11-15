@@ -1,0 +1,23 @@
+{
+  "id": "icoana-a-maicii-domnului-grabnic-ajutatoarea",
+  "kind": "saint",
+  "gender": "female",
+  "holiness_types": [
+    "righteous"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/55943735-6ac7-45db-898b-a1a1f77a3cda",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat.",
+      "Chipul sfințeniei nu reiese din titlu; „righteous” e provizoriu."
+    ]
+  }
+}

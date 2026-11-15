@@ -1,0 +1,21 @@
+{
+  "id": "anastasie-of-paristrion-in-insula-cipru",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Anastasie din Paristrion în insula Cipru",
+    "full": "Sfântul Cuvios Anastasie din Paristrion în insula Cipru",
+    "short": "Anastasie din Paristrion în insula Cipru",
+    "given": "Anastasie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/73dcbbb2-a1f8-4ed4-863f-c065afe17cae",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "sabinian-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Sabinian, diacon la Mănăstirea Condat-Jura în Galia",
+    "full": "Sfântul Mucenic Sabinian, diacon la Mănăstirea Condat-Jura în Galia",
+    "short": "Sabinian, diacon la Mănăstirea Condat-Jura în Galia",
+    "given": "Sabinian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5b42ef76-d2d5-45d5-86c9-e8a8c68cf78a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

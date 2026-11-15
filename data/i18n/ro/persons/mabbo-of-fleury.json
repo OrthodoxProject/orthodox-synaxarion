@@ -1,0 +1,21 @@
+{
+  "id": "mabbo-of-fleury",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Mabbo, egumenul Mănăstirii din Fleury",
+    "full": "Sfântul Cuvios Mucenic Mabbo, egumenul Mănăstirii din Fleury",
+    "short": "Mabbo, egumenul Mănăstirii din Fleury",
+    "given": "Mabbo"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/781db178-ddc2-4421-8b72-51c3b1a8faf9",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

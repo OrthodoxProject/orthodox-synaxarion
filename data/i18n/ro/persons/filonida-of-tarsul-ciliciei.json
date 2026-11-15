@@ -1,0 +1,20 @@
+{
+  "id": "filonida-of-tarsul-ciliciei",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Filonida din Tarsul Ciliciei",
+    "short": "Filonida din Tarsul Ciliciei",
+    "given": "Filonida"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/878",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "secund-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici Secund, Enon și Chirion din Roma"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d80e322b-44b7-46a6-95c7-8ef4d4669659",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

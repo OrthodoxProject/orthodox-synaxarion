@@ -1,0 +1,21 @@
+{
+  "id": "olimpiadie-of-amelia-in-italia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Olimpiadie din Amelia în Italia",
+    "full": "Sfântul Mucenic Olimpiadie din Amelia în Italia",
+    "short": "Olimpiadie din Amelia în Italia",
+    "given": "Olimpiadie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3a50a4d9-a076-43c0-940a-8f2638c58fa0",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

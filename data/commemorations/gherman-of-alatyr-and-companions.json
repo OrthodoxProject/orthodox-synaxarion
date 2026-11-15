@@ -1,0 +1,37 @@
+{
+  "id": "gherman-of-alatyr-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:gherman-of-alatyr",
+    "person:ioan-81",
+    "person:ioan-82",
+    "person:nicolae-59",
+    "person:ioan-83",
+    "person:alexandru-49",
+    "person:leonid-6",
+    "person:zosima-6",
+    "person:pavel-40",
+    "person:mihail-42",
+    "person:petru-45",
+    "person:nicolae-of-rusia-13"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 20
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/911",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

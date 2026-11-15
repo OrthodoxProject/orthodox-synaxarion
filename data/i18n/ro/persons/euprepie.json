@@ -1,0 +1,21 @@
+{
+  "id": "euprepie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Euprepie, primul episcop de Verona în Italia",
+    "full": "Sfântul Ierarh Euprepie, primul episcop de Verona în Italia",
+    "short": "Euprepie, primul episcop de Verona în Italia",
+    "given": "Euprepie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0abdbe7d-0008-45c7-ba80-254b863cc59d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

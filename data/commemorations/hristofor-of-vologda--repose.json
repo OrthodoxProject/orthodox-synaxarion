@@ -1,0 +1,26 @@
+{
+  "id": "hristofor-of-vologda--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:hristofor-of-vologda"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 25
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3f5044ee-7f34-4c84-ba3a-b372820fc005",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

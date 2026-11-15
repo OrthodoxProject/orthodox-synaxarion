@@ -1,0 +1,20 @@
+{
+  "id": "macarie-7",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Macarie",
+    "short": "Macarie",
+    "given": "Macarie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/172fe3ca-8476-4bd8-a7e5-3bdcb0100bb9",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

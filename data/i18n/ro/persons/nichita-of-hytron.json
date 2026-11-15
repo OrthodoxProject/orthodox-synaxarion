@@ -1,0 +1,20 @@
+{
+  "id": "nichita-of-hytron",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Nichita, episcop de Hytron în Cipru",
+    "short": "Nichita, episcop de Hytron în Cipru",
+    "given": "Nichita"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b53aebb4-61f3-4212-b2a0-96742fb58a4d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

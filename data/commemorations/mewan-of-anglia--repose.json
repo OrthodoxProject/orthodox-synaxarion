@@ -1,0 +1,26 @@
+{
+  "id": "mewan-of-anglia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:mewan-of-anglia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 21
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8f5dbdd4-be74-4377-ab9c-150c2a173440",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

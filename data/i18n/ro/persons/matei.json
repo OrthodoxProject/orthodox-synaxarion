@@ -1,0 +1,21 @@
+{
+  "id": "matei",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Matei, ieromonah din Yaramsk în Rusia",
+    "full": "Sfântul Cuvios Matei, ieromonah din Yaramsk în Rusia",
+    "short": "Matei, ieromonah din Yaramsk în Rusia",
+    "given": "Matei"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/fc763457-6fe8-48a5-8a8d-abf10335602b#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "antonie-of-manastirea-koja-of-rusia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Antonie de la Mănăstirea Koja din Rusia",
+    "short": "Antonie de la Mănăstirea Koja din Rusia",
+    "given": "Antonie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/75b50c22-6eda-4e4c-a9ab-d4f8e0dbd5ec",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

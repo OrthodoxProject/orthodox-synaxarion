@@ -1,0 +1,28 @@
+{
+  "id": "panteleimon-2-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:panteleimon-2",
+    "person:mihail-46",
+    "person:dimitrie-of-rusia-8"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 16
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/971#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

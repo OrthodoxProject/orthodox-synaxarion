@@ -1,0 +1,21 @@
+{
+  "id": "pancosmie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Pancosmie",
+    "full": "Sfântul Cuvios Pancosmie",
+    "short": "Pancosmie",
+    "given": "Pancosmie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9f90d598-3e4a-4b59-bee9-92789f2c098f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

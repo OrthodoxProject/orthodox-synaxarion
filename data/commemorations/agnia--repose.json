@@ -1,0 +1,26 @@
+{
+  "id": "agnia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:agnia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 5
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/417b84ea-1fbd-4971-9969-a9523578d59d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "gwinear",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Gwinear, monah la Cornwall în Anglia",
+    "full": "Sfântul Cuvios Mucenic Gwinear, monah la Cornwall în Anglia",
+    "short": "Gwinear, monah la Cornwall în Anglia",
+    "given": "Gwinear"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0ebbac67-0d6e-48ea-a761-2ecb5a59718d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

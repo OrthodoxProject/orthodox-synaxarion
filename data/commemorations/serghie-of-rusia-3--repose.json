@@ -1,0 +1,26 @@
+{
+  "id": "serghie-of-rusia-3--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:serghie-of-rusia-3"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 12
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d606c608-e101-450a-b628-4ebee17862af",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

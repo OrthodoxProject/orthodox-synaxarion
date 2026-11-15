@@ -1,0 +1,20 @@
+{
+  "id": "consortia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Consorția",
+    "short": "Consorția",
+    "given": "Consorția"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/df900d8b-07a0-4999-b64b-c65eb520227f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

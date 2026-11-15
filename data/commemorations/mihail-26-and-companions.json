@@ -1,0 +1,29 @@
+{
+  "id": "mihail-26-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:mihail-26",
+    "person:irodion",
+    "person:vasile-28",
+    "person:toma-of-rusia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 3
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5492f2a1-e14f-4ca9-a353-83c8f11e8306",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

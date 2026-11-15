@@ -1,0 +1,21 @@
+{
+  "id": "trea",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Trea, pustnică la Derry, convertită la creștinism de Sfântul Patrick, luminătorul Irlandei",
+    "full": "Sfânta Cuvioasă Trea, pustnică la Derry, convertită la creștinism de Sfântul Patrick, luminătorul Irlandei",
+    "short": "Trea, pustnică la Derry, convertită la creștinism de Sfântul Patrick, luminătorul Irlandei",
+    "given": "Trea"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4ec9c629-bb65-4e71-8e2f-ea6f35354504",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

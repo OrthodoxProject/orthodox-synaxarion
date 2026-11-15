@@ -1,0 +1,20 @@
+{
+  "id": "marian-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Marian",
+    "short": "Marian",
+    "given": "Marian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ae142f32-eee4-4368-a6b9-9a9fdb5a578c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

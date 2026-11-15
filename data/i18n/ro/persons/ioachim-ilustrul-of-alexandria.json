@@ -1,0 +1,21 @@
+{
+  "id": "ioachim-ilustrul-of-alexandria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ioachim Ilustrul, patriarhul Alexandriei",
+    "full": "Sfântul Ierarh Ioachim Ilustrul, patriarhul Alexandriei",
+    "short": "Ioachim Ilustrul, patriarhul Alexandriei",
+    "given": "Ioachim"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2df74e46-b742-4ec5-a8fe-05a881986c80",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

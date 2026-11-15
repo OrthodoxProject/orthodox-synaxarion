@@ -1,0 +1,20 @@
+{
+  "id": "gioconda",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Gioconda",
+    "short": "Gioconda",
+    "given": "Gioconda"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c5bc152c-d489-4fef-aabe-f1068046931c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

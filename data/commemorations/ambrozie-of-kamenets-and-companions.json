@@ -1,0 +1,41 @@
+{
+  "id": "ambrozie-of-kamenets-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:ambrozie-of-kamenets",
+    "person:serghie-32",
+    "person:andronic-3",
+    "person:galaction-3",
+    "person:serghie-33",
+    "person:mihail-50",
+    "person:serghie-34",
+    "person:mihail-51",
+    "person:serghie-35",
+    "person:nichifor-12",
+    "person:nichifor-13",
+    "person:galaction-4",
+    "person:gurie",
+    "person:ioan-109",
+    "person:petru-58",
+    "person:vasile-of-rusia-4"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 7
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a86530b4-dc8b-4358-b2df-b3a803722737",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

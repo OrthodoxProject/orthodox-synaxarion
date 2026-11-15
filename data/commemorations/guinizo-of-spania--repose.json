@@ -1,0 +1,26 @@
+{
+  "id": "guinizo-of-spania--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:guinizo-of-spania"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 26
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/daf128e2-fa24-4685-ab03-b9954fbb1168",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

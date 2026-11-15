@@ -1,0 +1,21 @@
+{
+  "id": "ioan-of-evhaite",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ioan, mitropolitul Evhaitelor",
+    "full": "Sfântul Ierarh Ioan, mitropolitul Evhaitelor",
+    "short": "Ioan, mitropolitul Evhaitelor",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/bd032250-ec7d-4c08-9598-31fc7f0ebfd7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

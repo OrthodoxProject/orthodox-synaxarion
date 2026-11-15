@@ -1,0 +1,20 @@
+{
+  "id": "withburga",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Withburga, pustnică la Holkham",
+    "short": "Withburga, pustnică la Holkham",
+    "given": "Withburga"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ca34d9cd-06c8-4dee-8880-cd7d4b3eebb3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

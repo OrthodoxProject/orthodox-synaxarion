@@ -1,0 +1,20 @@
+{
+  "id": "restitut",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Restitut, împreună pătimuitor cu Sfântul Mucenic Crispul din Spania",
+    "short": "Restitut, împreună pătimuitor cu Sfântul Mucenic Crispul din Spania",
+    "given": "Restitut"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b5d9ac5c-0cdc-4934-89cc-6f309ed40391",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

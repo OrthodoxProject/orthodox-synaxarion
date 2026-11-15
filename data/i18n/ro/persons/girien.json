@@ -1,0 +1,21 @@
+{
+  "id": "girien",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Girien, pustnic din Irlanda",
+    "full": "Sfântul Cuvios Girien, pustnic din Irlanda",
+    "short": "Girien, pustnic din Irlanda",
+    "given": "Girien"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7fecf765-0110-4cb7-8298-b8109d35b2aa",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

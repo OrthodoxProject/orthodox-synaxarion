@@ -1,0 +1,26 @@
+{
+  "id": "macarie-of-ierusalim--08-16",
+  "kind": "repose",
+  "subjects": [
+    "person:macarie-of-ierusalim"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 16
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a760af30-abff-4697-b0ef-cd9b82033a50",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

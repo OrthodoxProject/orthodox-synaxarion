@@ -1,0 +1,26 @@
+{
+  "id": "serida-of-gaza--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:serida-of-gaza"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 13
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ae4b5085-7220-4c48-b7b0-6777d3cc1303",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

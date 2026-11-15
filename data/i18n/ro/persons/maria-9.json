@@ -1,0 +1,20 @@
+{
+  "id": "maria-9",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Nouă Mc. Maria (Nosova)",
+    "short": "Maria (Nosova)",
+    "given": "Maria"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/fcdc6989-7bc4-4321-9bb7-48cf8168eca8#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

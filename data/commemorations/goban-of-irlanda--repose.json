@@ -1,0 +1,26 @@
+{
+  "id": "goban-of-irlanda--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:goban-of-irlanda"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 23
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/654ca6e0-f07f-47f1-9c01-7bbae352bf24",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

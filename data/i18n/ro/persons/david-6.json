@@ -1,0 +1,20 @@
+{
+  "id": "david-6",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mărturisitor David",
+    "short": "David",
+    "given": "David"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4415d33a-f0a7-406f-b159-77666601df2a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

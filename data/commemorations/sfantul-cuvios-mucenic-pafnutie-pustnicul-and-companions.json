@@ -1,0 +1,26 @@
+{
+  "id": "sfantul-cuvios-mucenic-pafnutie-pustnicul-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "group:sfantul-cuvios-mucenic-pafnutie-pustnicul-and-companions"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 25
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/56087c45-1c12-413d-871e-d09e6c20e800",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

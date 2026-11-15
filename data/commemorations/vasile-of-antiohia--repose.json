@@ -1,0 +1,26 @@
+{
+  "id": "vasile-of-antiohia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:vasile-of-antiohia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 25
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/42b165a3-e606-4eca-9235-68f838924c99",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

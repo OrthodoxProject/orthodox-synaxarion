@@ -1,0 +1,21 @@
+{
+  "id": "icon-of-theotokos-moldoveneasca-mijlocitoarea",
+  "subject": "theotokos",
+  "depicts": [
+    "person:theotokos"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b0c5e209-1e08-4034-adc5-72716c0879b7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

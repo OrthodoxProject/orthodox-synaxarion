@@ -1,0 +1,21 @@
+{
+  "id": "cosma-4",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Cosma, egumen în Bitinia",
+    "full": "Sfântul Cuvios Cosma, egumen în Bitinia",
+    "short": "Cosma, egumen în Bitinia",
+    "given": "Cosma"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d03c0481-0b54-4696-8a7d-551a3b7d4013",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

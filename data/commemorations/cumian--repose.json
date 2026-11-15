@@ -1,0 +1,26 @@
+{
+  "id": "cumian--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:cumian"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 9
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c1727201-cf8f-47e1-b25c-fcd28733cb46",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

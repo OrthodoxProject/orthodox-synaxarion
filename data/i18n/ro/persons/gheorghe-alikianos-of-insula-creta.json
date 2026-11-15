@@ -1,0 +1,21 @@
+{
+  "id": "gheorghe-alikianos-of-insula-creta",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Gheorghe Alikianos din insula Creta",
+    "full": "Sfântul Mucenic Gheorghe Alikianos din insula Creta",
+    "short": "Gheorghe Alikianos din insula Creta",
+    "given": "Gheorghe"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3d3879af-0653-4cac-b2b1-b280b1cbc605",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

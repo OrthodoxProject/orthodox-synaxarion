@@ -1,0 +1,21 @@
+{
+  "id": "stefan-of-lyon",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ștefan, episcop de Lyon și mărturisitor în Franța",
+    "full": "Sfântul Ierarh Ștefan, episcop de Lyon și mărturisitor în Franța",
+    "short": "Ștefan, episcop de Lyon, mărturisitor în Franța",
+    "given": "Ștefan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8d893b94-21cd-409e-a75a-a44f8afa486b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

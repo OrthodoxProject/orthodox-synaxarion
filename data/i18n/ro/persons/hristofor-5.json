@@ -1,0 +1,21 @@
+{
+  "id": "hristofor-5",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Hristofor",
+    "full": "Sfântul Mucenic Hristofor",
+    "short": "Hristofor",
+    "given": "Hristofor"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/651d9248-1689-4071-b4d8-0e9e50213eca",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

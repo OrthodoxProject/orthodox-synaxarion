@@ -1,0 +1,21 @@
+{
+  "id": "fraternie-of-auxere",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Fraternie, episcop de Auxere în Franța",
+    "full": "Sfântul Sfințit Mucenic Fraternie, episcop de Auxere în Franța",
+    "short": "Fraternie, episcop de Auxere în Franța",
+    "given": "Fraternie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/cab1ac50-ad33-4090-a1c8-fab49e6f9de1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

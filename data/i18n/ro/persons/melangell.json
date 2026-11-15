@@ -1,0 +1,29 @@
+{
+  "id": "melangell",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Melangell, fiica regelui Irlandei",
+    "full": "Sfânta Melangell, fiica regelui Irlandei",
+    "short": "Melangell, fiica regelui Irlandei",
+    "given": "Melangell",
+    "variants": [
+      "Sf. Cuv. Melangell, fiica regelui Irlandei"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a6757fd6-2def-4de4-9fc2-6e34fd71af71",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a777a856-4140-48f5-8253-c983a653136d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

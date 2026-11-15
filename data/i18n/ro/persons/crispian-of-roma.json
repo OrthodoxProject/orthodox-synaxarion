@@ -1,0 +1,25 @@
+{
+  "id": "crispian-of-roma",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Crispian din Roma",
+    "short": "Crispian din Roma",
+    "given": "Crispian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d9985937-bf22-4e43-8c3c-28e7582c1e64",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a6cff21b-9b12-4d9d-a73a-3545b144aa0f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

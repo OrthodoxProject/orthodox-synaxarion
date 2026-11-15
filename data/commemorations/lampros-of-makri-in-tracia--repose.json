@@ -1,0 +1,26 @@
+{
+  "id": "lampros-of-makri-in-tracia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:lampros-of-makri-in-tracia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 2
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/49eb836d-72e1-46ef-90f7-a3c166f93698",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

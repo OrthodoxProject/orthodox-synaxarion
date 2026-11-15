@@ -1,0 +1,21 @@
+{
+  "id": "mertie-fermierul-of-mira-lichiei",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mertie fermierul din Mira Lichiei",
+    "full": "Sfântul Mertie fermierul din Mira Lichiei",
+    "short": "Mertie fermierul din Mira Lichiei",
+    "given": "Mertie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/48d6a1db-42d3-4320-a463-46c547545f55",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

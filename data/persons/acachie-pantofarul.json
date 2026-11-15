@@ -1,0 +1,22 @@
+{
+  "id": "acachie-pantofarul",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "venerable_martyr"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c8b9fe5f-65e5-49b6-9ab3-9287ecf2cecc",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

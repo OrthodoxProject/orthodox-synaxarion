@@ -1,0 +1,26 @@
+{
+  "id": "ion-duca-vatatis-the-milostiv--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:ion-duca-vatatis-the-milostiv"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 4
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9849138d-a0c9-410a-b355-14203073a2b1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "15000-martyrs-of-pisidia",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții 15000 de Mucenici din Pisidia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ef69381c-781b-4ef4-8fc9-ce93a7b07eb5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

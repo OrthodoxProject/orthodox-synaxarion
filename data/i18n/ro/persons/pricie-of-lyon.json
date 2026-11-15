@@ -1,0 +1,21 @@
+{
+  "id": "pricie-of-lyon",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Pricie, episcop de Lyon în Franța",
+    "full": "Sfântul Ierarh Pricie, episcop de Lyon în Franța",
+    "short": "Pricie, episcop de Lyon în Franța",
+    "given": "Pricie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/09babd10-f27d-4fd0-b617-d19fae4d8f7e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

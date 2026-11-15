@@ -1,0 +1,18 @@
+{
+  "id": "alexei-meciov--translation-of-relics",
+  "locale": "ro",
+  "names": {
+    "display": "Mutarea moaștelor Sf. Cuv. Alexei Mecev"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a1b01621-a0b0-4dbb-b9fb-fa8e83b7c63a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

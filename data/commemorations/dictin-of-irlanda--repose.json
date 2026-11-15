@@ -1,0 +1,26 @@
+{
+  "id": "dictin-of-irlanda--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:dictin-of-irlanda"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 29
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/47a376c0-5ee6-4469-a97c-ea874d1b7f2f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

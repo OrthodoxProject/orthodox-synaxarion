@@ -1,0 +1,20 @@
+{
+  "id": "nicolae-65",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Nicolae (Piatnițki)",
+    "short": "Nicolae (Piatnițki)",
+    "given": "Nicolae"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e403f051-ef05-427d-bada-d9563e3fc8b1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

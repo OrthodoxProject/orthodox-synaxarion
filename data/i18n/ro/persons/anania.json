@@ -1,0 +1,21 @@
+{
+  "id": "anania",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Anania, monah și preot la Eufrat în Siria",
+    "full": "Sfântul Cuvios Anania, monah și preot la Eufrat în Siria",
+    "short": "Anania, monah, preot la Eufrat în Siria",
+    "given": "Anania"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7e4c1d0d-311f-40a5-8635-84617ec1d1d3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

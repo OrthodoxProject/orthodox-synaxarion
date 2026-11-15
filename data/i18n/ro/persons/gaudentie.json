@@ -1,0 +1,21 @@
+{
+  "id": "gaudentie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Gaudentie, monah în Cezareea Capadociei, iar mai târziu episcop de Brescia în Italia",
+    "full": "Sfântul Ierarh Gaudentie, monah în Cezareea Capadociei, iar mai târziu episcop de Brescia în Italia",
+    "short": "Gaudentie, monah în Cezareea Capadociei, iar mai târziu episcop de Brescia în Italia",
+    "given": "Gaudentie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9a4d046a-e736-4960-86a5-a4035b3bb6f3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

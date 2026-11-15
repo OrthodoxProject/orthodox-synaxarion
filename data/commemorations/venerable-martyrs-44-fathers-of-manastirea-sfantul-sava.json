@@ -1,0 +1,26 @@
+{
+  "id": "venerable-martyrs-44-fathers-of-manastirea-sfantul-sava",
+  "kind": "repose",
+  "subjects": [
+    "group:venerable-martyrs-44-fathers-of-manastirea-sfantul-sava"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 16
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3ddc7ef1-6e4c-49bd-889d-10a483661d59#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

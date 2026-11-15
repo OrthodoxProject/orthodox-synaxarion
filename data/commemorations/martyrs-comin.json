@@ -1,0 +1,26 @@
+{
+  "id": "martyrs-comin",
+  "kind": "repose",
+  "subjects": [
+    "group:martyrs-comin"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 1
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8b1978a4-4b26-4981-98ff-c637627d23a0",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

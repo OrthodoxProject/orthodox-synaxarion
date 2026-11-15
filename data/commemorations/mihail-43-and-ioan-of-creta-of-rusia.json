@@ -1,0 +1,27 @@
+{
+  "id": "mihail-43-and-ioan-of-creta-of-rusia",
+  "kind": "repose",
+  "subjects": [
+    "person:mihail-43",
+    "person:ioan-of-creta-of-rusia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 28
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2392aa05-c48c-4b71-9649-3cd04f6fa8b5#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

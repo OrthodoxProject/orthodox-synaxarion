@@ -1,0 +1,21 @@
+{
+  "id": "matroana",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Matroana, ”cea desculță” din Sankt Petersburg în Rusia",
+    "full": "Sfânta Cuvioasă Matroana, ”cea desculță” din Sankt Petersburg în Rusia",
+    "short": "Matroana, ”cea desculță” din Sankt Petersburg în Rusia",
+    "given": "Matroana"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/39a1ad94-c060-4c07-807e-e6f01067d1f2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

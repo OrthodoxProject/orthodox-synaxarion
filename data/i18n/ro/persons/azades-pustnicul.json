@@ -1,0 +1,20 @@
+{
+  "id": "azades-pustnicul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Azades pustnicul",
+    "short": "Azades pustnicul",
+    "given": "Azades"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e50be2bf-9388-4e28-af7f-58b31709d830",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

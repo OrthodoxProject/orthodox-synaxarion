@@ -1,0 +1,20 @@
+{
+  "id": "donat-6",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Donat",
+    "short": "Donat",
+    "given": "Donat"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e85b399d-31ba-4380-93d5-d869c1295cd4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

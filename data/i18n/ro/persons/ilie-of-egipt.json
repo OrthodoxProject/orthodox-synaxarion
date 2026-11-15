@@ -1,0 +1,21 @@
+{
+  "id": "ilie-of-egipt",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ilie din Egipt",
+    "full": "Sfântul Cuvios Ilie din Egipt",
+    "short": "Ilie din Egipt",
+    "given": "Ilie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4d457345-b758-46eb-8612-cb6bc01c7675",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

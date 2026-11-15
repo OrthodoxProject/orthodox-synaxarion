@@ -1,0 +1,21 @@
+{
+  "id": "amona-of-egipt",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Amona din Egipt",
+    "full": "Sfântul Cuvios Amona din Egipt",
+    "short": "Amona din Egipt",
+    "given": "Amona"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4fc0be94-b94c-49e5-b711-57c31d3e323d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

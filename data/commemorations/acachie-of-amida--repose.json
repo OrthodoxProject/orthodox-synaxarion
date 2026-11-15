@@ -1,0 +1,26 @@
+{
+  "id": "acachie-of-amida--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:acachie-of-amida"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 9
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f1a448a1-3ef0-4515-a7a9-61f1b2f610fb",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

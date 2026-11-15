@@ -1,0 +1,26 @@
+{
+  "id": "onorat-of-toulouse--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:onorat-of-toulouse"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 21
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d940c505-bc70-47c7-9eaa-28a408f6013f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

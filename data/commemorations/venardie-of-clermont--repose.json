@@ -1,0 +1,26 @@
+{
+  "id": "venardie-of-clermont--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:venardie-of-clermont"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 18
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a55a9ade-ece5-45e8-8e28-a94719c63b2a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

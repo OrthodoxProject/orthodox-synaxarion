@@ -1,0 +1,26 @@
+{
+  "id": "icon-of-theotokos-venskaia-vieneza",
+  "kind": "icon",
+  "subjects": [
+    "icon:icon-of-theotokos-venskaia-vieneza"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 15
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4a1d3536-78f0-43e2-95a3-5b25922e3c9f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

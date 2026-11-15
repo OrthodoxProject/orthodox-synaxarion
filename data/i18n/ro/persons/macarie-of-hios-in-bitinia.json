@@ -1,0 +1,21 @@
+{
+  "id": "macarie-of-hios-in-bitinia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Macarie din Hios în Bitinia",
+    "full": "Sfântul Mucenic Macarie din Hios în Bitinia",
+    "short": "Macarie din Hios în Bitinia",
+    "given": "Macarie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/184c0359-efe5-470c-ae79-5c4d9fa45904",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

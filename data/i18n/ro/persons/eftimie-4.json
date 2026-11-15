@@ -1,0 +1,21 @@
+{
+  "id": "eftimie-4",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Eftimie, ieromonah de la Optina",
+    "full": "Sfântul Sfințit Nou Mucenic Eftimie, ieromonah de la Optina",
+    "short": "Eftimie, ieromonah de la Optina",
+    "given": "Eftimie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ec21b539-b7e7-42ac-ad5a-f25044b77ab5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

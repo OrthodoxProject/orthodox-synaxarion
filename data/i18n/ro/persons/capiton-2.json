@@ -1,0 +1,21 @@
+{
+  "id": "capiton-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Capiton",
+    "full": "Sfântul Mucenic Capiton",
+    "short": "Capiton",
+    "given": "Capiton"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/20510579-f169-4fa5-8c32-47a107431048",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "petru-sihastrul-of-galatia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Petru Sihastrul din Galatia",
+    "full": "Sfântul Cuvios Petru Sihastrul din Galatia",
+    "short": "Petru Sihastrul din Galatia",
+    "given": "Petru"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e54f25b5-7dbc-4c4e-b24a-6e892f61ba95",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

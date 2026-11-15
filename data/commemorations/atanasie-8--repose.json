@@ -1,0 +1,26 @@
+{
+  "id": "atanasie-8--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:atanasie-8"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 12
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/dd45e70f-025d-4f46-8f76-013616695044",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

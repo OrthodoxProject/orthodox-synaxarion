@@ -1,0 +1,26 @@
+{
+  "id": "tumvin-of-in--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:tumvin-of-in"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 5
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f36b7f4e-d3bc-4723-b75e-53e39f23aad8",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

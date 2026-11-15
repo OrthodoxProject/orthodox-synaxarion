@@ -1,0 +1,20 @@
+{
+  "id": "efenic",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Efenic",
+    "short": "Efenic",
+    "given": "Efenic"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8b0a08a2-a1a9-4962-b7b9-7050c3ce19c9",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

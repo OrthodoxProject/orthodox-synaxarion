@@ -1,0 +1,21 @@
+{
+  "id": "venerandie-of-clermont",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Venerandie, episcop de Clermont în Franța",
+    "full": "Sfântul Ierarh Venerandie, episcop de Clermont în Franța",
+    "short": "Venerandie, episcop de Clermont în Franța",
+    "given": "Venerandie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2083d9c5-11e8-486d-9d09-51e981885b3c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

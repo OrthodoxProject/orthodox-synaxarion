@@ -1,0 +1,26 @@
+{
+  "id": "severina-of-roma--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:severina-of-roma"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 3
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8aa0c8c0-8261-479c-aed1-0e5deb024513",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

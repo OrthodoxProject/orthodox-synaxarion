@@ -1,0 +1,23 @@
+{
+  "id": "icoana-a-maicii-domnului-pimonovskaya-of-rusia",
+  "kind": "saint",
+  "gender": "female",
+  "holiness_types": [
+    "righteous"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/63f7085d-ab97-4f86-8a67-f7243867dc12",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat.",
+      "Chipul sfințeniei nu reiese din titlu; „righteous” e provizoriu."
+    ]
+  }
+}

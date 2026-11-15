@@ -1,0 +1,26 @@
+{
+  "id": "vassa--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:vassa"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 7
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/240d4103-fb2d-4823-9805-aed66f766dc1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

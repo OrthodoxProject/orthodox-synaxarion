@@ -1,0 +1,22 @@
+{
+  "id": "cneaz-vladimir-the-intocmai-cu-apostolii",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "equal_to_apostles"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/626",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

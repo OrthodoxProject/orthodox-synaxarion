@@ -1,0 +1,26 @@
+{
+  "id": "drostan--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:drostan"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 11
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/77c7c5a0-0932-49da-9971-9dafeef11865",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

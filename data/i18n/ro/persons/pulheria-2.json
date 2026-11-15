@@ -1,0 +1,21 @@
+{
+  "id": "pulheria-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Pulheria, Împărăteasa",
+    "full": "Sfânta Pulheria, Împărăteasa",
+    "short": "Pulheria, Împărăteasa",
+    "given": "Pulheria"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/53e70ce4-c11b-40ee-8d2e-b6838e4bf09f#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

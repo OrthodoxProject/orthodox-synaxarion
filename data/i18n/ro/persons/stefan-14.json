@@ -1,0 +1,21 @@
+{
+  "id": "stefan-14",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ștefan, regele și luminătorul Ungariei",
+    "full": "Sfântul Ștefan, regele și luminătorul Ungariei",
+    "short": "Ștefan, regele, luminătorul Ungariei",
+    "given": "Ștefan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/713a8129-726e-410d-a929-6ffd481cd25c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

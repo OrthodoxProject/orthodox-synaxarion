@@ -1,0 +1,21 @@
+{
+  "id": "peregrin-of-l",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Peregrin, episcop de L'Aquilla",
+    "full": "Sfântul Sfințit Mucenic Peregrin, episcop de L'Aquilla",
+    "short": "Peregrin, episcop de L'Aquilla",
+    "given": "Peregrin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/357d8a16-c8c9-4834-b557-b86b1ec87c01",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

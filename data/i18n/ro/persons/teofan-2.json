@@ -1,0 +1,20 @@
+{
+  "id": "teofan-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Teofan, nevoitor la Mănăstirea Vatopedu din Sfântul Munte Athos, iar apoi mitropolit de Peritheorion",
+    "short": "Teofan, nevoitor la Mănăstirea Vatopedu din Sfântul Munte Athos, iar apoi mitropolit de Peritheorion",
+    "given": "Teofan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/44f45bed-fc5a-4788-a762-803dbcbd125a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

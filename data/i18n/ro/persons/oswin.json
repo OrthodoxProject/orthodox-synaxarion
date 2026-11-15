@@ -1,0 +1,21 @@
+{
+  "id": "oswin",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Oswin, regele Deirei în Anglia",
+    "full": "Sfântul Mucenic Oswin, regele Deirei în Anglia",
+    "short": "Oswin, regele Deirei în Anglia",
+    "given": "Oswin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/36fe97fc-275b-44e8-8aa3-44d849a00928",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

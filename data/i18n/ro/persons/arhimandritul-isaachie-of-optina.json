@@ -1,0 +1,21 @@
+{
+  "id": "arhimandritul-isaachie-of-optina",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Arhimandritul Isaachie (Bobrakov) de la Optina",
+    "full": "Sfântul Mucenic Arhimandritul Isaachie (Bobrakov) de la Optina",
+    "short": "Arhimandritul Isaachie (Bobrakov) de la Optina",
+    "given": "Arhimandritul"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/404",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

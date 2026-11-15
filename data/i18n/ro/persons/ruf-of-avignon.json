@@ -1,0 +1,21 @@
+{
+  "id": "ruf-of-avignon",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ruf, episcop de Avignon în Franța",
+    "full": "Sfântul Ierarh Ruf, episcop de Avignon în Franța",
+    "short": "Ruf, episcop de Avignon în Franța",
+    "given": "Ruf"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/68f41be3-1382-42bb-a504-7f53f1672d1c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

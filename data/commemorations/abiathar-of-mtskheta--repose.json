@@ -1,0 +1,26 @@
+{
+  "id": "abiathar-of-mtskheta--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:abiathar-of-mtskheta"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 1
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/87bd7cc1-5bdb-4bde-848e-c542a09ba5bd",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

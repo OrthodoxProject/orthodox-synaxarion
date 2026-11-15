@@ -1,0 +1,18 @@
+{
+  "id": "maur-and-plachidie",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Maur și Plachidie, ucenicul Sfântului Benedict de Nursia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f0c95f97-7ad0-4ad6-96dc-689741681849",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

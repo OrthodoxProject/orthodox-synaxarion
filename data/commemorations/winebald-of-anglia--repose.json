@@ -1,0 +1,26 @@
+{
+  "id": "winebald-of-anglia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:winebald-of-anglia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 18
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/89e4579e-c963-42b0-bc07-af9a40593c84",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "alexandru-29",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Alexandru (Miropolskii)",
+    "short": "Alexandru (Miropolskii)",
+    "given": "Alexandru"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/fdc30b9f-0152-4a9a-9c76-5321c0631240",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "candid-of-roma",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Candid din Roma",
+    "full": "Sfântul Mucenic Candid din Roma",
+    "short": "Candid din Roma",
+    "given": "Candid"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/781701de-7df4-4c73-a033-58094ad4f739",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

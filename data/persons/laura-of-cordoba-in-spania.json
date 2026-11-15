@@ -1,0 +1,22 @@
+{
+  "id": "laura-of-cordoba-in-spania",
+  "kind": "saint",
+  "gender": "female",
+  "holiness_types": [
+    "venerable_martyr"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/10e2ced0-4c28-4d18-83c5-954bb73eb6a2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "iosif-of-muntele-kharasam-in-persia",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "venerable_martyr"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9e08a293-d599-4733-818d-04fe34ad727d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat.",
+      "Genul nu reiese din sursă; e de verificat."
+    ]
+  }
+}

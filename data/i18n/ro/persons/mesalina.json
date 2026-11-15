@@ -1,0 +1,21 @@
+{
+  "id": "mesalina",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Mesalina, fecioară din Foligno în Italia",
+    "full": "Sfânta Muceniță Mesalina, fecioară din Foligno în Italia",
+    "short": "Mesalina, fecioară din Foligno în Italia",
+    "given": "Mesalina"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/08cd93e1-232b-4afa-9aec-75dd608372b6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

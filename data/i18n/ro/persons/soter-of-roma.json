@@ -1,0 +1,21 @@
+{
+  "id": "soter-of-roma",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Soter, episcopul Romei",
+    "full": "Sfântul Ierarh Soter, episcopul Romei",
+    "short": "Soter, episcopul Romei",
+    "given": "Soter"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/daa434e9-3cbf-4cd7-9612-94198c91bcfd",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

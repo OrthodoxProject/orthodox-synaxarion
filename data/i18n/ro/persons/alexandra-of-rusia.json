@@ -1,0 +1,21 @@
+{
+  "id": "alexandra-of-rusia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Nouă Mc. Alexandra (Diacicova) din Rusia",
+    "full": "Sfânta Cuvioasă Nouă Muceniță Alexandra (Diacicova) din Rusia",
+    "short": "Alexandra (Diacicova) din Rusia",
+    "given": "Alexandra"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0c1d5ce8-d70c-4e28-b80a-45654bfb1ced",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

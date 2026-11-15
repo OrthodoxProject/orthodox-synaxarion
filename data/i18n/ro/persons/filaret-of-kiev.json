@@ -1,0 +1,21 @@
+{
+  "id": "filaret-of-kiev",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Filaret (Amfiteatrov), mitropolitul Kievului și al Galiției",
+    "full": "Sfântul Ierarh Filaret (Amfiteatrov), mitropolitul Kievului și al Galiției",
+    "short": "Filaret (Amfiteatrov), mitropolitul Kievului, al Galiției",
+    "given": "Filaret"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/51",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

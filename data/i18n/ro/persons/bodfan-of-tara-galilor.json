@@ -1,0 +1,21 @@
+{
+  "id": "bodfan-of-tara-galilor",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Bodfan din Țara Galilor",
+    "full": "Sfântul Cuvios Bodfan din Țara Galilor",
+    "short": "Bodfan din Țara Galilor",
+    "given": "Bodfan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6d56d1b8-3c79-4317-9145-9c3f63ffa3e4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

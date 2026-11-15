@@ -1,0 +1,30 @@
+{
+  "id": "moldova-bessarabia",
+  "family": "eastern_orthodox",
+  "parent": "romanian",
+  "status": "autonomous",
+  "calendar_from": "romanian",
+  "calendar_style": "revised_julian",
+  "paschalion": "julian",
+  "lectionary": {
+    "lukan_jump": true
+  },
+  "fasting_model": "romanian",
+  "countries": [
+    "MD"
+  ],
+  "languages": [
+    "ro"
+  ],
+  "liturgical_languages": [
+    "ro"
+  ],
+  "default_locale": "ro",
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Mitropolie autonomă a Patriarhiei Române, pe stil nou: ține calendarul Bisericii Ortodoxe Române (calendar_from), plus sfinții Basarabiei."
+    ]
+  }
+}

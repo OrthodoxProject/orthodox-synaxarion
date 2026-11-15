@@ -99,6 +99,7 @@ O linie din calendar are una sau mai multe pomeniri tipărite împreună, plus s
 - `symbol` trimite la `symbol_legend` din `tradition.json` (glifa și culoarea). Etichetele semnelor stau în `i18n/<limbă>/traditions/<id>.json`, la `symbols`.
 - Titlul oficial al liniei (ex. *Sf. Cuv. Ioan Casian și Gherman, din Dobrogea*) stă în același fișier de limbă, la `official_titles`, sub cheia primei pomeniri. E un citat: îl păstrăm cum îl tipărește Biserica, cu diacriticele corectate. Site-ul îl arată în calendarul lunii, în zilele următoare de pe pagina de azi și în fișierele ICS. În lista sfinților zilei (pagina zilei și pagina de azi) îl arată doar pe rândurile cu o singură pomenire: un rând cu mai multe pomeniri are acolo câte un link pentru fiecare, despărțite prin „; ”.
 - `overrides/<an>.json` adună fapte din calendarul oficial pe un an (lecturi, glas, voscresnă, post, numărul duminicii, zile libere). Sunt datele de control pentru calculul calendarului.
+- O mitropolie care ține calendarul Bisericii-mame nu îl copiază: `calendar_from` din `tradition.json` (de ex. `"calendar_from": "romanian"` la Mitropolia Basarabiei) îi dă rândurile fixe și mobile, mutările și `overrides/<an>.json` ale acelei tradiții, iar `menaion/` și `movable.json` ale ei adaugă doar ce are în plus (sfinții locului). Un rând propriu ia locul rândurilor moștenite cu aceleași pomeniri (altă zi, alt rang, alt semn), un an din `overrides/` propriu ia locul aceluiași an moștenit, iar zilele libere (`observances.json`) rămân ale ei, fiindcă țin de țară. Semnele și titlurile oficiale pe care nu le are se iau din tradiția moștenită. `parent` spune doar de cine ține Biserica, nu și ce calendar are.
 
 ## Limbi
 
@@ -210,7 +211,7 @@ Fiecare problemă are un cod stabil. Erorile opresc CI-ul; avertismentele doar s
 | `group.count-mismatch`, `group.duplicate-member` | eroare | grup cu mai mulți membri decât numărul declarat, sau membru repetat |
 | `i18n.orphan`, `i18n.missing`, `text.orphan` | eroare | fișier de limbă fără înregistrare, înregistrare fără niciun nume, text lung fără fișierul cu nume |
 | `license.text-not-allowed` | eroare | text integral de imn cu licență care nu permite publicarea |
-| `tradition.missing-definition`, `override.*`, `observance.duplicate-id` | eroare | probleme în fișierele unei tradiții |
+| `tradition.missing-definition`, `tradition.calendar-cycle`, `override.*`, `observance.duplicate-id` | eroare | probleme în fișierele unei tradiții (de ex. două tradiții care își țin una alteia calendarul prin `calendar_from`) |
 | `i18n.missing-locale`, `vocab.missing-label`, `vocab.missing-file` | avertisment | lipsesc texte sau etichete în română ori engleză |
 | `calendar.not-placed`, `calendar.default-date-mismatch`, `calendar.fixed-in-movable`, `calendar.transfer-unplaced` | avertisment | pomenire necuprinsă în niciun calendar, sau așezată altfel decât data ei obișnuită |
 | `rule.leap-day-without-fallback`, `icon.no-commemoration`, `tradition.title-unused`, `tradition.label-*`, `i18n.unknown-writing`, `text.empty` | avertisment | detalii de completat |
@@ -222,9 +223,9 @@ Datele din `data/` au pornit de la 17 cazuri-limită alese ca să pună schema l
 Restul vine din [importul din surse](#importul-din-surse). Pe scurt, acum:
 
 - 3.680 de persoane (cu nume din surse: 1.559 în română, 3.130 în engleză, 1.009 în ambele), 354 de grupuri, 4.586 de pomeniri, 306 icoane;
-- calendarul BOR are toate cele 366 de zile (1.627 de rânduri, 765 cu titlul oficial), cel rusesc 366 de zile (2.833 de rânduri), cel al Patriarhiei Ecumenice 359 de zile (1.001 rânduri) și cel al Serbiei 358 (1.074 de rânduri), cu încredere scăzută, cel copt 365 de zile (696 de rânduri); cele 146 de pomeniri armene așteaptă regula zilei;
-- 8 tradiții: BOR, Patriarhia Ecumenică, Biserica Greciei, Rusia, Serbia (Biserici răsăritene), copți și armeni (Biserici orientale), Biserica Asiriană a Răsăritului;
-- texte în 8 limbi: română, engleză, greacă (modernă și bizantină), rusă, sârbă (chirilică), armeană, arabă.
+- calendarul BOR are toate cele 366 de zile (1.627 de rânduri, 765 cu titlul oficial), cel rusesc 366 de zile (2.833 de rânduri), cel al Patriarhiei Ecumenice 359 de zile (1.001 rânduri) și cel al Serbiei 358 (1.074 de rânduri), cu încredere scăzută, cel copt 365 de zile (696 de rânduri); cele 146 de pomeniri armene așteaptă regula zilei; Mitropolia Basarabiei ține calendarul BOR, iar Mitropolia Muntenegrului și a Litoralului pe cel al Serbiei (`calendar_from`);
+- 15 tradiții: BOR și Mitropolia Basarabiei, Patriarhia Ecumenică, Biserica Greciei, Biserica Ciprului, Rusia, Serbia și Mitropolia Muntenegrului și a Litoralului, Bulgaria, Georgia, Biserica Ortodoxă a Ucrainei și Biserica Ortodoxă Ucraineană (Biserici răsăritene), copți și armeni (Biserici orientale), Biserica Asiriană a Răsăritului; calendarele Greciei, Ciprului, Bulgariei, Georgiei și ale celor două Biserici din Ucraina sunt de importat (vezi [PLAN-TRADITII.md](PLAN-TRADITII.md));
+- texte în 11 limbi: română, engleză, greacă (modernă și bizantină), rusă, sârbă (chirilică), bulgară, ucraineană, georgiană, armeană, arabă.
 
 **Toate înregistrările sunt ciorne** (`editorial.status: draft`) și trebuie revizuite înainte de publicare. Ce mai e de verificat e notat în `editorial.notes`.
 

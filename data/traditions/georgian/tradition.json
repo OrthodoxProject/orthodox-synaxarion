@@ -1,0 +1,27 @@
+{
+  "id": "georgian",
+  "family": "eastern_orthodox",
+  "status": "autocephalous",
+  "calendar_style": "julian",
+  "paschalion": "julian",
+  "countries": [
+    "GE"
+  ],
+  "languages": [
+    "ka"
+  ],
+  "liturgical_languages": [
+    "ka"
+  ],
+  "default_locale": "ka",
+  "external_ids": {
+    "wikidata": "Q192173"
+  },
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Calendarul pe zile al Bisericii Georgiei e de importat."
+    ]
+  }
+}

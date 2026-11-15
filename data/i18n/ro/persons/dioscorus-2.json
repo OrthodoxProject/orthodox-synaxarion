@@ -2,9 +2,9 @@
   "id": "dioscorus-2",
   "locale": "ro",
   "names": {
-    "display": "Sf. Sfințit Mc. Dioscor, Socrate",
-    "full": "Sfântul Sfințit Mucenic Dioscor, Socrate",
-    "short": "Dioscor, Socrate",
+    "display": "Sf. Mc. Dioscor",
+    "full": "Sfântul Mucenic Dioscor",
+    "short": "Dioscor",
     "given": "Dioscor"
   },
   "references": [
@@ -18,6 +18,6 @@
     "status": "machine",
     "method": "machine",
     "from": "en",
-    "date": "2026-11-08"
+    "date": "2026-11-15"
   }
 }

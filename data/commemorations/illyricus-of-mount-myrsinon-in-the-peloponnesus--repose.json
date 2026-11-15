@@ -14,6 +14,16 @@
   },
   "sources": [
     {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-ilirie",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-nichita-marturisitorul-si-ilirie/",
+      "accessed": "2026-11-08"
+    },
+    {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/04/03/100978-saint-illyricus-of-mount-myrsinon-in-the-peloponnesus",
       "accessed": "2026-11-08"
@@ -21,9 +31,12 @@
   ],
   "editorial": {
     "status": "draft",
-    "confidence": "low",
+    "confidence": "medium",
     "notes": [
-      "Importat automat din oca.org; de verificat."
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "ilirie--repose"
+  ]
 }

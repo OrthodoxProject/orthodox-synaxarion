@@ -2,22 +2,28 @@
   "id": "aristocles-the-presbyter",
   "locale": "ro",
   "names": {
-    "display": "Sf. Mc. Aristocle preotul",
-    "full": "Sfântul Mucenic Aristocle preotul",
-    "short": "Aristocle preotul",
-    "given": "Aristocle"
+    "display": "Sf. Mc. Aristocleu, preotul",
+    "full": "Sfântul Mucenic Aristocleu, preotul",
+    "short": "Aristocleu, preotul",
+    "given": "Aristocleu",
+    "variants": [
+      "Sf. Sfințit Mc. Aristocle preotul"
+    ]
   },
   "references": [
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/06/20/101765-martyrs-aristocles-the-presbyter-demetrian-the-deacon-and-athana",
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-aristocleu-preotul",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-mc-agripina-sf-sfintit-mc-aristocle-preotul/",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "en",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

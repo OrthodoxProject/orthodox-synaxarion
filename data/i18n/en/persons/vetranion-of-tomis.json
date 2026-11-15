@@ -4,12 +4,26 @@
   "names": {
     "display": "Saint Vetranion of Tomis",
     "short": "Vetranion of Tomis",
-    "given": "Vetranion"
+    "given": "Vetranion",
+    "variants": [
+      "Saint Bretannio",
+      "Saint Betran, Bishop of Lesser Scythia"
+    ]
   },
   "references": [
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/01/25/100246-saint-vetranion-of-tomis",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/20/103713-saint-betran-bishop-of-lesser-scythia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/romanian_saints.json",
       "accessed": "2026-11-08"
     }
   ],

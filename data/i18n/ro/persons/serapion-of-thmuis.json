@@ -2,25 +2,22 @@
   "id": "serapion-of-thmuis",
   "locale": "ro",
   "names": {
-    "display": "Sf. Cuv. Serapion",
-    "full": "Sfântul Cuvios Serapion",
-    "short": "Serapion",
+    "display": "Sf. Ier. Serapion, Episcopul Thmuisului din Egiptul de Jos",
+    "full": "Sfântul Ierarh Serapion, Episcopul Thmuisului din Egiptul de Jos",
+    "short": "Serapion, Episcopul Thmuisului din Egiptul de Jos",
     "given": "Serapion"
   },
   "references": [
     {
-      "source": "src:doxologia",
-      "url": "https://doxologia.ro/sfantul-cuvios-serapion",
-      "accessed": "2026-11-08"
-    },
-    {
-      "source": "src:calendar-patriarhia",
-      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-ier-iacob-marturisitorul-sf-cuv-serapion-pomenirea-celor-adormiti/",
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/21/205346-saint-serapion-bishop-of-thmuis-in-lower-egypt",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "draft",
-    "method": "original"
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-15"
   }
 }

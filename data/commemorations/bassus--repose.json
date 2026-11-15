@@ -1,0 +1,37 @@
+{
+  "id": "bassus--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:bassus"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 20
+  },
+  "external_ids": {
+    "oca": "100245"
+  },
+  "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-vas",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/20/100245-martyrs-bassus-eusebius-euthychius-and-basileides-at-nicomedia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Importat automat din doxologia.ro, oca.org; de verificat."
+    ]
+  },
+  "aliases": [
+    "vas--repose"
+  ]
+}

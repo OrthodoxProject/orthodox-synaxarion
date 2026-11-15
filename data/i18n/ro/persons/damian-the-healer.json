@@ -2,9 +2,9 @@
   "id": "damian-the-healer",
   "locale": "ro",
   "names": {
-    "display": "Sf. Cuv. Damian Tămăduitorul, Ieremia",
-    "full": "Sfântul Cuvios Damian Tămăduitorul, Ieremia",
-    "short": "Damian Tămăduitorul, Ieremia",
+    "display": "Sf. Cuv. Damian Tămăduitorul, de la Lavra Peșterilor",
+    "full": "Sfântul Cuvios Damian Tămăduitorul, de la Lavra Peșterilor",
+    "short": "Damian Tămăduitorul",
     "given": "Damian"
   },
   "references": [
@@ -18,6 +18,6 @@
     "status": "machine",
     "method": "machine",
     "from": "en",
-    "date": "2026-11-08"
+    "date": "2026-11-15"
   }
 }

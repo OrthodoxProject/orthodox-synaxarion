@@ -2,9 +2,9 @@
   "id": "michael",
   "locale": "ro",
   "names": {
-    "display": "Sf. Mc. Mărt. Mihail și sfetnicul său, Teodor, făcătorii de minuni din Cernigov",
-    "full": "Sfântul Mucenic Mărturisitor Mihail și sfetnicul său, Teodor, făcătorii de minuni din Cernigov",
-    "short": "Mihail și sfetnicul său, Teodor, făcătorii de minuni din Cernigov",
+    "display": "Sf. Mc. Mărt. Mihail din Cernigov",
+    "full": "Sfântul Mucenic Mărturisitor Mihail din Cernigov",
+    "short": "Mihail din Cernigov",
     "given": "Mihail"
   },
   "references": [
@@ -18,6 +18,6 @@
     "status": "machine",
     "method": "machine",
     "from": "en",
-    "date": "2026-11-08"
+    "date": "2026-11-15"
   }
 }

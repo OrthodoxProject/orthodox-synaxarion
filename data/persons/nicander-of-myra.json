@@ -3,9 +3,23 @@
   "kind": "saint",
   "gender": "male",
   "holiness_types": [
-    "hieromartyr"
+    "hieromartyr",
+    "martyr"
   ],
+  "external_ids": {
+    "doxologia": "sfantul-sfintit-mucenic-nicandru-episcopul-mirelor"
+  },
   "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-sfintit-mucenic-nicandru-episcopul-mirelor",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-ioanichie-cel-mare-sf-mc-nicandru-si-ermeu-sf-cuv-gheorghe-marturisitorul-din-drama/",
+      "accessed": "2026-11-08"
+    },
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/11/04/103172-hieromartyrs-nicander-bishop-of-myra-and-hermas-the-presbyter",
@@ -14,10 +28,12 @@
   ],
   "editorial": {
     "status": "draft",
-    "confidence": "low",
+    "confidence": "medium",
     "notes": [
-      "Importat automat din oca.org; de verificat.",
-      "Genul nu reiese din sursă; e de verificat."
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "nicandru-of-mire"
+  ]
 }

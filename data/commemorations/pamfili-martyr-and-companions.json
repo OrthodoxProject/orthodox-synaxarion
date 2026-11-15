@@ -1,0 +1,34 @@
+{
+  "id": "pamfili-martyr-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:pamfili-martyr",
+    "person:atios",
+    "person:alexander-2",
+    "person:kindeus",
+    "person:minsiteus",
+    "person:cyriacus-2",
+    "person:mineon",
+    "person:katun",
+    "person:eukle"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 1
+  },
+  "sources": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-08-14?text=4685",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendarul Patriarhiei Georgiei (patriarchate.ge); de verificat."
+    ]
+  }
+}

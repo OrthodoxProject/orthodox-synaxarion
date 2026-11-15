@@ -1,0 +1,15 @@
+{
+  "id": "georgian",
+  "locale": "ro",
+  "names": {
+    "display": "Biserica Ortodoxă a Georgiei",
+    "variants": [
+      "Biserica Ortodoxă Georgiană",
+      "Biserica Ortodoxă Apostolică Autocefală a Georgiei"
+    ]
+  },
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

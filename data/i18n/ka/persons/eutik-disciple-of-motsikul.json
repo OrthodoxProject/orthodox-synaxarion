@@ -1,0 +1,19 @@
+{
+  "id": "eutik-disciple-of-motsikul",
+  "locale": "ka",
+  "names": {
+    "display": "მღვდელმოწამე ევტიქი",
+    "given": "ევტიქი"
+  },
+  "references": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-09-06?text=4822",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

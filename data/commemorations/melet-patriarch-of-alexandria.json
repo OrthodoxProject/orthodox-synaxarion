@@ -1,0 +1,26 @@
+{
+  "id": "melet-patriarch-of-alexandria",
+  "kind": "repose",
+  "subjects": [
+    "group:melet-patriarch-of-alexandria"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 30
+  },
+  "sources": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-10-13?text=2933",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendarul Patriarhiei Georgiei (patriarchate.ge); de verificat."
+    ]
+  }
+}

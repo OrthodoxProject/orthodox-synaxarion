@@ -1,0 +1,19 @@
+{
+  "id": "solomon-king-ii",
+  "locale": "ka",
+  "names": {
+    "display": "წმიდა სოლომონ",
+    "given": "სოლომონ"
+  },
+  "references": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-02-20?text=3697",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

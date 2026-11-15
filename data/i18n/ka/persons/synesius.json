@@ -1,0 +1,19 @@
+{
+  "id": "synesius",
+  "locale": "ka",
+  "names": {
+    "display": "მოწამე სინეზი",
+    "given": "სინეზი"
+  },
+  "references": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-12-25?text=3392",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

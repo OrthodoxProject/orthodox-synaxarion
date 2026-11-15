@@ -1,0 +1,22 @@
+{
+  "tradition": "georgian",
+  "date": "09-26",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:john-the-theologian-2--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:arrival-of-the-iveron-icon-of-theotokos-in-georgia"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:tikhon-of-moscow--repose"
+      ],
+      "differs_from_default": true
+    }
+  ]
+}

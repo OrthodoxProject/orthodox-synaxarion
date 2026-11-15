@@ -1,0 +1,19 @@
+{
+  "id": "taqvanistsema",
+  "locale": "ka",
+  "names": {
+    "display": "თაყვანისცემა",
+    "given": "თაყვანისცემა"
+  },
+  "references": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-08-28?text=4762",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

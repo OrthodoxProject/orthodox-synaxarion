@@ -2,7 +2,7 @@
 import { jdnToGregorian, julianToJdn } from "../../../tools/lib/calendar.ts";
 import { isMachineTranslation, type LongText } from "../../../tools/lib/dataset.ts";
 import { REF_PREFIXES } from "../../../tools/lib/layout.ts";
-import { ds, href, idOf, pageSubject, record, todayIso, type Placement } from "./site.ts";
+import { ds, href, idOf, pageSubject, record, todayIso, traditionData, type Placement } from "./site.ts";
 import { t, type Lang } from "./ui.ts";
 
 type Rec = Record<string, any>;
@@ -118,11 +118,29 @@ export function commName(ref: string, lang: Lang): string {
   return derived || localeOf("commemorations", id, lang)?.names?.display || id;
 }
 
-/** Title of a calendar line: the tradition's official title in this language, else the commemorations' titles. */
+/**
+ * Title of a calendar line: the tradition's official title in this language (or that of the tradition whose
+ * calendar it keeps), else the commemorations' titles.
+ */
 export function lineTitle(line: Rec, lang: Lang, tradition: string): string {
   const commemorations = line.commemorations as string[];
-  const official = exactLocale("traditions", tradition, lang)?.official_titles?.[commemorations[0] ?? ""];
-  return official ?? commemorations.map((c) => commName(c, lang)).join("; ");
+  for (const id of traditionData(tradition).chain) {
+    const official = exactLocale("traditions", id, lang)?.official_titles?.[commemorations[0] ?? ""];
+    if (official) return official;
+  }
+  return commemorations.map((c) => commName(c, lang)).join("; ");
+}
+
+/** The symbols of a tradition's calendar, with those of the calendar it keeps (calendar_from). */
+export function symbolLegend(tradition: string): Map<string, Rec> {
+  return new Map(((traditionData(tradition).tradition.symbol_legend ?? []) as Rec[]).map((s) => [s.key as string, s]));
+}
+
+/** The labels of a tradition's symbols in the reader's language, with those of the calendar it keeps. */
+export function symbolLabels(tradition: string, lang: Lang): Record<string, string> {
+  const out: Record<string, string> = {};
+  for (const id of [...traditionData(tradition).chain].reverse()) Object.assign(out, localeOf("traditions", id, lang)?.symbols ?? {});
+  return out;
 }
 
 /** Page of a record; a saint's day links to the saint. */

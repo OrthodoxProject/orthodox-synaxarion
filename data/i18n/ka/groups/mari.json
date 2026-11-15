@@ -1,0 +1,18 @@
+{
+  "id": "mari",
+  "locale": "ka",
+  "names": {
+    "display": "ღირსისა მარი მგალობელისა"
+  },
+  "references": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-02-07?text=3633",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

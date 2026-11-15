@@ -1,0 +1,19 @@
+{
+  "id": "simon-presbyter",
+  "locale": "ka",
+  "names": {
+    "display": "მღვდელმოწამე სვიმონ",
+    "given": "სვიმონ"
+  },
+  "references": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-08-27?text=4755",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

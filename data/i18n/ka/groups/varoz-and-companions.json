@@ -1,0 +1,18 @@
+{
+  "id": "varoz-and-companions",
+  "locale": "ka",
+  "names": {
+    "display": "მოწამე ვაროზისა და მისთანა შვიდთა მოწამეთა"
+  },
+  "references": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-11-07?text=3080",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

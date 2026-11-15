@@ -1,0 +1,27 @@
+{
+  "id": "sokrat-and-teodot",
+  "kind": "repose",
+  "subjects": [
+    "person:sokrat",
+    "person:teodot"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 23
+  },
+  "sources": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-11-05?text=3068",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendarul Patriarhiei Georgiei (patriarchate.ge); de verificat."
+    ]
+  }
+}

@@ -1,14 +1,14 @@
 {
   "id": "agni",
   "kind": "saint",
-  "gender": "female",
+  "gender": "male",
   "holiness_types": [
     "martyr"
   ],
   "sources": [
     {
-      "source": "src:e-religie",
-      "url": "https://e-religie.ro/sinaxar/ianuarie/sinaxar-ziua-14-luna-1/#ancora-continut-6",
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-04-08?text=3964",
       "accessed": "2026-11-15"
     }
   ],
@@ -16,7 +16,9 @@
     "status": "draft",
     "confidence": "low",
     "notes": [
-      "Importat automat din e-religie.ro; de verificat."
+      "Importat automat din calendarul Patriarhiei Georgiei (patriarchate.ge); de verificat.",
+      "Numele e trecut automat din genitivul calendarului la nominativ; e de verificat.",
+      "Genul nu reiese din sursă; e de verificat."
     ]
   }
 }

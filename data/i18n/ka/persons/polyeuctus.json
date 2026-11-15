@@ -1,0 +1,19 @@
+{
+  "id": "polyeuctus",
+  "locale": "ka",
+  "names": {
+    "display": "აღმსარებელი პოლიევქტოს",
+    "given": "პოლიევქტოს"
+  },
+  "references": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-09-06?text=4821",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "patriarchate-ge",
+  "type": "calendar",
+  "title": "საეკლესიო კალენდარი",
+  "publisher": "საქართველოს საპატრიარქო",
+  "url": "https://patriarchate.ge/calendar",
+  "language": "ka",
+  "license": "LicenseRef-AllRightsReserved",
+  "accessed": "2026-11-15",
+  "notes": [
+    "Calendarul bisericesc al Patriarhiei Georgiei, câte o pagină pe zi civilă (/calendar/day/AAAA-LL-ZZ), cu ziua din Minei pe stil vechi și pomenirile zilei, fiecare cu un ID care rămâne același de la un an la altul. Folosim doar fapte (cine se pomenește și în ce zi), cu trimitere la pagina pomenirii; viețile nu se copiază."
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "high"
+  }
+}

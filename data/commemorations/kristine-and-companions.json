@@ -1,0 +1,28 @@
+{
+  "id": "kristine-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:kristine",
+    "person:kalista-2",
+    "person:theophilus-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 6
+  },
+  "sources": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-02-19?text=3692",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendarul Patriarhiei Georgiei (patriarchate.ge); de verificat."
+    ]
+  }
+}

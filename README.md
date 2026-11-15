@@ -43,6 +43,12 @@ npm run import
 
 `npm run import` reads the sources listed in `data/sources/` (the official calendar of the Romanian Patriarchate, doxologia.ro, the OCA lives of the saints, the local lists of orthodox-calendar, the Coptic Synaxarium of copticchurch.net and st-takla.org, and the Armenian calendar of armenianchurch.ge) and adds the saints and feasts they list to `data/`: persons, groups, icons, commemorations, their names in Romanian and English, and the calendar lines of each tradition, plus the fasting printed in the official Romanian calendar, which goes to the yearly overrides. It takes only facts (names, days, crosses, links, fasting), never the texts of the lives. The same saint found in several sources becomes one record. Pages are cached in `build/cache/`, and robots.txt and the sites' crawl delays are honoured, so the first run takes about two hours; `--offline` works from the cache only and `--dry-run` only reports. Existing records are never rewritten. Run `npm run format` and `npm run check` afterwards. See [docs/SCHEMA.md](docs/SCHEMA.md#importul-din-surse) for how the sources are matched.
 
+```bash
+npm run import:traditions
+```
+
+`npm run import:traditions` imports the calendars of the Churches whose sources write in other languages: for now the Georgian Orthodox Church, from the official calendar of the Patriarchate of Georgia (patriarchate.ge). Each line is read in its language, its names written in Latin letters, and matched with the commemorations that the calendars already in `data/` keep on the same Menaion day; the lines go to the tradition's calendar, and the saints not found become new records named in that language. Lines that match no one with certainty (icons, local feasts, saints of a name that other days also have) are left out and listed with `--report <file>`. Run it after `npm run import`; it takes the same options (`--offline`, `--dry-run`, `--cache`). See [docs/SCHEMA.md](docs/SCHEMA.md#calendarele-altor-biserici).
+
 ## Translating the names
 
 ```bash

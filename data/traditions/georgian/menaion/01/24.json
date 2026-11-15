@@ -1,0 +1,34 @@
+{
+  "tradition": "georgian",
+  "date": "01-24",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:melchizedek-i-of-all-georgia--repose"
+      ],
+      "differs_from_default": true
+    },
+    {
+      "commemorations": [
+        "comm:xenia-of-petersburg--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:vavila--repose",
+        "comm:timothy--repose",
+        "comm:agapius--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:macedonius-the-hermit-of-syria--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:anastasius-the-persian--finding-of-relics"
+      ]
+    }
+  ]
+}

@@ -43,6 +43,13 @@ import { mmdd, type Citation, type Unit } from "./units.ts";
 
 export type Confidence = "low" | "medium" | "high";
 
+/** The language a unit's names compare in: Romanian, English, or another language written in Latin letters (Unit.foreign). */
+export type MatchLang = "ro" | "en" | "foreign";
+
+function langOf(u: Unit): MatchLang {
+  return u.foreign ? "foreign" : u.lang;
+}
+
 /**
  * Extra conditions for the bare names of the orthodox-calendar lists:
  * - agree: on the Menaion date, the kind of holiness must agree (a martyr is
@@ -483,10 +490,18 @@ export class Builder {
   // -------------------------------------------------------------------------
 
   /** How well a name designates a person; `listed` compares the person's names with the place that closes their list. */
-  slotScore(part: NamePart, lang: "ro" | "en", slot: Slot, listed = false): number {
+  slotScore(part: NamePart, lang: MatchLang, slot: Slot, listed = false): number {
+    const nameOf = (n: SlotName): NamePart => (listed ? (n.listed ?? n.part) : n.part);
+    if (lang === "foreign") {
+      // A name of another language compares with both languages of the data, as across languages.
+      let score = 0;
+      for (const n of [slot.ro, slot.en]) if (n) score = Math.max(score, personScore(part, nameOf(n), true));
+      for (const alt of slot.alts) score = Math.max(score, personScore(part, alt, true));
+      if (part.key.length <= 2 && !part.eq && ![slot.ro?.part, slot.en?.part, ...slot.alts].some((x) => x && x.key === part.key)) score = Math.min(score, 0.5);
+      return score;
+    }
     const same = slot[lang];
     const other = slot[lang === "ro" ? "en" : "ro"];
-    const nameOf = (n: SlotName): NamePart => (listed ? (n.listed ?? n.part) : n.part);
     let score = 0;
     // A name in the same language says more than a transliteration: use it when there is one.
     if (same) score = personScore(part, nameOf(same), false);
@@ -507,16 +522,16 @@ export class Builder {
    * already named (see namesExactly): compared with the person's name in that language, with the place that closes its
    * list; a person named in the other language only is not named exactly.
    */
-  namedExactly(part: NamePart, lang: "ro" | "en", slot: Slot, other?: NamePart): boolean {
-    const same = slot[lang];
+  namedExactly(part: NamePart, lang: MatchLang, slot: Slot, other?: NamePart): boolean {
+    const same = lang === "foreign" ? undefined : slot[lang];
     const name = other ?? (same ? (same.listed ?? same.part) : undefined);
     return name !== undefined && namesExactly(part, name);
   }
 
   /** How much a name agrees with the names of a person besides the score (see nameAgreement), compared as slotScore compares them. */
-  slotAgreement(part: NamePart, lang: "ro" | "en", slot: Slot): number {
-    const same = slot[lang];
-    const names = same ? [same.part] : [slot[lang === "ro" ? "en" : "ro"]?.part, ...slot.alts];
+  slotAgreement(part: NamePart, lang: MatchLang, slot: Slot): number {
+    const same = lang === "foreign" ? undefined : slot[lang];
+    const names = same ? [same.part] : lang === "foreign" ? [slot.ro?.part, slot.en?.part, ...slot.alts] : [slot[lang === "ro" ? "en" : "ro"]?.part, ...slot.alts];
     let best: number | undefined;
     for (const name of names) if (name) best = Math.max(best ?? -Infinity, nameAgreement(part, name));
     return best ?? 0;
@@ -546,7 +561,8 @@ export class Builder {
     return shared;
   }
 
-  private threshold(lang: "ro" | "en", slot: Slot): number {
+  private threshold(lang: MatchLang, slot: Slot): number {
+    if (lang === "foreign") return 0.8;
     return slot[lang] ? 0.95 : 0.8;
   }
 
@@ -636,12 +652,12 @@ export class Builder {
           // A second unit of the same source and day lands on a person only when it names it exactly (see namedExactly),
           // and a group's unit never does: the group is another commemoration ("Paul", one of St Luchilian's youths, is not "Sfânta Muceniță Paula fecioara").
           const again = slot.matched.has(`${u.source}@${mmdd(u.month, u.day)}`) || rules.claimed?.has(slot) === true;
-          if (again && (p.kind === "group" || !this.namedExactly(withListPlace(part, p.names), u.lang, slot))) continue;
+          if (again && (p.kind === "group" || !this.namedExactly(withListPlace(part, p.names), langOf(u), slot))) continue;
           // Exactly means with the places that close the two lists: "Sergius of Paphlagonia" is not the Sergius of
           // "Sergius and Herman, Wonderworkers of Valaam", whom the OCA lists the same day.
-          const own = again ? this.slotScore(withListPlace(part, p.names), u.lang, slot, true) : this.slotScore(part, u.lang, slot);
+          const own = again ? this.slotScore(withListPlace(part, p.names), langOf(u), slot, true) : this.slotScore(part, langOf(u), slot);
           const score = own + (fits(slot.holiness) ? 0 : -0.15);
-          if (score >= (again ? Math.max(1, this.threshold(u.lang, slot)) : this.threshold(u.lang, slot))) scored.push({ part, slot, cluster: c, score, agreement: this.slotAgreement(part, u.lang, slot), holiness: holinessAgrees(holiness, slot.holiness) ? 1 : 0, evidence: this.evidence(u, part, slot, c) });
+          if (score >= (again ? Math.max(1, this.threshold(langOf(u), slot)) : this.threshold(langOf(u), slot))) scored.push({ part, slot, cluster: c, score, agreement: this.slotAgreement(part, langOf(u), slot), holiness: holinessAgrees(holiness, slot.holiness) ? 1 : 0, evidence: this.evidence(u, part, slot, c) });
         }
       }
     }
@@ -664,7 +680,8 @@ export class Builder {
       for (const c of pool) {
         if (!PERSON_KINDS.has(c.kind) && !(c.kind === "group" && c.slots.length > 0)) continue;
         for (const slot of c.slots) {
-          const name = slot[u.lang];
+          // A name of another language may be the same first name as either name of the person.
+          const name = u.foreign ? [slot.en, slot.ro].find((n) => n && givenSimilarity(part, n.part) >= 1) : slot[u.lang];
           if (!name || taken.has(slot) || slot.matched.has(`${u.source}@${mmdd(u.month, u.day)}`) || rules.claimed?.has(slot)) continue;
           if (givenSimilarity(part, name.part) < 1 || gendersDiffer(part, name.part)) continue;
           if (!rules.anyHoliness && !fits(slot.holiness)) continue;
@@ -770,8 +787,8 @@ export class Builder {
         for (const c of pool) {
           if (!PERSON_KINDS.has(c.kind) && !(c.kind === "group" && c.slots.length > 0)) continue;
           for (const slot of c.slots) {
-            const score = this.slotScore(part, u.lang, slot) + (holinessCompatible(new Set(p.holiness), slot.holiness) ? 0 : -0.15);
-            if (score >= this.threshold(u.lang, slot)) candidates.push({ u, part, slot, cluster: c, score, agreement: this.slotAgreement(part, u.lang, slot), holiness: holinessAgrees(new Set(p.holiness), slot.holiness) ? 1 : 0, evidence: this.evidence(u, part, slot, c) });
+            const score = this.slotScore(part, langOf(u), slot) + (holinessCompatible(new Set(p.holiness), slot.holiness) ? 0 : -0.15);
+            if (score >= this.threshold(langOf(u), slot)) candidates.push({ u, part, slot, cluster: c, score, agreement: this.slotAgreement(part, langOf(u), slot), holiness: holinessAgrees(new Set(p.holiness), slot.holiness) ? 1 : 0, evidence: this.evidence(u, part, slot, c) });
           }
         }
       }
@@ -787,7 +804,7 @@ export class Builder {
       const own = withListPlace(x.part, x.u.parsed.names);
       const before = (uses.get(x.slot) ?? 0) + (x.slot.matched.has(`${x.u.source}@${mmdd(x.u.month, x.u.day)}`) ? 1 : 0);
       // As in matchNames, a group's unit never takes a person that its source already named that day.
-      if (before > 0 && (x.u.parsed.kind === "group" || !this.namedExactly(own, x.u.lang, x.slot, named.get(x.slot)))) continue;
+      if (before > 0 && (x.u.parsed.kind === "group" || !this.namedExactly(own, langOf(x.u), x.slot, named.get(x.slot)))) continue;
       const r = out.get(x.u) ?? { clusters: [], pairs: [], rest: [] };
       if (r.pairs.some(([, s]) => s === x.slot)) continue;
       done.add(x.part);
@@ -831,7 +848,7 @@ export class Builder {
    */
   private seeAndPlace(units: Unit[], pool: Cluster[], done: Set<NamePart>, uses: Map<Slot, number>): Array<[Unit, NamePart, Slot, Cluster]> {
     const parts = units
-      .filter((u) => (u.parsed.kind === "saint" || u.parsed.kind === "saints") && this.exactFor(u).length === 0)
+      .filter((u) => (u.parsed.kind === "saint" || u.parsed.kind === "saints") && !u.foreign && this.exactFor(u).length === 0)
       .flatMap((u) => u.parsed.names.map((part) => ({ u, part })));
     const out: Array<[Unit, NamePart, Slot, Cluster]> = [];
     for (const { u, part } of parts) {
@@ -1842,7 +1859,7 @@ function subjectScore(b: Builder, u: Unit, c: Cluster): number {
   const parts = subject?.names ?? [];
   let best = 0;
   for (const part of parts) {
-    for (const slot of [...c.subjectSlots, ...c.slots]) best = Math.max(best, b.slotScore(part, u.lang, slot));
+    for (const slot of [...c.subjectSlots, ...c.slots]) best = Math.max(best, b.slotScore(part, langOf(u), slot));
     for (const t of c.subjectTitles) for (const other of t.names) best = Math.max(best, personScoreAny(part, other));
   }
   // A synaxis of a group ("Soborul Sfinților 70 de Apostoli") compares as a group.

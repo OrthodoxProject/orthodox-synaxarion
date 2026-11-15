@@ -1,0 +1,19 @@
+{
+  "id": "bessarion-archdeacon",
+  "locale": "ka",
+  "names": {
+    "display": "მღვდელმოწამე ბესარიონ",
+    "given": "ბესარიონ"
+  },
+  "references": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-08-27?text=4755",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

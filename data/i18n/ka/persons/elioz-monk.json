@@ -1,0 +1,19 @@
+{
+  "id": "elioz-monk",
+  "locale": "ka",
+  "names": {
+    "display": "ღირსი ელიოზ",
+    "given": "ელიოზ"
+  },
+  "references": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-07-27?text=4585",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

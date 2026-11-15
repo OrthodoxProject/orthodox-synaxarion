@@ -1,0 +1,14 @@
+{
+  "id": "bulgarian",
+  "locale": "bg",
+  "names": {
+    "display": "Българска православна църква",
+    "variants": [
+      "Българска патриаршия"
+    ]
+  },
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

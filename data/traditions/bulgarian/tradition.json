@@ -1,0 +1,37 @@
+{
+  "id": "bulgarian",
+  "family": "eastern_orthodox",
+  "status": "autocephalous",
+  "calendar_style": "revised_julian",
+  "calendar_history": [
+    {
+      "style": "julian",
+      "until": "1968-12-19"
+    }
+  ],
+  "paschalion": "julian",
+  "lectionary": {
+    "lukan_jump": true
+  },
+  "countries": [
+    "BG"
+  ],
+  "languages": [
+    "bg"
+  ],
+  "liturgical_languages": [
+    "cu",
+    "bg"
+  ],
+  "default_locale": "bg",
+  "external_ids": {
+    "wikidata": "Q242758"
+  },
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Calendarul pe zile al Bisericii Bulgare e de importat."
+    ]
+  }
+}

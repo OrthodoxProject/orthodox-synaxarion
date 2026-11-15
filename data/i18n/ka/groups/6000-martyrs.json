@@ -1,0 +1,18 @@
+{
+  "id": "6000-martyrs",
+  "locale": "ka",
+  "names": {
+    "display": "6000 დავითგარეჯელ მოწამეთა"
+  },
+  "references": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-04-14?text=4964",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

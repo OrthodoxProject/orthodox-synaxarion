@@ -1,0 +1,37 @@
+{
+  "tradition": "georgian",
+  "date": "10-26",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:alexander-bishop--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:demetrios-the-myrrh-gusher-of-thessaloniki--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:mitsisdzvr--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:lupus-2--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:athanasius-of-medikion-monastery--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:demetrios--repose"
+      ],
+      "differs_from_default": true
+    }
+  ]
+}

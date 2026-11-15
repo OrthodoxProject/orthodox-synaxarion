@@ -1,0 +1,19 @@
+{
+  "id": "nikodimos",
+  "locale": "ka",
+  "names": {
+    "display": "მართალი ნიკოდიმოსი",
+    "given": "ნიკოდიმოსი"
+  },
+  "references": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-04-26?text=4176",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

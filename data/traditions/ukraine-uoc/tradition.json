@@ -1,0 +1,30 @@
+{
+  "id": "ukraine-uoc",
+  "family": "eastern_orthodox",
+  "status": "other",
+  "calendar_style": "julian",
+  "paschalion": "julian",
+  "countries": [
+    "UA"
+  ],
+  "languages": [
+    "uk",
+    "ru"
+  ],
+  "liturgical_languages": [
+    "cu",
+    "uk",
+    "ro"
+  ],
+  "default_locale": "uk",
+  "external_ids": {
+    "wikidata": "Q752474"
+  },
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Biserica Ortodoxă Ucraineană (Mitropolitul Onufrie). Până în 2022 Biserică autonomă a Patriarhiei Moscovei; în mai 2022 Soborul ei s-a declarat de sine stătătoare și independent, pe care Patriarhia Moscovei o socotește însă încă a ei. Calendarul pe zile e de importat."
+    ]
+  }
+}

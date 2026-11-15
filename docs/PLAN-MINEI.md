@@ -11,7 +11,7 @@ Amândouă au toate drepturile rezervate, deci se iau doar fapte: cine se pomene
 
 ## Făcut
 
-- **15 noiembrie, de mână.** Sesizarea: în ziua aceasta BOR îi mai pomenește pe Preacuviosul Părintele nostru Chintian, episcopul Seleuciei, și pe Sfântul Mucenic Dimitrie, care lipseau din calendarul BOR al site-ului. Cele două surse mai au un rând care lipsea: *Sfinții Mucenici Elpidie, Marcel, Eustohie și cei împreună cu dânșii*. Ce s-a schimbat în date:
+- **15 noiembrie, de mână** (PR [#37](https://github.com/OrthodoxProject/orthodox-synaxarion/pull/37)). Sesizarea: în ziua aceasta BOR îi mai pomenește pe Preacuviosul Părintele nostru Chintian, episcopul Seleuciei, și pe Sfântul Mucenic Dimitrie, care lipseau din calendarul BOR al site-ului. Cele două surse mai au un rând care lipsea: *Sfinții Mucenici Elpidie, Marcel, Eustohie și cei împreună cu dânșii*. Ce s-a schimbat în date:
   - cele două surse sunt în `data/sources/` (`calendar-ortodox.json`, `arhiepiscopia-arges.json`);
   - calendarul BOR are trei rânduri noi, după cele existente și în ordinea din sinaxar: Sf. Cuv. Chintian, Sf. Mc. Elpidie, Marcel, Eustohie și cei împreună cu dânșii, Sf. Mc. Dimitrie;
   - Sf. Chintian e o persoană nouă, `quinctian-of-seleucia`, cu pomenirea `quinctian-of-seleucia--repose`; numele englezesc vine de la Wikipedia (*Saint Quinctian (Kyntion), Bishop of Seleucia*, secolul al IV-lea, în [November 15 (Eastern Orthodox liturgics)](https://en.wikipedia.org/wiki/November_15_(Eastern_Orthodox_liturgics))); OCA și doxologia nu îl au;

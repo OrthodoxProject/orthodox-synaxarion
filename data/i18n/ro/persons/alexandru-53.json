@@ -2,14 +2,15 @@
   "id": "alexandru-53",
   "locale": "ro",
   "names": {
-    "display": "Sf. Mc. Alexandru",
+    "display": "Sf. Sfințit Mc. Alexandru",
+    "full": "Sfântul Sfințit Mucenic Alexandru",
     "short": "Alexandru",
     "given": "Alexandru"
   },
   "references": [
     {
       "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/1218",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2bd9f71f-1ed8-4d4d-84a3-9ba2d3569ba6",
       "accessed": "2026-11-15"
     }
   ],

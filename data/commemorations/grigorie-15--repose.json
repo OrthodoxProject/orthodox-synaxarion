@@ -7,12 +7,12 @@
   "date_rule": {
     "type": "fixed",
     "month": 11,
-    "day": 6
+    "day": 4
   },
   "sources": [
     {
       "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/21c5611c-f9bf-4566-b10d-fa3128d7c9de",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1eed908c-9b31-48dc-802a-1555c1a7c52b",
       "accessed": "2026-11-15"
     }
   ],

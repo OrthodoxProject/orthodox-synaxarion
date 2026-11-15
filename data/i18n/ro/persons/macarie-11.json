@@ -2,14 +2,15 @@
   "id": "macarie-11",
   "locale": "ro",
   "names": {
-    "display": "Sf. Ier. Macarie",
+    "display": "Sf. Cuv. Mc. Macarie",
+    "full": "Sfântul Cuvios Mucenic Macarie",
     "short": "Macarie",
     "given": "Macarie"
   },
   "references": [
     {
       "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/863",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8aa1c4ab-6188-4a1a-8319-c836b69e5f92",
       "accessed": "2026-11-15"
     }
   ],

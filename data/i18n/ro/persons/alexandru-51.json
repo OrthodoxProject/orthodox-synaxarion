@@ -2,15 +2,14 @@
   "id": "alexandru-51",
   "locale": "ro",
   "names": {
-    "display": "Sf. Sfințit Mc. Alexandru",
-    "full": "Sfântul Sfințit Mucenic Alexandru",
-    "short": "Alexandru",
+    "display": "Sf. Sfințit Mc. Alexandru (Bogoiavlenski)",
+    "short": "Alexandru (Bogoiavlenski)",
     "given": "Alexandru"
   },
   "references": [
     {
       "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/2bd9f71f-1ed8-4d4d-84a3-9ba2d3569ba6",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0e547f26-856c-4069-b23f-259c9a0b06e3#3",
       "accessed": "2026-11-15"
     }
   ],

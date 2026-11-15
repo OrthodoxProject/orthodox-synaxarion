@@ -1,0 +1,20 @@
+{
+  "id": "nil-of-rusia-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Nil (Smirnov) din Rusia",
+    "short": "Nil (Smirnov) din Rusia",
+    "given": "Nil"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/965dc9eb-1894-4e33-96e0-494f4c0b6d28",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -2,19 +2,14 @@
   "id": "ioan-49",
   "locale": "ro",
   "names": {
-    "display": "Sf. Ioan",
+    "display": "Sf. Mc. Ioan",
     "short": "Ioan",
     "given": "Ioan"
   },
   "references": [
     {
       "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/61768b99-2cbd-445b-814e-d3c808aa05a1",
-      "accessed": "2026-11-15"
-    },
-    {
-      "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/54cee53b-79f5-4269-aada-3cb46e173a7a",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2cc1193f-5ea0-4d29-b867-a12817fd3179",
       "accessed": "2026-11-15"
     }
   ],

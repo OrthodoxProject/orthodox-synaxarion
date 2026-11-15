@@ -3,19 +3,18 @@
   "kind": "repose",
   "subjects": [
     "person:alexandru-35",
-    "person:secund-7",
-    "person:irineu-2",
-    "person:avondie-of-roma"
+    "person:pavel-29",
+    "person:ignatie-of-rusia"
   ],
   "date_rule": {
     "type": "fixed",
     "month": 8,
-    "day": 26
+    "day": 21
   },
   "sources": [
     {
       "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/54c14091-8fef-44b7-a320-d63c14656c11",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b53cf0f6-b726-4cc2-afa3-0bc00ff557ac",
       "accessed": "2026-11-15"
     }
   ],

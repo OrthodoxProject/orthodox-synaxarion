@@ -1,0 +1,21 @@
+{
+  "id": "ioan-the-tacut-of-colonia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ioan cel Tăcut, Episcop de Colonia, nevoitor la Mănăstirea Sfântul Sava din Palestina",
+    "full": "Sfântul Ierarh Ioan cel Tăcut, Episcop de Colonia, nevoitor la Mănăstirea Sfântul Sava din Palestina",
+    "short": "Ioan cel Tăcut, Episcop de Colonia, nevoitor la Mănăstirea Sfântul Sava din Palestina",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/97664917-b1ad-4eb9-8bec-444870e3dfaa",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

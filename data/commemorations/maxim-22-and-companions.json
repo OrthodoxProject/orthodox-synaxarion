@@ -1,0 +1,30 @@
+{
+  "id": "maxim-22-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:maxim-22",
+    "person:venantie",
+    "person:lucian-7",
+    "person:comitiu",
+    "person:donat-of-italia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 27
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c8c61340-71a9-4db2-9ce6-ce956d8090fa",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

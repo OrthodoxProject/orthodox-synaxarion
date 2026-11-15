@@ -1,0 +1,21 @@
+{
+  "id": "atanasie-sinaitul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Atanasie Sinaitul",
+    "full": "Sfântul Cuvios Atanasie Sinaitul",
+    "short": "Atanasie Sinaitul",
+    "given": "Atanasie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/cf2d16fa-6cae-4dd8-8e81-1257df06b5c0",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

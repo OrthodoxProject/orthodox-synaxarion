@@ -1,0 +1,40 @@
+{
+  "id": "teodor-39-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:teodor-39",
+    "person:petru-56",
+    "person:serghie-28",
+    "person:ioan-104",
+    "person:teodor-40",
+    "person:nichifor-10",
+    "person:vasile-60",
+    "person:toma-2",
+    "person:ierotei-4",
+    "person:hariton-6",
+    "person:daniel-3",
+    "person:socrat-2",
+    "person:comasie",
+    "person:eusebie-6",
+    "person:etimasie-of-cilicia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 28
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ea23900c-6aee-4a81-9750-8337ee93bff2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

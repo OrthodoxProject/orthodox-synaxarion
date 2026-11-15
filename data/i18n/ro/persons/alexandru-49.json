@@ -2,14 +2,19 @@
   "id": "alexandru-49",
   "locale": "ro",
   "names": {
-    "display": "Sf. Sfințit Mc. Alexandru (Bogoiavlenski)",
-    "short": "Alexandru (Bogoiavlenski)",
+    "display": "Sf. Sfințit Nou Mc. Alexandru (Orlov)",
+    "short": "Alexandru (Orlov)",
     "given": "Alexandru"
   },
   "references": [
     {
       "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/0e547f26-856c-4069-b23f-259c9a0b06e3#3",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/659c4649-25cc-4e0d-817c-5b3cf2e66225",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/911",
       "accessed": "2026-11-15"
     }
   ],

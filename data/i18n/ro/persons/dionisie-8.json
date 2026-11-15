@@ -2,15 +2,14 @@
   "id": "dionisie-8",
   "locale": "ro",
   "names": {
-    "display": "Cuviosul Mc. Dionisie și însoțitorii săi de la Mănăstirea Vatopedu din Sfântul Munte Athos",
-    "full": "Cuviosul Mucenic Dionisie și însoțitorii săi de la Mănăstirea Vatopedu din Sfântul Munte Athos",
-    "short": "Dionisie, însoțitorii săi de la Mănăstirea Vatopedu din Sfântul Munte Athos",
+    "display": "Sf. Mc. Dionisie",
+    "short": "Dionisie",
     "given": "Dionisie"
   },
   "references": [
     {
       "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/20049692-00b7-476a-ab11-251a344e5f2a",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a72b4f9b-6bcd-4fed-ba3d-fb7ef05ad051",
       "accessed": "2026-11-15"
     }
   ],

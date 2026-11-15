@@ -1,0 +1,21 @@
+{
+  "id": "macarie-of-constantinopol",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Macarie din Constantinopol",
+    "full": "Sfântul Cuvios Macarie din Constantinopol",
+    "short": "Macarie din Constantinopol",
+    "given": "Macarie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7ca09af4-7f08-4837-a8bb-3c453c17f98f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

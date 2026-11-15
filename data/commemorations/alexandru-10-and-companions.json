@@ -3,23 +3,19 @@
   "kind": "repose",
   "subjects": [
     "person:alexandru-10",
-    "person:teodor-6",
-    "person:nicandru-2",
-    "person:artemie",
-    "person:teodor-7",
-    "person:sisian",
-    "person:polion",
-    "person:crescentian"
+    "person:alexandru-11",
+    "person:dionisie-2",
+    "person:dionisie-3"
   ],
   "date_rule": {
     "type": "fixed",
     "month": 3,
-    "day": 17
+    "day": 15
   },
   "sources": [
     {
       "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/8f5d9791-7c0d-459f-8ad5-d3ce3cc69cb3",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/248",
       "accessed": "2026-11-15"
     }
   ],

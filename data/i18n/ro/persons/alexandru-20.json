@@ -2,14 +2,14 @@
   "id": "alexandru-20",
   "locale": "ro",
   "names": {
-    "display": "Sf. Sfințit Nou Mc. Alexandru (Osetrov)",
-    "short": "Alexandru (Osetrov)",
+    "display": "Sf. Mc. Alexandru",
+    "short": "Alexandru",
     "given": "Alexandru"
   },
   "references": [
     {
       "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/1092",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/07aae921-a94f-4a6f-bcf8-78c6c81be4a1",
       "accessed": "2026-11-15"
     }
   ],

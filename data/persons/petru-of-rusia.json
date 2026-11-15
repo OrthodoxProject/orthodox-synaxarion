@@ -4,12 +4,18 @@
   "gender": "male",
   "holiness_types": [
     "new_martyr",
-    "hieromartyr"
+    "hieromartyr",
+    "martyr"
   ],
   "sources": [
     {
       "source": "src:calendar-ortodox-md",
       "url": "https://calendar.ortodox.md/calendar/entry/RO/176c1d57-1627-45cf-a3f7-1a518aa37490",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/bcad1497-cb9b-4eeb-a5f8-6884b9b480c9",
       "accessed": "2026-11-15"
     },
     {

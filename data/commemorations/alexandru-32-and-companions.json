@@ -3,18 +3,18 @@
   "kind": "repose",
   "subjects": [
     "person:alexandru-32",
-    "person:leon-6",
-    "person:vladimir-20"
+    "person:rufina-3",
+    "person:secunda"
   ],
   "date_rule": {
     "type": "fixed",
-    "month": 8,
-    "day": 20
+    "month": 7,
+    "day": 10
   },
   "sources": [
     {
       "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/3b1870a3-78d5-45f4-96d6-e1de873260d6",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e8c63dc2-3674-4eb6-af20-9bc1e866193b",
       "accessed": "2026-11-15"
     }
   ],

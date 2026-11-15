@@ -3,12 +3,28 @@
   "kind": "saint",
   "gender": "male",
   "holiness_types": [
+    "new_martyr",
     "hieromartyr"
   ],
   "sources": [
     {
       "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/3b1870a3-78d5-45f4-96d6-e1de873260d6#2",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f646b0fb-d6ef-4699-9332-c757652edd30",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0715d00c-284a-46e6-99e1-ee6302dc0381",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c3e2b8b7-33d3-4bbb-ae83-0e75a1fbffbc",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e0a90ece-df64-45b3-8bde-ffb596caf9f6",
       "accessed": "2026-11-15"
     }
   ],
@@ -16,7 +32,8 @@
     "status": "draft",
     "confidence": "low",
     "notes": [
-      "Importat automat din calendar.ortodox.md; de verificat."
+      "Importat automat din calendar.ortodox.md; de verificat.",
+      "Genul nu reiese din sursă; e de verificat."
     ]
   }
 }

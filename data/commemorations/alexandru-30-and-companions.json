@@ -3,18 +3,19 @@
   "kind": "repose",
   "subjects": [
     "person:alexandru-30",
-    "person:rufina-3",
-    "person:secunda"
+    "person:vladimir-15",
+    "person:grigorie-9",
+    "person:petru-of-rusia"
   ],
   "date_rule": {
     "type": "fixed",
-    "month": 7,
-    "day": 10
+    "month": 6,
+    "day": 27
   },
   "sources": [
     {
       "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/e8c63dc2-3674-4eb6-af20-9bc1e866193b",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/bef09d61-ab9b-4f93-9b56-f65e21fe3fb9",
       "accessed": "2026-11-15"
     }
   ],

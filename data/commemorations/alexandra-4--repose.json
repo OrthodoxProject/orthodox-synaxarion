@@ -1,0 +1,26 @@
+{
+  "id": "alexandra-4--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:alexandra-4"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 1
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/aa8a01ca-c0c0-400c-903f-e3eacf3012fb",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

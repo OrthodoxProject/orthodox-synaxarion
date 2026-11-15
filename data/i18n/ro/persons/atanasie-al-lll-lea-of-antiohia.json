@@ -1,0 +1,21 @@
+{
+  "id": "atanasie-al-lll-lea-of-antiohia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Atanasie al lll-lea, patriarhul Antiohiei",
+    "full": "Sfântul Ierarh Atanasie al lll-lea, patriarhul Antiohiei",
+    "short": "Atanasie al lll-lea, patriarhul Antiohiei",
+    "given": "Atanasie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8320d1d3-4e30-4719-b606-c304555250dd",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

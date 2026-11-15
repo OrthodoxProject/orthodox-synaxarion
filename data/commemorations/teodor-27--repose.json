@@ -1,0 +1,26 @@
+{
+  "id": "teodor-27--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:teodor-27"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 20
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/813",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

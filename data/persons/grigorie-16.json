@@ -3,13 +3,13 @@
   "kind": "saint",
   "gender": "male",
   "holiness_types": [
-    "martyr",
-    "wonderworker"
+    "new_martyr",
+    "martyr"
   ],
   "sources": [
     {
       "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/99afda17-2588-4aeb-a9ac-41490e50513d",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/21c5611c-f9bf-4566-b10d-fa3128d7c9de",
       "accessed": "2026-11-15"
     }
   ],

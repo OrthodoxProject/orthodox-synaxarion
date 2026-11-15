@@ -1,0 +1,28 @@
+{
+  "id": "john-the-chozebite-of-caesarea",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ioan Hozevitul, Episcopul Cezareii Palestinei",
+    "full": "Sfântul Ierarh Ioan Hozevitul, Episcopul Cezareii Palestinei",
+    "short": "Ioan Hozevitul, Episcopul Cezareii Palestinei",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/03/102847-saint-john-the-chozebite-bishop-of-caesarea-palestine",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/28/103096-venerable-john-the-chozebite",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "en",
+    "date": "2026-11-15"
+  }
+}

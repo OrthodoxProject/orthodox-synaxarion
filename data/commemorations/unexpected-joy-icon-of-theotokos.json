@@ -2,7 +2,7 @@
   "id": "unexpected-joy-icon-of-theotokos",
   "kind": "icon",
   "subjects": [
-    "icon:unexpected-joy-icon-of-theotokos"
+    "icon:icon-of-theotokos-the-unexpected-joy"
   ],
   "date_rule": {
     "type": "fixed",
@@ -14,6 +14,11 @@
   },
   "sources": [
     {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoanei-maicii-domnului-bucurie-neasteptata",
+      "accessed": "2026-11-08"
+    },
+    {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/05/01/101267-unexpected-joy-icon-of-the-mother-of-god",
       "accessed": "2026-11-08"
@@ -21,9 +26,12 @@
   ],
   "editorial": {
     "status": "draft",
-    "confidence": "low",
+    "confidence": "medium",
     "notes": [
-      "Importat automat din oca.org; de verificat."
+      "Importat automat din doxologia.ro, oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "icon-of-theotokos-bucurie-neasteptata--05-01"
+  ]
 }

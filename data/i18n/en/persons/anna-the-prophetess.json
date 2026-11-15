@@ -4,12 +4,20 @@
   "names": {
     "display": "Holy, Righteous Anna the Prophetess",
     "short": "Anna the Prophetess",
-    "given": "Anna"
+    "given": "Anna",
+    "variants": [
+      "Righteous Anna the Prophetess and Daughter of Phanuel, who met the Lord at the Temple in Jerusalem"
+    ]
   },
   "references": [
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/02/03/100410-holy-righteous-anna-the-prophetess",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/28/102416-righteous-anna-the-prophetess-and-daughter-of-phanuel-who-met-th",
       "accessed": "2026-11-08"
     }
   ],

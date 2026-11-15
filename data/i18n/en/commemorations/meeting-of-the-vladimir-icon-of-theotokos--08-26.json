@@ -2,19 +2,17 @@
   "id": "meeting-of-the-vladimir-icon-of-theotokos--08-26",
   "locale": "en",
   "names": {
-    "display": "Meeting of the Vladimir Icon of the Mother of God"
+    "display": "Commemoration of the Vladimir Icon of the Mother of God and the deliverance of Moscow from the Invasion of Tamerlane"
   },
   "references": [
     {
-      "source": "src:doxologia",
-      "url": "https://doxologia.ro/cinstirea-sfintei-icoane-maicii-domnului-din-vladimir",
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/26/102402-commemoration-of-the-vladimir-icon-of-the-mother-of-god-and-the",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "ro",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

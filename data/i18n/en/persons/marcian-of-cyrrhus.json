@@ -4,12 +4,20 @@
   "names": {
     "display": "Saint Marcian of Cyrrhus",
     "short": "Marcian of Cyrrhus",
-    "given": "Marcian"
+    "given": "Marcian",
+    "variants": [
+      "Venerable Marcian of Cyrrhus in Syria"
+    ]
   },
   "references": [
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/11/02/103156-saint-marcian-of-cyrrhus",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/18/100223-venerable-marcian-of-cyrrhus-in-syria",
       "accessed": "2026-11-08"
     }
   ],

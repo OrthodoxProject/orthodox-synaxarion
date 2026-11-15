@@ -2,7 +2,7 @@
   "id": "svena-icon-of-theotokos-2",
   "kind": "icon",
   "subjects": [
-    "icon:svena-icon-of-theotokos-2"
+    "icon:svena-icon-of-theotokos"
   ],
   "date_rule": {
     "type": "fixed",
@@ -14,6 +14,11 @@
   },
   "sources": [
     {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoane-maicii-domnului-din-sven",
+      "accessed": "2026-11-08"
+    },
+    {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/08/17/108989-svena-icon-of-the-mother-of-god",
       "accessed": "2026-11-08"
@@ -21,9 +26,12 @@
   ],
   "editorial": {
     "status": "draft",
-    "confidence": "low",
+    "confidence": "medium",
     "notes": [
-      "Importat automat din oca.org; de verificat."
+      "Importat automat din doxologia.ro, oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "icon-of-theotokos-of-sven--08-17"
+  ]
 }

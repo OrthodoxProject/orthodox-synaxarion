@@ -2,12 +2,20 @@
   "id": "svena-icon-of-theotokos",
   "locale": "en",
   "names": {
-    "display": "\"Svena\" Icon of the Mother of God"
+    "display": "\"Svena\" Icon of the Mother of God",
+    "variants": [
+      "Svena Icon of the Mother of God"
+    ]
   },
   "references": [
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/05/03/101282-svena-icon-of-the-mother-of-god",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/17/108989-svena-icon-of-the-mother-of-god",
       "accessed": "2026-11-08"
     }
   ],

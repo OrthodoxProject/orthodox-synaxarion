@@ -2,19 +2,17 @@
   "id": "joyful-icon-of-theotokos",
   "locale": "ro",
   "names": {
-    "display": "Icoana Maicii Domnului „Bucuroasa”"
+    "display": "Cinstirea Sfintei Icoane a Maicii Domnului „a Bucuriei”"
   },
   "references": [
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/11/07/103243-joyful-icon-of-the-mother-of-god",
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoane-maicii-domnului-bucuriei",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "en",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

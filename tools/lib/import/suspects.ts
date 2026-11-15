@@ -12,18 +12,22 @@
  *   source ("Sf. Cuv. Iosif, scriitorul de cântări" of doxologia was the official calendar's "Iosif Imnograful");
  * - romanian-only: a saint known only from the Romanian sources and one known only from the OCA, of one first name, on
  *   the same day (the same saint, when the two calendars describe him in other words: "Maria Egipteanca" / "Mary of
- *   Egypt").
+ *   Egypt");
+ * - romanian-only-icons: an icon known only from the Romanian sources, with the icons known only from the OCA on the
+ *   same day, the one whose name shares most words with it first (the same icon, when the two calendars name it in
+ *   their own words: "„de pe Cruce” (Kupiatici)" / "Kupyatitsa", 15 November).
  *
  * The lists only point at what to read: two saints of one name on one day are often two saints.
  */
 import { holinessAgrees, personScore } from "./cluster.ts";
 import { parseEn } from "./en.ts";
 import type { Existing } from "./existing.ts";
+import { iconNamesScore, iconWords } from "./icons.ts";
 import type { HolinessType, NamePart } from "./model.ts";
 import { fold, givenSimilarity, skeleton } from "./names.ts";
 import { parseRo } from "./ro.ts";
 
-export type SuspectCheck = "official-missing" | "tie" | "same-day" | "romanian-only";
+export type SuspectCheck = "official-missing" | "tie" | "same-day" | "romanian-only" | "romanian-only-icons";
 
 export interface Suspect {
   check: SuspectCheck;
@@ -164,6 +168,31 @@ export function findSuspects(existing: Existing): Suspect[] {
         if (!pa || !pb || givenSimilarity(pa.part, pb.part) < 1 || !holinessAgrees(holinessOf(a), holinessOf(b))) continue;
         out.push({ check: "romanian-only", date, ids: [a, b], text: `${label(a)} and ${label(b)}`, score: personScore(pa.part, pb.part, true) });
       }
+    }
+  }
+
+  // romanian-only-icons
+  const iconOf = (comm: string): string | undefined => ((commemorations.get(comm)?.subjects ?? []) as string[]).find((s) => s.startsWith("icon:"))?.slice(5);
+  /** The name of an icon's day as its source wrote it, else the icon's. */
+  const iconName = (comm: string, locale: "ro" | "en"): string | undefined => {
+    const own = ds.locales.get("commemorations")?.get(comm)?.get(locale)?.names?.display;
+    const icon = iconOf(comm);
+    return (own ?? (icon ? ds.locales.get("icons")?.get(icon)?.get(locale)?.names?.display : undefined)) as string | undefined;
+  };
+  const commSources = (comm: string): string[] => ((commemorations.get(comm)?.sources ?? []) as Rec[]).map((s) => String(s.source));
+  const iconsOfDay = (tradition: string, date: string): string[] =>
+    [...new Set(linesOf(tradition, date).flat().map((ref) => ref.replace(/^comm:/, "")))].filter((id) => iconOf(id) !== undefined);
+  const romanianOnlyIcon = (comm: string): boolean =>
+    !commemorations.get(comm)?.external_ids?.oca && iconName(comm, "ro") !== undefined && commSources(comm).length > 0 && commSources(comm).every((s) => s === "src:doxologia" || s === "src:calendar-patriarhia");
+  const ocaOnlyIcon = (comm: string): boolean => Boolean(commemorations.get(comm)?.external_ids?.oca) && iconName(comm, "ro") === undefined && commSources(comm).every((s) => s === "src:oca-lives");
+  for (const date of dates) {
+    const russian = iconsOfDay("russian", date).filter(ocaOnlyIcon);
+    if (russian.length === 0) continue;
+    for (const a of iconsOfDay("romanian", date).filter(romanianOnlyIcon)) {
+      const mine = iconWords(iconName(a, "ro") ?? "", "ro");
+      const scored = russian.map((b) => ({ b, score: iconNamesScore(mine, iconWords(iconName(b, "en") ?? "", "en")) })).sort((x, y) => y.score - x.score);
+      const others = scored.map((s) => `${s.b} (${iconName(s.b, "en") ?? s.b})${s.score > 0 ? ` [${s.score.toFixed(2)}]` : ""}`).join(" | ");
+      out.push({ check: "romanian-only-icons", date, ids: [a, ...scored.map((s) => s.b)], text: `${a} (${iconName(a, "ro") ?? a}): ${others}`, score: scored[0]?.score ?? 0 });
     }
   }
   return out;

@@ -2,12 +2,20 @@
   "id": "icon-of-theotokos-the-surety-of-sinners-of-odrino",
   "locale": "en",
   "names": {
-    "display": "Icon of the Mother of God \"the Surety of sinners\" of Odrino, Orlov"
+    "display": "Icon of the Mother of God \"the Surety of sinners\" of Odrino, Orlov",
+    "variants": [
+      "Icon of the Mother of God \"the Surety of Sinners\""
+    ]
   },
   "references": [
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/03/07/100695-icon-of-the-mother-of-god-the-surety-of-sinners-of-odrino-orlov",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/29/101565-icon-of-the-mother-of-god-the-surety-of-sinners",
       "accessed": "2026-11-08"
     }
   ],

@@ -2,12 +2,20 @@
   "id": "translation-to-moscow-of-the-icon-of-theotokos-assuage",
   "locale": "en",
   "names": {
-    "display": "Translation to Moscow of the Icon of the Mother of God \"Assuage my Sorrow\""
+    "display": "Translation to Moscow of the Icon of the Mother of God \"Assuage my Sorrow\"",
+    "variants": [
+      "\"Assuage My Sorrows\" Icon of the Mother of God"
+    ]
   },
   "references": [
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/01/25/100312-translation-to-moscow-of-the-icon-of-the-mother-of-god-assuage-m",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/09/102918-assuage-my-sorrows-icon-of-the-mother-of-god",
       "accessed": "2026-11-08"
     }
   ],

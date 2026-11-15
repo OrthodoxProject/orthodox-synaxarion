@@ -2,19 +2,17 @@
   "id": "kupyatitsa-icon-of-theotokos",
   "locale": "ro",
   "names": {
-    "display": "Icoana Maicii Domnului de la Kupiatița"
+    "display": "Cinstirea Sfintei Icoanei a Maicii Domnului „de pe Cruce” (Kupiatici)"
   },
   "references": [
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/11/15/103312-kupyatitsa-icon-of-the-mother-of-god",
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoanei-maicii-domnului-de-pe-cruce-kupiatici",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "en",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

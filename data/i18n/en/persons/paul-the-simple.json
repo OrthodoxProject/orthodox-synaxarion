@@ -4,12 +4,20 @@
   "names": {
     "display": "Venerable Paul the Simple, disciple of Venerable Anthony the Great",
     "short": "Paul the Simple, disciple of Venerable Anthony the Great",
-    "given": "Paul"
+    "given": "Paul",
+    "variants": [
+      "Venerable Paul the Simple of Egypt"
+    ]
   },
   "references": [
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/03/07/100692-venerable-paul-the-simple-disciple-of-venerable-anthony-the-grea",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/04/102866-venerable-paul-the-simple-of-egypt",
       "accessed": "2026-11-08"
     }
   ],

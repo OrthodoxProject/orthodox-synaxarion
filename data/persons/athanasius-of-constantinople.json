@@ -13,6 +13,11 @@
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/10/24/103051-saint-athanasius-patriarch-of-constantinople",
       "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/28/103098-venerable-athanasius-the-younger-patriarch-of-constantinople",
+      "accessed": "2026-11-08"
     }
   ],
   "editorial": {
@@ -22,5 +27,8 @@
       "Importat automat din oca.org; de verificat.",
       "Genul nu reiese din sursă; e de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "athanasius-the-younger-of-constantinople"
+  ]
 }

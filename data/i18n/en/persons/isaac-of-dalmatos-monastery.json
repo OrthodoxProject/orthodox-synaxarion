@@ -4,12 +4,26 @@
   "names": {
     "display": "Venerable Isaac, Founder of Dalmátos Monastery at Constantinople",
     "short": "Isaac, Founder of Dalmátos Monastery at Constantinople",
-    "given": "Isaac"
+    "given": "Isaac",
+    "variants": [
+      "Venerable Isaac the Confessor, Founder of the Dalmatian Monastery at Constantinople",
+      "Venerable Isaac the Ascetic of the Dalmatian Monastery at Constantinople"
+    ]
   },
   "references": [
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/05/30/101566-venerable-isaac-founder-of-dalmtos-monastery-at-constantinople",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/22/100863-venerable-isaac-the-confessor-founder-of-the-dalmatian-monastery",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/03/102189-venerable-isaac-the-ascetic-of-the-dalmatian-monastery-at-consta",
       "accessed": "2026-11-08"
     }
   ],

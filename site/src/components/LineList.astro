@@ -1,6 +1,5 @@
 ---
-import { commName, dateText, lineTitle, linkOf, localeOf } from "../lib/format.ts";
-import { ds } from "../lib/site.ts";
+import { commName, dateText, lineTitle, linkOf, symbolLabels as labelsOf, symbolLegend } from "../lib/format.ts";
 import { t, type Lang } from "../lib/ui.ts";
 
 interface Props {
@@ -10,8 +9,8 @@ interface Props {
 }
 
 const { lines, lang, tradition } = Astro.props;
-const legend = new Map(((ds().traditions.get(tradition)?.symbol_legend ?? []) as Array<Record<string, any>>).map((s) => [s.key as string, s]));
-const symbolLabels = (localeOf("traditions", tradition, lang)?.symbols ?? {}) as Record<string, string>;
+const legend = symbolLegend(tradition);
+const symbolLabels = labelsOf(tradition, lang);
 const MAJOR = new Set(["great_feast", "feast_of_feasts"]);
 ---
 

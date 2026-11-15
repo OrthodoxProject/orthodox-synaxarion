@@ -372,7 +372,7 @@ function coveragePage(ds: Dataset, traditions: Map<string, TraditionData>, year:
         const days = buildYear(data, year);
         return [
           `${displayName(ds, "traditions", id)} (${code(id)})`,
-          code(data.tradition.calendar_style),
+          data.chain.length > 1 ? `${code(data.tradition.calendar_style)}, keeps ${code(data.chain[1] ?? "")}` : code(data.tradition.calendar_style),
           String(data.menaion.size),
           String(((data.movable.entries ?? []) as Rec[]).length),
           String(data.observances.length),

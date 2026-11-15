@@ -1,0 +1,20 @@
+{
+  "id": "eutihie-diaconii",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Eutihie diaconii",
+    "short": "Eutihie diaconii",
+    "given": "Eutihie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7f02e633-8cbc-47c3-aa9c-ff17e5f76193",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

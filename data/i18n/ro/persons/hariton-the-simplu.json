@@ -1,0 +1,21 @@
+{
+  "id": "hariton-the-simplu",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Hariton cel Simplu, monah la Sianjem-Vologda",
+    "full": "Sfântul Cuvios Hariton cel Simplu, monah la Sianjem-Vologda",
+    "short": "Hariton cel Simplu, monah la Sianjem-Vologda",
+    "given": "Hariton"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a804ffba-acb1-4cec-b05d-6cc543be2f7c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

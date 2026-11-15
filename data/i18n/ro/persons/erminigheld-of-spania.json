@@ -1,0 +1,21 @@
+{
+  "id": "erminigheld-of-spania",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Erminigheld din Spania",
+    "full": "Sfântul Mucenic Erminigheld din Spania",
+    "short": "Erminigheld din Spania",
+    "given": "Erminigheld"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c9084ba8-d3f0-43c5-bc55-4b8a66b8b003",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

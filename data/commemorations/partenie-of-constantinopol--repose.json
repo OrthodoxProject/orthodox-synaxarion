@@ -1,0 +1,26 @@
+{
+  "id": "partenie-of-constantinopol--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:partenie-of-constantinopol"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 24
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ced8694a-59a3-442e-b109-b087a8f6d374",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

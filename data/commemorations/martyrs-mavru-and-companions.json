@@ -1,0 +1,26 @@
+{
+  "id": "martyrs-mavru-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "group:martyrs-mavru-and-companions"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 22
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e72d8b38-4520-4f93-9d02-b14ced6c26bb",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

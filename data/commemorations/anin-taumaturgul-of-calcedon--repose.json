@@ -1,0 +1,26 @@
+{
+  "id": "anin-taumaturgul-of-calcedon--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:anin-taumaturgul-of-calcedon"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 16
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/940adb6c-7d4c-4161-9675-2d94fc6e073f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

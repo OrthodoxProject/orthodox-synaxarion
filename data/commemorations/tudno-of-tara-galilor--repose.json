@@ -1,0 +1,26 @@
+{
+  "id": "tudno-of-tara-galilor--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:tudno-of-tara-galilor"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 5
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d6223b8b-fe9f-4e3e-a2f8-6e152bf9da87",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

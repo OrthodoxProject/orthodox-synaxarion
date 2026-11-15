@@ -1,0 +1,26 @@
+{
+  "id": "iosif-of-tesalonic-2--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:iosif-of-tesalonic-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 3
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6d639ca9-1275-4e04-b8bf-8bb0059cf473",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

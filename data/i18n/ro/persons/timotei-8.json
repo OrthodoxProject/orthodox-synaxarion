@@ -1,0 +1,21 @@
+{
+  "id": "timotei-8",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Timotei, nebun pentru Hristos din Svyatogorsk în Rusia",
+    "full": "Sfântul Timotei, nebun pentru Hristos din Svyatogorsk în Rusia",
+    "short": "Timotei, nebun pentru Hristos din Svyatogorsk în Rusia",
+    "given": "Timotei"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f35f0013-f3e2-4865-a578-bd9cb152b834",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

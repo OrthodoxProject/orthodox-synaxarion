@@ -1,0 +1,26 @@
+{
+  "id": "synaxis-of-saints-of-tambov-in-rusia",
+  "kind": "synaxis",
+  "subjects": [
+    "group:saints-of-tambov-in-rusia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 28
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3dfbc615-3634-47da-929a-1a8bc0241408",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "nenus-of-irlanda",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Nenus, stareț din Irlanda",
+    "short": "Nenus, stareț din Irlanda",
+    "given": "Nenus"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6ecbdc44-4793-49cd-bec1-915d9dc00f06",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

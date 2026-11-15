@@ -1,0 +1,21 @@
+{
+  "id": "teodor-i-marturisitorul-of-antiohia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Teodor I Mărturisitorul, patriarhul Antiohiei",
+    "full": "Sfântul Ierarh Teodor I Mărturisitorul, patriarhul Antiohiei",
+    "short": "Teodor I Mărturisitorul, patriarhul Antiohiei",
+    "given": "Teodor"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c3defde5-b062-4630-8c82-c4780c3632b2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

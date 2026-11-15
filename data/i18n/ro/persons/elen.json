@@ -1,0 +1,21 @@
+{
+  "id": "elen",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Elen, preot din Reims în Franța",
+    "full": "Sfântul Elen, preot din Reims în Franța",
+    "short": "Elen, preot din Reims în Franța",
+    "given": "Elen"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d8492369-3dc1-4c57-8c77-d06a64289205",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

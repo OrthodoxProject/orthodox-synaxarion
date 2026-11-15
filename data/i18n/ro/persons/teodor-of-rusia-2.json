@@ -1,0 +1,21 @@
+{
+  "id": "teodor-of-rusia-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Nou Mc. Teodor (Bogoiavlenskii) din Rusia",
+    "full": "Sfântul Cuvios Nou Mucenic Teodor (Bogoiavlenskii) din Rusia",
+    "short": "Teodor (Bogoiavlenskii) din Rusia",
+    "given": "Teodor"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/00557357-cc00-4a7e-9b31-d0359407ee12",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

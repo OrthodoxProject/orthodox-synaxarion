@@ -1,0 +1,26 @@
+{
+  "id": "georgeta--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:georgeta"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 15
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/fb6368e4-e953-4455-a9e3-b22fe017c17f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "teodor-17",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Teodor, prinț de Starodub în Rusia",
+    "full": "Sfântul Mucenic Teodor, prinț de Starodub în Rusia",
+    "short": "Teodor, prinț de Starodub în Rusia",
+    "given": "Teodor"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/34ad50c3-62a4-44d7-8406-db78445ce8a8",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

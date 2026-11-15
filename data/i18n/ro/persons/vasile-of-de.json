@@ -1,0 +1,21 @@
+{
+  "id": "vasile-of-de",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Vasile, mitropolit de Trapezunt (secolul al X-lea)",
+    "full": "Sfântul Ierarh Vasile, mitropolit de Trapezunt (secolul al X-lea)",
+    "short": "Vasile, mitropolit de Trapezunt",
+    "given": "Vasile"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/80f51df3-c0cd-4539-af0a-ff0621a622af",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

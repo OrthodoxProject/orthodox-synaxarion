@@ -1,0 +1,28 @@
+{
+  "id": "nectarie-3-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:nectarie-3",
+    "person:nichita-of-vienne",
+    "person:ilarie-of-arles"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 5
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/78ceb7c0-baca-4997-832d-e1aac5b37859",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

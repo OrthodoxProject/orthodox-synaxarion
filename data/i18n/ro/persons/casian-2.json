@@ -1,0 +1,21 @@
+{
+  "id": "casian-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. CASIAN",
+    "full": "Sfântul Mucenic CASIAN",
+    "short": "CASIAN",
+    "given": "CASIAN"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6cd186f9-7ebf-4e7b-81c8-ce88f9eaa905#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

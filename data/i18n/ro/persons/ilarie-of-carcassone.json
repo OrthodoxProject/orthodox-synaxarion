@@ -1,0 +1,21 @@
+{
+  "id": "ilarie-of-carcassone",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ilarie, episcop de Carcassone în Franța",
+    "full": "Sfântul Ierarh Ilarie, episcop de Carcassone în Franța",
+    "short": "Ilarie, episcop de Carcassone în Franța",
+    "given": "Ilarie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e9cf50ba-8ab4-4a5c-a027-893c45af667e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "colman-of-irlanda",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Colman din Irlanda",
+    "full": "Sfântul Cuvios Colman din Irlanda",
+    "short": "Colman din Irlanda",
+    "given": "Colman"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/31b81eaa-ccd8-4cfd-ba95-b7f662285df5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

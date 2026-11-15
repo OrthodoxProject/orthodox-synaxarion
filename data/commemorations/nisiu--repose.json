@@ -1,0 +1,26 @@
+{
+  "id": "nisiu--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:nisiu"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 27
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ac8e6b42-c15c-4025-8505-f58ca49543ca",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

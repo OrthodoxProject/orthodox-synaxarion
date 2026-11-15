@@ -1,0 +1,20 @@
+{
+  "id": "polotsk-in-rusia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Polotsk în Rusia",
+    "short": "Polotsk în Rusia",
+    "given": "Polotsk"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/01fd75dc-4c29-4f3b-ba85-e691b3b31690",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

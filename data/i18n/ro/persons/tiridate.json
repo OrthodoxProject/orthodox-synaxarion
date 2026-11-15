@@ -1,0 +1,21 @@
+{
+  "id": "tiridate",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Tiridate, regele Armeniei",
+    "full": "Sfântul Tiridate, regele Armeniei",
+    "short": "Tiridate, regele Armeniei",
+    "given": "Tiridate"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/fd4c50ac-f4b5-470f-80d8-f1aa22f576a5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

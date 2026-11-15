@@ -1,0 +1,20 @@
+{
+  "id": "kostroma-in-rusia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Kostroma în Rusia",
+    "short": "Kostroma în Rusia",
+    "given": "Kostroma"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c8b664ad-2460-432f-a8cc-f0ecef428cf4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

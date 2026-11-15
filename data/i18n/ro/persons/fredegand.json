@@ -1,0 +1,21 @@
+{
+  "id": "fredegand",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Fredegand, egumen la Kerkelodor în Belgia",
+    "full": "Sfântul Cuvios Fredegand, egumen la Kerkelodor în Belgia",
+    "short": "Fredegand, egumen la Kerkelodor în Belgia",
+    "given": "Fredegand"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/74cf88fe-eddf-4fcb-9ad2-f16c790ee767",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

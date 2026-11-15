@@ -1,0 +1,26 @@
+{
+  "id": "ethelgitha-of-northumbria--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:ethelgitha-of-northumbria"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 22
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8db6d38b-e9c2-4896-83a0-66474222e380",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

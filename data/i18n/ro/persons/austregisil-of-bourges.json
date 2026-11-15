@@ -1,0 +1,26 @@
+{
+  "id": "austregisil-of-bourges",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Austregisil, episcop de Bourges în Franța",
+    "full": "Sfântul Ierarh Austregisil, episcop de Bourges în Franța",
+    "short": "Austregisil, episcop de Bourges în Franța",
+    "given": "Austregisil"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/61b70029-6a6d-40b1-b522-94d4656d36fb",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8768763d-d54f-4e2b-9152-a1a5f67b7ff0",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

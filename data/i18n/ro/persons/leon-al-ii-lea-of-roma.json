@@ -1,0 +1,21 @@
+{
+  "id": "leon-al-ii-lea-of-roma",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Leon al II-lea, episcopul Romei",
+    "full": "Sfântul Ierarh Leon al II-lea, episcopul Romei",
+    "short": "Leon al II-lea, episcopul Romei",
+    "given": "Leon"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/022d6b20-fc1b-46ad-8df1-8ad738ddad31",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

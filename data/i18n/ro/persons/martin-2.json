@@ -1,0 +1,20 @@
+{
+  "id": "martin-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Martin",
+    "short": "Martin",
+    "given": "Martin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/da1ddad1-eb2d-47cb-ac69-9f37b2254bc2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

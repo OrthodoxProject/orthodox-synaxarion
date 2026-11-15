@@ -1,0 +1,20 @@
+{
+  "id": "stefan-22",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Ștefan (Mitiușkin)",
+    "short": "Ștefan (Mitiușkin)",
+    "given": "Ștefan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9491bf6c-2766-4afc-95a3-982f8babbcec",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

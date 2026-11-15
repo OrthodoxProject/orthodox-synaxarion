@@ -1,0 +1,26 @@
+{
+  "id": "venerie-of-milano--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:venerie-of-milano"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 6
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4173d023-9893-4574-b630-754aa14f8e36",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

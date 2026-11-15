@@ -1,0 +1,21 @@
+{
+  "id": "senciu-preotul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Senciu preotul, apostol în Toscana Italiei",
+    "full": "Sfântul Senciu preotul, apostol în Toscana Italiei",
+    "short": "Senciu preotul, apostol în Toscana Italiei",
+    "given": "Senciu"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5ee04a2a-f00e-496b-afed-06889e686bb8",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

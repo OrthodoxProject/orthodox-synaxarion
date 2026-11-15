@@ -1,0 +1,21 @@
+{
+  "id": "libert-of-belgia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Libert din Belgia",
+    "full": "Sfântul Cuvios Mucenic Libert din Belgia",
+    "short": "Libert din Belgia",
+    "given": "Libert"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/db3791b1-a643-49ec-86e0-c6d01d14fecf",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

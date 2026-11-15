@@ -1,0 +1,26 @@
+{
+  "id": "agapie-5--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:agapie-5"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 18
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f19258eb-b4bd-4d59-b96f-9688284ec8e1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

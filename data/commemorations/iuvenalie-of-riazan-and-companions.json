@@ -1,0 +1,28 @@
+{
+  "id": "iuvenalie-of-riazan-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:iuvenalie-of-riazan",
+    "person:filaret-4",
+    "person:alexandru-of-rusia-8"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 11
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4d94c7b6-e39c-4de8-9144-f226e2626bfb",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

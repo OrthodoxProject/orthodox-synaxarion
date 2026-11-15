@@ -1,0 +1,21 @@
+{
+  "id": "adrian-6",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Adrian, fiul împăratului roman Prov",
+    "full": "Sfântul Mucenic Adrian, fiul împăratului roman Prov",
+    "short": "Adrian, fiul împăratului roman Prov",
+    "given": "Adrian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ddd44b73-d332-47c6-8e8c-fdc78702ef5b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

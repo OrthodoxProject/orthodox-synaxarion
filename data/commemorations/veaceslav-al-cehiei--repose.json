@@ -1,0 +1,26 @@
+{
+  "id": "veaceslav-al-cehiei--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:veaceslav-al-cehiei"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 4
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/caefb3bb-41a4-468b-81b5-5399dea34b9b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

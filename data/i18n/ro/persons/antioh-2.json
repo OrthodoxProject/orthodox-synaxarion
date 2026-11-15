@@ -1,0 +1,20 @@
+{
+  "id": "antioh-2",
+  "locale": "ro",
+  "names": {
+    "display": "Preacuviosul Antioh",
+    "short": "Antioh",
+    "given": "Antioh"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/afe8c437-bb39-49a4-bce2-21650c60aa4e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

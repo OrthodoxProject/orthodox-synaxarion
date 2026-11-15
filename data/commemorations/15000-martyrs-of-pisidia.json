@@ -1,0 +1,26 @@
+{
+  "id": "15000-martyrs-of-pisidia",
+  "kind": "repose",
+  "subjects": [
+    "group:15000-martyrs-of-pisidia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 16
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ef69381c-781b-4ef4-8fc9-ce93a7b07eb5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

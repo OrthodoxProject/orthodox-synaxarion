@@ -1,0 +1,26 @@
+{
+  "id": "7-martyrs-of-haldia",
+  "kind": "repose",
+  "subjects": [
+    "group:7-martyrs-of-haldia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 23
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/765081ae-99c7-4738-bad4-cbe215ed4ade",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "andrei-of-ufa",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Andrei, episcop de Ufa",
+    "short": "Andrei, episcop de Ufa",
+    "given": "Andrei"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3721d0be-783a-4971-a895-ae3c04ddb862#2",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7c367b35-f05f-4471-b33a-45398af761c0",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

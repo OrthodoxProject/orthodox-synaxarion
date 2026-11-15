@@ -1,0 +1,21 @@
+{
+  "id": "sofronie-of-ahtaleia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Sofronie, episcop de Ahtaleia în Georgia",
+    "full": "Sfântul Ierarh Sofronie, episcop de Ahtaleia în Georgia",
+    "short": "Sofronie, episcop de Ahtaleia în Georgia",
+    "given": "Sofronie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c6e5ede6-8168-489b-848e-16217db0e535",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

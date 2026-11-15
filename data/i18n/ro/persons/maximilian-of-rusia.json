@@ -1,0 +1,21 @@
+{
+  "id": "maximilian-of-rusia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Maximilian (Marcenko) din Rusia",
+    "full": "Sfântul Mucenic Maximilian (Marcenko) din Rusia",
+    "short": "Maximilian (Marcenko) din Rusia",
+    "given": "Maximilian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1214",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "12-martyrs-ostasi",
+  "kind": "martyrs",
+  "count": {
+    "value": 12,
+    "precision": "exact"
+  },
+  "holiness_types": [
+    "martyr"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5b9bf503-d308-4e2f-8267-9a72d2de72d0",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

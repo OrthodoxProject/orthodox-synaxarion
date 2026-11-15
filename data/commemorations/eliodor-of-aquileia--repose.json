@@ -1,0 +1,26 @@
+{
+  "id": "eliodor-of-aquileia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:eliodor-of-aquileia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 4
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8865122b-dae2-44c3-8f42-fb387a85b904",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

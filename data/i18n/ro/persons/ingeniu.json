@@ -1,0 +1,20 @@
+{
+  "id": "ingeniu",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Ingeniu",
+    "short": "Ingeniu",
+    "given": "Ingeniu"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/555122f3-8a1c-470d-b2cc-63e72264d176",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

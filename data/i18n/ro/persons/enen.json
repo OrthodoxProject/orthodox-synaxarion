@@ -1,0 +1,21 @@
+{
+  "id": "enen",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Enen",
+    "full": "Sfântul Mucenic Enen",
+    "short": "Enen",
+    "given": "Enen"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f8794c58-547f-4210-a755-c9ac32b7e6f0",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

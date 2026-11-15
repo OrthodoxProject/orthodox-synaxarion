@@ -1,0 +1,21 @@
+{
+  "id": "kilian",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Kilian, monah la Reole în Franța",
+    "full": "Sfântul Cuvios Kilian, monah la Reole în Franța",
+    "short": "Kilian, monah la Reole în Franța",
+    "given": "Kilian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e5498436-6e09-4612-9164-8fa2e78cdf2c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

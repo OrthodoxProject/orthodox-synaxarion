@@ -1,0 +1,21 @@
+{
+  "id": "andronic-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Andronic, schiarhimandrit în Lavra Glinsk din Gluhov în Ucraina",
+    "full": "Sfântul Cuvios Andronic, schiarhimandrit în Lavra Glinsk din Gluhov în Ucraina",
+    "short": "Andronic, schiarhimandrit în Lavra Glinsk din Gluhov în Ucraina",
+    "given": "Andronic"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/963a86ba-987a-4611-8fca-acf51180241b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

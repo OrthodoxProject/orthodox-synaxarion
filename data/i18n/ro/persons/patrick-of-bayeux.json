@@ -1,0 +1,21 @@
+{
+  "id": "patrick-of-bayeux",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Patrick, episcop de Bayeux în Franța",
+    "full": "Sfântul Ierarh Patrick, episcop de Bayeux în Franța",
+    "short": "Patrick, episcop de Bayeux în Franța",
+    "given": "Patrick"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3ee7e03e-e221-43bf-944d-14369a0f5dcd",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

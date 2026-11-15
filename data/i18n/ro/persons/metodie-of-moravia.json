@@ -1,0 +1,29 @@
+{
+  "id": "metodie-of-moravia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Metodie, arhiepiscopul Moraviei",
+    "full": "Sfântul Ierarh Metodie, arhiepiscopul Moraviei",
+    "short": "Metodie, arhiepiscopul Moraviei",
+    "given": "Metodie",
+    "variants": [
+      "Sf. Ier. Metodie, episcop de Moravia"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/299",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/385",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

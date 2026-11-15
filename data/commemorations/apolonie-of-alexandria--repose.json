@@ -1,0 +1,26 @@
+{
+  "id": "apolonie-of-alexandria--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:apolonie-of-alexandria"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 9
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/db93fafb-0e31-4665-8188-950d50276724",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "acius",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Acius",
+    "short": "Acius",
+    "given": "Acius"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/cd013977-d32a-458b-ba20-95e4deb1cdb3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

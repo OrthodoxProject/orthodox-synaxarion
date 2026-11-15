@@ -1,0 +1,27 @@
+{
+  "id": "nicolae-smirnov-and-ana-mucenita-olga-maslennikova",
+  "kind": "repose",
+  "subjects": [
+    "person:nicolae-smirnov",
+    "person:ana-mucenita-olga-maslennikova"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 10
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/73222440-5967-483e-ad90-cfe56c641bfb#4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "bertin-the-tanar--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:bertin-the-tanar"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 2
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/956fee9c-7556-4802-9816-1467cedab095",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

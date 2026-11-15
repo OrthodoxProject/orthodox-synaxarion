@@ -1,0 +1,21 @@
+{
+  "id": "sava",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ier. Sava, arhiepiscopul și sfântul național al Serbiei",
+    "full": "Sfântul Cuvios Ierarh Sava, arhiepiscopul și sfântul național al Serbiei",
+    "short": "Sava, arhiepiscopul, sfântul național al Serbiei",
+    "given": "Sava"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/107",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

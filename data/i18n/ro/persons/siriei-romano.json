@@ -1,0 +1,20 @@
+{
+  "id": "siriei-romano",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Siriei Romano",
+    "short": "Siriei Romano",
+    "given": "Siriei"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/148",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

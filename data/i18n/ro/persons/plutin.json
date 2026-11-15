@@ -1,0 +1,20 @@
+{
+  "id": "plutin",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Plutin",
+    "short": "Plutin",
+    "given": "Plutin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e0f07f35-22da-4e46-bb9f-1f9bae3ab42f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "pafnutie-of-egipt",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Pafnutie din Egipt, ucenicul Sfântului Antonie cel Mare",
+    "full": "Sfântul Cuvios Pafnutie din Egipt, ucenicul Sfântului Antonie cel Mare",
+    "short": "Pafnutie din Egipt, ucenicul Sfântului Antonie cel Mare",
+    "given": "Pafnutie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/722f1b94-f552-436c-91dd-8ad501e178d2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

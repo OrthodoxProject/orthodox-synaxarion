@@ -1,0 +1,26 @@
+{
+  "id": "atanasie-of-brest-litovsk--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:atanasie-of-brest-litovsk"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 5
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/21b56ea3-1018-41d7-9bdb-e235a522c3d0",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

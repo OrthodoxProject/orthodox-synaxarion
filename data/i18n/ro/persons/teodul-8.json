@@ -1,0 +1,21 @@
+{
+  "id": "teodul-8",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Teodul",
+    "full": "Sfântul Cuvios Teodul",
+    "short": "Teodul",
+    "given": "Teodul"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b3204640-7a8e-4cfe-afaa-e4809dffc72b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

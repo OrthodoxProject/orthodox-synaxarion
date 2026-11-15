@@ -1,0 +1,26 @@
+{
+  "id": "ioan-ostasul-2--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:ioan-ostasul-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 29
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/50e6a7a6-8144-40c1-877f-962a63506d55",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

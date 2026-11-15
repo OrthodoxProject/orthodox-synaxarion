@@ -1,0 +1,21 @@
+{
+  "id": "christos",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Christos, ieromonah din Ioannina în Grecia",
+    "full": "Sfântul Sfințit Mucenic Christos, ieromonah din Ioannina în Grecia",
+    "short": "Christos, ieromonah din Ioannina în Grecia",
+    "given": "Christos"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a61eb3f5-b70a-42b2-887a-dc677edb8ea8",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

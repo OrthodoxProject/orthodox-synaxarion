@@ -1,0 +1,21 @@
+{
+  "id": "arsenie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Arsenie, întemeietorul Mănăstirii „Adormirea Maicii Domnului” din Barnakova în Rusia",
+    "full": "Sfântul Cuvios Arsenie, întemeietorul Mănăstirii „Adormirea Maicii Domnului” din Barnakova în Rusia",
+    "short": "Arsenie, întemeietorul Mănăstirii „Adormirea Maicii Domnului” din Barnakova în Rusia",
+    "given": "Arsenie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f09ce6bf-5adf-48ee-b505-826c77696563",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "cuvioase",
+  "locale": "ro",
+  "names": {
+    "display": "Sfintele Cuvioase"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/983d942f-425d-482a-a876-252a1ba81c9f#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

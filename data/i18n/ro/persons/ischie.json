@@ -1,0 +1,20 @@
+{
+  "id": "ischie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Ischie",
+    "short": "Ischie",
+    "given": "Ischie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7fa315e7-e042-49d5-9695-c6359c4014e9",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "filonid-of-curia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:filonid-of-curia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 17
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/487c60da-b813-47f3-9ff4-9a5f0e2447cd",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

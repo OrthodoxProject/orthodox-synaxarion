@@ -1,0 +1,20 @@
+{
+  "id": "gherasim-of-astrakhan",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Gherasim, episcop de Astrakhan",
+    "short": "Gherasim, episcop de Astrakhan",
+    "given": "Gherasim"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5e56f966-b345-4a33-9fe5-42d222d2564e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

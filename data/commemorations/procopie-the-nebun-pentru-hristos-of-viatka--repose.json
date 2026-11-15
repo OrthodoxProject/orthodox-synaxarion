@@ -1,0 +1,26 @@
+{
+  "id": "procopie-the-nebun-pentru-hristos-of-viatka--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:procopie-the-nebun-pentru-hristos-of-viatka"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 21
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6d0b7710-43c4-417d-ba20-05971815030f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

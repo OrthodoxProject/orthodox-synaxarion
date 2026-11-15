@@ -1,0 +1,21 @@
+{
+  "id": "eusebiu-of-valence",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Eusebiu, episcop de Valence în Franța",
+    "full": "Sfântul Ierarh Eusebiu, episcop de Valence în Franța",
+    "short": "Eusebiu, episcop de Valence în Franța",
+    "given": "Eusebiu"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4f3255d0-a07a-47b6-9cf1-87323dbe9143",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

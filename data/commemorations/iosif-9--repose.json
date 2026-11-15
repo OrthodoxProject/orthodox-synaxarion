@@ -1,0 +1,26 @@
+{
+  "id": "iosif-9--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:iosif-9"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 29
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a80cff0f-e9d0-47f5-adb1-a8f094fc2177",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

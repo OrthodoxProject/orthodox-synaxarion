@@ -1,0 +1,21 @@
+{
+  "id": "lucid-of-verona",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Lucid, episcop de Verona în Italia (secolul al IV-lea)",
+    "full": "Sfântul Ierarh Lucid, episcop de Verona în Italia (secolul al IV-lea)",
+    "short": "Lucid, episcop de Verona în Italia",
+    "given": "Lucid"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/76e59d23-4b8e-4c0a-919d-62161326a705",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ioan-of-prusa-in-bitinia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Ioan din Prusa în Bitinia",
+    "full": "Sfântul Mucenic Ioan din Prusa în Bitinia",
+    "short": "Ioan din Prusa în Bitinia",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/72e70d7a-dfb5-47bd-afa7-9023ba077472",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "sfantul-new-mucenic-of-rusia-dimitrie",
+  "kind": "repose",
+  "subjects": [
+    "group:sfantul-new-mucenic-of-rusia-dimitrie"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 10
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c0004e01-d58e-455f-abf4-cf47cf9c567d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

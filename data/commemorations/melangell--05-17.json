@@ -1,0 +1,26 @@
+{
+  "id": "melangell--05-17",
+  "kind": "repose",
+  "subjects": [
+    "person:melangell"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 17
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a777a856-4140-48f5-8253-c983a653136d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

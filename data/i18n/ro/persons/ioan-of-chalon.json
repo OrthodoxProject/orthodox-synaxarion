@@ -1,0 +1,21 @@
+{
+  "id": "ioan-of-chalon",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ioan, episcop de Châlon în Franța",
+    "full": "Sfântul Ierarh Ioan, episcop de Châlon în Franța",
+    "short": "Ioan, episcop de Châlon în Franța",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2c8ac70c-a92c-4192-8b54-78ddea05f5f7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

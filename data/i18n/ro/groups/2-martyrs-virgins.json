@@ -1,0 +1,18 @@
+{
+  "id": "2-martyrs-virgins",
+  "locale": "ro",
+  "names": {
+    "display": "Sfintele 2 Mucenițe fecioare"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4799dbd9-9f91-4323-9d7c-17ed231e481e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

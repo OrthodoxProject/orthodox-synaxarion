@@ -1,0 +1,21 @@
+{
+  "id": "alexandru-of-fiesole",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Alexandru, episcop de Fiesole în Toscana",
+    "full": "Sfântul Sfințit Mucenic Alexandru, episcop de Fiesole în Toscana",
+    "short": "Alexandru, episcop de Fiesole în Toscana",
+    "given": "Alexandru"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8983245c-d8ec-4a32-b21c-e3c8851d3e9f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

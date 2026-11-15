@@ -1,0 +1,20 @@
+{
+  "id": "filadelf",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Filadelf",
+    "short": "Filadelf",
+    "given": "Filadelf"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d99a46b7-c1e0-4f3d-87ab-077d762a1681",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

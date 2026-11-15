@@ -1,0 +1,21 @@
+{
+  "id": "crisogon-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Crisogon, martirizat la Aquileia în Italia",
+    "full": "Sfântul Mucenic Crisogon, martirizat la Aquileia în Italia",
+    "short": "Crisogon, martirizat la Aquileia în Italia",
+    "given": "Crisogon"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8db0618f-f27c-4a2c-be44-3f586ff19601",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

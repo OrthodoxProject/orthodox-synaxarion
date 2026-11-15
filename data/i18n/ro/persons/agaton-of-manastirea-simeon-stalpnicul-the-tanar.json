@@ -1,0 +1,21 @@
+{
+  "id": "agaton-of-manastirea-simeon-stalpnicul-the-tanar",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Agaton de la Mănăstirea Sfântul Simeon Stâlpnicul cel Tânăr din Muntele Minunat",
+    "full": "Sfântul Cuvios Agaton de la Mănăstirea Sfântul Simeon Stâlpnicul cel Tânăr din Muntele Minunat",
+    "short": "Agaton de la Mănăstirea Sfântul Simeon Stâlpnicul cel Tânăr din Muntele Minunat",
+    "given": "Agaton"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/efdff0cf-eac1-4ddd-aa54-6ccc68cc7d89",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "iachint-3-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:iachint-3",
+    "person:alexandru-44",
+    "person:tiburtie-of-lazio-in-italia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 9
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4e1ed5ad-d926-41f5-9a62-6886c571c4c5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

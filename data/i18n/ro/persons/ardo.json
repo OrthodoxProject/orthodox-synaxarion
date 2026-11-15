@@ -1,0 +1,21 @@
+{
+  "id": "ardo",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ardo, egumen la Aniane în Franța",
+    "full": "Sfântul Cuvios Ardo, egumen la Aniane în Franța",
+    "short": "Ardo, egumen la Aniane în Franța",
+    "given": "Ardo"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/65609500-6a5e-457e-a505-5db6e3c73292",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

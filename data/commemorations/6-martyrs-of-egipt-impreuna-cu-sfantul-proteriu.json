@@ -1,0 +1,26 @@
+{
+  "id": "6-martyrs-of-egipt-impreuna-cu-sfantul-proteriu",
+  "kind": "repose",
+  "subjects": [
+    "group:6-martyrs-of-egipt-impreuna-cu-sfantul-proteriu"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 28
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8614a2ec-c6b1-4adb-8cd5-7f8ee981c375",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

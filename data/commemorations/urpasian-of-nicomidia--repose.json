@@ -1,0 +1,26 @@
+{
+  "id": "urpasian-of-nicomidia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:urpasian-of-nicomidia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 13
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/87fce826-7c11-460a-9230-efa309f9c9d6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

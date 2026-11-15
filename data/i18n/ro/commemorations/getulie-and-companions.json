@@ -1,0 +1,18 @@
+{
+  "id": "getulie-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici Getulie, Seral, Amant și Primitiv"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/40bf2d70-291f-44d0-94e1-2bb9342c3187",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "iuliana",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Iuliana, văduvă din Bologna în Italia",
+    "full": "Sfânta Iuliana, văduvă din Bologna în Italia",
+    "short": "Iuliana, văduvă din Bologna în Italia",
+    "given": "Iuliana"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4642ad5e-21b8-417a-bb6d-c1a37ebd2673",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

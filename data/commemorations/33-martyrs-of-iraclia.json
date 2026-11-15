@@ -1,0 +1,26 @@
+{
+  "id": "33-martyrs-of-iraclia",
+  "kind": "repose",
+  "subjects": [
+    "group:33-martyrs-of-iraclia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 28
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/70793853-c412-4b6e-960c-cf9c24dacd7d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

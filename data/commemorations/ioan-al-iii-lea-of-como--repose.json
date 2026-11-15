@@ -1,0 +1,26 @@
+{
+  "id": "ioan-al-iii-lea-of-como--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:ioan-al-iii-lea-of-como"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 20
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3f962a86-1daf-4df1-8328-4253e7516ad4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

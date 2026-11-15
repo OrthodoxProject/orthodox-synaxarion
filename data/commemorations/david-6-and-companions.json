@@ -1,0 +1,28 @@
+{
+  "id": "david-6-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:david-6",
+    "person:simeon-7",
+    "person:gheorghe-of-insula-mitilene"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 1
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4415d33a-f0a7-406f-b159-77666601df2a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

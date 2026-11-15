@@ -1,0 +1,20 @@
+{
+  "id": "sio-the-new",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Șio cel Nou",
+    "short": "Șio cel Nou",
+    "given": "Șio"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e8b5b343-63d7-4393-90ee-c32d0efd3de7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

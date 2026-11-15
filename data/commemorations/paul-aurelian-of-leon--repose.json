@@ -1,0 +1,26 @@
+{
+  "id": "paul-aurelian-of-leon--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:paul-aurelian-of-leon"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 12
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c84366a1-9c69-4cea-949b-c26e866b21ed",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

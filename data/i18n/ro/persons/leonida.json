@@ -1,0 +1,21 @@
+{
+  "id": "leonida",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Leonida, Rusia",
+    "full": "Sfântul Cuvios Leonida, Rusia",
+    "short": "Leonida, Rusia",
+    "given": "Leonida"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d33f6ddc-1a6d-4d7d-9408-3003d99d605c#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

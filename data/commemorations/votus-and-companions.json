@@ -1,0 +1,29 @@
+{
+  "id": "votus-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:votus",
+    "person:felix-15",
+    "person:ioan-37",
+    "person:ioan-of-atares"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 29
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e13a03a0-8181-467a-89d3-ff507e58e8e6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

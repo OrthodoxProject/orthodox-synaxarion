@@ -1,0 +1,20 @@
+{
+  "id": "victoria-the-of-tesalonic",
+  "locale": "ro",
+  "names": {
+    "display": "Mucenița Victoria cea din Tesalonic (Romana)",
+    "short": "Victoria cea din Tesalonic",
+    "given": "Victoria"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1554",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "congar-of-somerset",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Congar, episcop de Somerset",
+    "full": "Sfântul Ierarh Congar, episcop de Somerset",
+    "short": "Congar, episcop de Somerset",
+    "given": "Congar"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3cae33f9-b730-4935-889b-71fd6a551a08",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

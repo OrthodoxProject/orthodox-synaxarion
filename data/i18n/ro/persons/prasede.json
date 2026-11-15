@@ -1,0 +1,21 @@
+{
+  "id": "prasede",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Prasede, botezată de Sfântul Ap. Petru, sora Sfintei Mucenițe Pudențiana",
+    "full": "Sfânta Muceniță Prasede, botezată de Sfântul Apostol Petru, sora Sfintei Mucenițe Pudențiana",
+    "short": "Prasede, botezată de Sfântul Apostol Petru, sora Sfintei Mucenițe Pudențiana",
+    "given": "Prasede"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/fac98e37-cb3e-4d98-907f-a52b09dd7c2e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

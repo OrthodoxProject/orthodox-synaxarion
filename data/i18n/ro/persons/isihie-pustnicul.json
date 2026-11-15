@@ -1,0 +1,21 @@
+{
+  "id": "isihie-pustnicul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Isihie pustnicul, făcător de minuni din Olimpul Bitiniei",
+    "full": "Sfântul Cuvios Isihie pustnicul, făcător de minuni din Olimpul Bitiniei",
+    "short": "Isihie pustnicul, făcător de minuni din Olimpul Bitiniei",
+    "given": "Isihie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c1d227bf-1f41-4d45-9aa3-f721c8b4638d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

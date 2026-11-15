@@ -1,0 +1,20 @@
+{
+  "id": "ghilda",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ghilda, stareț în Franța",
+    "short": "Ghilda, stareț în Franța",
+    "given": "Ghilda"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4207b676-4a10-47ad-9298-22abffe5e4e0",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

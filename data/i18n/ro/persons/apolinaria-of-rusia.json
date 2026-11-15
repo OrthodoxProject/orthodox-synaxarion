@@ -1,0 +1,20 @@
+{
+  "id": "apolinaria-of-rusia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințită Nouă Mc. Apolinaria (Tupițîna) din Rusia",
+    "short": "Apolinaria (Tupițîna) din Rusia",
+    "given": "Apolinaria"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/659c4649-25cc-4e0d-817c-5b3cf2e66225",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

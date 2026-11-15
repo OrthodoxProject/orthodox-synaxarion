@@ -1,0 +1,21 @@
+{
+  "id": "constantin-of-beauvais",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Constantin, episcop de Beauvais în Franța",
+    "full": "Sfântul Ierarh Constantin, episcop de Beauvais în Franța",
+    "short": "Constantin, episcop de Beauvais în Franța",
+    "given": "Constantin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/bbe1aae6-8f61-4a02-bc1a-9dda62447869",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

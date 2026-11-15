@@ -1,0 +1,20 @@
+{
+  "id": "traian",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Traian",
+    "short": "Traian",
+    "given": "Traian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/67999ca7-8312-47bf-b7e8-0cb3cbe640e4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

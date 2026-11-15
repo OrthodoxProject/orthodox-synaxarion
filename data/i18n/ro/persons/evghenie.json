@@ -1,0 +1,20 @@
+{
+  "id": "evghenie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Nou Mc. Evghenie",
+    "short": "Evghenie",
+    "given": "Evghenie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2cec3af1-4d58-407d-95ff-a946b6eb6351",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sfant-al-moldovei",
+  "locale": "ro",
+  "names": {
+    "display": "Binecredinciosul Voievod Sfânt al Moldovei, mare ctitor de biserici, apărător al creștinătății",
+    "short": "Sfânt al Moldovei, mare ctitor de biserici, apărător al creștinătății",
+    "given": "Sfânt"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/588",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

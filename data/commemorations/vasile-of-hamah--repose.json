@@ -1,0 +1,26 @@
+{
+  "id": "vasile-of-hamah--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:vasile-of-hamah"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 17
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0d754b2e-0ee5-42e4-a556-7eeef0ff9906",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

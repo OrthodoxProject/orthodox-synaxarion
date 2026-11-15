@@ -1,0 +1,18 @@
+{
+  "id": "3-cuvioase-pustnice",
+  "locale": "ro",
+  "names": {
+    "display": "Sfintele 3 Cuvioase Pustnice"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4616bc45-a17b-41ea-bf05-f17ade5e4baf",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

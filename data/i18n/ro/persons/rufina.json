@@ -1,0 +1,20 @@
+{
+  "id": "rufina",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Rufina",
+    "short": "Rufina",
+    "given": "Rufina"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ff2a4e5d-bac7-4f2c-9381-713005c44789",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

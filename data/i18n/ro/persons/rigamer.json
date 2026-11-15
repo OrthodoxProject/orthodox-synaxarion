@@ -1,0 +1,20 @@
+{
+  "id": "rigamer",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Rigamer",
+    "short": "Rigamer",
+    "given": "Rigamer"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c40b520a-1fc8-4348-99fc-2557a7baee9b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

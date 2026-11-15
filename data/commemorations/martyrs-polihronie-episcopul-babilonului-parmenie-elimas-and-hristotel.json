@@ -1,0 +1,26 @@
+{
+  "id": "martyrs-polihronie-episcopul-babilonului-parmenie-elimas-and-hristotel",
+  "kind": "repose",
+  "subjects": [
+    "group:martyrs-polihronie-episcopul-babilonului-parmenie-elimas-and-hristotel"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 30
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d1a0b7c5-be31-4833-a5fb-83006050dc41",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

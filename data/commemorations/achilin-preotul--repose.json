@@ -1,0 +1,26 @@
+{
+  "id": "achilin-preotul--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:achilin-preotul"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 29
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f90435b4-7e50-4139-b971-132bc1a4d99d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

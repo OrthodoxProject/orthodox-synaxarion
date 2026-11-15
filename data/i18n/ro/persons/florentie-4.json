@@ -1,0 +1,20 @@
+{
+  "id": "florentie-4",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Florentie",
+    "short": "Florentie",
+    "given": "Florentie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9c2947b5-7c26-41ba-b89e-c16919d08865",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

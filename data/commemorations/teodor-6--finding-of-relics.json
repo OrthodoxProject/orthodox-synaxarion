@@ -1,0 +1,26 @@
+{
+  "id": "teodor-6--finding-of-relics",
+  "kind": "relics_finding",
+  "subjects": [
+    "person:teodor-6"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 5
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0a8d5ee2-811b-4827-a5e2-743195c09346",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "kenia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:kenia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 8
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/39f77fb7-2826-49bf-86a7-5fcbf8bb74fd",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

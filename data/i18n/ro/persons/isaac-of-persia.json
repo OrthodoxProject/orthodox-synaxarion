@@ -1,0 +1,20 @@
+{
+  "id": "isaac-of-persia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Isaac din Persia",
+    "short": "Isaac din Persia",
+    "given": "Isaac"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/deb5b63a-ac3d-4509-8dbb-8b417d545430",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "lasar",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Lasar, monahie din Irlanda",
+    "full": "Sfânta Cuvioasă Lasar, monahie din Irlanda",
+    "short": "Lasar, monahie din Irlanda",
+    "given": "Lasar"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d0cdf27c-735f-41d6-809c-a4c1dc7fd481",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

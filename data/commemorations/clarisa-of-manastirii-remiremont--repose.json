@@ -1,0 +1,26 @@
+{
+  "id": "clarisa-of-manastirii-remiremont--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:clarisa-of-manastirii-remiremont"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 12
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b4a24b74-c101-4ded-b2e1-ff143b6549b1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

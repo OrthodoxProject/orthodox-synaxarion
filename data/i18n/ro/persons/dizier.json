@@ -1,0 +1,20 @@
+{
+  "id": "dizier",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Dizier",
+    "short": "Dizier",
+    "given": "Dizier"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/472237e3-a053-438e-84f6-171bfd8f5cf6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

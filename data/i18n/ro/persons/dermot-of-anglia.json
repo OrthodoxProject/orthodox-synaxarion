@@ -1,0 +1,21 @@
+{
+  "id": "dermot-of-anglia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Dermot din Anglia",
+    "full": "Sfântul Cuvios Dermot din Anglia",
+    "short": "Dermot din Anglia",
+    "given": "Dermot"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/712b228a-34cb-41db-955e-1548d8e9b5fa",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

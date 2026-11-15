@@ -1,0 +1,25 @@
+{
+  "id": "timotei-of-roma",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Timotei din Roma",
+    "short": "Timotei din Roma",
+    "given": "Timotei"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3eddc250-05cf-44b9-b84f-af0ad8d31738",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7058b7b3-84d1-441f-be61-139df06df1bc",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ioan-of-olimpul-bitiniei--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:ioan-of-olimpul-bitiniei"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 17
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/26ec7e37-0c7f-431f-b510-dabe1a412196",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

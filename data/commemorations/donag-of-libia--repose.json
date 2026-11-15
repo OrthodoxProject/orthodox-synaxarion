@@ -1,0 +1,26 @@
+{
+  "id": "donag-of-libia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:donag-of-libia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 28
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3eeee22d-7e48-45fe-8917-8b5f3b9c1054",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

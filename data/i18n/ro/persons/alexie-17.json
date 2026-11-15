@@ -1,0 +1,21 @@
+{
+  "id": "alexie-17",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Alexie, protoiereu din Ugine în Franța",
+    "full": "Sfântul Alexie, protoiereu din Ugine în Franța",
+    "short": "Alexie, protoiereu din Ugine în Franța",
+    "given": "Alexie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6829ee31-bcaa-4fcc-8d89-b0303af3db29",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

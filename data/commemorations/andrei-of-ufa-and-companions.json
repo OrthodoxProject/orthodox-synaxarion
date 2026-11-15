@@ -1,0 +1,35 @@
+{
+  "id": "andrei-of-ufa-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:andrei-of-ufa",
+    "person:leonid-of-mariisk",
+    "person:alexandru-47",
+    "person:dimitrie-31",
+    "person:nicolae-89",
+    "person:nicolae-90",
+    "person:grigorie-24",
+    "person:mihail-54",
+    "person:mihail-55",
+    "person:alexandru-76"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 26
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7c367b35-f05f-4471-b33a-45398af761c0",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

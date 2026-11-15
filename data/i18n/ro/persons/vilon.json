@@ -1,0 +1,20 @@
+{
+  "id": "vilon",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Vilon",
+    "short": "Vilon",
+    "given": "Vilon"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/36ddf82d-9db8-436e-be46-5fb4639426ca",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

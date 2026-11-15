@@ -1,0 +1,20 @@
+{
+  "id": "pavel-24",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Pavel (Ivanov)",
+    "short": "Pavel (Ivanov)",
+    "given": "Pavel"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/582d8d8c-f225-4c3f-8b26-ab6f1f55fde7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

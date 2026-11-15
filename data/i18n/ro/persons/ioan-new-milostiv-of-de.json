@@ -1,0 +1,21 @@
+{
+  "id": "ioan-new-milostiv-of-de",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ioan Noul Milostiv, mitropolit de Beoția",
+    "full": "Sfântul Ierarh Ioan Noul Milostiv, mitropolit de Beoția",
+    "short": "Ioan Noul Milostiv, mitropolit de Beoția",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/df2b54e7-6eee-4499-aa89-a62a0e08783d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

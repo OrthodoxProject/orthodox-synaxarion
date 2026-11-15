@@ -1,0 +1,29 @@
+{
+  "id": "alexandru-40-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:alexandru-40",
+    "person:vladimir-22",
+    "person:mihail-33",
+    "person:miron-of-rusia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 31
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0e8c3dcc-c4fa-48c2-b810-0fcb9e6345e9",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

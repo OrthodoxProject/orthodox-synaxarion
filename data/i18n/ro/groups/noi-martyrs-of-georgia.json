@@ -1,0 +1,18 @@
+{
+  "id": "noi-martyrs-of-georgia",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Noi Mucenici din Georgia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3e202505-3ebe-46dd-bbca-01ad0f1c1d96",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

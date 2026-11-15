@@ -1,0 +1,21 @@
+{
+  "id": "mecadosta-of-persia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Mecadoșta din Persia, împreună pătimitoare cu Sfânta Muceniță Fervuta",
+    "full": "Sfânta Muceniță Mecadoșta din Persia, împreună pătimitoare cu Sfânta Muceniță Fervuta",
+    "short": "Mecadoșta din Persia, împreună pătimitoare cu Sfânta Muceniță Fervuta",
+    "given": "Mecadoșta"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/402656a3-d547-425b-9981-6aa57a2a1be7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "sfantul-mucenic-troadiu-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "group:sfantul-mucenic-troadiu-and-companions"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 2
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/409e3832-783a-4634-8957-515400a62f82",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

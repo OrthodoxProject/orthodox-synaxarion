@@ -1,0 +1,18 @@
+{
+  "id": "martyrs-duca-croitorul-of-mitilene",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici Duca croitorul din Mitilene"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/730d932d-332b-4c79-9a61-dc6aa8998b19",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

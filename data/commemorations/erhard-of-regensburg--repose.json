@@ -1,0 +1,26 @@
+{
+  "id": "erhard-of-regensburg--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:erhard-of-regensburg"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 8
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6e3b012d-a12c-4c60-8053-f5d560b18591",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

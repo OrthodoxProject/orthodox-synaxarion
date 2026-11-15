@@ -1,0 +1,21 @@
+{
+  "id": "chad-of-lichfield",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Chad, episcop de Lichfield",
+    "full": "Sfântul Ierarh Chad, episcop de Lichfield",
+    "short": "Chad, episcop de Lichfield",
+    "given": "Chad"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/41f0cf0d-50e7-4592-ad88-739301c910d5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

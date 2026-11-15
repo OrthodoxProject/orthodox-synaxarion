@@ -1,0 +1,20 @@
+{
+  "id": "vladimir-15",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Vladimir (Sergheev)",
+    "short": "Vladimir (Sergheev)",
+    "given": "Vladimir"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/bef09d61-ab9b-4f93-9b56-f65e21fe3fb9",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

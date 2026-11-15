@@ -1,0 +1,18 @@
+{
+  "id": "chiriachia-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sfintele Mucenițe Chiriachia, Caleria (Valeria) și Maria din Cezareea Palestinei"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1565",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "victorin-of-aniterne",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Victorin, episcop de Aniterne în Italia",
+    "full": "Sfântul Sfințit Mucenic Victorin, episcop de Aniterne în Italia",
+    "short": "Victorin, episcop de Aniterne în Italia",
+    "given": "Victorin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8cb7e1d4-ba31-4434-95d1-695f8689606a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

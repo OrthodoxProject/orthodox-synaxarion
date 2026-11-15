@@ -1,0 +1,21 @@
+{
+  "id": "onorat-of-toulouse",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Onorat, episcop de Toulouse în Franța",
+    "full": "Sfântul Ierarh Onorat, episcop de Toulouse în Franța",
+    "short": "Onorat, episcop de Toulouse în Franța",
+    "given": "Onorat"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d940c505-bc70-47c7-9eaa-28a408f6013f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

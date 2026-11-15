@@ -1,0 +1,27 @@
+{
+  "id": "ruf-3-and-rufian",
+  "kind": "repose",
+  "subjects": [
+    "person:ruf-3",
+    "person:rufian"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 8
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4c8d4991-8081-4aee-82b3-82f6834b450e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

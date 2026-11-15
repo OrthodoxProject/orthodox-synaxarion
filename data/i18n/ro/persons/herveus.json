@@ -1,0 +1,21 @@
+{
+  "id": "herveus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Herveus, monah la Mănăstirea „Sfântul Martin de Tours” din Franța",
+    "full": "Sfântul Cuvios Herveus, monah la Mănăstirea „Sfântul Martin de Tours” din Franța",
+    "short": "Herveus, monah la Mănăstirea „Sfântul Martin de Tours” din Franța",
+    "given": "Herveus"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f6ea889d-073d-468b-ae5a-03f79bd4c0e6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

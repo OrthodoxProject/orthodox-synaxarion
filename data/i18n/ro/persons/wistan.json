@@ -1,0 +1,21 @@
+{
+  "id": "wistan",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Wistan, rege de Mercia în Anglia",
+    "full": "Sfântul Mucenic Wistan, rege de Mercia în Anglia",
+    "short": "Wistan, rege de Mercia în Anglia",
+    "given": "Wistan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6d70f861-1eba-44f2-a46e-2f3267949658#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

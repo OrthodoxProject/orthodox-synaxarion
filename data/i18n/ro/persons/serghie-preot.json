@@ -1,0 +1,21 @@
+{
+  "id": "serghie-preot",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Serghie (Rodacovskii) preot",
+    "full": "Sfântul Sfințit Serghie (Rodacovskii) preot",
+    "short": "Serghie (Rodacovskii) preot",
+    "given": "Serghie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f086d577-ca35-42da-be30-aff24524070a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "teofan-zavoratul-of-tambov",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Teofan Zăvorâtul, episcop de Tambov",
+    "short": "Teofan Zăvorâtul, episcop de Tambov",
+    "given": "Teofan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1274",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

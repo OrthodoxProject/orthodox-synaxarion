@@ -1,0 +1,26 @@
+{
+  "id": "austregisil-of-bourges--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:austregisil-of-bourges"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 20
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/61b70029-6a6d-40b1-b522-94d4656d36fb",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

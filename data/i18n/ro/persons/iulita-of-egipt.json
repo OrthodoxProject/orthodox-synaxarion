@@ -1,0 +1,21 @@
+{
+  "id": "iulita-of-egipt",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Iulita din Egipt",
+    "full": "Sfânta Cuvioasă Iulita din Egipt",
+    "short": "Iulita din Egipt",
+    "given": "Iulita"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6fcc43af-de32-4ef2-a686-ee844e8a6f08",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

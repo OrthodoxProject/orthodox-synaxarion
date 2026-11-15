@@ -1,0 +1,21 @@
+{
+  "id": "elefterie-of-roma",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Elefterie, episcopul Romei și mărturisitor al dreptei credințe",
+    "full": "Sfântul Ierarh Elefterie, episcopul Romei și mărturisitor al dreptei credințe",
+    "short": "Elefterie, episcopul Romei, mărturisitor al dreptei credințe",
+    "given": "Elefterie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/cd886638-b8f3-46ad-a4e5-6426a26971b3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

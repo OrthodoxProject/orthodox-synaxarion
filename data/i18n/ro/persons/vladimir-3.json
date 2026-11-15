@@ -1,0 +1,20 @@
+{
+  "id": "vladimir-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Vladimir, editorul Filocaliei în limba rusă",
+    "short": "Vladimir, editorul Filocaliei în limba rusă",
+    "given": "Vladimir"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1274",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "nectarie-of-optina",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Nectarie, stareț de la Optina",
+    "full": "Sfântul Cuvios Nectarie, stareț de la Optina",
+    "short": "Nectarie, stareț de la Optina",
+    "given": "Nectarie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/df030aba-29be-4604-ad98-c878ef18fc87",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

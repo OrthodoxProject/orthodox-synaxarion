@@ -1,0 +1,26 @@
+{
+  "id": "efrem-the-new-of-nea-makri--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:efrem-the-new-of-nea-makri"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 3
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/434edf6d-866d-4b2c-b92f-ef32534105f4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

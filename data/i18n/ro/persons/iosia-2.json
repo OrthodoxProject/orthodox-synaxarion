@@ -1,0 +1,21 @@
+{
+  "id": "iosia-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Iosia, împreună pătimitor cu Sfântului Ap. Iacob, fiul lui Zevedeu",
+    "full": "Sfântul Mucenic Iosia, împreună pătimitor cu Sfântului Apostol Iacob, fiul lui Zevedeu",
+    "short": "Iosia, împreună pătimitor cu Sfântului Apostol Iacob, fiul lui Zevedeu",
+    "given": "Iosia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4f073b0e-64d7-4a12-8319-075d17ec176c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

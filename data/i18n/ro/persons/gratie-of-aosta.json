@@ -1,0 +1,21 @@
+{
+  "id": "gratie-of-aosta",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Grație, episcop de Aosta",
+    "full": "Sfântul Ierarh Grație, episcop de Aosta",
+    "short": "Grație, episcop de Aosta",
+    "given": "Grație"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/efb4c8f6-3e95-4257-947f-179593cb2330",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

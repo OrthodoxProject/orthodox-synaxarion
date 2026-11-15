@@ -1,0 +1,26 @@
+{
+  "id": "mair--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:mair"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 11
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2f850d40-0949-4958-accb-e06e82348a38",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

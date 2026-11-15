@@ -1,0 +1,21 @@
+{
+  "id": "chrodegang-of-in",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Chrodegang, episcop în Franța",
+    "full": "Sfântul Ierarh Chrodegang, episcop în Franța",
+    "short": "Chrodegang, episcop în Franța",
+    "given": "Chrodegang"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8a1d0a67-3bb7-4bd9-8f77-3997725c850d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "autor-of-metz--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:autor-of-metz"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 9
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c3f071d9-261e-4497-8c40-024cb4e10fe4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

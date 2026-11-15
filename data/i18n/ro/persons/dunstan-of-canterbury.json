@@ -1,0 +1,21 @@
+{
+  "id": "dunstan-of-canterbury",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Dunstan, arhiepiscop de Canterbury în Anglia",
+    "full": "Sfântul Ierarh Dunstan, arhiepiscop de Canterbury în Anglia",
+    "short": "Dunstan, arhiepiscop de Canterbury în Anglia",
+    "given": "Dunstan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a99b2005-84a7-4b54-8a37-00547effa277",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

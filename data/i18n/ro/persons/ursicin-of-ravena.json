@@ -1,0 +1,21 @@
+{
+  "id": "ursicin-of-ravena",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ursicin, episcop de Ravena în Italia",
+    "full": "Sfântul Ierarh Ursicin, episcop de Ravena în Italia",
+    "short": "Ursicin, episcop de Ravena în Italia",
+    "given": "Ursicin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/226cf654-8276-4376-9a67-1eb834402e3f#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

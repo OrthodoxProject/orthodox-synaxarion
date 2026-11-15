@@ -1,0 +1,21 @@
+{
+  "id": "marius-of-sevasta",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Marius, episcop de Sevasta",
+    "full": "Sfântul Ierarh Marius, episcop de Sevasta",
+    "short": "Marius, episcop de Sevasta",
+    "given": "Marius"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2b9d5284-c251-43b4-a41a-148d8aa5ffca",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

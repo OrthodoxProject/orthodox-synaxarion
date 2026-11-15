@@ -1,0 +1,21 @@
+{
+  "id": "urban-of-macedonia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Urban, episcopul Macedoniei",
+    "full": "Sfântul Ierarh Urban, episcopul Macedoniei",
+    "short": "Urban, episcopul Macedoniei",
+    "given": "Urban"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/74d7e51d-5292-43f8-95aa-45b1e920f5d4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "porfirie-comediantul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Porfirie comediantul",
+    "full": "Sfântul Mucenic Porfirie comediantul",
+    "short": "Porfirie comediantul",
+    "given": "Porfirie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/37be8c14-01bc-4bb1-926e-92e8adfe8fe0",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

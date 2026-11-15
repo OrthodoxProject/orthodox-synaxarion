@@ -1,0 +1,21 @@
+{
+  "id": "alexandra-4",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Nouă Mc. Alexandra, presbitera",
+    "full": "Sfânta Nouă Muceniță Alexandra, presbitera",
+    "short": "Alexandra, presbitera",
+    "given": "Alexandra"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/aa8a01ca-c0c0-400c-903f-e3eacf3012fb",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

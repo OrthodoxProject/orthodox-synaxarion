@@ -1,0 +1,21 @@
+{
+  "id": "baudacarie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Baudacarie, monah în Lombardia Italiei",
+    "full": "Sfântul Cuvios Baudacarie, monah în Lombardia Italiei",
+    "short": "Baudacarie, monah în Lombardia Italiei",
+    "given": "Baudacarie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/96a5f0ea-f1a6-43e0-9bcb-2eb172fe673a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

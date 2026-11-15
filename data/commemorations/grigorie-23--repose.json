@@ -1,0 +1,26 @@
+{
+  "id": "grigorie-23--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:grigorie-23"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 12
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b8c2ad6d-602c-4993-97a8-04602d4fd464",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

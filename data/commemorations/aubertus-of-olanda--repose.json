@@ -1,0 +1,26 @@
+{
+  "id": "aubertus-of-olanda--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:aubertus-of-olanda"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 15
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/88ba847e-64f8-40c4-b886-73bf063eff16",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

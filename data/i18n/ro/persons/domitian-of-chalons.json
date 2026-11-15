@@ -1,0 +1,21 @@
+{
+  "id": "domitian-of-chalons",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Domițian, episcop de Châlons în Franța",
+    "full": "Sfântul Ierarh Domițian, episcop de Châlons în Franța",
+    "short": "Domițian, episcop de Châlons în Franța",
+    "given": "Domițian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ea61905b-574a-4684-8a2b-3b1e0ed48506",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

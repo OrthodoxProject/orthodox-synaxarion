@@ -1,0 +1,26 @@
+{
+  "id": "luca-of-demena-sicilia-an-italia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:luca-of-demena-sicilia-an-italia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 13
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/255a3edd-1c47-4eea-817b-c9adb339ab87",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

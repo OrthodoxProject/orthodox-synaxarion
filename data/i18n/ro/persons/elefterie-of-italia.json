@@ -1,0 +1,20 @@
+{
+  "id": "elefterie-of-italia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Elefterie din Italia",
+    "short": "Elefterie din Italia",
+    "given": "Elefterie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/05382b92-1027-4956-b2d4-71dda28aa6db#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "fathers-of-6-sinoade-ecumenice",
+  "kind": "repose",
+  "subjects": [
+    "group:fathers-of-6-sinoade-ecumenice"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 20
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b3f74498-a67a-408f-9428-3c49cd0503b1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

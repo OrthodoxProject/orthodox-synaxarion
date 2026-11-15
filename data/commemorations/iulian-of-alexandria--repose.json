@@ -1,0 +1,26 @@
+{
+  "id": "iulian-of-alexandria--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:iulian-of-alexandria"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 4
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8cb2db5f-5416-475b-8c01-cb39182e72c9",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

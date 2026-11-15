@@ -1,0 +1,21 @@
+{
+  "id": "leoluca-of-corleone",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Leoluca, egumen din Corleone",
+    "full": "Sfântul Cuvios Leoluca, egumen din Corleone",
+    "short": "Leoluca, egumen din Corleone",
+    "given": "Leoluca"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/49794fbf-3f8c-4ff8-89ff-6199ec295b56",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

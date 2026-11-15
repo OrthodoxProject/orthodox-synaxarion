@@ -1,0 +1,21 @@
+{
+  "id": "prudentie-of-tarazona",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Prudenție, episcop de Tarazona în Spania",
+    "full": "Sfântul Ierarh Prudenție, episcop de Tarazona în Spania",
+    "short": "Prudenție, episcop de Tarazona în Spania",
+    "given": "Prudenție"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3c2471d6-b2cc-48bc-903c-eef2eb8f5b22",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

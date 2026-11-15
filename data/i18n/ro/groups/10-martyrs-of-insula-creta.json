@@ -1,0 +1,18 @@
+{
+  "id": "10-martyrs-of-insula-creta",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții 10 Mucenici din insula Creta: Teodul, Evnichian, Evarest, Saturnin, Zotic, Evpor, Agatop, Ghelasie, Vasilid și Pompie din Heracleea"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/54",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "lavrentie-of-cernigov-2--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:lavrentie-of-cernigov-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 6
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0d7693d2-a123-4ab5-b532-14bb4e4ee283",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

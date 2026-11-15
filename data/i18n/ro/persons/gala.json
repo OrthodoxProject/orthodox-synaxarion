@@ -1,0 +1,21 @@
+{
+  "id": "gala",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Gala, zăvorâtă din Roma",
+    "full": "Sfânta Cuvioasă Gala, zăvorâtă din Roma",
+    "short": "Gala, zăvorâtă din Roma",
+    "given": "Gala"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/559c1958-b6a6-40be-a13e-012d21025b76#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

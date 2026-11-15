@@ -1,0 +1,21 @@
+{
+  "id": "solev-egipteanul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Solev Egipteanul",
+    "full": "Sfântul Mucenic Solev Egipteanul",
+    "short": "Solev Egipteanul",
+    "given": "Solev"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/473e831c-0754-4132-9007-f592f78d9d24",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

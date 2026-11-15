@@ -1,0 +1,21 @@
+{
+  "id": "anfisa-romana",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Anfisa (Antusa) Romana",
+    "full": "Sfânta Muceniță Anfisa (Antusa) Romana",
+    "short": "Anfisa (Antusa) Romana",
+    "given": "Anfisa"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1238",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "teodora-vassa--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:teodora-vassa"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 16
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7f6e8670-df1a-4469-8422-daa82628b166",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

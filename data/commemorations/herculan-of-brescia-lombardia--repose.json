@@ -1,0 +1,26 @@
+{
+  "id": "herculan-of-brescia-lombardia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:herculan-of-brescia-lombardia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 12
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f72fcccd-3ea7-4017-b655-8d4681670f58",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

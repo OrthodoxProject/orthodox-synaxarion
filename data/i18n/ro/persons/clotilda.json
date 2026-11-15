@@ -1,0 +1,21 @@
+{
+  "id": "clotilda",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Clotilda, regina Franței",
+    "full": "Sfânta Cuvioasă Clotilda, regina Franței",
+    "short": "Clotilda, regina Franței",
+    "given": "Clotilda"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/788ed6f3-1c07-4a1f-9173-fd37aa08f686",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

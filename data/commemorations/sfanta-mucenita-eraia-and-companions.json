@@ -1,0 +1,26 @@
+{
+  "id": "sfanta-mucenita-eraia-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "group:sfanta-mucenita-eraia-and-companions"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 23
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/78e7178a-a286-48b1-9448-e9f19f11bfbd",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

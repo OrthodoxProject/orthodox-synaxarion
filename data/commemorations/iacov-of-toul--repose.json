@@ -1,0 +1,26 @@
+{
+  "id": "iacov-of-toul--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:iacov-of-toul"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 23
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/97833f8e-984e-4846-8528-3a5389c58701",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

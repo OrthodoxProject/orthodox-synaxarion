@@ -1,0 +1,21 @@
+{
+  "id": "burchard-of-anglia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Burchard din Anglia, primul episcop de Wuryburg în Germania",
+    "full": "Sfântul Ierarh Burchard din Anglia, primul episcop de Wuryburg în Germania",
+    "short": "Burchard din Anglia, primul episcop de Wuryburg în Germania",
+    "given": "Burchard"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/baa75396-7a2a-4dee-809e-98bc32a14239",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

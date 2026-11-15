@@ -1,0 +1,26 @@
+{
+  "id": "nicandru-of-golodnoezer-in-rusia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:nicandru-of-golodnoezer-in-rusia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 4
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/265dddb5-33da-42df-9652-7c9cbfb81a93",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

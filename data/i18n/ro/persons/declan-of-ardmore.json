@@ -1,0 +1,21 @@
+{
+  "id": "declan-of-ardmore",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Declan, episcop de Ardmore în Irlanda",
+    "full": "Sfântul Ierarh Declan, episcop de Ardmore în Irlanda",
+    "short": "Declan, episcop de Ardmore în Irlanda",
+    "given": "Declan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2dcc343b-efcc-4a8c-bb9e-5c5303e5a273",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

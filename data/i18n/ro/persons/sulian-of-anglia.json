@@ -1,0 +1,21 @@
+{
+  "id": "sulian-of-anglia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Sulian, starețul Mănăstirii Luxulyan din Anglia",
+    "full": "Sfântul Cuvios Sulian, starețul Mănăstirii Luxulyan din Anglia",
+    "short": "Sulian, starețul Mănăstirii Luxulyan din Anglia",
+    "given": "Sulian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4d2edd2c-2be6-44bd-bf81-2e9c24acb539",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

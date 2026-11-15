@@ -1,0 +1,18 @@
+{
+  "id": "primi-martyrs-of-roma",
+  "kind": "martyrs",
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f207783d-ebf9-45d8-b3e3-d0c1222342f4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

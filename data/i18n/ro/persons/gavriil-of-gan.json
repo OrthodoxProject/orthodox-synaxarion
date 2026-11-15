@@ -1,0 +1,21 @@
+{
+  "id": "gavriil-of-gan",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Gavriil, episcopul Ganului în Prusa",
+    "full": "Sfântul Sfințit Mucenic Gavriil, episcopul Ganului în Prusa",
+    "short": "Gavriil, episcopul Ganului în Prusa",
+    "given": "Gavriil"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d2eebe60-cb43-4cf7-8c74-0eebbfedcc87",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

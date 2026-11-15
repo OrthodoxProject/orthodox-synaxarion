@@ -1,0 +1,20 @@
+{
+  "id": "maia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințită Nouă Mc. Maia (Vinogradova)",
+    "short": "Maia (Vinogradova)",
+    "given": "Maia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1352",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

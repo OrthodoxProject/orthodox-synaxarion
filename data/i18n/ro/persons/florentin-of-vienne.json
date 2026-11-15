@@ -1,0 +1,21 @@
+{
+  "id": "florentin-of-vienne",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Florentin, episcop de Vienne în Franța",
+    "full": "Sfântul Sfințit Mucenic Florentin, episcop de Vienne în Franța",
+    "short": "Florentin, episcop de Vienne în Franța",
+    "given": "Florentin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/269522dc-3a20-4d76-a975-8bb271e45774",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

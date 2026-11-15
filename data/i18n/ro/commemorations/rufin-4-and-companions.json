@@ -1,0 +1,18 @@
+{
+  "id": "rufin-4-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici Rufin, Marcie, Ierperid, Saturnina, Stergia și Ieremia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/aef074e5-5417-4a44-9191-a8aaa322e22e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

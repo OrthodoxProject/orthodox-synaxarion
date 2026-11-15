@@ -1,0 +1,21 @@
+{
+  "id": "ghenadie-of-astorga",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ghenadie, episcop de Astorga și pustnic în Spania",
+    "full": "Sfântul Ierarh Ghenadie, episcop de Astorga și pustnic în Spania",
+    "short": "Ghenadie, episcop de Astorga, pustnic în Spania",
+    "given": "Ghenadie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1527",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

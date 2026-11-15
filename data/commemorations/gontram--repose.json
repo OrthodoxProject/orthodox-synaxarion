@@ -1,0 +1,26 @@
+{
+  "id": "gontram--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:gontram"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 28
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d74a3d52-a8b0-4ff2-995f-b55cf065dfce",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

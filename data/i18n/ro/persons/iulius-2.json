@@ -1,0 +1,20 @@
+{
+  "id": "iulius-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Iulius",
+    "short": "Iulius",
+    "given": "Iulius"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/28479263-6e67-4b63-b126-2e3f10ce9ace",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

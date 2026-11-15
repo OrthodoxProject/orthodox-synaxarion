@@ -1,0 +1,26 @@
+{
+  "id": "domna-of-nicomidia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:domna-of-nicomidia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 28
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c8f500ae-7084-4a4a-a1df-71a062728fcf",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

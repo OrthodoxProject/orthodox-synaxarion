@@ -1,0 +1,20 @@
+{
+  "id": "rufin-of-nicomidia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Rufin din Nicomidia",
+    "short": "Rufin din Nicomidia",
+    "given": "Rufin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4d8120cf-720d-47b1-a2f3-1343ccd6c378",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

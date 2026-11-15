@@ -1,0 +1,20 @@
+{
+  "id": "benign-of-benevento-in-italia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Benign din Benevento în Italia",
+    "short": "Benign din Benevento în Italia",
+    "given": "Benign"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/60c910cf-b394-4c4f-946b-74240a655e92",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

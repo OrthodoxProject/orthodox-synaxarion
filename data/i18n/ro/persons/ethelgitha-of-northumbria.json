@@ -1,0 +1,21 @@
+{
+  "id": "ethelgitha-of-northumbria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ethelgitha, stareța unei mănăstiri de monahii din Northumbria în Anglia",
+    "full": "Sfânta Cuvioasă Ethelgitha, stareța unei mănăstiri de monahii din Northumbria în Anglia",
+    "short": "Ethelgitha, stareța unei mănăstiri de monahii din Northumbria în Anglia",
+    "given": "Ethelgitha"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8db6d38b-e9c2-4896-83a0-66474222e380",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

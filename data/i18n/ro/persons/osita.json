@@ -1,0 +1,21 @@
+{
+  "id": "osita",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Prințesă Mc. Osita, întemeietoarea Mănăstirii de la Chich din Anglia",
+    "full": "Sfânta Prințesă Muceniță Osita, întemeietoarea Mănăstirii de la Chich din Anglia",
+    "short": "Osita, întemeietoarea Mănăstirii de la Chich din Anglia",
+    "given": "Osita"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c315f45d-9171-42cc-94d7-2ceb0e353e18",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

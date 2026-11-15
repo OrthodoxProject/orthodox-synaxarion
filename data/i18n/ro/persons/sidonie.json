@@ -1,0 +1,21 @@
+{
+  "id": "sidonie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Sidonie, stareț la Normandia în Franța",
+    "full": "Sfântul Cuvios Sidonie, stareț la Normandia în Franța",
+    "short": "Sidonie, stareț la Normandia în Franța",
+    "given": "Sidonie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9ad4ec92-0355-4e96-80ee-08e3d47f33f1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

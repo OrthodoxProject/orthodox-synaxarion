@@ -1,0 +1,20 @@
+{
+  "id": "xenia-of-sankt-petersburg",
+  "locale": "ro",
+  "names": {
+    "display": "Fericita Xenia de Sankt Petersburg",
+    "short": "Xenia de Sankt Petersburg",
+    "given": "Xenia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/471",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

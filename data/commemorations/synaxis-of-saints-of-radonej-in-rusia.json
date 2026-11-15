@@ -1,0 +1,26 @@
+{
+  "id": "synaxis-of-saints-of-radonej-in-rusia",
+  "kind": "synaxis",
+  "subjects": [
+    "group:saints-of-radonej-in-rusia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 6
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0146f318-a9d1-4f78-a28e-9f99036a883c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

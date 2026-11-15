@@ -1,0 +1,21 @@
+{
+  "id": "colomvin-of-franta",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Colomvin, stareț la Mănăstirea Lure din Franța",
+    "full": "Sfântul Cuvios Colomvin, stareț la Mănăstirea Lure din Franța",
+    "short": "Colomvin, stareț la Mănăstirea Lure din Franța",
+    "given": "Colomvin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ccf7beed-a71e-4ab0-80e3-a7c1d08a1c53",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

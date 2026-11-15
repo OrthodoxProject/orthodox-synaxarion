@@ -1,0 +1,26 @@
+{
+  "id": "pulheria-3--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:pulheria-3"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 7
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d35d0b17-b1f3-4304-93eb-8e6f89bed2da",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

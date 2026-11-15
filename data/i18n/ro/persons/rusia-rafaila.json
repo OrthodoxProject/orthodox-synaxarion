@@ -1,0 +1,20 @@
+{
+  "id": "rusia-rafaila",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Nouă Mc. Rusia Rafaila",
+    "short": "Rusia Rafaila",
+    "given": "Rusia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/fb2d210f-92d1-41d8-870b-5f402a793584",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

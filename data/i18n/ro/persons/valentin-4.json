@@ -1,0 +1,20 @@
+{
+  "id": "valentin-4",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Valentin",
+    "short": "Valentin",
+    "given": "Valentin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ed243857-e3ac-4509-908c-a08c0c47f9ab",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "gheorghe-of-nicomidia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Gheorghe, episcopul Nicomidiei",
+    "full": "Sfântul Ierarh Gheorghe, episcopul Nicomidiei",
+    "short": "Gheorghe, episcopul Nicomidiei",
+    "given": "Gheorghe"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ed2daf75-8738-4039-b5a7-aa66de85cba5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

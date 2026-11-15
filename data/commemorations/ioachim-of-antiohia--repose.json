@@ -1,0 +1,26 @@
+{
+  "id": "ioachim-of-antiohia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:ioachim-of-antiohia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 17
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ef1aa7e5-4e43-4c30-b1a1-a774d37b5d25",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "tihon-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Tihon",
+    "short": "Tihon",
+    "given": "Tihon"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/863",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

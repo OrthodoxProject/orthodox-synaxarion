@@ -1,0 +1,26 @@
+{
+  "id": "efrem-of-cilicia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:efrem-of-cilicia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 5
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5b4fc011-075b-4d55-8117-ee81625b49af",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

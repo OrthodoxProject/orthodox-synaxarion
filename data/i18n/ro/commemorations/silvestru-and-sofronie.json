@@ -1,0 +1,18 @@
+{
+  "id": "silvestru-and-sofronie",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici Silvestru și Sofronie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d2ead9ce-6b31-409c-ba01-ccd07082cc43",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

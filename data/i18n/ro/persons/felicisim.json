@@ -1,0 +1,21 @@
+{
+  "id": "felicisim",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Felicisim, pustnic la Umbria în Italia",
+    "full": "Sfântul Cuvios Felicisim, pustnic la Umbria în Italia",
+    "short": "Felicisim, pustnic la Umbria în Italia",
+    "given": "Felicisim"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/182e21c8-ae37-40b0-a54c-85ddb3492074",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

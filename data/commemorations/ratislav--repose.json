@@ -1,0 +1,26 @@
+{
+  "id": "ratislav--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:ratislav"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 28
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/15d25ad5-9d38-42ba-a829-317e0727d27a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

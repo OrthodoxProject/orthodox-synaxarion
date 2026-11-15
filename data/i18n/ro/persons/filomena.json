@@ -1,0 +1,21 @@
+{
+  "id": "filomena",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Filomena",
+    "full": "Sfânta Muceniță Filomena",
+    "short": "Filomena",
+    "given": "Filomena"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c989b2f2-d05b-4b10-a72e-381bdd4dc353",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

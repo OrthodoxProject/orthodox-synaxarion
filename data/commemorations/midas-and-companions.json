@@ -1,0 +1,28 @@
+{
+  "id": "midas-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:midas",
+    "person:paulin",
+    "person:curcudom-of-roma"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 4
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/14867c6f-499d-474b-a22a-8729a7573560",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

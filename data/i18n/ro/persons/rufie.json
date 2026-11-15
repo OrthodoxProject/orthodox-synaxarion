@@ -1,0 +1,21 @@
+{
+  "id": "rufie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Rufie, ucenicul Sfântului Ap. Pavel din Roma",
+    "full": "Sfântul Rufie, ucenicul Sfântului Apostol Pavel din Roma",
+    "short": "Rufie, ucenicul Sfântului Apostol Pavel din Roma",
+    "given": "Rufie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e035e892-654c-4d96-bfe0-94c055c7fb4d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

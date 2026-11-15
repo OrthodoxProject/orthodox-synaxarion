@@ -1,0 +1,27 @@
+{
+  "id": "iason-and-maur-3",
+  "kind": "repose",
+  "subjects": [
+    "person:iason",
+    "person:maur-3"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 19
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/258",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

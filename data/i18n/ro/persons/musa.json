@@ -1,0 +1,21 @@
+{
+  "id": "musa",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Musa, tânără din Roma",
+    "full": "Sfânta Musa, tânără din Roma",
+    "short": "Musa, tânără din Roma",
+    "given": "Musa"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/125c3f9d-b5e3-49b7-b2f4-c44098c8e6a8",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

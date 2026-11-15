@@ -1,0 +1,27 @@
+{
+  "id": "iona-savaitul-and-teofan-5",
+  "kind": "repose",
+  "subjects": [
+    "person:iona-savaitul",
+    "person:teofan-5"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 21
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/72531664-8f07-4649-8880-256ecca8d425",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

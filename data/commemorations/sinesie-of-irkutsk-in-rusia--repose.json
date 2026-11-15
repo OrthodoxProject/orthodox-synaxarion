@@ -1,0 +1,26 @@
+{
+  "id": "sinesie-of-irkutsk-in-rusia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:sinesie-of-irkutsk-in-rusia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 10
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8dddd16a-5e55-426a-9ad9-44edf91e06ad",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

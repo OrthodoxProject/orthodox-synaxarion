@@ -1,0 +1,29 @@
+{
+  "id": "macarie-of-ierusalim",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Macarie, episcop de Ierusalim",
+    "full": "Sfântul Ierarh Macarie, episcop de Ierusalim",
+    "short": "Macarie, episcop de Ierusalim",
+    "given": "Macarie",
+    "variants": [
+      "Sf. Ier. Macarie, episcopul Ierusalimului"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1c8f3eb1-0b6b-4fc2-9faf-ff977c225403",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a760af30-abff-4697-b0ef-cd9b82033a50",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

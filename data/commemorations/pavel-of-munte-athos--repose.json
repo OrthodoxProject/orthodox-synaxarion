@@ -1,0 +1,26 @@
+{
+  "id": "pavel-of-munte-athos--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:pavel-of-munte-athos"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 28
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9500fa16-6799-4ea5-903a-98754173ecd2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

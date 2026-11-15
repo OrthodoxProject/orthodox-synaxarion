@@ -1,0 +1,20 @@
+{
+  "id": "sira-of-irlanda",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sira din Irlanda, pustnică în Franța din Irlanda",
+    "short": "Sira din Irlanda, pustnică în Franța din Irlanda",
+    "given": "Sira"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/983d942f-425d-482a-a876-252a1ba81c9f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

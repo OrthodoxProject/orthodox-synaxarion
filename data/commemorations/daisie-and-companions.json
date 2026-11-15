@@ -1,0 +1,31 @@
+{
+  "id": "daisie-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:daisie",
+    "person:zosima-6",
+    "person:ianuarie-11",
+    "person:doroteia-3",
+    "person:susima",
+    "person:ianuaria-of-pozzoli-in-italia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 20
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9e5195d6-51ed-4d9f-99c6-4951422f95f1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

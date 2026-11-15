@@ -1,0 +1,26 @@
+{
+  "id": "teoctist-dragutin-of-serbia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:teoctist-dragutin-of-serbia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 12
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/01dedab4-8313-486f-96ea-40f737f19f6c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

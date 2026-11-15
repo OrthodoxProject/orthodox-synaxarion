@@ -1,0 +1,20 @@
+{
+  "id": "deodat",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Deodat, pustnic din Franța",
+    "short": "Deodat, pustnic din Franța",
+    "given": "Deodat"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/11c4e66f-5e65-41a7-b10e-ac4a707864c4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

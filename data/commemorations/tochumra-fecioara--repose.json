@@ -1,0 +1,26 @@
+{
+  "id": "tochumra-fecioara--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:tochumra-fecioara"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 11
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c88386e4-2791-4eef-abcb-ff2d0c540cc8",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

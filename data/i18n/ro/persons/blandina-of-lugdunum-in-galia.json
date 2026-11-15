@@ -1,0 +1,21 @@
+{
+  "id": "blandina-of-lugdunum-in-galia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Blandina din Lugdunum în Galia",
+    "full": "Sfânta Muceniță Blandina din Lugdunum în Galia",
+    "short": "Blandina din Lugdunum în Galia",
+    "given": "Blandina"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/fd9227ff-2431-430c-8431-3368ac769fa3#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

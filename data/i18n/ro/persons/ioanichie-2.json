@@ -1,0 +1,20 @@
+{
+  "id": "ioanichie-2",
+  "locale": "ro",
+  "names": {
+    "display": "Cuviosul Mc. Ioanichie (Dmitriev)",
+    "short": "Ioanichie (Dmitriev)",
+    "given": "Ioanichie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/73222440-5967-483e-ad90-cfe56c641bfb#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

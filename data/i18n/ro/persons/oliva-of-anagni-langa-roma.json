@@ -1,0 +1,21 @@
+{
+  "id": "oliva-of-anagni-langa-roma",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Oliva de la Anagni lângă Roma",
+    "full": "Sfânta Cuvioasă Oliva de la Anagni lângă Roma",
+    "short": "Oliva de la Anagni lângă Roma",
+    "given": "Oliva"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/99aaffaf-1a53-46d5-a1a7-54f0a0cf5d6e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

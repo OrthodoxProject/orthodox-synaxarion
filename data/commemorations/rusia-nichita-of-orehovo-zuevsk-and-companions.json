@@ -1,0 +1,37 @@
+{
+  "id": "rusia-nichita-of-orehovo-zuevsk-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:rusia-nichita-of-orehovo-zuevsk",
+    "person:varlaam-3",
+    "person:gavriil-7",
+    "person:anatolie-9",
+    "person:nicolae-66",
+    "person:arsenie-7",
+    "person:nicolae-67",
+    "person:constantin-16",
+    "person:gavriil-8",
+    "person:vasile-25",
+    "person:nina-2",
+    "person:serafima-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 6
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/31e6bf2c-d63a-471c-a3ce-495b98718657",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

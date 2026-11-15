@@ -1,0 +1,21 @@
+{
+  "id": "serghie-of-rusia-5",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Serghie (Rohlețov) din Rusia",
+    "full": "Sfântul Sfințit Nou Mucenic Serghie (Rohlețov) din Rusia",
+    "short": "Serghie (Rohlețov) din Rusia",
+    "given": "Serghie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/dcd66468-e8eb-49e4-aa9d-469c9dd0f0ca",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

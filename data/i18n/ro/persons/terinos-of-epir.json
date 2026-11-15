@@ -1,0 +1,20 @@
+{
+  "id": "terinos-of-epir",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Terinos din Epir",
+    "short": "Terinos din Epir",
+    "given": "Terinos"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/852366db-0d6c-43eb-9443-f7a1b30ad59b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

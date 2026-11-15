@@ -1,0 +1,18 @@
+{
+  "id": "synaxis-of-saints-of-manastirea-hilandar-of-sfantul-munte-athos",
+  "locale": "ro",
+  "names": {
+    "display": "Soborul Tuturor Sfinților de la Mănăstirea Hilandar din Sfântul Munte Athos"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2a15b126-b2ad-498a-84bf-c05689b268a7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "teodora-vassa",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Teodora-Vassa, prințesă din Nijni, iar apoi egumenă la Mănăstirea Galitch din Rusia",
+    "full": "Sfânta Cuvioasă Teodora-Vassa, prințesă din Nijni, iar apoi egumenă la Mănăstirea Galitch din Rusia",
+    "short": "Teodora-Vassa, prințesă din Nijni, iar apoi egumenă la Mănăstirea Galitch din Rusia",
+    "given": "Teodora-Vassa"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7f6e8670-df1a-4469-8422-daa82628b166",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

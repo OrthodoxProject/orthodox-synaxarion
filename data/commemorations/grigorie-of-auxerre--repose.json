@@ -1,0 +1,26 @@
+{
+  "id": "grigorie-of-auxerre--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:grigorie-of-auxerre"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 19
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b957a1aa-4579-4529-9466-11a5a254a955",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "hrisant-2--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:hrisant-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 10
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e6a9eb84-9ce7-4f5d-aae2-5314ed02d605",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

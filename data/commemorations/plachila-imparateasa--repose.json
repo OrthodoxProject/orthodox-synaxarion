@@ -1,0 +1,26 @@
+{
+  "id": "plachila-imparateasa--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:plachila-imparateasa"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 14
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ffc2f465-0c53-4146-ba78-05d6fba7d9d2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "cornwall-in-anglia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Cornwall în Anglia",
+    "short": "Cornwall în Anglia",
+    "given": "Cornwall"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/75906da1-5007-4498-912d-24b9f4f79e7f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

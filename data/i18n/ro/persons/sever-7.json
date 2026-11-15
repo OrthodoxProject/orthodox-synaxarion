@@ -1,0 +1,21 @@
+{
+  "id": "sever-7",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Sever",
+    "full": "Sfântul Mucenic Sever",
+    "short": "Sever",
+    "given": "Sever"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/642563a1-60b2-4795-ae08-dc4bd2571272",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

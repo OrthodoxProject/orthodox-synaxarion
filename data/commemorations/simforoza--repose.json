@@ -1,0 +1,26 @@
+{
+  "id": "simforoza--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:simforoza"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 18
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7801cd6c-afea-46d4-9f69-c8593474692b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "marchian-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Marchian",
+    "full": "Sfântul Mucenic Marchian",
+    "short": "Marchian",
+    "given": "Marchian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/94461192-a1cd-4438-a74d-73d4b2beccf3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

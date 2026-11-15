@@ -1,0 +1,21 @@
+{
+  "id": "swithbert-of-kaiserworth",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Swithbert, episcop de Kaiserworth",
+    "full": "Sfântul Ierarh Swithbert, episcop de Kaiserworth",
+    "short": "Swithbert, episcop de Kaiserworth",
+    "given": "Swithbert"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a673eb68-3e58-4106-a600-8c585a53051b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

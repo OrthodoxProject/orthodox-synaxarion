@@ -1,0 +1,21 @@
+{
+  "id": "cecilie-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cecilie, preot din Cartagina",
+    "full": "Sfântul Cecilie, preot din Cartagina",
+    "short": "Cecilie, preot din Cartagina",
+    "given": "Cecilie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a53401ed-b8b2-49f8-85e5-f513013655e6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

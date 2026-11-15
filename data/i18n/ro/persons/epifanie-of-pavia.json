@@ -1,0 +1,21 @@
+{
+  "id": "epifanie-of-pavia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Epifanie, episcop de Pavia în Italia",
+    "full": "Sfântul Ierarh Epifanie, episcop de Pavia în Italia",
+    "short": "Epifanie, episcop de Pavia în Italia",
+    "given": "Epifanie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/01adf376-c2d8-47ab-b323-3af597c80b29",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

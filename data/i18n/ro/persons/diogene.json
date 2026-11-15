@@ -1,0 +1,21 @@
+{
+  "id": "diogene",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Diogene, preot la Arras în Franța",
+    "full": "Sfântul Diogene, preot la Arras în Franța",
+    "short": "Diogene, preot la Arras în Franța",
+    "given": "Diogene"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/68fa403c-88ba-4e7c-90d7-7cc5588366e3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

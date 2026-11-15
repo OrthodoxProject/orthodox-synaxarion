@@ -1,0 +1,20 @@
+{
+  "id": "iuvenalie-of-narni",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Iuvenalie, episcop de Narni, mărturisitor în Italia",
+    "short": "Iuvenalie, episcop de Narni, mărturisitor în Italia",
+    "given": "Iuvenalie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1749ec5e-dd49-4135-b821-ddb534c1a22f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

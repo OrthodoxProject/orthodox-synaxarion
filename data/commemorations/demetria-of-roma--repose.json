@@ -1,0 +1,26 @@
+{
+  "id": "demetria-of-roma--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:demetria-of-roma"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 21
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c6be4229-7afa-4116-a008-8b0e58cb78f9",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

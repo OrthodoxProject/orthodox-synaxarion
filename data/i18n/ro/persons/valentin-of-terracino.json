@@ -1,0 +1,20 @@
+{
+  "id": "valentin-of-terracino",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Valentin de Terracino, diaconul său",
+    "short": "Valentin de Terracino, diaconul său",
+    "given": "Valentin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0851e481-4fa3-4892-aec5-7547814585aa",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

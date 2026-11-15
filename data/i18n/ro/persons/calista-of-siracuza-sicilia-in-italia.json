@@ -1,0 +1,20 @@
+{
+  "id": "calista-of-siracuza-sicilia-in-italia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Calista din Siracuza-Sicilia în Italia",
+    "short": "Calista din Siracuza-Sicilia în Italia",
+    "given": "Calista"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d3d45962-a7f9-4d07-a463-8f441eeefe8d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

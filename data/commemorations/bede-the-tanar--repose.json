@@ -1,0 +1,26 @@
+{
+  "id": "bede-the-tanar--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:bede-the-tanar"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 10
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a0c51293-dd6c-44b5-afed-21117bfb9c7a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

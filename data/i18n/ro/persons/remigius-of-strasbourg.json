@@ -1,0 +1,21 @@
+{
+  "id": "remigius-of-strasbourg",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Remigius, episcop de Strasbourg în Franța",
+    "full": "Sfântul Ierarh Remigius, episcop de Strasbourg în Franța",
+    "short": "Remigius, episcop de Strasbourg în Franța",
+    "given": "Remigius"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/78d5206e-cba9-43ce-8a2f-ab8f814fe23b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

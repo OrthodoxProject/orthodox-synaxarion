@@ -1,0 +1,20 @@
+{
+  "id": "aron-of-tara-galilor-in-marea-britanie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Aron din Țara Galilor în Marea Britanie",
+    "short": "Aron din Țara Galilor în Marea Britanie",
+    "given": "Aron"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/28479263-6e67-4b63-b126-2e3f10ce9ace",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "sfantul-mucenic-mihail-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "group:sfantul-mucenic-mihail-and-companions"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 17
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7c7660a6-66fe-4c1b-baad-3dbfc7e67c50",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

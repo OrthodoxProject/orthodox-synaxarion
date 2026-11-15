@@ -1,0 +1,26 @@
+{
+  "id": "venantie-of-in--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:venantie-of-in"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 1
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b5c829bd-7729-4c1e-afa1-1decdf880249",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "acachie-of-amida",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Acachie, episcop de Amida în Mesopotamia",
+    "full": "Sfântul Ierarh Acachie, episcop de Amida în Mesopotamia",
+    "short": "Acachie, episcop de Amida în Mesopotamia",
+    "given": "Acachie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f1a448a1-3ef0-4515-a7a9-61f1b2f610fb",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

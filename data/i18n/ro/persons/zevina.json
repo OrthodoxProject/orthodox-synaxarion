@@ -1,0 +1,20 @@
+{
+  "id": "zevina",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Zevina",
+    "short": "Zevina",
+    "given": "Zevina"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/134ac705-dc39-4e36-972a-1acc80bf497c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

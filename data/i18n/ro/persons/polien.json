@@ -1,0 +1,20 @@
+{
+  "id": "polien",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Polien",
+    "short": "Polien",
+    "given": "Polien"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/457",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

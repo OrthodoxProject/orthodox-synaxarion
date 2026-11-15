@@ -1,0 +1,31 @@
+{
+  "id": "rufin-4-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:rufin-4",
+    "person:marcie",
+    "person:ierperid",
+    "person:saturnina",
+    "person:stergia",
+    "person:ieremia-5"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 21
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/aef074e5-5417-4a44-9191-a8aaa322e22e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "bova",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Bova",
+    "short": "Bova",
+    "given": "Bova"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/36005f6f-361a-4e50-93ea-c776a00669b0#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

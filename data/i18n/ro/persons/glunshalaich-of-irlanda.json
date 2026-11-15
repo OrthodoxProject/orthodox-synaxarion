@@ -1,0 +1,21 @@
+{
+  "id": "glunshalaich-of-irlanda",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Glunshalaich din Irlanda",
+    "full": "Sfântul Glunshalaich din Irlanda",
+    "short": "Glunshalaich din Irlanda",
+    "given": "Glunshalaich"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c47cc9de-383b-47d8-a26e-c41bd2a72908",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "suzdal-in-rusia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Suzdal în Rusia",
+    "short": "Suzdal în Rusia",
+    "given": "Suzdal"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/94a5fec7-39b9-4f0e-8fd5-76858a3f105f",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1570",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

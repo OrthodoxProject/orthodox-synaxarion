@@ -1,0 +1,28 @@
+{
+  "id": "maxim-9-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:maxim-9",
+    "person:terentie-4",
+    "person:domna"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 5
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/63a53043-2d4a-487c-b96c-61bee133eff5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

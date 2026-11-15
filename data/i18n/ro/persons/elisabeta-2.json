@@ -1,0 +1,21 @@
+{
+  "id": "elisabeta-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Elisabeta, soția sa",
+    "full": "Sfânta Cuvioasă Elisabeta, soția sa",
+    "short": "Elisabeta, soția sa",
+    "given": "Elisabeta"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/14520d8a-57ce-4876-bd0d-2e6ef88c560d#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

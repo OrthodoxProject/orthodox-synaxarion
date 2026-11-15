@@ -1,0 +1,18 @@
+{
+  "id": "sact-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici Sact, Matur și Atal"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/fd9227ff-2431-430c-8431-3368ac769fa3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

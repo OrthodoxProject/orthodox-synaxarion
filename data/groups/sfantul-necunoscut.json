@@ -1,0 +1,18 @@
+{
+  "id": "sfantul-necunoscut",
+  "kind": "other",
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c5fcafcf-732e-45a5-9f5b-3c446d4f430d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

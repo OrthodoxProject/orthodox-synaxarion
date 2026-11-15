@@ -1,0 +1,20 @@
+{
+  "id": "gherman-of-volsk",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Gherman de Volsk",
+    "short": "Gherman de Volsk",
+    "given": "Gherman"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7dfb366e-5907-46b9-b9d4-28743e3ef827",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

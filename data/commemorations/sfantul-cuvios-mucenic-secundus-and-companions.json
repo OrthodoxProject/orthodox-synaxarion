@@ -1,0 +1,26 @@
+{
+  "id": "sfantul-cuvios-mucenic-secundus-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "group:sfantul-cuvios-mucenic-secundus-and-companions"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 21
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8f37513d-72e9-41b0-b1cc-bcdc4056d98d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

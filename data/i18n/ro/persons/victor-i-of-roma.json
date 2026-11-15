@@ -1,0 +1,21 @@
+{
+  "id": "victor-i-of-roma",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Victor I, episcopul Romei",
+    "full": "Sfântul Ierarh Victor I, episcopul Romei",
+    "short": "Victor I, episcopul Romei",
+    "given": "Victor"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ea67c240-660d-42d2-b767-8f33474dffdc",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

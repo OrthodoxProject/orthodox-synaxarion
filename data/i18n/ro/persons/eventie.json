@@ -1,0 +1,20 @@
+{
+  "id": "eventie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Eventie",
+    "short": "Eventie",
+    "given": "Eventie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/bea158e5-a0a4-4541-a041-d3908ee9fa4a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "elena-of-moscova",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Elena din Moscova",
+    "full": "Sfânta Cuvioasă Elena din Moscova",
+    "short": "Elena din Moscova",
+    "given": "Elena"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/72c2f7c9-520e-4a94-bf08-07c247fc338c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

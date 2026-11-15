@@ -1,0 +1,20 @@
+{
+  "id": "antonina-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Nouă Mc. Antonina (Novicova)",
+    "short": "Antonina (Novicova)",
+    "given": "Antonina"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7427ad33-adaa-496d-9ffd-c181cbf42080#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

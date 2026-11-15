@@ -1,0 +1,21 @@
+{
+  "id": "elidie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Elidie, pustnic în Anglia",
+    "full": "Sfântul Cuvios Elidie, pustnic în Anglia",
+    "short": "Elidie, pustnic în Anglia",
+    "given": "Elidie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/31f2fb15-be03-4dd3-9163-a480279dadb0",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

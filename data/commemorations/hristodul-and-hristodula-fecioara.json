@@ -1,0 +1,27 @@
+{
+  "id": "hristodul-and-hristodula-fecioara",
+  "kind": "repose",
+  "subjects": [
+    "person:hristodul",
+    "person:hristodula-fecioara"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 4
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/79f59ce5-be64-46cd-bad8-a79eb08bf510",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

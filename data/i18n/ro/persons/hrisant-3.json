@@ -1,0 +1,20 @@
+{
+  "id": "hrisant-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Hrisant",
+    "short": "Hrisant",
+    "given": "Hrisant"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/98a363eb-a4b4-4e79-b92d-f80a98ca3591",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

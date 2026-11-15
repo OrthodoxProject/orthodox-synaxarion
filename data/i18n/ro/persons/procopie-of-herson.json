@@ -1,0 +1,20 @@
+{
+  "id": "procopie-of-herson",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Procopie de Herson (Odessa)",
+    "short": "Procopie de Herson (Odessa)",
+    "given": "Procopie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/73222440-5967-483e-ad90-cfe56c641bfb",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

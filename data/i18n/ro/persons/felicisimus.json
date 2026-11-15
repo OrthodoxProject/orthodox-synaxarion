@@ -1,0 +1,20 @@
+{
+  "id": "felicisimus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Felicisimus",
+    "short": "Felicisimus",
+    "given": "Felicisimus"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/cbc80c25-27e3-4430-ab0d-fa909edc5d0f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

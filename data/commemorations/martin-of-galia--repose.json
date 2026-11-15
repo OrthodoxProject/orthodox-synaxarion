@@ -1,0 +1,26 @@
+{
+  "id": "martin-of-galia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:martin-of-galia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 10
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/73e0e8ca-bdb9-4438-8502-e8097067deaa",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

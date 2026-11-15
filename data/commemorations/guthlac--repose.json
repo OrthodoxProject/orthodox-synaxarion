@@ -1,0 +1,26 @@
+{
+  "id": "guthlac--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:guthlac"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 11
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/03fb9c34-12e2-4e9c-8d99-cc6d179f95da",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

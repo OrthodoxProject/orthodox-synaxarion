@@ -1,0 +1,26 @@
+{
+  "id": "pollion-citetul-of-panonia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:pollion-citetul-of-panonia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 27
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/486b24c7-1eca-4d4c-ae02-d7d879938a98",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

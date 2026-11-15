@@ -1,0 +1,21 @@
+{
+  "id": "eterie-of-nicomidia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Eterie din Nicomidia",
+    "full": "Sfântul Mucenic Eterie din Nicomidia",
+    "short": "Eterie din Nicomidia",
+    "given": "Eterie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4db8e534-d275-414b-9039-36c9387dd1c1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

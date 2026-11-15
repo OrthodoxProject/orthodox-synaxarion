@@ -1,0 +1,21 @@
+{
+  "id": "terapont-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Terapont, făcătorul de minuni",
+    "full": "Sfântul Cuvios Terapont, făcătorul de minuni",
+    "short": "Terapont, făcătorul de minuni",
+    "given": "Terapont"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/85fd10a6-920d-4e52-92ba-e9596fb2896c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

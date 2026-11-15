@@ -1,0 +1,26 @@
+{
+  "id": "zinon-of-egipt--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:zinon-of-egipt"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 19
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d67ea1a3-4b15-430c-b797-dc9b4d72fb95",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

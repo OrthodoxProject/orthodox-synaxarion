@@ -1,0 +1,26 @@
+{
+  "id": "sfantul-sfintit-mucenic-domnin-episcop-of-salona-and",
+  "kind": "repose",
+  "subjects": [
+    "group:sfantul-sfintit-mucenic-domnin-episcop-of-salona-and"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 11
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7f4bfd5d-f3f7-42ea-95b8-e9e3a2da5a9a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

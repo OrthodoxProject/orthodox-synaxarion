@@ -1,0 +1,21 @@
+{
+  "id": "cristiolus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Cristiolus, monah în Țara Galilor",
+    "full": "Sfântul Cuvios Cristiolus, monah în Țara Galilor",
+    "short": "Cristiolus, monah în Țara Galilor",
+    "given": "Cristiolus"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1d7c6ce0-906f-44f0-a86d-d2826284bd51#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

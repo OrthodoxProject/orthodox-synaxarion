@@ -1,0 +1,20 @@
+{
+  "id": "concordie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Concordie",
+    "short": "Concordie",
+    "given": "Concordie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/dc91a36e-d877-4e8d-90de-7b28ca260546",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

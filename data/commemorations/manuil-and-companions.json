@@ -1,0 +1,30 @@
+{
+  "id": "manuil-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:manuil",
+    "person:teodor-10",
+    "person:gheorghe-4",
+    "person:mihail-12",
+    "person:gheorghe-of-samotracia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 6
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/95a04c70-6554-47a0-a20f-a102ce727c39",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

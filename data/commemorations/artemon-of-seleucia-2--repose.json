@@ -1,0 +1,26 @@
+{
+  "id": "artemon-of-seleucia-2--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:artemon-of-seleucia-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 22
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ead65c3e-0ebd-4705-b938-2312fae34d6b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

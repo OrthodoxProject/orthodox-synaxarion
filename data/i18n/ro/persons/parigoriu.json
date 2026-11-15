@@ -1,0 +1,20 @@
+{
+  "id": "parigoriu",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Parigoriu",
+    "short": "Parigoriu",
+    "given": "Parigoriu"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6938a6e3-9b75-4a6d-9cf5-75a1a750b511",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

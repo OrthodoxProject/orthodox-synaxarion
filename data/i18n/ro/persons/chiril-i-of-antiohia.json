@@ -1,0 +1,21 @@
+{
+  "id": "chiril-i-of-antiohia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Chiril I, patriarhul Antiohiei",
+    "full": "Sfântul Ierarh Chiril I, patriarhul Antiohiei",
+    "short": "Chiril I, patriarhul Antiohiei",
+    "given": "Chiril"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ba891a02-7b72-4a26-a0c3-49ff1bd9923b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

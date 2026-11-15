@@ -1,0 +1,27 @@
+{
+  "id": "anatolia-3-and-audax-of-lucania-in-italia",
+  "kind": "repose",
+  "subjects": [
+    "person:anatolia-3",
+    "person:audax-of-lucania-in-italia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 9
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/addeb1fb-8ad5-4b67-9934-894b41880f75",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

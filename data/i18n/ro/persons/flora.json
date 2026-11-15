@@ -1,0 +1,20 @@
+{
+  "id": "flora",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Flora",
+    "short": "Flora",
+    "given": "Flora"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0d596adf-0bf3-433d-ae9e-75a7d15e2ac6#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

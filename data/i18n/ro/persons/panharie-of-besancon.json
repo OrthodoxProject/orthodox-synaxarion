@@ -1,0 +1,21 @@
+{
+  "id": "panharie-of-besancon",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Panharie, episcop de Besançon și mărturisitor în Franța",
+    "full": "Sfântul Ierarh Panharie, episcop de Besançon și mărturisitor în Franța",
+    "short": "Panharie, episcop de Besançon, mărturisitor în Franța",
+    "given": "Panharie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7e0f6237-6f0d-4b5a-a472-9ce3d58f21a4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

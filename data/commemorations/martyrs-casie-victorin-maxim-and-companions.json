@@ -1,0 +1,26 @@
+{
+  "id": "martyrs-casie-victorin-maxim-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "group:martyrs-casie-victorin-maxim-and-companions"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 15
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a3b3c19f-4a30-4762-816b-107529b2b519#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

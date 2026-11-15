@@ -1,0 +1,26 @@
+{
+  "id": "serghie-magistrul--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:serghie-magistrul"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 28
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/962f0ff5-0e23-4deb-9679-b0a95b12d327",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

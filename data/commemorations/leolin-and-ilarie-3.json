@@ -1,0 +1,27 @@
+{
+  "id": "leolin-and-ilarie-3",
+  "kind": "repose",
+  "subjects": [
+    "person:leolin",
+    "person:ilarie-3"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 29
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d0285f6c-a81d-45ed-9425-4407443b323a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

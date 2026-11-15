@@ -1,0 +1,18 @@
+{
+  "id": "min-and-mineu",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici Min și Mineu"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/759dbdb4-0fbf-484f-a0c9-84a99988f5a0",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

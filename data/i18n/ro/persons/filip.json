@@ -1,0 +1,20 @@
+{
+  "id": "filip",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Filip",
+    "short": "Filip",
+    "given": "Filip"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/831adb6a-732e-418a-a259-a687a620df9a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

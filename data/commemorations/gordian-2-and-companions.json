@@ -1,0 +1,31 @@
+{
+  "id": "gordian-2-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:gordian-2",
+    "person:macrovie",
+    "person:ilie-9",
+    "person:zotic-7",
+    "person:lucian-6",
+    "person:valerian-13"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 13
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1185",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

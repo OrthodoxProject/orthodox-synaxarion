@@ -1,0 +1,21 @@
+{
+  "id": "eustochia-of-roma",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Eustochia din Roma, ucenica Fericitului Ieronim și fiica Sfintei Paula din Roma",
+    "full": "Sfânta Cuvioasă Eustochia din Roma, ucenica Fericitului Ieronim și fiica Sfintei Paula din Roma",
+    "short": "Eustochia din Roma, ucenica Fericitului Ieronim, fiica Sfintei Paula din Roma",
+    "given": "Eustochia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a2d578cd-d2c2-46c8-9f2c-c2cd82f42492",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

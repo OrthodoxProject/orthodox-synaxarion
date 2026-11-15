@@ -1,0 +1,21 @@
+{
+  "id": "iust-of-italia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Iust din Italia, episcop în Anglia",
+    "full": "Sfântul Ierarh Iust din Italia, episcop în Anglia",
+    "short": "Iust din Italia, episcop în Anglia",
+    "given": "Iust"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4f6ded29-4c2b-4b31-bcce-9543d072f641",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

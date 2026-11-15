@@ -1,0 +1,26 @@
+{
+  "id": "pavel-14--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:pavel-14"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 1
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/02658bc6-0bd0-45f6-aebc-3eaaf96bfd52",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

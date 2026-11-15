@@ -1,0 +1,21 @@
+{
+  "id": "martin-of-tongres",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Martin, episcop de Tongres în Belgia",
+    "full": "Sfântul Ierarh Martin, episcop de Tongres în Belgia",
+    "short": "Martin, episcop de Tongres în Belgia",
+    "given": "Martin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6212a1b1-3e36-4cf8-8f96-8af7dfb8e839",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

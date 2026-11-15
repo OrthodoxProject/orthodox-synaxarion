@@ -1,0 +1,26 @@
+{
+  "id": "stefan-uros-al-iii-lea-of-deceani--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:stefan-uros-al-iii-lea-of-deceani"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 11
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/42deee92-f7e4-4946-b31d-16f2739b2289",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

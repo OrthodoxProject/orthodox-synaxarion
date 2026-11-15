@@ -1,0 +1,26 @@
+{
+  "id": "irodion-of-patras--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:irodion-of-patras"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 28
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b884a5b7-e349-44b7-9af7-11474d373dc2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

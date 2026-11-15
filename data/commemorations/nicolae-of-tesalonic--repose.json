@@ -1,0 +1,26 @@
+{
+  "id": "nicolae-of-tesalonic--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:nicolae-of-tesalonic"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 29
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5c7683e5-4458-471e-8ad6-84691c397816",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

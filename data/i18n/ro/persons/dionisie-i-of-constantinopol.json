@@ -1,0 +1,21 @@
+{
+  "id": "dionisie-i-of-constantinopol",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Dionisie I, patriarhul Constantinopolului",
+    "full": "Sfântul Ierarh Dionisie I, patriarhul Constantinopolului",
+    "short": "Dionisie I, patriarhul Constantinopolului",
+    "given": "Dionisie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/60e0aa36-20fe-4738-a68f-17082481e0c7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

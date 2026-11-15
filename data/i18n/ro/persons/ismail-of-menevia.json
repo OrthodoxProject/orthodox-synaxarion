@@ -1,0 +1,21 @@
+{
+  "id": "ismail-of-menevia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ismail, episcop de Menevia în Anglia",
+    "full": "Sfântul Ierarh Ismail, episcop de Menevia în Anglia",
+    "short": "Ismail, episcop de Menevia în Anglia",
+    "given": "Ismail"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/93a126bb-0d2f-4fe2-b294-fb79ed6ea4dc",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

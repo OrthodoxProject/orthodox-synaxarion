@@ -1,0 +1,21 @@
+{
+  "id": "firmina-fecioara-of-umbria-in-italia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Firmina fecioara din Umbria în Italia",
+    "full": "Sfânta Muceniță Firmina fecioara din Umbria în Italia",
+    "short": "Firmina fecioara din Umbria în Italia",
+    "given": "Firmina"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c2d1db2f-bca4-4664-8eee-7035d296bf83#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

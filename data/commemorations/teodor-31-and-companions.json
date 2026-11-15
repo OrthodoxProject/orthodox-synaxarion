@@ -1,0 +1,32 @@
+{
+  "id": "teodor-31-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:teodor-31",
+    "person:nicolae-60",
+    "person:vladimir-28",
+    "person:nicolae-61",
+    "person:emilian-4",
+    "person:sozont-2",
+    "person:alexandru-52"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 23
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/30252f1b-b23f-407a-ba8b-465b1159cec8",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

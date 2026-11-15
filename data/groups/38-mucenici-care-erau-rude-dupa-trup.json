@@ -1,0 +1,22 @@
+{
+  "id": "38-mucenici-care-erau-rude-dupa-trup",
+  "kind": "martyrs",
+  "count": {
+    "value": 38,
+    "precision": "exact"
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a6e7cd72-be1d-4af1-8a05-dc01aae3248b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

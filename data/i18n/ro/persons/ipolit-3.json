@@ -1,0 +1,20 @@
+{
+  "id": "ipolit-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Ipolit",
+    "short": "Ipolit",
+    "given": "Ipolit"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/705",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "walbert-of-franta--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:walbert-of-franta"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 2
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e8a9c2a2-30e5-4225-baf4-98ee107a5958",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

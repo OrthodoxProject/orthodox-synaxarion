@@ -1,0 +1,20 @@
+{
+  "id": "deicol",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Deicol, întemeietorul Mănăstirii Lure din Franța",
+    "short": "Deicol, întemeietorul Mănăstirii Lure din Franța",
+    "given": "Deicol"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c22c6942-9e29-4f21-8042-9e286668451c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

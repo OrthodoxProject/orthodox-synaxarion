@@ -1,0 +1,26 @@
+{
+  "id": "hadulf-of-arras-cambrai--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:hadulf-of-arras-cambrai"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 19
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/eb13c6e8-d6d4-472d-a80b-179c6af4d707",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

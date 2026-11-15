@@ -1,0 +1,21 @@
+{
+  "id": "nicodim-of-mammola-in-calabria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Nicodim din Mammola în Calabria",
+    "full": "Sfântul Cuvios Nicodim din Mammola în Calabria",
+    "short": "Nicodim din Mammola în Calabria",
+    "given": "Nicodim"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/781b124c-a931-452a-b6bc-2027091bcbc1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

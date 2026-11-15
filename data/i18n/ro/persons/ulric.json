@@ -1,0 +1,21 @@
+{
+  "id": "ulric",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ulric, monah la Mănăstirea Einsiedeln din Elveția",
+    "full": "Sfântul Cuvios Ulric, monah la Mănăstirea Einsiedeln din Elveția",
+    "short": "Ulric, monah la Mănăstirea Einsiedeln din Elveția",
+    "given": "Ulric"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/78906bd1-3dae-4d2a-921d-6ff3be4b660d#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

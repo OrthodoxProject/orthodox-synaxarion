@@ -1,0 +1,21 @@
+{
+  "id": "vichentie-diaconul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Vichentie diaconul",
+    "full": "Sfântul Sfințit Mucenic Vichentie diaconul",
+    "short": "Vichentie diaconul",
+    "given": "Vichentie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f22147df-582a-41b1-a321-081b8681093a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

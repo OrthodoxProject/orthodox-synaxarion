@@ -1,0 +1,26 @@
+{
+  "id": "gherman-3--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:gherman-3"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 12
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e78a6469-7860-4586-8230-d08130272ad5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

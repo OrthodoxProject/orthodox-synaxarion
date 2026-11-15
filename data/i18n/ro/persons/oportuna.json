@@ -1,0 +1,21 @@
+{
+  "id": "oportuna",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Oportuna, stareță la Monteuil în Franța",
+    "full": "Sfânta Cuvioasă Oportuna, stareță la Monteuil în Franța",
+    "short": "Oportuna, stareță la Monteuil în Franța",
+    "given": "Oportuna"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b42e62a7-1f56-47ab-a975-297defc4882d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

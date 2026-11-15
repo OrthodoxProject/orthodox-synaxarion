@@ -1,0 +1,28 @@
+{
+  "id": "felix-of-roma",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Felix din Roma",
+    "short": "Felix din Roma",
+    "given": "Felix",
+    "variants": [
+      "Sf. Ier. Felix al ll-lea, papă al Romei"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2a40b53e-80af-4a2d-80a9-38f91d7d3520",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a01e21e3-9577-4fbd-b774-88378ccff931",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

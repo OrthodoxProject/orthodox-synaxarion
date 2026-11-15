@@ -1,0 +1,21 @@
+{
+  "id": "sadoc-of-persia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Sadoc, Episcopul Persiei, și cei 128",
+    "full": "Sfântul Mucenic Sadoc, Episcopul Persiei, și cei 128",
+    "short": "Sadoc, Episcopul Persiei, cei 128",
+    "given": "Sadoc"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/48241f3e-f2f7-4e2b-80ee-1edfef32c3cb",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

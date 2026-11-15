@@ -1,0 +1,21 @@
+{
+  "id": "nicon-of-iordan",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Nicon, egumenul Lavrei Sfântului Gherasim de la Iordan din Palestina",
+    "full": "Sfântul Cuvios Nicon, egumenul Lavrei Sfântului Gherasim de la Iordan din Palestina",
+    "short": "Nicon, egumenul Lavrei Sfântului Gherasim de la Iordan din Palestina",
+    "given": "Nicon"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/90a878be-ec9e-428e-a2e7-e714fd0d1cf9",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

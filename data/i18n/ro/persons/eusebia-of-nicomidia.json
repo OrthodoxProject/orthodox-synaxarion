@@ -1,0 +1,20 @@
+{
+  "id": "eusebia-of-nicomidia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Eusebia din Nicomidia",
+    "short": "Eusebia din Nicomidia",
+    "given": "Eusebia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c152f8f8-6abc-4d82-a243-867d96fa8c83",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

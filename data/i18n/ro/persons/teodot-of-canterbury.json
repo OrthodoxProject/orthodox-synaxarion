@@ -1,0 +1,21 @@
+{
+  "id": "teodot-of-canterbury",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Teodot, arhiepiscop de Canterbury și Ap. al Angliei",
+    "full": "Sfântul Ierarh Teodot, arhiepiscop de Canterbury și Apostol al Angliei",
+    "short": "Teodot, arhiepiscop de Canterbury, Apostol al Angliei",
+    "given": "Teodot"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d5555b9e-9a47-41bf-8a8b-4239036021fe",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

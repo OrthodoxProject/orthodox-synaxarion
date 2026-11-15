@@ -1,0 +1,26 @@
+{
+  "id": "briavel--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:briavel"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 17
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2840a515-7484-4d55-a692-8d9bf8b08d93",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

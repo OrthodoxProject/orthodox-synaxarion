@@ -1,0 +1,20 @@
+{
+  "id": "filadelf-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Filadelf",
+    "short": "Filadelf",
+    "given": "Filadelf"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/bd0c3fc5-219c-4ad7-87e6-12649e0dd7a3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

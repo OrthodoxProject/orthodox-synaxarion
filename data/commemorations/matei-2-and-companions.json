@@ -1,0 +1,43 @@
+{
+  "id": "matei-2-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:matei-2",
+    "person:victor-9",
+    "person:onufrie-of-kursk",
+    "person:antonie-of-belgorod",
+    "person:mitrofan-2",
+    "person:alexandru-17",
+    "person:mihail-18",
+    "person:ipolit-2",
+    "person:maxim-13",
+    "person:nicolae-20",
+    "person:alexandru-18",
+    "person:vasile-20",
+    "person:pavel-18",
+    "person:nicolae-21",
+    "person:pavel-19",
+    "person:mihail-19",
+    "person:gheorghe-7",
+    "person:valentin-of-rusia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 19
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e1a459a0-7bdb-45a6-8cfa-13b7304e1bbc",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

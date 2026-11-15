@@ -1,0 +1,21 @@
+{
+  "id": "gualfredo",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Gualfredo, egumen la Piombino în Toscana Italiei",
+    "full": "Sfântul Cuvios Gualfredo, egumen la Piombino în Toscana Italiei",
+    "short": "Gualfredo, egumen la Piombino în Toscana Italiei",
+    "given": "Gualfredo"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d92a9fe1-5c20-4ac2-a2bd-834bc21d3979",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

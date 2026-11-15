@@ -1,0 +1,25 @@
+{
+  "id": "venerable-martyrs-12-monahi-of-manastirea-vatopedu",
+  "kind": "martyrs",
+  "count": {
+    "value": 12,
+    "precision": "exact"
+  },
+  "holiness_types": [
+    "venerable_martyr"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4520ac8b-d4d6-4489-a22a-d2156a308342",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

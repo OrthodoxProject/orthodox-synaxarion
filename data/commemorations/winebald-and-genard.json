@@ -1,0 +1,27 @@
+{
+  "id": "winebald-and-genard",
+  "kind": "repose",
+  "subjects": [
+    "person:winebald",
+    "person:genard"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 6
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/71e7870c-954e-4472-a9ed-461604aaf492",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

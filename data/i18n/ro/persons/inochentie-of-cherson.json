@@ -1,0 +1,21 @@
+{
+  "id": "inochentie-of-cherson",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Inochentie, episcop de Cherson în Rusia",
+    "full": "Sfântul Ierarh Inochentie, episcop de Cherson în Rusia",
+    "short": "Inochentie, episcop de Cherson în Rusia",
+    "given": "Inochentie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ba5d4c92-26bd-4361-bd2d-4801190e8469",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

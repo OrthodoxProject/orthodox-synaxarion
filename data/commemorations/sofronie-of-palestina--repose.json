@@ -1,0 +1,26 @@
+{
+  "id": "sofronie-of-palestina--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:sofronie-of-palestina"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 21
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/766fe694-e9af-455d-9922-009ea1491b90",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

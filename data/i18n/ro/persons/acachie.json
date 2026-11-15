@@ -1,0 +1,21 @@
+{
+  "id": "acachie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Acachie, preotul",
+    "full": "Sfântul Mucenic Acachie, preotul",
+    "short": "Acachie, preotul",
+    "given": "Acachie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/991eed6b-1743-4de4-9b13-32f91542a17a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

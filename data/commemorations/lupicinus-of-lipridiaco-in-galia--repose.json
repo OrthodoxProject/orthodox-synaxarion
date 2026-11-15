@@ -1,0 +1,26 @@
+{
+  "id": "lupicinus-of-lipridiaco-in-galia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:lupicinus-of-lipridiaco-in-galia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 24
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/eb73b5ee-4c96-4485-b499-887768bdcaf9",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

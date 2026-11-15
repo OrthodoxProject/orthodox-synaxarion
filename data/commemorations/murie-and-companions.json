@@ -1,0 +1,30 @@
+{
+  "id": "murie-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:murie",
+    "person:zinon-3",
+    "person:vitalie-2",
+    "person:eusebie-2",
+    "person:neon-4"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 28
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4c36b721-a516-4d4d-bab5-77308dd059f0",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

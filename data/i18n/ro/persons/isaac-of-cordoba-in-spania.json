@@ -1,0 +1,21 @@
+{
+  "id": "isaac-of-cordoba-in-spania",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Isaac din Cordoba în Spania",
+    "full": "Sfântul Cuvios Mucenic Isaac din Cordoba în Spania",
+    "short": "Isaac din Cordoba în Spania",
+    "given": "Isaac"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/75b90683-c632-4800-83c1-8b097061dd8d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

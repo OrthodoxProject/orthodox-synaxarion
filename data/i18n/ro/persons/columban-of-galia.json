@@ -1,0 +1,20 @@
+{
+  "id": "columban-of-galia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Columban, întemeietorul, starețul Mănăstirilor Luxeuil din Galia",
+    "short": "Columban, întemeietorul, starețul Mănăstirilor Luxeuil din Galia",
+    "given": "Columban"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b5517844-e2e8-4578-a149-322c3b983423",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

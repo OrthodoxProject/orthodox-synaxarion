@@ -1,0 +1,20 @@
+{
+  "id": "pamfil",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Pamfil",
+    "short": "Pamfil",
+    "given": "Pamfil"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2892cc58-b15a-48af-865f-73405ab45b1a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

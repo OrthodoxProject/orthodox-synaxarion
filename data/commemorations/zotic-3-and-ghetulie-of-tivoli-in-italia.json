@@ -1,0 +1,27 @@
+{
+  "id": "zotic-3-and-ghetulie-of-tivoli-in-italia",
+  "kind": "repose",
+  "subjects": [
+    "person:zotic-3",
+    "person:ghetulie-of-tivoli-in-italia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 12
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f1a212b2-6058-4d30-8c62-5b63b0cfec68",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

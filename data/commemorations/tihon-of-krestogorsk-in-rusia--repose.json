@@ -1,0 +1,26 @@
+{
+  "id": "tihon-of-krestogorsk-in-rusia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:tihon-of-krestogorsk-in-rusia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 16
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/beff5472-4f1a-4bf0-b29e-f9cf2e70b396",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

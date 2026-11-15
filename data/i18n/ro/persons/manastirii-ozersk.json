@@ -1,0 +1,20 @@
+{
+  "id": "manastirii-ozersk",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mănăstirii Ozersk",
+    "short": "Mănăstirii Ozersk",
+    "given": "Mănăstirii"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/eb122a1b-0ec6-4b4f-8395-7a014dc86dfc",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

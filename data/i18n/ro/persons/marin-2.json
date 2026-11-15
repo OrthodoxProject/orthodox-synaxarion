@@ -1,0 +1,20 @@
+{
+  "id": "marin-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Marin",
+    "short": "Marin",
+    "given": "Marin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/74da7254-3ffb-4bf2-9720-d8985d23a342",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

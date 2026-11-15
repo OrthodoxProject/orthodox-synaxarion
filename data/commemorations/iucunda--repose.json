@@ -1,0 +1,26 @@
+{
+  "id": "iucunda--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:iucunda"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 24
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/dac0388c-1148-49b2-bcd5-62c08a4f6049",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

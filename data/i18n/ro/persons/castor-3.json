@@ -1,0 +1,20 @@
+{
+  "id": "castor-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Castor",
+    "short": "Castor",
+    "given": "Castor"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1c9b04aa-cfdc-4f64-abd9-ccd85e4a6593",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

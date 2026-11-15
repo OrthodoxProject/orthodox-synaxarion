@@ -1,0 +1,21 @@
+{
+  "id": "vasian-i-of-rostov",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Vasian I,arhiepiscop de Rostov în Rusia",
+    "full": "Sfântul Ierarh Vasian I,arhiepiscop de Rostov în Rusia",
+    "short": "Vasian I, arhiepiscop de Rostov în Rusia",
+    "given": "Vasian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5ce2c691-42d7-4454-95ab-2b8eded3f039",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

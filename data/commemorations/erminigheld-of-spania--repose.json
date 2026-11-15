@@ -1,0 +1,26 @@
+{
+  "id": "erminigheld-of-spania--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:erminigheld-of-spania"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 13
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c9084ba8-d3f0-43c5-bc55-4b8a66b8b003",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "teaghen",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Teaghen",
+    "full": "Sfântul Mucenic Teaghen",
+    "short": "Teaghen",
+    "given": "Teaghen"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/30d0d255-13c3-4b33-ba5c-8d243c8a885e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

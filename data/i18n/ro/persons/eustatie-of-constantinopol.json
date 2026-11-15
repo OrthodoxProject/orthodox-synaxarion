@@ -1,0 +1,21 @@
+{
+  "id": "eustatie-of-constantinopol",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Eustatie, patriarhul Constantinopolului",
+    "full": "Sfântul Ierarh Eustatie, patriarhul Constantinopolului",
+    "short": "Eustatie, patriarhul Constantinopolului",
+    "given": "Eustatie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1b07a539-6cf3-4d28-bd0f-6859eb2dadfd",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

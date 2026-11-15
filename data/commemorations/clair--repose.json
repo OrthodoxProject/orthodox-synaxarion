@@ -1,0 +1,26 @@
+{
+  "id": "clair--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:clair"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 4
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3669c96e-cf0c-44b7-a310-e59a3efb653f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

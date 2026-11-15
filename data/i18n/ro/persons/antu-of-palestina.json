@@ -1,0 +1,20 @@
+{
+  "id": "antu-of-palestina",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Antu din Palestina",
+    "short": "Antu din Palestina",
+    "given": "Antu"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/36ca1447-5a70-404a-a2ce-d33a38d4ac93",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

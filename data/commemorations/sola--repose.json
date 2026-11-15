@@ -1,0 +1,26 @@
+{
+  "id": "sola--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:sola"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 3
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8901667b-6082-4cc8-8ae4-4cd86357fd7f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

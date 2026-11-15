@@ -1,0 +1,21 @@
+{
+  "id": "luca-pustnicul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Luca pustnicul",
+    "full": "Sfântul Cuvios Luca pustnicul",
+    "short": "Luca pustnicul",
+    "given": "Luca"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/df2ae238-e5ed-4960-9f41-a6b8e022abbd",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

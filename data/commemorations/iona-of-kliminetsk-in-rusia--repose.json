@@ -1,0 +1,26 @@
+{
+  "id": "iona-of-kliminetsk-in-rusia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:iona-of-kliminetsk-in-rusia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 28
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a46ef943-195c-4fa5-bd27-7213925a687e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

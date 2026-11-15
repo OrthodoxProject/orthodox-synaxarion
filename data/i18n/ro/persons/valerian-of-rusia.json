@@ -1,0 +1,20 @@
+{
+  "id": "valerian-of-rusia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Valerian din Rusia",
+    "short": "Valerian din Rusia",
+    "given": "Valerian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/07ba56f5-76b1-4de5-ae02-22b58759a175",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

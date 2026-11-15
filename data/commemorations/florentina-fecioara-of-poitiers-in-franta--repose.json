@@ -1,0 +1,26 @@
+{
+  "id": "florentina-fecioara-of-poitiers-in-franta--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:florentina-fecioara-of-poitiers-in-franta"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 1
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d344e556-2074-4833-b1e2-59a0667e076b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

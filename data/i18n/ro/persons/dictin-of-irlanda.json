@@ -1,0 +1,21 @@
+{
+  "id": "dictin-of-irlanda",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Dictin din Irlanda",
+    "full": "Sfântul Dictin din Irlanda",
+    "short": "Dictin din Irlanda",
+    "given": "Dictin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/47a376c0-5ee6-4469-a97c-ea874d1b7f2f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

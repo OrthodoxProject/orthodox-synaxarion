@@ -1,0 +1,26 @@
+{
+  "id": "leon-al-lll-lea-of-roma--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:leon-al-lll-lea-of-roma"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 12
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1a9cedd0-efb6-4ee9-aa2d-a0e04eeede01",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ultan-of-irlanda",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ultan din Irlanda, stareț la Fosses în Franța",
+    "full": "Sfântul Cuvios Ultan din Irlanda, stareț la Fosses în Franța",
+    "short": "Ultan din Irlanda, stareț la Fosses în Franța",
+    "given": "Ultan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c839251e-8023-48d9-bbf1-9995b501d818",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

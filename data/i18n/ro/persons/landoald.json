@@ -1,0 +1,20 @@
+{
+  "id": "landoald",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Landoald",
+    "short": "Landoald",
+    "given": "Landoald"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/927788b6-9941-4b9f-a78a-22110ca48b6f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

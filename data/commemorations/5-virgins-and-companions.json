@@ -1,0 +1,26 @@
+{
+  "id": "5-virgins-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "group:5-virgins-and-companions"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 6
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ba57c5af-44fa-49ce-b2d3-e74c9d355933",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

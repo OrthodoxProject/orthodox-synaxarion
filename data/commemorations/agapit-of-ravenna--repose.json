@@ -1,0 +1,26 @@
+{
+  "id": "agapit-of-ravenna--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:agapit-of-ravenna"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 16
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ce3a697f-16ac-4a49-806f-29f855c9589a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

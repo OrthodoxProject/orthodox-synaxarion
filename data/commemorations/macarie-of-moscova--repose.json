@@ -1,0 +1,26 @@
+{
+  "id": "macarie-of-moscova--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:macarie-of-moscova"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 16
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/593a01ed-9bc5-4968-9b6e-2b9195df159b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "grigorie-sinaitul-2--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:grigorie-sinaitul-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 11
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4884512c-6f81-401b-a290-9922ac5cd582",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

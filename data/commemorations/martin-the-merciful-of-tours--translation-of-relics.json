@@ -1,0 +1,26 @@
+{
+  "id": "martin-the-merciful-of-tours--translation-of-relics",
+  "kind": "relics_translation",
+  "subjects": [
+    "person:martin-the-merciful-of-tours"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 4
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f784f05f-726f-4111-ba66-82916072ee17",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

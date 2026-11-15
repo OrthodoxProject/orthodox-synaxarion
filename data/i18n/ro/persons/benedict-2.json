@@ -1,0 +1,21 @@
+{
+  "id": "benedict-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Benedict, pustnic din Campania în Italia",
+    "full": "Sfântul Cuvios Benedict, pustnic din Campania în Italia",
+    "short": "Benedict, pustnic din Campania în Italia",
+    "given": "Benedict"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/450aa9d8-4072-48c7-b6f9-9e565c56e18f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

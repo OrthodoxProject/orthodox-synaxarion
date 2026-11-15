@@ -1,0 +1,23 @@
+{
+  "id": "ana-blagovesenska-of-rusia",
+  "kind": "saint",
+  "gender": "female",
+  "holiness_types": [
+    "new_martyr",
+    "martyr"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f4ee6c14-3140-4fed-8833-5f99c6d9a63f#3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

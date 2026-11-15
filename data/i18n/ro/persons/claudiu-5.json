@@ -1,0 +1,21 @@
+{
+  "id": "claudiu-5",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Claudiu",
+    "full": "Sfântul Cuvios Claudiu",
+    "short": "Claudiu",
+    "given": "Claudiu"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6ee5eb8c-4bdb-41fd-996f-f2c45172fef8",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

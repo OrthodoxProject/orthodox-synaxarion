@@ -1,0 +1,26 @@
+{
+  "id": "vanustian-proconsul--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:vanustian-proconsul"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 18
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9cb357ce-2203-4bba-88bb-4ff394482c9c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

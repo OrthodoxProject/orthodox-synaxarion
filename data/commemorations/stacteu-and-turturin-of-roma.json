@@ -1,0 +1,27 @@
+{
+  "id": "stacteu-and-turturin-of-roma",
+  "kind": "repose",
+  "subjects": [
+    "person:stacteu",
+    "person:turturin-of-roma"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 28
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0326560c-7593-4512-b028-c80d2a4805df",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "probie-of-gaeta",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Probie, episcop de Gaeta în Italia",
+    "full": "Sfântul Ierarh Probie, episcop de Gaeta în Italia",
+    "short": "Probie, episcop de Gaeta în Italia",
+    "given": "Probie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b2586353-ab63-4028-ac6b-26cd25c00668",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

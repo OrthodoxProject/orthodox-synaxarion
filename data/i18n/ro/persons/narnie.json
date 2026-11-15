@@ -1,0 +1,21 @@
+{
+  "id": "narnie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Narnie, primul episcop de Bergamo în Italia",
+    "full": "Sfântul Ierarh Narnie, primul episcop de Bergamo în Italia",
+    "short": "Narnie, primul episcop de Bergamo în Italia",
+    "given": "Narnie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/cea1cd94-0197-4750-8ece-1c457043185b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

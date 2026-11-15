@@ -1,0 +1,21 @@
+{
+  "id": "fara-of-manastirii-faremoutiers",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Fara, stareța Mănăstirii Faremoutiers din Franța și ucenica Sfântului Colomban",
+    "full": "Sfânta Cuvioasă Fara, stareța Mănăstirii Faremoutiers din Franța și ucenica Sfântului Colomban",
+    "short": "Fara, stareța Mănăstirii Faremoutiers din Franța, ucenica Sfântului Colomban",
+    "given": "Fara"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7e8e9ab5-9b70-490e-83c4-a9bd5355c872",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

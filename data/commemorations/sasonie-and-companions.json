@@ -1,0 +1,28 @@
+{
+  "id": "sasonie-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:sasonie",
+    "person:ana-12",
+    "person:afeonie"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 20
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/94ad46f0-af4c-4f95-bc68-06560b484a6e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

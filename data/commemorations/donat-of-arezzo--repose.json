@@ -1,0 +1,26 @@
+{
+  "id": "donat-of-arezzo--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:donat-of-arezzo"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 7
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a3de2fb4-96d7-420d-bbab-f86021a6e39b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

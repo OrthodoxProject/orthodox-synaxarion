@@ -1,0 +1,26 @@
+{
+  "id": "edburga-of-anglia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:edburga-of-anglia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 13
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/cc7c967e-b0a2-4c05-9089-cab81602adb3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

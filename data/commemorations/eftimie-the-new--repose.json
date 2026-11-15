@@ -1,0 +1,26 @@
+{
+  "id": "eftimie-the-new--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:eftimie-the-new"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 4
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a2aae28f-251f-43ef-9f83-c14c9261f8eb",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

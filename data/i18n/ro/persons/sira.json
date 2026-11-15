@@ -1,0 +1,21 @@
+{
+  "id": "sira",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Sira, mama Sfintei Mucenițe Golinduhia",
+    "full": "Sfânta Muceniță Sira, mama Sfintei Mucenițe Golinduhia",
+    "short": "Sira, mama Sfintei Mucenițe Golinduhia",
+    "given": "Sira"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/39d143ce-d801-45d3-8e24-d787b7d59247",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

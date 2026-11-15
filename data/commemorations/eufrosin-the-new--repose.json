@@ -1,0 +1,26 @@
+{
+  "id": "eufrosin-the-new--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:eufrosin-the-new"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 10
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f6169630-e38b-4025-9820-6880f267081a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

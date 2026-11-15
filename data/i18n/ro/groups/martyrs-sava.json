@@ -1,0 +1,18 @@
+{
+  "id": "martyrs-sava",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici Sava"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/69d45de3-7586-4694-a072-154e4c054a4a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

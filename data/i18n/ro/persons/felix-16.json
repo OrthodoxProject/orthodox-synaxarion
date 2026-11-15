@@ -1,0 +1,20 @@
+{
+  "id": "felix-16",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Felix",
+    "short": "Felix",
+    "given": "Felix"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ac5b4796-40b9-4304-b738-cbee6e5281ad",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

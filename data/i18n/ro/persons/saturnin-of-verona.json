@@ -1,0 +1,21 @@
+{
+  "id": "saturnin-of-verona",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Saturnin, episcop de Verona în Italia",
+    "full": "Sfântul Ierarh Saturnin, episcop de Verona în Italia",
+    "short": "Saturnin, episcop de Verona în Italia",
+    "given": "Saturnin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9be8e71e-feeb-4cc4-bb42-ab71153877a9",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

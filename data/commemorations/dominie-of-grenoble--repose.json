@@ -1,0 +1,26 @@
+{
+  "id": "dominie-of-grenoble--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:dominie-of-grenoble"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 5
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/683cc6f5-ac92-4b02-880c-38cbb0b3e59d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

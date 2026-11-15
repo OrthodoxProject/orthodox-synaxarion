@@ -1,0 +1,26 @@
+{
+  "id": "vladimir-of-rusia-4--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:vladimir-of-rusia-4"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 20
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2e2e4649-ea4f-4972-90e7-6e54f93b96d6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

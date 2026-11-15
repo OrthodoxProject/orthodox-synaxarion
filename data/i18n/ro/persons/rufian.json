@@ -1,0 +1,20 @@
+{
+  "id": "rufian",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Rufian",
+    "short": "Rufian",
+    "given": "Rufian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4c8d4991-8081-4aee-82b3-82f6834b450e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

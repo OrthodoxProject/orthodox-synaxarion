@@ -1,0 +1,20 @@
+{
+  "id": "palatia-of-ancona-in-italia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Palatia din Ancona în Italia",
+    "short": "Palatia din Ancona în Italia",
+    "given": "Palatia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/073e6d8b-8bc6-46f2-a6ca-557cfd447e2b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

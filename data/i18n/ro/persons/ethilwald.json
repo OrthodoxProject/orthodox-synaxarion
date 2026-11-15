@@ -1,0 +1,21 @@
+{
+  "id": "ethilwald",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ethilwald, pustnic din Anglia",
+    "full": "Sfântul Cuvios Ethilwald, pustnic din Anglia",
+    "short": "Ethilwald, pustnic din Anglia",
+    "given": "Ethilwald"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e509744c-9299-43c2-9923-ac6e5127b026",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

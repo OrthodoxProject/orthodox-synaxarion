@@ -1,0 +1,18 @@
+{
+  "id": "sasonie-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici Sasonie, Ana și Afeonie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/94ad46f0-af4c-4f95-bc68-06560b484a6e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

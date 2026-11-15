@@ -1,0 +1,21 @@
+{
+  "id": "petru-27",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Petru (Golubev), preot din Rusia",
+    "full": "Sfântul Sfințit Nou Mucenic Petru (Golubev), preot din Rusia",
+    "short": "Petru (Golubev), preot din Rusia",
+    "given": "Petru"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9034519a-8386-4047-a460-8ca0805160af",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "victor-15",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Victor, preot din Spania",
+    "full": "Sfântul Sfințit Mucenic Victor, preot din Spania",
+    "short": "Victor, preot din Spania",
+    "given": "Victor"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2d26fb7f-cfa9-4bc0-89a5-1880169d2f6a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

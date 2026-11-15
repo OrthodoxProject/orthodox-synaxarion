@@ -1,0 +1,28 @@
+{
+  "id": "ulched-of-anglia-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:ulched-of-anglia",
+    "person:amand",
+    "person:brychan"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 6
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/72ce0e51-7d18-4c10-adc3-05cb5ce36f02",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

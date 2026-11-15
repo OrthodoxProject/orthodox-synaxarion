@@ -1,0 +1,18 @@
+{
+  "id": "martyrs-aura-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici Aura și cei împreună cu ei"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5fe55aa3-e95c-46a3-ad0a-5ec4f5352d29",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

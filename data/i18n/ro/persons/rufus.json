@@ -1,0 +1,21 @@
+{
+  "id": "rufus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Rufus, pustnic din Irlanda",
+    "full": "Sfântul Cuvios Rufus, pustnic din Irlanda",
+    "short": "Rufus, pustnic din Irlanda",
+    "given": "Rufus"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ad44883f-062f-4ee8-b747-42018de694ad",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

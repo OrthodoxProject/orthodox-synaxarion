@@ -1,0 +1,27 @@
+{
+  "id": "ermoghen-2-and-mamant-3",
+  "kind": "repose",
+  "subjects": [
+    "person:ermoghen-2",
+    "person:mamant-3"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 24
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/843435e5-85e4-49b0-bd3c-57fccbc7320a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

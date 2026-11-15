@@ -1,0 +1,21 @@
+{
+  "id": "anicet-of-roma",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Anicet, episcopul Romei și mărturisitor al Ortodoxiei în fața ereziei gnostice",
+    "full": "Sfântul Sfințit Mucenic Anicet, episcopul Romei și mărturisitor al Ortodoxiei în fața ereziei gnostice",
+    "short": "Anicet, episcopul Romei, mărturisitor al Ortodoxiei în fața ereziei gnostice",
+    "given": "Anicet"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1453",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

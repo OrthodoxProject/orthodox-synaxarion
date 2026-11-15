@@ -1,0 +1,18 @@
+{
+  "id": "porfirie-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici Pamfil preotul, Valent diaconul, Pavel, Porfirie, Seleucie, Teodul, Iulian, Samuil, Ilie, Daniil, Ieremia și Isaia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/191",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

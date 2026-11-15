@@ -1,0 +1,20 @@
+{
+  "id": "iaroslav-the-intelept",
+  "locale": "ro",
+  "names": {
+    "display": "Cuviosul Cneaz Iaroslav cel Înțelept",
+    "short": "Iaroslav cel Înțelept",
+    "given": "Iaroslav"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/700c9d8e-42f7-479c-9d27-dcee6389eece",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

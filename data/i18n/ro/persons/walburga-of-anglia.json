@@ -1,0 +1,20 @@
+{
+  "id": "walburga-of-anglia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. WALBURGA din Anglia, fiica regelui Sf. Richard",
+    "short": "WALBURGA din Anglia, fiica regelui Sf. Richard",
+    "given": "WALBURGA"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0dfdbe24-1fe7-48ca-919f-7c6e8ae79f9e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "leo-of-sens--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:leo-of-sens"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 22
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/53040149-c32d-4c27-9032-aebe216a2014",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

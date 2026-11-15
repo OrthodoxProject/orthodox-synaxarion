@@ -1,0 +1,26 @@
+{
+  "id": "mitru-of-aix-en-provence-in-franta--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:mitru-of-aix-en-provence-in-franta"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 13
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/634d4300-0d24-4576-a789-f8092ac52096",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

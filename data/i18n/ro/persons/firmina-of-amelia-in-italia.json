@@ -1,0 +1,21 @@
+{
+  "id": "firmina-of-amelia-in-italia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Firmina din Amelia în Italia",
+    "full": "Sfânta Muceniță Firmina din Amelia în Italia",
+    "short": "Firmina din Amelia în Italia",
+    "given": "Firmina"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7a197f08-edb0-47f1-a924-59462cf63db2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

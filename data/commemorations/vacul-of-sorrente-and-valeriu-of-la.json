@@ -1,0 +1,27 @@
+{
+  "id": "vacul-of-sorrente-and-valeriu-of-la",
+  "kind": "repose",
+  "subjects": [
+    "person:vacul-of-sorrente",
+    "person:valeriu-of-la"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 29
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e95376aa-03f6-497d-9938-22859a1bfe68",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

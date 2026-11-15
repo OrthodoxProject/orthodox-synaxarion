@@ -1,0 +1,20 @@
+{
+  "id": "calinica",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Calinica",
+    "short": "Calinica",
+    "given": "Calinica"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d857eb53-103e-4921-9d10-7dd7c0129f5c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "simeon-of-kafr-abdin-in-siria--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:simeon-of-kafr-abdin-in-siria"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 27
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/251a5673-d4fb-4be2-b782-2310b504bd5a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

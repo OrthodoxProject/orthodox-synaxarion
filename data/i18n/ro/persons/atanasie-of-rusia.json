@@ -1,0 +1,20 @@
+{
+  "id": "atanasie-of-rusia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Atanasie (Kislov) din Rusia",
+    "short": "Atanasie (Kislov) din Rusia",
+    "given": "Atanasie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/88b140f1-951f-4a08-a296-66a2dd58864f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

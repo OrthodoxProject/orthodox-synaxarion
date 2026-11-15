@@ -1,0 +1,21 @@
+{
+  "id": "meropia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Meropia",
+    "full": "Sfânta Muceniță Meropia",
+    "short": "Meropia",
+    "given": "Meropia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f068c1a9-f92d-4da8-a369-b02dc05673e6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

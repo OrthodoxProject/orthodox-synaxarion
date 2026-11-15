@@ -1,0 +1,26 @@
+{
+  "id": "lull-of-mainx--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:lull-of-mainx"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 16
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/46e30d1a-2190-49f3-9d0c-bfc28d10a2fe",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

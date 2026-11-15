@@ -1,0 +1,21 @@
+{
+  "id": "tirs-of-carpasia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Tirs, episcop de Carpasia în insula Cipru",
+    "full": "Sfântul Ierarh Tirs, episcop de Carpasia în insula Cipru",
+    "short": "Tirs, episcop de Carpasia în insula Cipru",
+    "given": "Tirs"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b91e7331-37ce-4618-8dce-14eb63913989",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

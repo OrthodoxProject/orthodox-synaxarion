@@ -1,0 +1,20 @@
+{
+  "id": "dimitrie-16",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Dimitrie (Spaskii)",
+    "short": "Dimitrie (Spaskii)",
+    "given": "Dimitrie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9e30f608-1596-4fa4-b50a-e441df9a44b2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

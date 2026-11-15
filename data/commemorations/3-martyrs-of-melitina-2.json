@@ -1,0 +1,26 @@
+{
+  "id": "3-martyrs-of-melitina-2",
+  "kind": "repose",
+  "subjects": [
+    "group:3-martyrs-of-melitina-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 31
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ac2bc77c-61f5-4183-93fd-467de30cf453",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

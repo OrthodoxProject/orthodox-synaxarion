@@ -1,0 +1,26 @@
+{
+  "id": "policarp-2--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:policarp-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 25
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3526d34d-126b-4485-a44c-a9b9451451b2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

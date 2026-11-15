@@ -1,0 +1,26 @@
+{
+  "id": "ursicin-of-ravena--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:ursicin-of-ravena"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 5
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/226cf654-8276-4376-9a67-1eb834402e3f#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "eusebie-of-kival",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Eusebie de Kival",
+    "short": "Eusebie de Kival",
+    "given": "Eusebie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b4b72f20-cb37-413d-8353-7a1b919b9d6d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

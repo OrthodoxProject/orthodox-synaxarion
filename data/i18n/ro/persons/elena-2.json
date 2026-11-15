@@ -1,0 +1,21 @@
+{
+  "id": "elena-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Elena",
+    "full": "Sfânta Elena",
+    "short": "Elena",
+    "given": "Elena"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1637f06b-91da-42fe-bee0-423a21cd8854#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

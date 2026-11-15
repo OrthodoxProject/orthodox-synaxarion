@@ -1,0 +1,20 @@
+{
+  "id": "boulogne-in-franta",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Boulogne în Franța",
+    "short": "Boulogne în Franța",
+    "given": "Boulogne"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ef90801e-0817-4218-9c70-8873048ed339",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

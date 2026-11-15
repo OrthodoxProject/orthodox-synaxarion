@@ -1,0 +1,20 @@
+{
+  "id": "odilo-of-franta",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Odilo din Franța",
+    "short": "Odilo din Franța",
+    "given": "Odilo"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/cd889133-39d4-4895-8705-f3957cbe5fbb#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iuliu-i-of-roma--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:iuliu-i-of-roma"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 12
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/11f39f17-2fca-473e-a075-b1f977f957ae",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

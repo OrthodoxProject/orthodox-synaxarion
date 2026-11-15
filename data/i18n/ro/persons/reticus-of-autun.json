@@ -1,0 +1,21 @@
+{
+  "id": "reticus-of-autun",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Reticus, episcop de Autun în Franța",
+    "full": "Sfântul Ierarh Reticus, episcop de Autun în Franța",
+    "short": "Reticus, episcop de Autun în Franța",
+    "given": "Reticus"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/125de1c7-1f9d-44df-8c80-672d262d9687",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

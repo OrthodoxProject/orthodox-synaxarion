@@ -1,0 +1,21 @@
+{
+  "id": "fotim",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Fotim, întemeietorul Bisericii din Benevento în Italia",
+    "full": "Sfântul Fotim, întemeietorul Bisericii din Benevento în Italia",
+    "short": "Fotim, întemeietorul Bisericii din Benevento în Italia",
+    "given": "Fotim"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f91ef74f-9d63-469e-8d34-bc3a67465510",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

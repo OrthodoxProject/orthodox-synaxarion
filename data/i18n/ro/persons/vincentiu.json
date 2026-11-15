@@ -1,0 +1,21 @@
+{
+  "id": "vincentiu",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Vincențiu, starețul Mănăstirii „Sfântul Petru de Montes” în Spania",
+    "full": "Sfântul Cuvios Vincențiu, starețul Mănăstirii „Sfântul Petru de Montes” în Spania",
+    "short": "Vincențiu, starețul Mănăstirii „Sfântul Petru de Montes” în Spania",
+    "given": "Vincențiu"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0ab67535-6eb0-4ce4-83b5-c55759296992",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

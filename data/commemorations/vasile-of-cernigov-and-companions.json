@@ -1,0 +1,28 @@
+{
+  "id": "vasile-of-cernigov-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:vasile-of-cernigov",
+    "person:vasile-33",
+    "person:dimitrie-of-rusia-4"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 1
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b13096e2-253e-49bb-9083-1241848425df",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

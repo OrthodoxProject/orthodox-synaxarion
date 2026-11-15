@@ -1,0 +1,27 @@
+{
+  "id": "vasile-18-and-nicolae-of-rusia-3",
+  "kind": "repose",
+  "subjects": [
+    "person:vasile-18",
+    "person:nicolae-of-rusia-3"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 21
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/09d0b2a9-f7ad-440b-9b2c-2f19b0090321",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "betharius-of-chartres",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Betharius, episcop de Chartres în Franța",
+    "full": "Sfântul Ierarh Betharius, episcop de Chartres în Franța",
+    "short": "Betharius, episcop de Chartres în Franța",
+    "given": "Betharius"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/287c1f3a-9720-4edf-9a68-403cfaa3a718",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

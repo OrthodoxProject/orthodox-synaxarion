@@ -1,0 +1,21 @@
+{
+  "id": "manuil-criteanul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Nou Mc. Manuil Criteanul, robul din Sfakia, Creta, Grecia",
+    "full": "Sfântul Nou Mucenic Manuil Criteanul, robul din Sfakia, Creta, Grecia",
+    "short": "Manuil Criteanul, robul din Sfakia, Creta, Grecia",
+    "given": "Manuil"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5bebf5d3-7c65-4959-a87a-5a0a1ed292ff",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

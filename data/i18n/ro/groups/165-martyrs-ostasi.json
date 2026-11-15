@@ -1,0 +1,18 @@
+{
+  "id": "165-martyrs-ostasi",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții 165 de Mucenici ostași"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/62dd91ea-a216-4447-bb27-88b6247632e4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

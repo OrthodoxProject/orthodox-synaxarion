@@ -1,0 +1,20 @@
+{
+  "id": "filumen",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Filumen",
+    "short": "Filumen",
+    "given": "Filumen"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0d596adf-0bf3-433d-ae9e-75a7d15e2ac6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

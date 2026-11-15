@@ -1,0 +1,21 @@
+{
+  "id": "viviana-of-roma",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Viviana din Roma",
+    "full": "Sfânta Muceniță Viviana din Roma",
+    "short": "Viviana din Roma",
+    "given": "Viviana"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/705896e4-7054-4521-ad30-b8011a362f82",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

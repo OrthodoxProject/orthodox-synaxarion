@@ -1,0 +1,18 @@
+{
+  "id": "icon-of-theotokos-odighitria",
+  "locale": "ro",
+  "names": {
+    "display": "Icoana Maicii Domnului Odighitria"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f35f953e-8023-44c8-9547-b5d9b453a0e9",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

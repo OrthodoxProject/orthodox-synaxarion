@@ -1,0 +1,31 @@
+{
+  "id": "lucia-fecioara-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:lucia-fecioara",
+    "person:anceia-antonie-irineu",
+    "person:teodor-19",
+    "person:dionisie-9",
+    "person:apolonie-3",
+    "person:victor-12"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 25
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b01bb00f-a941-456a-98cb-c39c2d0ccf9e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

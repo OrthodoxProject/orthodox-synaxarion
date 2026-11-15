@@ -1,0 +1,21 @@
+{
+  "id": "lin",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Lin, primul episcop al Romei, botezat de către Sfântul Ap. Petru",
+    "full": "Sfântul Ierarh Lin, primul episcop al Romei, botezat de către Sfântul Apostol Petru",
+    "short": "Lin, primul episcop al Romei, botezat de către Sfântul Apostol Petru",
+    "given": "Lin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a50b4a28-517f-4b0e-b070-d69c41caf449",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

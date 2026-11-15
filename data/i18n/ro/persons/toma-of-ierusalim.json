@@ -1,0 +1,20 @@
+{
+  "id": "toma-of-ierusalim",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Toma, patriarhul Ierusalimului",
+    "short": "Toma, patriarhul Ierusalimului",
+    "given": "Toma"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6e634656-b570-4495-bbba-53bde139623d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

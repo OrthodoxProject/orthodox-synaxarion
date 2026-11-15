@@ -1,0 +1,26 @@
+{
+  "id": "rubil--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:rubil"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 1
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7507103b-9001-4027-8f43-eb55ff939438",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

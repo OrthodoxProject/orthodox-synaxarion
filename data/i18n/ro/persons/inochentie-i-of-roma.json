@@ -1,0 +1,21 @@
+{
+  "id": "inochentie-i-of-roma",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Inochentie I, episcopul Romei",
+    "full": "Sfântul Ierarh Inochentie I, episcopul Romei",
+    "short": "Inochentie I, episcopul Romei",
+    "given": "Inochentie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/89784098-604d-41fc-9fa2-b98e8a5ddc63",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

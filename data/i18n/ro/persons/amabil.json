@@ -1,0 +1,21 @@
+{
+  "id": "amabil",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Amabil, preot la Rio în Franța",
+    "full": "Sfântul Amabil, preot la Rio în Franța",
+    "short": "Amabil, preot la Rio în Franța",
+    "given": "Amabil"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6c6a8330-10fe-4bf7-b758-c34c05e4d3ff",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

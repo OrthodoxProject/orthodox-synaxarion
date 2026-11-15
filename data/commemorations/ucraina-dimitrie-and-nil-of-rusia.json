@@ -1,0 +1,27 @@
+{
+  "id": "ucraina-dimitrie-and-nil-of-rusia",
+  "kind": "repose",
+  "subjects": [
+    "person:ucraina-dimitrie",
+    "person:nil-of-rusia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 4
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5ffec2a9-4519-4545-a6a6-fc0fc033832e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

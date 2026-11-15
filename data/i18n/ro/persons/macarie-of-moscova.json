@@ -1,0 +1,20 @@
+{
+  "id": "macarie-of-moscova",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Macarie (Nevski), Mitropolitul Moscovei și al Kolomenskului",
+    "short": "Macarie (Nevski), Mitropolitul Moscovei, al Kolomenskului",
+    "given": "Macarie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/593a01ed-9bc5-4968-9b6e-2b9195df159b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

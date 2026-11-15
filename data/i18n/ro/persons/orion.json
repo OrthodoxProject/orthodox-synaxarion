@@ -1,0 +1,20 @@
+{
+  "id": "orion",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Orion",
+    "short": "Orion",
+    "given": "Orion"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/52d5fcc3-bd9f-440a-ad55-4318a474f755",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

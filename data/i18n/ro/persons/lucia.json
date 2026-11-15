@@ -1,0 +1,20 @@
+{
+  "id": "lucia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Lucia",
+    "short": "Lucia",
+    "given": "Lucia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/012e581c-3572-43d1-b06c-22ba9485f5d8",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "artemie-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Artemie",
+    "short": "Artemie",
+    "given": "Artemie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/954aa175-267d-4280-99b2-343838147d9c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

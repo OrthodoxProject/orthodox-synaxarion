@@ -1,0 +1,20 @@
+{
+  "id": "hristofor-4",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Hristofor",
+    "short": "Hristofor",
+    "given": "Hristofor"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d8c6aa42-573e-44e9-85d2-fa581ba9997e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

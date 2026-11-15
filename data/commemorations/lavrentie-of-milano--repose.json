@@ -1,0 +1,26 @@
+{
+  "id": "lavrentie-of-milano--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:lavrentie-of-milano"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 27
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/105274f5-a70b-4bf2-8f05-97741d0374a1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

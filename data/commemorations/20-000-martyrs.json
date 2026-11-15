@@ -1,0 +1,26 @@
+{
+  "id": "20-000-martyrs",
+  "kind": "repose",
+  "subjects": [
+    "group:20-000-martyrs"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 2
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/fac82b5f-a4ed-4697-81fd-e8e40212b1b1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

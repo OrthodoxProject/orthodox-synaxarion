@@ -1,0 +1,27 @@
+{
+  "id": "eufrosina-and-teodora-3",
+  "kind": "repose",
+  "subjects": [
+    "person:eufrosina",
+    "person:teodora-3"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 12
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/cb677e3c-e2a7-4ab7-923c-acfab95108cd",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

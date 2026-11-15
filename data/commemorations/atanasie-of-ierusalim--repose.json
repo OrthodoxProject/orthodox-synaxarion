@@ -1,0 +1,26 @@
+{
+  "id": "atanasie-of-ierusalim--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:atanasie-of-ierusalim"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 24
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/00b3a39f-8f56-41b8-86e0-95f521ad006b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

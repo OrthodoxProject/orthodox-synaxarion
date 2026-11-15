@@ -1,0 +1,21 @@
+{
+  "id": "venerable-petroc-intemeietorul-manastirea-padstow-and-companions",
+  "kind": "community",
+  "holiness_types": [
+    "venerable"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/df2026ac-a180-4666-89cc-0297a88b8461",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

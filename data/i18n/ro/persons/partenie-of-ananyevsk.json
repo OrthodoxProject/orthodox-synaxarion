@@ -1,0 +1,20 @@
+{
+  "id": "partenie-of-ananyevsk",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Partenie de Ananyevsk",
+    "short": "Partenie de Ananyevsk",
+    "given": "Partenie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e6e25911-bc1a-41ba-a6f7-0b39901e2374",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

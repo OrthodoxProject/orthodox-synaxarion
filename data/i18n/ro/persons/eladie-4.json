@@ -1,0 +1,21 @@
+{
+  "id": "eladie-4",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Eladie",
+    "full": "Sfântul Cuvios Eladie",
+    "short": "Eladie",
+    "given": "Eladie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/51e9b43b-dc0b-4396-801b-9bc7f4a92467",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

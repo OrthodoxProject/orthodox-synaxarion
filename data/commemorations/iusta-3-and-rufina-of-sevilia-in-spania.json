@@ -1,0 +1,27 @@
+{
+  "id": "iusta-3-and-rufina-of-sevilia-in-spania",
+  "kind": "repose",
+  "subjects": [
+    "person:iusta-3",
+    "person:rufina-of-sevilia-in-spania"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 19
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/fd246099-7aea-47c9-a0b5-d8904c229846",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

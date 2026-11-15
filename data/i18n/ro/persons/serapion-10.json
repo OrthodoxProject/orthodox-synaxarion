@@ -1,0 +1,20 @@
+{
+  "id": "serapion-10",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Serapion",
+    "short": "Serapion",
+    "given": "Serapion"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ef88e491-ac89-4853-9a82-9a5d451c5fc1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

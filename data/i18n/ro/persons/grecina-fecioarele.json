@@ -1,0 +1,20 @@
+{
+  "id": "grecina-fecioarele",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Grecina fecioarele",
+    "short": "Grecina fecioarele",
+    "given": "Grecina"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d395aa04-6e8e-4788-aa4a-645bec32dc2e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

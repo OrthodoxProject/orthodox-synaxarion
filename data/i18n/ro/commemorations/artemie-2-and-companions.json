@@ -1,0 +1,18 @@
+{
+  "id": "artemie-2-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici Artemie și Candida, soția sa, împreună cu fiica lor, Paulina"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/954aa175-267d-4280-99b2-343838147d9c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

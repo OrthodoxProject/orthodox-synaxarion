@@ -1,0 +1,21 @@
+{
+  "id": "palade-of-auxerre",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Palade, episcop de Auxerre în Franța",
+    "full": "Sfântul Ierarh Palade, episcop de Auxerre în Franța",
+    "short": "Palade, episcop de Auxerre în Franța",
+    "given": "Palade"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/10db268e-27c2-45b2-96a6-22958abd22bb",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

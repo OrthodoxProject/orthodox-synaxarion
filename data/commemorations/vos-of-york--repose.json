@@ -1,0 +1,26 @@
+{
+  "id": "vos-of-york--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:vos-of-york"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 9
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5cf6acce-285e-4d91-a1e5-40afdda6ff79",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

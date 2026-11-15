@@ -1,0 +1,20 @@
+{
+  "id": "eufrosin-of-tver",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Eufrosin, din Tver",
+    "short": "Eufrosin, din Tver",
+    "given": "Eufrosin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d9d15a3e-b855-4e3f-bd43-7cbb60d37398",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "marina-fecioara-of-bitinia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Marina fecioara din Bitinia",
+    "full": "Sfânta Marina fecioara din Bitinia",
+    "short": "Marina fecioara din Bitinia",
+    "given": "Marina"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d8f5060d-a420-49d8-9866-e1445bccabf9",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

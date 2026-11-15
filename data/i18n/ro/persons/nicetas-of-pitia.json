@@ -1,0 +1,21 @@
+{
+  "id": "nicetas-of-pitia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Nicetas din Pitia",
+    "full": "Sfântul Cuvios Nicetas din Pitia",
+    "short": "Nicetas din Pitia",
+    "given": "Nicetas"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d3d9b064-eaad-4167-a53d-d2ead69bf7f9",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

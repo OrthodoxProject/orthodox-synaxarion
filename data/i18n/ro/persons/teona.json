@@ -1,0 +1,20 @@
+{
+  "id": "teona",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Teona",
+    "short": "Teona",
+    "given": "Teona"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/163cee3a-c5d9-48c3-b2d9-52c954746859",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

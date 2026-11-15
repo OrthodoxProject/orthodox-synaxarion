@@ -1,0 +1,21 @@
+{
+  "id": "sever-of-catania",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Sever, episcop de Catania în Sicilia Italiei",
+    "full": "Sfântul Ierarh Sever, episcop de Catania în Sicilia Italiei",
+    "short": "Sever, episcop de Catania în Sicilia Italiei",
+    "given": "Sever"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5d7afe00-37b3-4249-b05f-7f06191d9ebd",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

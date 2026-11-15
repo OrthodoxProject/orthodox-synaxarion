@@ -1,0 +1,21 @@
+{
+  "id": "firminus-of-viviers",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Firminus, episcop de Viviers în Franța",
+    "full": "Sfântul Ierarh Firminus, episcop de Viviers în Franța",
+    "short": "Firminus, episcop de Viviers în Franța",
+    "given": "Firminus"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1260cf7a-09ac-4125-ad17-0c8e61605ca4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

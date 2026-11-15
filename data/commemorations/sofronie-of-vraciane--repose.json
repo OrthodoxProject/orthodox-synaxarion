@@ -1,0 +1,26 @@
+{
+  "id": "sofronie-of-vraciane--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:sofronie-of-vraciane"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 22
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ae983090-3117-40cd-939d-4d956636adef",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

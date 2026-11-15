@@ -1,0 +1,21 @@
+{
+  "id": "constantin-slovtov-of-rusia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Constantin Slovțov, preotul, din Rusia",
+    "full": "Sfântul Mucenic Constantin Slovțov, preotul, din Rusia",
+    "short": "Constantin Slovțov, preotul, din Rusia",
+    "given": "Constantin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/641",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

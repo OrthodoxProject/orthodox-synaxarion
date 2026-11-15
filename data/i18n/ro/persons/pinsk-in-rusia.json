@@ -1,0 +1,20 @@
+{
+  "id": "pinsk-in-rusia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Pinsk în Rusia",
+    "short": "Pinsk în Rusia",
+    "given": "Pinsk"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/903a515d-0b93-4ac9-83fb-2e57070916c7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "olfa",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Olfa, rege de Essex în Anglia, iar apoi monah la Roma",
+    "full": "Sfântul Cuvios Olfa, rege de Essex în Anglia, iar apoi monah la Roma",
+    "short": "Olfa, rege de Essex în Anglia, iar apoi monah la Roma",
+    "given": "Olfa"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/61df3aa3-45a4-4da3-a995-7a37dbd1e43b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

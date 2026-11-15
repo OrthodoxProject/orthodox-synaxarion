@@ -1,0 +1,29 @@
+{
+  "id": "lucina-of-roma",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Lucina din Roma, cea",
+    "full": "Sfânta Lucina din Roma, cea",
+    "short": "Lucina din Roma, cea",
+    "given": "Lucina",
+    "variants": [
+      "Sf. Mc. Lucina din Roma"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9040e2b2-9fd9-4241-bd85-2fd586e2c23d",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e4b78369-b8a6-485c-a1c1-157f24e2a4f9",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

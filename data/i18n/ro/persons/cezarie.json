@@ -1,0 +1,20 @@
+{
+  "id": "cezarie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Cezarie",
+    "short": "Cezarie",
+    "given": "Cezarie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1458",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

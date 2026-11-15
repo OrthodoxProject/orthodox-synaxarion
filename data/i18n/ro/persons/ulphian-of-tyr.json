@@ -1,0 +1,21 @@
+{
+  "id": "ulphian-of-tyr",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Ulphian (Ulfian) din Tyr",
+    "full": "Sfântul Mucenic Ulphian (Ulfian) din Tyr",
+    "short": "Ulphian (Ulfian) din Tyr",
+    "given": "Ulphian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1368e767-47b8-4c70-9334-fe89660928b2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

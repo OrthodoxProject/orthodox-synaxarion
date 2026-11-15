@@ -1,0 +1,23 @@
+{
+  "id": "dimitrie-13-and-donat-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici Dimitrie și Donat"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d4ad602d-b5ed-45b5-ba0b-ef4b991fea57",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/484a8da1-5924-4666-a57f-f816f8d4f2b0",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

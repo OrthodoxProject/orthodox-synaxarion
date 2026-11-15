@@ -1,0 +1,21 @@
+{
+  "id": "abdul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Abdul",
+    "full": "Sfântul Mucenic Abdul",
+    "short": "Abdul",
+    "given": "Abdul"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/95f9a7a4-a53b-48d6-9ce3-677cab5d5f40",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

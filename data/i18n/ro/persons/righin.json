@@ -1,0 +1,21 @@
+{
+  "id": "righin",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sf. Mc. RIGHIN, ep. Scopelor",
+    "full": "Sfântul Sf. Mc. RIGHIN, ep. Scopelor",
+    "short": "RIGHIN, ep. Scopelor",
+    "given": "RIGHIN"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d5f3e692-e7f1-4f0b-be19-9245fafb5241",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

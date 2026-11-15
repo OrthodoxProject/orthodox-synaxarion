@@ -1,0 +1,30 @@
+{
+  "id": "ilarie-of-acvileea-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:ilarie-of-acvileea",
+    "person:tatian",
+    "person:dionisie-4",
+    "person:felix-7",
+    "person:largus-of-italia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 16
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/cea8b396-c997-425a-b9c3-5ad29fbc377f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

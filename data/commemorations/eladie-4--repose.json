@@ -1,0 +1,26 @@
+{
+  "id": "eladie-4--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:eladie-4"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 9
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/51e9b43b-dc0b-4396-801b-9bc7f4a92467",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

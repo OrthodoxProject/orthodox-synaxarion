@@ -1,0 +1,21 @@
+{
+  "id": "paternus-of-vannes-bretania",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Paternus, episcop de Vannes-Bretania în Franța",
+    "full": "Sfântul Ierarh Paternus, episcop de Vannes-Bretania în Franța",
+    "short": "Paternus, episcop de Vannes-Bretania în Franța",
+    "given": "Paternus"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ac211811-6280-40ec-8c0e-db8e7648992c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

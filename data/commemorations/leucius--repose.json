@@ -1,0 +1,26 @@
+{
+  "id": "leucius--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:leucius"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 7
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/52644cb0-a991-46ff-a31d-dbe389075999",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

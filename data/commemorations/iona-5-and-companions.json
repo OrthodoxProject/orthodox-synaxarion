@@ -1,0 +1,30 @@
+{
+  "id": "iona-5-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:iona-5",
+    "person:macarie-15",
+    "person:ioan-114",
+    "person:nicolae-88",
+    "person:vasile-of-rusia-6"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 23
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/91ae78ff-ca98-4d55-831e-19bdd9fa4818",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

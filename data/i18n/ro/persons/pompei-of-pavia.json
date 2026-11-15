@@ -1,0 +1,21 @@
+{
+  "id": "pompei-of-pavia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Pompei, episcop de Pavia în Italia",
+    "full": "Sfântul Ierarh Pompei, episcop de Pavia în Italia",
+    "short": "Pompei, episcop de Pavia în Italia",
+    "given": "Pompei"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a62e16ac-a41d-4cd6-8342-51c05ed688f9",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

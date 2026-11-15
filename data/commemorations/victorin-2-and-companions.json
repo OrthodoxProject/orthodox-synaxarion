@@ -1,0 +1,33 @@
+{
+  "id": "victorin-2-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:victorin-2",
+    "person:victor-6",
+    "person:nichifor-4",
+    "person:claudie",
+    "person:diodor-4",
+    "person:serapion-9",
+    "person:papia-2",
+    "person:leonid-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 10
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0ccd6506-e22f-4bdc-bbcd-648d7ef3398a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

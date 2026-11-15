@@ -1,0 +1,21 @@
+{
+  "id": "baudelie-of-nimes-in-franta",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Baudelie de la Nimes în Franța",
+    "full": "Sfântul Mucenic Baudelie de la Nimes în Franța",
+    "short": "Baudelie de la Nimes în Franța",
+    "given": "Baudelie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7d478282-1bd0-46ae-a9bf-d93e4070d9ac",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

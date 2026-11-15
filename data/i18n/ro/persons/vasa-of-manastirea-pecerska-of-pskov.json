@@ -1,0 +1,20 @@
+{
+  "id": "vasa-of-manastirea-pecerska-of-pskov",
+  "locale": "ro",
+  "names": {
+    "display": "Cuvioasa Vasa de la Mănăstirea Pecerska din Pskov",
+    "short": "Vasa de la Mănăstirea Pecerska din Pskov",
+    "given": "Vasa"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/259",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

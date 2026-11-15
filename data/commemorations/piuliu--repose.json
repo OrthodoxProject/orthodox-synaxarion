@@ -1,0 +1,26 @@
+{
+  "id": "piuliu--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:piuliu"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 17
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4f56450d-5c3e-4d20-a43b-989dbb1f694b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

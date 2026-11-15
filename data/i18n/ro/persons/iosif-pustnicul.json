@@ -1,0 +1,21 @@
+{
+  "id": "iosif-pustnicul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Iosif Pustnicul",
+    "full": "Sfântul Cuvios Iosif Pustnicul",
+    "short": "Iosif Pustnicul",
+    "given": "Iosif"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6569e452-8f99-476b-9fbd-04cd60b01ee8",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

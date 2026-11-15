@@ -1,0 +1,26 @@
+{
+  "id": "ana-of-rusia-2--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:ana-of-rusia-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 28
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8e82a6bc-548c-417b-abab-2d6dd322d86e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

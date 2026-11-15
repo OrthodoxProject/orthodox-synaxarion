@@ -1,0 +1,26 @@
+{
+  "id": "chiriac-of-constantinopol--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:chiriac-of-constantinopol"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 27
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ee5c5377-d9aa-4c00-af25-397ba661c205",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

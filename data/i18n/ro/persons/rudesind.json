@@ -1,0 +1,21 @@
+{
+  "id": "rudesind",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Rudesind (sau Rosendo), episcop",
+    "full": "Sfântul Ierarh Rudesind (sau Rosendo), episcop",
+    "short": "Rudesind (sau Rosendo), episcop",
+    "given": "Rudesind"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/69fa891c-d5b6-4228-8c1b-915ce6c17bf4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

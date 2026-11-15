@@ -1,0 +1,21 @@
+{
+  "id": "montan",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Montan, ostaș din insula Ponza în Italia",
+    "full": "Sfântul Mucenic Montan, ostaș din insula Ponza în Italia",
+    "short": "Montan, ostaș din insula Ponza în Italia",
+    "given": "Montan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a6f444e1-9196-4c15-9cb9-80961c01af86",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

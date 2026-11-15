@@ -1,0 +1,21 @@
+{
+  "id": "nerses-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Nerses și fiul său",
+    "full": "Sfântul Cuvios Nerses și fiul său",
+    "short": "Nerses",
+    "given": "Nerses"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2f1c75a0-561d-42de-be02-46e8e6d2c050#4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

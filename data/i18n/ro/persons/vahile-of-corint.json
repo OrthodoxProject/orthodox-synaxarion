@@ -1,0 +1,21 @@
+{
+  "id": "vahile-of-corint",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Vahile, episcop de Corint",
+    "full": "Sfântul Ierarh Vahile, episcop de Corint",
+    "short": "Vahile, episcop de Corint",
+    "given": "Vahile"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9958e0b5-8dc8-479a-9f47-1e2ee19ad7f0",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

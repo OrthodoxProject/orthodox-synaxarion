@@ -1,0 +1,26 @@
+{
+  "id": "sava-the-tanar--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:sava-the-tanar"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 5
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e4cc92b0-0985-4743-a352-2b0fbd916f6b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

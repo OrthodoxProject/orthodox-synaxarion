@@ -1,0 +1,20 @@
+{
+  "id": "havel-of-georgia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Havel din Georgia",
+    "short": "Havel din Georgia",
+    "given": "Havel"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9ab3252d-3b1c-4b18-abf4-6b3ea74b7312",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

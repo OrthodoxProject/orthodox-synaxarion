@@ -1,0 +1,21 @@
+{
+  "id": "anastasie-bulgarul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Anastasie bulgarul",
+    "full": "Sfântul Mucenic Anastasie bulgarul",
+    "short": "Anastasie bulgarul",
+    "given": "Anastasie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/62c48018-52d5-4212-bc96-bdc836ca7ef7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

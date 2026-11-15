@@ -1,0 +1,20 @@
+{
+  "id": "teodor",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Teodor (Antipin)",
+    "short": "Teodor (Antipin)",
+    "given": "Teodor"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/bc543a0a-f1f3-4334-a3cd-d4ec04a0fd5b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

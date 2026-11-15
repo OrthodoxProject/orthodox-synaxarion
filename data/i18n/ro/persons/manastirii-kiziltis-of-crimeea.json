@@ -1,0 +1,20 @@
+{
+  "id": "manastirii-kiziltis-of-crimeea",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Mănăstirii Kiziltis din Crimeea",
+    "short": "Mănăstirii Kiziltis din Crimeea",
+    "given": "Mănăstirii"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/79aeb908-f7aa-4d8f-ba64-5857c92dbffe",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "6-martyrs-of-vizye-in-libia",
+  "kind": "martyrs",
+  "count": {
+    "value": 6,
+    "precision": "exact"
+  },
+  "holiness_types": [
+    "martyr"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/66b03e29-5d5a-4ae8-94bf-f559d96f6d9a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "sameu-elamiteanul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Prooroc Sameu Elamiteanul (X î.d.Hr.)",
+    "full": "Sfântul Prooroc Sameu Elamiteanul (X î.d.Hr.)",
+    "short": "Sameu Elamiteanul",
+    "given": "Sameu"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c5a5ab01-2272-49c7-bf17-64cc615df52d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

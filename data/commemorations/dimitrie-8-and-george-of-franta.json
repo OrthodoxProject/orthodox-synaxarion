@@ -1,0 +1,27 @@
+{
+  "id": "dimitrie-8-and-george-of-franta",
+  "kind": "repose",
+  "subjects": [
+    "person:dimitrie-8",
+    "person:george-of-franta"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 9
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/dd0dbee7-68ba-4aee-961c-dc25a5465e60",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

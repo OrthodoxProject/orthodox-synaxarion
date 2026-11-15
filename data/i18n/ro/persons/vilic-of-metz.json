@@ -1,0 +1,21 @@
+{
+  "id": "vilic-of-metz",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Vilic, episcop de Metz în Franța",
+    "full": "Sfântul Ierarh Vilic, episcop de Metz în Franța",
+    "short": "Vilic, episcop de Metz în Franța",
+    "given": "Vilic"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/784b99a7-494a-40dd-877a-8a12f4b68cf9",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

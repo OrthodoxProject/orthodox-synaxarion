@@ -1,0 +1,21 @@
+{
+  "id": "apollo-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Apollo, pustnic din Egipt",
+    "full": "Sfântul Cuvios Apollo, pustnic din Egipt",
+    "short": "Apollo, pustnic din Egipt",
+    "given": "Apollo"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/39c4f92b-8087-41af-97a0-f22c2b2eec7b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

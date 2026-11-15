@@ -1,0 +1,18 @@
+{
+  "id": "aurelie-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici Aurelie și Natalia, soția lui, Felix și Liliosa, soția lui"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/13ae66c2-4a28-49f8-9b4b-65dd1249b262",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

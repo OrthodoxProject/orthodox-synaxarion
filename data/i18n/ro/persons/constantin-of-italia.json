@@ -1,0 +1,21 @@
+{
+  "id": "constantin-of-italia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Constantin, starețul Mănăstirii Monte Cassino din Italia",
+    "full": "Sfântul Cuvios Constantin, starețul Mănăstirii Monte Cassino din Italia",
+    "short": "Constantin, starețul Mănăstirii Monte Cassino din Italia",
+    "given": "Constantin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a99b47b9-1db5-4471-8436-b5d5df704432",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

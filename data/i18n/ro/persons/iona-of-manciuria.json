@@ -1,0 +1,21 @@
+{
+  "id": "iona-of-manciuria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Iona, episcop de Manciuria",
+    "full": "Sfântul Ierarh Iona, episcop de Manciuria",
+    "short": "Iona, episcop de Manciuria",
+    "given": "Iona"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/87f8cbbf-a3aa-41f0-91f8-b044de864995",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "avva-dorotei",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Avva Dorotei, purtătorul de Dumnezeu, ucenicul Sfinților Varsanufie",
+    "short": "Avva Dorotei, purtătorul de Dumnezeu, ucenicul Sfinților Varsanufie",
+    "given": "Avva"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1639216a-555f-4e59-91f0-6d52baad8c5c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "tyssilio--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:tyssilio"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 8
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/582e9146-86b6-4275-aa47-bf45f9ddd1d5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

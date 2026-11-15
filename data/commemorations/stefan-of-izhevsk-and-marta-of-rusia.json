@@ -1,0 +1,27 @@
+{
+  "id": "stefan-of-izhevsk-and-marta-of-rusia",
+  "kind": "repose",
+  "subjects": [
+    "person:stefan-of-izhevsk",
+    "person:marta-of-rusia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 13
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c9ea9ab5-c835-4350-99e0-5a810e2dce0d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "valeriu-i",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Valeriu I",
+    "short": "Valeriu I",
+    "given": "Valeriu"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/051242f3-eb5c-4e26-9b6b-24483cc5b799",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

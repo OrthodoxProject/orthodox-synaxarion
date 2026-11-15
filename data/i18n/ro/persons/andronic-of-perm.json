@@ -1,0 +1,20 @@
+{
+  "id": "andronic-of-perm",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Andronic de Perm",
+    "short": "Andronic de Perm",
+    "given": "Andronic"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1092",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

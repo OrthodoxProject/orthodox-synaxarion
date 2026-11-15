@@ -1,0 +1,29 @@
+{
+  "id": "elefterie-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:elefterie",
+    "person:vladimir-18",
+    "person:nicolae-36",
+    "person:eva-of-rusia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 14
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e270d502-f238-400f-9f91-ef4486dd1f62",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

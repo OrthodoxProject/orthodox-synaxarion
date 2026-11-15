@@ -1,0 +1,21 @@
+{
+  "id": "rustica",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Rustica, stareță la Arles în Franța",
+    "full": "Sfânta Cuvioasă Rustica, stareță la Arles în Franța",
+    "short": "Rustica, stareță la Arles în Franța",
+    "given": "Rustica"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0dc2850a-acfd-42a5-b74e-6b5ce72beebe",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "trason",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Trason",
+    "short": "Trason",
+    "given": "Trason"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ba234bc1-9b26-4d63-8d92-13effefe7375",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

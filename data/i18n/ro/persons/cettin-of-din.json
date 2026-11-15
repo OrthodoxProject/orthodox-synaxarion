@@ -1,0 +1,21 @@
+{
+  "id": "cettin-of-din",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Cettin, episcop din Irlanda",
+    "full": "Sfântul Ierarh Cettin, episcop din Irlanda",
+    "short": "Cettin, episcop din Irlanda",
+    "given": "Cettin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a903ee1f-bf5c-4710-9d7e-8b74e52fb249",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

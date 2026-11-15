@@ -1,0 +1,21 @@
+{
+  "id": "agnia-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Agnia, stareță la Novgorod în Rusia",
+    "full": "Sfânta Cuvioasă Agnia, stareță la Novgorod în Rusia",
+    "short": "Agnia, stareță la Novgorod în Rusia",
+    "given": "Agnia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/417b84ea-1fbd-4971-9969-a9523578d59d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "wilibrord",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Wilibrord, primul episcop de Utrecht și apostolul Olandei",
+    "full": "Sfântul Ierarh Wilibrord, primul episcop de Utrecht și apostolul Olandei",
+    "short": "Wilibrord, primul episcop de Utrecht, apostolul Olandei",
+    "given": "Wilibrord"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b596d4c3-b71c-41a4-8b39-de59b68a173a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

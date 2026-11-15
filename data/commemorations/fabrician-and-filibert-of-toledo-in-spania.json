@@ -1,0 +1,27 @@
+{
+  "id": "fabrician-and-filibert-of-toledo-in-spania",
+  "kind": "repose",
+  "subjects": [
+    "person:fabrician",
+    "person:filibert-of-toledo-in-spania"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 22
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/963069c8-3fae-4e35-8eb2-7a22cb48ee5c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "papie-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici Papie, Diodor, Claudian și Conon"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/336479d9-a569-451d-8a39-f1a487dca19f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

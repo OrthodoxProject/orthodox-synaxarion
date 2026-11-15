@@ -1,0 +1,18 @@
+{
+  "id": "romula-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sfintele Cuvioase fecioare Romula, Redempta și Herundo din Roma"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d1c5f131-e9ef-4d89-a99e-2d34efc9a6a1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

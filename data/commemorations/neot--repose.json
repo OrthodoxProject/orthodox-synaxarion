@@ -1,0 +1,26 @@
+{
+  "id": "neot--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:neot"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 31
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9363a82e-ae18-4ca9-bf28-3cce53294e01",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

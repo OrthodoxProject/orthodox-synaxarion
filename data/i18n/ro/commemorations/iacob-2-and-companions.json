@@ -1,0 +1,18 @@
+{
+  "id": "iacob-2-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici Iacob și Ioan, din Meniujsk, Novgorod în Rusia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/550",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

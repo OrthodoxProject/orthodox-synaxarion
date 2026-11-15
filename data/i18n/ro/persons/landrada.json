@@ -1,0 +1,21 @@
+{
+  "id": "landrada",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Landrada, întemeietoarea și prima stareță a Mănăstirii Munsterbilsen din Belgia",
+    "full": "Sfânta Cuvioasă Landrada, întemeietoarea și prima stareță a Mănăstirii Munsterbilsen din Belgia",
+    "short": "Landrada, întemeietoarea, prima stareță a Mănăstirii Munsterbilsen din Belgia",
+    "given": "Landrada"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c687fa58-0c23-4905-8651-acb8e2eee6a5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

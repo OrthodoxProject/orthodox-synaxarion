@@ -1,0 +1,26 @@
+{
+  "id": "menandru-of-persia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:menandru-of-persia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 31
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/480ebc8b-f208-4539-b20f-a77b49b2ac45",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

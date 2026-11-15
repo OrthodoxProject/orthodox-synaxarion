@@ -1,0 +1,20 @@
+{
+  "id": "eusebie-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Eusebie",
+    "short": "Eusebie",
+    "given": "Eusebie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4c36b721-a516-4d4d-bab5-77308dd059f0",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "azat-eunucul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Azat Eunucul",
+    "full": "Sfântul Mucenic Azat Eunucul",
+    "short": "Azat Eunucul",
+    "given": "Azat"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3f1b3c61-2678-4f35-a3e5-a5219e8bf0bf#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

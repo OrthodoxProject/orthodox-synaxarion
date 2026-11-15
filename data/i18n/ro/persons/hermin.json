@@ -1,0 +1,21 @@
+{
+  "id": "hermin",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Hermin, pustnic la Bretagne în Franța",
+    "full": "Sfântul Cuvios Hermin, pustnic la Bretagne în Franța",
+    "short": "Hermin, pustnic la Bretagne în Franța",
+    "given": "Hermin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e685325a-d66b-47b5-a0f6-b1893627e6bf",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

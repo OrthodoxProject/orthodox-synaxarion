@@ -1,0 +1,20 @@
+{
+  "id": "firm-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Firm",
+    "short": "Firm",
+    "given": "Firm"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/371ac038-dff8-4ebb-abde-a4d568f87725",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

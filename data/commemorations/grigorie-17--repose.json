@@ -1,0 +1,26 @@
+{
+  "id": "grigorie-17--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:grigorie-17"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 7
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/99afda17-2588-4aeb-a9ac-41490e50513d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

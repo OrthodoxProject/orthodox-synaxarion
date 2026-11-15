@@ -1,0 +1,20 @@
+{
+  "id": "teodor-40",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Teodor",
+    "short": "Teodor",
+    "given": "Teodor"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ea23900c-6aee-4a81-9750-8337ee93bff2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

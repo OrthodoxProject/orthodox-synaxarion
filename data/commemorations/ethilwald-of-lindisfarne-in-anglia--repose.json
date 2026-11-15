@@ -1,0 +1,26 @@
+{
+  "id": "ethilwald-of-lindisfarne-in-anglia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:ethilwald-of-lindisfarne-in-anglia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 12
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/33209889-b924-46ac-8b6d-80719eacc16f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

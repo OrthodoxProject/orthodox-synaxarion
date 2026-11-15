@@ -1,0 +1,21 @@
+{
+  "id": "front-of-perigneux",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Front, episcop de Perigneux (secolul al II-lea)",
+    "full": "Sfântul Ierarh Front, episcop de Perigneux (secolul al II-lea)",
+    "short": "Front, episcop de Perigneux",
+    "given": "Front"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b2ebbeeb-2aa8-4665-9a3d-dda773be83bf",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

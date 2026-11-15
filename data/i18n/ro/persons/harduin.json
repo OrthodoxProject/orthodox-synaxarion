@@ -1,0 +1,21 @@
+{
+  "id": "harduin",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Harduin, monah la Fontenelle în Franța",
+    "full": "Sfântul Cuvios Harduin, monah la Fontenelle în Franța",
+    "short": "Harduin, monah la Fontenelle în Franța",
+    "given": "Harduin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3a43ddfc-0225-4bf7-8ee0-0c20ffc49952",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

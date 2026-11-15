@@ -1,0 +1,26 @@
+{
+  "id": "maxim-23--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:maxim-23"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 19
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c339ba07-fac0-4f3d-9ce1-3e88eb231a9a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

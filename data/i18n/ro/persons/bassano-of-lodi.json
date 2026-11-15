@@ -1,0 +1,21 @@
+{
+  "id": "bassano-of-lodi",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Bassano, episcop de Lodi în Italia",
+    "full": "Sfântul Ierarh Bassano, episcop de Lodi în Italia",
+    "short": "Bassano, episcop de Lodi în Italia",
+    "given": "Bassano"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d1d2431b-70a3-4d8c-89ab-f1135a3fdfa1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

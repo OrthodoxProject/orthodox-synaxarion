@@ -1,0 +1,21 @@
+{
+  "id": "privat-of-mende",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Privat, episcop de Mende în Franța",
+    "full": "Sfântul Sfințit Mucenic Privat, episcop de Mende în Franța",
+    "short": "Privat, episcop de Mende în Franța",
+    "given": "Privat"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/72dcac83-400b-4147-989f-b608f8f74ee0",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

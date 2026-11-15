@@ -1,0 +1,21 @@
+{
+  "id": "sir-of-genova",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Sir, episcop de Genova în Italia",
+    "full": "Sfântul Ierarh Sir, episcop de Genova în Italia",
+    "short": "Sir, episcop de Genova în Italia",
+    "given": "Sir"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/05153492-0be4-483f-bb34-1a420d0fa442",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

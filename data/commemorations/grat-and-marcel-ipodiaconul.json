@@ -1,0 +1,27 @@
+{
+  "id": "grat-and-marcel-ipodiaconul",
+  "kind": "repose",
+  "subjects": [
+    "person:grat",
+    "person:marcel-ipodiaconul"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 20
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/965e58fa-33a9-4037-8ccd-2c9bf15aa56d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

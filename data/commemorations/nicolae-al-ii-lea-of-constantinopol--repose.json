@@ -1,0 +1,26 @@
+{
+  "id": "nicolae-al-ii-lea-of-constantinopol--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:nicolae-al-ii-lea-of-constantinopol"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 16
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/975e47f6-8561-4fc3-8893-a5941a7c73bf",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

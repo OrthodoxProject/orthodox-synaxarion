@@ -1,0 +1,21 @@
+{
+  "id": "savin-of-sicilia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Savin din Sicilia, episcop în insula Cipru",
+    "full": "Sfântul Ierarh Savin din Sicilia, episcop în insula Cipru",
+    "short": "Savin din Sicilia, episcop în insula Cipru",
+    "given": "Savin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3d0588df-8d95-417d-856f-672eeb020d73",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

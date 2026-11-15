@@ -1,0 +1,30 @@
+{
+  "id": "marcel-6-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:marcel-6",
+    "person:marcelin-9",
+    "person:geminian-4",
+    "person:nuvie",
+    "person:primina-of-roma"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 9
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/67a13c68-b244-4d11-8a2e-a99e5bfe207b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

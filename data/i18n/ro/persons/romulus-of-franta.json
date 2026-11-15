@@ -1,0 +1,21 @@
+{
+  "id": "romulus-of-franta",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Romulus, egumenul Mănăstirii Sfântului Baudilius din Franța",
+    "full": "Sfântul Cuvios Romulus, egumenul Mănăstirii Sfântului Baudilius din Franța",
+    "short": "Romulus, egumenul Mănăstirii Sfântului Baudilius din Franța",
+    "given": "Romulus"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a9733035-acee-4184-9329-15c32259f00d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

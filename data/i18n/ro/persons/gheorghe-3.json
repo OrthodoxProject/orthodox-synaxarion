@@ -1,0 +1,21 @@
+{
+  "id": "gheorghe-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Gheorghe, făcătorul de minuni din Dipiu",
+    "full": "Sfântul Cuvios Gheorghe, făcătorul de minuni din Dipiu",
+    "short": "Gheorghe, făcătorul de minuni din Dipiu",
+    "given": "Gheorghe"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6e8205dc-d84b-45b0-9573-cafd16f8d676",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

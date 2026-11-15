@@ -1,0 +1,26 @@
+{
+  "id": "engelmund-of-anglia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:engelmund-of-anglia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 21
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ed76b0d0-bfe8-4acb-b331-920f1997a449",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

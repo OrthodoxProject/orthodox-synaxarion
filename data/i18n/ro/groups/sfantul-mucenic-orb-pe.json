@@ -1,0 +1,18 @@
+{
+  "id": "sfantul-mucenic-orb-pe",
+  "locale": "ro",
+  "names": {
+    "display": "Sfântul mucenic orb, pe"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/035194fb-a48c-4fa2-bf73-77c7b1e1dcd6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

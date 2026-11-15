@@ -1,0 +1,27 @@
+{
+  "id": "melan-of-viviers-and-vouga-of-din",
+  "kind": "repose",
+  "subjects": [
+    "person:melan-of-viviers",
+    "person:vouga-of-din"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 15
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a1e8faa2-9015-41e6-a218-0d0616bc05da",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

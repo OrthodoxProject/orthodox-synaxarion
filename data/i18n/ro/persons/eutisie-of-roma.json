@@ -1,0 +1,21 @@
+{
+  "id": "eutisie-of-roma",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Eutisie, episcopul Romei",
+    "full": "Sfântul Mucenic Eutisie, episcopul Romei",
+    "short": "Eutisie, episcopul Romei",
+    "given": "Eutisie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e97da4ec-ab25-4fa7-aae8-b9e84788ed0b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

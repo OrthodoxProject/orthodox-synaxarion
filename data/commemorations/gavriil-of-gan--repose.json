@@ -1,0 +1,26 @@
+{
+  "id": "gavriil-of-gan--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:gavriil-of-gan"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 3
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d2eebe60-cb43-4cf7-8c74-0eebbfedcc87",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

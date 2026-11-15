@@ -1,0 +1,21 @@
+{
+  "id": "ieronim-of-eghina",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ieronim din Eghina",
+    "full": "Sfântul Cuvios Ieronim din Eghina",
+    "short": "Ieronim din Eghina",
+    "given": "Ieronim"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1f4b95bd-1ad1-4fc8-b12d-ae106e76014e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

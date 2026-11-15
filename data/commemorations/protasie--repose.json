@@ -1,0 +1,26 @@
+{
+  "id": "protasie--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:protasie"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 4
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6dfe213a-5189-48db-900d-2946e438afc4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

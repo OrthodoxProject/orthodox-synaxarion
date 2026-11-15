@@ -1,0 +1,27 @@
+{
+  "id": "maur-and-plachidie",
+  "kind": "repose",
+  "subjects": [
+    "person:maur",
+    "person:plachidie"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 25
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f0c95f97-7ad0-4ad6-96dc-689741681849",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

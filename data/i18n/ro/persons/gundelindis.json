@@ -1,0 +1,21 @@
+{
+  "id": "gundelindis",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Gundelindis, stareță la Niedermunster în Alsacia",
+    "full": "Sfânta Cuvioasă Gundelindis, stareță la Niedermunster în Alsacia",
+    "short": "Gundelindis, stareță la Niedermunster în Alsacia",
+    "given": "Gundelindis"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/deb64f1f-52df-4ea4-bcaf-88db541a894c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

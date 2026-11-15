@@ -1,0 +1,21 @@
+{
+  "id": "pardu-of-larino",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Pardu, episcop de Larino",
+    "full": "Sfântul Sfințit Mucenic Pardu, episcop de Larino",
+    "short": "Pardu, episcop de Larino",
+    "given": "Pardu"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e339c40b-576d-49df-97c8-e6419208115f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

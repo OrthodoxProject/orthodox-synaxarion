@@ -1,0 +1,20 @@
+{
+  "id": "gordie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Gordie",
+    "short": "Gordie",
+    "given": "Gordie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/501",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

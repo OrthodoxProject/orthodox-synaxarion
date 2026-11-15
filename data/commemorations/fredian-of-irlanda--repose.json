@@ -1,0 +1,26 @@
+{
+  "id": "fredian-of-irlanda--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:fredian-of-irlanda"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 18
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5c2069f2-67e1-4518-8dc0-a79969048930",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "paula-romana",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Paula Romana, întemeietoarea unei mănăstiri în Palestina",
+    "full": "Sfânta Cuvioasă Paula Romana, întemeietoarea unei mănăstiri în Palestina",
+    "short": "Paula Romana, întemeietoarea unei mănăstiri în Palestina",
+    "given": "Paula"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b04bf8de-8914-4334-aba4-a85dd341e09f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

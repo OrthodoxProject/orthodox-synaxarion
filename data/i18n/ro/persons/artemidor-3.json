@@ -1,0 +1,21 @@
+{
+  "id": "artemidor-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Artemidor",
+    "full": "Sfântul Mucenic Artemidor",
+    "short": "Artemidor",
+    "given": "Artemidor"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4903666c-7611-4a30-9ab8-597d0a75ea5a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

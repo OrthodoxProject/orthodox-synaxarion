@@ -1,0 +1,21 @@
+{
+  "id": "didim-the-orb",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Didim cel Orb, scriitor bisericesc",
+    "full": "Sfântul Cuvios Didim cel Orb, scriitor bisericesc",
+    "short": "Didim cel Orb, scriitor bisericesc",
+    "given": "Didim"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/31b3ac89-dbc3-462c-afd0-cb4fc13d9ad6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

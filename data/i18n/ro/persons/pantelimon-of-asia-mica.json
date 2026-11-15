@@ -1,0 +1,21 @@
+{
+  "id": "pantelimon-of-asia-mica",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Pantelimon din Asia Mică",
+    "full": "Sfântul Mucenic Pantelimon din Asia Mică",
+    "short": "Pantelimon din Asia Mică",
+    "given": "Pantelimon"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d6a902e9-d418-4e6c-98cc-dbd409855e6f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

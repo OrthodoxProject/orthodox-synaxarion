@@ -1,0 +1,18 @@
+{
+  "id": "venerable-moise-the-departat-of-lume",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Cuvioși Moise, cel depărtat de lume"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a4d77a65-1ac1-4d37-be26-6dff1dc1aefc",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

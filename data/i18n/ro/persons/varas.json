@@ -1,0 +1,20 @@
+{
+  "id": "varas",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Varas, întemeietorul Mănăstirii Petra din Constantinopol",
+    "short": "Varas, întemeietorul Mănăstirii Petra din Constantinopol",
+    "given": "Varas"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8e07b888-b257-4281-b06f-04193d008413#3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

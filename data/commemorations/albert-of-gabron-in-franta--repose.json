@@ -1,0 +1,26 @@
+{
+  "id": "albert-of-gabron-in-franta--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:albert-of-gabron-in-franta"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 29
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f4aa98c2-a575-47f4-b7d1-749460660690",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

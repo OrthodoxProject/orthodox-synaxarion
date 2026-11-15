@@ -1,0 +1,26 @@
+{
+  "id": "juliot-of-luxulyan-in-anglia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:juliot-of-luxulyan-in-anglia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 16
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/23055f3b-1c1b-4079-ad24-00a7d78690cd",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

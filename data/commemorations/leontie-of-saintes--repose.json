@@ -1,0 +1,26 @@
+{
+  "id": "leontie-of-saintes--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:leontie-of-saintes"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 19
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7f351ee1-b5ac-453a-a47e-5a2c01c1f7a0",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

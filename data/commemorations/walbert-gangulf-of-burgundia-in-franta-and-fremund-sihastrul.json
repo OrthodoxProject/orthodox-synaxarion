@@ -1,0 +1,27 @@
+{
+  "id": "walbert-gangulf-of-burgundia-in-franta-and-fremund-sihastrul",
+  "kind": "repose",
+  "subjects": [
+    "person:walbert-gangulf-of-burgundia-in-franta",
+    "person:fremund-sihastrul"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 11
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6bd181b9-b0e6-4c26-be87-03ea833cf26d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

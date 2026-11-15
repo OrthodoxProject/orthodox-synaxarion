@@ -1,0 +1,26 @@
+{
+  "id": "agilo--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:agilo"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 27
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6725a787-441a-48a0-88a7-b1c033228eeb",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

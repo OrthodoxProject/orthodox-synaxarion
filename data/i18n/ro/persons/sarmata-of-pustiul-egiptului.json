@@ -1,0 +1,20 @@
+{
+  "id": "sarmata-of-pustiul-egiptului",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Sarmata din Pustiul Egiptului",
+    "short": "Sarmata din Pustiul Egiptului",
+    "given": "Sarmata"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3f3a1817-c69c-4b0e-ae11-5768c421e436",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

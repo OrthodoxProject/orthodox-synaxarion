@@ -1,0 +1,21 @@
+{
+  "id": "leo-of-sens",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Leo, episcop de Sens în Franța",
+    "full": "Sfântul Ierarh Leo, episcop de Sens în Franța",
+    "short": "Leo, episcop de Sens în Franța",
+    "given": "Leo"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/53040149-c32d-4c27-9032-aebe216a2014",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

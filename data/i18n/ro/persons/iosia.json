@@ -1,0 +1,20 @@
+{
+  "id": "iosia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Iosia",
+    "short": "Iosia",
+    "given": "Iosia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9e08a293-d599-4733-818d-04fe34ad727d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

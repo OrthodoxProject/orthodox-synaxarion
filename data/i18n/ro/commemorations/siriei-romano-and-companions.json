@@ -1,0 +1,18 @@
+{
+  "id": "siriei-romano-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici Siriei Romano, Filotei, Iperehie, Aviv, Iulian, Parigorie, Iacov, Sarvil, Vevea și Varsemeu din Samosata"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/148",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

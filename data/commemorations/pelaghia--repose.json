@@ -1,0 +1,26 @@
+{
+  "id": "pelaghia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:pelaghia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 30
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/90ef6f4c-2068-438d-b72c-88d0ba19cd24",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

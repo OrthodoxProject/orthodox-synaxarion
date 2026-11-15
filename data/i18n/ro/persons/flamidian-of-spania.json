@@ -1,0 +1,21 @@
+{
+  "id": "flamidian-of-spania",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Flamidian din Spania",
+    "full": "Sfântul Mucenic Flamidian din Spania",
+    "short": "Flamidian din Spania",
+    "given": "Flamidian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2c0e559e-d973-407a-b19a-8eba4d13696f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

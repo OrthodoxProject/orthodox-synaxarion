@@ -1,0 +1,20 @@
+{
+  "id": "maxentie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Maxentie",
+    "short": "Maxentie",
+    "given": "Maxentie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/484a8da1-5924-4666-a57f-f816f8d4f2b0",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

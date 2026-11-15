@@ -1,0 +1,26 @@
+{
+  "id": "magin-of-tarragona-in-spania--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:magin-of-tarragona-in-spania"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 25
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d81c4f50-d9bb-49bf-9db0-0c30f94089ab",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

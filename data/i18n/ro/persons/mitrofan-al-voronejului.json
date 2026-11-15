@@ -1,0 +1,21 @@
+{
+  "id": "mitrofan-al-voronejului",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Mitrofan al Voronejului",
+    "full": "Sfântul Ierarh Mitrofan al Voronejului",
+    "short": "Mitrofan al Voronejului",
+    "given": "Mitrofan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/693",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

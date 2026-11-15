@@ -1,0 +1,20 @@
+{
+  "id": "chelsie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Chelsie",
+    "short": "Chelsie",
+    "given": "Chelsie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b948b87d-54fe-43be-829d-bdfb4f1595b4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

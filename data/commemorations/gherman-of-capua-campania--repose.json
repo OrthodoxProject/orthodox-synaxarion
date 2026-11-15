@@ -1,0 +1,26 @@
+{
+  "id": "gherman-of-capua-campania--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:gherman-of-capua-campania"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 30
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a954ea55-9015-40c4-ba84-ad5ecca18a86",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

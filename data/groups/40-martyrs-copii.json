@@ -1,0 +1,25 @@
+{
+  "id": "40-martyrs-copii",
+  "kind": "martyrs",
+  "count": {
+    "value": 40,
+    "precision": "exact"
+  },
+  "holiness_types": [
+    "martyr"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/00c2c9cc-13dd-4772-8add-6f90c8993810",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

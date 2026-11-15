@@ -1,0 +1,21 @@
+{
+  "id": "iusta",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Iusta",
+    "full": "Sfânta Cuvioasă Iusta",
+    "short": "Iusta",
+    "given": "Iusta"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/87b5b612-23c6-4b75-8c5c-866a1f77bae8#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

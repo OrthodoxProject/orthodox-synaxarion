@@ -1,0 +1,21 @@
+{
+  "id": "alonie-of-pustia-egiptului",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Alonie din Pustia Egiptului",
+    "full": "Sfântul Cuvios Alonie din Pustia Egiptului",
+    "short": "Alonie din Pustia Egiptului",
+    "given": "Alonie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/07b712fc-6f1c-4368-9b33-0a2923f3f24c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

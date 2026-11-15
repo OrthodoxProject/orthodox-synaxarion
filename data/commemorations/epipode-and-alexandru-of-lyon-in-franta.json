@@ -1,0 +1,27 @@
+{
+  "id": "epipode-and-alexandru-of-lyon-in-franta",
+  "kind": "repose",
+  "subjects": [
+    "person:epipode",
+    "person:alexandru-of-lyon-in-franta"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 22
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8b46ed22-3453-463c-a1af-0634d202a026",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

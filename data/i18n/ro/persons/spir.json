@@ -1,0 +1,20 @@
+{
+  "id": "spir",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Spir",
+    "short": "Spir",
+    "given": "Spir"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/258d9a51-adef-4bf6-9257-69b2645d9bf6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

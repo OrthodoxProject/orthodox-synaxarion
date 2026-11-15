@@ -1,0 +1,26 @@
+{
+  "id": "ariadna-imparateasa--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:ariadna-imparateasa"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 22
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6b0bb84e-0aed-4d02-83a1-85c89d1a5339",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

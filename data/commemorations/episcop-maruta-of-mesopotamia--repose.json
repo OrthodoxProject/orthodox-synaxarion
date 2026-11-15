@@ -1,0 +1,26 @@
+{
+  "id": "episcop-maruta-of-mesopotamia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:episcop-maruta-of-mesopotamia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 16
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6e286ccd-a44c-4377-b358-c2b21ceb6caf",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

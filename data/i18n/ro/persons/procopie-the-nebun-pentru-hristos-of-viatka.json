@@ -1,0 +1,21 @@
+{
+  "id": "procopie-the-nebun-pentru-hristos-of-viatka",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Procopie cel nebun pentru Hristos din Viatka în Rusia",
+    "full": "Sfântul Procopie cel nebun pentru Hristos din Viatka în Rusia",
+    "short": "Procopie cel nebun pentru Hristos din Viatka în Rusia",
+    "given": "Procopie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6d0b7710-43c4-417d-ba20-05971815030f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

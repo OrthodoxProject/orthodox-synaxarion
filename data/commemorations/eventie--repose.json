@@ -1,0 +1,26 @@
+{
+  "id": "eventie--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:eventie"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 9
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/bea158e5-a0a4-4541-a041-d3908ee9fa4a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

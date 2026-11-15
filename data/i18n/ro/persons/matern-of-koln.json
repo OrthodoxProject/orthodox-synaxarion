@@ -1,0 +1,21 @@
+{
+  "id": "matern-of-koln",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Matern, episcop de Köln în Germania",
+    "full": "Sfântul Ierarh Matern, episcop de Köln în Germania",
+    "short": "Matern, episcop de Köln în Germania",
+    "given": "Matern"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0d3e0b3b-f313-4f18-bb74-592f20a3f5a3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

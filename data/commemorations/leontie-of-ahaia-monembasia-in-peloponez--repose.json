@@ -1,0 +1,26 @@
+{
+  "id": "leontie-of-ahaia-monembasia-in-peloponez--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:leontie-of-ahaia-monembasia-in-peloponez"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 11
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8b9241eb-bdcd-4097-9958-a1da053df62c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

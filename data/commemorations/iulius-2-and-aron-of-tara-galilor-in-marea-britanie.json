@@ -1,0 +1,27 @@
+{
+  "id": "iulius-2-and-aron-of-tara-galilor-in-marea-britanie",
+  "kind": "repose",
+  "subjects": [
+    "person:iulius-2",
+    "person:aron-of-tara-galilor-in-marea-britanie"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 1
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/28479263-6e67-4b63-b126-2e3f10ce9ace",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "catidian",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Catidian",
+    "short": "Catidian",
+    "given": "Catidian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/991a8318-93b4-4a25-b1c3-d97dd78a4880",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "claudiu-of-besangon--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:claudiu-of-besangon"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 6
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1351a525-4ffc-4253-b154-c0b004983ad7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

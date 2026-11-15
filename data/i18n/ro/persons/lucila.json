@@ -1,0 +1,20 @@
+{
+  "id": "lucila",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințită Mc. Lucila",
+    "short": "Lucila",
+    "given": "Lucila"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/15c66443-1292-440e-b5f4-d4ff71ce0a08",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

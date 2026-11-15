@@ -1,0 +1,26 @@
+{
+  "id": "meriadec-of-vannes--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:meriadec-of-vannes"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 7
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2a4355b5-9af0-4512-a672-e9ca524deb1c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

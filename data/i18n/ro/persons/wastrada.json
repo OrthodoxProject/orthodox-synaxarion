@@ -1,0 +1,21 @@
+{
+  "id": "wastrada",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Wastrada, mama Sfântului Grigorie de Utrecht din Olanda",
+    "full": "Sfânta Cuvioasă Wastrada, mama Sfântului Grigorie de Utrecht din Olanda",
+    "short": "Wastrada, mama Sfântului Grigorie de Utrecht din Olanda",
+    "given": "Wastrada"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/aebbc7c6-269f-41b2-9d6a-55bafba1c891",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

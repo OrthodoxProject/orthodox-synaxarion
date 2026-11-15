@@ -1,0 +1,20 @@
+{
+  "id": "agatonic",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Agatonic",
+    "short": "Agatonic",
+    "given": "Agatonic"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/697455c6-0f65-4eea-be61-7b8fe6f23ccf",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

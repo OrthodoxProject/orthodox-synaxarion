@@ -1,0 +1,21 @@
+{
+  "id": "adelin",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Adelin, întemeietorul Mănăstirii Celles din Belgia",
+    "full": "Sfântul Cuvios Adelin, întemeietorul Mănăstirii Celles din Belgia",
+    "short": "Adelin, întemeietorul Mănăstirii Celles din Belgia",
+    "given": "Adelin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7d4f0353-ff4f-4c9a-9eac-b97b285e51ec",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

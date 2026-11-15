@@ -1,0 +1,20 @@
+{
+  "id": "buriana",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Buriana, pustnică la Cornwall",
+    "short": "Buriana, pustnică la Cornwall",
+    "given": "Buriana"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/258ad912-7568-4f0a-8b4d-f64611ed0135",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

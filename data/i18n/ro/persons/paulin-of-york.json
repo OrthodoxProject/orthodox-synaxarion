@@ -1,0 +1,21 @@
+{
+  "id": "paulin-of-york",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Paulin, episcop de York în Marea Britanie",
+    "full": "Sfântul Ierarh Paulin, episcop de York în Marea Britanie",
+    "short": "Paulin, episcop de York în Marea Britanie",
+    "given": "Paulin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f10261f8-82e6-4503-b871-29de4eafec2d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

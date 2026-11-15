@@ -1,0 +1,27 @@
+{
+  "id": "aldegrin-and-elsiar",
+  "kind": "repose",
+  "subjects": [
+    "person:aldegrin",
+    "person:elsiar"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 4
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d1a771ff-58f5-4f49-bc22-e483bbe9223c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

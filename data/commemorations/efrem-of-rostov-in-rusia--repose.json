@@ -1,0 +1,26 @@
+{
+  "id": "efrem-of-rostov-in-rusia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:efrem-of-rostov-in-rusia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 27
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/36f4ad6b-0c0c-4f00-a01b-9674f9293a29",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

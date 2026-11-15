@@ -1,0 +1,21 @@
+{
+  "id": "maria-mangaietoarea",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Maria Mângâietoarea",
+    "full": "Sfânta Maria Mângâietoarea",
+    "short": "Maria Mângâietoarea",
+    "given": "Maria"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/57bac2c9-9d58-47d9-86e3-3dca909926ff",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

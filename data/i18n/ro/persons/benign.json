@@ -1,0 +1,21 @@
+{
+  "id": "benign",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Benign, egumen la Fontenelle în Franța",
+    "full": "Sfântul Cuvios Benign, egumen la Fontenelle în Franța",
+    "short": "Benign, egumen la Fontenelle în Franța",
+    "given": "Benign"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/35e4b0a7-6364-474c-a1d9-c04572c25663#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

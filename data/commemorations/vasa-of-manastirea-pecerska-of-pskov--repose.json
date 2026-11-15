@@ -1,0 +1,26 @@
+{
+  "id": "vasa-of-manastirea-pecerska-of-pskov--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:vasa-of-manastirea-pecerska-of-pskov"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 19
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/259",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

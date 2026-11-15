@@ -1,0 +1,27 @@
+{
+  "id": "talida-and-taora",
+  "kind": "repose",
+  "subjects": [
+    "person:talida",
+    "person:taora"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 5
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c790e2fe-5961-4f6b-9d37-39f68df2f483",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

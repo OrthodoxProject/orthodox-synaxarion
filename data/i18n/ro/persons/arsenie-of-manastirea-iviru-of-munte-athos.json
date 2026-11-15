@@ -1,0 +1,21 @@
+{
+  "id": "arsenie-of-manastirea-iviru-of-munte-athos",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Arsenie de la Mănăstirea Iviru din Sfântul Munte Athos",
+    "full": "Sfântul Cuvios Arsenie de la Mănăstirea Iviru din Sfântul Munte Athos",
+    "short": "Arsenie de la Mănăstirea Iviru din Sfântul Munte Athos",
+    "given": "Arsenie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0a482524-0d21-4076-b9f0-76cba371deab",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

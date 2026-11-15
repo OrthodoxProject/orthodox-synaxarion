@@ -1,0 +1,21 @@
+{
+  "id": "ethelred",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ethelred, regele Merciei, iar apoi stareț la Bardney în Anglia",
+    "full": "Sfântul Cuvios Ethelred, regele Merciei, iar apoi stareț la Bardney în Anglia",
+    "short": "Ethelred, regele Merciei, iar apoi stareț la Bardney în Anglia",
+    "given": "Ethelred"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/10264bde-cfbc-44a3-81d3-4f9851c93281",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

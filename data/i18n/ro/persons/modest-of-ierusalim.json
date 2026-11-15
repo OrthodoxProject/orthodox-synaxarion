@@ -1,0 +1,21 @@
+{
+  "id": "modest-of-ierusalim",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Modest, arhiepiscopul Ierusalimului",
+    "full": "Sfântul Ierarh Modest, arhiepiscopul Ierusalimului",
+    "short": "Modest, arhiepiscopul Ierusalimului",
+    "given": "Modest"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0606f8c4-b8fa-49b6-a9e7-c8cf40af8069",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "crescentin-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici Crescentin, Iust și Iachint din Roma"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/fc05a672-7509-450a-ab08-99da90d68610",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

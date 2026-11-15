@@ -1,0 +1,20 @@
+{
+  "id": "indis-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Indis",
+    "short": "Indis",
+    "given": "Indis"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/acd229f4-b0c6-4a05-b4f4-6716d086f82a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

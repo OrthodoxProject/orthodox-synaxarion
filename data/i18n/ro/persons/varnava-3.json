@@ -1,0 +1,21 @@
+{
+  "id": "varnava-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Varnava, bătrânul de la Schitul Ghetsimani al Lavrei Sfântului Serghie, părintele duhovnicesc al Sfântului Serafim de Vârița",
+    "full": "Sfântul Cuvios Varnava, bătrânul de la Schitul Ghetsimani al Lavrei Sfântului Serghie, părintele duhovnicesc al Sfântului Serafim de Vârița",
+    "short": "Varnava, bătrânul de la Schitul Ghetsimani al Lavrei Sfântului Serghie, părintele duhovnicesc al Sfântului Serafim de Vârița",
+    "given": "Varnava"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/982f48f1-cb69-4b4d-b020-ae42826aec5c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

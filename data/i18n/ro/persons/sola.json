@@ -1,0 +1,21 @@
+{
+  "id": "sola",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sola, preot misionar de neam anglo-saxon",
+    "full": "Sfântul Sola, preot misionar de neam anglo-saxon",
+    "short": "Sola, preot misionar de neam anglo-saxon",
+    "given": "Sola"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8901667b-6082-4cc8-8ae4-4cd86357fd7f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

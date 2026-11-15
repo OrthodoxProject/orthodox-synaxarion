@@ -1,0 +1,27 @@
+{
+  "id": "posidie-of-calama-and-germerie-of-toulouse",
+  "kind": "repose",
+  "subjects": [
+    "person:posidie-of-calama",
+    "person:germerie-of-toulouse"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 16
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2a4b45f7-1293-4112-81a3-03f072f3e7f0",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

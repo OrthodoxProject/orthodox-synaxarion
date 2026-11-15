@@ -1,0 +1,27 @@
+{
+  "id": "aitala-2-and-amun-of-tracia",
+  "kind": "repose",
+  "subjects": [
+    "person:aitala-2",
+    "person:amun-of-tracia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 2
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b81833e9-f63e-4ac5-9766-3bcdc6ac1647",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "miheia-of-marasi",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Prooroc Miheia din Marasi",
+    "full": "Sfântul Prooroc Miheia din Marasi",
+    "short": "Miheia din Marasi",
+    "given": "Miheia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f6e857de-a0d4-483c-8e09-8eff276da874",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

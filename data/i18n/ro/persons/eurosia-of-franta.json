@@ -1,0 +1,21 @@
+{
+  "id": "eurosia-of-franta",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Eurosia din Franța",
+    "full": "Sfânta Muceniță Eurosia din Franța",
+    "short": "Eurosia din Franța",
+    "given": "Eurosia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1983527b-c115-4f10-a480-af37700c81ee",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

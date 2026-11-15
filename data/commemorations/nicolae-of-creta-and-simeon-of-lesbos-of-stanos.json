@@ -1,0 +1,27 @@
+{
+  "id": "nicolae-of-creta-and-simeon-of-lesbos-of-stanos",
+  "kind": "repose",
+  "subjects": [
+    "person:nicolae-of-creta",
+    "person:simeon-of-lesbos-of-stanos"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 1
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9d01dccb-eca5-4770-85e8-72f9ed40e1aa",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

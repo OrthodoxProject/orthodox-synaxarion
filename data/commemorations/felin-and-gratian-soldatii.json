@@ -1,0 +1,27 @@
+{
+  "id": "felin-and-gratian-soldatii",
+  "kind": "repose",
+  "subjects": [
+    "person:felin",
+    "person:gratian-soldatii"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 1
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/87e08b41-e5a0-4ea6-b245-0fa5b1a5fc3b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

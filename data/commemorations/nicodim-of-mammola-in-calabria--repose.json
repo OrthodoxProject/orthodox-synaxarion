@@ -1,0 +1,26 @@
+{
+  "id": "nicodim-of-mammola-in-calabria--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:nicodim-of-mammola-in-calabria"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 12
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/781b124c-a931-452a-b6bc-2027091bcbc1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

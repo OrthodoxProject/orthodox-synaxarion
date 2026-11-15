@@ -1,0 +1,21 @@
+{
+  "id": "iona-cipriotul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Iona Cipriotul, făcătorul de minuni",
+    "full": "Sfântul Cuvios Iona Cipriotul, făcătorul de minuni",
+    "short": "Iona Cipriotul, făcătorul de minuni",
+    "given": "Iona"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/fb47f562-feb3-4a49-8a4a-c681023c3475",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

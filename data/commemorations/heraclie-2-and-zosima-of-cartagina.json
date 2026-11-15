@@ -1,0 +1,27 @@
+{
+  "id": "heraclie-2-and-zosima-of-cartagina",
+  "kind": "repose",
+  "subjects": [
+    "person:heraclie-2",
+    "person:zosima-of-cartagina"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 11
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/27f7d235-f067-4778-91bc-789806552b48",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

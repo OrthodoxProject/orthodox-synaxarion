@@ -1,0 +1,26 @@
+{
+  "id": "prasede--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:prasede"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 21
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/fac98e37-cb3e-4d98-907f-a52b09dd7c2e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "cerasie-of-grenoble--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:cerasie-of-grenoble"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 6
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4fe86028-aac2-4bbb-9eb6-1ead1ffc75d9",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

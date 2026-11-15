@@ -1,0 +1,21 @@
+{
+  "id": "tit-of-bostra",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Tit, episcop de Bostra în Siria",
+    "full": "Sfântul Ierarh Tit, episcop de Bostra în Siria",
+    "short": "Tit, episcop de Bostra în Siria",
+    "given": "Tit"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/81383025-1f2f-4659-a2ff-b724a7f60621",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

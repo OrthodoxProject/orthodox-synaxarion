@@ -1,0 +1,21 @@
+{
+  "id": "zaharia-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Zaharia",
+    "full": "Sfântul Mucenic Zaharia",
+    "short": "Zaharia",
+    "given": "Zaharia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5ec81319-c276-4c18-863a-e2ee5dae4bea",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

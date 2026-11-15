@@ -1,0 +1,20 @@
+{
+  "id": "iraclie-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Iraclie",
+    "short": "Iraclie",
+    "given": "Iraclie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/05a90e74-8c64-4833-a79f-ed6935d5104f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

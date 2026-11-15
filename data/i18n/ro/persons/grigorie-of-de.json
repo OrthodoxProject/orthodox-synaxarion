@@ -1,0 +1,21 @@
+{
+  "id": "grigorie-of-de",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Grigorie, mitropolit de Niceea, mărturisitor pentru Sfintele Icoane",
+    "full": "Sfântul Sfințit Mucenic Grigorie, mitropolit de Niceea, mărturisitor pentru Sfintele Icoane",
+    "short": "Grigorie, mitropolit de Niceea, mărturisitor pentru Sfintele Icoane",
+    "given": "Grigorie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a4d6f751-9bd0-4733-a1a7-c47d11c4547d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

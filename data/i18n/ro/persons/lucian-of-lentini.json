@@ -1,0 +1,21 @@
+{
+  "id": "lucian-of-lentini",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Lucian, episcop de Lentini și mărturisitor la Sicilia în Italia",
+    "full": "Sfântul Ierarh Lucian, episcop de Lentini și mărturisitor la Sicilia în Italia",
+    "short": "Lucian, episcop de Lentini, mărturisitor la Sicilia în Italia",
+    "given": "Lucian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a1b7b8ab-b9d8-4bfd-b02c-651ee75ed429",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

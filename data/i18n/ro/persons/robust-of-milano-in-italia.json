@@ -1,0 +1,21 @@
+{
+  "id": "robust-of-milano-in-italia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Robust din Milano în Italia",
+    "full": "Sfântul Mucenic Robust din Milano în Italia",
+    "short": "Robust din Milano în Italia",
+    "given": "Robust"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/31d14107-6a7e-4dc4-b1d8-9172bd5dcb8c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

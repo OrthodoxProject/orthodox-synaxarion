@@ -1,0 +1,26 @@
+{
+  "id": "avacuc-athonitul--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:avacuc-athonitul"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 30
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3e64660c-eaec-401b-b955-d73cf7a4275e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

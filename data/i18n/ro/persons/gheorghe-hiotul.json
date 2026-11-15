@@ -1,0 +1,21 @@
+{
+  "id": "gheorghe-hiotul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Gheorghe Hiotul",
+    "full": "Sfântul Mucenic Gheorghe Hiotul",
+    "short": "Gheorghe Hiotul",
+    "given": "Gheorghe"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6039ac8e-aa45-4b6c-a095-9ddf175999db",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

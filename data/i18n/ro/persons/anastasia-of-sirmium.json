@@ -1,0 +1,21 @@
+{
+  "id": "anastasia-of-sirmium",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Anastasia din Sirmium",
+    "full": "Sfânta Muceniță Anastasia din Sirmium",
+    "short": "Anastasia din Sirmium",
+    "given": "Anastasia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ee685a43-eced-46bd-9824-b114cacda7a3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

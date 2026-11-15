@@ -1,0 +1,21 @@
+{
+  "id": "helier-of-jersey-in-anglia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Helier din Jersey în Anglia",
+    "full": "Sfântul Cuvios Mucenic Helier din Jersey în Anglia",
+    "short": "Helier din Jersey în Anglia",
+    "given": "Helier"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/82384ef0-7acc-4c3b-aa2d-ae085a4371ab",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

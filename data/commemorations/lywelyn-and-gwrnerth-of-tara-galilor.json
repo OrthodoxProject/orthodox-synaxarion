@@ -1,0 +1,27 @@
+{
+  "id": "lywelyn-and-gwrnerth-of-tara-galilor",
+  "kind": "repose",
+  "subjects": [
+    "person:lywelyn",
+    "person:gwrnerth-of-tara-galilor"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 7
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8a5456a0-0d65-4b89-b800-2de0cd9fc276",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

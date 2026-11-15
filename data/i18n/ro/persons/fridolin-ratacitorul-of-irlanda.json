@@ -1,0 +1,21 @@
+{
+  "id": "fridolin-ratacitorul-of-irlanda",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Fridolin Rătăcitorul din Irlanda",
+    "full": "Sfântul Cuvios Fridolin Rătăcitorul din Irlanda",
+    "short": "Fridolin Rătăcitorul din Irlanda",
+    "given": "Fridolin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/046285ae-03f6-4344-8354-25c2a79ae19d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

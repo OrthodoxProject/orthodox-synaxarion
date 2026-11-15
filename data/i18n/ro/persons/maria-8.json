@@ -1,0 +1,21 @@
+{
+  "id": "maria-8",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Nouă Mc. Maria",
+    "full": "Sfânta Cuvioasă Nouă Muceniță Maria",
+    "short": "Maria",
+    "given": "Maria"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/eb798260-aae2-421b-8eab-ecf59150cfd7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

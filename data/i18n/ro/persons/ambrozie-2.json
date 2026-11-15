@@ -1,0 +1,21 @@
+{
+  "id": "ambrozie-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ambrozie, monah la Mănăstirea „Sfântul Vincențiu” din Benevento în Italia",
+    "full": "Sfântul Cuvios Ambrozie, monah la Mănăstirea „Sfântul Vincențiu” din Benevento în Italia",
+    "short": "Ambrozie, monah la Mănăstirea „Sfântul Vincențiu” din Benevento în Italia",
+    "given": "Ambrozie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/883ca99d-b025-4d23-bed7-91f28c4c0ceb",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

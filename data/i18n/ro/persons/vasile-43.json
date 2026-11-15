@@ -1,0 +1,21 @@
+{
+  "id": "vasile-43",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Vasile (Țvetkov)",
+    "full": "Sfântul Mucenic Vasile (Țvetkov)",
+    "short": "Vasile",
+    "given": "Vasile"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/41376359-0aab-4d88-8acd-070979be036a#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

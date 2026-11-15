@@ -1,0 +1,20 @@
+{
+  "id": "nicostrat-tribunii",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Nicostrat tribunii",
+    "short": "Nicostrat tribunii",
+    "given": "Nicostrat"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/49c1521a-41c6-41e1-8696-1c85717107e9",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

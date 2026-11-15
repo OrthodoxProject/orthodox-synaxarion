@@ -1,0 +1,21 @@
+{
+  "id": "paulin-4",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Paulin, primul episcop de Lucca și ucenicul Sfântului Ap. Petru",
+    "full": "Sfântul Sfințit Mucenic Paulin, primul episcop de Lucca și ucenicul Sfântului Apostol Petru",
+    "short": "Paulin, primul episcop de Lucca, ucenicul Sfântului Apostol Petru",
+    "given": "Paulin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/66cc8bc9-3a61-48ac-ab8c-0ada5450a9fc",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

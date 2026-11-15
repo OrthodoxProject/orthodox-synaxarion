@@ -1,0 +1,18 @@
+{
+  "id": "sfanta-mucenita-regina-fecioara-of-franta",
+  "locale": "ro",
+  "names": {
+    "display": "Sfânta Muceniță Regina, fecioară din Franța"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/29b9f30d-e8a7-48f6-b0a5-f07c74a06cdd",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

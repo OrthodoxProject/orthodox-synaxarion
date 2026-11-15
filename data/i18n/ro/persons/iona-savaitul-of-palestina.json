@@ -1,0 +1,20 @@
+{
+  "id": "iona-savaitul-of-palestina",
+  "locale": "ro",
+  "names": {
+    "display": "Cuviosul Iona Savaitul, din Palestina",
+    "short": "Iona Savaitul, din Palestina",
+    "given": "Iona"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a62b3080-da88-4917-ba7b-9faf92d38237",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

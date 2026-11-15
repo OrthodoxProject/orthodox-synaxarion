@@ -1,0 +1,18 @@
+{
+  "id": "ana-8-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții mucenici Ana, Ilarion, Tatiana"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/842",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

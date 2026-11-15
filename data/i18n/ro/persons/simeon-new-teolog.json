@@ -1,0 +1,21 @@
+{
+  "id": "simeon-new-teolog",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Simeon Noul Teolog, văzătorul Luminii celei dumnezeiești",
+    "full": "Sfântul Cuvios Simeon Noul Teolog, văzătorul Luminii celei dumnezeiești",
+    "short": "Simeon Noul Teolog, văzătorul Luminii celei dumnezeiești",
+    "given": "Simeon"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9f586531-0ed2-46e8-a8b0-9ae579a7fb6f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

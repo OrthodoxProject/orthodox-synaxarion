@@ -1,0 +1,27 @@
+{
+  "id": "agricola-and-vitalie-5",
+  "kind": "repose",
+  "subjects": [
+    "person:agricola",
+    "person:vitalie-5"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 4
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/15e2f8f1-7507-448e-859a-09242aa8b136",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

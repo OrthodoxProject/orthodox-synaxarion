@@ -1,0 +1,26 @@
+{
+  "id": "zefrin-of-roma--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:zefrin-of-roma"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 26
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/560147bc-6aae-40b4-ad9e-519e1b24d514",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

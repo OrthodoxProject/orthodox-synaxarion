@@ -1,0 +1,21 @@
+{
+  "id": "partenie-of-rusia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Partenie din Rusia",
+    "full": "Sfântul Sfințit Nou Mucenic Partenie din Rusia",
+    "short": "Partenie din Rusia",
+    "given": "Partenie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/743b08a2-3469-452e-8ca9-360ae09281f0",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

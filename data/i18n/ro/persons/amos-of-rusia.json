@@ -1,0 +1,21 @@
+{
+  "id": "amos-of-rusia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Amos din Rusia",
+    "full": "Sfântul Sfințit Nou Mucenic Amos din Rusia",
+    "short": "Amos din Rusia",
+    "given": "Amos"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b8b09000-b6dd-486b-b398-79f28abe3100",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

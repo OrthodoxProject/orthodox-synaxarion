@@ -1,0 +1,20 @@
+{
+  "id": "facondin",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Facondin",
+    "short": "Facondin",
+    "given": "Facondin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/43d69a27-c024-465f-aecb-54fda2b8b1dd",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

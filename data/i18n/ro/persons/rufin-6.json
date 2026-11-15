@@ -1,0 +1,20 @@
+{
+  "id": "rufin-6",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Rufin",
+    "short": "Rufin",
+    "given": "Rufin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/62c5a895-ff35-4741-b647-7df844fca9df",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

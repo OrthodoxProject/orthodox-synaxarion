@@ -1,0 +1,26 @@
+{
+  "id": "epimah-the-new-of-alexandria--translation-of-relics",
+  "kind": "relics_translation",
+  "subjects": [
+    "person:epimah-the-new-of-alexandria"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 11
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/92ef023c-a05c-49d7-887a-0dc88fdff53e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

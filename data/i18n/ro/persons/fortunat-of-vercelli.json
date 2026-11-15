@@ -1,0 +1,21 @@
+{
+  "id": "fortunat-of-vercelli",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Fortunat, episcop de Vercelli la Piemonte în Italia",
+    "full": "Sfântul Ierarh Fortunat, episcop de Vercelli la Piemonte în Italia",
+    "short": "Fortunat, episcop de Vercelli la Piemonte în Italia",
+    "given": "Fortunat"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7263ffbb-93e7-4741-b7b2-88f1afdec0b0",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

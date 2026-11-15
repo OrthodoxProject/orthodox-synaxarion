@@ -1,0 +1,20 @@
+{
+  "id": "crispin-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Crispin",
+    "short": "Crispin",
+    "given": "Crispin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d5eb4b21-07bc-4894-bc16-731f61749b1b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

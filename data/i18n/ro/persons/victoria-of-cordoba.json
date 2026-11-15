@@ -1,0 +1,20 @@
+{
+  "id": "victoria-of-cordoba",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Victoria din Cordoba",
+    "short": "Victoria din Cordoba",
+    "given": "Victoria"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5a62fc94-e788-46d7-a2c5-45a264ebcc6b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

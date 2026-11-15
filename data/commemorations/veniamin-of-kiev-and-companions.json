@@ -1,0 +1,32 @@
+{
+  "id": "veniamin-of-kiev-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:veniamin-of-kiev",
+    "person:petru-of-voronej",
+    "person:vasile-of-priluki",
+    "person:alexandru-3",
+    "person:stefan-3",
+    "person:atanasia",
+    "person:boris-of-rusia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 25
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/186533f3-f976-430f-96b2-abd61a8da895",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

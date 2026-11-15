@@ -1,0 +1,20 @@
+{
+  "id": "teodosie-of-cherepovets-of-radonej",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Teodosie din Cherepovets de la Radonej",
+    "short": "Teodosie din Cherepovets de la Radonej",
+    "given": "Teodosie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7e477b80-1715-4963-9d96-24a1b2466817",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

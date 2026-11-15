@@ -1,0 +1,18 @@
+{
+  "id": "6-martyrs-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții 6 Mucenici"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8ff5293a-bce1-4d21-a0ab-7872df283705",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

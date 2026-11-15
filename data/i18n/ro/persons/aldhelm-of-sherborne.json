@@ -1,0 +1,21 @@
+{
+  "id": "aldhelm-of-sherborne",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Aldhelm, episcop de Sherborne în Anglia și scriitor bisericesc",
+    "full": "Sfântul Ierarh Aldhelm, episcop de Sherborne în Anglia și scriitor bisericesc",
+    "short": "Aldhelm, episcop de Sherborne în Anglia, scriitor bisericesc",
+    "given": "Aldhelm"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/cf9db725-175b-46c6-af7b-c57b3802db01",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

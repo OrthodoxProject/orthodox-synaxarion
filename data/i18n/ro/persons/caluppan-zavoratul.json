@@ -1,0 +1,21 @@
+{
+  "id": "caluppan-zavoratul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Caluppan Zăvorâtul",
+    "full": "Sfântul Cuvios Caluppan Zăvorâtul",
+    "short": "Caluppan Zăvorâtul",
+    "given": "Caluppan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d3a6260f-20aa-4a3d-b42e-ff1d7885dc79",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

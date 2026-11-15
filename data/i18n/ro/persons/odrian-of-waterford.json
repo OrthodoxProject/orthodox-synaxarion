@@ -1,0 +1,21 @@
+{
+  "id": "odrian-of-waterford",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Odrian, episcop de Waterford în Irlanda",
+    "full": "Sfântul Ierarh Odrian, episcop de Waterford în Irlanda",
+    "short": "Odrian, episcop de Waterford în Irlanda",
+    "given": "Odrian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/05f1e0aa-b675-43cb-9eb2-b5b9f060bcc2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

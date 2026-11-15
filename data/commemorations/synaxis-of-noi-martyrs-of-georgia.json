@@ -1,0 +1,26 @@
+{
+  "id": "synaxis-of-noi-martyrs-of-georgia",
+  "kind": "synaxis",
+  "subjects": [
+    "group:noi-martyrs-of-georgia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 14
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3e202505-3ebe-46dd-bbca-01ad0f1c1d96",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

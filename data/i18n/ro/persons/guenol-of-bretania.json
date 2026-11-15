@@ -1,0 +1,21 @@
+{
+  "id": "guenol-of-bretania",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Guenol (Ghenolie), din Bretania",
+    "full": "Sfântul Cuvios Guenol (Ghenolie), din Bretania",
+    "short": "Guenol (Ghenolie), din Bretania",
+    "given": "Guenol"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/fc5f3139-d2eb-4467-9bdf-a71b9c2884c2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

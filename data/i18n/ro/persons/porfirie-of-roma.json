@@ -1,0 +1,21 @@
+{
+  "id": "porfirie-of-roma",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Porfirie, omul lui Dumnezeu, din Roma",
+    "full": "Sfântul Porfirie, omul lui Dumnezeu, din Roma",
+    "short": "Porfirie, omul lui Dumnezeu, din Roma",
+    "given": "Porfirie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/24466b0c-3d51-4887-823a-092ef02cff64",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

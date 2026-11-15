@@ -1,0 +1,26 @@
+{
+  "id": "oswiu--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:oswiu"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 15
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/08e0e929-dd40-4a45-ad2a-c5e3db181a98",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

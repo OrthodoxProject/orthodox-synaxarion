@@ -1,0 +1,20 @@
+{
+  "id": "ioan-akatos",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ioan Akațos",
+    "short": "Ioan Akațos",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4acf9fdf-996a-4283-934f-42e8fdb71bb5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

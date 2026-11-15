@@ -1,0 +1,26 @@
+{
+  "id": "remaclus-of-maastricht--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:remaclus-of-maastricht"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 3
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/57e6d6f9-f15b-4868-9a1c-4b94294e36c4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "carpofor-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:carpofor",
+    "person:exantie",
+    "person:casius",
+    "person:licinie",
+    "person:sever-5",
+    "person:secund-6",
+    "person:fidel-of-milano"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 7
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/de0d6ce0-cd52-4acd-8e64-470d30df27cb",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

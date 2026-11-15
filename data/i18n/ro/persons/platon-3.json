@@ -1,0 +1,20 @@
+{
+  "id": "platon-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Platon (Kornâh)",
+    "short": "Platon (Kornâh)",
+    "given": "Platon"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/63680b29-2b17-435d-999b-2a6135d66599",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

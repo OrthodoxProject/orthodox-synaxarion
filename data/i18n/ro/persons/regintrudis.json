@@ -1,0 +1,21 @@
+{
+  "id": "regintrudis",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Regintrudis, stareță la Nonnberg-Salzburg în Austria",
+    "full": "Sfânta Cuvioasă Regintrudis, stareță la Nonnberg-Salzburg în Austria",
+    "short": "Regintrudis, stareță la Nonnberg-Salzburg în Austria",
+    "given": "Regintrudis"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2dc81dbf-06fc-4b72-81dc-c3826121845a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

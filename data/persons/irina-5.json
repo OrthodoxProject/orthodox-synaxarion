@@ -1,0 +1,22 @@
+{
+  "id": "irina-5",
+  "kind": "saint",
+  "gender": "female",
+  "holiness_types": [
+    "right_believing"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f0424f69-8fd4-4ac3-8a9b-d8d6d678c9bf",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

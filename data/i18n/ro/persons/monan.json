@@ -1,0 +1,21 @@
+{
+  "id": "monan",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Monan, misionar în Scoția",
+    "full": "Sfântul Mucenic Monan, misionar în Scoția",
+    "short": "Monan, misionar în Scoția",
+    "given": "Monan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7b777853-ed23-4d40-8b66-c7fc627f7534",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "pergentin",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Pergentin",
+    "short": "Pergentin",
+    "given": "Pergentin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d89f8621-efbf-4585-81d8-3e4454a34545",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "zenovie-of-florenta--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:zenovie-of-florenta"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 25
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1526",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

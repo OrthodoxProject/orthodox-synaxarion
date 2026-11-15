@@ -1,0 +1,21 @@
+{
+  "id": "dodo-of-georgia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Dodo din Georgia, ucenicul Sfântului Cuvios David din Gareji",
+    "full": "Sfântul Cuvios Dodo din Georgia, ucenicul Sfântului Cuvios David din Gareji",
+    "short": "Dodo din Georgia, ucenicul Sfântului Cuvios David din Gareji",
+    "given": "Dodo"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2ca45184-41ea-42db-b446-962669c4c031",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

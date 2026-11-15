@@ -1,0 +1,23 @@
+{
+  "id": "noi-martyrs-and-marturisitori-of-eparhia-of-helm",
+  "kind": "martyrs",
+  "holiness_types": [
+    "new_martyr",
+    "confessor",
+    "hieromartyr"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ce27b42b-1161-4055-b69e-1f8290d50a8f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

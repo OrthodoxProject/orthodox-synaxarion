@@ -1,0 +1,20 @@
+{
+  "id": "myrbad-of-irlanda",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Myrbad din Irlanda",
+    "short": "Myrbad din Irlanda",
+    "given": "Myrbad"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/bc454775-ae92-4df8-b851-f52f08e85092",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

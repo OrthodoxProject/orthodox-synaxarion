@@ -1,0 +1,20 @@
+{
+  "id": "nisteros",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Nisteros",
+    "short": "Nisteros",
+    "given": "Nisteros"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/06c4ed8b-635b-4669-9ed6-2febabf8d9ee",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

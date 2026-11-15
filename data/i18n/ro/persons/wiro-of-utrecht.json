@@ -1,0 +1,21 @@
+{
+  "id": "wiro-of-utrecht",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Wiro, episcop de Utrecht și propovăduitor în Olanda",
+    "full": "Sfântul Ierarh Wiro, episcop de Utrecht și propovăduitor în Olanda",
+    "short": "Wiro, episcop de Utrecht, propovăduitor în Olanda",
+    "given": "Wiro"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/bb424e4b-3dfa-443b-817e-28119ed3fb6a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

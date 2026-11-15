@@ -1,0 +1,26 @@
+{
+  "id": "antiohie-of-lyon--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:antiohie-of-lyon"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 15
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4f9bf79c-4e11-4889-95c7-eb30edd8e377",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

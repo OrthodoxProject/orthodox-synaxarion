@@ -1,0 +1,26 @@
+{
+  "id": "lin--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:lin"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 23
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a50b4a28-517f-4b0e-b070-d69c41caf449",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "cocca-of-irlanda",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cocca din Irlanda",
+    "full": "Sfântul Cocca din Irlanda",
+    "short": "Cocca din Irlanda",
+    "given": "Cocca"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/140deaa9-c7b2-4b2e-8037-21d57cba7098#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iuvenalie-of-benevento-in-italia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:iuvenalie-of-benevento-in-italia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 7
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1ba14eca-fe1e-46cf-9fa7-7729fed61517",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "leontie-filozoful--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:leontie-filozoful"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 19
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3ecbc169-5f1a-441c-a6df-daefeffeb3d1",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c706dc4e-c47c-4f1c-bfb3-70dc797d6d83",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

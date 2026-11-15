@@ -1,0 +1,21 @@
+{
+  "id": "siluan-of-verona",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Siluan, episcop de Verona în Italia",
+    "full": "Sfântul Ierarh Siluan, episcop de Verona în Italia",
+    "short": "Siluan, episcop de Verona în Italia",
+    "given": "Siluan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/349af4c0-5a81-4a38-84cd-a39df1cb96a2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

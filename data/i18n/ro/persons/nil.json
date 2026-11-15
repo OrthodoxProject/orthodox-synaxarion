@@ -1,0 +1,21 @@
+{
+  "id": "nil",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Nil, căruia i s-a tăiat capul de către arabi în Damasc",
+    "full": "Sfântul Mucenic Nil, căruia i s-a tăiat capul de către arabi în Damasc",
+    "short": "Nil, căruia i s-a tăiat capul de către arabi în Damasc",
+    "given": "Nil"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b94398cf-664e-4b78-9dad-87d555a96b61",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "chrisol",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Chrisol, apostolul Flandrei în Belgia",
+    "full": "Sfântul Mucenic Chrisol, apostolul Flandrei în Belgia",
+    "short": "Chrisol, apostolul Flandrei în Belgia",
+    "given": "Chrisol"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/20de5454-684c-4eaa-859a-887a48d2ee87",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

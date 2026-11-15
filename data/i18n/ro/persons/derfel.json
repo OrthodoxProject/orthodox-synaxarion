@@ -1,0 +1,20 @@
+{
+  "id": "derfel",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Derfel, monah la Bardsey în Anglia",
+    "short": "Derfel, monah la Bardsey în Anglia",
+    "given": "Derfel"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/346c7b2a-d5bd-4c74-8088-f6007bec5ac9",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

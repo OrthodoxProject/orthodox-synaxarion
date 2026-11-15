@@ -1,0 +1,26 @@
+{
+  "id": "gorman-of-schleswig--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:gorman-of-schleswig"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 28
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1a7c470e-8a44-4191-b4cc-ac168c553c05",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

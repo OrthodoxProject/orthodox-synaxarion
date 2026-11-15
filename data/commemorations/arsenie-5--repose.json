@@ -1,0 +1,26 @@
+{
+  "id": "arsenie-5--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:arsenie-5"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 30
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/cd6b5338-fdb5-4bd7-b2fc-9bd84ec50f65",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

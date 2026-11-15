@@ -1,0 +1,18 @@
+{
+  "id": "150-martyrs-of-palestina",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții 150 Mucenici din Palestina"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/668ffe13-aa43-468f-a0b2-77f14a6bb83d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

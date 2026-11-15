@@ -1,0 +1,21 @@
+{
+  "id": "zaharia-of-lyon",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Zaharia, episcop de Lyon în Franța",
+    "full": "Sfântul Ierarh Zaharia, episcop de Lyon în Franța",
+    "short": "Zaharia, episcop de Lyon în Franța",
+    "given": "Zaharia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d2c2bf79-ba54-46af-8004-d3da61296455",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

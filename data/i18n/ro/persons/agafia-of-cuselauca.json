@@ -1,0 +1,26 @@
+{
+  "id": "agafia-of-cuselauca",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Agafia de la Cușelăuca",
+    "full": "Sfânta Cuvioasă Agafia de la Cușelăuca",
+    "short": "Agafia de la Cușelăuca",
+    "given": "Agafia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/77071c88-f132-4de7-9f80-5e16a14463ef",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/882c1bf9-799d-44bc-88a2-441815d93e29",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

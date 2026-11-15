@@ -1,0 +1,21 @@
+{
+  "id": "landu-of-orte-in-italia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Landu din Orte în Italia",
+    "full": "Sfântul Mucenic Landu din Orte în Italia",
+    "short": "Landu din Orte în Italia",
+    "given": "Landu"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/936c705d-4339-4293-b14e-68d63129fed0#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

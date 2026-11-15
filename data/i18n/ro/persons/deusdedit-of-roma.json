@@ -1,0 +1,21 @@
+{
+  "id": "deusdedit-of-roma",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Deusdedit, episcopul Romei, îngrijitorul celor leproși",
+    "full": "Sfântul Ierarh Deusdedit, episcopul Romei, îngrijitorul celor leproși",
+    "short": "Deusdedit, episcopul Romei, îngrijitorul celor leproși",
+    "given": "Deusdedit"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/04a6dc18-6705-4c01-b2d5-3a8573bf6be1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

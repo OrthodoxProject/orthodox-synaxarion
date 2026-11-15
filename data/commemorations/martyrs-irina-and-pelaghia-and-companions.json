@@ -1,0 +1,26 @@
+{
+  "id": "martyrs-irina-and-pelaghia-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "group:martyrs-irina-and-pelaghia-and-companions"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 9
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1fbc38c6-a979-4b08-be0b-4e1c17c2ce77#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

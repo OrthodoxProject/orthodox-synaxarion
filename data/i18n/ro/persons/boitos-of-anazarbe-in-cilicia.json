@@ -1,0 +1,21 @@
+{
+  "id": "boitos-of-anazarbe-in-cilicia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Boitos din Anazarbe în Cilicia",
+    "full": "Sfântul Mucenic Boitos din Anazarbe în Cilicia",
+    "short": "Boitos din Anazarbe în Cilicia",
+    "given": "Boitos"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/bbe3bcf3-77f0-4520-85ae-8b44e797baa7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

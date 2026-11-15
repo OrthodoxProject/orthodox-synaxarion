@@ -1,0 +1,31 @@
+{
+  "id": "gherontie-of-moscova--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:gherontie-of-moscova"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 28
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1540",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0096dfe7-d544-4bb1-9d76-4c390094d47f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

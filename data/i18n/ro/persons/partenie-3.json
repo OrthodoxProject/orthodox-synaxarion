@@ -1,0 +1,20 @@
+{
+  "id": "partenie-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Partenie",
+    "short": "Partenie",
+    "given": "Partenie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c90b4e07-b94c-4628-b955-b5b5cb161639",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

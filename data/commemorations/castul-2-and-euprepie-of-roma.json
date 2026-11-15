@@ -1,0 +1,27 @@
+{
+  "id": "castul-2-and-euprepie-of-roma",
+  "kind": "repose",
+  "subjects": [
+    "person:castul-2",
+    "person:euprepie-of-roma"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 30
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2258e906-11e2-4b87-a1b6-02d4e0498e4a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

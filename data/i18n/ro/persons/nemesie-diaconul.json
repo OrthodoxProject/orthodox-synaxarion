@@ -1,0 +1,21 @@
+{
+  "id": "nemesie-diaconul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Nemesie diaconul",
+    "full": "Sfântul Sfințit Mucenic Nemesie diaconul",
+    "short": "Nemesie diaconul",
+    "given": "Nemesie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0b895324-9db5-4a13-80d8-43aac00fd3f4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

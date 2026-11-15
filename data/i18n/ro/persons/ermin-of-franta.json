@@ -1,0 +1,21 @@
+{
+  "id": "ermin-of-franta",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ermin din Franța, episcop în Belgia",
+    "full": "Sfântul Ierarh Ermin din Franța, episcop în Belgia",
+    "short": "Ermin din Franța, episcop în Belgia",
+    "given": "Ermin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f1773447-8318-47ca-8eb3-73ff03aeef8e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

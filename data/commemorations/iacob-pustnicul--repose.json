@@ -1,0 +1,26 @@
+{
+  "id": "iacob-pustnicul--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:iacob-pustnicul"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 6
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4abd05ad-7b68-45eb-98ac-240245144c7e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

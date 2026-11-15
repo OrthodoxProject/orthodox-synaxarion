@@ -1,0 +1,26 @@
+{
+  "id": "sisoe-pustnicul--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:sisoe-pustnicul"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 21
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2f609a34-4c8f-4fc5-91be-26e71a722dd4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

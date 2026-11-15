@@ -1,0 +1,21 @@
+{
+  "id": "davin-of-annenia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Davin din Annenia",
+    "full": "Sfântul Davin din Annenia",
+    "short": "Davin din Annenia",
+    "given": "Davin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/558b6ddd-b93f-47bc-96e1-1a0597a12767",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

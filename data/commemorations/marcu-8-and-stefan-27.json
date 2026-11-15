@@ -1,0 +1,27 @@
+{
+  "id": "marcu-8-and-stefan-27",
+  "kind": "repose",
+  "subjects": [
+    "person:marcu-8",
+    "person:stefan-27"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 22
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3e2e856f-ff31-4e0b-8394-0b72f105aa47",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

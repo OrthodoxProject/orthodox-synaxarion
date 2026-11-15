@@ -1,0 +1,21 @@
+{
+  "id": "flegont-of-rusia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Flegont (Ponghilskii) din Rusia",
+    "full": "Sfântul Sfințit Nou Mucenic Flegont (Ponghilskii) din Rusia",
+    "short": "Flegont (Ponghilskii) din Rusia",
+    "given": "Flegont"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a1f1e561-2613-4dde-8d28-ccc750a813d1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

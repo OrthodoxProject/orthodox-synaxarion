@@ -1,0 +1,20 @@
+{
+  "id": "simeon-of-manastirea-pecerska",
+  "locale": "ro",
+  "names": {
+    "display": "Cuviosul Simeon (Jelnin), Starețul de la Mănăstirea Pecerska din Pskov",
+    "short": "Simeon (Jelnin), Starețul de la Mănăstirea Pecerska din Pskov",
+    "given": "Simeon"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9d4c2a83-9c68-4d04-9953-a6fcf7b41aea",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

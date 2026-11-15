@@ -1,0 +1,21 @@
+{
+  "id": "iulian-of-heliopolis-in-siria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Iulian din Heliopolis în Siria",
+    "full": "Sfântul Mucenic Iulian din Heliopolis în Siria",
+    "short": "Iulian din Heliopolis în Siria",
+    "given": "Iulian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8dd2bec3-67b5-42fd-bf71-6e6ea3f08462",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

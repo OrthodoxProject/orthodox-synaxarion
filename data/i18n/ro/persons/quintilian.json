@@ -1,0 +1,20 @@
+{
+  "id": "quintilian",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Quintilian",
+    "short": "Quintilian",
+    "given": "Quintilian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/dc2d759d-e598-4379-ac59-bd78333fe076",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

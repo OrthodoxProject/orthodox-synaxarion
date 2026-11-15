@@ -1,0 +1,26 @@
+{
+  "id": "chiril-i-of-antiohia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:chiril-i-of-antiohia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 22
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ba891a02-7b72-4a26-a0c3-49ff1bd9923b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "cucufas-of-nordul-africii--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:cucufas-of-nordul-africii"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 25
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/794a0812-e706-4aa6-8370-d3b51f98707e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

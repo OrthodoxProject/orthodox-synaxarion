@@ -1,0 +1,26 @@
+{
+  "id": "capito-of-cherson--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:capito-of-cherson"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 19
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/36d167c6-1100-4028-96aa-335e35bdbc12",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

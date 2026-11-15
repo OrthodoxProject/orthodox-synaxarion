@@ -1,0 +1,20 @@
+{
+  "id": "adrian-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Adrian",
+    "short": "Adrian",
+    "given": "Adrian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5cdcd5c3-8b17-42e6-b68d-74b6bd39fc85",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

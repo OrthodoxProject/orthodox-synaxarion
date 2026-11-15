@@ -1,0 +1,21 @@
+{
+  "id": "arduin",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Arduin, preot și pustnic la Rimini în Italia",
+    "full": "Sfântul Cuvios Arduin, preot și pustnic la Rimini în Italia",
+    "short": "Arduin, preot, pustnic la Rimini în Italia",
+    "given": "Arduin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2bc7102d-8303-4232-a208-eb43dcf6a870",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "peregrin-of-terni",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Peregrin, episcop de Terni",
+    "short": "Peregrin, episcop de Terni",
+    "given": "Peregrin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e2ba1802-2d56-41f1-a4e2-a00e02886b28",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

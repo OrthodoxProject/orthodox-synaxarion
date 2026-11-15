@@ -1,0 +1,21 @@
+{
+  "id": "pomponie-of-napoli",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Pomponie, episcop de Napoli în Italia și luptător împotriva arianismului",
+    "full": "Sfântul Ierarh Pomponie, episcop de Napoli în Italia și luptător împotriva arianismului",
+    "short": "Pomponie, episcop de Napoli în Italia, luptător împotriva arianismului",
+    "given": "Pomponie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e7d0f1db-dbe2-4d82-a20e-eb6529dc8166",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

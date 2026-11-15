@@ -1,0 +1,27 @@
+{
+  "id": "sarvil-and-veveea",
+  "kind": "repose",
+  "subjects": [
+    "person:sarvil",
+    "person:veveea"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 29
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/19b30ffb-0be6-4635-92ca-9781f4481126",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

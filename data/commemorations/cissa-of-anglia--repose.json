@@ -1,0 +1,26 @@
+{
+  "id": "cissa-of-anglia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:cissa-of-anglia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 23
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/dfdb43fd-6035-4d49-99f1-800ff9da30d8",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

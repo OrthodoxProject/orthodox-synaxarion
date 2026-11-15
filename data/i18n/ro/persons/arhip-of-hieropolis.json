@@ -1,0 +1,21 @@
+{
+  "id": "arhip-of-hieropolis",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Arhip din Hieropolis",
+    "full": "Sfântul Cuvios Arhip din Hieropolis",
+    "short": "Arhip din Hieropolis",
+    "given": "Arhip"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/776#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

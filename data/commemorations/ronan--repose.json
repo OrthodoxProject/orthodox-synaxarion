@@ -1,0 +1,26 @@
+{
+  "id": "ronan--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:ronan"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 1
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6d70f861-1eba-44f2-a46e-2f3267949658",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

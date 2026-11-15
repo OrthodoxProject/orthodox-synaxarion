@@ -1,0 +1,21 @@
+{
+  "id": "simeon-of-kafr-abdin-in-siria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Simeon de la Kafr Abdin în Siria",
+    "full": "Sfântul Cuvios Simeon de la Kafr Abdin în Siria",
+    "short": "Simeon de la Kafr Abdin în Siria",
+    "given": "Simeon"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/251a5673-d4fb-4be2-b782-2310b504bd5a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

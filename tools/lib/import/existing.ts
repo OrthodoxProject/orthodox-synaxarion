@@ -38,6 +38,12 @@ export interface Existing {
    * "url:<link>", "patriarhia:<MM-DD>|<official title>". A second import finds them again here.
    */
   exact: Map<string, Cluster[]>;
+  /**
+   * Every link that a person, a group or a commemoration cites. A line of a cited source whose link a record already
+   * cites was handled before (see Builder.cite), by an import or by hand: a saint the data keeps on another day is
+   * cited on his person only.
+   */
+  citedUrls: Set<string>;
 }
 
 function namesOf(ds: Dataset, collection: string, id: string, locale: string): string[] {
@@ -117,7 +123,10 @@ const KIND_MAP: Record<string, ClusterKind> = {
 export function loadExisting(dataDir: string): Existing {
   // Names are matched against what the sources and the editors wrote, not against machine translations of them.
   const ds = withoutMachineTranslations(loadDataset(dataDir));
-  const existing: Existing = { dataset: ds, menaion: new Map(), movable: new Map(), clusters: new Map(), persons: new Map(), groups: new Map(), ids: new Map(), exact: new Map() };
+  const existing: Existing = { dataset: ds, menaion: new Map(), movable: new Map(), clusters: new Map(), persons: new Map(), groups: new Map(), ids: new Map(), exact: new Map(), citedUrls: new Set() };
+  for (const collection of ["persons", "groups", "commemorations"] as const) {
+    for (const rec of ds.records.get(collection)?.values() ?? []) for (const s of (rec.sources ?? []) as Rec[]) if (typeof s.url === "string") existing.citedUrls.add(s.url);
+  }
   for (const [collection, records] of ds.records) {
     // A merged record keeps the other id in `aliases`: that id is not free for a new record.
     const ids = new Set(records.keys());
@@ -177,7 +186,8 @@ export function loadExisting(dataDir: string): Existing {
     if (rule.type === "fixed" && rule.month === 2 && rule.day === 29) c.leapDay = true;
     if (rec.duration_days) c.durationDays = rec.duration_days;
     const feast = FEASTS.find((f) => f.id === id || `comm:${f.id}` === rec.parent_feast);
-    if (feast && (kind === "feast" || kind === "forefeast" || kind === "afterfeast" || kind === "leavetaking")) c.feast = feast.id;
+    // A fixed feast that is a synaxis or an event ("Soborul Sfântului Ioan Botezătorul") is found by its feast too.
+    if (feast && (kind === "feast" || kind === "forefeast" || kind === "afterfeast" || kind === "leavetaking" || feast.id === id)) c.feast = feast.id;
     if (rec.external_ids?.oca) c.ext.oca = rec.external_ids.oca;
     for (const s of rec.sources ?? []) {
       const url = s.url as string | undefined;

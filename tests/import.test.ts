@@ -14,10 +14,11 @@ import { RecordWriter } from "../tools/lib/import/records.ts";
 import { abbreviateRo, parseRo } from "../tools/lib/import/ro.ts";
 import { isAllowed, parseRobots } from "../tools/lib/import/robots.ts";
 import { parseMonth } from "../tools/lib/import/sources/doxologia.ts";
+import * as ereligie from "../tools/lib/import/sources/ereligie.ts";
 import { parseDay } from "../tools/lib/import/sources/oca.ts";
 import { splitTitle, synaxarionSections, type PatriarhiaDay, type PatriarhiaItem, type SynaxarionSection } from "../tools/lib/import/sources/patriarhia.ts";
 import { findSuspects } from "../tools/lib/import/suspects.ts";
-import { armenianUnits, cleanOverlayTitle, copticUnits, doxologiaUnits, julianMenaionDate, ocaUnits, overlayUnits, parseCopticTitle, patriarhiaUnits, type SourceData } from "../tools/lib/import/units.ts";
+import { armenianUnits, cleanOverlayTitle, copticUnits, doxologiaUnits, ereligieUnits, julianMenaionDate, ocaUnits, overlayUnits, parseCopticTitle, patriarhiaUnits, type SourceData } from "../tools/lib/import/units.ts";
 import { REPO_ROOT } from "../tools/lib/validate.ts";
 
 describe("robots.txt", () => {
@@ -2211,6 +2212,114 @@ describe("the suspects of an import", () => {
     try {
       const found = findSuspects(loadExisting(dir)).map((s) => [s.check, s.date, ...s.ids]);
       assert.deepEqual(found, [["romanian-only-icons", "11-15", "icon-of-theotokos-de-pe-cruce-kupiatici", "kupyatitsa-icon-of-theotokos", "fragrant-flower-icon-of-theotokos"]]);
+    } finally {
+      rmSync(dir, { recursive: true, force: true });
+    }
+  });
+});
+
+describe("the synaxarion of e-religie.ro", () => {
+  const day = "https://e-religie.ro/sinaxar/noiembrie/sinaxar-ziua-15-luna-11/";
+
+  it("reads the days of a month and the saints of a day", () => {
+    const month = `<li><a href="${day}">Sfinții Mucenici Gurie, Samona și Aviv; Sfântul Preacuviosul Paisie de la Neamț</a></li><a href="https://e-religie.ro/sinaxar/octombrie/">&laquo;&laquo; Octombrie</a>`;
+    const days = ereligie.parseMonth(month, 11);
+    assert.deepEqual(
+      days.map((d) => [d.day, d.url]),
+      [[15, day]],
+    );
+    const html = `<h3>📑 Cuprins:</h3><ul><li><a href='#ancora-continut-1'>Sfinții Mucenici Gurie, Samona și Aviv</a></li><li><a href='#ancora-continut-2'>Sfântul Preacuviosul Paisie de la Neamț</a></li></ul><br><h2 id="ancora-continut-1">Sfinții Mucenici Gurie, Samona și Aviv</h2><p>Viața…</p>`;
+    const entries = ereligie.parseDay(html, days[0] ?? { month: 11, day: 15, url: day, title: "" });
+    assert.deepEqual(
+      entries.map((e) => [e.order, e.title, ereligie.entryUrl(e)]),
+      [
+        [0, "Sfinții Mucenici Gurie, Samona și Aviv", `${day}#ancora-continut-1`],
+        [1, "Sfântul Preacuviosul Paisie de la Neamț", `${day}#ancora-continut-2`],
+      ],
+    );
+  });
+
+  it("puts its headings in the forms of the calendars and leaves out homilies and stories", () => {
+    assert.equal(ereligie.ereligieTitle("Cuvânt la Acoperământul Preasfintei Născătoare de Dumnezeu"), null);
+    assert.equal(ereligie.ereligieTitle("Povestire despre ostașul Taxiot"), null);
+    assert.equal(ereligie.ereligieTitle("Viața Cuviosului Iosif, scriitorul de cântări"), "Sfântul Cuvios Iosif, scriitorul de cântări");
+    assert.equal(ereligie.ereligieTitle("Pătimirea Sfântului Mucenic Amfian"), "Sfântul Mucenic Amfian");
+    assert.equal(ereligie.ereligieTitle("Sf. sfințit mucenic Taghen"), "Sf. Sfințit Mc. Taghen");
+    assert.equal(ereligie.ereligieTitle("Cuviosul Părintele nostru Eumenie, Episcopul Gortinei"), "Sfântul Cuvios Eumenie, Episcopul Gortinei");
+    assert.equal(ereligie.ereligieTitle("Cuvioasa Maică Matroana"), "Sfânta Cuvioasă Matroana");
+    assert.equal(ereligie.ereligieTitle("Cuv. Macarie cel Mare, Egipteanul"), "Sf. Cuv. Macarie cel Mare Egipteanul");
+    assert.equal(ereligie.ereligieTitle("Binecredinciosul Voievod Ștefan cel Mare și Sfânt"), "Binecredinciosul Voievod Ștefan cel Mare");
+    assert.equal(ereligie.ereligieTitle("Cuv. Ioan cel sărac pentru Hristos, care s-a mai numit și Colibasul"), "Sf. Cuv. Ioan cel sărac pentru Hristos");
+    assert.equal(ereligie.ereligieTitle("Cinstita Adormire a Preasfintei Măritei Stăpânei noastre de Dumnezeu Născătoarei"), "Adormirea Maicii Domnului");
+    const paisie = parseRo(ereligie.ereligieTitle("Sfântul Preacuviosul Paisie de la Neamț") ?? "");
+    assert.equal(paisie.names[0]?.given, "Paisie");
+    assert.deepEqual(paisie.holiness, ["venerable"]);
+    assert.deepEqual(
+      parseRo("Sfântul Mucenic Ciprian și Sfânta Muceniță Iustina fecioara").names.map((n) => n.given),
+      ["Ciprian", "Iustina"],
+    );
+    assert.deepEqual(
+      parseRo("Sf. Patrick, Episcopul și Iluminătorul Irlandei").names.map((n) => n.given),
+      ["Patrick"],
+    );
+  });
+
+  it("cites the saints it names: an existing saint gets its link, a missing one becomes a new saint of the Romanian calendar", () => {
+    const dir = mkdtempSync(join(tmpdir(), "synaxarion-ereligie-"));
+    cpSync(join(REPO_ROOT, "tests", "fixtures", "minimal", "data"), dir, { recursive: true });
+    const records: Record<string, unknown> = {
+      "persons/paisius-of-neamt.json": { id: "paisius-of-neamt", kind: "saint", gender: "male", holiness_types: ["venerable"], sources: [{ source: "src:test-source" }], editorial: { status: "draft" } },
+      "i18n/ro/persons/paisius-of-neamt.json": { id: "paisius-of-neamt", locale: "ro", names: { display: "Sf. Cuv. Paisie de la Neamț" } },
+      "commemorations/paisius-of-neamt--repose.json": { id: "paisius-of-neamt--repose", kind: "repose", subjects: ["person:paisius-of-neamt"], date_rule: { type: "fixed", month: 11, day: 15 }, sources: [{ source: "src:test-source" }], editorial: { status: "draft" } },
+      "persons/elpidius.json": { id: "elpidius", kind: "saint", gender: "male", holiness_types: ["martyr"], sources: [{ source: "src:test-source" }], editorial: { status: "draft" } },
+      "i18n/en/persons/elpidius.json": { id: "elpidius", locale: "en", names: { display: "Martyr Elpidius" } },
+      "commemorations/elpidius--repose.json": { id: "elpidius--repose", kind: "repose", subjects: ["person:elpidius"], date_rule: { type: "fixed", month: 11, day: 15 }, sources: [{ source: "src:test-source" }], editorial: { status: "draft" } },
+      "traditions/romanian/menaion/11/15.json": { tradition: "romanian", date: "11-15", entries: [{ commemorations: ["comm:paisius-of-neamt--repose"] }] },
+      "traditions/russian/menaion/11/15.json": { tradition: "russian", date: "11-15", entries: [{ commemorations: ["comm:elpidius--repose"] }] },
+    };
+    for (const [rel, value] of Object.entries(records)) {
+      mkdirSync(dirname(join(dir, rel)), { recursive: true });
+      writeFileSync(join(dir, rel), JSON.stringify(value));
+    }
+    const data: SourceData = {
+      accessed: "2026-11-15",
+      patriarhia: [],
+      doxologia: [],
+      oca: [],
+      coptic: [],
+      armenian: [],
+      overlays: [],
+      ereligie: ["Sfântul Preacuviosul Paisie de la Neamț", "Sfântul Mucenic Elpidie", "Sf. Mc. Teopist"].map((title, order) => ({ month: 11, day: 15, order, title, url: day, anchor: `ancora-continut-${order + 1}` })),
+    };
+    const run = (): ReturnType<RecordWriter["write"]> => {
+      const existing = loadExisting(dir);
+      const builder = new Builder(existing);
+      builder.cite(ereligieUnits(data), "romanian");
+      return new RecordWriter(existing, { clusters: builder.clusters, lines: builder.lines, movable: builder.movable, stats: builder.stats, cited: builder.cited }).write();
+    };
+    try {
+      const output = run();
+      const sources = (path: string): string[] => ((output.files.get(path)?.sources ?? []) as Array<{ url?: string }>).map((s) => s.url ?? "");
+      // Saints the data holds keep their records and get the link to their section of the day's page.
+      assert.ok(sources("persons/paisius-of-neamt.json").includes(`${day}#ancora-continut-1`));
+      assert.ok(sources("commemorations/paisius-of-neamt--repose.json").includes(`${day}#ancora-continut-1`));
+      assert.ok(sources("persons/elpidius.json").includes(`${day}#ancora-continut-2`));
+      // The missing saint is a new person, in the Romanian calendar of the day after the existing line; the saint the
+      // data keeps in the Russian calendar only is not placed in the Romanian one.
+      const created = [...output.files.keys()].find((k) => k.startsWith("persons/") && sources(k).includes(`${day}#ancora-continut-3`));
+      assert.ok(created);
+      assert.equal(output.files.get(`i18n/ro/${created}`)?.names.display, "Sf. Mc. Teopist");
+      const romanian = output.files.get("traditions/romanian/menaion/11/15.json")?.entries as Array<{ commemorations: string[] }>;
+      assert.deepEqual(
+        romanian.map((e) => e.commemorations),
+        [["comm:paisius-of-neamt--repose"], [`comm:${created.slice("persons/".length, -".json".length)}--repose`]],
+      );
+      // A second import over the result writes nothing.
+      for (const [rel, value] of output.files) {
+        mkdirSync(dirname(join(dir, rel)), { recursive: true });
+        writeFileSync(join(dir, rel), JSON.stringify(value));
+      }
+      assert.equal(run().files.size, 0);
     } finally {
       rmSync(dir, { recursive: true, force: true });
     }

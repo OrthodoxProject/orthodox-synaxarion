@@ -3,9 +3,11 @@
  * dataset: calendar.patriarhia.ro and doxologia.ro (Romanian calendar), the OCA
  * lives of the saints (Russian calendar), the local lists of orthodox-calendar,
  * the Coptic Synaxarium (copticchurch.net, st-takla.org) and the Armenian
- * calendar (armenianchurch.ge). Only facts are taken: names, days, crosses,
- * links and the fasting printed in the official Romanian calendar, which goes
- * to the yearly overrides; texts of lives and hymns are not copied.
+ * calendar (armenianchurch.ge). The synaxarion of e-religie.ro is only cited:
+ * the saints it names get the link to its page, and those that no other source
+ * has are added to the Romanian calendar. Only facts are taken: names, days,
+ * crosses, links and the fasting printed in the official Romanian calendar,
+ * which goes to the yearly overrides; texts of lives and hymns are not copied.
  *
  *   npm run import                    # download what is missing, then write data/
  *   node tools/import.ts --offline    # use only pages already in build/cache/
@@ -14,8 +16,9 @@
  *
  * Pages are cached in build/cache/; robots.txt and the sites' Crawl-delay are
  * honoured, so a first run takes about two hours (the OCA asks for 10 seconds
- * between pages). Existing records are not rewritten: new records are added,
- * and new lines are appended to existing calendar days. Run `npm run format`
+ * between pages). Existing records are not rewritten, except that a cited
+ * source adds its link to their sources: new records are added, and new lines
+ * are appended to existing calendar days. Run `npm run format`
  * and `npm run check` afterwards.
  */
 import { existsSync, mkdirSync, writeFileSync } from "node:fs";
@@ -29,10 +32,11 @@ import { RecordWriter } from "./lib/import/records.ts";
 import * as armenian from "./lib/import/sources/armenian.ts";
 import * as coptic from "./lib/import/sources/coptic.ts";
 import * as doxologia from "./lib/import/sources/doxologia.ts";
+import * as ereligie from "./lib/import/sources/ereligie.ts";
 import * as oca from "./lib/import/sources/oca.ts";
 import * as orthodoxCalendar from "./lib/import/sources/orthodox-calendar.ts";
 import * as patriarhia from "./lib/import/sources/patriarhia.ts";
-import { armenianUnits, copticUnits, doxologiaUnits, ocaUnits, overlayUnits, patriarhiaUnits, type SourceData } from "./lib/import/units.ts";
+import { armenianUnits, copticUnits, doxologiaUnits, ereligieUnits, ocaUnits, overlayUnits, patriarhiaUnits, type SourceData } from "./lib/import/units.ts";
 import { classify, isRomanian } from "./lib/layout.ts";
 import { canonicalJson, fixCedilla, mapStrings } from "./lib/text.ts";
 import { REPO_ROOT } from "./lib/validate.ts";
@@ -63,6 +67,7 @@ const data: SourceData = {
   coptic: await coptic.crawl(fetcher, log),
   armenian: await armenian.crawl(fetcher),
   overlays: await orthodoxCalendar.crawl(fetcher),
+  ereligie: await ereligie.crawl(fetcher, log),
 };
 log(`  ${fetcher.requests} page(s) downloaded, ${fetcher.cacheHits} from the cache.`);
 
@@ -80,10 +85,12 @@ const overlays = overlayUnits(data);
 builder.overlay(overlays.filter((u) => u.tradition !== "romanian"));
 builder.enrich(overlays.filter((u) => u.tradition === "romanian"));
 builder.shared(["ecumenical", "serbian"]);
+// After the shared Menaion: a saint it adds is in the Romanian calendar only.
+builder.cite(ereligieUnits(data), "romanian");
 builder.coptic(copticUnits(data));
 builder.armenian(armenianUnits(data));
 
-const output = new RecordWriter(existing, { clusters: builder.clusters, lines: builder.lines, movable: builder.movable, stats: builder.stats }).write();
+const output = new RecordWriter(existing, { clusters: builder.clusters, lines: builder.lines, movable: builder.movable, stats: builder.stats, cited: builder.cited }).write();
 
 // The fasting printed in the official calendar goes to the yearly overrides of the Romanian calendar.
 const romanian = existing.dataset.traditions.get("romanian");

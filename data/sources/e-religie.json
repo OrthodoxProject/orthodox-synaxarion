@@ -1,0 +1,17 @@
+{
+  "id": "e-religie",
+  "type": "synaxarion",
+  "title": "Sinaxar",
+  "publisher": "e-religie.ro, platforma e-learning a profesorilor de religie",
+  "url": "https://e-religie.ro/sinaxar/",
+  "language": "ro",
+  "license": "LicenseRef-AllRightsReserved",
+  "accessed": "2026-11-15",
+  "notes": [
+    "Sinaxarul Vieților Sfinților, câte o pagină pe zi (sinaxar/noiembrie/sinaxar-ziua-15-luna-11/), cu o secțiune pentru fiecare sfânt al zilei, la care trimite cuprinsul paginii (#ancora-continut-2). Platforma e coordonată de Arhiepiscopia Craiovei, inspectoratele școlare din Dolj, Gorj, Vâlcea, Mehedinți și Olt și Facultatea de Teologie din Craiova. Folosim doar fapte (cine se pomenește și în ce zi), cu trimitere la secțiunea sfântului din pagina zilei."
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "high"
+  }
+}

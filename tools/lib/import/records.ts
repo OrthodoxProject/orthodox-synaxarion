@@ -1,8 +1,8 @@
 /**
  * Turns clusters into data files: persons, groups, icons and commemorations
  * with their locale files, and the calendar lines of every tradition. Existing
- * records are kept as they are; existing calendar days get the new lines after
- * their own.
+ * records are kept as they are, save for the citations of a cited source (see
+ * Builder.cite); existing calendar days get the new lines after their own.
  */
 import { addCitation, addRef, extraKeys, firstOfList, holinessCompatible, knownByPlace, newSlot, numeralOf, personScore, placeKeys, type Cluster, type GroupSubject, type Slot, type SlotName } from "./cluster.ts";
 import type { Existing, ExistingLine } from "./existing.ts";
@@ -31,6 +31,7 @@ const SOURCE_NAMES: Record<string, string> = {
   "src:armenianchurch-ge": "armenianchurch.ge",
   "src:orthodox-calendar": "orthodox-calendar",
   "src:wikipedia": "Wikipedia",
+  "src:e-religie": "e-religie.ro",
 };
 
 function importNote(citations: Citation[]): string {
@@ -460,8 +461,25 @@ export class RecordWriter {
     }
     for (const [pid, slot] of persons) this.writePerson(pid, slot);
     for (const [gid, { g, family }] of groups) this.writeGroup(gid, g, family);
+    this.writeCited();
     this.writeCalendars();
     return { files: this.files, stats: this.stats };
+  }
+
+  /** Existing records that a cited source names: the same record, with the citations it lacks after its own. */
+  private writeCited(): void {
+    for (const [key, citations] of this.result.cited ?? []) {
+      const [collection, id] = key.split("/");
+      if (!collection || !id) continue;
+      const rec = this.existing.dataset.records.get(collection as Parameters<typeof this.existing.dataset.records.get>[0])?.get(id);
+      if (!rec) continue;
+      const sources = [...((rec.sources ?? []) as Citation[])];
+      const before = sources.length;
+      for (const c of dedupeCitations(citations)) if (!sources.some((x) => x.source === c.source && x.url === c.url)) sources.push(c);
+      if (sources.length === before) continue;
+      this.files.set(`${collection}/${id}.json`, { ...rec, sources });
+      this.count(`cited.${collection}`);
+    }
   }
 
   private editorial(citations: Citation[], confidence: "low" | "medium", extra: string[] = []): Rec {

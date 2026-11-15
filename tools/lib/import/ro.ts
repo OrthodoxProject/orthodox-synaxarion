@@ -34,6 +34,12 @@ const HONORIFICS: Record<string, Honorific> = {
   cuviosului: { holiness: ["venerable"], gender: "male" },
   cuvioasei: { holiness: ["venerable"], gender: "female" },
   cuviosilor: { holiness: ["venerable"], plural: true },
+  cuviosii: { holiness: ["venerable"], plural: true },
+  cuvioasele: { holiness: ["venerable"], plural: true, gender: "female" },
+  preacuviosul: { holiness: ["venerable"], gender: "male" },
+  preacuvioasa: { holiness: ["venerable"], gender: "female" },
+  preacuviosi: { holiness: ["venerable"], plural: true },
+  preacuviosii: { holiness: ["venerable"], plural: true },
   mc: { holiness: ["martyr"] },
   mucenic: { holiness: ["martyr"], gender: "male" },
   mucenicul: { holiness: ["martyr"], gender: "male" },
@@ -49,6 +55,7 @@ const HONORIFICS: Record<string, Honorific> = {
   mare: {},
   mari: {},
   sfintit: {},
+  sfintitul: {},
   sfintiti: { plural: true },
   ier: { holiness: ["hierarch"] },
   ierarh: { holiness: ["hierarch"], gender: "male" },
@@ -97,6 +104,7 @@ const HONORIFICS: Record<string, Honorific> = {
   noul: { holiness: ["new_martyr"] },
   noua: { holiness: ["new_martyr"], gender: "female" },
   noii: { holiness: ["new_martyr"], plural: true },
+  noului: { holiness: ["new_martyr"] },
   "nou-mucenic": { holiness: ["new_martyr", "martyr"], gender: "male" },
   "noul-mucenic": { holiness: ["new_martyr", "martyr"], gender: "male" },
   mironosita: { holiness: ["myrrhbearer"], gender: "female" },
@@ -126,6 +134,7 @@ const HONORIFICS: Record<string, Honorific> = {
   binecredincioasa: { holiness: ["right_believing"], gender: "female" },
   binecredincios: { holiness: ["right_believing"], gender: "male" },
   binecredinciosi: { holiness: ["right_believing"], plural: true },
+  evlaviosul: { holiness: ["right_believing"], gender: "male" },
   fecioara: { holiness: ["virgin"], gender: "female" },
   fecioare: { holiness: ["virgin"], plural: true, gender: "female" },
   stalpnic: { holiness: ["stylite"], gender: "male" },
@@ -143,6 +152,8 @@ const HONORIFICS: Record<string, Honorific> = {
   fericita: { holiness: ["venerable"], gender: "female" },
   fericit: { holiness: ["venerable"], gender: "male" },
   parinte: { gender: "male" },
+  parintele: { gender: "male" },
+  nostru: {},
   parintii: { plural: true },
   parinti: { plural: true },
   doctor: { holiness: ["unmercenary"], gender: "male" },
@@ -274,9 +285,9 @@ export function splitHonorifics(title: string): { honorific: string; rest: strin
     const h = honorificOf(word);
     if (!h) break;
     if (w === "mare" || w === "mari") sawMare = true;
-    if (w === "sfintit" || w === "sfintiti") sawSfintit = true;
+    if (w === "sfintit" || w === "sfintitul" || w === "sfintiti") sawSfintit = true;
     if (w === "preot") sawPreot = true;
-    if (w === "nou" || w === "noul" || w === "noua" || w === "noii") sawNou = true;
+    if (w === "nou" || w === "noul" || w === "noua" || w === "noii" || w === "noului") sawNou = true;
     for (const x of h.holiness ?? []) holiness.add(x);
     if (h.gender) gender = gender ?? h.gender;
     if (h.plural) plural = true;
@@ -356,7 +367,7 @@ function namePart(text: string, gender?: Gender): NamePart {
 }
 
 /** Offices and descriptions that follow a name after a comma ("Episcopul Nyssei", "Luminătorul Georgiei"). */
-const TITLE_WORD = /^(?:(?:arhi)?episcop\w*|mitropolit\w*|patriarh\w*|papa|papă|(?:i|e)gumen\w*|stare[țţ]\w*|ctitor\w*|ocrotitor\w*|[îi]ntemeietor\w*|lumin[ăa]tor\w*|[îi]nv[ăa][țţ][ăa]tor\w*|dasc[ăa]l\w*|preot\w*|diacon\w*|arhidiacon\w*|protopop\w*|monah\w*|schimonah\w*|ieromonah\w*|arhimandrit\w*|c[ăa]lug[ăa]r\w*|pustnic\w*|sihastr\w*|[îi]mp[ăa]rat\w*|rege\w*|regin\w*|prin[țţ]\w*|domn\w*|voievod\w*|cneaz\w*|[țţ]ar\w*|nebun\w*|cel|cea|fost\w*|ap[ăa]r[ăa]tor\w*|mucenic\w*|m[ăa]rturisitor\w*|izvor[âa]tor\w*|t[ăa]m[ăa]duitor\w*|f[ăa]c[ăa]tor\w*|purt[ăa]tor\w*|prieten\w*|r[ăa]zboinic\w*|sfetnic\w*|vistier\w*|osta[șş]\w*|soldat\w*|comandant\w*|tribun\w*|medic\w*|doctor\w*|tovar[ăa][șş]\w*|apostol\w*|evanghelist\w*|ucenic\w*|fratele|fra[țţ]ii|sora|surorile|mama|tat[ăa]l|so[țţ]ia|so[țţ]ul|fiii|fiul|fiica|fiicele|nepot\w*|bunic\w*|p[ăa]rin[țţ]ii)(?=\s|,|$)/i;
+const TITLE_WORD = /^(?:(?:arhi)?episcop\w*|mitropolit\w*|patriarh\w*|papa|papă|(?:i|e)gumen\w*|stare[țţ]\w*|ctitor\w*|ocrotitor\w*|[îi]ntemeietor\w*|i?lumin[ăa]tor\w*|[îi]nv[ăa][țţ][ăa]tor\w*|dasc[ăa]l\w*|preot\w*|diacon\w*|arhidiacon\w*|protopop\w*|monah\w*|schimonah\w*|ieromonah\w*|arhimandrit\w*|c[ăa]lug[ăa]r\w*|pustnic\w*|sihastr\w*|[îi]mp[ăa]rat\w*|rege\w*|regin\w*|prin[țţ]\w*|domn\w*|voievod\w*|cneaz\w*|[țţ]ar\w*|nebun\w*|cel|cea|fost\w*|ap[ăa]r[ăa]tor\w*|mucenic\w*|m[ăa]rturisitor\w*|izvor[âa]tor\w*|t[ăa]m[ăa]duitor\w*|f[ăa]c[ăa]tor\w*|purt[ăa]tor\w*|prieten\w*|r[ăa]zboinic\w*|sfetnic\w*|vistier\w*|osta[șş]\w*|soldat\w*|comandant\w*|tribun\w*|medic\w*|doctor\w*|tovar[ăa][șş]\w*|apostol\w*|evanghelist\w*|ucenic\w*|fratele|fra[țţ]ii|sora|surorile|mama|tat[ăa]l|so[țţ]ia|so[țţ]ul|fiii|fiul|fiica|fiicele|nepot\w*|bunic\w*|p[ăa]rin[țţ]ii)(?=\s|,|$)/i;
 const RELATION = /^(?:mama|tatăl|soția|soțul|fiul|fiica|fiii|fiicele|fratele|frații|sora|surorile|ucenicul|ucenicii|ucenica|părinții|nepotul|nepoata)\b(?:\s+(?:sa|său|lui|lor|săi|sale|ei))?\s*/i;
 /** Unnamed companions closing a list: "și cei 7 fii" (as "cu cei 4 fii ai lor"). */
 const COMPANIONS = /^(?:cei|cele) \S+ (?:fii|ucenici|tineri)\b/i;
@@ -395,7 +406,8 @@ export function splitNames(rest: string, gender?: Gender, plural = false, singul
     }
     if (!seg) continue;
     if (/^(cei|cele) (împreună|dimpreună)/i.test(seg) || /^cu cei\b/i.test(seg) || COMPANIONS.test(seg)) break;
-    const bare = seg.replace(/^(?:(?:Sf\.|Sfântul|Sfânta|Sfinții|Cuv\.|Mc\.|Cuvioasa|Cuviosul|Dreapta|Dreptul)\s+)+/, "");
+    // "Sfântul Mucenic Ciprian și Sfânta Muceniță Iustina": each name may have its own honorifics.
+    const bare = seg.replace(/^(?:(?:Sf\.|Sfântul|Sfânta|Sfinții|Cuv\.|Mc\.|Ap\.|Ier\.|Cuvioasa|Cuviosul|Dreapta|Dreptul|Fericitul|Fericita|Mucenicul|Mucenic|Muceni[țţ][ăa]|Fecioar[ăa]|Apostolul|Apostol|Ierarhul|Ierarh|Pro?orocul|Pro?oroc|Marele|Mare)\s+)+/, "");
     if (names.length === 0) {
       names.push(bare);
       continue;

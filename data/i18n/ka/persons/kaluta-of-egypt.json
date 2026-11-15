@@ -1,0 +1,19 @@
+{
+  "id": "kaluta-of-egypt",
+  "locale": "ka",
+  "names": {
+    "display": "მოწამე კალუთა",
+    "given": "კალუთა"
+  },
+  "references": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-06-01?text=4262",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

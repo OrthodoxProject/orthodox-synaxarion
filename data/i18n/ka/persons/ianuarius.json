@@ -1,0 +1,19 @@
+{
+  "id": "ianuarius",
+  "locale": "ka",
+  "names": {
+    "display": "მოწამე იანუარიუსი",
+    "given": "იანუარიუსი"
+  },
+  "references": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-05-11?text=5021",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

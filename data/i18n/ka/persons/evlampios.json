@@ -1,0 +1,19 @@
+{
+  "id": "evlampios",
+  "locale": "ka",
+  "names": {
+    "display": "მოწამე ევლამპიოსი",
+    "given": "ევლამპიოსი"
+  },
+  "references": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-07-16?text=4509",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

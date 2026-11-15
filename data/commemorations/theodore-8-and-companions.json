@@ -1,0 +1,32 @@
+{
+  "id": "theodore-8-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:theodore-8",
+    "person:christopher-3",
+    "person:amona",
+    "person:peter-8",
+    "person:andrew-4",
+    "person:george-4",
+    "person:macarius-6"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 5
+  },
+  "sources": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-10-18?text=2969",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendarul Patriarhiei Georgiei (patriarchate.ge); de verificat."
+    ]
+  }
+}

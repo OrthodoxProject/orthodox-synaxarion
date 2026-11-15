@@ -1,0 +1,26 @@
+{
+  "id": "nifont-bishop-of-cyprus--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:nifont-bishop-of-cyprus"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 23
+  },
+  "sources": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2027-01-05?text=3442",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendarul Patriarhiei Georgiei (patriarchate.ge); de verificat."
+    ]
+  }
+}

@@ -14,6 +14,13 @@
     "ka"
   ],
   "default_locale": "ka",
+  "official_sources": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar",
+      "accessed": "2026-11-15"
+    }
+  ],
   "external_ids": {
     "wikidata": "Q192173"
   },
@@ -21,7 +28,7 @@
     "status": "draft",
     "confidence": "medium",
     "notes": [
-      "Calendarul pe zile al Bisericii Georgiei e de importat."
+      "Calendarul pe zile e importat automat din calendarul oficial al Patriarhiei Georgiei (patriarchate.ge), anul 2026 pe stil vechi: fiecare rând e potrivit cu pomenirile pe care celelalte calendare le țin în aceeași zi din Minei (npm run import:traditions); sfinții negăsiți sunt înregistrări noi, cu numele în georgiană, de verificat. Icoanele, praznicele locale și sfinții cu mai mulți omonimi în alte zile nu sunt încă puși (raportul importului îi listează)."
     ]
   }
 }

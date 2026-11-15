@@ -1,0 +1,19 @@
+{
+  "id": "muza-virgin",
+  "locale": "ka",
+  "names": {
+    "display": "ნეტარი მუზა",
+    "given": "მუზა"
+  },
+  "references": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-05-29?text=4246",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

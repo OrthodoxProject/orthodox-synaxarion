@@ -1,0 +1,19 @@
+{
+  "id": "teodot",
+  "locale": "ka",
+  "names": {
+    "display": "მოწამე თეოდოტი",
+    "given": "თეოდოტი"
+  },
+  "references": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-11-05?text=3068",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

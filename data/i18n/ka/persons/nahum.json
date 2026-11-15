@@ -1,0 +1,19 @@
+{
+  "id": "nahum",
+  "locale": "ka",
+  "names": {
+    "display": "ნაუმ",
+    "given": "ნაუმ"
+  },
+  "references": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-08-09?text=4654",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

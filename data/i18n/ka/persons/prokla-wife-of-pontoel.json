@@ -1,0 +1,19 @@
+{
+  "id": "prokla-wife-of-pontoel",
+  "locale": "ka",
+  "names": {
+    "display": "წმიდა პროკლა",
+    "given": "პროკლა"
+  },
+  "references": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-11-09?text=3096",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

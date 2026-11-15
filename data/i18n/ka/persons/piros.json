@@ -1,0 +1,19 @@
+{
+  "id": "piros",
+  "locale": "ka",
+  "names": {
+    "display": "ღირსი პიროს",
+    "given": "პიროს"
+  },
+  "references": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-05-28?text=4239",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

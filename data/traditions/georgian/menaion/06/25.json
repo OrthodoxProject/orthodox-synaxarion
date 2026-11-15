@@ -1,0 +1,17 @@
+{
+  "tradition": "georgian",
+  "date": "06-25",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:febronia-of-nisibis--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:dalmatus-the-ascetic-of-the-dalmatian-monastery--repose"
+      ],
+      "differs_from_default": true
+    }
+  ]
+}

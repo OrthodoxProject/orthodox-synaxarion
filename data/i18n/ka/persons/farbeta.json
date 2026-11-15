@@ -1,0 +1,19 @@
+{
+  "id": "farbeta",
+  "locale": "ka",
+  "names": {
+    "display": "ღირსი ფარბეთა",
+    "given": "ფარბეთა"
+  },
+  "references": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-04-24?text=4069",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

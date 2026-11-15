@@ -1,0 +1,19 @@
+{
+  "id": "george-teacher",
+  "locale": "ka",
+  "names": {
+    "display": "ღირსი გიორგი",
+    "given": "გიორგი"
+  },
+  "references": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-07-16?text=4506",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

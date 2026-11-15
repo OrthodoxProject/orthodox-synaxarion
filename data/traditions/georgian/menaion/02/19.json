@@ -1,0 +1,35 @@
+{
+  "tradition": "georgian",
+  "date": "02-19",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:arkipos-and-filimonis-martyr",
+        "comm:apfia--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:maximus-2-and-companions"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:eugene-2--repose",
+        "comm:macarius--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:dositheus-of-palestine--repose",
+        "comm:dorotheus-the-hermit-of-egypt--repose"
+      ],
+      "differs_from_default": true
+    },
+    {
+      "commemorations": [
+        "comm:rabulas-of-samosata--repose"
+      ]
+    }
+  ]
+}

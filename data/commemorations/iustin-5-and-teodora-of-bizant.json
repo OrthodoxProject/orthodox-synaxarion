@@ -1,0 +1,27 @@
+{
+  "id": "iustin-5-and-teodora-of-bizant",
+  "kind": "repose",
+  "subjects": [
+    "person:iustin-5",
+    "person:teodora-of-bizant"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 15
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/68991278-f8e1-4b2a-957b-c43470fb8f51",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

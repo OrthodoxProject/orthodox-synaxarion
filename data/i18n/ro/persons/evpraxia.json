@@ -1,0 +1,20 @@
+{
+  "id": "evpraxia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Evpraxia",
+    "short": "Evpraxia",
+    "given": "Evpraxia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1097b9ff-4d20-46ab-8c1f-32ac0fa45eeb",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "teodor-23",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Teodor, egumen la Oronon",
+    "full": "Sfântul Cuvios Teodor, egumen la Oronon",
+    "short": "Teodor, egumen la Oronon",
+    "given": "Teodor"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/71bd54ff-483c-4f91-ab26-b279240efe9d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

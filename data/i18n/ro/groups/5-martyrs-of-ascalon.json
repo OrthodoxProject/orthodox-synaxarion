@@ -1,0 +1,18 @@
+{
+  "id": "5-martyrs-of-ascalon",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții 5 Mucenici din Ascalon"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b28d6a4f-90fc-4750-9d40-bd2d9dbbfacc",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

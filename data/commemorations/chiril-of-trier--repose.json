@@ -1,0 +1,26 @@
+{
+  "id": "chiril-of-trier--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:chiril-of-trier"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 19
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f70bad21-0bb5-4842-bd85-86edbeafa65e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "siviard",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Siviard, călugăr din Franța",
+    "full": "Sfântul Cuvios Siviard, călugăr din Franța",
+    "short": "Siviard, călugăr din Franța",
+    "given": "Siviard"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b80016de-864a-47b2-b237-18088071a905",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

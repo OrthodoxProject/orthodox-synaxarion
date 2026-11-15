@@ -1,0 +1,20 @@
+{
+  "id": "iosif-varsava-of-elefteropole",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ap. Iosif Varsava, episcop de Elefteropole",
+    "short": "Iosif Varsava, episcop de Elefteropole",
+    "given": "Iosif"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/924",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

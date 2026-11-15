@@ -1,0 +1,21 @@
+{
+  "id": "ioan-of-rusia-16",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Ioan (Cestnov) din Rusia",
+    "full": "Sfântul Sfințit Nou Mucenic Ioan (Cestnov) din Rusia",
+    "short": "Ioan (Cestnov) din Rusia",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8f509a64-7749-468c-9c68-0f6a6118615f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "severina-of-roma",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Severina din Roma",
+    "full": "Sfânta Severina din Roma",
+    "short": "Severina din Roma",
+    "given": "Severina"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8aa0c8c0-8261-479c-aed1-0e5deb024513",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

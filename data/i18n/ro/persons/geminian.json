@@ -1,0 +1,21 @@
+{
+  "id": "geminian",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Geminian, primul episcop al Modenei și mărturisitor din Italia",
+    "full": "Sfântul Ierarh Geminian, primul episcop al Modenei și mărturisitor din Italia",
+    "short": "Geminian, primul episcop al Modenei, mărturisitor din Italia",
+    "given": "Geminian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ce2eeccd-d067-44e6-8326-0c6994425f49",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

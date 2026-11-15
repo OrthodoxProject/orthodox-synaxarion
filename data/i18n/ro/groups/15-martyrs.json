@@ -1,0 +1,18 @@
+{
+  "id": "15-martyrs",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții 15 Mucenici"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/77b21752-5849-4ccd-b895-7ace544053f1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "bertilda-of-manastirii-chelles--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:bertilda-of-manastirii-chelles"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 5
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0d288f5a-256c-4e9d-8a62-9a8c7c41c26b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

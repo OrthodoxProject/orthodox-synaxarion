@@ -1,0 +1,41 @@
+{
+  "id": "macarie-of-ekaterinoslav-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:macarie-of-ekaterinoslav",
+    "person:alexandru-66",
+    "person:nicolae-72",
+    "person:ioan-97",
+    "person:nicolae-73",
+    "person:vasile-53",
+    "person:vladimir-32",
+    "person:emilian-6",
+    "person:alexie-35",
+    "person:ioan-98",
+    "person:alexie-36",
+    "person:ilarion-8",
+    "person:arsenie-8",
+    "person:evtihie",
+    "person:ioanichia",
+    "person:tatiana-of-rusia-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 20
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/26cb14bf-96b9-44f5-9cd1-8eaf7b9e1f51",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

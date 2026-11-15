@@ -1,0 +1,20 @@
+{
+  "id": "demetrian-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Demetrian",
+    "short": "Demetrian",
+    "given": "Demetrian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8608e420-6892-4d51-9132-ece9e56de94e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

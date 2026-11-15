@@ -1,0 +1,26 @@
+{
+  "id": "6-venerable-martyrs-2",
+  "kind": "repose",
+  "subjects": [
+    "group:6-venerable-martyrs-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 19
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/befcc634-248c-4919-88d9-c67f5f995966",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

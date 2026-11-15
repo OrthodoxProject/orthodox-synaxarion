@@ -1,0 +1,28 @@
+{
+  "id": "ilie-14-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:ilie-14",
+    "person:serghie-31",
+    "person:ghenadie-of-rusia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 5
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/83c4d90f-3a03-4d89-b2f1-baaf592a732f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

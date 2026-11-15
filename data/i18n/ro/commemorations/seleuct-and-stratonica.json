@@ -1,0 +1,18 @@
+{
+  "id": "seleuct-and-stratonica",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici Seleuct și Stratonica, soția sa"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f64174d6-f839-4295-b9dc-751e79ccf4b0",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

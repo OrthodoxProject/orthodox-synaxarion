@@ -1,0 +1,21 @@
+{
+  "id": "alphege-of-canterbury",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Alphege, arhiepiscop de Canterbury în Anglia",
+    "full": "Sfântul Sfințit Mucenic Alphege, arhiepiscop de Canterbury în Anglia",
+    "short": "Alphege, arhiepiscop de Canterbury în Anglia",
+    "given": "Alphege"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b4582f15-fa8f-41cc-a72d-79ada18d903a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

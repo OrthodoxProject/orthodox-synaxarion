@@ -1,0 +1,27 @@
+{
+  "id": "vechian-and-nomon",
+  "kind": "repose",
+  "subjects": [
+    "person:vechian",
+    "person:nomon"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 11
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3507e730-61c3-4a0a-99db-3df4e94e90a6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

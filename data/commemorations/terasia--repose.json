@@ -1,0 +1,26 @@
+{
+  "id": "terasia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:terasia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 23
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/80d1c861-418e-480a-81ed-e5891d55132e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

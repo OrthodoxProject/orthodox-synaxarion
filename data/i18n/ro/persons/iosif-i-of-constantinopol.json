@@ -1,0 +1,21 @@
+{
+  "id": "iosif-i-of-constantinopol",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Iosif I, patriarhul Constantinopolului",
+    "full": "Sfântul Cuvios Iosif I, patriarhul Constantinopolului",
+    "short": "Iosif I, patriarhul Constantinopolului",
+    "given": "Iosif"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/21a7eb8b-bfe9-4311-9084-561a3794a77b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

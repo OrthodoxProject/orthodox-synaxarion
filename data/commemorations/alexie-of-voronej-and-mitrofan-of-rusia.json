@@ -1,0 +1,27 @@
+{
+  "id": "alexie-of-voronej-and-mitrofan-of-rusia",
+  "kind": "repose",
+  "subjects": [
+    "person:alexie-of-voronej",
+    "person:mitrofan-of-rusia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 12
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/66a72890-34d4-4fd2-b882-eaf6ec8bc761",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

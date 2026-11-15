@@ -1,0 +1,21 @@
+{
+  "id": "florentie-of-orange",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Florenție, episcop de Orange în Franța",
+    "full": "Sfântul Ierarh Florenție, episcop de Orange în Franța",
+    "short": "Florenție, episcop de Orange în Franța",
+    "given": "Florenție"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4f2cf0c0-1297-4cc2-9f93-f47229d60ffd",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

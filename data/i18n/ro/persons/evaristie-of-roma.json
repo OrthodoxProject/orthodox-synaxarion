@@ -1,0 +1,21 @@
+{
+  "id": "evaristie-of-roma",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Evaristie, episcopul Romei",
+    "full": "Sfântul Sfințit Mucenic Evaristie, episcopul Romei",
+    "short": "Evaristie, episcopul Romei",
+    "given": "Evaristie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/eb016d80-ae4d-43e2-b6bc-59b1816e2126",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "macarie-of-cipr",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Macarie, episcopul Ciprului",
+    "full": "Sfântul Ierarh Macarie, episcopul Ciprului",
+    "short": "Macarie, episcopul Ciprului",
+    "given": "Macarie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/fcf21325-f7e1-4d38-8ef4-0ed1005f1c81",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

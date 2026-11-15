@@ -1,0 +1,21 @@
+{
+  "id": "iron-filosoful-of-alexandria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Iron Filosoful din Alexandria",
+    "full": "Sfântul Cuvios Iron Filosoful din Alexandria",
+    "short": "Iron Filosoful din Alexandria",
+    "given": "Iron"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7c55ec7d-3fce-48a2-b093-ac73cebd432d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

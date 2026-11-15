@@ -1,0 +1,29 @@
+{
+  "id": "ianuarie-2-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:ianuarie-2",
+    "person:maxima-2",
+    "person:macaria",
+    "person:concessa-of-cartagina"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 8
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ee5b8212-c004-45d0-b689-337fa1afdca6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

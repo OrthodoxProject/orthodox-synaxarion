@@ -1,0 +1,20 @@
+{
+  "id": "mihail-7",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Nou Mc. Mihail",
+    "short": "Mihail",
+    "given": "Mihail"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/05f32878-bdda-4572-91b1-2028dabf9996",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

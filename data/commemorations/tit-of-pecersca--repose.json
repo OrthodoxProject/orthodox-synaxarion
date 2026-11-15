@@ -1,0 +1,26 @@
+{
+  "id": "tit-of-pecersca--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:tit-of-pecersca"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 27
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0d668e56-c4de-42f1-a7d6-bd7e8838b322",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

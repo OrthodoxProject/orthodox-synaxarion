@@ -1,0 +1,30 @@
+{
+  "id": "zoil-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:zoil",
+    "person:servilie",
+    "person:felix-13",
+    "person:silvan-3",
+    "person:diocles"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 24
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/70b63aec-2d41-490f-8ffc-7564a35aae7e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

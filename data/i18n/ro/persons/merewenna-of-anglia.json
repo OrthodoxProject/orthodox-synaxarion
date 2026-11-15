@@ -1,0 +1,21 @@
+{
+  "id": "merewenna-of-anglia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Merewenna din Anglia",
+    "full": "Sfânta Merewenna din Anglia",
+    "short": "Merewenna din Anglia",
+    "given": "Merewenna"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b4740ade-0e35-45d4-8c6b-3068fa822c1e#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

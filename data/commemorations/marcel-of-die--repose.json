@@ -1,0 +1,26 @@
+{
+  "id": "marcel-of-die--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:marcel-of-die"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 9
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/640acb5d-4470-4e69-80d4-25f0757de47d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

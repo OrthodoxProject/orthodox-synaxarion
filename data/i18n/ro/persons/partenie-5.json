@@ -1,0 +1,20 @@
+{
+  "id": "partenie-5",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Partenie",
+    "short": "Partenie",
+    "given": "Partenie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/79aeb908-f7aa-4d8f-ba64-5857c92dbffe",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "abdon",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Abdon",
+    "short": "Abdon",
+    "given": "Abdon"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8eb53faf-464e-4613-833d-ac9eaa55f5ed",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "teodor-of-manastirea-sanaksar-of-rusia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Teodor de la Mănăstirea Sanaksar din Rusia",
+    "full": "Sfântul Cuvios Teodor de la Mănăstirea Sanaksar din Rusia",
+    "short": "Teodor de la Mănăstirea Sanaksar din Rusia",
+    "given": "Teodor"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/12879ebe-6967-4468-82b8-1620f678a115",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

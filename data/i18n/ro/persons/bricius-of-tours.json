@@ -1,0 +1,21 @@
+{
+  "id": "bricius-of-tours",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Bricius, episcop de Tours în Franța",
+    "full": "Sfântul Ierarh Bricius, episcop de Tours în Franța",
+    "short": "Bricius, episcop de Tours în Franța",
+    "given": "Bricius"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/db9922c6-66c1-4bc9-86a3-58c8b3cf957d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

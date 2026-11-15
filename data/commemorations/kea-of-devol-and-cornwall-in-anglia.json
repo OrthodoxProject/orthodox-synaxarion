@@ -1,0 +1,27 @@
+{
+  "id": "kea-of-devol-and-cornwall-in-anglia",
+  "kind": "repose",
+  "subjects": [
+    "person:kea-of-devol",
+    "person:cornwall-in-anglia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 5
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/75906da1-5007-4498-912d-24b9f4f79e7f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

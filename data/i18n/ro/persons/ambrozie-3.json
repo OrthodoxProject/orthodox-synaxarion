@@ -1,0 +1,20 @@
+{
+  "id": "ambrozie-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ambrozie",
+    "short": "Ambrozie",
+    "given": "Ambrozie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d69bbb8d-111a-4990-8ba4-b89c0b89fe75",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

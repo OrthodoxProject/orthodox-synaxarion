@@ -1,0 +1,21 @@
+{
+  "id": "lubuinus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Lubuinus, misionar la Friesland în Olanda",
+    "full": "Sfântul Lubuinus, misionar la Friesland în Olanda",
+    "short": "Lubuinus, misionar la Friesland în Olanda",
+    "given": "Lubuinus"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/65bb0132-d0ac-4747-99cf-aa2fa6609625",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

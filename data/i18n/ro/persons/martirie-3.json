@@ -1,0 +1,20 @@
+{
+  "id": "martirie-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Martirie",
+    "short": "Martirie",
+    "given": "Martirie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e589caa2-7a99-4fb2-9391-29b21a01ee93",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

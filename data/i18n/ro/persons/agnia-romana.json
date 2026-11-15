@@ -1,0 +1,20 @@
+{
+  "id": "agnia-romana",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Agnia (Ana) Romana",
+    "short": "Agnia (Ana) Romana",
+    "given": "Agnia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/597",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

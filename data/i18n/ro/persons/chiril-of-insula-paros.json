@@ -1,0 +1,21 @@
+{
+  "id": "chiril-of-insula-paros",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Chiril din insula Paros",
+    "full": "Sfântul Cuvios Chiril din insula Paros",
+    "short": "Chiril din insula Paros",
+    "given": "Chiril"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6eca6ec6-9c62-4c67-badb-4f177c50219f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

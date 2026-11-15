@@ -1,0 +1,21 @@
+{
+  "id": "hierarchs-iulian-episcop-of-lodi-and-salin-episcop",
+  "kind": "other",
+  "holiness_types": [
+    "hierarch"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/23d1839d-59a6-4198-89a0-2bb66ef86e9c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

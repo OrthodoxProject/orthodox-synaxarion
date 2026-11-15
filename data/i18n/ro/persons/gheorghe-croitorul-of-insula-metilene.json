@@ -1,0 +1,21 @@
+{
+  "id": "gheorghe-croitorul-of-insula-metilene",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Gheorghe Croitorul din insula Metilene",
+    "full": "Sfântul Cuvios Mucenic Gheorghe Croitorul din insula Metilene",
+    "short": "Gheorghe Croitorul din insula Metilene",
+    "given": "Gheorghe"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a1b99ec1-cad6-4bc2-9f24-b77b0a522cba",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "vasile-of-priluki",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Vasile de Priluki",
+    "short": "Vasile de Priluki",
+    "given": "Vasile"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/186533f3-f976-430f-96b2-abd61a8da895",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1a5136d5-f17d-4069-b11c-f6f59ca9059c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

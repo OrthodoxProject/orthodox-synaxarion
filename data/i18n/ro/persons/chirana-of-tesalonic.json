@@ -1,0 +1,21 @@
+{
+  "id": "chirana-of-tesalonic",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Nouă Mc. Chirana din Tesalonic",
+    "full": "Sfânta Nouă Muceniță Chirana din Tesalonic",
+    "short": "Chirana din Tesalonic",
+    "given": "Chirana"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/af12b060-4925-4269-8959-423c3290c166",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

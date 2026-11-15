@@ -1,0 +1,21 @@
+{
+  "id": "mihail-of-rusia-4",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Mihail (Borisov) din Rusia",
+    "full": "Sfântul Sfințit Nou Mucenic Mihail (Borisov) din Rusia",
+    "short": "Mihail (Borisov) din Rusia",
+    "given": "Mihail"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d3cf6078-3647-4f9c-a036-21244e378104",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

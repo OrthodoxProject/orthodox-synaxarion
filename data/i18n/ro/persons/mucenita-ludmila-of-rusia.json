@@ -1,0 +1,20 @@
+{
+  "id": "mucenita-ludmila-of-rusia",
+  "locale": "ro",
+  "names": {
+    "display": "Cuvioasa Mc. Mucenița Ludmila (Petrova) din Rusia",
+    "short": "Mucenița Ludmila (Petrova) din Rusia",
+    "given": "Mucenița"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/68d9176e-278e-4f5e-9b4a-2de198069cfd#3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

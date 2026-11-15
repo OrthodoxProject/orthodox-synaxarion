@@ -1,0 +1,26 @@
+{
+  "id": "tertulin--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:tertulin"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 4
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/fdc2e294-e56b-464f-a8f1-523ab7a645b4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "virie-of-constantinopol--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:virie-of-constantinopol"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 29
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/dc15b414-0fd4-4f50-8536-cb88673aaacb",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

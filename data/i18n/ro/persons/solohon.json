@@ -1,0 +1,20 @@
+{
+  "id": "solohon",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Solohon",
+    "short": "Solohon",
+    "given": "Solohon"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/583f511f-f5d6-435f-bf2d-7c5474ea121d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

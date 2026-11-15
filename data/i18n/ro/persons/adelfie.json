@@ -1,0 +1,21 @@
+{
+  "id": "adelfie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Adelfie, stareț la Remiremont în Franța",
+    "full": "Sfântul Cuvios Adelfie, stareț la Remiremont în Franța",
+    "short": "Adelfie, stareț la Remiremont în Franța",
+    "given": "Adelfie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/972ddb11-9683-4667-8fe7-662ce1d4a33e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

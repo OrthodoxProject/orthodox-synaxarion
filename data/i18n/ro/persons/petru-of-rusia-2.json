@@ -1,0 +1,20 @@
+{
+  "id": "petru-of-rusia-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Petru (Popov) din Rusia",
+    "short": "Petru (Popov) din Rusia",
+    "given": "Petru"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/587c1be5-8d77-463c-9441-540a1da98b49",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

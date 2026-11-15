@@ -1,0 +1,21 @@
+{
+  "id": "cynwl",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Cynwl, pustnic din Franța",
+    "full": "Sfântul Cuvios Cynwl, pustnic din Franța",
+    "short": "Cynwl, pustnic din Franța",
+    "given": "Cynwl"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/bb2750e1-2c47-48f8-8e59-4ed342215080",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

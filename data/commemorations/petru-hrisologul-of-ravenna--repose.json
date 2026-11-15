@@ -1,0 +1,26 @@
+{
+  "id": "petru-hrisologul-of-ravenna--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:petru-hrisologul-of-ravenna"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 2
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/87a8d0fe-11be-4980-879e-d2a7b1ebcfc4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

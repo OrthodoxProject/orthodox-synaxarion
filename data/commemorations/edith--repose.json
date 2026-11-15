@@ -1,0 +1,26 @@
+{
+  "id": "edith--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:edith"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 15
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f5137297-389f-4a22-bb0a-dfe240505f2e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

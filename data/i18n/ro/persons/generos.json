@@ -1,0 +1,21 @@
+{
+  "id": "generos",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Generos",
+    "full": "Sfântul Mucenic Generos",
+    "short": "Generos",
+    "given": "Generos"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f7b8bedb-e2d4-493a-90f2-735b0c202f87",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

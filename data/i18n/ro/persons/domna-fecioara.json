@@ -1,0 +1,20 @@
+{
+  "id": "domna-fecioara",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Domna fecioara",
+    "short": "Domna fecioara",
+    "given": "Domna"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c5a09b28-9c2c-40eb-873f-fc227553a6b9",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

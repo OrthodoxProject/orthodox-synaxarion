@@ -1,0 +1,20 @@
+{
+  "id": "phila-of-cornwall-in-anglia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Phila din Cornwall în Anglia",
+    "short": "Phila din Cornwall în Anglia",
+    "given": "Phila"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/90831937-d586-4b4a-a91d-c5be8c1e2a32",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

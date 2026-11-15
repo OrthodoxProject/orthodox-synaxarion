@@ -1,0 +1,26 @@
+{
+  "id": "teodot-of-canterbury--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:teodot-of-canterbury"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 14
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d5555b9e-9a47-41bf-8a8b-4239036021fe",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

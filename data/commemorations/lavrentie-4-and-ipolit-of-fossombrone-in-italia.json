@@ -1,0 +1,27 @@
+{
+  "id": "lavrentie-4-and-ipolit-of-fossombrone-in-italia",
+  "kind": "repose",
+  "subjects": [
+    "person:lavrentie-4",
+    "person:ipolit-of-fossombrone-in-italia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 2
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/639ff325-87a5-4ca3-8f6d-e37f29aaba0b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

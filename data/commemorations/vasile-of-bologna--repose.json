@@ -1,0 +1,26 @@
+{
+  "id": "vasile-of-bologna--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:vasile-of-bologna"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 6
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/866731a8-779f-4319-9915-ead0ef3f7a64",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

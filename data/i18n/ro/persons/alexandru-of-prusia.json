@@ -1,0 +1,21 @@
+{
+  "id": "alexandru-of-prusia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Alexandru, episcopul Prusiei în Bitinia",
+    "full": "Sfântul Sfințit Mucenic Alexandru, episcopul Prusiei în Bitinia",
+    "short": "Alexandru, episcopul Prusiei în Bitinia",
+    "given": "Alexandru"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/53c08bcc-3331-4d8f-9901-956dcf265ee4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

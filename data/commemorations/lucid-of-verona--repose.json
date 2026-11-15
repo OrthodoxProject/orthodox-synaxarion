@@ -1,0 +1,26 @@
+{
+  "id": "lucid-of-verona--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:lucid-of-verona"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 26
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/76e59d23-4b8e-4c0a-919d-62161326a705",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

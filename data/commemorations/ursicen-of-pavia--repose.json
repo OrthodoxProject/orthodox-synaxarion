@@ -1,0 +1,26 @@
+{
+  "id": "ursicen-of-pavia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:ursicen-of-pavia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 21
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b2f7a98f-2091-408c-9ab6-f55031ef73dc",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

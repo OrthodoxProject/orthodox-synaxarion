@@ -1,0 +1,20 @@
+{
+  "id": "agapie-7",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Agapie",
+    "short": "Agapie",
+    "given": "Agapie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4c269db6-baeb-47bb-937e-085d9bed0170",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

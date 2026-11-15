@@ -1,0 +1,21 @@
+{
+  "id": "hubert-of-maastricht",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Hubert, episcop de Maastricht în Olanda",
+    "full": "Sfântul Ierarh Hubert, episcop de Maastricht în Olanda",
+    "short": "Hubert, episcop de Maastricht în Olanda",
+    "given": "Hubert"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/15dad571-8696-4fda-aa27-3ce4dd17cbe7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

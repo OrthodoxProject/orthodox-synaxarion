@@ -1,0 +1,26 @@
+{
+  "id": "ioan-of-licos-in-egipt--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:ioan-of-licos-in-egipt"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 6
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5028c53c-3e94-4baf-8666-275021ddfe18",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

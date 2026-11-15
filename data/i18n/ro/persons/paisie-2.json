@@ -1,0 +1,26 @@
+{
+  "id": "paisie-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Paisie, nebun pentru Hristos de la Pecerska",
+    "full": "Sfântul Cuvios Paisie, nebun pentru Hristos de la Pecerska",
+    "short": "Paisie, nebun pentru Hristos de la Pecerska",
+    "given": "Paisie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1455",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1d3081aa-979b-4098-a6e0-7a2a8fe341ee",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

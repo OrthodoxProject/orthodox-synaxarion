@@ -1,0 +1,21 @@
+{
+  "id": "episcop-maruta-of-mesopotamia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Episcop Maruta din Mesopotamia",
+    "full": "Sfântul Sfințit Episcop Maruta din Mesopotamia",
+    "short": "Episcop Maruta din Mesopotamia",
+    "given": "Episcop"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6e286ccd-a44c-4377-b358-c2b21ceb6caf",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

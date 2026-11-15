@@ -1,0 +1,26 @@
+{
+  "id": "antonie-of-novgorod--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:antonie-of-novgorod"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 8
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/731597b8-e629-442b-8d72-2c8b7ba2b206",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

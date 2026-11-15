@@ -1,0 +1,26 @@
+{
+  "id": "martyrs-chelsie-fiul-guvernatorului-marchian",
+  "kind": "repose",
+  "subjects": [
+    "group:martyrs-chelsie-fiul-guvernatorului-marchian"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 8
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/bec11e85-7c07-4066-af1a-f7975d126591",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

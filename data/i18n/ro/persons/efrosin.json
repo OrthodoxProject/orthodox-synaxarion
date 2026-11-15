@@ -1,0 +1,20 @@
+{
+  "id": "efrosin",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Efrosin (Antonov), binecrediciosul creștin Iacov (Blatov) din Rusia",
+    "short": "Efrosin (Antonov), binecrediciosul creștin Iacov (Blatov) din Rusia",
+    "given": "Efrosin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e6ee1e53-b6ef-420d-8573-601c5a86e94c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

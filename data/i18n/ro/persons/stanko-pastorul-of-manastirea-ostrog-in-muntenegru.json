@@ -1,0 +1,21 @@
+{
+  "id": "stanko-pastorul-of-manastirea-ostrog-in-muntenegru",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Nou Mc. Stanko Păstorul din Mănăstirea Ostrog în Muntenegru",
+    "full": "Sfântul Nou Mucenic Stanko Păstorul din Mănăstirea Ostrog în Muntenegru",
+    "short": "Stanko Păstorul din Mănăstirea Ostrog în Muntenegru",
+    "given": "Stanko"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3709ca4f-3833-4b50-b5f1-bfbfc9600d36",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

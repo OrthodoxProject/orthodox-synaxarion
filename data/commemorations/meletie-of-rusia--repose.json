@@ -1,0 +1,26 @@
+{
+  "id": "meletie-of-rusia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:meletie-of-rusia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 15
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/24268d1f-2f53-4bab-a3e4-ee2f4b792ed0",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

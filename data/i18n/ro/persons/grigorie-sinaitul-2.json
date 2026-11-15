@@ -1,0 +1,26 @@
+{
+  "id": "grigorie-sinaitul-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Grigorie Sinaitul",
+    "full": "Sfântul Cuvios Grigorie Sinaitul",
+    "short": "Grigorie Sinaitul",
+    "given": "Grigorie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4884512c-6f81-401b-a290-9922ac5cd582",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/aa858ba0-bd34-4833-98cb-06e1799e0b1b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

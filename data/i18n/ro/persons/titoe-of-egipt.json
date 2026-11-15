@@ -1,0 +1,20 @@
+{
+  "id": "titoe-of-egipt",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Titoe din Egipt",
+    "short": "Titoe din Egipt",
+    "given": "Titoe"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5b49330f-8995-4355-a57c-b856f354358d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

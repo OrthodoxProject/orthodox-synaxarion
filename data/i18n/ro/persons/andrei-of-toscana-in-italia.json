@@ -1,0 +1,21 @@
+{
+  "id": "andrei-of-toscana-in-italia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Andrei din Toscana în Italia",
+    "full": "Sfântul Cuvios Andrei din Toscana în Italia",
+    "short": "Andrei din Toscana în Italia",
+    "given": "Andrei"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/55d63056-0131-4263-8662-33e99e95c4cc",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

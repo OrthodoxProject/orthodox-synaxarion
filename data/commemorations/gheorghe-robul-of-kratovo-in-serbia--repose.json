@@ -1,0 +1,26 @@
+{
+  "id": "gheorghe-robul-of-kratovo-in-serbia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:gheorghe-robul-of-kratovo-in-serbia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 11
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/fca9346e-4047-49f9-94f3-421074600c79",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "dalmatie-of-pavia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Dalmatie, episcop de Pavia în Italia",
+    "full": "Sfântul Mucenic Dalmatie, episcop de Pavia în Italia",
+    "short": "Dalmatie, episcop de Pavia în Italia",
+    "given": "Dalmatie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3498d940-d46d-4823-b5bc-d6d3b07cbbc7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

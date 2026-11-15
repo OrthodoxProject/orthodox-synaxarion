@@ -1,0 +1,21 @@
+{
+  "id": "eskil-of-stragnas",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Eskil, episcop de Stragnas în Suedia",
+    "full": "Sfântul Sfințit Mucenic Eskil, episcop de Stragnas în Suedia",
+    "short": "Eskil, episcop de Stragnas în Suedia",
+    "given": "Eskil"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ec8165b1-58c3-4645-9073-2c6200df7070",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

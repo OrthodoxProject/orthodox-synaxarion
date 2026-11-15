@@ -1,0 +1,21 @@
+{
+  "id": "vartolomeu-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Vartolomeu, ucenicul Sfântului Serghie de la Radonej",
+    "full": "Sfântul Cuvios Vartolomeu, ucenicul Sfântului Serghie de la Radonej",
+    "short": "Vartolomeu, ucenicul Sfântului Serghie de la Radonej",
+    "given": "Vartolomeu"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/523cd0f7-af3e-413d-a131-9d0e79da324f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "petru-51-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:petru-51",
+    "person:nicolae-68",
+    "person:nichita-7",
+    "person:grigorie-of-rusia-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 15
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/aa490eba-28d2-44c3-a6af-d05c2ec01595",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

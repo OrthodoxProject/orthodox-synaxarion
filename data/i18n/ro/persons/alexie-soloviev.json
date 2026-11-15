@@ -1,0 +1,21 @@
+{
+  "id": "alexie-soloviev",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Alexie Soloviev, ieroschimonahul din Schitul lui Zosima în Rusia",
+    "full": "Sfântul Cuvios Alexie Soloviev, ieroschimonahul din Schitul lui Zosima în Rusia",
+    "short": "Alexie Soloviev, ieroschimonahul din Schitul lui Zosima în Rusia",
+    "given": "Alexie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d62bd56b-078c-40f9-9ceb-8f9582011eac",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "auxebie-of-soli",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Auxebie, episcop de Soli în Cipru",
+    "full": "Sfântul Ierarh Auxebie, episcop de Soli în Cipru",
+    "short": "Auxebie, episcop de Soli în Cipru",
+    "given": "Auxebie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9b281cd0-4d15-44f3-a5ff-cf1f0d957db9",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

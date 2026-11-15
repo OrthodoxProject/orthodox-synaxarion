@@ -1,0 +1,21 @@
+{
+  "id": "bertrand-of-le",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Bertrand, episcop de Le Mans în Franța",
+    "full": "Sfântul Ierarh Bertrand, episcop de Le Mans în Franța",
+    "short": "Bertrand, episcop de Le Mans în Franța",
+    "given": "Bertrand"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9789631d-1eff-4322-8445-b26f16dac4ab",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

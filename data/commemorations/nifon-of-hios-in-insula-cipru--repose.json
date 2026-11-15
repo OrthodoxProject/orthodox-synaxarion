@@ -1,0 +1,26 @@
+{
+  "id": "nifon-of-hios-in-insula-cipru--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:nifon-of-hios-in-insula-cipru"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 28
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9ec0d4b4-6758-4d89-8121-a967f12344d1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

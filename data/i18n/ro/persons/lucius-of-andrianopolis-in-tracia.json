@@ -1,0 +1,21 @@
+{
+  "id": "lucius-of-andrianopolis-in-tracia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Lucius din Andrianopolis în Tracia",
+    "full": "Sfântul Sfințit Mucenic Lucius din Andrianopolis în Tracia",
+    "short": "Lucius din Andrianopolis în Tracia",
+    "given": "Lucius"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5d062337-50a6-40cb-aba9-65a88105e4f1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

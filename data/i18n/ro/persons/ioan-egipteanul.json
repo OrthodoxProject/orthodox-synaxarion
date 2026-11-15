@@ -1,0 +1,20 @@
+{
+  "id": "ioan-egipteanul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Ioan Egipteanul",
+    "short": "Ioan Egipteanul",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b3201868-6535-4bf2-a228-0221b3a03e60",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "talaleu-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Talaleu",
+    "short": "Talaleu",
+    "given": "Talaleu"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ebbbd0dd-5398-48bf-a6f4-2712b345c561",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

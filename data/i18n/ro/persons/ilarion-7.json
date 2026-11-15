@@ -1,0 +1,21 @@
+{
+  "id": "ilarion-7",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ilarion, egumenul Mănăstirii Lacul-Pskov în Rusia",
+    "full": "Sfântul Cuvios Ilarion, egumenul Mănăstirii Lacul-Pskov în Rusia",
+    "short": "Ilarion, egumenul Mănăstirii Lacul-Pskov în Rusia",
+    "given": "Ilarion"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/72c62be9-f1d0-43bc-927c-58c617a49aa0",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

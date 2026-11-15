@@ -1,0 +1,26 @@
+{
+  "id": "martin-of-tarachin--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:martin-of-tarachin"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 12
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/edb04fea-d2d8-4aef-acde-04813c223727",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

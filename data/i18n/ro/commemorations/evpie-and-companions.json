@@ -1,0 +1,18 @@
+{
+  "id": "evpie-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici Evpie, Iosif, Felix, Secundulus și Iuliu din Sicilia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1dc94a10-9a89-40c3-a881-bdef3d777b97",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "iustin-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Iustin, primul episcop al orașului Chieti din Italia",
+    "full": "Sfântul Ierarh Iustin, primul episcop al orașului Chieti din Italia",
+    "short": "Iustin, primul episcop al orașului Chieti din Italia",
+    "given": "Iustin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/030deff0-e862-445b-b0be-d119cffd5548",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

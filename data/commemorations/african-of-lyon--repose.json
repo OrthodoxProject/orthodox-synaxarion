@@ -1,0 +1,26 @@
+{
+  "id": "african-of-lyon--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:african-of-lyon"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 28
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/14978d98-905e-4dba-a7d0-eb5d973a1a05",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

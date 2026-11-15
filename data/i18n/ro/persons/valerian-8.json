@@ -1,0 +1,20 @@
+{
+  "id": "valerian-8",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Valerian",
+    "short": "Valerian",
+    "given": "Valerian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/58d69dc2-e459-473e-9af5-c762e7bd9140",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

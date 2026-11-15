@@ -1,0 +1,27 @@
+{
+  "id": "valentin-of-terracino-and-damian-5",
+  "kind": "repose",
+  "subjects": [
+    "person:valentin-of-terracino",
+    "person:damian-5"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 16
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0851e481-4fa3-4892-aec5-7547814585aa",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

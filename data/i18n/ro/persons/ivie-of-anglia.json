@@ -1,0 +1,21 @@
+{
+  "id": "ivie-of-anglia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ivie din Anglia",
+    "full": "Sfântul Cuvios Ivie din Anglia",
+    "short": "Ivie din Anglia",
+    "given": "Ivie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/17c66fcd-21c9-4501-a0e4-3bc41e482d5e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

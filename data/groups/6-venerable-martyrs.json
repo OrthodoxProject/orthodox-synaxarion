@@ -1,0 +1,25 @@
+{
+  "id": "6-venerable-martyrs",
+  "kind": "martyrs",
+  "count": {
+    "value": 6,
+    "precision": "exact"
+  },
+  "holiness_types": [
+    "venerable_martyr"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a0037eb0-b92a-4015-ace5-77f53404ee1f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

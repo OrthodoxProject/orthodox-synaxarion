@@ -1,0 +1,21 @@
+{
+  "id": "martin-of-galia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Martin, episcopul Galiei",
+    "full": "Sfântul Cuvios Martin, episcopul Galiei",
+    "short": "Martin, episcopul Galiei",
+    "given": "Martin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/73e0e8ca-bdb9-4438-8502-e8097067deaa",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "crescent-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Crescent",
+    "short": "Crescent",
+    "given": "Crescent"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ff2ebcde-8dff-4160-acdd-17979ccee803",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

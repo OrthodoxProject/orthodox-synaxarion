@@ -1,0 +1,21 @@
+{
+  "id": "iona-of-novgorod",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Iona, arhiepiscop de Novgorod în Rusia",
+    "full": "Sfântul Ierarh Iona, arhiepiscop de Novgorod în Rusia",
+    "short": "Iona, arhiepiscop de Novgorod în Rusia",
+    "given": "Iona"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1d492e49-09e2-4db3-9f0b-ede21db7ed89",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

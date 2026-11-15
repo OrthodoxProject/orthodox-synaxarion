@@ -1,0 +1,26 @@
+{
+  "id": "aurelie-of-cartagina--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:aurelie-of-cartagina"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 20
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ef38d8a8-ca14-4267-bec0-a33f3b916dc4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

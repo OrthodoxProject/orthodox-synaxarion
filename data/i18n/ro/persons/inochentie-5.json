@@ -1,0 +1,20 @@
+{
+  "id": "inochentie-5",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Inochentie (Kikin)",
+    "short": "Inochentie (Kikin)",
+    "given": "Inochentie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/760c8e05-a27c-4efb-beb7-a4089245ec56",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

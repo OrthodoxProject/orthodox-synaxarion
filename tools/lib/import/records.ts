@@ -4,14 +4,14 @@
  * records are kept as they are; existing calendar days get the new lines after
  * their own.
  */
-import { addCitation, addRef, extraKeys, firstOfList, holinessCompatible, knownByPlace, newSlot, numeralOf, personScore, placeKeys, type Cluster, type GroupSubject, type Slot, type SlotName } from "./cluster.ts";
+import { addCitation, addRef, extraKeys, firstOfList, gendersDiffer, holinessCompatible, knownByPlace, newSlot, numeralOf, personScore, placeKeys, type Cluster, type GroupSubject, type Slot, type SlotName } from "./cluster.ts";
 import type { Existing, ExistingLine } from "./existing.ts";
 import { FEASTS } from "./feasts.ts";
 import type { HolinessType, NamePart, ParsedTitle } from "./model.ts";
-import { fold, givenSimilarity, skeleton, slugify } from "./names.ts";
+import { fold, givenSimilarity, levenshtein, nameSimilarity, skeleton, slugify } from "./names.ts";
 import { parseEn } from "./en.ts";
 import { parseRo } from "./ro.ts";
-import type { BuildResult, LineDraft } from "./build.ts";
+import { COMMON_KEYS, COUNTRY_KEYS, REFERENCE_SOURCES, holinessAgreesStrictly, placesDisagree, type BuildResult, type LineDraft } from "./build.ts";
 import { mmdd, type Citation, type Family } from "./units.ts";
 
 type Rec = Record<string, any>;
@@ -31,6 +31,7 @@ const SOURCE_NAMES: Record<string, string> = {
   "src:armenianchurch-ge": "armenianchurch.ge",
   "src:orthodox-calendar": "orthodox-calendar",
   "src:wikipedia": "Wikipedia",
+  "src:calendar-ortodox-md": "calendar.ortodox.md",
 };
 
 function importNote(citations: Citation[]): string {
@@ -206,8 +207,11 @@ export class RecordWriter {
     return slot;
   }
 
-  /** The person a title names, searched in the whole calendar of the family; `day` is the day of the line that names it. */
-  private findBest(p: ParsedTitle, lang: "ro" | "en", family: Family, day?: string): Slot | undefined {
+  /**
+   * The person a title names, searched in the whole calendar of the family; `day` is the day of the line that names it.
+   * `whole`: only a person of the whole name (see wholeNameAgrees).
+   */
+  private findBest(p: ParsedTitle, lang: "ro" | "en", family: Family, day?: string, whole = false): Slot | undefined {
     // The relics of "Venerable Zosimas and Sabbatius of Solovki" are those of Zosimas of Solovki: the first name of a
     // list takes the place that closes it, or every Venerable Zosimas would match alike.
     const part = firstOfList(p.names);
@@ -243,6 +247,16 @@ export class RecordWriter {
         score = Math.max(score, personScore(part, other.part, true));
         compared = other;
       }
+      // A saint named by his whole name may be found by his name in either language: "Sf. Cuv. Dimitrie Basarabov" is the
+      // "Saint Demetrius of Basarabov" whose Romanian name is "Sf. Cuv. Dimitrie cel Nou, Ocrotitorul Bucureștilor".
+      if (whole && name && other) {
+        const across = personScore(part, other.part, true);
+        if (across > score) {
+          score = across;
+          compared = other;
+        }
+      }
+      if (whole && compared && !wholeNameAgrees(part, slot, compared, compared === name, holiness)) continue;
       if (!holinessCompatible(holiness, slot.holiness)) score -= 0.3;
       // "Sfântul Mare Mucenic Gheorghe" is the great martyr, not a new martyr of the same name.
       if (holiness.size > 0 && [...holiness].every((h) => slot.holiness.has(h))) score += 0.1;
@@ -261,6 +275,16 @@ export class RecordWriter {
     // Persia, whom the OCA keeps that day, not those of the Venerable Martyr Evdochia of 1 March.
     if (second && second.score >= best.score - 0.05 && best.score < 1.15) {
       const tied = scored.filter((x) => x.score >= best.score - 0.05);
+      // Persons that fit a saint of calendar.ortodox.md alike: the one whose names hold the words of his own in the line
+      // ("Alexandru (Urodov)", "Dimitrie Basarabov"), or none; of several, the one another source keeps too (the OCA's
+      // "Saint Demetrius of Basarabov", not another line of the same site).
+      const words = whole ? ownWords(p.title, part.given) : [];
+      if (words.length > 0) {
+        const named = tied.filter((x) => x.sameName && holdsWords(x.slot, words));
+        if (named.length === 1 && named[0]) return named[0].slot;
+        const known = named.filter((x) => !x.slot.late && !(x.slot.citations.length > 0 && x.slot.citations.every((c) => REFERENCE_SOURCES.has(c.source))));
+        return known.length === 1 && known[0] ? known[0].slot : undefined;
+      }
       // The Coptic Synaxarium, the one source of its family, names a saint alone one way: the saint it means by a name
       // that several bear ("St. George" is the Great Martyr, see BARE_NAMES), or else the saint who bears the name as it
       // is written, not one whose name only sounds alike ("Demiana" is not Damianos nor Damian, "Mercurius" not Marcura).
@@ -296,18 +320,25 @@ export class RecordWriter {
 
   /** The person the titles of a commemoration name; `from` is the commemoration, whose sources tell of a new person. */
   private resolve(titles: ParsedTitle[], family: Family, day?: string, from?: Cluster): Slot | undefined {
+    // calendar.ortodox.md writes in Romanian, and names a saint whose relics it keeps by his whole name.
+    const moldovan = from !== undefined && from.units.length > 0 && from.units.every((u) => u.source === "ortodoxmd");
+    const langOf = (title: string): "ro" | "en" => (moldovan || /[ăâîșțĂÂÎȘȚ]|Sfânt|Sf\.|Cuvios|Mucenic/.test(title) ? "ro" : "en");
     for (const t of titles) {
-      const lang = /[ăâîșțĂÂÎȘȚ]|Sfânt|Sf\.|Cuvios|Mucenic/.test(t.title) ? "ro" : "en";
-      const found = this.findBest(t, lang, family, day);
+      const found = this.findBest(t, langOf(t.title), family, day, moldovan);
       if (found) return found;
     }
     // Not found: a new person, known only through this commemoration — if the line names a saint at all.
     const t = titles.find((x) => x.names.length > 0 && (x.honorific !== "" || x.holiness.length > 0));
     const part = t?.names[0];
     if (!t || !part) return undefined;
-    const lang = /[ăâîșțĂÂÎȘȚ]|Sfânt|Sf\.|Cuvios|Mucenic/.test(t.title) ? "ro" : "en";
+    const lang = langOf(t.title);
     const slot = newSlot(family);
-    const display = lang === "ro" ? t.title.replace(/^Sfântul\b/, "Sf.").replace(/^Sfânta\b/, "Sf.") : t.title;
+    // "Aflarea moaștelor Fericitului Andrei din Simbirsk": the saint is "Fericitul Andrei din Simbirsk".
+    const nominative = (s: string): string => s.replace(/(?<![\p{L}])(Fericitului|Fericitei|Binecredinciosului|Binecredincioasei)(?![\p{L}])/gu, (w) => MD_NOMINATIVE[w] ?? w);
+    const title = moldovan ? nominative(t.title) : t.title;
+    // One saint of a list is that saint alone: "Sf. Cuv. Alexandra, Marta și Elena din Diveievo" → "Sf. Cuv. Alexandra".
+    const own = moldovan && t.names.length > 1 ? nominative(`${t.honorific} ${part.text}`.trim()) : title;
+    const display = lang === "ro" ? own.replace(/^Sfântul\b/, "Sf.").replace(/^Sfânta\b/, "Sf.") : own;
     slot[lang] = { part, display: display.replace(/\.$/, ""), short: part.text, variants: new Set() };
     for (const h of t.holiness) slot.holiness.add(h);
     if (t.gender) slot.gender = t.gender;
@@ -461,7 +492,49 @@ export class RecordWriter {
     for (const [pid, slot] of persons) this.writePerson(pid, slot);
     for (const [gid, { g, family }] of groups) this.writeGroup(gid, g, family);
     this.writeCalendars();
+    this.writeReferences();
     return { files: this.files, stats: this.stats };
+  }
+
+  /**
+   * The links of the sources of references (see REFERENCE_SOURCES) on the existing records their lines matched: the
+   * commemoration, its group or icon, and the persons the line names. Nothing else of these records changes.
+   */
+  private writeReferences(): void {
+    const only = (list: Citation[]): Citation[] => list.filter((x) => REFERENCE_SOURCES.has(x.source));
+    for (const c of this.existing.clusters.values()) {
+      const cites = only(c.citations);
+      if (!c.existingComm || cites.length === 0) continue;
+      this.addSources("commemorations", c.existingComm, cites);
+      const rec = this.existing.dataset.records.get("commemorations")?.get(c.existingComm);
+      for (const subject of (rec?.subjects ?? []) as string[]) {
+        const [prefix, id] = subject.split(":");
+        if (prefix === "group" && id) this.addSources("groups", id, cites);
+        if (prefix === "icon" && id) this.addSources("icons", id, cites);
+      }
+    }
+    for (const slot of this.existing.persons.values()) {
+      const cites = only(slot.citations);
+      if (slot.existingPerson && cites.length > 0) this.addSources("persons", slot.existingPerson, cites);
+    }
+  }
+
+  /** Adds citations to the sources of an existing record, once; the record is written only when it changes. */
+  private addSources(collection: "commemorations" | "persons" | "groups" | "icons", id: string, cites: Citation[]): void {
+    const path = `${collection}/${id}.json`;
+    const rec = this.files.get(path) ?? this.existing.dataset.records.get(collection)?.get(id);
+    if (!rec) return;
+    // The record's own citations stay as they are; the new ones follow them.
+    const sources = [...((rec.sources ?? []) as Citation[])];
+    let added = 0;
+    for (const x of dedupeCitations(cites)) {
+      if (sources.some((s) => s.source === x.source && s.url === x.url)) continue;
+      sources.push(x);
+      added++;
+    }
+    if (added === 0) return;
+    this.files.set(path, { ...rec, sources });
+    this.count(`references.${collection}`, added);
   }
 
   private editorial(citations: Citation[], confidence: "low" | "medium", extra: string[] = []): Rec {
@@ -848,3 +921,68 @@ function eventWords(title: string): string {
     .join(" ");
 }
 
+
+const MARTYRS = new Set<HolinessType>(["martyr", "great_martyr", "hieromartyr", "venerable_martyr", "new_martyr"]);
+
+/**
+ * The words of a saint's title that tell him apart, folded: the capitalised words after his first name and before a
+ * comma, but not the countries and common words ("Sf. Cuv. Mărt. Alexandru (Urodov)" → "urodov", "Sf. Cuv. Dimitrie
+ * Basarabov" → "basarabov"; "Sf. Ap. Filip" → none).
+ */
+function ownWords(title: string, given: string): string[] {
+  const at = title.indexOf(given);
+  if (at < 0) return [];
+  const rest = title.slice(at + given.length).split(/[,;]/)[0] ?? "";
+  return [...new Set([...rest.matchAll(/\p{Lu}[\p{L}-]{2,}/gu)].map((m) => fold(m[0])).filter((w) => !COMMON_WORDS.has(w)))];
+}
+
+const COMMON_WORDS = new Set(["rusia", "grecia", "italia", "georgia", "anglia", "irlanda", "franta", "egipt", "siria", "palestina", "serbia", "bulgaria", "moldova", "romania", "ucraina", "spania", "germania", "turcia", "cipru", "constantinopol", "domnului", "hristos"]);
+
+/** Whether the names of a person hold every word, as written or nearly ("Mecev" / "Meciov", "Anzersk" / "Anzer"). */
+function holdsWords(slot: Slot, words: string[]): boolean {
+  const own = fold(`${slot.ro?.display ?? ""} ${slot.ro?.full ?? ""} ${slot.en?.display ?? ""}`).split(/[^a-z]+/).filter((w) => w.length >= 3);
+  const alike = (w: string, v: string): boolean => v.slice(0, 3) === w.slice(0, 3) && (v.startsWith(w) || w.startsWith(v) || levenshtein(w, v) <= Math.max(2, Math.floor(w.length / 3)));
+  return words.every((w) => own.some((v) => alike(w, v)));
+}
+
+/** The honorifics that a relics line of calendar.ortodox.md leaves in the genitive, in the nominative. */
+const MD_NOMINATIVE: Record<string, string> = { Fericitului: "Fericitul", Fericitei: "Fericita", Binecredinciosului: "Binecredinciosul", Binecredincioasei: "Binecredincioasa" };
+
+/**
+ * Whether a person of the whole calendar is the saint whose relics calendar.ortodox.md names, by the whole name: the
+ * same first name (the name keys make "Iosif" and "Ioasaf" alike; "Evdochia" is "Eudochia", "Dalmatie" "Dalmat"), or
+ * the same name in the other language; no other place, number or epithet in either language of the person ("Iov de la
+ * Anzersk" is not "Iov de la Poceaev", "Matrona din Moscova" not the "Sf. Cuv. Matrona" who is "Venerable Matrona of
+ * Constantinople"); the same kind of holiness ("Binecredinciosul Teodor, cneaz de Smolensk" is not the priest "Teodor
+ * Mărturisitorul din Iaroslav").
+ */
+function wholeNameAgrees(part: NamePart, slot: Slot, compared: SlotName, sameLanguage: boolean, holiness: Set<HolinessType>): boolean {
+  const other = compared.part;
+  if (sameLanguage) {
+    const [a, b] = [fold(part.given), fold(other.given)].sort((x, y) => x.length - y.length) as [string, string];
+    // One letter apart ("Evdochia", "Iacov"), but not the last vowel, which tells a woman from a man ("Alexandra" is not
+    // "Alexandru").
+    const [endA, endB] = [a.slice(-1), b.slice(-1)];
+    const near = levenshtein(a, b) <= 1 && !(endA !== endB && /[aeiou]/.test(endA) && /[aeiou]/.test(endB));
+    if (givenSimilarity(part, other) < 1 || (!near && !(a.length >= 5 && b.startsWith(a) && b.length - a.length <= 2))) return false;
+  } else if (givenSimilarity(part, other) < 1) return false;
+  if (gendersDiffer(part, other)) return false;
+  if (holiness.size > 0 && slot.holiness.size > 0 && !holinessAgreesStrictly(holiness, slot.holiness)) return false;
+  // A monk is not a martyr who is not a monk ("Sf. Cuv. Matrona din Moscova" is not "Sf. Nouă Mc. Matroana"), and the
+  // other way round; a name with no word of either says nothing ("Sf. Sfințit Tadeu", "Sf. Mărt. Agatanghel").
+  const martyr = (h: Set<HolinessType>): boolean => [...h].some((x) => MARTYRS.has(x));
+  const monk = (h: Set<HolinessType>): boolean => h.has("venerable") || h.has("venerable_martyr");
+  const onlyMonk = (h: Set<HolinessType>): boolean => monk(h) && !martyr(h);
+  const onlyMartyr = (h: Set<HolinessType>): boolean => martyr(h) && !monk(h);
+  if ((onlyMonk(holiness) && onlyMartyr(slot.holiness)) || (onlyMartyr(holiness) && onlyMonk(slot.holiness))) return false;
+  const names = [slot.ro?.part, slot.en?.part].filter((n): n is NamePart => n !== undefined);
+  if (names.some((n) => numeralOf(n) !== undefined && numeralOf(part) !== undefined && numeralOf(n) !== numeralOf(part))) return false;
+  // A place in either language that agrees is enough; every one that disagrees is another saint.
+  const placed = names.filter((n) => placeKeys(n).some((k) => !COUNTRY_KEYS.has(k)));
+  if (placed.length > 0 && placed.every((n) => placesDisagree(part, n))) return false;
+  const own = (n: NamePart): string[] => extraKeys(n).filter((k) => !COMMON_KEYS.has(k) && !COUNTRY_KEYS.has(k));
+  const ka = own(part);
+  const kb = names.flatMap(own);
+  const alike = (x: string, y: string): boolean => x === y || nameSimilarity(x, y) >= 0.6 || (Math.min(x.length, y.length) >= 3 && (x.includes(y) || y.includes(x)));
+  return ka.length === 0 || kb.length === 0 || ka.some((x) => kb.some((y) => alike(x, y)));
+}

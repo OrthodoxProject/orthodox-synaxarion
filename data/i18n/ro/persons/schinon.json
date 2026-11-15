@@ -1,0 +1,21 @@
+{
+  "id": "schinon",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Schinon",
+    "full": "Sfântul Mucenic Schinon",
+    "short": "Schinon",
+    "given": "Schinon"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e71e58ed-8e1d-4d6e-b7d2-ae7ef76da16e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

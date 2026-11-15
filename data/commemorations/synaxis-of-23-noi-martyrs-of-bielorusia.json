@@ -1,0 +1,26 @@
+{
+  "id": "synaxis-of-23-noi-martyrs-of-bielorusia",
+  "kind": "synaxis",
+  "subjects": [
+    "group:23-noi-martyrs-of-bielorusia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 15
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f1543314-1710-489c-b04c-d39e4774b0cd",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

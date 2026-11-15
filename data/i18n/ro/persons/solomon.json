@@ -1,0 +1,20 @@
+{
+  "id": "solomon",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Solomon",
+    "short": "Solomon",
+    "given": "Solomon"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f43e02f8-cfe1-47d3-9034-3b34c99dc96c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ulfrid",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Ulfrid, încreștinătorul Suediei",
+    "full": "Sfântul Mucenic Ulfrid, încreștinătorul Suediei",
+    "short": "Ulfrid, încreștinătorul Suediei",
+    "given": "Ulfrid"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/dd68407c-ce67-4bc6-87e2-26bea8bb4c1f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

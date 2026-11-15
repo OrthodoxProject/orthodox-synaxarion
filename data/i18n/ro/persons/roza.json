@@ -1,0 +1,20 @@
+{
+  "id": "roza",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Roza",
+    "short": "Roza",
+    "given": "Roza"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c091c7cc-6db1-414f-84af-0f4ab2e97b15",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

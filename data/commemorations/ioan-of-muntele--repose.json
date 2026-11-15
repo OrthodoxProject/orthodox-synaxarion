@@ -1,0 +1,26 @@
+{
+  "id": "ioan-of-muntele--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:ioan-of-muntele"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 12
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6e1a937b-60ee-44fe-84e4-b24112fb49b2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

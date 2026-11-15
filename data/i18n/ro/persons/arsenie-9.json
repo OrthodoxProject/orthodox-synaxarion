@@ -1,0 +1,21 @@
+{
+  "id": "arsenie-9",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Arsenie",
+    "full": "Sfântul Arsenie",
+    "short": "Arsenie",
+    "given": "Arsenie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b015cfc9-0413-43e9-9aa3-4a2c6e9a2cf6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

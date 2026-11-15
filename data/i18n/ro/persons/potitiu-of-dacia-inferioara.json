@@ -1,0 +1,21 @@
+{
+  "id": "potitiu-of-dacia-inferioara",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Potițiu din Dacia Inferioară",
+    "full": "Sfântul Mucenic Potițiu din Dacia Inferioară",
+    "short": "Potițiu din Dacia Inferioară",
+    "given": "Potițiu"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f246399d-c3f4-4036-aa38-9fa38d8959ed",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

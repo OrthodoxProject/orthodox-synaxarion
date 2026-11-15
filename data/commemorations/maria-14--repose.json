@@ -1,0 +1,26 @@
+{
+  "id": "maria-14--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:maria-14"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 29
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1a2e26e6-dcd2-419a-9990-11e7de98d5d1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "tomaida-egipteanca-of-alexandria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Tomaida Egipteanca, din Alexandria",
+    "full": "Sfânta Muceniță Tomaida Egipteanca, din Alexandria",
+    "short": "Tomaida Egipteanca, din Alexandria",
+    "given": "Tomaida"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/315",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "haduin-of-le--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:haduin-of-le"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 20
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/81443e1d-3c92-4ad4-adf0-3ce97a90d386",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

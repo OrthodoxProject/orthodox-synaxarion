@@ -1,0 +1,26 @@
+{
+  "id": "iosif-i-of-constantinopol--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:iosif-i-of-constantinopol"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 30
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/21a7eb8b-bfe9-4311-9084-561a3794a77b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

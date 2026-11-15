@@ -1,0 +1,21 @@
+{
+  "id": "avgul-of-britania",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Avgul, episcop de Britania",
+    "full": "Sfântul Sfințit Mucenic Avgul, episcop de Britania",
+    "short": "Avgul, episcop de Britania",
+    "given": "Avgul"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/85b204ab-f5db-44c0-8400-1cd2395b84ba",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

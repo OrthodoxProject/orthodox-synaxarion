@@ -1,0 +1,20 @@
+{
+  "id": "martirie-diaconul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Martirie Diaconul",
+    "short": "Martirie Diaconul",
+    "given": "Martirie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7b5901c4-31be-40c0-acd2-c5106ca07520",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

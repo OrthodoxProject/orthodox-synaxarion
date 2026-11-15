@@ -1,0 +1,20 @@
+{
+  "id": "maria-11",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințită Nouă Mc. Maria (Neizvesna)",
+    "short": "Maria (Neizvesna)",
+    "given": "Maria"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/689",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

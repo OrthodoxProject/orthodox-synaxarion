@@ -1,0 +1,21 @@
+{
+  "id": "landeric",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Landeric, monah la Novalese în Italia",
+    "full": "Sfântul Cuvios Mucenic Landeric, monah la Novalese în Italia",
+    "short": "Landeric, monah la Novalese în Italia",
+    "given": "Landeric"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e9f238f0-35d2-4000-b0e0-e2e02ea14e79",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

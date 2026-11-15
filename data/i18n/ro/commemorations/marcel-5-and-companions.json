@@ -1,0 +1,18 @@
+{
+  "id": "marcel-5-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici Marcel, Cast, Emil și Saturnin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d2b2bf07-3193-465b-b6c4-8cbcac9947b8",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

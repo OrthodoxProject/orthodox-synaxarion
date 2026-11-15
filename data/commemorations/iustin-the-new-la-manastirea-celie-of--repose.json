@@ -1,0 +1,26 @@
+{
+  "id": "iustin-the-new-la-manastirea-celie-of--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:iustin-the-new-la-manastirea-celie-of"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 25
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5560112a-56be-4d79-aeb3-df1678936dc7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

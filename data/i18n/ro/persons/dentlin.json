@@ -1,0 +1,21 @@
+{
+  "id": "dentlin",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Dentlin, fiul Sfintei Waldetrudis din Belgia",
+    "full": "Sfântul Dentlin, fiul Sfintei Waldetrudis din Belgia",
+    "short": "Dentlin, fiul Sfintei Waldetrudis din Belgia",
+    "given": "Dentlin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0929644a-0ce6-4972-ae36-e8f01f5c8c42",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

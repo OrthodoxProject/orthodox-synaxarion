@@ -1,0 +1,28 @@
+{
+  "id": "peregrin-of-terni-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:peregrin-of-terni",
+    "person:ilarie-of-pavia",
+    "person:carantac-of-irlanda"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 16
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e2ba1802-2d56-41f1-a4e2-a00e02886b28",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

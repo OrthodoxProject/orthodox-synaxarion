@@ -1,0 +1,21 @@
+{
+  "id": "patamon-of-heraclia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Patamon, episcop de Heraclia în Egipt",
+    "full": "Sfântul Sfințit Mucenic Patamon, episcop de Heraclia în Egipt",
+    "short": "Patamon, episcop de Heraclia în Egipt",
+    "given": "Patamon"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d0ec33ce-ca55-4897-ac27-2c15b9ffbc8c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

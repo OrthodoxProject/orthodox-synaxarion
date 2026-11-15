@@ -1,0 +1,27 @@
+{
+  "id": "dimitrie-of-gdov-and-nicolae-of-rusia-8",
+  "kind": "repose",
+  "subjects": [
+    "person:dimitrie-of-gdov",
+    "person:nicolae-of-rusia-8"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 6
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f646b0fb-d6ef-4699-9332-c757652edd30",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

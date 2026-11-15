@@ -1,0 +1,21 @@
+{
+  "id": "abundie-copistul-of-roma",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Abundie copistul din Roma",
+    "full": "Sfântul Abundie copistul din Roma",
+    "short": "Abundie copistul din Roma",
+    "given": "Abundie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/abbf62a4-6bd0-40c4-812c-a5dbab029de8",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

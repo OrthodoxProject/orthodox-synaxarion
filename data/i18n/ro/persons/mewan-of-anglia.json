@@ -1,0 +1,21 @@
+{
+  "id": "mewan-of-anglia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mewan din Anglia, egumen la Saint-Mâen în Franța",
+    "full": "Sfântul Cuvios Mewan din Anglia, egumen la Saint-Mâen în Franța",
+    "short": "Mewan din Anglia, egumen la Saint-Mâen în Franța",
+    "given": "Mewan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8f5dbdd4-be74-4377-ab9c-150c2a173440",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

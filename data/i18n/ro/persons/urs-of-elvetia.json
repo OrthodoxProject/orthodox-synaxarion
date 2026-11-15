@@ -1,0 +1,20 @@
+{
+  "id": "urs-of-elvetia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Urs din Elveția",
+    "short": "Urs din Elveția",
+    "given": "Urs"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/430e864e-8a48-443a-8d7e-3964b8adffbc",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

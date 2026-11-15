@@ -1,0 +1,26 @@
+{
+  "id": "hariton-4--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:hariton-4"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 9
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/46a0c533-42ac-4c74-915e-dcb99ab848b5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "7-martyrs-of-gaza",
+  "locale": "ro",
+  "names": {
+    "display": "Sfintele 7 Mucenițe din Gaza"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/aaf657af-6e02-4185-ba21-77ee24094d31",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

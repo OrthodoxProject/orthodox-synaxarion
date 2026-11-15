@@ -1,0 +1,20 @@
+{
+  "id": "serafion",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Serafion",
+    "short": "Serafion",
+    "given": "Serafion"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/151",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

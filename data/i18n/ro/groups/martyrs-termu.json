@@ -1,0 +1,18 @@
+{
+  "id": "martyrs-termu",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici Termu"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/be0cb17c-2352-4938-b77e-75c4047eb923",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

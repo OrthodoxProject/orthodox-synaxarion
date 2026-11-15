@@ -1,0 +1,20 @@
+{
+  "id": "ilarie-of-arles",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ilarie, episcop de Arles în Franța",
+    "short": "Ilarie, episcop de Arles în Franța",
+    "given": "Ilarie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/78ceb7c0-baca-4997-832d-e1aac5b37859",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

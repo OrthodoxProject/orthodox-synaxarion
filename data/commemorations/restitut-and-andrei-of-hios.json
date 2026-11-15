@@ -1,0 +1,27 @@
+{
+  "id": "restitut-and-andrei-of-hios",
+  "kind": "repose",
+  "subjects": [
+    "person:restitut",
+    "person:andrei-of-hios"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 29
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b5d9ac5c-0cdc-4934-89cc-6f309ed40391",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

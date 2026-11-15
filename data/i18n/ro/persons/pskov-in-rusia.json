@@ -1,0 +1,20 @@
+{
+  "id": "pskov-in-rusia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Pskov în Rusia",
+    "short": "Pskov în Rusia",
+    "given": "Pskov"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/920",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

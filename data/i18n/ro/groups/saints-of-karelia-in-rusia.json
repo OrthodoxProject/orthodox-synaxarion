@@ -1,0 +1,18 @@
+{
+  "id": "saints-of-karelia-in-rusia",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții din Karelia în Rusia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8c7e9b16-056f-464c-9e06-4078da3496d0",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "iulia-of-cartagina",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Iulia din Cartagina",
+    "full": "Sfânta Muceniță Iulia din Cartagina",
+    "short": "Iulia din Cartagina",
+    "given": "Iulia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/872dbb46-885f-42e3-ab7c-4dddaf5f0f28",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

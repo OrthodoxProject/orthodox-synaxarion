@@ -1,0 +1,26 @@
+{
+  "id": "pontian-of-roma--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:pontian-of-roma"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 19
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0b3519bd-0f1a-4f23-841d-ae58e54a5c32",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

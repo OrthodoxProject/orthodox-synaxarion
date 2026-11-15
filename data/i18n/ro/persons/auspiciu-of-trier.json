@@ -1,0 +1,21 @@
+{
+  "id": "auspiciu-of-trier",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Auspiciu, episcop de Trier în Germania",
+    "full": "Sfântul Ierarh Auspiciu, episcop de Trier în Germania",
+    "short": "Auspiciu, episcop de Trier în Germania",
+    "given": "Auspiciu"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/669a3747-d07d-4d17-987d-2125f98e3d0a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

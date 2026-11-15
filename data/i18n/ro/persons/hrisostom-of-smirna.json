@@ -1,0 +1,21 @@
+{
+  "id": "hrisostom-of-smirna",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Hrisostom, mitropolitul Smirnei",
+    "full": "Sfântul Sfințit Nou Mucenic Hrisostom, mitropolitul Smirnei",
+    "short": "Hrisostom, mitropolitul Smirnei",
+    "given": "Hrisostom"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d6a94c21-2f37-417f-90e2-ae4ac4de29db",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

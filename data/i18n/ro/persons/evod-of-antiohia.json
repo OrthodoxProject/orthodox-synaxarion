@@ -1,0 +1,20 @@
+{
+  "id": "evod-of-antiohia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ap. Evod, episcopul Antiohiei",
+    "short": "Evod, episcopul Antiohiei",
+    "given": "Evod"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1488",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

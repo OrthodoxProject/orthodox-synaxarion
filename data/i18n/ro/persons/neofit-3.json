@@ -1,0 +1,20 @@
+{
+  "id": "neofit-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Neofit",
+    "short": "Neofit",
+    "given": "Neofit"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7acfa800-dca4-4fc2-8492-b12422c679be",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

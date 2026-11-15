@@ -1,0 +1,18 @@
+{
+  "id": "venerable-2-martyrs",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Cuvioși 2 Mucenici"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/096b607b-408e-4f2d-a78f-0e0a0b69d5db",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

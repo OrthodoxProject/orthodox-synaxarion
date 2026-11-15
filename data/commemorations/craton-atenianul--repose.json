@@ -1,0 +1,26 @@
+{
+  "id": "craton-atenianul--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:craton-atenianul"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 15
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c45f4222-1709-4093-9b02-3adf95508ca7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

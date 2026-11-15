@@ -1,0 +1,21 @@
+{
+  "id": "zinon-of-egipt",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Zinon din Egipt, ucenicul Avvei Siluan",
+    "full": "Sfântul Cuvios Zinon din Egipt, ucenicul Avvei Siluan",
+    "short": "Zinon din Egipt, ucenicul Avvei Siluan",
+    "given": "Zinon"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d67ea1a3-4b15-430c-b797-dc9b4d72fb95",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

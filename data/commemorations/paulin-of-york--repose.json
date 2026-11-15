@@ -1,0 +1,26 @@
+{
+  "id": "paulin-of-york--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:paulin-of-york"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 10
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f10261f8-82e6-4503-b871-29de4eafec2d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

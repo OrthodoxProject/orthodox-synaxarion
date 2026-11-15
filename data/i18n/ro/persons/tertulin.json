@@ -1,0 +1,21 @@
+{
+  "id": "tertulin",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Tertulin, preot din Roma",
+    "full": "Sfântul Sfințit Mucenic Tertulin, preot din Roma",
+    "short": "Tertulin, preot din Roma",
+    "given": "Tertulin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/fdc2e294-e56b-464f-a8f1-523ab7a645b4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

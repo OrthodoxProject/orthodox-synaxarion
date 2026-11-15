@@ -1,0 +1,20 @@
+{
+  "id": "ioan-of-rusia-10",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Ioan (Kalinin) din Rusia",
+    "short": "Ioan (Kalinin) din Rusia",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2e58bfd7-7883-422f-bb8f-095108c367ac",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

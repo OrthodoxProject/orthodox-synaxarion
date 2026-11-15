@@ -1,0 +1,21 @@
+{
+  "id": "chiril-filosoful-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Chiril Filosoful, fratele său, cei întocmai cu Apostolii și luminătorii slavilor",
+    "full": "Sfântul Cuvios Chiril Filosoful, fratele său, cei întocmai cu Apostolii și luminătorii slavilor",
+    "short": "Chiril Filosoful, fratele său, cei întocmai cu Apostolii, luminătorii slavilor",
+    "given": "Chiril"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/385#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

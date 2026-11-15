@@ -1,0 +1,21 @@
+{
+  "id": "sabin-of-piacenza",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Sabin, episcop de Piacenza și făcător de minuni din Italia",
+    "full": "Sfântul Ierarh Sabin, episcop de Piacenza și făcător de minuni din Italia",
+    "short": "Sabin, episcop de Piacenza, făcător de minuni din Italia",
+    "given": "Sabin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9b980882-a1f1-4a49-9ef2-c461c389257f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

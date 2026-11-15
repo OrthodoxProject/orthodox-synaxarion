@@ -1,0 +1,21 @@
+{
+  "id": "valentin-of-trier",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Valentin, episcop de Trier în Germania",
+    "full": "Sfântul Sfințit Mucenic Valentin, episcop de Trier în Germania",
+    "short": "Valentin, episcop de Trier în Germania",
+    "given": "Valentin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/926a7157-6d68-4b75-89c8-610e0a2193da",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

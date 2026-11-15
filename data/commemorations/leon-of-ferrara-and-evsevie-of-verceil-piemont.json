@@ -1,0 +1,27 @@
+{
+  "id": "leon-of-ferrara-and-evsevie-of-verceil-piemont",
+  "kind": "repose",
+  "subjects": [
+    "person:leon-of-ferrara",
+    "person:evsevie-of-verceil-piemont"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 1
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/970b3e15-460c-40a1-b4f8-d5108dce7668",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

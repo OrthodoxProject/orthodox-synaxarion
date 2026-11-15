@@ -1,0 +1,21 @@
+{
+  "id": "aetius-famenul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Aetius famenul, luminătorul Etiopiei",
+    "full": "Sfântul Aetius famenul, luminătorul Etiopiei",
+    "short": "Aetius famenul, luminătorul Etiopiei",
+    "given": "Aetius"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f6362347-8257-4ac8-8cdc-8b127450d5aa",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

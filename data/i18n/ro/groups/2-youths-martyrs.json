@@ -1,0 +1,18 @@
+{
+  "id": "2-youths-martyrs",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții 2 tineri Mucenici"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ce89119f-74ef-42f8-9d5b-da46aa177dfc",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "amand-of-besancon",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Amand, episcop de Besancon în Franța",
+    "full": "Sfântul Ierarh Amand, episcop de Besancon în Franța",
+    "short": "Amand, episcop de Besancon în Franța",
+    "given": "Amand"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7eee0145-cd50-4624-9e27-db00754aadc0",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

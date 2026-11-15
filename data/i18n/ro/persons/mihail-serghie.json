@@ -1,0 +1,20 @@
+{
+  "id": "mihail-serghie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Mihail (Kiselev) Serghie (Țvetkov)",
+    "short": "Mihail (Kiselev) Serghie (Țvetkov)",
+    "given": "Mihail"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c4fbbd37-0598-41ec-9854-df0b71096b8e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

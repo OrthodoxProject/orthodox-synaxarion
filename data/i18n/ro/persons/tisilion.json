@@ -1,0 +1,20 @@
+{
+  "id": "tisilion",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Tisilion",
+    "short": "Tisilion",
+    "given": "Tisilion"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d5eb620e-3240-484d-aa4d-aff46cab87c6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

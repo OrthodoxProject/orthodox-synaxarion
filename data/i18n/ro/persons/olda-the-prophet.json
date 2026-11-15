@@ -1,0 +1,21 @@
+{
+  "id": "olda-the-prophet",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Proorociță Olda (VII î.d.Hr)",
+    "full": "Sfânta Proorociță Olda (VII î.d.Hr)",
+    "short": "Olda",
+    "given": "Olda"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9b04a6ee-f606-4205-a168-cbb28681abd1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

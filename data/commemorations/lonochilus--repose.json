@@ -1,0 +1,26 @@
+{
+  "id": "lonochilus--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:lonochilus"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 2
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/07b0a745-ba44-4216-8121-0ee7e46372f4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

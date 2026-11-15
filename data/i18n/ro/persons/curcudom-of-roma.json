@@ -1,0 +1,20 @@
+{
+  "id": "curcudom-of-roma",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Curcudom din Roma",
+    "short": "Curcudom din Roma",
+    "given": "Curcudom"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/14867c6f-499d-474b-a22a-8729a7573560",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

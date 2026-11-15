@@ -1,0 +1,26 @@
+{
+  "id": "reticus-of-autun--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:reticus-of-autun"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 20
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/125de1c7-1f9d-44df-8c80-672d262d9687",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

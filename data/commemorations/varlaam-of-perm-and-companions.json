@@ -1,0 +1,28 @@
+{
+  "id": "varlaam-of-perm-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:varlaam-of-perm",
+    "person:alexandru-7",
+    "person:alexie-of-rusia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 7
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a56592fa-9878-4131-8763-a43cff83a415",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

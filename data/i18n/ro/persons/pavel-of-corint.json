@@ -1,0 +1,21 @@
+{
+  "id": "pavel-of-corint",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Pavel, episcopul Corintului, fratele Sfântului Ierarh Petru, episcopul Argosului și purtătorul de semne",
+    "full": "Sfântul Ierarh Pavel, episcopul Corintului, fratele Sfântului Ierarh Petru, episcopul Argosului și purtătorul de semne",
+    "short": "Pavel, episcopul Corintului, fratele Sfântului Ierarh Petru, episcopul Argosului, purtătorul de semne",
+    "given": "Pavel"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/37b77a03-e120-4d8a-9bc2-ed9f1876422c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

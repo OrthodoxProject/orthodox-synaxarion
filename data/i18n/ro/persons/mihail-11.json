@@ -1,0 +1,21 @@
+{
+  "id": "mihail-11",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Mihail, nebun pentru Hristos de la Mănăstirea „Macarie Romanul” de lângă Lezna în Rusia",
+    "full": "Sfântul Mucenic Mihail, nebun pentru Hristos de la Mănăstirea „Macarie Romanul” de lângă Lezna în Rusia",
+    "short": "Mihail, nebun pentru Hristos de la Mănăstirea „Macarie Romanul” de lângă Lezna în Rusia",
+    "given": "Mihail"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5d50bd2a-718b-47b2-b3b4-aeaa522d6e77",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

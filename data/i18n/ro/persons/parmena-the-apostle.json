@@ -1,0 +1,21 @@
+{
+  "id": "parmena-the-apostle",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ap. Parmena, unul din cei 7 diaconi",
+    "full": "Sfântul Apostol Parmena, unul din cei 7 diaconi",
+    "short": "Parmena, unul din cei 7 diaconi",
+    "given": "Parmena"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/73e3c380-d8d4-45f7-a4e1-d75127d77d87",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

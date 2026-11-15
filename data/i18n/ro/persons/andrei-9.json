@@ -1,0 +1,21 @@
+{
+  "id": "andrei-9",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Andrei, pustnic din Muntele Zobar în Ungaria",
+    "full": "Sfântul Cuvios Andrei, pustnic din Muntele Zobar în Ungaria",
+    "short": "Andrei, pustnic din Muntele Zobar în Ungaria",
+    "given": "Andrei"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/84a20bb3-e722-4e06-9c8e-86cec12a5763",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

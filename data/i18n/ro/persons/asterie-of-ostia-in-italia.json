@@ -1,0 +1,21 @@
+{
+  "id": "asterie-of-ostia-in-italia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Asterie din Ostia în Italia",
+    "full": "Sfântul Sfințit Mucenic Asterie din Ostia în Italia",
+    "short": "Asterie din Ostia în Italia",
+    "given": "Asterie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/bc9d2b4d-e1c4-4546-8f1f-a1a73bc71c12",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

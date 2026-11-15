@@ -1,0 +1,26 @@
+{
+  "id": "miron-of-iraklion--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:miron-of-iraklion"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 22
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a9e76b46-3946-4cf0-a44a-7e3ba6bc7084",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

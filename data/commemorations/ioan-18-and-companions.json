@@ -1,0 +1,33 @@
+{
+  "id": "ioan-18-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:ioan-18",
+    "person:mihail-6",
+    "person:alexie-5",
+    "person:nicolae-12",
+    "person:alexie-6",
+    "person:simeon-11",
+    "person:pavel-12",
+    "person:sofia-of-rusia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 15
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2445a78c-69d4-47b3-ba87-a7fe0a3cd735",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

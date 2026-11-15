@@ -1,0 +1,20 @@
+{
+  "id": "marcel-of-apamia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. MARCEL, episcopul Apamiei Ciprului",
+    "short": "MARCEL, episcopul Apamiei Ciprului",
+    "given": "MARCEL"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7e9c7735-397a-4dbe-a2e7-e53538f7d429",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "83-martyrs-soldati-of-amiterne-in-italia",
+  "kind": "repose",
+  "subjects": [
+    "group:83-martyrs-soldati-of-amiterne-in-italia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 24
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9e041507-93d1-41e6-a3fa-de888bd21e88",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

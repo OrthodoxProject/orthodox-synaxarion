@@ -1,0 +1,26 @@
+{
+  "id": "nicolae-of-ierusalim-in-tara--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:nicolae-of-ierusalim-in-tara"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 19
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9e9c6836-4dac-438c-8ab7-f71c8e8c0dce",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

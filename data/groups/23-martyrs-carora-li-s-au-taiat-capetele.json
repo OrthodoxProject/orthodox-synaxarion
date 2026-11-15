@@ -1,0 +1,25 @@
+{
+  "id": "23-martyrs-carora-li-s-au-taiat-capetele",
+  "kind": "martyrs",
+  "count": {
+    "value": 23,
+    "precision": "exact"
+  },
+  "holiness_types": [
+    "martyr"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/956d15dd-319a-40ee-99b8-c039dcf6f05d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

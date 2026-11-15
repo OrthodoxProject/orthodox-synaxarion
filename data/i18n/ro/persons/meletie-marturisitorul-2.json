@@ -1,0 +1,21 @@
+{
+  "id": "meletie-marturisitorul-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Meletie Mărturisitorul",
+    "full": "Sfântul Cuvios Meletie Mărturisitorul",
+    "short": "Meletie Mărturisitorul",
+    "given": "Meletie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ebe95017-772d-4258-a4eb-1f20ad27ab23",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

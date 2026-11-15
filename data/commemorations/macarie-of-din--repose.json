@@ -1,0 +1,26 @@
+{
+  "id": "macarie-of-din--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:macarie-of-din"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 10
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/93a658fa-7ce6-4100-a594-3be25e538589",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

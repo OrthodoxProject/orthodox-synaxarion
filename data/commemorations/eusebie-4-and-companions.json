@@ -1,0 +1,29 @@
+{
+  "id": "eusebie-4-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:eusebie-4",
+    "person:nestavu",
+    "person:zinon-7",
+    "person:nestor-marturisitorul"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 21
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4e0ffc1d-f446-4386-9d9b-d1804300ca7b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

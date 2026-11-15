@@ -1,0 +1,21 @@
+{
+  "id": "atanasie-vrajitorul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Atanasie vrăjitorul",
+    "full": "Sfântul Mucenic Atanasie vrăjitorul",
+    "short": "Atanasie vrăjitorul",
+    "given": "Atanasie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c2358471-2d25-4b56-b36b-81d7be6ac915",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

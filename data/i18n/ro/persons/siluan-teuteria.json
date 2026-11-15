@@ -1,0 +1,20 @@
+{
+  "id": "siluan-teuteria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Siluan Teuteria",
+    "short": "Siluan Teuteria",
+    "given": "Siluan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3ec8848f-629b-49d3-886a-69f138af4411",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

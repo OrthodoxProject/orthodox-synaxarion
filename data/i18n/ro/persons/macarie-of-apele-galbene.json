@@ -1,0 +1,21 @@
+{
+  "id": "macarie-of-apele-galbene",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Macarie, egumenul Mănăstirii cea de la Apele Galbene (Jeltovodsk-Ujensk) în Rusia",
+    "full": "Sfântul Cuvios Macarie, egumenul Mănăstirii cea de la Apele Galbene (Jeltovodsk-Ujensk) în Rusia",
+    "short": "Macarie, egumenul Mănăstirii cea de la Apele Galbene (Jeltovodsk-Ujensk) în Rusia",
+    "given": "Macarie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1150",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

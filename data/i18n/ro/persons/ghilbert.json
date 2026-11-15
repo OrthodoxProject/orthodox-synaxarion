@@ -1,0 +1,20 @@
+{
+  "id": "ghilbert",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ghilbert",
+    "short": "Ghilbert",
+    "given": "Ghilbert"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/cc338673-a0da-437d-b98f-6fb1d967cfef",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

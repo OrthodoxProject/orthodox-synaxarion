@@ -1,0 +1,27 @@
+{
+  "id": "cedronie-of-alexandria-and-fortunat-of-napoli",
+  "kind": "repose",
+  "subjects": [
+    "person:cedronie-of-alexandria",
+    "person:fortunat-of-napoli"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 15
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/59478957-60de-4d10-9d3d-cb6336128fca",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

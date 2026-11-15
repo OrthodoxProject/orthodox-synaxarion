@@ -1,0 +1,20 @@
+{
+  "id": "felician-of-vienne-in-galia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Felician de la Vienne în Galia",
+    "short": "Felician de la Vienne în Galia",
+    "given": "Felician"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f1f8a53b-595d-43dd-a6fd-802bb4151606",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

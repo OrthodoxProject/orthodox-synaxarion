@@ -1,0 +1,20 @@
+{
+  "id": "chifa-of-colonia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ap. Chifa, episcop de Colonia",
+    "short": "Chifa, episcop de Colonia",
+    "given": "Chifa"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1022",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

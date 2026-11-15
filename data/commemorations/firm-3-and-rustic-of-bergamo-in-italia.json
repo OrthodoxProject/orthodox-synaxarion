@@ -1,0 +1,27 @@
+{
+  "id": "firm-3-and-rustic-of-bergamo-in-italia",
+  "kind": "repose",
+  "subjects": [
+    "person:firm-3",
+    "person:rustic-of-bergamo-in-italia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 9
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c8516be4-dc0a-4799-8bfd-486cd5acc48b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

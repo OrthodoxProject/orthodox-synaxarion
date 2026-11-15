@@ -1,0 +1,26 @@
+{
+  "id": "meletie-of-palestina--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:meletie-of-palestina"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 3
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/dcbd76ac-53fd-4df6-a5ef-01dfceab3715",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

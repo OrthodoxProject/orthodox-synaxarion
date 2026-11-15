@@ -1,0 +1,35 @@
+{
+  "id": "partenie-of-ananyevsk-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:partenie-of-ananyevsk",
+    "person:alexie-33",
+    "person:dimitrie-10",
+    "person:victor-21",
+    "person:teodor-33",
+    "person:constantin-19",
+    "person:nestor-5",
+    "person:constantin-20",
+    "person:ilie-11",
+    "person:iosif-of-rusia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 9
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e6e25911-bc1a-41ba-a6f7-0b39901e2374",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

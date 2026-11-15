@@ -1,0 +1,20 @@
+{
+  "id": "chira",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Chira",
+    "short": "Chira",
+    "given": "Chira"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/03c954b2-0a01-461d-82e6-a3d6a4dd4a19",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

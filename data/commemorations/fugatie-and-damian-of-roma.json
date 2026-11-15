@@ -1,0 +1,27 @@
+{
+  "id": "fugatie-and-damian-of-roma",
+  "kind": "repose",
+  "subjects": [
+    "person:fugatie",
+    "person:damian-of-roma"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 26
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/86ede971-6fa0-497c-b238-3af7f16e697d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

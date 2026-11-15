@@ -1,0 +1,29 @@
+{
+  "id": "apolonie-4-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:apolonie-4",
+    "person:alexandrion",
+    "person:epimah-3",
+    "person:onisim"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 6
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/bb6dfe99-ed1d-4230-8f85-dc4923654d3e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

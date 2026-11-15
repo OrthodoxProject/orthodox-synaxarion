@@ -1,0 +1,18 @@
+{
+  "id": "venerable-gluvias",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Cuvioși Gluvias"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ad1905f2-51f6-4757-a2db-02e76e146285",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

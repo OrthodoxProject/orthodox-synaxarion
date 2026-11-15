@@ -1,0 +1,34 @@
+{
+  "id": "alexandru-72-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:alexandru-72",
+    "person:ioan-111",
+    "person:vladimir-36",
+    "person:alexandru-iacob",
+    "person:alexie-41",
+    "person:grigore-2",
+    "person:nicolae-85",
+    "person:emilian-8",
+    "person:vasile-of-rusia-5"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 13
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a4865ce8-0a73-4324-97dd-d25d6d72ce16",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

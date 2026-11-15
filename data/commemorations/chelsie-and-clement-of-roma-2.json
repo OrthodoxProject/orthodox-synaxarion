@@ -1,0 +1,27 @@
+{
+  "id": "chelsie-and-clement-of-roma-2",
+  "kind": "repose",
+  "subjects": [
+    "person:chelsie",
+    "person:clement-of-roma-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 21
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b948b87d-54fe-43be-829d-bdfb4f1595b4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

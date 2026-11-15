@@ -1,0 +1,21 @@
+{
+  "id": "roman-6",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Roman, ostaș din Roma",
+    "full": "Sfântul Mucenic Roman, ostaș din Roma",
+    "short": "Roman, ostaș din Roma",
+    "given": "Roman"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/04e4a3de-0e23-4f0a-8bd2-9bd271f43117",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

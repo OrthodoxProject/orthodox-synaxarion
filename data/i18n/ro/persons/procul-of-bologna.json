@@ -1,0 +1,21 @@
+{
+  "id": "procul-of-bologna",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Procul, episcop de Bologna în Italia",
+    "full": "Sfântul Sfințit Mucenic Procul, episcop de Bologna în Italia",
+    "short": "Procul, episcop de Bologna în Italia",
+    "given": "Procul"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/67607ee8-6df5-4e09-9b5e-db8f8633fceb",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

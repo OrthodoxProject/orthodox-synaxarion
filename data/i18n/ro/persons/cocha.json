@@ -1,0 +1,21 @@
+{
+  "id": "cocha",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Cocha, stareță la Ross-Benchuir în Irlanda",
+    "full": "Sfânta Cuvioasă Cocha, stareță la Ross-Benchuir în Irlanda",
+    "short": "Cocha, stareță la Ross-Benchuir în Irlanda",
+    "given": "Cocha"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/440e3e8e-720a-4e0e-9845-9e7f2932f642",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

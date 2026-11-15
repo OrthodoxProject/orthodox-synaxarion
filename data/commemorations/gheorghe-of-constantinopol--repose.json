@@ -1,0 +1,26 @@
+{
+  "id": "gheorghe-of-constantinopol--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:gheorghe-of-constantinopol"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 11
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/004d09ea-49b0-405a-91e0-68ec40b02e58",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "adalbert",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Adalbert, arhiepiescop de Magdelburg în Germania",
+    "full": "Sfântul Ierarh Adalbert, arhiepiescop de Magdelburg în Germania",
+    "short": "Adalbert, arhiepiescop de Magdelburg în Germania",
+    "given": "Adalbert"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/df65a831-d8bc-4977-868a-c3a12538e40f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "mavru-of-roma",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Mavru din Roma",
+    "full": "Sfântul Mucenic Mavru din Roma",
+    "short": "Mavru din Roma",
+    "given": "Mavru"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4851e45c-67f3-4bc6-a45f-80006177ae9e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

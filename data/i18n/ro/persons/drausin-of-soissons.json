@@ -1,0 +1,21 @@
+{
+  "id": "drausin-of-soissons",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Drausin, episcop de Soissons în Franța",
+    "full": "Sfântul Ierarh Drausin, episcop de Soissons în Franța",
+    "short": "Drausin, episcop de Soissons în Franța",
+    "given": "Drausin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4141ae2f-043f-40d0-aa99-e39e58f4de74",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

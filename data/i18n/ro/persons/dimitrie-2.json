@@ -1,0 +1,21 @@
+{
+  "id": "dimitrie-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Dimitrie, preot din Paris",
+    "full": "Sfântul Dimitrie, preot din Paris",
+    "short": "Dimitrie, preot din Paris",
+    "given": "Dimitrie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/73e27e46-a836-4dad-8a44-3aa08a10f309",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

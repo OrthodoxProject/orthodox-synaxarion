@@ -1,0 +1,21 @@
+{
+  "id": "pavel-of-sens",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Pavel, episcop de Sens în Franța",
+    "full": "Sfântul Ierarh Pavel, episcop de Sens în Franța",
+    "short": "Pavel, episcop de Sens în Franța",
+    "given": "Pavel"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b152687d-4eba-4391-b8d1-9da01196762b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

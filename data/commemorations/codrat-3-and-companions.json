@@ -1,0 +1,28 @@
+{
+  "id": "codrat-3-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:codrat-3",
+    "person:teodosie-3",
+    "person:emanuil-of-gotia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 26
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/49fabf1a-ab93-48d4-a9c0-1c23e06b5180",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "erkemboden-of-detherouanne",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Erkemboden, episcop deTherouanne în Franța",
+    "full": "Sfântul Ierarh Erkemboden, episcop deTherouanne în Franța",
+    "short": "Erkemboden, episcop deTherouanne în Franța",
+    "given": "Erkemboden"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f392a832-ef29-40a0-a64d-1b16c7d33381",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

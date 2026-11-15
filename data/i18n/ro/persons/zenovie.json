@@ -1,0 +1,20 @@
+{
+  "id": "zenovie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Zenovie (Sutormin)",
+    "short": "Zenovie (Sutormin)",
+    "given": "Zenovie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d7e5ec0b-c251-47d9-ade4-fbaf4e5b295f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

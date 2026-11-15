@@ -1,0 +1,26 @@
+{
+  "id": "godeberta--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:godeberta"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 11
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9b336506-8f41-49ec-965f-c9ecb2428d03",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "chiril-of-ierusalim--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:chiril-of-ierusalim"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 7
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9cf74bfa-8d8a-4f04-b3b3-0ba67066f409",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

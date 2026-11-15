@@ -1,0 +1,26 @@
+{
+  "id": "ilie-the-new-of-damasc--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:ilie-the-new-of-damasc"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 1
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1d86b5d7-f48b-47c2-9858-9dc1d01b5ddb",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

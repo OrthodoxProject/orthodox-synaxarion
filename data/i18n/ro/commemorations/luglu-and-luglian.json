@@ -1,0 +1,18 @@
+{
+  "id": "luglu-and-luglian",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici Luglu și Luglian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d1a1dd01-be57-46ae-b336-ebf3ef2b4e9c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

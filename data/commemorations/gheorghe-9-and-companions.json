@@ -1,0 +1,33 @@
+{
+  "id": "gheorghe-9-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:gheorghe-9",
+    "person:ioan-40",
+    "person:pavel-25",
+    "person:nicolae-28",
+    "person:alexie-13",
+    "person:ioan-41",
+    "person:nichita-6",
+    "person:dimitrie-of-rusia-3"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 21
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d56a3e99-2afc-40dd-8ef7-bcce91a3827d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

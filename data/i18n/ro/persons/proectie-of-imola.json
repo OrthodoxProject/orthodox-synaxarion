@@ -1,0 +1,21 @@
+{
+  "id": "proectie-of-imola",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Proectie, episcop de Imola în Italia",
+    "full": "Sfântul Ierarh Proectie, episcop de Imola în Italia",
+    "short": "Proectie, episcop de Imola în Italia",
+    "given": "Proectie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7d289fa3-3470-4f61-9fea-952893b9799f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

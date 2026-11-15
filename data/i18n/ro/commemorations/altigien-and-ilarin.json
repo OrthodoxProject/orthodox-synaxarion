@@ -1,0 +1,18 @@
+{
+  "id": "altigien-and-ilarin",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Cuvioși Mucenici Altigien și Ilarin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b9eced39-3757-4092-8e9c-4759609800ef",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

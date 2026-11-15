@@ -1,0 +1,20 @@
+{
+  "id": "nichifor-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Nichifor",
+    "short": "Nichifor",
+    "given": "Nichifor"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7ee0858a-491e-40eb-b981-cd6a007624c9",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "nectarie-of-yaransk-2-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:nectarie-of-yaransk-2",
+    "person:gheorghe-11",
+    "person:roman-8",
+    "person:petru-28",
+    "person:victor-of-rusia-3"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 26
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/495093b1-c1ea-48ae-affe-64ce5330dbe5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

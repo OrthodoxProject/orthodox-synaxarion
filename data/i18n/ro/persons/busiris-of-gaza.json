@@ -1,0 +1,21 @@
+{
+  "id": "busiris-of-gaza",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Busiris din Gaza",
+    "full": "Sfântul Mucenic Busiris din Gaza",
+    "short": "Busiris din Gaza",
+    "given": "Busiris"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4a639082-36b1-4227-bdd4-bac15d61e798",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

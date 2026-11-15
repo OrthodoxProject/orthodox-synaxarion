@@ -1,0 +1,21 @@
+{
+  "id": "afrodisie-of-palestina",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Afrodisie din Palestina, ucenicul Sfântului Sava cel Sfințit",
+    "full": "Sfântul Cuvios Afrodisie din Palestina, ucenicul Sfântului Sava cel Sfințit",
+    "short": "Afrodisie din Palestina, ucenicul Sfântului Sava cel Sfințit",
+    "given": "Afrodisie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/fc4796d2-c868-42a2-a7bd-d63a01dbf40e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

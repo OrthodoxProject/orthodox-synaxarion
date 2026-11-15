@@ -1,0 +1,33 @@
+{
+  "id": "moldova",
+  "family": "eastern_orthodox",
+  "parent": "russian",
+  "status": "self_governing",
+  "calendar_style": "julian",
+  "paschalion": "julian",
+  "countries": [
+    "MD"
+  ],
+  "languages": [
+    "ro",
+    "ru"
+  ],
+  "liturgical_languages": [
+    "ro",
+    "cu"
+  ],
+  "default_locale": "ro",
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/detailed/RO/"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Calendarul pe zile e importat automat din calendar.ortodox.md (portalul „Moldova Ortodoxă”), pe stil vechi: pomenirile cu zi fixă. Paștile și Duminica Tomii sunt ca în calendarul rusesc. De verificat cu calendarul tipărit al Mitropoliei Chișinăului și a întregii Moldove."
+    ]
+  }
+}

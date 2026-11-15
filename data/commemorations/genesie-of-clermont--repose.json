@@ -1,0 +1,26 @@
+{
+  "id": "genesie-of-clermont--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:genesie-of-clermont"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 3
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/744d3511-a3a1-42e5-890b-2a4e948dfcf5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

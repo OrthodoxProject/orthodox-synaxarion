@@ -1,0 +1,27 @@
+{
+  "id": "nichifor-of-sebazeea-in-bitinia-and-nichita-2",
+  "kind": "repose",
+  "subjects": [
+    "person:nichifor-of-sebazeea-in-bitinia",
+    "person:nichita-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 29
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d0b2d606-8cff-4218-ae13-d75a6b72e408",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

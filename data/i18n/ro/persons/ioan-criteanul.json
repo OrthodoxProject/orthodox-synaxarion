@@ -1,0 +1,21 @@
+{
+  "id": "ioan-criteanul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ioan Criteanul, pustnic în Muntele Miriokefalon",
+    "full": "Sfântul Cuvios Ioan Criteanul, pustnic în Muntele Miriokefalon",
+    "short": "Ioan Criteanul, pustnic în Muntele Miriokefalon",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/dd661fc8-1164-4ccb-93df-5e7afbafdff8",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

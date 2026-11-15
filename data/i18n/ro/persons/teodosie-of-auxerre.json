@@ -1,0 +1,21 @@
+{
+  "id": "teodosie-of-auxerre",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Teodosie, episcop de Auxerre în Franța",
+    "full": "Sfântul Ierarh Teodosie, episcop de Auxerre în Franța",
+    "short": "Teodosie, episcop de Auxerre în Franța",
+    "given": "Teodosie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/68faaffb-97ac-4cbf-b7e0-716eca2b1f1c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

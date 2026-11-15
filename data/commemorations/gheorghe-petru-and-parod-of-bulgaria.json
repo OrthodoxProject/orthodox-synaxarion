@@ -1,0 +1,27 @@
+{
+  "id": "gheorghe-petru-and-parod-of-bulgaria",
+  "kind": "repose",
+  "subjects": [
+    "person:gheorghe-petru",
+    "person:parod-of-bulgaria"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 28
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f59db32e-2f9c-472b-816f-40884fe87807",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "cadwaldar--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:cadwaldar"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 12
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/fbb11632-125b-4c98-8e1c-cd034341dc69",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

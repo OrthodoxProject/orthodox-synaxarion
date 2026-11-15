@@ -1,0 +1,20 @@
+{
+  "id": "geminian-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Geminian",
+    "short": "Geminian",
+    "given": "Geminian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e34858bf-387d-41dd-9cae-9e777c04fa32",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

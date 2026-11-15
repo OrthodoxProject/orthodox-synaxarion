@@ -1,0 +1,18 @@
+{
+  "id": "evelpist-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici Iust, Iustin, Hariton, Evelpist, Ierax, Peon, Valerian și Harita fecioara"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a32bcf66-0252-44f2-9ce6-5efa88952417",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

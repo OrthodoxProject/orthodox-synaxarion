@@ -1,0 +1,26 @@
+{
+  "id": "alexandru-of-rusia-dimitrie--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:alexandru-of-rusia-dimitrie"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 4
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c0f52329-a2af-442a-975f-a21bc6f814a2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

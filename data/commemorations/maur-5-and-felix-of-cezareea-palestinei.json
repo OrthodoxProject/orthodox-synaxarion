@@ -1,0 +1,27 @@
+{
+  "id": "maur-5-and-felix-of-cezareea-palestinei",
+  "kind": "repose",
+  "subjects": [
+    "person:maur-5",
+    "person:felix-of-cezareea-palestinei"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 16
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0ef9b16c-4a8d-4958-9eb3-b6b76331d54f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

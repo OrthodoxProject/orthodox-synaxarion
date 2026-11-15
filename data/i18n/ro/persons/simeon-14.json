@@ -1,0 +1,20 @@
+{
+  "id": "simeon-14",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Simeon",
+    "short": "Simeon",
+    "given": "Simeon"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d41ddb1b-7f31-4c9c-9482-c43dbce342b3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

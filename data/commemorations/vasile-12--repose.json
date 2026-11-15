@@ -1,0 +1,26 @@
+{
+  "id": "vasile-12--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:vasile-12"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 1
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/cec9a2c9-6a4c-40e5-846c-df5a841d5e5e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

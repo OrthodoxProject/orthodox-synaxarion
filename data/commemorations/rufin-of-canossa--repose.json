@@ -1,0 +1,26 @@
+{
+  "id": "rufin-of-canossa--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:rufin-of-canossa"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 9
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/abe72733-3726-4718-8a62-95defda3553a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

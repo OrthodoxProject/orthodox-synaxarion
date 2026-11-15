@@ -1,0 +1,26 @@
+{
+  "id": "simeon-6--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:simeon-6"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 14
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5fac4889-4901-41b6-b43e-5361f7d0c99e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

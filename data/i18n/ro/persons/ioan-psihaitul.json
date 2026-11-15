@@ -1,0 +1,21 @@
+{
+  "id": "ioan-psihaitul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ioan Psihaitul, mărturisitor din Constantinopol",
+    "full": "Sfântul Cuvios Ioan Psihaitul, mărturisitor din Constantinopol",
+    "short": "Ioan Psihaitul, mărturisitor din Constantinopol",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/01a7ddea-d220-40b8-9cd8-3c97d6fa1b7b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

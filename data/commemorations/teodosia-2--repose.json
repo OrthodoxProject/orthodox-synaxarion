@@ -1,0 +1,26 @@
+{
+  "id": "teodosia-2--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:teodosia-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 20
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4a08bd2c-7d88-4b8e-aeb3-c1fcba476d17",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

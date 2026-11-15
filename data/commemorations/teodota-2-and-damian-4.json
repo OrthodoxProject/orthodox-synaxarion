@@ -1,0 +1,27 @@
+{
+  "id": "teodota-2-and-damian-4",
+  "kind": "repose",
+  "subjects": [
+    "person:teodota-2",
+    "person:damian-4"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 2
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3d18fd34-0ea2-4013-b992-12f3a84f93b5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

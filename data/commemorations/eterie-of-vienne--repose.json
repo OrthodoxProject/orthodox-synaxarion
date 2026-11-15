@@ -1,0 +1,26 @@
+{
+  "id": "eterie-of-vienne--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:eterie-of-vienne"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 14
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/96cf9ab1-defb-4307-a311-8cee9d28729d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "bregwin-of-canterbury",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Bregwin, arhiepiscop de Canterbury în Anglia",
+    "full": "Sfântul Ierarh Bregwin, arhiepiscop de Canterbury în Anglia",
+    "short": "Bregwin, arhiepiscop de Canterbury în Anglia",
+    "given": "Bregwin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8f61a8d8-259b-4305-8494-2a00b979e788",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

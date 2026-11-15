@@ -1,0 +1,20 @@
+{
+  "id": "alexandra-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințită Nouă Mc. Alexandra (Casparova)",
+    "short": "Alexandra (Casparova)",
+    "given": "Alexandra"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0505ab67-5432-4d75-8a02-935424d04a55",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

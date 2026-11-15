@@ -1,0 +1,20 @@
+{
+  "id": "vestita",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Vestita",
+    "short": "Vestita",
+    "given": "Vestita"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6a92f7b2-3bd4-4ac9-be8c-2bcd69851a93",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

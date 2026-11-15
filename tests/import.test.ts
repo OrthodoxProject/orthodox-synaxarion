@@ -10,14 +10,30 @@ import { genderOfEnName, parseEn } from "../tools/lib/import/en.ts";
 import { loadExisting } from "../tools/lib/import/existing.ts";
 import { fastingNote, mergeFasting, officialFasting } from "../tools/lib/import/fasting.ts";
 import { givenSimilarity, skeleton } from "../tools/lib/import/names.ts";
-import { RecordWriter } from "../tools/lib/import/records.ts";
+import { RecordWriter, type Output } from "../tools/lib/import/records.ts";
 import { abbreviateRo, parseRo } from "../tools/lib/import/ro.ts";
 import { isAllowed, parseRobots } from "../tools/lib/import/robots.ts";
 import { parseMonth } from "../tools/lib/import/sources/doxologia.ts";
 import { parseDay } from "../tools/lib/import/sources/oca.ts";
+import { oldStyleDays, parseDay as parseOrtodoxMdDay, type OrtodoxMdEntry } from "../tools/lib/import/sources/ortodox-md.ts";
 import { splitTitle, synaxarionSections, type PatriarhiaDay, type PatriarhiaItem, type SynaxarionSection } from "../tools/lib/import/sources/patriarhia.ts";
 import { findSuspects } from "../tools/lib/import/suspects.ts";
-import { armenianUnits, cleanOverlayTitle, copticUnits, doxologiaUnits, julianMenaionDate, ocaUnits, overlayUnits, parseCopticTitle, patriarhiaUnits, type SourceData } from "../tools/lib/import/units.ts";
+import {
+  armenianUnits,
+  cleanOrtodoxMdTitle,
+  cleanOverlayTitle,
+  copticUnits,
+  doxologiaUnits,
+  iconsOfLine,
+  julianMenaionDate,
+  ocaUnits,
+  ortodoxMdUnits,
+  overlayUnits,
+  parseCopticTitle,
+  patriarhiaUnits,
+  splitOrtodoxMdTitle,
+  type SourceData,
+} from "../tools/lib/import/units.ts";
 import { REPO_ROOT } from "../tools/lib/validate.ts";
 
 describe("robots.txt", () => {
@@ -2211,6 +2227,301 @@ describe("the suspects of an import", () => {
     try {
       const found = findSuspects(loadExisting(dir)).map((s) => [s.check, s.date, ...s.ids]);
       assert.deepEqual(found, [["romanian-only-icons", "11-15", "icon-of-theotokos-de-pe-cruce-kupiatici", "kupyatitsa-icon-of-theotokos", "fragrant-flower-icon-of-theotokos"]]);
+    } finally {
+      rmSync(dir, { recursive: true, force: true });
+    }
+  });
+});
+
+describe("calendar.ortodox.md", () => {
+  it("reads the old-style day and the entries of a day's page", () => {
+    const html = `<div class="day day-label">Stil vechi</div>
+      <div class="day day-date">2 Noiembrie</div>
+      <a class="r r3 entry-link" href="/calendar/entry/RO/1053"><span>Duminica XXIV după Cincizecime.</span></a>
+      <a class="r r0 entry-link" href="/calendar/entry/RO/935">
+        <span>Sfinţii Mucenici: Achindin, Pigasie, Aftonie, Elpidifor şi Anempodist (+341).</span>
+      </a>`;
+    const day = parseOrtodoxMdDay(html);
+    assert.deepEqual(day.oldStyle, { month: 11, day: 2 });
+    assert.deepEqual(day.entries, [
+      { id: "1053", title: "Duminica XXIV după Cincizecime", rank: 3 },
+      { id: "935", title: "Sfinții Mucenici: Achindin, Pigasie, Aftonie, Elpidifor și Anempodist (+341)", rank: 0 },
+    ]);
+  });
+
+  it("walks an old-style year on its civil days, with 29 February in a leap year", () => {
+    const days = [...oldStyleDays(2026)];
+    assert.equal(days.length, 365);
+    assert.deepEqual(days[0], { civil: { year: 2026, month: 1, day: 14 }, month: 1, day: 1 });
+    assert.deepEqual(days.find((d) => d.month === 11 && d.day === 2)?.civil, { year: 2026, month: 11, day: 15 });
+    assert.deepEqual([...oldStyleDays(2028)].find((d) => d.month === 2 && d.day === 29)?.civil, { year: 2028, month: 3, day: 13 });
+  });
+
+  it("writes the site's titles as parseRo reads them", () => {
+    const cases: Array<[string, string]> = [
+      ["Sfântul Preacuvios Marcian din Cyr în Siria (+388)", "Sfântul Preacuvios Marcian din Cyr în Siria"],
+      [
+        "Sfinţii Sfințiți Noi Mucenici din Rusia: episcopul Victorin și preoții: Anania (Aristov), Constantin (Iurganov) şi Vasile, care au pătimit în timpul regimului comunist (+1918)",
+        "Sfinții Sfințiți Noi Mucenici Victorin și Anania (Aristov), Constantin (Iurganov) și Vasile din Rusia",
+      ],
+      ["Sfinții Mucenici: Eudoxie și Agapie, dimpreună cu alți 8 Mucenici (+320)", "Sfinții Mucenici Eudoxie și Agapie și cei împreună cu ei"],
+      ["Sfântul Sfințit Nou Mucenic din Rusia: preotul Mihail, care a pătimit în timpul regimului comunist (+1930)", "Sfântul Sfințit Nou Mucenic Mihail din Rusia"],
+      ["Icoana Maicii Domnului din Șuia-Smolensk", "Cinstirea Icoanei Maicii Domnului din Șuia-Smolensk"],
+      ["Icoana Maicii Domnului „Cea care alăptează” (Galaktotrofousa)", "Cinstirea Icoanei Maicii Domnului „Cea care alăptează” (Galaktotrofousa)"],
+      ["Nașterea Preasfintei Născătoare de Dumnezeu și Pururea Fecioarei Maria", "Nașterea Maicii Domnului"],
+      ["Tăierea Capului Cinstitului, Slăvitului Prooroc, Înaintemergătorului și Botezătorului Ioan, de către regele Irod Agripa", "Tăierea capului Sfântului Ioan Botezătorul"],
+      // The saint of a relics line with the honorifics of the official calendar, which the genitive leaves alike.
+      [
+        "Pomenirea aducerii moaștelor Sfântului Ierarh Grigorie Teologul în biserica Sfinților Apostoli din Constantinopol",
+        "Aducerea moaștelor Sf. Ier. Grigorie Teologul în biserica Sfinților Apostoli din Constantinopol",
+      ],
+      ["Aflarea moaștelor Sfintei Cuvioase Matrona din Moscova (1998)", "Aflarea moaștelor Sf. Cuv. Matrona din Moscova"],
+      ["Aflarea moaștelor Sfântului Cuvios Iosif, stareț de la Optina (+1911), în anul 1988", "Aflarea moaștelor Sf. Cuv. Iosif, stareț din Optina"],
+      ["Mutarea moaștelor Sfântului și Dreptului Evdochim (IX) din Capadocia la Constantinopol", "Mutarea moaștelor Sf. și Drept. Evdochim din Capadocia la Constantinopol"],
+      ["Aflarea moaștelor Sfântului Prooroc Zaharia, tatăl sfântului Ioan Botezătorul", "Aflarea moaștelor Sf. Proroc Zaharia, tatăl Sf. Ioan Botezătorul"],
+      // The site's slips.
+      ["Sfântul și Dreptului Iezechia împăratul, care s-a săvârșit cu pace (+687 î. Hr.)", "Sfântul și Dreptul Iezechia împăratul"],
+      ["Sfânta Cuvioase Mucenițe Benedicta, fecioară din Sens în Franța, care a pătimit în timpul împăratului Aurelian (III)", "Sfânta Cuvioasă Muceniță Benedicta, fecioară din Sens în Franța"],
+      ["Icoana Maicii Domnului ”Epakouousa” (Cea care ascultă) de la Mănăstirea Zografu", "Cinstirea Icoanei Maicii Domnului ”Epakouousa” (Cea care ascultă) de la Mănăstirea Zografu"],
+      ["Icoana Maicii Domnului, numită ”Floare nevestejită”", "Cinstirea Icoanei Maicii Domnului ”Floare nevestejită”"],
+      // The synaxes of the feasts as the official calendar names them, the others in the nominative.
+      ["Soborul mai marilor Arhistrategi Mihail si Gavriil dimpreună cu toți mai marii arhistrategi ai Puterilor celor fără-de-trup", "Soborul Sfinților Arhangheli Mihail și Gavriil"],
+      ["Soborul Preacuratei Fecioare Maria, Născătoarea de Dumnezeu, și pomenirea Sfîntului și Dreptului Iosif, logodnicul", "Soborul Maicii Domnului"],
+      ["Soborul Noilor Mucenici din Creta", "Soborul Sfinților Noi Mucenici din Creta"],
+      ["Soborul Tuturor Sfinților de la Mănăstirea Sfântului Onufrie din Jablechna în Polonia", "Soborul Tuturor Sfinților de la Mănăstirea Sf. Onufrie din Jablechna în Polonia"],
+      ["Sfântul Cuvios Longhin din Koriajemsk-Vologda în Rusia", "Sfântul Cuvios Longhin din Koriajemsk în Rusia"],
+      ["Sfântul Cuviosul părintele nostru Maris, protopsalt din Siria", "Sfântul Cuviosul Maris, protopsalt din Siria"],
+      [
+        "Sfinții Sfințiți Mucenici: episcopii: Petru și Leon, preoții: Sioniu, Gavriil, Ioan și Parod și binecredincioșii creștini: Manuil, Gheorghe, dimpreună cu alți 377 de Mucenici, care au pătimit la Adrianopol (+ 836)",
+        "Sfinții Sfințiți Mucenici Petru și Leon, Sioniu, Gavriil, Ioan și Parod și Manuil, Gheorghe și cei împreună cu ei",
+      ],
+    ];
+    for (const [raw, clean] of cases) assert.equal(cleanOrtodoxMdTitle(raw), clean, raw);
+  });
+
+  it("parts a line that names several commemorations, each with its honorifics", () => {
+    assert.deepEqual(
+      splitOrtodoxMdTitle("Sfântul Ierarh Erhard, episcop de Regensburg în Bavaria, a Sfântului Mucenic Avo din Tbilisi în Georgia, și a Sfântului Ierarh Grigor, episcop de Ohrida în Serbia"),
+      ["Sfântul Ierarh Erhard, episcop de Regensburg în Bavaria", "Sfântul Mucenic Avo din Tbilisi în Georgia", "Sfântul Ierarh Grigor, episcop de Ohrida în Serbia"],
+    );
+    assert.deepEqual(splitOrtodoxMdTitle("Sfântul Mucenic Codrat din Nicomidia și Sfinții Mucenici Saturnin, Rufin și ceilalți"), [
+      "Sfântul Mucenic Codrat din Nicomidia",
+      "Sfinții Mucenici Saturnin, Rufin și ceilalți",
+    ]);
+    // A relative named after an honorific in the genitive is not another commemoration.
+    assert.equal(splitOrtodoxMdTitle("Sfântul Cuvios Gabriel din Lesnov în Bulgaria, ucenicul Sfântului Ioan de la Rila").length, 1);
+    // "Sfântul și Dreptul Simeon" is one saint.
+    assert.deepEqual(splitOrtodoxMdTitle("Sfântul și Dreptul Simeon, primitorul de Dumnezeu și Sfânta Proorociță Ana, fiica lui Fanuil"), [
+      "Sfântul și Dreptul Simeon, primitorul de Dumnezeu",
+      "Sfânta Proorociță Ana, fiica lui Fanuil",
+    ]);
+    // The saints an event names are its own.
+    assert.equal(splitOrtodoxMdTitle("Pomenirea punerii moaștelor și a îmbrăcămintelor Sfinților Apostoli: Luca, Andrei și Toma, a Sfântului Prooroc Elisei").length, 1);
+    // One line for each icon of a line that names several.
+    assert.deepEqual(iconsOfLine('Icoanele Maicii Domnului: din Tabânsk și "Oranta" (Znamenie)'), ["Icoana Maicii Domnului din Tabânsk", 'Icoana Maicii Domnului "Oranta" (Znamenie)']);
+    assert.deepEqual(iconsOfLine("Icoanele Maicii Domnului: Adormirii, de la Kievo-Pecerska, adusă din Țarigrad (1073); de la Kievo-Pecerska (1085); și de la Svensk (1288)"), [
+      "Icoana Maicii Domnului a Adormirii, de la Kievo-Pecerska, adusă din Țarigrad (1073)",
+      "Icoana Maicii Domnului de la Kievo-Pecerska (1085)",
+      "Icoana Maicii Domnului de la Svensk (1288)",
+    ]);
+    assert.equal(iconsOfLine("Icoana Maicii Domnului din Tinos"), undefined);
+  });
+
+  it("reads the site's other honorifics and lists", () => {
+    const chirana = parseRo("Sfânta Nouă Muceniță Chirana din Tesalonic");
+    assert.equal(chirana.kind, "saint");
+    assert.equal(chirana.count, undefined);
+    assert.ok(chirana.holiness.includes("new_martyr"));
+    assert.deepEqual(
+      parseRo("Sfintele Mucenițe: Chiriachi, Domnina și Domna").names.map((n) => n.given),
+      ["Chiriachi", "Domnina", "Domna"],
+    );
+    const zinon = parseRo("Cuvioșii Zinon și Zoil");
+    assert.equal(zinon.kind, "saints");
+    assert.deepEqual(zinon.holiness, ["venerable"]);
+    const gavriil = parseRo("Proslăvirea Sfântului Ierarh Gavriil (Bănulescu-Bodoni), mitropolitul Chișinăului și al Hotinului");
+    assert.equal(gavriil.kind, "glorification");
+    assert.equal(gavriil.subject?.names[0]?.given, "Gavriil");
+    // A name in quotes is one name.
+    assert.deepEqual(
+      parseRo("Sfântul Cuvios Marcian, monah la Mănăstirea „Sfinții Cosma și Damian” din Auxerre în Franța").names.map((n) => n.given),
+      ["Marcian"],
+    );
+  });
+
+  const entry = (id: string, title: string, month: number, day: number, years = [2026, 2028], order = 0): OrtodoxMdEntry[] =>
+    years.map((year) => ({ id, title, year, month, day, order, rank: 0 }));
+
+  it("keeps the entries that are on the same old-style day in both years", () => {
+    const data: SourceData = {
+      accessed: "2026-11-15",
+      patriarhia: [],
+      doxologia: [],
+      oca: [],
+      coptic: [],
+      armenian: [],
+      overlays: [],
+      ortodoxMd: [
+        ...entry("935", "Sfinții Mucenici: Achindin, Pigasie, Aftonie, Elpidifor și Anempodist (+341)", 11, 2),
+        // A Sunday moves: 2 November in 2026, 30 October in 2028.
+        ...entry("1053", "Duminica XXIV după Cincizecime", 11, 2, [2026]),
+        ...entry("1053", "Duminica XXIV după Cincizecime", 10, 30, [2028]),
+        // In a leap year the site lists the saints of 16–28 February one day later: St Pamphilus on 17 February,
+        // St John Cassian, whom it keeps on 28 February in a common year, on 29 February.
+        ...entry("191", "Sfinții Mucenici Pamfil preotul, Valent diaconul, Pavel, Porfirie, Seleuc, Teodul, Iulian, Samuil, Ilie, Daniil, Ieremia și Isaia", 2, 16, [2026]),
+        ...entry("191", "Sfinții Mucenici Pamfil preotul, Valent diaconul, Pavel, Porfirie, Seleuc, Teodul, Iulian, Samuil, Ilie, Daniil, Ieremia și Isaia", 2, 17, [2028]),
+        ...entry("221", "Sfântul Ioan Casian Romanul (435)", 2, 28, [2026]),
+        ...entry("221", "Sfântul Ioan Casian Romanul (435)", 2, 29, [2028]),
+        ...entry("61", "Gal. IV, 4-7. mt. II, 1-12", 12, 25),
+      ],
+    };
+    const units = ortodoxMdUnits(data);
+    assert.deepEqual(
+      units.map((u) => [u.uid, u.month, u.day, u.parsed.kind, u.leapDay ?? false]),
+      [
+        ["ortodoxmd:191", 2, 16, "saints", false],
+        ["ortodoxmd:221", 2, 28, "saint", false],
+        ["ortodoxmd:935", 11, 2, "saints", false],
+        ["ortodoxmd:61", 12, 25, "skip", false],
+      ],
+    );
+    assert.equal(units[2]?.url, "https://calendar.ortodox.md/calendar/entry/RO/935");
+    assert.deepEqual(units[2]?.citation, { source: "src:calendar-ortodox-md", url: "https://calendar.ortodox.md/calendar/entry/RO/935", accessed: "2026-11-15" });
+  });
+
+  const fixture = (records: Record<string, unknown>): string => {
+    const dir = mkdtempSync(join(tmpdir(), "synaxarion-moldova-"));
+    cpSync(join(REPO_ROOT, "tests", "fixtures", "minimal", "data"), dir, { recursive: true });
+    for (const [rel, value] of Object.entries(records)) {
+      mkdirSync(dirname(join(dir, rel)), { recursive: true });
+      writeFileSync(join(dir, rel), JSON.stringify(value));
+    }
+    return dir;
+  };
+  const run = (dir: string, entries: OrtodoxMdEntry[]): Output => {
+    const data: SourceData = { accessed: "2026-11-15", patriarhia: [], doxologia: [], oca: [], coptic: [], armenian: [], overlays: [], ortodoxMd: entries };
+    const existing = loadExisting(dir);
+    const builder = new Builder(existing);
+    builder.moldova(ortodoxMdUnits(data));
+    return new RecordWriter(existing, { clusters: builder.clusters, lines: builder.lines, movable: builder.movable, stats: builder.stats }).write();
+  };
+  const md = (id: string): string => `https://calendar.ortodox.md/calendar/entry/RO/${id}`;
+
+  it("gives the saints it finds only their link, adds the others, and puts every line in the Moldovan calendar", () => {
+    const oca = "https://www.oca.org/saints/lives/0000/01/02/100018-hieromartyr-theogenes-bishop-of-parium-on-the-hellespont";
+    const dir = fixture({
+      "persons/theogenes-of-parium.json": { id: "theogenes-of-parium", kind: "saint", gender: "male", holiness_types: ["hieromartyr"], sources: [{ source: "src:oca-lives", url: oca }] },
+      "i18n/en/persons/theogenes-of-parium.json": { id: "theogenes-of-parium", locale: "en", names: { display: "Hieromartyr Theogenes, Bishop of Parium on the Hellespont" } },
+      "commemorations/theogenes-of-parium--repose.json": {
+        id: "theogenes-of-parium--repose",
+        kind: "repose",
+        subjects: ["person:theogenes-of-parium"],
+        date_rule: { type: "fixed", month: 1, day: 2 },
+        sources: [{ source: "src:oca-lives", url: oca }],
+      },
+    });
+    try {
+      const entries = [
+        ...entry("1", "Sfântul Sfințit Mucenic Teogen, episcopul Pariei (+320)", 1, 2, undefined, 0),
+        ...entry("2", "Sfântul Cuvios Ermin, pustnic în Anglia", 1, 2, undefined, 1),
+        // The same saint twice: an older entry and a newer one.
+        ...entry("3", "Cuviosul Nicolai Salos din Pskov, cel Nebun întru Hristos (1576)", 1, 2, undefined, 2),
+        ...entry("4", "Sfântul Cuvios Nicolae din Pskov, nebun pentru Hristos (Rusia, +1576)", 1, 2, undefined, 3),
+      ];
+      const output = run(dir, entries);
+      // The saint already known gets the link, and nothing else of his records changes.
+      const comm = output.files.get("commemorations/theogenes-of-parium--repose.json");
+      assert.deepEqual(comm?.sources, [
+        { source: "src:oca-lives", url: oca },
+        { source: "src:calendar-ortodox-md", url: md("1"), accessed: "2026-11-15" },
+      ]);
+      assert.equal(comm?.kind, "repose");
+      assert.deepEqual(
+        output.files.get("persons/theogenes-of-parium.json")?.sources.map((s: { source: string }) => s.source),
+        ["src:oca-lives", "src:calendar-ortodox-md"],
+      );
+      assert.ok(![...output.files.keys()].some((path) => path.startsWith("i18n/") && path.includes("theogenes")));
+      // The others are new, with the site's Romanian names and the link.
+      const ermin = [...output.files].find(([path, rec]) => path.startsWith("i18n/ro/persons/") && rec.names.given === "Ermin")?.[1];
+      assert.equal(ermin?.names.display, "Sf. Cuv. Ermin, pustnic în Anglia");
+      assert.deepEqual(ermin?.references, [{ source: "src:calendar-ortodox-md", url: md("2"), accessed: "2026-11-15" }]);
+      // The two entries of St Nicholas Salos make one commemoration, with both links.
+      const nicholas = [...output.files].filter(([path, rec]) => path.startsWith("commemorations/") && rec.sources?.some((s: { url?: string }) => s.url === md("3")));
+      assert.equal(nicholas.length, 1);
+      assert.deepEqual(
+        nicholas[0]?.[1].sources.map((s: { url: string }) => s.url),
+        [md("3"), md("4")],
+      );
+      // Three lines in the Moldovan calendar of 2 January (old style).
+      assert.equal(output.files.get("traditions/moldova/menaion/01/02.json")?.entries.length, 3);
+      // A second import over the result writes nothing.
+      for (const [rel, value] of output.files) {
+        mkdirSync(dirname(join(dir, rel)), { recursive: true });
+        writeFileSync(join(dir, rel), JSON.stringify(value));
+      }
+      assert.equal(run(dir, entries).files.size, 0);
+    } finally {
+      rmSync(dir, { recursive: true, force: true });
+    }
+  });
+
+  it("looks for a line on the civil day only by its whole name", () => {
+    const saint = (id: string, ro: string, en: string, month: number, day: number, holiness: string[]): Record<string, unknown> => ({
+      [`persons/${id}.json`]: { id, kind: "saint", gender: "male", holiness_types: holiness, sources: [{ source: "src:oca-lives" }] },
+      [`i18n/ro/persons/${id}.json`]: { id, locale: "ro", names: { display: ro } },
+      [`i18n/en/persons/${id}.json`]: { id, locale: "en", names: { display: en } },
+      [`commemorations/${id}--repose.json`]: { id: `${id}--repose`, kind: "repose", subjects: [`person:${id}`], date_rule: { type: "fixed", month, day }, sources: [{ source: "src:oca-lives" }] },
+    });
+    const dir = fixture({
+      // Both are kept on their civil day, 13 days after the old-style one.
+      ...saint("luke-of-simferopol", "Sf. Ier. Luca, Arhiepiscopul Crimeei", "Saint Luke, Archbishop of Simferopol and Crimea", 6, 11, ["hierarch"]),
+      ...saint("herman-of-alaska", "Sf. Cuv. Gherman de Alaska", "Venerable Herman of Alaska", 11, 15, ["venerable"]),
+    });
+    try {
+      const output = run(dir, [
+        ...entry("10", "Sfântul Ierarh Luca al Crimeii (1961)", 5, 29),
+        // "Ermin" and "Herman" share a name key, but nothing else.
+        ...entry("11", "Sfântul Cuvios Ermin, pustnic în Anglia", 11, 2),
+      ]);
+      assert.deepEqual(
+        output.files.get("commemorations/luke-of-simferopol--repose.json")?.sources.map((s: { url?: string }) => s.url),
+        [undefined, md("10")],
+      );
+      const may = output.files.get("traditions/moldova/menaion/05/29.json")?.entries;
+      assert.deepEqual(may, [{ commemorations: ["comm:luke-of-simferopol--repose"], differs_from_default: true }]);
+      assert.ok(!output.files.has("commemorations/herman-of-alaska--repose.json"));
+      const ermin = [...output.files].find(([path, rec]) => path.startsWith("i18n/ro/persons/") && rec.names.given === "Ermin");
+      assert.ok(ermin);
+    } finally {
+      rmSync(dir, { recursive: true, force: true });
+    }
+  });
+
+  it("finds the saint of a relics line by his whole name, in Romanian", () => {
+    const saint = (id: string, ro: string, en: string, month: number, day: number, holiness: string[]): Record<string, unknown> => ({
+      [`persons/${id}.json`]: { id, kind: "saint", gender: "male", holiness_types: holiness, sources: [{ source: "src:oca-lives" }] },
+      [`i18n/ro/persons/${id}.json`]: { id, locale: "ro", names: { display: ro } },
+      [`i18n/en/persons/${id}.json`]: { id, locale: "en", names: { display: en } },
+      [`commemorations/${id}--repose.json`]: { id: `${id}--repose`, kind: "repose", subjects: [`person:${id}`], date_rule: { type: "fixed", month, day }, sources: [{ source: "src:oca-lives" }] },
+    });
+    const dir = fixture({
+      // "Iosif" and "Ioasaf" share a name key.
+      ...saint("joasaph-of-snetogorsk", "Sf. Mc. Ioasaf, starețul Mănăstirii Snetogorsk", "Hieromartyr Joasaph, Abbot of Snetogorsk", 2, 20, ["hieromartyr"]),
+      ...saint("joseph-of-optina", "Sf. Cuv. Iosif de la Optina", "Venerable Joseph of Optina", 5, 9, ["venerable"]),
+    });
+    try {
+      const output = run(dir, [
+        ...entry("20", "Aflarea moaștelor Sfântului Cuvios Iosif, stareț de la Optina (+1911), în anul 1988", 7, 13),
+        ...entry("21", "Aflarea moaștelor Fericitului Andrei din Simbirsk (1998)", 7, 14),
+      ]);
+      const relics = (id: string): Record<string, any> | undefined =>
+        [...output.files].find(([path, rec]) => path.startsWith("commemorations/") && rec.sources?.some((s: { url?: string }) => s.url === md(id)))?.[1];
+      assert.deepEqual(relics("20")?.subjects, ["person:joseph-of-optina"]);
+      // A saint known only from a relics line is a new person, with Romanian names in the nominative.
+      const [subject] = (relics("21")?.subjects ?? []) as string[];
+      const id = subject?.replace(/^person:/, "") ?? "";
+      assert.equal(output.files.get(`i18n/ro/persons/${id}.json`)?.names.display, "Fericitul Andrei din Simbirsk");
+      assert.ok(!output.files.has(`i18n/en/persons/${id}.json`));
     } finally {
       rmSync(dir, { recursive: true, force: true });
     }

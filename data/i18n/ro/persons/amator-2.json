@@ -1,0 +1,21 @@
+{
+  "id": "amator-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Amator, pustnic din Franța",
+    "full": "Sfântul Cuvios Amator, pustnic din Franța",
+    "short": "Amator, pustnic din Franța",
+    "given": "Amator"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/52ef3f7b-a79e-45fb-8445-c622b3fe0dbe",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

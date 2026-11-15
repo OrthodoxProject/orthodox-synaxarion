@@ -1,0 +1,21 @@
+{
+  "id": "udaut",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Udaut, apostolul hunilor",
+    "full": "Sfântul Mucenic Udaut, apostolul hunilor",
+    "short": "Udaut, apostolul hunilor",
+    "given": "Udaut"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6ffff5da-f625-4911-90f0-2cea952d451b#3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "eugen-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:eugen",
+    "person:alexandra-3",
+    "person:mihail-4",
+    "person:agata-of-rusia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 5
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0505ab67-5432-4d75-8a02-935424d04a55",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

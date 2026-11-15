@@ -1,0 +1,26 @@
+{
+  "id": "inochentie-of-verona--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:inochentie-of-verona"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 14
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/23750da5-117f-4d7a-a041-b0cace86298d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

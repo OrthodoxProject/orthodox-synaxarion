@@ -1,0 +1,26 @@
+{
+  "id": "synaxis-of-saints-of-deciani-of-serbia",
+  "kind": "synaxis",
+  "subjects": [
+    "group:saints-of-deciani-of-serbia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 11
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0d1ef59d-3e17-4e40-9856-eb4536a4e4b0",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

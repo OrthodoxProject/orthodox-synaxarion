@@ -1,0 +1,25 @@
+{
+  "id": "6-martyrs-of-egipt-impreuna-cu-sfantul-proteriu",
+  "kind": "martyrs",
+  "count": {
+    "value": 6,
+    "precision": "exact"
+  },
+  "holiness_types": [
+    "martyr"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8614a2ec-c6b1-4adb-8cd5-7f8ee981c375",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "martinian-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Martinian, nevoitor în cartierul Areovint din Constantinopol",
+    "full": "Sfântul Cuvios Martinian, nevoitor în cartierul Areovint din Constantinopol",
+    "short": "Martinian, nevoitor în cartierul Areovint din Constantinopol",
+    "given": "Martinian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/664c9310-6bd3-42cd-b29b-fb5a8de84317",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

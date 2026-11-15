@@ -1,0 +1,26 @@
+{
+  "id": "ioachim-of-patras--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:ioachim-of-patras"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 3
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/883810a8-3592-4c54-a4ef-2d7d05b477ce",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

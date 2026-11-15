@@ -1,0 +1,20 @@
+{
+  "id": "patermutie-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Patermutie",
+    "short": "Patermutie",
+    "given": "Patermutie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/fe770fa7-8dd6-41fa-bb2c-8a55e4e0d144",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

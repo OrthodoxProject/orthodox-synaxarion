@@ -1,0 +1,21 @@
+{
+  "id": "antonie-romanul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Antonie Romanul, făcător de minuni din Novgorod în Rusia",
+    "full": "Sfântul Cuvios Antonie Romanul, făcător de minuni din Novgorod în Rusia",
+    "short": "Antonie Romanul, făcător de minuni din Novgorod în Rusia",
+    "given": "Antonie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c54e22a3-9f82-4cbe-83bb-198a9e95853b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

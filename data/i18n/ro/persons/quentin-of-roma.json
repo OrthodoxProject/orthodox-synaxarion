@@ -1,0 +1,21 @@
+{
+  "id": "quentin-of-roma",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Quentin din Roma",
+    "full": "Sfântul Mucenic Quentin din Roma",
+    "short": "Quentin din Roma",
+    "given": "Quentin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a74160b9-c05f-47da-8d9a-aec6b2f2c879#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

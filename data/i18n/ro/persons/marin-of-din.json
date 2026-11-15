@@ -1,0 +1,21 @@
+{
+  "id": "marin-of-din",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Marin, episcop din Catalania în Spania",
+    "full": "Sfântul Ierarh Marin, episcop din Catalania în Spania",
+    "short": "Marin, episcop din Catalania în Spania",
+    "given": "Marin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b79e6d03-0415-4031-a8d6-a6f0f8981f63",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "partenie-of-radovision",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Partenie, episcop de Radovision în Tesalia",
+    "full": "Sfântul Ierarh Partenie, episcop de Radovision în Tesalia",
+    "short": "Partenie, episcop de Radovision în Tesalia",
+    "given": "Partenie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ebc46a48-fead-498d-b67b-7427011d0bb1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

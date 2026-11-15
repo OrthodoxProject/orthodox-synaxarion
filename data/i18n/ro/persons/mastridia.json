@@ -1,0 +1,21 @@
+{
+  "id": "mastridia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mastridia, pustnică la Ierusalim",
+    "full": "Sfânta Cuvioasă Mastridia, pustnică la Ierusalim",
+    "short": "Mastridia, pustnică la Ierusalim",
+    "given": "Mastridia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/38283aff-ee4b-45a0-9618-6bdf58392e70",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

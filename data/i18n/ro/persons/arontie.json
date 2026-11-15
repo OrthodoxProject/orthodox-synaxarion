@@ -1,0 +1,20 @@
+{
+  "id": "arontie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Arontie",
+    "short": "Arontie",
+    "given": "Arontie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5b44b6df-7daa-479c-9b59-e71645ff787e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

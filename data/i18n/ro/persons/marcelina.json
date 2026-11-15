@@ -1,0 +1,21 @@
+{
+  "id": "marcelina",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Marcelina, monahie la Monza în Italia, sora Sfântului Ambrozie al Mediolanului",
+    "full": "Sfânta Cuvioasă Marcelina, monahie la Monza în Italia, sora Sfântului Ambrozie al Mediolanului",
+    "short": "Marcelina, monahie la Monza în Italia, sora Sfântului Ambrozie al Mediolanului",
+    "given": "Marcelina"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9a4c9822-dc89-47ca-a3d3-480620b92806",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

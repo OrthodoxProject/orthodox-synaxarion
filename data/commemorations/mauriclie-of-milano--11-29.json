@@ -1,0 +1,26 @@
+{
+  "id": "mauriclie-of-milano--11-29",
+  "kind": "repose",
+  "subjects": [
+    "person:mauriclie-of-milano"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 29
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a4f1eee2-a843-443d-8dec-ba1f7a0d6034",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

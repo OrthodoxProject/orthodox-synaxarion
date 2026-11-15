@@ -1,0 +1,26 @@
+{
+  "id": "sir--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:sir"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 9
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/028809df-a1b4-4dd9-bcbc-c57907031fd6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

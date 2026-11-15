@@ -1,0 +1,20 @@
+{
+  "id": "licarion-pruncul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Licarion pruncul",
+    "short": "Licarion pruncul",
+    "given": "Licarion"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/167",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

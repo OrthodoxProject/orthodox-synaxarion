@@ -1,0 +1,21 @@
+{
+  "id": "gherontie-of-cerva",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Gherontie, episcop de Cerva și mărturisitor în Italia",
+    "full": "Sfântul Ierarh Gherontie, episcop de Cerva și mărturisitor în Italia",
+    "short": "Gherontie, episcop de Cerva, mărturisitor în Italia",
+    "given": "Gherontie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/bf47c01d-fc6b-475f-83ba-9a71565992f7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

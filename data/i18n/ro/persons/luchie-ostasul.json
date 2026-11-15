@@ -1,0 +1,21 @@
+{
+  "id": "luchie-ostasul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Luchie ostașul",
+    "full": "Sfântul Mucenic Luchie ostașul",
+    "short": "Luchie ostașul",
+    "given": "Luchie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8a34b63c-6f41-49d1-875a-31173cd8b171",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

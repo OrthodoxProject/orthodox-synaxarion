@@ -1,0 +1,26 @@
+{
+  "id": "acachie-preotul-of-armenia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:acachie-preotul-of-armenia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 24
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/42f11a58-65e8-4115-9de1-80822cfcde92",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

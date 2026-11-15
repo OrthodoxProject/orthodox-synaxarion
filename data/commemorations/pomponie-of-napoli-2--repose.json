@@ -1,0 +1,26 @@
+{
+  "id": "pomponie-of-napoli-2--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:pomponie-of-napoli-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 14
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5f2899b8-28e1-4049-88e4-fdb0b5bb5efb",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "eusebia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:eusebia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 20
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/86d6a264-61e7-45dd-ae62-a1008b6c4814",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

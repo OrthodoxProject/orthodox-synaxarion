@@ -1,0 +1,20 @@
+{
+  "id": "iulian-of-constantinopol",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Iulian din Constantinopol",
+    "short": "Iulian din Constantinopol",
+    "given": "Iulian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c6df99c1-1c37-4acc-aa93-40502949f2e1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

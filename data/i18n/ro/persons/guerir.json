@@ -1,0 +1,21 @@
+{
+  "id": "guerir",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Guerir, pustnic din Anglia",
+    "full": "Sfântul Cuvios Guerir, pustnic din Anglia",
+    "short": "Guerir, pustnic din Anglia",
+    "given": "Guerir"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/652f5949-a5c9-4ea6-8cf3-84f8fd2364d7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

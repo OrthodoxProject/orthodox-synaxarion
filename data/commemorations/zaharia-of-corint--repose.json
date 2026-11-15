@@ -1,0 +1,26 @@
+{
+  "id": "zaharia-of-corint--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:zaharia-of-corint"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 30
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/21fd9ebb-6a8d-4f68-a170-d956970e57ff",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

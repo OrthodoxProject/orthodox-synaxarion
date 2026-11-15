@@ -1,0 +1,20 @@
+{
+  "id": "gain",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Gain",
+    "short": "Gain",
+    "given": "Gain"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/53e48561-128d-4f21-a028-afda437075b0",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

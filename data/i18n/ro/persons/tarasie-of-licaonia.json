@@ -1,0 +1,21 @@
+{
+  "id": "tarasie-of-licaonia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Tarasie din Licaonia, făcătorul de minuni",
+    "full": "Sfântul Cuvios Tarasie din Licaonia, făcătorul de minuni",
+    "short": "Tarasie din Licaonia, făcătorul de minuni",
+    "given": "Tarasie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/20d0e09c-a2b6-4aaf-9cce-3ecb592efdb9",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

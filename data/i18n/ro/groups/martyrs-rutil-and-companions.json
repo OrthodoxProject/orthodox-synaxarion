@@ -1,0 +1,18 @@
+{
+  "id": "martyrs-rutil-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici Rutil și cei împreună cu ei"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7718e094-07e1-4f90-a1d6-f5b8f983d639",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

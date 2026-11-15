@@ -1,0 +1,21 @@
+{
+  "id": "maxim-of-alexandria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Maxim, episcopul Alexandriei în Egipt",
+    "full": "Sfântul Ierarh Maxim, episcopul Alexandriei în Egipt",
+    "short": "Maxim, episcopul Alexandriei în Egipt",
+    "given": "Maxim"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e6e773f2-1b66-4074-94bc-f24f657d425b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

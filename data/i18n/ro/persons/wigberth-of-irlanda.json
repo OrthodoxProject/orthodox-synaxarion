@@ -1,0 +1,21 @@
+{
+  "id": "wigberth-of-irlanda",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Wigberth, egumenul Mănăstirii Fritzlar din Irlanda",
+    "full": "Sfântul Cuvios Wigberth, egumenul Mănăstirii Fritzlar din Irlanda",
+    "short": "Wigberth, egumenul Mănăstirii Fritzlar din Irlanda",
+    "given": "Wigberth"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/932caac8-a5ea-4ca8-a89c-7151571891a9",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

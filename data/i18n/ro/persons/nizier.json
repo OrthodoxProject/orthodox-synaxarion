@@ -1,0 +1,20 @@
+{
+  "id": "nizier",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Nizier",
+    "short": "Nizier",
+    "given": "Nizier"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/481df273-8bb0-4c0c-9a2d-6324e0968d5e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

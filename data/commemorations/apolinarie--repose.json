@@ -1,0 +1,26 @@
+{
+  "id": "apolinarie--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:apolinarie"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 18
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a47c1531-09da-4d80-b716-166c4a205a2c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

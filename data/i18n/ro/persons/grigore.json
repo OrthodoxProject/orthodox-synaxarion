@@ -1,0 +1,20 @@
+{
+  "id": "grigore",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Grigore (Berdenev)",
+    "short": "Grigore (Berdenev)",
+    "given": "Grigore"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/78719e7a-4e99-4f0f-97bf-1a8cb9350bc3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

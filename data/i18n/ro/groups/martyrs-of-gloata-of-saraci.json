@@ -1,0 +1,18 @@
+{
+  "id": "martyrs-of-gloata-of-saraci",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici din gloata de săraci"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/03f0752d-02c8-42ca-878a-3a5d4418c04a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

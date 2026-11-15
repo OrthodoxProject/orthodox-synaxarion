@@ -1,0 +1,26 @@
+{
+  "id": "dorotei-of-chiliocomos--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:dorotei-of-chiliocomos"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 5
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/178ea869-8a84-42b6-ae3f-7feb1e8860fa",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

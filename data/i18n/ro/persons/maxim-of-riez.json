@@ -1,0 +1,21 @@
+{
+  "id": "maxim-of-riez",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Maxim de Riez",
+    "full": "Sfântul Maxim de Riez",
+    "short": "Maxim de Riez",
+    "given": "Maxim"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d7197542-2f33-435d-8d29-a8d8739e82be",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

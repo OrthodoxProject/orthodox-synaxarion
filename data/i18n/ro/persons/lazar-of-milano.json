@@ -1,0 +1,21 @@
+{
+  "id": "lazar-of-milano",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Lazăr, episcop de Milano în Italia",
+    "full": "Sfântul Ierarh Lazăr, episcop de Milano în Italia",
+    "short": "Lazăr, episcop de Milano în Italia",
+    "given": "Lazăr"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/770c4552-78ed-445b-9f51-bbbf9bd40e21",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

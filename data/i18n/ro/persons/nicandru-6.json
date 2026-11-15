@@ -1,0 +1,21 @@
+{
+  "id": "nicandru-6",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Nicandru",
+    "full": "Sfântul Mucenic Nicandru",
+    "short": "Nicandru",
+    "given": "Nicandru"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f5e31c5c-33e7-46d2-b206-ecd31b9d9432",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

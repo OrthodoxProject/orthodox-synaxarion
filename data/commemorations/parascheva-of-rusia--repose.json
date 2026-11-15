@@ -1,0 +1,26 @@
+{
+  "id": "parascheva-of-rusia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:parascheva-of-rusia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 26
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ffc006de-3b52-4982-97ef-216f0f460a0e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

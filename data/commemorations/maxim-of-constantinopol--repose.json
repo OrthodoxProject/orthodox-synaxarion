@@ -1,0 +1,26 @@
+{
+  "id": "maxim-of-constantinopol--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:maxim-of-constantinopol"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 17
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0c845e03-691b-4981-b8c3-117d298ea6b8",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

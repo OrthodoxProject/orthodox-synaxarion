@@ -1,0 +1,21 @@
+{
+  "id": "felix-28",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Felix, preot la Pistoia-Toscana în Italia",
+    "full": "Sfântul Felix, preot la Pistoia-Toscana în Italia",
+    "short": "Felix, preot la Pistoia-Toscana în Italia",
+    "given": "Felix"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a66e5cd0-fc1f-40c1-9020-f4697637f50d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

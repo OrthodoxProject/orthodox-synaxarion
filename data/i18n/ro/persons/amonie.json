@@ -1,0 +1,21 @@
+{
+  "id": "amonie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Amonie, nevoitor în Pustia Nitria din Egipt",
+    "full": "Sfântul Cuvios Amonie, nevoitor în Pustia Nitria din Egipt",
+    "short": "Amonie, nevoitor în Pustia Nitria din Egipt",
+    "given": "Amonie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/94b36fae-3d06-410c-84bd-8092f44aee0e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

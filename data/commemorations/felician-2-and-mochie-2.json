@@ -1,0 +1,27 @@
+{
+  "id": "felician-2-and-mochie-2",
+  "kind": "repose",
+  "subjects": [
+    "person:felician-2",
+    "person:mochie-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 9
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/eb26f7f7-6542-4f45-9025-5f27cf6de4ce",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

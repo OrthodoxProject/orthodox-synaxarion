@@ -1,0 +1,20 @@
+{
+  "id": "nicolae-65",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Nicolae (Vinogradov)",
+    "short": "Nicolae (Vinogradov)",
+    "given": "Nicolae"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9ed11d53-b5e7-47c7-91fb-69e4fc860f71",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

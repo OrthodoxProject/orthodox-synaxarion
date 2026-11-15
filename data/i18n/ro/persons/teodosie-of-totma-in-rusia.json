@@ -1,0 +1,21 @@
+{
+  "id": "teodosie-of-totma-in-rusia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Teodosie din Totma în Rusia",
+    "full": "Sfântul Cuvios Teodosie din Totma în Rusia",
+    "short": "Teodosie din Totma în Rusia",
+    "given": "Teodosie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9201f76a-64dd-4f12-b2d2-950895ec7490",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

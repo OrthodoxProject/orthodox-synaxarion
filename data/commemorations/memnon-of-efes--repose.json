@@ -1,0 +1,26 @@
+{
+  "id": "memnon-of-efes--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:memnon-of-efes"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 16
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d86b7265-6ef8-4cde-97d8-b43873d2d466",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

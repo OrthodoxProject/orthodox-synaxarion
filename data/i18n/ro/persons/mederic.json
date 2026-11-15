@@ -1,0 +1,21 @@
+{
+  "id": "mederic",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mederic, pustnic la Paris în Franța",
+    "full": "Sfântul Cuvios Mederic, pustnic la Paris în Franța",
+    "short": "Mederic, pustnic la Paris în Franța",
+    "given": "Mederic"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/cae88ca5-f2ed-4dbd-b82d-8cded9ca77e6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

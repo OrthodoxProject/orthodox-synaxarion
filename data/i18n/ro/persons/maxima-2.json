@@ -1,0 +1,20 @@
+{
+  "id": "maxima-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Maxima",
+    "short": "Maxima",
+    "given": "Maxima"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ee5b8212-c004-45d0-b689-337fa1afdca6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

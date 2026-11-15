@@ -1,0 +1,21 @@
+{
+  "id": "ioan-tomicus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ioan Tomicus, nevoitor în Sfântul Munte Athos și în Georgia",
+    "full": "Sfântul Cuvios Ioan Tomicus, nevoitor în Sfântul Munte Athos și în Georgia",
+    "short": "Ioan Tomicus, nevoitor în Sfântul Munte Athos, în Georgia",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2d356792-102d-4de7-ba18-b507e11c01c9",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

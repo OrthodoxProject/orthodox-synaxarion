@@ -1,0 +1,21 @@
+{
+  "id": "grigorie-17",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Grigorie, fratele Sfântului Grigorie, făcătorul de minuni",
+    "full": "Sfântul Mucenic Grigorie, fratele Sfântului Grigorie, făcătorul de minuni",
+    "short": "Grigorie, fratele Sfântului Grigorie, făcătorul de minuni",
+    "given": "Grigorie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/99afda17-2588-4aeb-a9ac-41490e50513d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

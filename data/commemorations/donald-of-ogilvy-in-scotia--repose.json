@@ -1,0 +1,26 @@
+{
+  "id": "donald-of-ogilvy-in-scotia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:donald-of-ogilvy-in-scotia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 15
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/09461721-ca39-4e7b-8a6f-642c552cf735",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

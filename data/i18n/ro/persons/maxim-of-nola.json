@@ -1,0 +1,29 @@
+{
+  "id": "maxim-of-nola",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Maxim, episcop de Nola în Italia",
+    "full": "Sfântul Sfințit Mucenic Maxim, episcop de Nola în Italia",
+    "short": "Maxim, episcop de Nola în Italia",
+    "given": "Maxim",
+    "variants": [
+      "Sf. Ier. Maxim, episcop de Nola în Italia"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/aabc6a66-0ee0-4613-9415-18d18749c51e",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0e8dc980-a40c-402f-b8a2-c03322c0f43c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

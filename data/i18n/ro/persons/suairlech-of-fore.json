@@ -1,0 +1,21 @@
+{
+  "id": "suairlech-of-fore",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Suairlech, episcop de Fore în Irlanda",
+    "full": "Sfântul Ierarh Suairlech, episcop de Fore în Irlanda",
+    "short": "Suairlech, episcop de Fore în Irlanda",
+    "given": "Suairlech"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f1bd3d17-442f-4563-8be8-03f175b6d10e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

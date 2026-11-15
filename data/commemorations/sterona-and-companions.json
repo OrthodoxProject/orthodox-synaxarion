@@ -1,0 +1,30 @@
+{
+  "id": "sterona-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:sterona",
+    "person:filerghie",
+    "person:timotei-2",
+    "person:teodul-3",
+    "person:macarie-8"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 20
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4fe5ba0a-9d3c-40e8-9ed5-5c20fd2f482d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

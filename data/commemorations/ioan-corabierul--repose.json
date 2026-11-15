@@ -1,0 +1,26 @@
+{
+  "id": "ioan-corabierul--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:ioan-corabierul"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 8
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3239139b-7275-4b9d-b259-7e2d03216049",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "venerable-dometie-facatorul-of-minuni",
+  "kind": "repose",
+  "subjects": [
+    "group:venerable-dometie-facatorul-of-minuni"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 7
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a735e1c3-c443-4083-b870-966e9a9a7bc8",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

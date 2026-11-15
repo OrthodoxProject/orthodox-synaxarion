@@ -1,0 +1,20 @@
+{
+  "id": "agheu",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Agheu",
+    "short": "Agheu",
+    "given": "Agheu"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/11451030-fcc7-402c-b396-6f3ac59b7d28",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

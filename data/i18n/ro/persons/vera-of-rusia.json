@@ -1,0 +1,20 @@
+{
+  "id": "vera-of-rusia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințită Nouă Mc. Vera (Samsonov) din Rusia",
+    "short": "Vera (Samsonov) din Rusia",
+    "given": "Vera"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1555",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

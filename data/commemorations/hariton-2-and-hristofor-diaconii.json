@@ -1,0 +1,27 @@
+{
+  "id": "hariton-2-and-hristofor-diaconii",
+  "kind": "repose",
+  "subjects": [
+    "person:hariton-2",
+    "person:hristofor-diaconii"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 23
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/fdc7de4e-dfd8-4479-8f33-cc55480747cb",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "inochentie-6",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Inochentie (Beda)",
+    "short": "Inochentie (Beda)",
+    "given": "Inochentie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4d724cbb-22e1-40c7-85f6-13083c5f0a79",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

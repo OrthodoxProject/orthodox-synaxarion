@@ -1,0 +1,26 @@
+{
+  "id": "rotrudis-of-franta--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:rotrudis-of-franta"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 22
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7b059ac0-ec39-433a-9654-769f677c1a2e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

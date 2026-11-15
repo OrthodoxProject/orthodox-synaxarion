@@ -1,0 +1,26 @@
+{
+  "id": "crummine-of-leccuine--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:crummine-of-leccuine"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 28
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2a40a860-e3b3-47cd-8b6c-061d558d7649",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

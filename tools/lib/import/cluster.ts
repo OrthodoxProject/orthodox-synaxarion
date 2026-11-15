@@ -41,6 +41,8 @@ export interface Slot {
   alts: NamePart[];
   /** Sources and days whose units already landed on this person ("oca@01-17"): one unit per source and day. */
   matched: Set<string>;
+  /** An existing person known only from the sources read last (see LATE_SOURCES): the other sources do not look for it. */
+  late?: boolean;
 }
 
 export interface GroupSubject {
@@ -73,6 +75,8 @@ export interface Cluster {
   uid: string;
   family: Family;
   kind: ClusterKind;
+  /** An existing commemoration known only from the sources read last (see LATE_SOURCES). */
+  late?: boolean;
   month: number;
   day: number;
   leapDay?: boolean;
@@ -543,7 +547,14 @@ const RO_SINGULAR: Record<string, [string, string]> = {
   mucenici: ["Mucenic", "Muceniță"],
   mucenite: ["Mucenic", "Muceniță"],
   cuviosi: ["Cuvios", "Cuvioasă"],
+  cuviosii: ["Cuviosul", "Cuvioasa"],
   cuvioase: ["Cuvios", "Cuvioasă"],
+  cuvioasele: ["Cuvioasa", "Cuvioasa"],
+  preacuviosii: ["Preacuviosul", "Preacuvioasa"],
+  preacuviosi: ["Preacuvios", "Preacuvioasă"],
+  mucenicii: ["Mucenicul", "Mucenița"],
+  noi: ["Nou", "Nouă"],
+  noii: ["Noul", "Noua"],
   ierarhi: ["Ierarh", "Ierarh"],
   apostoli: ["Apostol", "Apostol"],
   proroci: ["Proroc", "Prorociță"],

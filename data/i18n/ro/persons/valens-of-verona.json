@@ -1,0 +1,21 @@
+{
+  "id": "valens-of-verona",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Valens, episcop de Verona în Italia",
+    "full": "Sfântul Ierarh Valens, episcop de Verona în Italia",
+    "short": "Valens, episcop de Verona în Italia",
+    "given": "Valens"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/35bc3fce-e5b6-4deb-abb3-3b8102fb5ec6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

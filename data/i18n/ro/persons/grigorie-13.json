@@ -1,0 +1,21 @@
+{
+  "id": "grigorie-13",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Grigorie, făcătorul de minuni din Kiev",
+    "full": "Sfântul Cuvios Grigorie, făcătorul de minuni din Kiev",
+    "short": "Grigorie, făcătorul de minuni din Kiev",
+    "given": "Grigorie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/dec4d64f-d8d3-4ecf-9f18-4ad478174713",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

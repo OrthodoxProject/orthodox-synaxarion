@@ -1,0 +1,26 @@
+{
+  "id": "avramie-of-crateia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:avramie-of-crateia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 6
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d2c90532-b3e0-4e56-887b-2a4f6ec123ea",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "osita--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:osita"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 7
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c315f45d-9171-42cc-94d7-2ceb0e353e18",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

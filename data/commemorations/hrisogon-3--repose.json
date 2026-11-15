@@ -1,0 +1,26 @@
+{
+  "id": "hrisogon-3--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:hrisogon-3"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 23
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/138e247d-4d56-4f83-83ce-06bc790b5bdf",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

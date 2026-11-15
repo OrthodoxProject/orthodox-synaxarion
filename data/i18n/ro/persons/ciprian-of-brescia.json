@@ -1,0 +1,21 @@
+{
+  "id": "ciprian-of-brescia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ciprian, episcop de Brescia în Italia",
+    "full": "Sfântul Ierarh Ciprian, episcop de Brescia în Italia",
+    "short": "Ciprian, episcop de Brescia în Italia",
+    "given": "Ciprian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6e254929-acc3-42e6-bba3-bc9f9b8ce613",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

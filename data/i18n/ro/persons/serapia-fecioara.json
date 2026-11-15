@@ -1,0 +1,20 @@
+{
+  "id": "serapia-fecioara",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Serapia fecioara, slujitoarea ei",
+    "short": "Serapia fecioara, slujitoarea ei",
+    "given": "Serapia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0761efc5-9586-4c50-8780-e14d6aaf26da",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

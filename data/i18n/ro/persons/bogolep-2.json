@@ -1,0 +1,21 @@
+{
+  "id": "bogolep-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Bogolep, schimonah la Astrakhan în Rusia",
+    "full": "Sfântul Cuvios Bogolep, schimonah la Astrakhan în Rusia",
+    "short": "Bogolep, schimonah la Astrakhan în Rusia",
+    "given": "Bogolep"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/180e7a18-02c4-4db6-8bab-6fa791857a59",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -29,6 +29,11 @@
       "source": "src:orthodox-calendar",
       "locator": "backend/app/data/traditions/romanian_saints.json",
       "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4e8b4aa8-e7be-4030-9e4e-d5429f45be26",
+      "accessed": "2026-11-15"
     }
   ],
   "editorial": {

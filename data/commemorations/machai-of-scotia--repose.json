@@ -1,0 +1,26 @@
+{
+  "id": "machai-of-scotia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:machai-of-scotia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 11
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/11e6fb5e-88df-420f-bef3-71d8c48f200f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

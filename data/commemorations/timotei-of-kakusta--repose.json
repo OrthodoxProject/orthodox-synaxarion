@@ -1,0 +1,26 @@
+{
+  "id": "timotei-of-kakusta--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:timotei-of-kakusta"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 4
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/83b96eea-97e4-42d0-a6a3-18671361d90d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

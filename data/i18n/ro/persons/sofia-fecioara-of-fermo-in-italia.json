@@ -1,0 +1,21 @@
+{
+  "id": "sofia-fecioara-of-fermo-in-italia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Sofia fecioara din Fermo în Italia",
+    "full": "Sfânta Muceniță Sofia fecioara din Fermo în Italia",
+    "short": "Sofia fecioara din Fermo în Italia",
+    "given": "Sofia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/bdf625f9-a653-4a4b-bdb1-53a6a3cdd7b0",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

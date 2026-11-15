@@ -1,0 +1,21 @@
+{
+  "id": "mellon-of-rouen",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Mellon, episcop de Rouen în Franța",
+    "full": "Sfântul Ierarh Mellon, episcop de Rouen în Franța",
+    "short": "Mellon, episcop de Rouen în Franța",
+    "given": "Mellon"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e2b90602-76d6-4510-b972-e548ad4f7ba6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "luca-of-in",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ap. Luca (Lucius), arhiepiscop în Laodiceea Siriei",
+    "short": "Luca (Lucius), arhiepiscop în Laodiceea Siriei",
+    "given": "Luca"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1180",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

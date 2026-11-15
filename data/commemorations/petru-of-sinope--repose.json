@@ -1,0 +1,26 @@
+{
+  "id": "petru-of-sinope--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:petru-of-sinope"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 30
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b8c49c81-5902-41c3-8387-83fbb4dd08e6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

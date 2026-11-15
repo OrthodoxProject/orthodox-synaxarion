@@ -1,0 +1,21 @@
+{
+  "id": "ilie-ardunis",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Ilie Ardunis, nevoitor din Sfântul Munte Athos",
+    "full": "Sfântul Mucenic Ilie Ardunis, nevoitor din Sfântul Munte Athos",
+    "short": "Ilie Ardunis, nevoitor din Sfântul Munte Athos",
+    "given": "Ilie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/abcd7311-88e5-4889-bbd7-8b0935864823",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

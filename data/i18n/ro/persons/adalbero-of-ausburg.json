@@ -1,0 +1,21 @@
+{
+  "id": "adalbero-of-ausburg",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Adalbero, episcop de Ausburg în Germania",
+    "full": "Sfântul Ierarh Adalbero, episcop de Ausburg în Germania",
+    "short": "Adalbero, episcop de Ausburg în Germania",
+    "given": "Adalbero"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0f027514-d5e4-4ba2-923f-5678a81b3ee0",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

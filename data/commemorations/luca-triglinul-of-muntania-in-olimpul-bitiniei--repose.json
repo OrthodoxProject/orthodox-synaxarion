@@ -1,0 +1,26 @@
+{
+  "id": "luca-triglinul-of-muntania-in-olimpul-bitiniei--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:luca-triglinul-of-muntania-in-olimpul-bitiniei"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 27
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/123aeb0e-a290-435d-bf80-3472fd1de880",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

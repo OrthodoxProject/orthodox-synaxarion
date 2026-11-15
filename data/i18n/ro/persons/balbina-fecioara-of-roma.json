@@ -1,0 +1,21 @@
+{
+  "id": "balbina-fecioara-of-roma",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Balbina fecioara din Roma, fiica Sfântului Mucenic Chirin Tribunul",
+    "full": "Sfânta Muceniță Balbina fecioara din Roma, fiica Sfântului Mucenic Chirin Tribunul",
+    "short": "Balbina fecioara din Roma, fiica Sfântului Mucenic Chirin Tribunul",
+    "given": "Balbina"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/32b1063c-58ac-4ceb-87a6-927e165c9c10",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

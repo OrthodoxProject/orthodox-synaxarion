@@ -1,0 +1,20 @@
+{
+  "id": "iust-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Iust",
+    "short": "Iust",
+    "given": "Iust"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/776de9d6-bc11-42b1-bdf0-95cb40bde644",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

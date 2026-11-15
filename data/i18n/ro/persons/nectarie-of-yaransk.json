@@ -1,0 +1,21 @@
+{
+  "id": "nectarie-of-yaransk",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Nectarie, episcop de Yaransk în Rusia",
+    "full": "Sfântul Sfințit Nou Mucenic Nectarie, episcop de Yaransk în Rusia",
+    "short": "Nectarie, episcop de Yaransk în Rusia",
+    "given": "Nectarie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f4872219-c5fc-49a7-9913-45b22860e749",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

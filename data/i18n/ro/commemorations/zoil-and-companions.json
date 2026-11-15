@@ -1,0 +1,18 @@
+{
+  "id": "zoil-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici Zoil, Servilie, Felix, Silvan și Diocles"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/70b63aec-2d41-490f-8ffc-7564a35aae7e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

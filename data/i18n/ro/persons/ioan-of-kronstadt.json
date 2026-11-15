@@ -1,0 +1,21 @@
+{
+  "id": "ioan-of-kronstadt",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ioan de la Kronștadt",
+    "full": "Sfântul Ioan de la Kronștadt",
+    "short": "Ioan de la Kronștadt",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/491",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "faust-7",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Faust",
+    "short": "Faust",
+    "given": "Faust"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/89a415e1-f474-4440-92e4-8cee98637c53",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "mihail-vurliotul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Mihail Vurliotul",
+    "full": "Sfântul Mucenic Mihail Vurliotul",
+    "short": "Mihail Vurliotul",
+    "given": "Mihail"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/bb55dff1-0146-410f-a112-76ed51c0c5a9",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

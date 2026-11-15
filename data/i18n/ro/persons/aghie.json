@@ -1,0 +1,20 @@
+{
+  "id": "aghie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Aghie",
+    "short": "Aghie",
+    "given": "Aghie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/27a1b52e-121f-437a-8c83-3f78bacf21b7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

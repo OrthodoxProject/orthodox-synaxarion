@@ -1,0 +1,20 @@
+{
+  "id": "petru-19",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Petru",
+    "short": "Petru",
+    "given": "Petru"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3780306e-8bf7-4f61-b5e7-ecd0276d4adf",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "adalbero-of-ausburg--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:adalbero-of-ausburg"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 28
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0f027514-d5e4-4ba2-923f-5678a81b3ee0",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

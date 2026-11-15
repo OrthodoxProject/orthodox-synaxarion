@@ -1,0 +1,21 @@
+{
+  "id": "plachidia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Plachidia, fecioară din Verona în Italia",
+    "full": "Sfânta Cuvioasă Plachidia, fecioară din Verona în Italia",
+    "short": "Plachidia, fecioară din Verona în Italia",
+    "given": "Plachidia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/fb47f562-feb3-4a49-8a4a-c681023c3475#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

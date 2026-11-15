@@ -1,0 +1,21 @@
+{
+  "id": "chindeu-of-insula-cipru",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Chindeu din insula Cipru, făcătorul de minuni",
+    "full": "Sfântul Cuvios Chindeu din insula Cipru, făcătorul de minuni",
+    "short": "Chindeu din insula Cipru, făcătorul de minuni",
+    "given": "Chindeu"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/399453b4-6e8f-4ea6-9bf7-a9dbc929861d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

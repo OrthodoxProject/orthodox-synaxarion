@@ -1,0 +1,21 @@
+{
+  "id": "probie-of-ravena",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Probie, episcop de Ravena în Italia",
+    "full": "Sfântul Ierarh Probie, episcop de Ravena în Italia",
+    "short": "Probie, episcop de Ravena în Italia",
+    "given": "Probie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1d55044c-8fcb-45cf-a5e5-330c34e2752d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

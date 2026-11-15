@@ -1,0 +1,20 @@
+{
+  "id": "mamertin",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mamertin, egumenul Mănăstirii Sfinții Cosma",
+    "short": "Mamertin, egumenul Mănăstirii Sfinții Cosma",
+    "given": "Mamertin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5c0400f1-58cb-4b85-ab80-add97ad5e6e7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

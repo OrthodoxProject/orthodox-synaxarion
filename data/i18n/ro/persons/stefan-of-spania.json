@@ -1,0 +1,21 @@
+{
+  "id": "stefan-of-spania",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mărt. Ștefan din Spania",
+    "full": "Sfântul Cuvios Mărturisitor Ștefan din Spania",
+    "short": "Ștefan din Spania",
+    "given": "Ștefan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b36f6f29-4e4a-4341-b6c9-245ad3176087",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

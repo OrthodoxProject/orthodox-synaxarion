@@ -1,0 +1,21 @@
+{
+  "id": "saturnin-of-sardinia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Saturnin din Sardinia",
+    "full": "Sfântul Mucenic Saturnin din Sardinia",
+    "short": "Saturnin din Sardinia",
+    "given": "Saturnin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e3ddd0b8-5d20-4c61-b37d-95846455f811",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

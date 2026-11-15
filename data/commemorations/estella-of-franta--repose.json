@@ -1,0 +1,26 @@
+{
+  "id": "estella-of-franta--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:estella-of-franta"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 30
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/54d6601c-5c6a-40e4-8ea7-6e893de05d0a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

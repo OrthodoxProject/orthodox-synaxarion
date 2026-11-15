@@ -1,0 +1,20 @@
+{
+  "id": "anatolia-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Anatolia",
+    "short": "Anatolia",
+    "given": "Anatolia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/addeb1fb-8ad5-4b67-9934-894b41880f75",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

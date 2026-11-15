@@ -1,0 +1,21 @@
+{
+  "id": "pavel-23",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Pavel, nevoitor în Mănăstirea Caiumaș din Constantinopol",
+    "full": "Sfântul Cuvios Mucenic Pavel, nevoitor în Mănăstirea Caiumaș din Constantinopol",
+    "short": "Pavel, nevoitor în Mănăstirea Caiumaș din Constantinopol",
+    "given": "Pavel"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c8874f5b-6648-41d5-b638-d0e208f4b068",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

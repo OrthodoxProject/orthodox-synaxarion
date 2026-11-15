@@ -1,0 +1,21 @@
+{
+  "id": "machar-of-averdeen",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Machar, episcop de Averdeen în Scoția",
+    "full": "Sfântul Ierarh Machar, episcop de Averdeen în Scoția",
+    "short": "Machar, episcop de Averdeen în Scoția",
+    "given": "Machar"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c09b057d-5363-44d6-aa9a-95d22f5d94ca",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

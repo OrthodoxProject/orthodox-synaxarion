@@ -1,0 +1,26 @@
+{
+  "id": "levchie-marturisitorul-of-alexandria--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:levchie-marturisitorul-of-alexandria"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 20
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/fb0f12b0-9b29-480b-bbff-4887c8ca4349",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

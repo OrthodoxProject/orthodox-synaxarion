@@ -1,0 +1,20 @@
+{
+  "id": "stergia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Stergia",
+    "short": "Stergia",
+    "given": "Stergia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/aef074e5-5417-4a44-9191-a8aaa322e22e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

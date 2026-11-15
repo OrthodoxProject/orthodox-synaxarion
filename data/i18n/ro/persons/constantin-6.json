@@ -1,0 +1,21 @@
+{
+  "id": "constantin-6",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Constantin (Bogoiavlenski), preot din Rusia",
+    "full": "Sfântul Sfințit Nou Mucenic Constantin (Bogoiavlenski), preot din Rusia",
+    "short": "Constantin (Bogoiavlenski), preot din Rusia",
+    "given": "Constantin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1139",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

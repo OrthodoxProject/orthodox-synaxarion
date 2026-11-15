@@ -1,0 +1,20 @@
+{
+  "id": "calist",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Calist",
+    "short": "Calist",
+    "given": "Calist"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ebc00893-4c05-48f4-9968-9e8b2d2f1b1d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

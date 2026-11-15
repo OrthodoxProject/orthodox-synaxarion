@@ -1,0 +1,28 @@
+{
+  "id": "nichita-of-belevsk-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:nichita-of-belevsk",
+    "person:mihail-serghie",
+    "person:leontie-of-rusia-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 21
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c4fbbd37-0598-41ec-9854-df0b71096b8e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

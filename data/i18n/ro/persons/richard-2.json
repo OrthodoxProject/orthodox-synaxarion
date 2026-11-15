@@ -1,0 +1,21 @@
+{
+  "id": "richard-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Richard, monah din Verdun în Franța",
+    "full": "Sfântul Cuvios Richard, monah din Verdun în Franța",
+    "short": "Richard, monah din Verdun în Franța",
+    "given": "Richard"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/86a01338-d551-4f37-8f3c-89f536bd8a7e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

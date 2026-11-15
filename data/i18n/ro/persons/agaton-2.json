@@ -1,0 +1,20 @@
+{
+  "id": "agaton-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Agaton",
+    "short": "Agaton",
+    "given": "Agaton"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4abfe323-d62f-4bb6-8426-bbf67cf3e324",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

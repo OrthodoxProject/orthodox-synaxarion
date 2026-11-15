@@ -1,0 +1,36 @@
+{
+  "id": "nivita-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:nivita",
+    "person:candida-2",
+    "person:teodul-4",
+    "person:cantian-2",
+    "person:crisogon-2",
+    "person:gioconda",
+    "person:cantianila-2",
+    "person:anteon",
+    "person:prot",
+    "person:chintian-2",
+    "person:silviu"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 15
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c5bc152c-d489-4fef-aabe-f1068046931c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

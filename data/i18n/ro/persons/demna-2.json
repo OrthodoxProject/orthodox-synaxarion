@@ -1,0 +1,20 @@
+{
+  "id": "demna-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Demna",
+    "short": "Demna",
+    "given": "Demna"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b5128028-0f4b-4527-9c90-a46d2514989b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

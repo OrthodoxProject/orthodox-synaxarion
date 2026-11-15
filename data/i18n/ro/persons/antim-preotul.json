@@ -1,0 +1,21 @@
+{
+  "id": "antim-preotul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Antim Preotul",
+    "full": "Sfântul Sfințit Mucenic Antim Preotul",
+    "short": "Antim Preotul",
+    "given": "Antim"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/030deff0-e862-445b-b0be-d119cffd5548#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

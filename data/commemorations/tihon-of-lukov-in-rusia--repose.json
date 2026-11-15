@@ -1,0 +1,26 @@
+{
+  "id": "tihon-of-lukov-in-rusia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:tihon-of-lukov-in-rusia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 16
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/88c0a522-3e8b-4478-b2bb-191ea5ef5dcc",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

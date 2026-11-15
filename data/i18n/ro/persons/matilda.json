@@ -1,0 +1,21 @@
+{
+  "id": "matilda",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Matilda, soția regelui german Henry Vânătorul și întemeietoarea mai multor mănăstiri din Germania",
+    "full": "Sfânta Cuvioasă Matilda, soția regelui german Henry Vânătorul și întemeietoarea mai multor mănăstiri din Germania",
+    "short": "Matilda, soția regelui german Henry Vânătorul, întemeietoarea mai multor mănăstiri din Germania",
+    "given": "Matilda"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c05b1286-ad9b-448b-bb0d-0f9df556d965",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

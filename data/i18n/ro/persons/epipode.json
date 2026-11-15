@@ -1,0 +1,20 @@
+{
+  "id": "epipode",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Epipode",
+    "short": "Epipode",
+    "given": "Epipode"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8b46ed22-3453-463c-a1af-0634d202a026",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "aitala-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici Aitala, Evnoie și Sinezie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/870b2e4e-cd73-4f3f-bcb8-abea257aa264",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

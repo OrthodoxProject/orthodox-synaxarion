@@ -1,0 +1,26 @@
+{
+  "id": "sfantul-sfintit-new-mucenic-of-rusia-nicolae",
+  "kind": "repose",
+  "subjects": [
+    "group:sfantul-sfintit-new-mucenic-of-rusia-nicolae"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 13
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a9bbb06d-2c61-470e-833d-0575c2871b0f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

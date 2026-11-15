@@ -1,0 +1,21 @@
+{
+  "id": "leonien-of-vienne-in-franta",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Leonien de Vienne în Franța",
+    "full": "Sfântul Leonien de Vienne în Franța",
+    "short": "Leonien de Vienne în Franța",
+    "given": "Leonien"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d04b4d77-6931-4622-b6c7-147e337bf20f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

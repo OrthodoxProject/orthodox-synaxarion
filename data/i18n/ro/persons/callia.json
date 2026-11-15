@@ -1,0 +1,21 @@
+{
+  "id": "callia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Callia",
+    "full": "Sfânta Callia",
+    "short": "Callia",
+    "given": "Callia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5e94cea0-ce23-4702-84a0-f91327fa3c48",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

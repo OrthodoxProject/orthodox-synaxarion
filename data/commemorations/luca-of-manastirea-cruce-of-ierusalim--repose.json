@@ -1,0 +1,26 @@
+{
+  "id": "luca-of-manastirea-cruce-of-ierusalim--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:luca-of-manastirea-cruce-of-ierusalim"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 27
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/02545770-4c60-46b2-ac12-8c71f839f8c0",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

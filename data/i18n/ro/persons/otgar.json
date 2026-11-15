@@ -1,0 +1,21 @@
+{
+  "id": "otgar",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Otgar, ierodiacon la Odilienberg în Olanda",
+    "full": "Sfântul Cuvios Otgar, ierodiacon la Odilienberg în Olanda",
+    "short": "Otgar, ierodiacon la Odilienberg în Olanda",
+    "given": "Otgar"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/fe975b3c-61ed-450b-9dc3-fdf020f11037",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

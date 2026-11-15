@@ -1,0 +1,18 @@
+{
+  "id": "pavel-8-and-simon",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici Pavel și Simon"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/80b0f604-e1fe-4033-848b-adcd950212f6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "arhip-of-hieropolis--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:arhip-of-hieropolis"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 6
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/776#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

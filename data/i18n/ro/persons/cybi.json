@@ -1,0 +1,21 @@
+{
+  "id": "cybi",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Cybi, stareț la Cornwall în Anglia",
+    "full": "Sfântul Cuvios Cybi, stareț la Cornwall în Anglia",
+    "short": "Cybi, stareț la Cornwall în Anglia",
+    "given": "Cybi"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6659a348-da6a-4175-adde-80857442f5ff",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

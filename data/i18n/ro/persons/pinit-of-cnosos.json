@@ -1,0 +1,21 @@
+{
+  "id": "pinit-of-cnosos",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Pinit, episcop de Cnosos în insula Creta",
+    "full": "Sfântul Sfințit Mucenic Pinit, episcop de Cnosos în insula Creta",
+    "short": "Pinit, episcop de Cnosos în insula Creta",
+    "given": "Pinit"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/52400bfb-f3f9-4f68-9b8f-1d2ee1529bcb",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

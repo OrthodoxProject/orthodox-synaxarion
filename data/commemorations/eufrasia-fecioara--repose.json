@@ -1,0 +1,26 @@
+{
+  "id": "eufrasia-fecioara--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:eufrasia-fecioara"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 20
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4a758b00-f138-4be3-a321-cf16c051f0b6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

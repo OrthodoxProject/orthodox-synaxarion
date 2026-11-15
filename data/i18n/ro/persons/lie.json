@@ -1,0 +1,21 @@
+{
+  "id": "lie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Lie, preot lângă Orleans în Franța",
+    "full": "Sfântul Lie, preot lângă Orleans în Franța",
+    "short": "Lie, preot lângă Orleans în Franța",
+    "given": "Lie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6364c820-ec47-42da-880f-41ccd7b7fca6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

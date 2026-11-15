@@ -1,0 +1,26 @@
+{
+  "id": "pastor-of-orleans--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:pastor-of-orleans"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 30
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0840a113-76d1-4ffb-acb3-f70d661e6b36",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

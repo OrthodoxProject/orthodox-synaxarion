@@ -1,0 +1,26 @@
+{
+  "id": "amasie-of-tiano--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:amasie-of-tiano"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 23
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/77e20d01-d9bc-487f-ab5d-871e0f5b51bc",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

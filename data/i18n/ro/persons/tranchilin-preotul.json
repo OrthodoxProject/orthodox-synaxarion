@@ -1,0 +1,20 @@
+{
+  "id": "tranchilin-preotul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Tranchilin preotul, tatăl Sfinților Mucenici, Marcu",
+    "short": "Tranchilin preotul, tatăl Sfinților Mucenici, Marcu",
+    "given": "Tranchilin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/23821cba-8e87-4df6-a261-08ba6d7d5a4a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

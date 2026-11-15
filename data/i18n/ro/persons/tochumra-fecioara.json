@@ -1,0 +1,21 @@
+{
+  "id": "tochumra-fecioara",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Tochumra fecioara, cinstită la Kilmore în Irlanda",
+    "full": "Sfânta Tochumra fecioara, cinstită la Kilmore în Irlanda",
+    "short": "Tochumra fecioara, cinstită la Kilmore în Irlanda",
+    "given": "Tochumra"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c88386e4-2791-4eef-abcb-ff2d0c540cc8",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

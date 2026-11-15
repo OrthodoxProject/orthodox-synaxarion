@@ -1,0 +1,20 @@
+{
+  "id": "claudion",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Claudion",
+    "short": "Claudion",
+    "given": "Claudion"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3a9f480c-2e23-47e4-8c03-0788b91c982f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

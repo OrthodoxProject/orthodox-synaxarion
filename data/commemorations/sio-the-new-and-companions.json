@@ -1,0 +1,29 @@
+{
+  "id": "sio-the-new-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:sio-the-new",
+    "person:david-7",
+    "person:gabriel-2",
+    "person:pavel-of-manastirea-david-of-gareji-in"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 1
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e8b5b343-63d7-4393-90ee-c32d0efd3de7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

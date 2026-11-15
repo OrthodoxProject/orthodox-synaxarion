@@ -1,0 +1,26 @@
+{
+  "id": "alcuin-of-franta--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:alcuin-of-franta"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 19
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ac40381f-603d-46bc-9ada-c70191bc641d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

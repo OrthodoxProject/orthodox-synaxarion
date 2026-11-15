@@ -1,0 +1,26 @@
+{
+  "id": "grigore-episcopul-asului-of-anatolia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:grigore-episcopul-asului-of-anatolia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 4
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/90433136-3491-4e63-92e5-96c27eb2b545",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

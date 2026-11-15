@@ -1,0 +1,21 @@
+{
+  "id": "constantin-the-new",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Constantin cel Nou, împăratul Bizanțului",
+    "full": "Sfântul Constantin cel Nou, împăratul Bizanțului",
+    "short": "Constantin cel Nou, împăratul Bizanțului",
+    "given": "Constantin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4bb8acc0-d39b-455d-b662-8bab26b1eca0",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

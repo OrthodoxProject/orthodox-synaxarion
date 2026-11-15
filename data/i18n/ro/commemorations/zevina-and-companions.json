@@ -1,0 +1,18 @@
+{
+  "id": "zevina-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici Zevina, Gherman, Nichifor și Antonin din Cezareea Palestinei"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/134ac705-dc39-4e36-972a-1acc80bf497c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

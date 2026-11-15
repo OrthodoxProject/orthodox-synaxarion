@@ -1,0 +1,20 @@
+{
+  "id": "cogitos",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Cogitos, monah la Kildare în Irlanda",
+    "short": "Cogitos, monah la Kildare în Irlanda",
+    "given": "Cogitos"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0b5e633c-7d80-4c1f-9238-a6397bed1df4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

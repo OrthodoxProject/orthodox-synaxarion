@@ -1,0 +1,26 @@
+{
+  "id": "tyfil-of-anglia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:tyfil-of-anglia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 27
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/43dce67f-4a26-4ea5-9d07-0235fe19c747",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

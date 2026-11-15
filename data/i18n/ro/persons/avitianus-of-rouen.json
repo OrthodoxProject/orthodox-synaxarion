@@ -1,0 +1,21 @@
+{
+  "id": "avitianus-of-rouen",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Avițianus, episcop de Rouen în Franța",
+    "full": "Sfântul Ierarh Avițianus, episcop de Rouen în Franța",
+    "short": "Avițianus, episcop de Rouen în Franța",
+    "given": "Avițianus"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7672628a-2d89-460b-8776-3e6baa45519c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

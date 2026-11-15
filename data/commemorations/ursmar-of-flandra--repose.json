@@ -1,0 +1,26 @@
+{
+  "id": "ursmar-of-flandra--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:ursmar-of-flandra"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 19
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/10e33605-df87-4c99-b26e-aa3f4b2e9f52",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

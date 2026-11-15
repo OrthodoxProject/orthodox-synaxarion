@@ -1,0 +1,20 @@
+{
+  "id": "berchan-of-kirkwall",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Berchan, episcop de Kirkwall în Scoția",
+    "short": "Berchan, episcop de Kirkwall în Scoția",
+    "given": "Berchan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1dc8c55d-596a-4dd9-829c-f876ba71ab39",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

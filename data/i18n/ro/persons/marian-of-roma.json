@@ -1,0 +1,20 @@
+{
+  "id": "marian-of-roma",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Marian din Roma",
+    "short": "Marian din Roma",
+    "given": "Marian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c4ea05ce-69f8-4fd1-9e5a-e318f8a3a77a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

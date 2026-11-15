@@ -1,0 +1,26 @@
+{
+  "id": "andrei-of-florenta--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:andrei-of-florenta"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 26
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/95db4cff-6164-40c5-99da-c10f8efbd16d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

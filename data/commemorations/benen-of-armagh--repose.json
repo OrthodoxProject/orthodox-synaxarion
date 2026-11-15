@@ -1,0 +1,26 @@
+{
+  "id": "benen-of-armagh--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:benen-of-armagh"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 9
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3d862b7b-67b8-4aaa-890f-c6d74d4a5088",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

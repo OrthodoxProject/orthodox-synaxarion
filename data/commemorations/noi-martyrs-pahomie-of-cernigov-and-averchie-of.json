@@ -1,0 +1,26 @@
+{
+  "id": "noi-martyrs-pahomie-of-cernigov-and-averchie-of",
+  "kind": "repose",
+  "subjects": [
+    "group:noi-martyrs-pahomie-of-cernigov-and-averchie-of"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 15
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/88784934-3b95-4b5e-ad64-223ec82264ea",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

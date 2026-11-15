@@ -1,0 +1,21 @@
+{
+  "id": "daniel-pustnicul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Daniel pustnicul",
+    "full": "Sfântul Cuvios Mucenic Daniel pustnicul",
+    "short": "Daniel pustnicul",
+    "given": "Daniel"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/41b89671-306a-4c89-a0eb-4fd8bafae05f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

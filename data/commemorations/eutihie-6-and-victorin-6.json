@@ -1,0 +1,27 @@
+{
+  "id": "eutihie-6-and-victorin-6",
+  "kind": "repose",
+  "subjects": [
+    "person:eutihie-6",
+    "person:victorin-6"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 5
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3bb82fab-7647-42b4-b4bb-acbd763deb83",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

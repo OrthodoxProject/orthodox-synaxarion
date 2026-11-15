@@ -1,0 +1,21 @@
+{
+  "id": "dometie-of-manastirea-lerins-of-franta",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Dometie de la Mănăstirea Lerins din Franța",
+    "full": "Sfântul Cuvios Dometie de la Mănăstirea Lerins din Franța",
+    "short": "Dometie de la Mănăstirea Lerins din Franța",
+    "given": "Dometie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/951cacf2-ae6d-4d5c-af88-47e9dea5c5ba",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

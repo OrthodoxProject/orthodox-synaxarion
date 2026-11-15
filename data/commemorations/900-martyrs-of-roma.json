@@ -1,0 +1,26 @@
+{
+  "id": "900-martyrs-of-roma",
+  "kind": "repose",
+  "subjects": [
+    "group:900-martyrs-of-roma"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 4
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/57975805-0b03-4965-942d-4f774d4b4b09",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

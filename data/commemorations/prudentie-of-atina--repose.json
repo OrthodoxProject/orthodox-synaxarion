@@ -1,0 +1,26 @@
+{
+  "id": "prudentie-of-atina--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:prudentie-of-atina"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 1
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1c7199fb-fea0-4b6d-b3bf-1000d144bb8f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

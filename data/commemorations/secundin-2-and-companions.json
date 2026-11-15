@@ -1,0 +1,28 @@
+{
+  "id": "secundin-2-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:secundin-2",
+    "person:marcelin-8",
+    "person:verian-of-toscana-in-italia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 9
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/87a577e0-17e2-4342-8ad3-f01776cabed0",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "avdies",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Avdies (Avdiisus), ceilalți 270",
+    "short": "Avdies (Avdiisus), ceilalți 270",
+    "given": "Avdies"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/fed24174-e773-4660-aa95-a7c8d05b3500",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

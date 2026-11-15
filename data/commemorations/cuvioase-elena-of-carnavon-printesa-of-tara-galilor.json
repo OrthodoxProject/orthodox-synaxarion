@@ -1,0 +1,26 @@
+{
+  "id": "cuvioase-elena-of-carnavon-printesa-of-tara-galilor",
+  "kind": "repose",
+  "subjects": [
+    "group:cuvioase-elena-of-carnavon-printesa-of-tara-galilor"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 22
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/64b2cbea-2c8c-499d-a127-9eee5f8895da",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

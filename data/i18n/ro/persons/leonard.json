@@ -1,0 +1,21 @@
+{
+  "id": "leonard",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Leonard",
+    "full": "Sfântul Ierarh Leonard",
+    "short": "Leonard",
+    "given": "Leonard"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7d140a68-e44f-40ee-a060-eec9a2e278bd",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

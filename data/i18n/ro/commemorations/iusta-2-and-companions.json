@@ -1,0 +1,18 @@
+{
+  "id": "iusta-2-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sfintele Mucenițe Iusta, Iustina și Enedina"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/23ac6460-c0c5-40a4-8e87-6a435606f130",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

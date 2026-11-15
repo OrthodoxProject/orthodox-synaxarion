@@ -1,0 +1,26 @@
+{
+  "id": "syagrius-of-nice--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:syagrius-of-nice"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 23
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6ca147b6-cb90-4304-9078-8578d04f8f1b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

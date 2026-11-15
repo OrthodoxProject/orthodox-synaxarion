@@ -1,0 +1,20 @@
+{
+  "id": "firmat",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Firmat",
+    "short": "Firmat",
+    "given": "Firmat"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9049d0cc-2d33-42fe-a3d4-cbb8ff207207",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

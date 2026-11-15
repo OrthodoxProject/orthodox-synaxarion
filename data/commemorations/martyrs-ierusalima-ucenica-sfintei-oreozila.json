@@ -1,0 +1,26 @@
+{
+  "id": "martyrs-ierusalima-ucenica-sfintei-oreozila",
+  "kind": "repose",
+  "subjects": [
+    "group:martyrs-ierusalima-ucenica-sfintei-oreozila"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 26
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c795e3d9-6908-447f-902f-43b6ae9e055e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

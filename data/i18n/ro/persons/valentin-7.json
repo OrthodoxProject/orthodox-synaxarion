@@ -1,0 +1,20 @@
+{
+  "id": "valentin-7",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Valentin",
+    "short": "Valentin",
+    "given": "Valentin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a3d7d148-7ac3-4fd7-8a1e-2743eccf6109",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

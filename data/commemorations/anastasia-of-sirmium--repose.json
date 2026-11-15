@@ -1,0 +1,26 @@
+{
+  "id": "anastasia-of-sirmium--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:anastasia-of-sirmium"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 22
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ee685a43-eced-46bd-9824-b114cacda7a3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "gorfor-of-tara-galilor",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Gorfor din Țara Galilor",
+    "full": "Sfântul Gorfor din Țara Galilor",
+    "short": "Gorfor din Țara Galilor",
+    "given": "Gorfor"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f13f3ae4-0b7b-45a7-9b00-662a328265ea",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

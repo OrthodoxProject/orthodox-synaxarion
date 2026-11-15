@@ -1,0 +1,21 @@
+{
+  "id": "maxim-of-padova",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Maxim, episcop de Padova, mărturisitor și făcător de minuni în Italia",
+    "full": "Sfântul Ierarh Maxim, episcop de Padova, mărturisitor și făcător de minuni în Italia",
+    "short": "Maxim, episcop de Padova, mărturisitor, făcător de minuni în Italia",
+    "given": "Maxim"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f49ba733-40b3-4d67-bf34-1fdc9a4b48a4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

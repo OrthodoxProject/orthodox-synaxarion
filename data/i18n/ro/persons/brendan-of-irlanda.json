@@ -1,0 +1,21 @@
+{
+  "id": "brendan-of-irlanda",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Brendan, starețul Mănăstirii Birr din Irlanda",
+    "full": "Sfântul Cuvios Brendan, starețul Mănăstirii Birr din Irlanda",
+    "short": "Brendan, starețul Mănăstirii Birr din Irlanda",
+    "given": "Brendan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/71d34a57-1874-4bef-a285-e1ceb3d2633e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

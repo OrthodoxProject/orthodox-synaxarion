@@ -1,0 +1,26 @@
+{
+  "id": "noi-martyrs-atoniti",
+  "kind": "repose",
+  "subjects": [
+    "group:noi-martyrs-atoniti"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 10
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/70734875-cb9c-450e-8e72-2bfdc5e8a765",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

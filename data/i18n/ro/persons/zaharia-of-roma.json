@@ -1,0 +1,21 @@
+{
+  "id": "zaharia-of-roma",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ier. Zaharia, episcopul Romei",
+    "full": "Sfântul Cuvios Ierarh Zaharia, episcopul Romei",
+    "short": "Zaharia, episcopul Romei",
+    "given": "Zaharia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0b2b3da7-c99b-4570-8b1d-4e80f83580cc",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

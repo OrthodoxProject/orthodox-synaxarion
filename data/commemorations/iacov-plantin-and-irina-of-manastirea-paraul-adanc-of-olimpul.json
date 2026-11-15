@@ -1,0 +1,27 @@
+{
+  "id": "iacov-plantin-and-irina-of-manastirea-paraul-adanc-of-olimpul",
+  "kind": "repose",
+  "subjects": [
+    "person:iacov-plantin",
+    "person:irina-of-manastirea-paraul-adanc-of-olimpul"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 21
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f3ca773b-7a61-48f4-987d-84a1732a93f7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

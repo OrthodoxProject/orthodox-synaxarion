@@ -1,0 +1,20 @@
+{
+  "id": "chiriac-4",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Chiriac",
+    "short": "Chiriac",
+    "given": "Chiriac"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b3ca2c40-4312-4e66-9c06-b3a1b060fe5d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

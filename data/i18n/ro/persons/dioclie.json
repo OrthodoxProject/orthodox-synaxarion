@@ -1,0 +1,21 @@
+{
+  "id": "dioclie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Dioclie, nevoitor din Tebaida Egiptului",
+    "full": "Sfântul Cuvios Dioclie, nevoitor din Tebaida Egiptului",
+    "short": "Dioclie, nevoitor din Tebaida Egiptului",
+    "given": "Dioclie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/228be9d1-cc2a-4553-84e9-08b5afdc303f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

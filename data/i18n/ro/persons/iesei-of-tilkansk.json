@@ -1,0 +1,21 @@
+{
+  "id": "iesei-of-tilkansk",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Iesei, Episcop de Țilkansk (Georgia)",
+    "full": "Sfântul Iesei, Episcop de Țilkansk (Georgia)",
+    "short": "Iesei, Episcop de Țilkansk",
+    "given": "Iesei"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6640238f-a60a-447c-91cb-17b9f93b35e8",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "cadoc-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Cadoc, întemeietorul Mănăstirii Lancarfan din Anglia",
+    "full": "Sfântul Cuvios Cadoc, întemeietorul Mănăstirii Lancarfan din Anglia",
+    "short": "Cadoc, întemeietorul Mănăstirii Lancarfan din Anglia",
+    "given": "Cadoc"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b7e5f913-dcc9-4ebd-ac2e-0531e719a7dd",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

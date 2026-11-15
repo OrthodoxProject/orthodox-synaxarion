@@ -1,0 +1,20 @@
+{
+  "id": "andrei-13",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Andrei",
+    "short": "Andrei",
+    "given": "Andrei"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8fdbbc15-7a35-4155-9dc6-83988ca0a85b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

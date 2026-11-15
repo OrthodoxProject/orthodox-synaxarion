@@ -1,0 +1,21 @@
+{
+  "id": "solomon-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Solomon, regele Bretaniei",
+    "full": "Sfântul Mucenic Solomon, regele Bretaniei",
+    "short": "Solomon, regele Bretaniei",
+    "given": "Solomon"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/adb1d218-e595-4f67-a541-371f5a9ed136",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

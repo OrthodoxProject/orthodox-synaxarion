@@ -1,0 +1,30 @@
+{
+  "id": "vladimir-9-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:vladimir-9",
+    "person:stefan-4",
+    "person:pavel-7",
+    "person:dimitrie-3",
+    "person:eugen-of-rusia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 30
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6af673cc-2adc-47fb-83c4-554a75f4bb72",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

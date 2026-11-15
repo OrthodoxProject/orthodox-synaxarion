@@ -1,0 +1,27 @@
+{
+  "id": "polihroniu-and-damian-of-siria",
+  "kind": "repose",
+  "subjects": [
+    "person:polihroniu",
+    "person:damian-of-siria"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 23
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3db624b9-d7ea-4595-b71b-f12e52c9b4e4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

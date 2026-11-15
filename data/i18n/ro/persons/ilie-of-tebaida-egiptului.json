@@ -1,0 +1,21 @@
+{
+  "id": "ilie-of-tebaida-egiptului",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ilie, făcătorul de minuni, din Tebaida Egiptului",
+    "full": "Sfântul Cuvios Ilie, făcătorul de minuni, din Tebaida Egiptului",
+    "short": "Ilie, făcătorul de minuni, din Tebaida Egiptului",
+    "given": "Ilie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/de03e396-164f-41b2-860e-614d235c294d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "apolinarie-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Apolinarie",
+    "short": "Apolinarie",
+    "given": "Apolinarie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/44f1d8c0-90ea-42f2-bff8-4a48fde6accd",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

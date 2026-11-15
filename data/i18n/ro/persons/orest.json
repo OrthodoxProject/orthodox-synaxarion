@@ -1,0 +1,20 @@
+{
+  "id": "orest",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Orest",
+    "short": "Orest",
+    "given": "Orest"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/cd66fbdc-a43d-4c1b-bb2b-389774ca7090",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

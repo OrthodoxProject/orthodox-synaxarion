@@ -1,0 +1,21 @@
+{
+  "id": "trudo",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Trudo, egumen în Olanda",
+    "full": "Sfântul Cuvios Trudo, egumen în Olanda",
+    "short": "Trudo, egumen în Olanda",
+    "given": "Trudo"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3709ed53-fec5-4147-8ea8-b60c68a8987d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

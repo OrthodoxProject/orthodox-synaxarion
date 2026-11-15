@@ -1,0 +1,21 @@
+{
+  "id": "geruntius-of-talco",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Geruntius, episcop de Talco în Italia",
+    "full": "Sfântul Sfințit Mucenic Geruntius, episcop de Talco în Italia",
+    "short": "Geruntius, episcop de Talco în Italia",
+    "given": "Geruntius"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0d6febab-a091-45b5-bc42-c352cfc27cfa",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "neofit-the-great--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:neofit-the-great"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 10
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e1406260-5264-4d70-b8bf-8dc856aa29a6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

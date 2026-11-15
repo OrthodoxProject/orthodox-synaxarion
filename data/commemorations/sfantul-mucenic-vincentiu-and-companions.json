@@ -1,0 +1,26 @@
+{
+  "id": "sfantul-mucenic-vincentiu-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "group:sfantul-mucenic-vincentiu-and-companions"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 25
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f856bc28-2e4c-4f25-8ef6-fecd2ea8b607",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

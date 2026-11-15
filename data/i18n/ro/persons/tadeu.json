@@ -1,0 +1,21 @@
+{
+  "id": "tadeu",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Tadeu",
+    "full": "Sfântul Mucenic Tadeu",
+    "short": "Tadeu",
+    "given": "Tadeu"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5d60d798-493d-45eb-b7ea-665b674d0c49",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

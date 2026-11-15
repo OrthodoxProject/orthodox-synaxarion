@@ -1,0 +1,26 @@
+{
+  "id": "2-martyrs-of-tir",
+  "kind": "repose",
+  "subjects": [
+    "group:2-martyrs-of-tir"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 8
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ea01d0bb-4831-4b81-b799-9969ccca772d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

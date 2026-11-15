@@ -1,0 +1,21 @@
+{
+  "id": "avudim-of-insula-tenedos",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Avudim din insula Tenedos (secolul al IV-lea)",
+    "full": "Sfântul Mucenic Avudim din insula Tenedos (secolul al IV-lea)",
+    "short": "Avudim din insula Tenedos",
+    "given": "Avudim"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/24e1ec54-0db5-4c93-825e-f45a58e095eb",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

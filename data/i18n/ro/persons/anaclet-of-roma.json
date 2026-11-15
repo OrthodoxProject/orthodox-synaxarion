@@ -1,0 +1,21 @@
+{
+  "id": "anaclet-of-roma",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Anaclet, episcopul Romei",
+    "full": "Sfântul Sfințit Mucenic Anaclet, episcopul Romei",
+    "short": "Anaclet, episcopul Romei",
+    "given": "Anaclet"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/15d2a1d5-79f5-4f83-8ba1-f6c43bf8fd40",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "boetiu-filozoful",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Boețiu filozoful, senator din Roma",
+    "full": "Sfântul Mucenic Boețiu filozoful, senator din Roma",
+    "short": "Boețiu filozoful, senator din Roma",
+    "given": "Boețiu"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9f356104-e339-4c3c-a90c-26bd151c1355",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

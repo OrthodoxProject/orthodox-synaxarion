@@ -1,0 +1,20 @@
+{
+  "id": "reghin",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Reghin",
+    "short": "Reghin",
+    "given": "Reghin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/fc74a101-6e54-4ae8-9852-ac4a75ae1a8d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

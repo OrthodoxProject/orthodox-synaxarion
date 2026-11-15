@@ -1,0 +1,26 @@
+{
+  "id": "sfantul-sfintit-mucenic-ilie-preot-of-cordoba-in",
+  "kind": "repose",
+  "subjects": [
+    "group:sfantul-sfintit-mucenic-ilie-preot-of-cordoba-in"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 17
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4c428671-a355-403d-8400-26e119ba2984",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

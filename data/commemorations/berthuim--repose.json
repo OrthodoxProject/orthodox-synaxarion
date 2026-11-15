@@ -1,0 +1,26 @@
+{
+  "id": "berthuim--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:berthuim"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 11
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a5d4221d-1d28-4f42-b2cf-9ee7cd223495",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

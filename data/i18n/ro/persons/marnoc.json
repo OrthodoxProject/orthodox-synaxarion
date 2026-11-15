@@ -1,0 +1,21 @@
+{
+  "id": "marnoc",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Marnoc, întemeietorul Mănăstirii Rathnew din Irlanda",
+    "full": "Sfântul Cuvios Marnoc, întemeietorul Mănăstirii Rathnew din Irlanda",
+    "short": "Marnoc, întemeietorul Mănăstirii Rathnew din Irlanda",
+    "given": "Marnoc"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/34f74e39-5cbc-4509-9c89-dde6b422d44f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

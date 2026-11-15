@@ -1,0 +1,20 @@
+{
+  "id": "antigona",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Antigona",
+    "short": "Antigona",
+    "given": "Antigona"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a6741928-b902-41ea-b18c-1ab34d789d5d#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

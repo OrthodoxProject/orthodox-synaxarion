@@ -1,0 +1,26 @@
+{
+  "id": "ioan-of-valga-in-estonia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:ioan-of-valga-in-estonia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 29
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/fa0d3d90-4f42-432d-84a3-7d8abe4069bb",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

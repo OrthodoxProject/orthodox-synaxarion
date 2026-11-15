@@ -1,0 +1,18 @@
+{
+  "id": "papia-and-maur-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici Papia și Maur"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/bbda649a-bba5-4535-a975-1380ee618500",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

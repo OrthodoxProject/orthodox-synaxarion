@@ -1,0 +1,21 @@
+{
+  "id": "grigorie-of-mogilev",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Grigorie, arhiepiscop de Mogilev în Belarus",
+    "full": "Sfântul Ierarh Grigorie, arhiepiscop de Mogilev în Belarus",
+    "short": "Grigorie, arhiepiscop de Mogilev în Belarus",
+    "given": "Grigorie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/30bfc7d0-a258-4388-90e9-109de2cd0bbf",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "epigmen-preotul-of-roma",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Epigmen preotul din Roma",
+    "full": "Sfântul Sfințit Mucenic Epigmen preotul din Roma",
+    "short": "Epigmen preotul din Roma",
+    "given": "Epigmen"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/918707f8-31a4-4749-a033-40e8bc892685",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

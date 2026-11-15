@@ -1,0 +1,26 @@
+{
+  "id": "senator-of-verona--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:senator-of-verona"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 7
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/528911d5-0399-41ec-a624-09c5dd68f780",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

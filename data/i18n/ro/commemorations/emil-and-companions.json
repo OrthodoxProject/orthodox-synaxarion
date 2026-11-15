@@ -1,0 +1,18 @@
+{
+  "id": "emil-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici Emil, Felix, Priam și Lucian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3c96ff90-7d2a-4344-b162-4d7545de4d4a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

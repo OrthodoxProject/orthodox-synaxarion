@@ -1,0 +1,18 @@
+{
+  "id": "40-martyrs",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții 40 de Mucenici"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3c08778f-4fad-41e1-a59a-2693002d3eda",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "william-of-penacorada-in-spania--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:william-of-penacorada-in-spania"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 20
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/54c43dcd-bfc7-48ef-b103-8ef364eb9126",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

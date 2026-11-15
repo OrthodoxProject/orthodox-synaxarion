@@ -1,0 +1,21 @@
+{
+  "id": "tutilo",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Tutilo, monah din Elveția",
+    "full": "Sfântul Cuvios Tutilo, monah din Elveția",
+    "short": "Tutilo, monah din Elveția",
+    "given": "Tutilo"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1505ff5d-9261-4838-9f1a-919a1ced885b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

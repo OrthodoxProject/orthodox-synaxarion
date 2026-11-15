@@ -1,0 +1,21 @@
+{
+  "id": "chiril-of-trier",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Chiril, episcop de Trier în Germania",
+    "full": "Sfântul Ierarh Chiril, episcop de Trier în Germania",
+    "short": "Chiril, episcop de Trier în Germania",
+    "given": "Chiril"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f70bad21-0bb5-4842-bd85-86edbeafa65e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "priscila-of-roma--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:priscila-of-roma"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 16
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/375a0a71-d387-4beb-ab09-00fc9a0588e3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "iulian-of-toledo",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Iulian, arhiepiscop de Toledo și primul mitropolit a toată Spania",
+    "full": "Sfântul Ierarh Iulian, arhiepiscop de Toledo și primul mitropolit a toată Spania",
+    "short": "Iulian, arhiepiscop de Toledo, primul mitropolit a toată Spania",
+    "given": "Iulian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8a98d630-ac6f-47a9-a67a-a0f7b59260dd",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

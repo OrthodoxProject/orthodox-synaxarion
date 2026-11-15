@@ -1,0 +1,20 @@
+{
+  "id": "secundin",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Secundin",
+    "short": "Secundin",
+    "given": "Secundin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e1293a88-28f1-41e4-8030-e52c9a56c5f6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

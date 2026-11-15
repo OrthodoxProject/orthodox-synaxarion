@@ -1,0 +1,21 @@
+{
+  "id": "adamnan",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Adamnan, stareț la Iona în Anglia",
+    "full": "Sfântul Cuvios Adamnan, stareț la Iona în Anglia",
+    "short": "Adamnan, stareț la Iona în Anglia",
+    "given": "Adamnan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d2313147-abb4-4f9d-9e1d-3317f0dd1e49",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

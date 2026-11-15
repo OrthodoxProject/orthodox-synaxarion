@@ -1,0 +1,21 @@
+{
+  "id": "clair",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Clair, preot la Vexion în Franța",
+    "full": "Sfântul Sfințit Mucenic Clair, preot la Vexion în Franța",
+    "short": "Clair, preot la Vexion în Franța",
+    "given": "Clair"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3669c96e-cf0c-44b7-a310-e59a3efb653f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

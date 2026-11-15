@@ -1,0 +1,21 @@
+{
+  "id": "sofia-4",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Sofia, făcătoarea de minuni",
+    "full": "Sfânta Cuvioasă Sofia, făcătoarea de minuni",
+    "short": "Sofia, făcătoarea de minuni",
+    "given": "Sofia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7f0bc33e-a99a-4a5a-af3c-5a5954d74221",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

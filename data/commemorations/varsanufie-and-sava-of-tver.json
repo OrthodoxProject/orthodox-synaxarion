@@ -1,0 +1,27 @@
+{
+  "id": "varsanufie-and-sava-of-tver",
+  "kind": "repose",
+  "subjects": [
+    "person:varsanufie",
+    "person:sava-of-tver"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 2
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ca9da6bd-aa2a-4a58-8b69-3adf7b0d8b18",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

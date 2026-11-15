@@ -1,0 +1,21 @@
+{
+  "id": "nissen",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Nissen, egumen la Montgarth în Irlanda",
+    "full": "Sfântul Cuvios Nissen, egumen la Montgarth în Irlanda",
+    "short": "Nissen, egumen la Montgarth în Irlanda",
+    "given": "Nissen"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b8182d94-af9a-4f3e-a2a6-43606162087b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

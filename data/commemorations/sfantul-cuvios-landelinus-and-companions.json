@@ -1,0 +1,26 @@
+{
+  "id": "sfantul-cuvios-landelinus-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "group:sfantul-cuvios-landelinus-and-companions"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 15
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2c0d183c-d05c-4f18-ad2b-e1d822a3dc58",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

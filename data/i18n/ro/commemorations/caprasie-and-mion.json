@@ -1,0 +1,18 @@
+{
+  "id": "caprasie-and-mion",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Cuvioși Caprasie, pustnic din Mănăstirea Lerins, și Mion, pustnic la Menat în Franța"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0a2295a2-f6b8-4b78-be45-8384796f0564",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

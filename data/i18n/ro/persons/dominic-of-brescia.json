@@ -1,0 +1,21 @@
+{
+  "id": "dominic-of-brescia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Dominic, episcop de Brescia în Italia",
+    "full": "Sfântul Ierarh Dominic, episcop de Brescia în Italia",
+    "short": "Dominic, episcop de Brescia în Italia",
+    "given": "Dominic"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/21871f03-ba65-4113-b6cd-ebd50a1040be",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

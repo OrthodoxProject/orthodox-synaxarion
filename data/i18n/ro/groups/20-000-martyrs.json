@@ -1,0 +1,18 @@
+{
+  "id": "20-000-martyrs",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții 20.000 de Mucenici"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/fac82b5f-a4ed-4697-81fd-e8e40212b1b1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

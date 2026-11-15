@@ -1,0 +1,20 @@
+{
+  "id": "elisabeta-of-rusia-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințită Nouă Mc. Elisabeta (Crîmov) din Rusia",
+    "short": "Elisabeta (Crîmov) din Rusia",
+    "given": "Elisabeta"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8bdbd301-64ea-443a-b444-0ffa89e9517f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

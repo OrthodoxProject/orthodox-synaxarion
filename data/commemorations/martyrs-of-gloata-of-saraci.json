@@ -1,0 +1,26 @@
+{
+  "id": "martyrs-of-gloata-of-saraci",
+  "kind": "repose",
+  "subjects": [
+    "group:martyrs-of-gloata-of-saraci"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 18
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/03f0752d-02c8-42ca-878a-3a5d4418c04a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

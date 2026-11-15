@@ -1,0 +1,26 @@
+{
+  "id": "ambrozie-4--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:ambrozie-4"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 2
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7e48f49c-803b-4213-b434-16ee3cf67d3a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

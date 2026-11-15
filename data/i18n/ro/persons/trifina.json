@@ -1,0 +1,20 @@
+{
+  "id": "trifina",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințită Mc. Trifina",
+    "short": "Trifina",
+    "given": "Trifina"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4abfe323-d62f-4bb6-8426-bbf67cf3e324",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

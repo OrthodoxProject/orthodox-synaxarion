@@ -1,0 +1,20 @@
+{
+  "id": "maxim-16",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Maxim",
+    "short": "Maxim",
+    "given": "Maxim"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f36c257f-bd1b-4441-9c2d-64c302eec08d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

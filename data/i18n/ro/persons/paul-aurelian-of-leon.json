@@ -1,0 +1,21 @@
+{
+  "id": "paul-aurelian-of-leon",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Paul Aurelian, episcop de Leon în Bretania din Franța",
+    "full": "Sfântul Ierarh Paul Aurelian, episcop de Leon în Bretania din Franța",
+    "short": "Paul Aurelian, episcop de Leon în Bretania din Franța",
+    "given": "Paul"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c84366a1-9c69-4cea-949b-c26e866b21ed",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

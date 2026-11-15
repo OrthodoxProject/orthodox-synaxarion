@@ -1,0 +1,26 @@
+{
+  "id": "martin-of-trier--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:martin-of-trier"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 19
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3b0f9edc-11c6-4e7d-abdc-1bf9744d65d7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

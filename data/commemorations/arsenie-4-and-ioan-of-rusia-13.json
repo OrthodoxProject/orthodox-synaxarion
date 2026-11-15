@@ -1,0 +1,27 @@
+{
+  "id": "arsenie-4-and-ioan-of-rusia-13",
+  "kind": "repose",
+  "subjects": [
+    "person:arsenie-4",
+    "person:ioan-of-rusia-13"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 23
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8ecb72aa-9b3a-40db-a6fe-e6575e14a674",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

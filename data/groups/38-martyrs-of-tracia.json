@@ -1,0 +1,25 @@
+{
+  "id": "38-martyrs-of-tracia",
+  "kind": "martyrs",
+  "count": {
+    "value": 38,
+    "precision": "exact"
+  },
+  "holiness_types": [
+    "martyr"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9787f8bb-171f-4b7c-8b94-56c1cecae083",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

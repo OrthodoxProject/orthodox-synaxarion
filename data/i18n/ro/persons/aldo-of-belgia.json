@@ -1,0 +1,21 @@
+{
+  "id": "aldo-of-belgia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Aldo, starețul Mănăstirii Hasnon din Belgia",
+    "full": "Sfântul Cuvios Aldo, starețul Mănăstirii Hasnon din Belgia",
+    "short": "Aldo, starețul Mănăstirii Hasnon din Belgia",
+    "given": "Aldo"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/66bf9fc8-632a-4df2-9a2c-37d44aa9a031",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

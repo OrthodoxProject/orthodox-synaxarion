@@ -1,0 +1,20 @@
+{
+  "id": "alexie-6",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Alexie (Nikitrskii)",
+    "short": "Alexie (Nikitrskii)",
+    "given": "Alexie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2445a78c-69d4-47b3-ba87-a7fe0a3cd735",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

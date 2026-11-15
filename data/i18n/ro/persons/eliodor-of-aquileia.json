@@ -1,0 +1,21 @@
+{
+  "id": "eliodor-of-aquileia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Eliodor, episcop de Aquileia în Italia",
+    "full": "Sfântul Ierarh Eliodor, episcop de Aquileia în Italia",
+    "short": "Eliodor, episcop de Aquileia în Italia",
+    "given": "Eliodor"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8865122b-dae2-44c3-8f42-fb387a85b904",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "cucufas-of-nordul-africii",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Cucufas din nordul Africii",
+    "full": "Sfântul Mucenic Cucufas din nordul Africii",
+    "short": "Cucufas din nordul Africii",
+    "given": "Cucufas"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/794a0812-e706-4aa6-8370-d3b51f98707e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

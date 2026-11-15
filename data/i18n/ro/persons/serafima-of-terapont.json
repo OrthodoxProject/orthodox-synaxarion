@@ -1,0 +1,21 @@
+{
+  "id": "serafima-of-terapont",
+  "locale": "ro",
+  "names": {
+    "display": "Cuvioasa Mc., Serafima (Sulimova) de Terapont",
+    "full": "Cuvioasa Muceniță, Serafima (Sulimova) de Terapont",
+    "short": "Serafima (Sulimova) de Terapont",
+    "given": "Serafima"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f0657ede-23e3-4342-a4fb-6b291b8a42ca#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

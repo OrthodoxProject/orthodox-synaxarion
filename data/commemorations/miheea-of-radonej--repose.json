@@ -1,0 +1,26 @@
+{
+  "id": "miheea-of-radonej--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:miheea-of-radonej"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 6
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9b09da41-703c-45f5-9e77-685bf8aebe2f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

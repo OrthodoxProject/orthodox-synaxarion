@@ -1,0 +1,21 @@
+{
+  "id": "bonifatie-of-ferentino-lazio",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Bonifatie, episcop de Ferentino-Lazio în Italia",
+    "full": "Sfântul Ierarh Bonifatie, episcop de Ferentino-Lazio în Italia",
+    "short": "Bonifatie, episcop de Ferentino-Lazio în Italia",
+    "given": "Bonifatie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7e516b61-209a-40db-a2ff-05692e047156",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "fortunat-7",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Fortunat, diacon din Italia",
+    "full": "Sfântul Sfințit Mucenic Fortunat, diacon din Italia",
+    "short": "Fortunat, diacon din Italia",
+    "given": "Fortunat"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/78b79b50-f490-40f1-a787-81b6ede33cf8",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

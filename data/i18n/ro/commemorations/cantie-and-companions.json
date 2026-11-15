@@ -1,0 +1,18 @@
+{
+  "id": "cantie-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici Canție, Canțian, Canțianila, sora lor"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0d907654-d041-4600-8975-fec5d6e7053c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

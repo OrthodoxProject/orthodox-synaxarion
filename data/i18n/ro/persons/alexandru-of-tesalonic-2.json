@@ -1,0 +1,21 @@
+{
+  "id": "alexandru-of-tesalonic-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Alexandru din Tesalonic",
+    "full": "Sfântul Mucenic Alexandru din Tesalonic",
+    "short": "Alexandru din Tesalonic",
+    "given": "Alexandru"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/23c8c5e7-9f88-4a25-b923-30b98a34f6cb",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "acolut-of-hermopolis-in-egipt--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:acolut-of-hermopolis-in-egipt"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 19
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7fdab270-6730-4d42-be9d-4f3839a48488",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

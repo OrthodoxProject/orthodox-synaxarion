@@ -1,0 +1,20 @@
+{
+  "id": "saturus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Saturus",
+    "short": "Saturus",
+    "given": "Saturus"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6255c52c-9e74-482c-ae67-43ac41f0ecc1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

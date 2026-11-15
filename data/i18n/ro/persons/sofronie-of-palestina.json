@@ -1,0 +1,21 @@
+{
+  "id": "sofronie-of-palestina",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Sofronie, starețul Mănăstirii Sfântul Teodosie din Palestina",
+    "full": "Sfântul Cuvios Sofronie, starețul Mănăstirii Sfântul Teodosie din Palestina",
+    "short": "Sofronie, starețul Mănăstirii Sfântul Teodosie din Palestina",
+    "given": "Sofronie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/766fe694-e9af-455d-9922-009ea1491b90",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

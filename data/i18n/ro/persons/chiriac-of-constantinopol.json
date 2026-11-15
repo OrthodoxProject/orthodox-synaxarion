@@ -1,0 +1,21 @@
+{
+  "id": "chiriac-of-constantinopol",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Chiriac, patriarhul Constantinopolului",
+    "full": "Sfântul Ierarh Chiriac, patriarhul Constantinopolului",
+    "short": "Chiriac, patriarhul Constantinopolului",
+    "given": "Chiriac"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ee5c5377-d9aa-4c00-af25-397ba661c205",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

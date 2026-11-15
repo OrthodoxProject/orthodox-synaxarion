@@ -1,0 +1,20 @@
+{
+  "id": "chiriac-of-roma",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Chiriac din Roma",
+    "short": "Chiriac din Roma",
+    "given": "Chiriac"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2087e269-b5db-41fc-b154-5a46b8ed4641",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

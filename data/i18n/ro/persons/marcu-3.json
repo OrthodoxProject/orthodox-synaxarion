@@ -1,0 +1,20 @@
+{
+  "id": "marcu-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Marcu, ieromonah la Corbeny în Anglia",
+    "short": "Marcu, ieromonah la Corbeny în Anglia",
+    "given": "Marcu"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/eb3ea1e6-72d6-45fc-ab50-37a09ad24e64",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

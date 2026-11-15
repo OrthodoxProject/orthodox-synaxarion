@@ -1,0 +1,26 @@
+{
+  "id": "alfwold-of-sherborne--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:alfwold-of-sherborne"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 25
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/34b236c7-6491-4565-b1f2-801585d9cd4f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

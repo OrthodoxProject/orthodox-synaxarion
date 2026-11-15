@@ -1,0 +1,20 @@
+{
+  "id": "fortunat-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Fortunat",
+    "short": "Fortunat",
+    "given": "Fortunat"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8904d434-590f-494b-b4cd-88b089a560c4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

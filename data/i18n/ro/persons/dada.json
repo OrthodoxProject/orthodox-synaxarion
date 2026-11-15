@@ -1,0 +1,20 @@
+{
+  "id": "dada",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Dada",
+    "short": "Dada",
+    "given": "Dada"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b4e3c9d4-0405-45ad-9c77-09cebf37c910",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

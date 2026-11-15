@@ -1,0 +1,21 @@
+{
+  "id": "lewinna",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Lewinna, pustnică din Anglia",
+    "full": "Sfânta Cuvioasă Muceniță Lewinna, pustnică din Anglia",
+    "short": "Lewinna, pustnică din Anglia",
+    "given": "Lewinna"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/30e921b3-0998-451f-a00f-5e2650fe10e6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

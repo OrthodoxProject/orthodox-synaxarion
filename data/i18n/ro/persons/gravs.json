@@ -1,0 +1,21 @@
+{
+  "id": "gravs",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Gravs",
+    "full": "Sfânta Muceniță Gravs",
+    "short": "Gravs",
+    "given": "Gravs"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2c3af862-bb9f-4888-869f-e77eac7cf1b9#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

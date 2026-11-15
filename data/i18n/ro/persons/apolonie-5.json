@@ -1,0 +1,26 @@
+{
+  "id": "apolonie-5",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Apolonie, senator din Roma",
+    "full": "Sfântul Mucenic Apolonie, senator din Roma",
+    "short": "Apolonie, senator din Roma",
+    "given": "Apolonie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9489d746-684d-4aeb-b7e4-137081c1a6a7",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/cb424cb9-b7e3-4fd5-9a49-1e6b6b31cd4c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

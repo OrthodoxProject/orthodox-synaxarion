@@ -1,0 +1,18 @@
+{
+  "id": "synaxis-of-hierarchs-evanghelizatori-ai-bisericii-sarbe",
+  "locale": "ro",
+  "names": {
+    "display": "Soborul Sfinților Ierarhi evanghelizatori ai Bisericii Sârbe"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/521c24bb-ac75-4d82-b70f-e55a03a8d1de",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

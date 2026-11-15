@@ -1,0 +1,26 @@
+{
+  "id": "augustina-fecioara-of-treviso-in-italia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:augustina-fecioara-of-treviso-in-italia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 27
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d7fd0e04-18c2-4c77-8edc-630ca6031a9b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

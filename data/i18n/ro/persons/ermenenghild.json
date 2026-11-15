@@ -1,0 +1,21 @@
+{
+  "id": "ermenenghild",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Ermenenghild, fiul regelui goților din Sevilia în Spania",
+    "full": "Sfântul Mucenic Ermenenghild, fiul regelui goților din Sevilia în Spania",
+    "short": "Ermenenghild, fiul regelui goților din Sevilia în Spania",
+    "given": "Ermenenghild"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b1c9eba3-b2eb-4789-b5be-05e86ee2d7a4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

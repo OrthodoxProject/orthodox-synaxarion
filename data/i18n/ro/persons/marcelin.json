@@ -1,0 +1,21 @@
+{
+  "id": "marcelin",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Marcelin, dregător împărătesc",
+    "full": "Sfântul Mucenic Marcelin, dregător împărătesc",
+    "short": "Marcelin, dregător împărătesc",
+    "given": "Marcelin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/67b8109f-2c03-4066-94d9-6ab755b795d5#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

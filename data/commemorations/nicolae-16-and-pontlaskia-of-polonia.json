@@ -1,0 +1,27 @@
+{
+  "id": "nicolae-16-and-pontlaskia-of-polonia",
+  "kind": "repose",
+  "subjects": [
+    "person:nicolae-16",
+    "person:pontlaskia-of-polonia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 2
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2b14fe22-730e-41ee-8b9c-a3824f291591",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

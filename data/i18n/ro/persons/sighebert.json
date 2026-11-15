@@ -1,0 +1,21 @@
+{
+  "id": "sighebert",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Sighebert, regele Angliei de Est",
+    "full": "Sfântul Mucenic Sighebert, regele Angliei de Est",
+    "short": "Sighebert, regele Angliei de Est",
+    "given": "Sighebert"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/978260e5-e071-4527-8421-d505ded92b52",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

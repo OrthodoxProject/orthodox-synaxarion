@@ -1,0 +1,21 @@
+{
+  "id": "moise-of-nomazi",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Moise, episcopul nomazilor din pustia Egiptului",
+    "full": "Sfântul Ierarh Moise, episcopul nomazilor din pustia Egiptului",
+    "short": "Moise, episcopul nomazilor din pustia Egiptului",
+    "given": "Moise"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c6aa3c42-617a-45f7-9f67-6a843eba655b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "andromah-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:andromah",
+    "person:diodor-6",
+    "person:evagrie-2",
+    "person:priscian-of-roma"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 12
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5561262b-872a-4641-8adb-6a26716a301d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

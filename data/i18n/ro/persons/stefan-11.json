@@ -1,0 +1,20 @@
+{
+  "id": "stefan-11",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Ștefan",
+    "short": "Ștefan",
+    "given": "Ștefan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/46c488aa-5954-45fe-9763-094158c18547",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

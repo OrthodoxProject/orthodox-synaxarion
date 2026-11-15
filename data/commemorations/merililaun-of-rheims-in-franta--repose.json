@@ -1,0 +1,26 @@
+{
+  "id": "merililaun-of-rheims-in-franta--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:merililaun-of-rheims-in-franta"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 18
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3aab9404-eceb-4929-8306-32f674cf66e9",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

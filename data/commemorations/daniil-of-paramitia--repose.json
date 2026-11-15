@@ -1,0 +1,26 @@
+{
+  "id": "daniil-of-paramitia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:daniil-of-paramitia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 18
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a4a6fd8d-e581-4177-858e-efa0ec9abd8b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

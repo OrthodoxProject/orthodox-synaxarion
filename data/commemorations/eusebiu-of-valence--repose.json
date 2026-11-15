@@ -1,0 +1,26 @@
+{
+  "id": "eusebiu-of-valence--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:eusebiu-of-valence"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 23
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4f3255d0-a07a-47b6-9cf1-87323dbe9143",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "emetrie-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:emetrie",
+    "person:maxim-4",
+    "person:felix-of-roma"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 24
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2a40b53e-80af-4a2d-80a9-38f91d7d3520",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

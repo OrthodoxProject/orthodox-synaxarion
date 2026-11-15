@@ -1,0 +1,26 @@
+{
+  "id": "vigiliu-of-trento--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:vigiliu-of-trento"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 26
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2272a180-2efd-4c00-a133-da595f7405c9",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

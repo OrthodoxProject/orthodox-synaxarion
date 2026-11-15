@@ -1,0 +1,21 @@
+{
+  "id": "prosdochimie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Prosdochimie, primul episcop de Padova în Italia, ucenicul Sfântului Ap. Petru",
+    "full": "Sfântul Ierarh Prosdochimie, primul episcop de Padova în Italia, ucenicul Sfântului Apostol Petru",
+    "short": "Prosdochimie, primul episcop de Padova în Italia, ucenicul Sfântului Apostol Petru",
+    "given": "Prosdochimie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d91572df-15ee-42ae-baa4-735bbfdb725a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

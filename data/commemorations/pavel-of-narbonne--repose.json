@@ -1,0 +1,26 @@
+{
+  "id": "pavel-of-narbonne--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:pavel-of-narbonne"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 22
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7094c91c-9ba6-4605-8128-0e9925c9a18b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

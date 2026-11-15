@@ -1,0 +1,20 @@
+{
+  "id": "alexie-27",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Alexie",
+    "short": "Alexie",
+    "given": "Alexie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/59dc6e80-0973-48ec-8aa6-1a434b3cc47a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

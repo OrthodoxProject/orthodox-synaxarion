@@ -1,0 +1,18 @@
+{
+  "id": "danax-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici Danax, Mesir și Terinos"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9f33fc14-c8d4-46c5-a56f-fbbd6f074022",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "ieremia-sihastrul-and-elefterie-of-italia",
+  "kind": "repose",
+  "subjects": [
+    "person:ieremia-sihastrul",
+    "person:elefterie-of-italia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 29
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/05382b92-1027-4956-b2d4-71dda28aa6db#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

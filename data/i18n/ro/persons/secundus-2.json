@@ -1,0 +1,21 @@
+{
+  "id": "secundus-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Secundus, ofițer din armata romană",
+    "full": "Sfântul Mucenic Secundus, ofițer din armata romană",
+    "short": "Secundus, ofițer din armata romană",
+    "given": "Secundus"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/66897961-248c-4cd2-9510-68bb425f6b9f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

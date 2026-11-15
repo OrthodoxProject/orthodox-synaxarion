@@ -1,0 +1,20 @@
+{
+  "id": "donatilla",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Fecioară Donatilla",
+    "short": "Donatilla",
+    "given": "Donatilla"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8be00181-3b62-4d76-89b4-4839efc863c2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "eufronie-of-tours",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Eufronie, episcop de Tours în Franța",
+    "full": "Sfântul Ierarh Eufronie, episcop de Tours în Franța",
+    "short": "Eufronie, episcop de Tours în Franța",
+    "given": "Eufronie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8685afc2-c49d-45a3-b34f-b29c91998213",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

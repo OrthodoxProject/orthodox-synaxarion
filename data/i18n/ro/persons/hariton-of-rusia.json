@@ -1,0 +1,20 @@
+{
+  "id": "hariton-of-rusia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Hariton din Rusia",
+    "short": "Hariton din Rusia",
+    "given": "Hariton"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8e390292-73c9-4cb5-9a20-ba3753a46772",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

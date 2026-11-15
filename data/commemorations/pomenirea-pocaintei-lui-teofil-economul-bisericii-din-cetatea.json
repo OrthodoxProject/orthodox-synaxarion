@@ -1,0 +1,23 @@
+{
+  "id": "pomenirea-pocaintei-lui-teofil-economul-bisericii-din-cetatea",
+  "kind": "event",
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 23
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/652c7b0d-082e-47cc-989b-afb14551f7ca",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

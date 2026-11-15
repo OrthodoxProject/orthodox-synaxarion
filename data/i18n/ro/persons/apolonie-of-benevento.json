@@ -1,0 +1,21 @@
+{
+  "id": "apolonie-of-benevento",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Apolonie, episcop de Benevento în Italia",
+    "full": "Sfântul Ierarh Apolonie, episcop de Benevento în Italia",
+    "short": "Apolonie, episcop de Benevento în Italia",
+    "given": "Apolonie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b636ff8a-b91b-4a83-b236-9092d4a6d37d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

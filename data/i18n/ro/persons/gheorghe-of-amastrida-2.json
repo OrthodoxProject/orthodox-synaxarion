@@ -1,0 +1,21 @@
+{
+  "id": "gheorghe-of-amastrida-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Gheorghe, episcopul Amastridei, făcătorul de cântări",
+    "full": "Sfântul Ierarh Gheorghe, episcopul Amastridei, făcătorul de cântări",
+    "short": "Gheorghe, episcopul Amastridei, făcătorul de cântări",
+    "given": "Gheorghe"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4c0e1b78-b747-4de7-ac11-d0b6afb4095f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

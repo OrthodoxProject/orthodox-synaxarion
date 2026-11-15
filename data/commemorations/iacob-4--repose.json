@@ -1,0 +1,26 @@
+{
+  "id": "iacob-4--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:iacob-4"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 26
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/031cf156-f0a9-4925-bea0-ecabe87d6d2e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

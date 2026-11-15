@@ -1,0 +1,21 @@
+{
+  "id": "savin",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Savin",
+    "full": "Sfântul Mucenic Savin",
+    "short": "Savin",
+    "given": "Savin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1cf56b38-f7c9-44d2-b6a2-8945ec066562",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

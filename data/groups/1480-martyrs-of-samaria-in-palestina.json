@@ -1,0 +1,25 @@
+{
+  "id": "1480-martyrs-of-samaria-in-palestina",
+  "kind": "martyrs",
+  "count": {
+    "value": 1480,
+    "precision": "exact"
+  },
+  "holiness_types": [
+    "martyr"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8256d6b0-467b-4f0d-84d6-4e1b885b4783",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "olimpiadie-of-amelia-in-italia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:olimpiadie-of-amelia-in-italia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 1
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3a50a4d9-a076-43c0-940a-8f2638c58fa0",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

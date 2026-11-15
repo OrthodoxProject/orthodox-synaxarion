@@ -1,0 +1,21 @@
+{
+  "id": "teoctist-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Teoctist",
+    "full": "Sfântul Mucenic Teoctist",
+    "short": "Teoctist",
+    "given": "Teoctist"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/bbc719ef-23bc-4464-b6e2-7844ef63acf0",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

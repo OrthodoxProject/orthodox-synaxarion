@@ -1,0 +1,18 @@
+{
+  "id": "pelaghia-2-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sfintele Mucenițe Pelaghia, Teodosia și Dula din Nicomidia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c7b3f169-4218-4cbf-a9c9-3faa4ae2965b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

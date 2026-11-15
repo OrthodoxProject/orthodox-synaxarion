@@ -1,0 +1,21 @@
+{
+  "id": "finian",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Finian, egumen la Ulster în Irlanda",
+    "full": "Sfântul Cuvios Finian, egumen la Ulster în Irlanda",
+    "short": "Finian, egumen la Ulster în Irlanda",
+    "given": "Finian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3735c53d-f941-4cf2-83c7-1ad61eec4787",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

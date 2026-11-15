@@ -1,0 +1,26 @@
+{
+  "id": "efrem-marturisitorul-of-unia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:efrem-marturisitorul-of-unia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 10
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e1a83d12-c417-4011-bd26-10b9924cf72b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

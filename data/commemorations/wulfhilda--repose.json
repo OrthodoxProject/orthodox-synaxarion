@@ -1,0 +1,26 @@
+{
+  "id": "wulfhilda--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:wulfhilda"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 9
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/374c30a7-d60e-4bb2-9b26-3bead411b253",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

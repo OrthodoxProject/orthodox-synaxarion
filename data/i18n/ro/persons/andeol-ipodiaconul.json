@@ -1,0 +1,21 @@
+{
+  "id": "andeol-ipodiaconul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Andeol ipodiaconul",
+    "full": "Sfântul Sfințit Mucenic Andeol ipodiaconul",
+    "short": "Andeol ipodiaconul",
+    "given": "Andeol"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f5371999-27c3-4232-be3f-727f7b6663c7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "andrei-of-simbirsk",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Andrei din Simbirsk, cel nebun întru Hristos",
+    "full": "Sfântul Andrei din Simbirsk, cel nebun întru Hristos",
+    "short": "Andrei din Simbirsk, cel nebun întru Hristos",
+    "given": "Andrei"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4ecbe741-ccfb-4a11-8258-1b9ec35e0888",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

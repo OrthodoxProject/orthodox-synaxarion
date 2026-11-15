@@ -1,0 +1,26 @@
+{
+  "id": "vladimir-yaroslavici--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:vladimir-yaroslavici"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 10
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/27730d86-61b6-4d00-92db-da051850a79d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

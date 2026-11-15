@@ -1,0 +1,18 @@
+{
+  "id": "marcel-2-and-anastasie-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici Marcel și Anastasie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ad88d345-fc64-404b-9f22-1541cd5812a1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

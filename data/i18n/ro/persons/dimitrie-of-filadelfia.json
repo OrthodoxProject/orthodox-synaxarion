@@ -1,0 +1,21 @@
+{
+  "id": "dimitrie-of-filadelfia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Dimitrie din Filadelfia",
+    "full": "Sfântul Mucenic Dimitrie din Filadelfia",
+    "short": "Dimitrie din Filadelfia",
+    "given": "Dimitrie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/40a759c7-cbb2-40ea-bab4-6ea9c46c3910",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "martyrs-englezi-teodor-elfgete-grimkeld-askega-savinus-wethin",
+  "kind": "repose",
+  "subjects": [
+    "group:martyrs-englezi-teodor-elfgete-grimkeld-askega-savinus-wethin"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 9
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6436f990-52ec-4ca4-9a6c-45af9d247b7c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

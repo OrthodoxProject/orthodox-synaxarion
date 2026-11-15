@@ -1,0 +1,26 @@
+{
+  "id": "moling-of-fems--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:moling-of-fems"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 17
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/18913776-d1f5-4890-9ff3-ee5061c2a196",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

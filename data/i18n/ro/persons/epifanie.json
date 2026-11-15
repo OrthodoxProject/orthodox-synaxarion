@@ -1,0 +1,21 @@
+{
+  "id": "epifanie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Epifanie",
+    "full": "Sfântul Mucenic Epifanie",
+    "short": "Epifanie",
+    "given": "Epifanie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4b9a8a4a-32a6-4fd1-b85d-702fd4cd9615",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

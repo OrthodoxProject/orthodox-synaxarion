@@ -1,0 +1,27 @@
+{
+  "id": "felix-of-trier-and-sinclarie-of-lyon",
+  "kind": "repose",
+  "subjects": [
+    "person:felix-of-trier",
+    "person:sinclarie-of-lyon"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 26
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e0c8ae3b-9bad-4c90-bfef-4526481aac8a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "mihail-gradinarul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Mihail grădinarul",
+    "full": "Sfântul Mucenic Mihail grădinarul",
+    "short": "Mihail grădinarul",
+    "given": "Mihail"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b57677fa-140f-45f6-a45e-064c24cc9b6c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "mardonie-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Mardonie",
+    "full": "Sfântul Mucenic Mardonie",
+    "short": "Mardonie",
+    "given": "Mardonie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/de7007bb-d9f6-4c5a-adf3-ed0c3af7c256",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

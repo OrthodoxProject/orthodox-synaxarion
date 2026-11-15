@@ -1,0 +1,21 @@
+{
+  "id": "remedie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Remedie, pustnic în Alto Adige",
+    "full": "Sfântul Remedie, pustnic în Alto Adige",
+    "short": "Remedie, pustnic în Alto Adige",
+    "given": "Remedie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7b227643-197c-46ec-a99f-c3173200cf1f#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

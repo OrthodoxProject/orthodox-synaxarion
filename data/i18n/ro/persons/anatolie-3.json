@@ -1,0 +1,20 @@
+{
+  "id": "anatolie-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Anatolie (Smirnov)",
+    "short": "Anatolie (Smirnov)",
+    "given": "Anatolie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/664",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

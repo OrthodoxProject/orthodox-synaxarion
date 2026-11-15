@@ -1,0 +1,21 @@
+{
+  "id": "foila",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Foila (Faile), sora Sfântului Colgan",
+    "full": "Sfânta Cuvioasă Foila (Faile), sora Sfântului Colgan",
+    "short": "Foila (Faile), sora Sfântului Colgan",
+    "given": "Foila"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d8c5443f-bad1-4440-bc40-bdcef240ae25",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

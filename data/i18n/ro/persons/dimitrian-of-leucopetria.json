@@ -1,0 +1,21 @@
+{
+  "id": "dimitrian-of-leucopetria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Dimitrian de la Leucopetria",
+    "full": "Sfântul Mucenic Dimitrian de la Leucopetria",
+    "short": "Dimitrian de la Leucopetria",
+    "given": "Dimitrian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9a16d82d-7684-47ef-a118-0a833925e9e1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

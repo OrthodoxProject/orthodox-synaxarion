@@ -1,0 +1,26 @@
+{
+  "id": "vasile-of-mangazea-siberia-in-rusia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:vasile-of-mangazea-siberia-in-rusia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 6
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/eef41649-1c24-4a58-adc4-f65cc858c372",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

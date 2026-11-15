@@ -1,0 +1,21 @@
+{
+  "id": "raida-fecioara-of-egipt",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Raida fecioara din Egipt",
+    "full": "Sfânta Cuvioasă Muceniță Raida fecioara din Egipt",
+    "short": "Raida fecioara din Egipt",
+    "given": "Raida"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/823",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

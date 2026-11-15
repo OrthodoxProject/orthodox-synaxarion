@@ -1,0 +1,20 @@
+{
+  "id": "matrona-of-moscova",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Matrona din Moscova",
+    "short": "Matrona din Moscova",
+    "given": "Matrona"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a59ccf68-e9ac-44b5-bd6c-46b94fb52c67",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

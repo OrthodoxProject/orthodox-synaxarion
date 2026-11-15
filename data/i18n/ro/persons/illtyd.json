@@ -1,0 +1,21 @@
+{
+  "id": "illtyd",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Illtyd, egumen în Anglia",
+    "full": "Sfântul Cuvios Illtyd, egumen în Anglia",
+    "short": "Illtyd, egumen în Anglia",
+    "given": "Illtyd"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ab178813-4ea3-4837-a80b-275f00114dc1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "eftimie-the-new-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Eftimie cel Nou, ctitorul Mănăstirii Iviru din Sfântul Munte Athos",
+    "full": "Sfântul Cuvios Eftimie cel Nou, ctitorul Mănăstirii Iviru din Sfântul Munte Athos",
+    "short": "Eftimie cel Nou, ctitorul Mănăstirii Iviru din Sfântul Munte Athos",
+    "given": "Eftimie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/05275316-939d-467f-97fa-2a5eeaabfeb6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "alexandru-of-tesalonic-2--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:alexandru-of-tesalonic-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 7
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/23c8c5e7-9f88-4a25-b923-30b98a34f6cb",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

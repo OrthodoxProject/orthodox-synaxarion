@@ -1,0 +1,21 @@
+{
+  "id": "meletie-of-palestina",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Meletie, stareț la Mănăstirea Sfântul Sava din Palestina",
+    "full": "Sfântul Cuvios Meletie, stareț la Mănăstirea Sfântul Sava din Palestina",
+    "short": "Meletie, stareț la Mănăstirea Sfântul Sava din Palestina",
+    "given": "Meletie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/dcbd76ac-53fd-4df6-a5ef-01dfceab3715",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

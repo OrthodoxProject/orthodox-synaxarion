@@ -1,0 +1,21 @@
+{
+  "id": "cristodul-etiopianul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Cristodul etiopianul",
+    "full": "Sfântul Mucenic Cristodul etiopianul",
+    "short": "Cristodul etiopianul",
+    "given": "Cristodul"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ab64bbe7-21d7-4f80-bba5-49cc9f09c790",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

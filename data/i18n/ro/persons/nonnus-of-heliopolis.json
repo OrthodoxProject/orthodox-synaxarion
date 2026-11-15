@@ -1,0 +1,21 @@
+{
+  "id": "nonnus-of-heliopolis",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Nonnus, Episcopul Heliopolisului (Edesei), cel",
+    "full": "Sfântul Nonnus, Episcopul Heliopolisului (Edesei), cel",
+    "short": "Nonnus, Episcopul Heliopolisului (Edesei), cel",
+    "given": "Nonnus"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/94e9e0ad-c35d-42e3-a076-ea2b4f4b8b3a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

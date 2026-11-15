@@ -1,0 +1,20 @@
+{
+  "id": "emil",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Emil",
+    "short": "Emil",
+    "given": "Emil"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3c96ff90-7d2a-4344-b162-4d7545de4d4a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

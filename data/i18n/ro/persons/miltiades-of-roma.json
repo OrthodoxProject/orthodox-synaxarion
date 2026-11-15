@@ -1,0 +1,21 @@
+{
+  "id": "miltiades-of-roma",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Miltiades, episcopul Romei",
+    "full": "Sfântul Ierarh Miltiades, episcopul Romei",
+    "short": "Miltiades, episcopul Romei",
+    "given": "Miltiades"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4278b811-c9b7-4eb9-9e12-31a890ba220f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

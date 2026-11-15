@@ -1,0 +1,21 @@
+{
+  "id": "salustin",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Salustin, mărturisitor la Sardinia în Italia",
+    "full": "Sfântul Salustin, mărturisitor la Sardinia în Italia",
+    "short": "Salustin, mărturisitor la Sardinia în Italia",
+    "given": "Salustin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d44de89c-9d29-4318-937b-f231f117973e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

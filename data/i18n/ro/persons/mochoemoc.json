@@ -1,0 +1,21 @@
+{
+  "id": "mochoemoc",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mochoemoc, egumen în Irlanda",
+    "full": "Sfântul Cuvios Mochoemoc, egumen în Irlanda",
+    "short": "Mochoemoc, egumen în Irlanda",
+    "given": "Mochoemoc"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b08c7519-3463-4749-8da4-fc6f6b56f398",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

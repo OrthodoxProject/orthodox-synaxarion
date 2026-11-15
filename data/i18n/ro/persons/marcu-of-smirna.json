@@ -1,0 +1,21 @@
+{
+  "id": "marcu-of-smirna",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Marcu din Smirna",
+    "full": "Sfântul Mucenic Marcu din Smirna",
+    "short": "Marcu din Smirna",
+    "given": "Marcu"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f16e9400-18c6-484c-a18c-864e66b33be5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

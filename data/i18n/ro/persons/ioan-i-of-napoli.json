@@ -1,0 +1,21 @@
+{
+  "id": "ioan-i-of-napoli",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ioan I, episcop de Napoli în Italia",
+    "full": "Sfântul Ierarh Ioan I, episcop de Napoli în Italia",
+    "short": "Ioan I, episcop de Napoli în Italia",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4b7bff9c-fa19-4de1-a411-936610fe2d19",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

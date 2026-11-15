@@ -1,0 +1,21 @@
+{
+  "id": "edbert",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Edbert, regele Northumbriei în Anglia",
+    "full": "Sfântul Cuvios Edbert, regele Northumbriei în Anglia",
+    "short": "Edbert, regele Northumbriei în Anglia",
+    "given": "Edbert"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/fa528f84-6321-4142-981d-b09d7e4f679d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

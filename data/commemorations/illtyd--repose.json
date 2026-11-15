@@ -1,0 +1,26 @@
+{
+  "id": "illtyd--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:illtyd"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 6
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ab178813-4ea3-4837-a80b-275f00114dc1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

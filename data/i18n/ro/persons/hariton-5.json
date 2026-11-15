@@ -1,0 +1,21 @@
+{
+  "id": "hariton-5",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Hariton, ucenicul Sfântului Macarie Romanul de la Novgorod",
+    "full": "Sfântul Cuvios Hariton, ucenicul Sfântului Macarie Romanul de la Novgorod",
+    "short": "Hariton, ucenicul Sfântului Macarie Romanul de la Novgorod",
+    "given": "Hariton"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/58563bb6-8fd9-40a5-bcbd-b7775a3ade8f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

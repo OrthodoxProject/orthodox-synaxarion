@@ -1,0 +1,26 @@
+{
+  "id": "felix-of-spello--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:felix-of-spello"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 18
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c654f29f-e9b7-4181-a4a4-b00940c42803",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

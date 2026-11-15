@@ -1,0 +1,20 @@
+{
+  "id": "atanasie-6",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Atanasie",
+    "short": "Atanasie",
+    "given": "Atanasie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7e477b80-1715-4963-9d96-24a1b2466817",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

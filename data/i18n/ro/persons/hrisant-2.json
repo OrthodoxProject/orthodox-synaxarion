@@ -1,0 +1,21 @@
+{
+  "id": "hrisant-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Hrisant, nevoitor la Mănăstirea Xenofont din Sfântul Munte Athos",
+    "full": "Sfântul Cuvios Mucenic Hrisant, nevoitor la Mănăstirea Xenofont din Sfântul Munte Athos",
+    "short": "Hrisant, nevoitor la Mănăstirea Xenofont din Sfântul Munte Athos",
+    "given": "Hrisant"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e6a9eb84-9ce7-4f5d-aae2-5314ed02d605",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

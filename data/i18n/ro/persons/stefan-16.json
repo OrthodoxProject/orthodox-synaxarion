@@ -1,0 +1,20 @@
+{
+  "id": "stefan-16",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Ștefan (Nemkov), împreună cu el 18 mucenici din Nijni Novgorod",
+    "short": "Ștefan (Nemkov), împreună cu el 18 mucenici din Nijni Novgorod",
+    "given": "Ștefan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/87153942-11b5-4972-b256-bc1f3558a917",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "chir",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ier. Chir",
+    "short": "Chir",
+    "given": "Chir"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/dead9351-b30b-4b3c-badf-4c2759bf91c1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

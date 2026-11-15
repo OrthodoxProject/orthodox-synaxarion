@@ -1,0 +1,20 @@
+{
+  "id": "bizantin",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Bizantin",
+    "short": "Bizantin",
+    "given": "Bizantin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f887550c-5a14-4f96-9891-cddfeaf7233a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

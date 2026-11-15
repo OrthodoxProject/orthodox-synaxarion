@@ -1,0 +1,26 @@
+{
+  "id": "icon-of-theotokos-of-sestocovsk-of-vatra",
+  "kind": "icon",
+  "subjects": [
+    "icon:icon-of-theotokos-of-sestocovsk-of-vatra"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 6
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/54db2ae6-822b-4a9a-978a-3ec078f6b347",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

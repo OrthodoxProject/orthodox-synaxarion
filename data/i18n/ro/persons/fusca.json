@@ -1,0 +1,20 @@
+{
+  "id": "fusca",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Fusca",
+    "short": "Fusca",
+    "given": "Fusca"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/82234722-0ccd-4699-8b43-a84ec147c9e6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

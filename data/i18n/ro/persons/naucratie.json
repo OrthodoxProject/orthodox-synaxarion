@@ -1,0 +1,21 @@
+{
+  "id": "naucratie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Naucratie, fratele Sfântului Ier. Vasile cel Mare",
+    "full": "Sfântul Cuvios Naucratie, fratele Sfântului Ierarh Vasile cel Mare",
+    "short": "Naucratie, fratele Sfântului Ierarh Vasile cel Mare",
+    "given": "Naucratie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/16022f39-bf76-448f-b1f6-4a2ee4d9bdd6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

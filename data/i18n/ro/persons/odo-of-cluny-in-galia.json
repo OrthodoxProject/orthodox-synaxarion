@@ -1,0 +1,21 @@
+{
+  "id": "odo-of-cluny-in-galia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Odo din Cluny în Galia",
+    "full": "Sfântul Odo din Cluny în Galia",
+    "short": "Odo din Cluny în Galia",
+    "given": "Odo"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b9f136ce-eb88-4173-ae27-144468025f1a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

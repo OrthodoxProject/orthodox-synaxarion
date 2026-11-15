@@ -1,0 +1,21 @@
+{
+  "id": "elpidie-of-cipru",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Elpidie din Cipru",
+    "full": "Sfântul Elpidie din Cipru",
+    "short": "Elpidie din Cipru",
+    "given": "Elpidie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c84eb443-1ccf-433d-aed8-fd7c17c96c75#3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

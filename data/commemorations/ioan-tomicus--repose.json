@@ -1,0 +1,26 @@
+{
+  "id": "ioan-tomicus--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:ioan-tomicus"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 12
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2d356792-102d-4de7-ba18-b507e11c01c9",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

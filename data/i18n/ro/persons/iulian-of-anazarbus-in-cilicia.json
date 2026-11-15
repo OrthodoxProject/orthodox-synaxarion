@@ -1,0 +1,21 @@
+{
+  "id": "iulian-of-anazarbus-in-cilicia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Iulian din Anazarbus în Cilicia",
+    "full": "Sfântul Mucenic Iulian din Anazarbus în Cilicia",
+    "short": "Iulian din Anazarbus în Cilicia",
+    "given": "Iulian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/541",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

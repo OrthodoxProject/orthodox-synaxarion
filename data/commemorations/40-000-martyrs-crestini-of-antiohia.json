@@ -1,0 +1,26 @@
+{
+  "id": "40-000-martyrs-crestini-of-antiohia",
+  "kind": "repose",
+  "subjects": [
+    "group:40-000-martyrs-crestini-of-antiohia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 28
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d1c43aef-098f-4ab5-af6b-0da804e3e581",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "torib-of-palencia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Torib din Palencia, întemeietorul Mănăstirii Liebana din Spania",
+    "full": "Sfântul Cuvios Torib din Palencia, întemeietorul Mănăstirii Liebana din Spania",
+    "short": "Torib din Palencia, întemeietorul Mănăstirii Liebana din Spania",
+    "given": "Torib"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/71d79926-0f4b-46fd-8cdb-c9a2dedc0be4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

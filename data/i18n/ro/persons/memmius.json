@@ -1,0 +1,21 @@
+{
+  "id": "memmius",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Memmius, primul episcop de Châlons-surMarne în Franța",
+    "full": "Sfântul Ierarh Memmius, primul episcop de Châlons-surMarne în Franța",
+    "short": "Memmius, primul episcop de Châlons-surMarne în Franța",
+    "given": "Memmius"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/389065c8-9071-4208-adaa-1278629f3638",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

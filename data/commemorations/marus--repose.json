@@ -1,0 +1,26 @@
+{
+  "id": "marus--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:marus"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 31
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/412bb51d-3522-4540-94eb-993b531ccd9d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "hercula-of-perugia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Hercula, episcop de Perugia",
+    "full": "Sfântul Sfințit Mucenic Hercula, episcop de Perugia",
+    "short": "Hercula, episcop de Perugia",
+    "given": "Hercula"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/94e2ad32-3036-45fd-ac55-626ef3991a69",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "theobald-of-vienne--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:theobald-of-vienne"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 21
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/251b8b20-f29f-4352-9fc5-7195a2bed75c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

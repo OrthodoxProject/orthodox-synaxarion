@@ -1,0 +1,21 @@
+{
+  "id": "tropie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Tropie, ofițer roman",
+    "full": "Sfântul Mucenic Tropie, ofițer roman",
+    "short": "Tropie, ofițer roman",
+    "given": "Tropie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/040b101a-e3e5-47cd-a92c-da6544281253",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "martyrs-sabinian-primul-episcop-of-sens-of-franta",
+  "kind": "repose",
+  "subjects": [
+    "group:martyrs-sabinian-primul-episcop-of-sens-of-franta"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 31
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ebf49b1d-7e16-4f7c-8be4-d05704e4d026",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "martyrs-rogat-succesus-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "group:martyrs-rogat-succesus-and-companions"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 28
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0b33c0f5-41f4-4118-86c8-095a913c09ef",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

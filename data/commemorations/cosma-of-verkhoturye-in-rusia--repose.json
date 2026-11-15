@@ -1,0 +1,26 @@
+{
+  "id": "cosma-of-verkhoturye-in-rusia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:cosma-of-verkhoturye-in-rusia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 1
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b9a7c5d2-9425-47d1-999d-a9ba9c3ea9b7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

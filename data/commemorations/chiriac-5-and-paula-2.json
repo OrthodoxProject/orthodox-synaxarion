@@ -1,0 +1,27 @@
+{
+  "id": "chiriac-5-and-paula-2",
+  "kind": "repose",
+  "subjects": [
+    "person:chiriac-5",
+    "person:paula-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 18
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5145e725-b3c9-408e-870f-61ee5420c8a7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

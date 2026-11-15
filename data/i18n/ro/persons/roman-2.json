@@ -1,0 +1,21 @@
+{
+  "id": "roman-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Roman, ucenicul său",
+    "full": "Sfântul Roman, ucenicul său",
+    "short": "Roman, ucenicul său",
+    "given": "Roman"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/af60726b-f59e-4cbd-830a-93eec16f0bed#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

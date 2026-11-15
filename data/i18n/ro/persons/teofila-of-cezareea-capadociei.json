@@ -1,0 +1,20 @@
+{
+  "id": "teofila-of-cezareea-capadociei",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Teofila din Cezareea Capadociei",
+    "short": "Teofila din Cezareea Capadociei",
+    "given": "Teofila"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1ef28afa-ecbb-4525-97de-6e17e5afd7cd",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

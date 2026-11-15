@@ -1,0 +1,26 @@
+{
+  "id": "dionisie-of-vienne--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:dionisie-of-vienne"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 8
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9669fb40-d4c9-4965-b287-b57847918e71",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

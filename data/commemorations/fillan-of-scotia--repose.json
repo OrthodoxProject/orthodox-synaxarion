@@ -1,0 +1,26 @@
+{
+  "id": "fillan-of-scotia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:fillan-of-scotia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 9
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/41e0fad1-b689-4dc2-ab6a-9c6f57e696c7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

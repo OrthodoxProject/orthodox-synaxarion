@@ -1,0 +1,20 @@
+{
+  "id": "audifax",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Audifax",
+    "short": "Audifax",
+    "given": "Audifax"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/601",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

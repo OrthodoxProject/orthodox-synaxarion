@@ -1,0 +1,21 @@
+{
+  "id": "apotemie-of-angers",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Apotemie, episcop de Angers în Franța",
+    "full": "Sfântul Ierarh Apotemie, episcop de Angers în Franța",
+    "short": "Apotemie, episcop de Angers în Franța",
+    "given": "Apotemie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1dc729c8-a9c8-42d2-a376-ede0f59b1316",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

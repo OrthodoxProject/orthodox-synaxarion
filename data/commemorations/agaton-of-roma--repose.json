@@ -1,0 +1,26 @@
+{
+  "id": "agaton-of-roma--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:agaton-of-roma"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 19
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3b6feef3-1ef3-4823-ab4f-8de6f7563f4f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

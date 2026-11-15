@@ -1,0 +1,21 @@
+{
+  "id": "maxim-of-constantinopol",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Maxim, patriarhul Constantinopolului",
+    "full": "Sfântul Ierarh Maxim, patriarhul Constantinopolului",
+    "short": "Maxim, patriarhul Constantinopolului",
+    "given": "Maxim"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0c845e03-691b-4981-b8c3-117d298ea6b8",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

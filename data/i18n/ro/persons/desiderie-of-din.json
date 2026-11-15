@@ -1,0 +1,21 @@
+{
+  "id": "desiderie-of-din",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Desiderie, episcop din Liguria",
+    "full": "Sfântul Sfințit Mucenic Desiderie, episcop din Liguria",
+    "short": "Desiderie, episcop din Liguria",
+    "given": "Desiderie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/25db11de-bc18-4100-850d-e8c2ac7dfc89",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

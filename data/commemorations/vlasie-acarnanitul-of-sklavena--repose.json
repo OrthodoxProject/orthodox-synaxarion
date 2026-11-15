@@ -1,0 +1,26 @@
+{
+  "id": "vlasie-acarnanitul-of-sklavena--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:vlasie-acarnanitul-of-sklavena"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 11
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/90e97e7e-2b62-43d1-9d5a-7638b267bf61",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

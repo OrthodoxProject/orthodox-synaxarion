@@ -1,0 +1,21 @@
+{
+  "id": "cairlon-of-cashel",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Cairlon, arhiepiscop de Cashel",
+    "full": "Sfântul Ierarh Cairlon, arhiepiscop de Cashel",
+    "short": "Cairlon, arhiepiscop de Cashel",
+    "given": "Cairlon"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0af9ed9d-9835-485c-948e-82b10dc3e59f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

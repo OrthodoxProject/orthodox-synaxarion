@@ -1,0 +1,21 @@
+{
+  "id": "isaac-5",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Isaac, întemeietorul Mănăstirii Dalmația din Constantinopol",
+    "full": "Sfântul Cuvios Isaac, întemeietorul Mănăstirii Dalmația din Constantinopol",
+    "short": "Isaac, întemeietorul Mănăstirii Dalmația din Constantinopol",
+    "given": "Isaac"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a7ad01c1-0366-4bf6-92aa-36a05a90ab0a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

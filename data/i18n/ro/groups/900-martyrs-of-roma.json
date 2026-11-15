@@ -1,0 +1,18 @@
+{
+  "id": "900-martyrs-of-roma",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții 900 de Mucenici din Roma"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/57975805-0b03-4965-942d-4f774d4b4b09",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

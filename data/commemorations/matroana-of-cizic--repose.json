@@ -1,0 +1,26 @@
+{
+  "id": "matroana-of-cizic--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:matroana-of-cizic"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 11
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4cead293-5a7d-4783-838b-ce4d6cf79950",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

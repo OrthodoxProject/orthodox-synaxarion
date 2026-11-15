@@ -1,0 +1,21 @@
+{
+  "id": "mihail-singhelul-of-ierusalim",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mihail Singhelul din Ierusalim, mărturisitor pentru Sfintele Icoane",
+    "full": "Sfântul Cuvios Mihail Singhelul din Ierusalim, mărturisitor pentru Sfintele Icoane",
+    "short": "Mihail Singhelul din Ierusalim, mărturisitor pentru Sfintele Icoane",
+    "given": "Mihail"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1046",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

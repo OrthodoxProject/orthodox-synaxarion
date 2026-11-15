@@ -1,0 +1,26 @@
+{
+  "id": "anastasie-bulgarul--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:anastasie-bulgarul"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 8
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/62c48018-52d5-4212-bc96-bdc836ca7ef7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

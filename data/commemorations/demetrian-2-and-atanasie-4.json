@@ -1,0 +1,27 @@
+{
+  "id": "demetrian-2-and-atanasie-4",
+  "kind": "repose",
+  "subjects": [
+    "person:demetrian-2",
+    "person:atanasie-4"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 23
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8608e420-6892-4d51-9132-ece9e56de94e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

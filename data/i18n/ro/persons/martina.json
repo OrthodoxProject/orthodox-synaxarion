@@ -1,0 +1,21 @@
+{
+  "id": "martina",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Martina, fecioară din Roma",
+    "full": "Sfânta Muceniță Martina, fecioară din Roma",
+    "short": "Martina, fecioară din Roma",
+    "given": "Martina"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1344",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

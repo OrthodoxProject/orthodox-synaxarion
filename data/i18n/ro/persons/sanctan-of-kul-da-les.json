@@ -1,0 +1,21 @@
+{
+  "id": "sanctan-of-kul-da-les",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Sanctan, episcop de Kul-da-Les, lângă Dublin în Irlanda",
+    "full": "Sfântul Ierarh Sanctan, episcop de Kul-da-Les, lângă Dublin în Irlanda",
+    "short": "Sanctan, episcop de Kul-da-Les, lângă Dublin în Irlanda",
+    "given": "Sanctan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/071c5a49-e618-4b00-a91d-4803f62fa9cb",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

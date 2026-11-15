@@ -1,0 +1,21 @@
+{
+  "id": "folciunus-of-tervas",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Folciunus, episcop de Tervas în Olanda",
+    "full": "Sfântul Ierarh Folciunus, episcop de Tervas în Olanda",
+    "short": "Folciunus, episcop de Tervas în Olanda",
+    "given": "Folciunus"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2a648bcc-ac80-415c-ab99-74f48cab9e3e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

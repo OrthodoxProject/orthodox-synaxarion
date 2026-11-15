@@ -1,0 +1,20 @@
+{
+  "id": "erat",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Erat",
+    "short": "Erat",
+    "given": "Erat"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c2a32849-4a14-460a-92bb-ea37f0bd04e1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

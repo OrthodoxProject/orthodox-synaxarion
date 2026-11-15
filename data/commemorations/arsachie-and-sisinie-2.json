@@ -1,0 +1,27 @@
+{
+  "id": "arsachie-and-sisinie-2",
+  "kind": "repose",
+  "subjects": [
+    "person:arsachie",
+    "person:sisinie-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 11
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a0d05132-4fb4-4feb-82eb-e5670d66f291#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

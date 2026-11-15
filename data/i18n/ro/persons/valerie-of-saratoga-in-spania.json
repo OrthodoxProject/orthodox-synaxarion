@@ -1,0 +1,21 @@
+{
+  "id": "valerie-of-saratoga-in-spania",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Valerie de Saratoga în Spania",
+    "full": "Sfântul Ierarh Valerie de Saratoga în Spania",
+    "short": "Valerie de Saratoga în Spania",
+    "given": "Valerie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a0af0d2f-7c18-437a-b8b2-7a6418a79ba8",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

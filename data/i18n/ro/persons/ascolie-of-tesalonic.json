@@ -1,0 +1,21 @@
+{
+  "id": "ascolie-of-tesalonic",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ascolie, episcop de Tesalonic în Grecia",
+    "full": "Sfântul Ierarh Ascolie, episcop de Tesalonic în Grecia",
+    "short": "Ascolie, episcop de Tesalonic în Grecia",
+    "given": "Ascolie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5e7fd1d6-0792-4657-933d-e02f84f3238f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

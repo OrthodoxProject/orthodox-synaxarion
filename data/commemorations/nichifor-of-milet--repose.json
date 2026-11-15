@@ -1,0 +1,26 @@
+{
+  "id": "nichifor-of-milet--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:nichifor-of-milet"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 26
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ddd9042a-eb92-44a9-9874-bb17aa388546",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

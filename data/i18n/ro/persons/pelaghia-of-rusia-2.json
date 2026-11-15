@@ -1,0 +1,20 @@
+{
+  "id": "pelaghia-of-rusia-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințită Nouă Mc. Pelaghia (Balakireva) din Rusia",
+    "short": "Pelaghia (Balakireva) din Rusia",
+    "given": "Pelaghia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9e37a8e1-1a39-42ea-995e-d249fa943328",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "filaret-of-calabria-in-italia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Filaret din Calabria în Italia",
+    "full": "Sfântul Filaret din Calabria în Italia",
+    "short": "Filaret din Calabria în Italia",
+    "given": "Filaret"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/21d89bc0-d966-48e9-9b5d-924057631831",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

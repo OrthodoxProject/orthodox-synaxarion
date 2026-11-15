@@ -1,0 +1,26 @@
+{
+  "id": "onorat-of-canterbury--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:onorat-of-canterbury"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 30
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/89230e43-167a-48e5-b0bb-736a9736753e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "virgil-of-salzburg",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Virgil, episcop de Salzburg în Austria",
+    "full": "Sfântul Ierarh Virgil, episcop de Salzburg în Austria",
+    "short": "Virgil, episcop de Salzburg în Austria",
+    "given": "Virgil"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b735b726-b572-4108-8fea-3fdffcefab99",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

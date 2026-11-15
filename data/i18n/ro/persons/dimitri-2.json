@@ -1,0 +1,20 @@
+{
+  "id": "dimitri-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Dimitri (Troițki)",
+    "short": "Dimitri (Troițki)",
+    "given": "Dimitri"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0e547f26-856c-4069-b23f-259c9a0b06e3#3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

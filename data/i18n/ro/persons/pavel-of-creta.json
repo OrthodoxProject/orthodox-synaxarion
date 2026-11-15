@@ -1,0 +1,21 @@
+{
+  "id": "pavel-of-creta",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Pavel din Creta",
+    "full": "Sfântul Cuvios Mucenic Pavel din Creta",
+    "short": "Pavel din Creta",
+    "given": "Pavel"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/25f6c005-2ec6-47d3-be8c-ef0beba678cc",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "talida-and-taora",
+  "locale": "ro",
+  "names": {
+    "display": "Sfintele Cuvioase Talida și Taora"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c790e2fe-5961-4f6b-9d37-39f68df2f483",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

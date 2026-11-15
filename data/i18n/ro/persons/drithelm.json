@@ -1,0 +1,21 @@
+{
+  "id": "drithelm",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Drithelm, monah la Melrose în Scoția",
+    "full": "Sfântul Cuvios Drithelm, monah la Melrose în Scoția",
+    "short": "Drithelm, monah la Melrose în Scoția",
+    "given": "Drithelm"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/02ee2fe8-5ea3-4a26-930a-4eee7b0fb0d0",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

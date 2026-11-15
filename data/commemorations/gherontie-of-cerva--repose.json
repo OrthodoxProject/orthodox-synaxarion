@@ -1,0 +1,26 @@
+{
+  "id": "gherontie-of-cerva--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:gherontie-of-cerva"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 9
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/bf47c01d-fc6b-475f-83ba-9a71565992f7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

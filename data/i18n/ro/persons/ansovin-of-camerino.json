@@ -1,0 +1,21 @@
+{
+  "id": "ansovin-of-camerino",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ansovin, episcop de Camerino în Italia",
+    "full": "Sfântul Ierarh Ansovin, episcop de Camerino în Italia",
+    "short": "Ansovin, episcop de Camerino în Italia",
+    "given": "Ansovin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/94c45598-b7b9-4e4b-a6c4-924f9e14725a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

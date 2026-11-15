@@ -1,0 +1,26 @@
+{
+  "id": "deodat--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:deodat"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 24
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/11c4e66f-5e65-41a7-b10e-ac4a707864c4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

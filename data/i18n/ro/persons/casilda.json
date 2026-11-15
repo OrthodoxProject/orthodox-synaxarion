@@ -1,0 +1,21 @@
+{
+  "id": "casilda",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Casilda, pustnică lângă Burgos în Spania",
+    "full": "Sfânta Cuvioasă Casilda, pustnică lângă Burgos în Spania",
+    "short": "Casilda, pustnică lângă Burgos în Spania",
+    "given": "Casilda"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a66c41cf-9c48-4c6c-a565-a785c0b63985",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

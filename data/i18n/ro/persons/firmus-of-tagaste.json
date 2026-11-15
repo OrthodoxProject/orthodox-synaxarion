@@ -1,0 +1,21 @@
+{
+  "id": "firmus-of-tagaste",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Firmus, episcop de Tagaste în nordul Africii",
+    "full": "Sfântul Ierarh Firmus, episcop de Tagaste în nordul Africii",
+    "short": "Firmus, episcop de Tagaste în nordul Africii",
+    "given": "Firmus"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3423db55-44c4-4a07-93c9-efb965824b2c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

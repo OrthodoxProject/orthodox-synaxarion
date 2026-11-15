@@ -1,0 +1,21 @@
+{
+  "id": "finien",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Finien, stareț la Swords în Irlanda",
+    "full": "Sfântul Cuvios Finien, stareț la Swords în Irlanda",
+    "short": "Finien, stareț la Swords în Irlanda",
+    "given": "Finien"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/efaaed67-0a63-4fd8-bc56-b06c0d743f16",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

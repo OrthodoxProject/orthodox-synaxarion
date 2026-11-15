@@ -1,0 +1,26 @@
+{
+  "id": "serapion-of-vladimir--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:serapion-of-vladimir"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 12
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c5cce906-b196-45e4-aa3f-0ce5280e7019",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

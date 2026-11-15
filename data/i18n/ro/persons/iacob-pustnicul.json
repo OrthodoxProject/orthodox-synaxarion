@@ -1,0 +1,21 @@
+{
+  "id": "iacob-pustnicul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Iacob Pustnicul, nevoitor din Siria",
+    "full": "Sfântul Cuvios Iacob Pustnicul, nevoitor din Siria",
+    "short": "Iacob Pustnicul, nevoitor din Siria",
+    "given": "Iacob"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4abd05ad-7b68-45eb-98ac-240245144c7e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

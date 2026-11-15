@@ -1,0 +1,21 @@
+{
+  "id": "pansofie-of-alexandria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Pansofie din Alexandria",
+    "full": "Sfântul Mucenic Pansofie din Alexandria",
+    "short": "Pansofie din Alexandria",
+    "given": "Pansofie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1298",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

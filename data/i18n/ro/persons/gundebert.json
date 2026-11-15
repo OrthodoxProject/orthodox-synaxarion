@@ -1,0 +1,21 @@
+{
+  "id": "gundebert",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Gundebert, monah din Irlanda",
+    "full": "Sfântul Cuvios Mucenic Gundebert, monah din Irlanda",
+    "short": "Gundebert, monah din Irlanda",
+    "given": "Gundebert"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9e165f61-ff17-4d62-be10-2264d6558810",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

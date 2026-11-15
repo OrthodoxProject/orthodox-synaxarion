@@ -1,0 +1,21 @@
+{
+  "id": "echitie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Echitie, stareț la Abruzzo în Italia",
+    "full": "Sfântul Cuvios Echitie, stareț la Abruzzo în Italia",
+    "short": "Echitie, stareț la Abruzzo în Italia",
+    "given": "Echitie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/06d902c7-ff6d-49c9-bb16-489726029241",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

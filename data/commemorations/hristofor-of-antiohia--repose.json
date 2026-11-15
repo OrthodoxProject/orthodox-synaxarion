@@ -1,0 +1,26 @@
+{
+  "id": "hristofor-of-antiohia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:hristofor-of-antiohia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 21
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/58408601-1241-45d6-b349-e801532fbb61",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

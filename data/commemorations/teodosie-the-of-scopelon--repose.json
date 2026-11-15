@@ -1,0 +1,26 @@
+{
+  "id": "teodosie-the-of-scopelon--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:teodosie-the-of-scopelon"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 5
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7c7d863c-52b4-4cb6-ab8c-66ec2be7a00c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

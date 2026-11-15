@@ -1,0 +1,21 @@
+{
+  "id": "acachie-preotul-of-armenia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Acachie preotul din Armenia",
+    "full": "Sfântul Sfințit Mucenic Acachie preotul din Armenia",
+    "short": "Acachie preotul din Armenia",
+    "given": "Acachie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/42f11a58-65e8-4115-9de1-80822cfcde92",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

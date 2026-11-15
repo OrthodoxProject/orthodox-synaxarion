@@ -1,0 +1,21 @@
+{
+  "id": "candida-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Candida, fecioară din Roma",
+    "full": "Sfânta Muceniță Candida, fecioară din Roma",
+    "short": "Candida, fecioară din Roma",
+    "given": "Candida"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/fa9c2b11-5576-4911-83bd-8e8cd11b3997",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

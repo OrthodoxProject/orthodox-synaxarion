@@ -1,0 +1,21 @@
+{
+  "id": "prudent-of-langres-in-franta",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Prudent de la Langres în Franța",
+    "full": "Sfântul Mucenic Prudent de la Langres în Franța",
+    "short": "Prudent de la Langres în Franța",
+    "given": "Prudent"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3e8373dd-a2f2-4fe1-9a57-4950cedbe690",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

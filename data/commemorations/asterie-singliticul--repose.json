@@ -1,0 +1,26 @@
+{
+  "id": "asterie-singliticul--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:asterie-singliticul"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 7
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/af0416a8-77d1-4878-aff7-02e233e40119",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

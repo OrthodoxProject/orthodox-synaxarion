@@ -1,0 +1,20 @@
+{
+  "id": "aurelian",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Aurelian",
+    "short": "Aurelian",
+    "given": "Aurelian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ea8e2bd4-352f-4339-838b-eb130c8e82b6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

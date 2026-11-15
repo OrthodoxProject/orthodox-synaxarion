@@ -1,0 +1,26 @@
+{
+  "id": "lioba-of-anglia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:lioba-of-anglia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 28
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/23aa13b1-31a0-459f-9ec3-3fc99fb76d50",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

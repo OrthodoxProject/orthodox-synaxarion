@@ -1,0 +1,26 @@
+{
+  "id": "mecadosta-of-persia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:mecadosta-of-persia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 4
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/402656a3-d547-425b-9981-6aa57a2a1be7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

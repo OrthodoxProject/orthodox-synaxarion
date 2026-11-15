@@ -1,0 +1,21 @@
+{
+  "id": "moise-of-faran",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Moise din Faran, pustnic în Palestina",
+    "full": "Sfântul Cuvios Moise din Faran, pustnic în Palestina",
+    "short": "Moise din Faran, pustnic în Palestina",
+    "given": "Moise"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d0f83f64-e9ed-4c9b-824b-d63742998ad1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

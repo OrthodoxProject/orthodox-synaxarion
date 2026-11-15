@@ -1,0 +1,21 @@
+{
+  "id": "severin",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Severin, pustnic la Tivoli în Italia",
+    "full": "Sfântul Cuvios Severin, pustnic la Tivoli în Italia",
+    "short": "Severin, pustnic la Tivoli în Italia",
+    "given": "Severin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/57ffe66b-bc4f-4237-ae54-9924fdec8c16",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

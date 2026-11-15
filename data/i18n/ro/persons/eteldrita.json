@@ -1,0 +1,21 @@
+{
+  "id": "eteldrita",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Eteldrita, prințesă din Anglia, iar mai târziu pustnică la Crowland",
+    "full": "Sfânta Cuvioasă Eteldrita, prințesă din Anglia, iar mai târziu pustnică la Crowland",
+    "short": "Eteldrita, prințesă din Anglia, iar mai târziu pustnică la Crowland",
+    "given": "Eteldrita"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2223f268-0fee-4453-9f7b-a56e5132c7c8",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

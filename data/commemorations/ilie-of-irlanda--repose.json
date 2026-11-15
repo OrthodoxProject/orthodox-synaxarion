@@ -1,0 +1,26 @@
+{
+  "id": "ilie-of-irlanda--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:ilie-of-irlanda"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 16
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/db2ebd05-3232-4e24-8484-806604a22d72",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

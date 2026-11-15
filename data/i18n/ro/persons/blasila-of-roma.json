@@ -1,0 +1,21 @@
+{
+  "id": "blasila-of-roma",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Blasila din Roma",
+    "full": "Sfânta Blasila din Roma",
+    "short": "Blasila din Roma",
+    "given": "Blasila"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1d2a1c3e-b669-4fe6-988d-fc85bc9df8c3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

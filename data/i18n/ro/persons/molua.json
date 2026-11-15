@@ -1,0 +1,21 @@
+{
+  "id": "molua",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Molua, egumen la Killaloe în Irlanda",
+    "full": "Sfântul Cuvios Molua, egumen la Killaloe în Irlanda",
+    "short": "Molua, egumen la Killaloe în Irlanda",
+    "given": "Molua"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d7b3a101-8ed6-41b7-96df-29777a4fdffd",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

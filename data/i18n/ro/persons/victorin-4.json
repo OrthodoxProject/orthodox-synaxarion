@@ -1,0 +1,20 @@
+{
+  "id": "victorin-4",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Victorin",
+    "short": "Victorin",
+    "given": "Victorin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b8f7c39c-ec82-4eb9-a9f0-118f8aca9685",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

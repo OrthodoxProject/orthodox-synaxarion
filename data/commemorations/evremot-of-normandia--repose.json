@@ -1,0 +1,26 @@
+{
+  "id": "evremot-of-normandia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:evremot-of-normandia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 10
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/83e1fb3a-25e0-4fce-bce9-58d4fb92410d#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

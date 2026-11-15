@@ -1,0 +1,20 @@
+{
+  "id": "leon-7",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Leon",
+    "short": "Leon",
+    "given": "Leon"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9bc6c51b-9a9b-4f0d-ad45-020fc5a43edd",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

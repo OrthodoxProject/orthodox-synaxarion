@@ -1,0 +1,20 @@
+{
+  "id": "fileort",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Fileort",
+    "short": "Fileort",
+    "given": "Fileort"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b4340143-6478-42d2-9682-c0e0e2d45864",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

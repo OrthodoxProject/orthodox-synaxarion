@@ -1,0 +1,21 @@
+{
+  "id": "gheorghe-of-efesul-the-new",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Gheorghe din Efesul cel Nou",
+    "full": "Sfântul Mucenic Gheorghe din Efesul cel Nou",
+    "short": "Gheorghe din Efesul cel Nou",
+    "given": "Gheorghe"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/71e92263-79db-4207-89bc-505eb8f77d61",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

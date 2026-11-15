@@ -1,0 +1,21 @@
+{
+  "id": "inochentie-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Inochentie, preot pe Muntele Măslinilor în Țara Sfântă",
+    "full": "Sfântul Sfințit Mucenic Inochentie, preot pe Muntele Măslinilor în Țara Sfântă",
+    "short": "Inochentie, preot pe Muntele Măslinilor în Țara Sfântă",
+    "given": "Inochentie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/fa1aac71-12f1-4460-842d-c0021b681bc2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

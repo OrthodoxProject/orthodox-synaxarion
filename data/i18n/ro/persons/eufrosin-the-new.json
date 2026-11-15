@@ -1,0 +1,21 @@
+{
+  "id": "eufrosin-the-new",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Eufrosin cel Nou, ocrotitorul Mănăstirii Grădinarilor din Kefalonia",
+    "full": "Sfântul Cuvios Eufrosin cel Nou, ocrotitorul Mănăstirii Grădinarilor din Kefalonia",
+    "short": "Eufrosin cel Nou, ocrotitorul Mănăstirii Grădinarilor din Kefalonia",
+    "given": "Eufrosin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f6169630-e38b-4025-9820-6880f267081a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

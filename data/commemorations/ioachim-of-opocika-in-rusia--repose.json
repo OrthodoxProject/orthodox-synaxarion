@@ -1,0 +1,26 @@
+{
+  "id": "ioachim-of-opocika-in-rusia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:ioachim-of-opocika-in-rusia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 9
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f158d878-7acc-4f1d-a411-59410f425695",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

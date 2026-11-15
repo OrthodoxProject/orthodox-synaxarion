@@ -1,0 +1,28 @@
+{
+  "id": "timotei-3-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:timotei-3",
+    "person:polie",
+    "person:eutihie-diaconii"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 21
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7f02e633-8cbc-47c3-aa9c-ff17e5f76193",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

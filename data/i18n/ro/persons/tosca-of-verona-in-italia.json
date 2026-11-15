@@ -1,0 +1,20 @@
+{
+  "id": "tosca-of-verona-in-italia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Tosca din Verona în Italia",
+    "short": "Tosca din Verona în Italia",
+    "given": "Tosca"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3ec8848f-629b-49d3-886a-69f138af4411",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

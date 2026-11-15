@@ -1,0 +1,27 @@
+{
+  "id": "alexandru-13-and-victor-of-rusia-2",
+  "kind": "repose",
+  "subjects": [
+    "person:alexandru-13",
+    "person:victor-of-rusia-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 17
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7712b14e-decf-4724-b318-8a6f7fd6c967",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

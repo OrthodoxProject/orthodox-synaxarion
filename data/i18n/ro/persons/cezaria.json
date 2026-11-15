@@ -1,0 +1,21 @@
+{
+  "id": "cezaria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Cezaria, stareță la Arles în Franța, sora Sfântului Ier. Cezarie de Arles",
+    "full": "Sfânta Cuvioasă Cezaria, stareță la Arles în Franța, sora Sfântului Ierarh Cezarie de Arles",
+    "short": "Cezaria, stareță la Arles în Franța, sora Sfântului Ierarh Cezarie de Arles",
+    "given": "Cezaria"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f2f8299d-ea5e-4af2-bebb-fb79aa5c2ad1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

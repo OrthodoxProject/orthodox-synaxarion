@@ -1,0 +1,21 @@
+{
+  "id": "teoctist-dragutin-of-serbia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Teoctist Dragutin din Serbia",
+    "full": "Sfântul Teoctist Dragutin din Serbia",
+    "short": "Teoctist Dragutin din Serbia",
+    "given": "Teoctist"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/01dedab4-8313-486f-96ea-40f737f19f6c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

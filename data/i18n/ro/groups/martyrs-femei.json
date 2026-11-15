@@ -1,0 +1,18 @@
+{
+  "id": "martyrs-femei",
+  "locale": "ro",
+  "names": {
+    "display": "Sfintele Mucenițe femei"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/591b0d2e-46c3-4643-b9b9-97bf65f77d05",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

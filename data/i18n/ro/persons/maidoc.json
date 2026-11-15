@@ -1,0 +1,21 @@
+{
+  "id": "maidoc",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Maidoc, egumen în Kilkeeny în Irlanda",
+    "full": "Sfântul Cuvios Maidoc, egumen în Kilkeeny în Irlanda",
+    "short": "Maidoc, egumen în Kilkeeny în Irlanda",
+    "given": "Maidoc"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/827b4aca-a93e-42e1-af49-a009e1904486",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

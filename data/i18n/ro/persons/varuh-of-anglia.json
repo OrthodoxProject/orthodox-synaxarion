@@ -1,0 +1,21 @@
+{
+  "id": "varuh-of-anglia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Varuh din Anglia",
+    "full": "Sfântul Cuvios Varuh din Anglia",
+    "short": "Varuh din Anglia",
+    "given": "Varuh"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3123953e-7dc2-4ed3-8a7a-3915bfce1943",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

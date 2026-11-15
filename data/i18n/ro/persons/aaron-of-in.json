@@ -1,0 +1,21 @@
+{
+  "id": "aaron-of-in",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Aaron, episcop în Franța",
+    "full": "Sfântul Ierarh Aaron, episcop în Franța",
+    "short": "Aaron, episcop în Franța",
+    "given": "Aaron"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e4bbd64b-9fcf-4e40-9e93-904b6943713d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

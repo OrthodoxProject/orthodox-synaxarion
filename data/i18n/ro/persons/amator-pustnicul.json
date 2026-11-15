@@ -1,0 +1,21 @@
+{
+  "id": "amator-pustnicul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Amator pustnicul",
+    "full": "Sfântul Cuvios Amator pustnicul",
+    "short": "Amator pustnicul",
+    "given": "Amator"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f69525c6-5aca-4c3b-a3d2-c87d779e4d26",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

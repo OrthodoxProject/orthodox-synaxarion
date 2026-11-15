@@ -1,0 +1,26 @@
+{
+  "id": "emilian-of-vercelli--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:emilian-of-vercelli"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 11
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5529fec5-e279-497b-8c37-4d5fb892fbbc",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

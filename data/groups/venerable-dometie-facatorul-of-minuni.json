@@ -1,0 +1,22 @@
+{
+  "id": "venerable-dometie-facatorul-of-minuni",
+  "kind": "community",
+  "holiness_types": [
+    "venerable",
+    "wonderworker"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a735e1c3-c443-4083-b870-966e9a9a7bc8",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

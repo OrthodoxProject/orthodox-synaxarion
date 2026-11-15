@@ -1,0 +1,29 @@
+{
+  "id": "eufimia-3-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:eufimia-3",
+    "person:doroteia-2",
+    "person:tecla-5",
+    "person:erasma-of-acvileea-in-italia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 3
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b3cbdd5b-4b4e-4bf7-8d94-54a9197c2ccc",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "zefrin-of-roma",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Zefrin, episcopul Romei",
+    "full": "Sfântul Ierarh Zefrin, episcopul Romei",
+    "short": "Zefrin, episcopul Romei",
+    "given": "Zefrin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/560147bc-6aae-40b4-ad9e-519e1b24d514",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

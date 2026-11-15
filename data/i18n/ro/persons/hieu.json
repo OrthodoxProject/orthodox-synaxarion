@@ -1,0 +1,21 @@
+{
+  "id": "hieu",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Hieu, stareță la Tadcaster în Anglia",
+    "full": "Sfânta Cuvioasă Hieu, stareță la Tadcaster în Anglia",
+    "short": "Hieu, stareță la Tadcaster în Anglia",
+    "given": "Hieu"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f1908ecf-0f17-4f90-9a86-18d47f117f3d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "gheorghe-of-anatolia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Gheorghe din Anatolia",
+    "full": "Sfântul Mucenic Gheorghe din Anatolia",
+    "short": "Gheorghe din Anatolia",
+    "given": "Gheorghe"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9cdbeebe-b0b3-48e0-b6ae-1bf8ecd54832",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "gavriil-6",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Gavriil, egumenul Schitului „Sfântul Prooroc Ilie” din Sfântul Munte Athos",
+    "full": "Sfântul Cuvios Gavriil, egumenul Schitului „Sfântul Prooroc Ilie” din Sfântul Munte Athos",
+    "short": "Gavriil, egumenul Schitului „Sfântul Prooroc Ilie” din Sfântul Munte Athos",
+    "given": "Gavriil"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a744259c-7b45-4188-819d-03cff721a86b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "socrate-preotul-of-ancira--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:socrate-preotul-of-ancira"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 21
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ef239e74-bc67-40e6-8fef-c7ecd6dabb61#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

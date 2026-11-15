@@ -1,0 +1,21 @@
+{
+  "id": "ghenadie-of-novgorod",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ghenadie, arhiepiscop de Novgorod în Rusia",
+    "full": "Sfântul Ierarh Ghenadie, arhiepiscop de Novgorod în Rusia",
+    "short": "Ghenadie, arhiepiscop de Novgorod în Rusia",
+    "given": "Ghenadie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8a1fec2d-8fdd-46d4-ba8f-47bbe4645067",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

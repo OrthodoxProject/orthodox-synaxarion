@@ -1,0 +1,21 @@
+{
+  "id": "blane-of-bute",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Blane, episcop de Bute în Scoția",
+    "full": "Sfântul Ierarh Blane, episcop de Bute în Scoția",
+    "short": "Blane, episcop de Bute în Scoția",
+    "given": "Blane"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1b9dad6d-242d-4055-9161-3f71fa95339e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

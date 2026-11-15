@@ -1,0 +1,21 @@
+{
+  "id": "gal",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Gal, episcop și mărturisitor din Aosta în Italia",
+    "full": "Sfântul Ierarh Gal, episcop și mărturisitor din Aosta în Italia",
+    "short": "Gal, episcop, mărturisitor din Aosta în Italia",
+    "given": "Gal"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/559c1958-b6a6-40be-a13e-012d21025b76",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

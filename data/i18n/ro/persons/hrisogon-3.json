@@ -1,0 +1,21 @@
+{
+  "id": "hrisogon-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Hrisogon",
+    "full": "Sfântul Mucenic Hrisogon",
+    "short": "Hrisogon",
+    "given": "Hrisogon"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/138e247d-4d56-4f83-83ce-06bc790b5bdf",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

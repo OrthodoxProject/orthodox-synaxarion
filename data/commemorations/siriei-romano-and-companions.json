@@ -1,0 +1,28 @@
+{
+  "id": "siriei-romano-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:siriei-romano",
+    "person:iperehie-2",
+    "person:varsemeu-of-samosata"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 29
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/148",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

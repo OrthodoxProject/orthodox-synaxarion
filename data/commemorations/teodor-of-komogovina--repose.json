@@ -1,0 +1,26 @@
+{
+  "id": "teodor-of-komogovina--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:teodor-of-komogovina"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 2
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d9c43fdd-064d-4af5-8dc4-8de741dc3b06",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

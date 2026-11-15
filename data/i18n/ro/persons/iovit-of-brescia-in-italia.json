@@ -1,0 +1,20 @@
+{
+  "id": "iovit-of-brescia-in-italia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Iovit din Brescia în Italia",
+    "short": "Iovit din Brescia în Italia",
+    "given": "Iovit"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/23cbc1d4-afae-4a94-80ca-f9cc7c26be9b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

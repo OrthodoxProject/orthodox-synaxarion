@@ -1,0 +1,27 @@
+{
+  "id": "aristeu-and-antonin-pruncul-of-campania-italiei",
+  "kind": "repose",
+  "subjects": [
+    "person:aristeu",
+    "person:antonin-pruncul-of-campania-italiei"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 3
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/368ba8ce-f266-4066-bf1d-aba6fc05c9c9",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

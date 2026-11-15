@@ -1,0 +1,21 @@
+{
+  "id": "porfirie-stratilatul-impreuna-cu-doua-sute-of",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Porfirie Stratilatul împreună cu două sute de ostași ai săi",
+    "full": "Sfântul Porfirie Stratilatul împreună cu două sute de ostași ai săi",
+    "short": "Porfirie Stratilatul împreună cu două sute de ostași ai săi",
+    "given": "Porfirie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/39d9ac86-4402-41fe-b03a-6f94243f6a6d#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "eusebie-of-vercelli",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Eusebie, episcop de Vercelli",
+    "full": "Sfântul Sfințit Mucenic Eusebie, episcop de Vercelli",
+    "short": "Eusebie, episcop de Vercelli",
+    "given": "Eusebie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b6de37e1-d13c-450a-9e33-6bdbe4c813fc",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

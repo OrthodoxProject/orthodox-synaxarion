@@ -1,0 +1,21 @@
+{
+  "id": "ildefons-of-toledo",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ildefons, episcop de Toledo în Spania",
+    "full": "Sfântul Ierarh Ildefons, episcop de Toledo în Spania",
+    "short": "Ildefons, episcop de Toledo în Spania",
+    "given": "Ildefons"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/328207dc-4058-4a48-89a1-02136333cf92",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

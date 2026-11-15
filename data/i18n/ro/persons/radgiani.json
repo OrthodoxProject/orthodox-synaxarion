@@ -1,0 +1,21 @@
+{
+  "id": "radgiani",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Radgiani, primul martir al Georgiei",
+    "full": "Sfântul Mucenic Radgiani, primul martir al Georgiei",
+    "short": "Radgiani, primul martir al Georgiei",
+    "given": "Radgiani"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/16cecc3d-f530-43a1-8ecd-63749745f6fa",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

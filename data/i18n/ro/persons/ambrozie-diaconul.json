@@ -1,0 +1,21 @@
+{
+  "id": "ambrozie-diaconul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ambrozie diaconul, ucenicul Sfântului Didim cel Orb din Alexandria",
+    "full": "Sfântul Cuvios Ambrozie diaconul, ucenicul Sfântului Didim cel Orb din Alexandria",
+    "short": "Ambrozie diaconul, ucenicul Sfântului Didim cel Orb din Alexandria",
+    "given": "Ambrozie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2de35f3d-f46c-43bd-8dde-422a7b9d5dc0",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

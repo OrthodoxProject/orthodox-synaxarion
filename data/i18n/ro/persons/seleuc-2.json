@@ -1,0 +1,21 @@
+{
+  "id": "seleuc-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Seleuc",
+    "full": "Sfântul Mucenic Seleuc",
+    "short": "Seleuc",
+    "given": "Seleuc"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d100336a-af25-4e5a-8215-d7e7e0de2a9a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

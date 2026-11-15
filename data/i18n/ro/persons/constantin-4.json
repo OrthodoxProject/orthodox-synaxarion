@@ -1,0 +1,21 @@
+{
+  "id": "constantin-4",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Constantin, regele Scoției",
+    "full": "Sfântul Mucenic Constantin, regele Scoției",
+    "short": "Constantin, regele Scoției",
+    "given": "Constantin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d0c20c2d-a533-4a01-8702-9ceeb72a07e2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

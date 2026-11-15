@@ -1,0 +1,21 @@
+{
+  "id": "simeon-of-lavra-pesterilor-of-kiev",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Simeon de la Lavra Peșterilor din Kiev (Ucraina)",
+    "full": "Sfântul Cuvios Simeon de la Lavra Peșterilor din Kiev (Ucraina)",
+    "short": "Simeon de la Lavra Peșterilor din Kiev",
+    "given": "Simeon"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c44b5f2a-53e5-4b81-99d3-808f058480a1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

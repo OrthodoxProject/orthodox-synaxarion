@@ -1,0 +1,21 @@
+{
+  "id": "calimerie-of-milano",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Calimerie, episcop de Milano în Italia",
+    "full": "Sfântul Sfințit Mucenic Calimerie, episcop de Milano în Italia",
+    "short": "Calimerie, episcop de Milano în Italia",
+    "given": "Calimerie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8e91ce2f-c616-4517-8e38-9fda6cbfee46",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "haymon-and-veremond",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Cuvioși Haymon și Veremond"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/adce82f8-0c09-4313-9c37-cbba7c100c60",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

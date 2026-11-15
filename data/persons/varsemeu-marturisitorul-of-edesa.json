@@ -1,0 +1,23 @@
+{
+  "id": "varsemeu-marturisitorul-of-edesa",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "hieromartyr",
+    "confessor"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/20ac0749-fdc9-44db-9991-d68ec7d1a015",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

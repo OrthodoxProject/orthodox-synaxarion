@@ -1,0 +1,20 @@
+{
+  "id": "diomid-of-cipru",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Diomid din Cipru",
+    "short": "Diomid din Cipru",
+    "given": "Diomid"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/988fd260-f914-4e04-94ed-35ed3c79fac2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

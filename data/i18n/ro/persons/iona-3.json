@@ -1,0 +1,21 @@
+{
+  "id": "iona-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Iona, preotul, tatăl lui Teofan Scrisul, făcătorul de canoane",
+    "full": "Sfântul Cuvios Iona, preotul, tatăl lui Teofan Scrisul, făcătorul de canoane",
+    "short": "Iona, preotul, tatăl lui Teofan Scrisul, făcătorul de canoane",
+    "given": "Iona"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9e18166d-6c45-4c8c-83a2-d66b179bd4e7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "mihail-13--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:mihail-13"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 17
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/519becaa-f16c-4de7-8fc0-31c1cd7002dc",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

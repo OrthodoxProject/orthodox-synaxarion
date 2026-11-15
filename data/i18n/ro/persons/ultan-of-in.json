@@ -1,0 +1,20 @@
+{
+  "id": "ultan-of-in",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. ULTAN, episcop în Irlanda",
+    "short": "ULTAN, episcop în Irlanda",
+    "given": "ULTAN"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/84db4ecf-da3e-4ec5-8a8c-5d1a0f513c21",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

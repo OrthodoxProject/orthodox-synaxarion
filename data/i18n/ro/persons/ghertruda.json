@@ -1,0 +1,21 @@
+{
+  "id": "ghertruda",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ghertruda, egumenă la Hamay în Franța",
+    "full": "Sfânta Cuvioasă Ghertruda, egumenă la Hamay în Franța",
+    "short": "Ghertruda, egumenă la Hamay în Franța",
+    "given": "Ghertruda"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/35119f0e-aaa0-41d7-b9b4-3a4548ca2f60",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

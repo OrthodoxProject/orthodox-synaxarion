@@ -1,0 +1,27 @@
+{
+  "id": "eftimie-2-and-hariton-of-rusia",
+  "kind": "repose",
+  "subjects": [
+    "person:eftimie-2",
+    "person:hariton-of-rusia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 11
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8e390292-73c9-4cb5-9a20-ba3753a46772",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

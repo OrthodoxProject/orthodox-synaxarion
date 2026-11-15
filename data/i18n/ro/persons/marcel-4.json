@@ -1,0 +1,21 @@
+{
+  "id": "marcel-4",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Marcel, preot din Franța",
+    "full": "Sfântul Sfințit Mucenic Marcel, preot din Franța",
+    "short": "Marcel, preot din Franța",
+    "given": "Marcel"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/aaf14301-865c-4964-86db-6533c7869564#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

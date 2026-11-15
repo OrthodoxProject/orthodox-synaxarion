@@ -1,0 +1,21 @@
+{
+  "id": "pelaghia-fecioara-of-antiohia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Pelaghia fecioara, din Antiohia",
+    "full": "Sfânta Muceniță Pelaghia fecioara, din Antiohia",
+    "short": "Pelaghia fecioara, din Antiohia",
+    "given": "Pelaghia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/872b1339-e970-457c-aeda-ea1ed2462ad0",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

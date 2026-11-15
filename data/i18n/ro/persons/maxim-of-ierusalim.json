@@ -1,0 +1,21 @@
+{
+  "id": "maxim-of-ierusalim",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Maxim, arhiepiscopul Ierusalimului și mărturisitor al dreptei credințe",
+    "full": "Sfântul Ierarh Maxim, arhiepiscopul Ierusalimului și mărturisitor al dreptei credințe",
+    "short": "Maxim, arhiepiscopul Ierusalimului, mărturisitor al dreptei credințe",
+    "given": "Maxim"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/dc143352-8821-45b2-9056-a4dca144ce6c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

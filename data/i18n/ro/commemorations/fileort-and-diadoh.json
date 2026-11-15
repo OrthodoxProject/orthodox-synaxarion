@@ -1,0 +1,18 @@
+{
+  "id": "fileort-and-diadoh",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici Fileort și Diadoh"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b4340143-6478-42d2-9682-c0e0e2d45864",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ermeland-of-anglia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ermeland, starețul Mănăstirii Sfântul Alban din Anglia",
+    "full": "Sfântul Cuvios Ermeland, starețul Mănăstirii Sfântul Alban din Anglia",
+    "short": "Ermeland, starețul Mănăstirii Sfântul Alban din Anglia",
+    "given": "Ermeland"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f9bdb11b-7177-4616-9159-9e02925a17e3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "candida-5--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:candida-5"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 18
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3734fbe0-91c8-48e2-b1eb-16477cfc80a1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

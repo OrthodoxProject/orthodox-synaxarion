@@ -1,0 +1,27 @@
+{
+  "id": "filadelf-and-policarp",
+  "kind": "repose",
+  "subjects": [
+    "person:filadelf",
+    "person:policarp"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 8
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d99a46b7-c1e0-4f3d-87ab-077d762a1681",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

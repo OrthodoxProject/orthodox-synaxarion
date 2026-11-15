@@ -1,0 +1,26 @@
+{
+  "id": "teodosie-of-rusia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:teodosie-of-rusia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 8
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b9948a66-1700-4854-8979-b027d2e5db63",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

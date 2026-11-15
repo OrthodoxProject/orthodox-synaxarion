@@ -1,0 +1,21 @@
+{
+  "id": "lucila-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Lucila, fiica sa",
+    "full": "Sfânta Lucila, fiica sa",
+    "short": "Lucila, fiica sa",
+    "given": "Lucila"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0b895324-9db5-4a13-80d8-43aac00fd3f4#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

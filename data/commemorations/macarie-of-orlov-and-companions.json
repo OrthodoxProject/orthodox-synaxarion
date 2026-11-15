@@ -1,0 +1,29 @@
+{
+  "id": "macarie-of-orlov-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:macarie-of-orlov",
+    "person:efrem-of-selenginsk",
+    "person:ioan-52",
+    "person:alexie-19"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 22
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3721d0be-783a-4971-a895-ae3c04ddb862",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

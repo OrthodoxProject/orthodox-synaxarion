@@ -1,0 +1,21 @@
+{
+  "id": "martyrs-claudie-iustus-iucundin-and-companions",
+  "kind": "martyrs",
+  "holiness_types": [
+    "martyr"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/32fc7f65-1106-4ebd-884e-2992605e4937#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

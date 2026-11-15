@@ -1,0 +1,21 @@
+{
+  "id": "efrem-of-cilicia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Efrem din Cilicia",
+    "full": "Sfântul Mucenic Efrem din Cilicia",
+    "short": "Efrem din Cilicia",
+    "given": "Efrem"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5b4fc011-075b-4d55-8117-ee81625b49af",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "nicodim-of-bereea-in-macedonia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Nicodim din Bereea în Macedonia",
+    "full": "Sfântul Cuvios Nicodim din Bereea în Macedonia",
+    "short": "Nicodim din Bereea în Macedonia",
+    "given": "Nicodim"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1f7380cd-852b-4ebb-a34e-066effe2884f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

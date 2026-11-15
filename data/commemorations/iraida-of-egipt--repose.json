@@ -1,0 +1,26 @@
+{
+  "id": "iraida-of-egipt--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:iraida-of-egipt"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 5
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/021361fb-f9d2-455c-a8b0-ea16946eaf6d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

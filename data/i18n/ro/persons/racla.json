@@ -1,0 +1,21 @@
+{
+  "id": "racla",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Raclă",
+    "full": "Sfânta Raclă",
+    "short": "Raclă",
+    "given": "Raclă"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/39b0e954-90b6-4d55-8918-a7f933e9811b#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

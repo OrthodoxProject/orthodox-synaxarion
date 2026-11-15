@@ -1,0 +1,21 @@
+{
+  "id": "seigine",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Seigine, egumen la Iona în Scoția",
+    "full": "Sfântul Cuvios Seigine, egumen la Iona în Scoția",
+    "short": "Seigine, egumen la Iona în Scoția",
+    "given": "Seigine"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/31ec505c-6558-43fb-a0de-f4d15c470c10",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

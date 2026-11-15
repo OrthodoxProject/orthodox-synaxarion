@@ -1,0 +1,21 @@
+{
+  "id": "prohor",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Prohor, Făcătorul de Minuni de la Kievo-Pecerska",
+    "full": "Sfântul Cuvios Prohor, Făcătorul de Minuni de la Kievo-Pecerska",
+    "short": "Prohor, Făcătorul de Minuni de la Kievo-Pecerska",
+    "given": "Prohor"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1362",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

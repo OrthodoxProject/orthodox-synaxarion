@@ -1,0 +1,26 @@
+{
+  "id": "petru-of-ierusalim--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:petru-of-ierusalim"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 26
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/13fd9ead-1374-4445-86dd-0ca7f2fbf196",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

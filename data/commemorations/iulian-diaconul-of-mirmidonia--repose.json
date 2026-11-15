@@ -1,0 +1,26 @@
+{
+  "id": "iulian-diaconul-of-mirmidonia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:iulian-diaconul-of-mirmidonia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 21
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/fb2a7ede-4485-4bbc-a038-3bca1aceb3a1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

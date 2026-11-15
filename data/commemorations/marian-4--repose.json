@@ -1,0 +1,26 @@
+{
+  "id": "marian-4--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:marian-4"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 10
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/de97a1cd-7ef0-4d61-a3d1-93e94121d79e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

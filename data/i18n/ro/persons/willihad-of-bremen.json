@@ -1,0 +1,21 @@
+{
+  "id": "willihad-of-bremen",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Willihad, episcop de Bremen în Germania",
+    "full": "Sfântul Ierarh Willihad, episcop de Bremen în Germania",
+    "short": "Willihad, episcop de Bremen în Germania",
+    "given": "Willihad"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d9d6b554-f87c-49cd-9ef1-5829cbd3b6ab",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

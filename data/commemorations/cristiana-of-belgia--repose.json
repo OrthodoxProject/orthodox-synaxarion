@@ -1,0 +1,26 @@
+{
+  "id": "cristiana-of-belgia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:cristiana-of-belgia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 24
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0c58502f-88bd-41f4-ac8f-02487349ee16",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

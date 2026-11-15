@@ -1,0 +1,26 @@
+{
+  "id": "flor-of-amins--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:flor-of-amins"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 18
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3f7d9116-3edf-4155-a703-1f68673d6e44",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

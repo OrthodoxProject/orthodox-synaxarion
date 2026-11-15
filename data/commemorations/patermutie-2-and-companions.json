@@ -1,0 +1,28 @@
+{
+  "id": "patermutie-2-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:patermutie-2",
+    "person:coprie-2",
+    "person:alexandru-of-egipt"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 17
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/fe770fa7-8dd6-41fa-bb2c-8a55e4e0d144",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

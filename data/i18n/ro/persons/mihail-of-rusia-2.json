@@ -1,0 +1,20 @@
+{
+  "id": "mihail-of-rusia-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Mihail (Ocolovici) din Rusia",
+    "short": "Mihail (Ocolovici) din Rusia",
+    "given": "Mihail"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7c7abecc-e7cf-4c22-bf2d-e9c5035b270b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

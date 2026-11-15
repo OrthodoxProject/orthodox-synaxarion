@@ -1,0 +1,21 @@
+{
+  "id": "alexandru-nevsky",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Alexandru Nevsky, mare prinț de Novgorod",
+    "full": "Sfântul Cuvios Alexandru Nevsky, mare prinț de Novgorod",
+    "short": "Alexandru Nevsky, mare prinț de Novgorod",
+    "given": "Alexandru"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5ae97810-f73b-4578-837e-ec3779f79257",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "saturnin-batranul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Saturnin bătrânul",
+    "short": "Saturnin bătrânul",
+    "given": "Saturnin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/15835822-49ee-4673-a50b-ef6f5635d1b2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

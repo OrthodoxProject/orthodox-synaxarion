@@ -1,0 +1,21 @@
+{
+  "id": "ioan-i-of-roma-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ioan I, episcopul Romei și făcătorul de minuni",
+    "full": "Sfântul Ierarh Ioan I, episcopul Romei și făcătorul de minuni",
+    "short": "Ioan I, episcopul Romei, făcătorul de minuni",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e21a1078-52fa-4591-9e26-0d0647f574d6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "bonet-of-clermont--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:bonet-of-clermont"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 15
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c37c9abf-e480-44f6-b00f-7a936a274343",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

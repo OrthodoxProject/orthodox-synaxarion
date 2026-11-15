@@ -1,0 +1,21 @@
+{
+  "id": "protasie-of-milano",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Protasie, episcop de Milano în Italia",
+    "full": "Sfântul Ierarh Protasie, episcop de Milano în Italia",
+    "short": "Protasie, episcop de Milano în Italia",
+    "given": "Protasie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3eb41b11-e465-4699-bc42-76727ac9f3f3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

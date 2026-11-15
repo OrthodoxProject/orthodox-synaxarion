@@ -1,0 +1,31 @@
+{
+  "id": "ioan-19-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:ioan-19",
+    "person:petru-7",
+    "person:vasile-9",
+    "person:veniamin-2",
+    "person:mihail-8",
+    "person:alexandru-of-rusia-3"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 1
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/05f32878-bdda-4572-91b1-2028dabf9996",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

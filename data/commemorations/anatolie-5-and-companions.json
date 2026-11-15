@@ -1,0 +1,29 @@
+{
+  "id": "anatolie-5-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:anatolie-5",
+    "person:nicolae-40",
+    "person:mihail-36",
+    "person:filip-of-rusia-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 2
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f0657ede-23e3-4342-a4fb-6b291b8a42ca#6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

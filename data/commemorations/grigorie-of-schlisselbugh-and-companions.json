@@ -1,0 +1,42 @@
+{
+  "id": "grigorie-of-schlisselbugh-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:grigorie-of-schlisselbugh",
+    "person:stefan-20",
+    "person:pavel-32",
+    "person:ioan-60",
+    "person:nicolae-41",
+    "person:nicolae-42",
+    "person:ioan-61",
+    "person:nicolae-43",
+    "person:alexandru-39",
+    "person:petru-32",
+    "person:mihail-37",
+    "person:ilie-7",
+    "person:stefan-21",
+    "person:vasile-35",
+    "person:petru-33",
+    "person:stefan-22",
+    "person:alexandru-of-rusia-6"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 4
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9491bf6c-2766-4afc-95a3-982f8babbcec",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

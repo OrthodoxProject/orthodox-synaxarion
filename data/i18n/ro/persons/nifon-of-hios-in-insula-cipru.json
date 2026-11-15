@@ -1,0 +1,21 @@
+{
+  "id": "nifon-of-hios-in-insula-cipru",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Nifon din Hios în insula Cipru",
+    "full": "Sfântul Cuvios Nifon din Hios în insula Cipru",
+    "short": "Nifon din Hios în insula Cipru",
+    "given": "Nifon"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9ec0d4b4-6758-4d89-8121-a967f12344d1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

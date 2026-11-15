@@ -1,0 +1,26 @@
+{
+  "id": "madron--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:madron"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 17
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0992a336-4b09-4b07-b15f-756af8c9aea3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

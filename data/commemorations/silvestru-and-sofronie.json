@@ -1,0 +1,27 @@
+{
+  "id": "silvestru-and-sofronie",
+  "kind": "repose",
+  "subjects": [
+    "person:silvestru",
+    "person:sofronie"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 1
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d2ead9ce-6b31-409c-ba01-ccd07082cc43",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

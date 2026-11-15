@@ -1,0 +1,26 @@
+{
+  "id": "serghie-11--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:serghie-11"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 26
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f6a9006f-e06f-4f8b-87c4-350b0e197746",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

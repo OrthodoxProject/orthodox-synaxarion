@@ -1,0 +1,21 @@
+{
+  "id": "onisie-of-isauria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Onisie din Isauria",
+    "full": "Sfântul Mucenic Onisie din Isauria",
+    "short": "Onisie din Isauria",
+    "given": "Onisie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/90ece568-d462-4883-a366-d9c009a87739",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

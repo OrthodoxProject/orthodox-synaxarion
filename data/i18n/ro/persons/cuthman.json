@@ -1,0 +1,21 @@
+{
+  "id": "cuthman",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Cuthman, pustnic la Steining în Anglia",
+    "full": "Sfântul Cuvios Cuthman, pustnic la Steining în Anglia",
+    "short": "Cuthman, pustnic la Steining în Anglia",
+    "given": "Cuthman"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0325bc1b-a5d4-4590-a754-5f091b16001c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

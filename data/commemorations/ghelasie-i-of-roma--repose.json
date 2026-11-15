@@ -1,0 +1,26 @@
+{
+  "id": "ghelasie-i-of-roma--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:ghelasie-i-of-roma"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 21
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b56fab65-b8e1-4f24-8624-cd7b22028edf",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

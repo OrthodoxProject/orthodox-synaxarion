@@ -1,0 +1,26 @@
+{
+  "id": "eusebiu-of-bologna--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:eusebiu-of-bologna"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 26
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ecd39bcb-dcf5-4ba9-bd4f-844957ef8334",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "asclepie-of-limoges",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Asclepie, episcop de Limoges în Franța (secolul al VI-lea)",
+    "full": "Sfântul Ierarh Asclepie, episcop de Limoges în Franța (secolul al VI-lea)",
+    "short": "Asclepie, episcop de Limoges în Franța",
+    "given": "Asclepie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6f9f05b3-605c-4ec6-9f16-cfe07bc12171",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "paula-3-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sfintele Mucenițe Paula, Vasa și Agatonica"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8edb4302-a69e-4cc7-921f-9bace01d59cf",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "spes",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Spes, egumen în Campania Italiei",
+    "full": "Sfântul Cuvios Spes, egumen în Campania Italiei",
+    "short": "Spes, egumen în Campania Italiei",
+    "given": "Spes"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9fc4e442-1c57-4fe6-8ecb-b34481e78803",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

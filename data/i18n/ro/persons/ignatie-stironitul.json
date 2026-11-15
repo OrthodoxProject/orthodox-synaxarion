@@ -1,0 +1,21 @@
+{
+  "id": "ignatie-stironitul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ignatie Stironitul",
+    "full": "Sfântul Cuvios Ignatie Stironitul",
+    "short": "Ignatie Stironitul",
+    "given": "Ignatie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b4cfbc81-0540-49a4-87a6-2818833e7ecb",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

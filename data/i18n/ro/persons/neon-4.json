@@ -1,0 +1,20 @@
+{
+  "id": "neon-4",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Neon",
+    "short": "Neon",
+    "given": "Neon"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/53e668af-08bc-46a0-9921-282d52631b02",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "tutilo--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:tutilo"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 28
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1505ff5d-9261-4838-9f1a-919a1ced885b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

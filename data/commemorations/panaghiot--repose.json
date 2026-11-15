@@ -1,0 +1,26 @@
+{
+  "id": "panaghiot--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:panaghiot"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 5
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/683630e2-ad82-4687-bd1d-e93d71131cb7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

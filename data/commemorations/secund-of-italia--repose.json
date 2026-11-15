@@ -1,0 +1,26 @@
+{
+  "id": "secund-of-italia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:secund-of-italia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 29
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c6671f3f-ae68-47ce-b034-340a5b5c203a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

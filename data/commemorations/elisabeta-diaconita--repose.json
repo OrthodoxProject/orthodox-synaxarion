@@ -1,0 +1,26 @@
+{
+  "id": "elisabeta-diaconita--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:elisabeta-diaconita"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 15
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f3b55657-6f1b-4f3d-baa2-aef4437c53da",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

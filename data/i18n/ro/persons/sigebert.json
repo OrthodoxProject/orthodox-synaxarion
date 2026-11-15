@@ -1,0 +1,21 @@
+{
+  "id": "sigebert",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Sigebert, regele Angliei de Răsărit",
+    "full": "Sfântul Mucenic Sigebert, regele Angliei de Răsărit",
+    "short": "Sigebert, regele Angliei de Răsărit",
+    "given": "Sigebert"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/03409c1f-166f-44ff-93c1-4c97790f727e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

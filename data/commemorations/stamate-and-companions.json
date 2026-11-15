@@ -1,0 +1,28 @@
+{
+  "id": "stamate-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:stamate",
+    "person:ioan-7",
+    "person:nicolae-7"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 3
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/63ff8390-b156-4e2f-b6c4-e96e95bf4a51",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

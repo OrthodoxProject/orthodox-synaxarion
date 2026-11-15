@@ -1,0 +1,21 @@
+{
+  "id": "bronach-of-irlanda",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Bronach din Irlanda",
+    "full": "Sfânta Bronach din Irlanda",
+    "short": "Bronach din Irlanda",
+    "given": "Bronach"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9e782efa-e7ad-4307-a6d9-bb7312ce068c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

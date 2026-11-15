@@ -1,0 +1,21 @@
+{
+  "id": "elefterie-camerierul-of-tars",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Elefterie Camerierul din Tars",
+    "full": "Sfântul Mucenic Elefterie Camerierul din Tars",
+    "short": "Elefterie Camerierul din Tars",
+    "given": "Elefterie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/685",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "noilor-martyrs",
+  "locale": "ro",
+  "names": {
+    "display": "Noilor Mucenici"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1484",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

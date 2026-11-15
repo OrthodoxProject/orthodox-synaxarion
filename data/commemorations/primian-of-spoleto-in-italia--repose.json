@@ -1,0 +1,26 @@
+{
+  "id": "primian-of-spoleto-in-italia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:primian-of-spoleto-in-italia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 31
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/88397f88-175f-436c-ba6c-b7025c44a428",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

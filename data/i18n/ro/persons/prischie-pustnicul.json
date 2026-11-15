@@ -1,0 +1,21 @@
+{
+  "id": "prischie-pustnicul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Prischie pustnicul",
+    "full": "Sfântul Cuvios Prischie pustnicul",
+    "short": "Prischie pustnicul",
+    "given": "Prischie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f14910e7-f19e-454f-b4f4-7f1fb288a218",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

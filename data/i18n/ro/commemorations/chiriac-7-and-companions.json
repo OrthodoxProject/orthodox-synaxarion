@@ -1,0 +1,18 @@
+{
+  "id": "chiriac-7-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici Chiriac, Larghion, Crescențian, Ninghie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1da0346f-279a-4526-9100-4b3919483443",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

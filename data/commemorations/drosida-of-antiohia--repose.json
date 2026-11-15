@@ -1,0 +1,26 @@
+{
+  "id": "drosida-of-antiohia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:drosida-of-antiohia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 22
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1e77f960-41d1-4898-ad1e-1f58196897ab",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

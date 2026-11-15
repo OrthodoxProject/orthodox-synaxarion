@@ -1,0 +1,21 @@
+{
+  "id": "severin-of-noric",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ier. Severin, episcop de Noric în Austria",
+    "full": "Sfântul Cuvios Ierarh Severin, episcop de Noric în Austria",
+    "short": "Severin, episcop de Noric în Austria",
+    "given": "Severin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6cf578cc-57c9-443b-8436-5a81a7024715",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

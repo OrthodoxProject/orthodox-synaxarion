@@ -1,0 +1,29 @@
+{
+  "id": "agapit-3-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:agapit-3",
+    "person:proiectis",
+    "person:dionisie-9",
+    "person:ilarion-3"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 18
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/720",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

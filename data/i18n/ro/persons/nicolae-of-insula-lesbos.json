@@ -1,0 +1,21 @@
+{
+  "id": "nicolae-of-insula-lesbos",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Nicolae din insula Lesbos",
+    "full": "Sfântul Mucenic Nicolae din insula Lesbos",
+    "short": "Nicolae din insula Lesbos",
+    "given": "Nicolae"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0969e458-2e18-4185-b55e-99fc0790e23c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

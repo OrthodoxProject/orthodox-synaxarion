@@ -1,0 +1,21 @@
+{
+  "id": "lupicin-of-vienne",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Lupicin, episcop de Vienne în Franța",
+    "full": "Sfântul Ierarh Lupicin, episcop de Vienne în Franța",
+    "short": "Lupicin, episcop de Vienne în Franța",
+    "given": "Lupicin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/50da0c7d-3957-4ccd-bf94-4eff0fa41b88",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "bettelin-of-anglia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Bettelin din Anglia",
+    "full": "Sfântul Cuvios Bettelin din Anglia",
+    "short": "Bettelin din Anglia",
+    "given": "Bettelin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b9b7ba2c-7abb-4b23-83c6-c02645b54acb",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "valentin-9-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici Valentin, Solutorie și Victor"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/fe8e29f3-5d94-435e-a093-3f5b5092201d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

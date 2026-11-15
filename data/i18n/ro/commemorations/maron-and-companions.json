@@ -1,0 +1,18 @@
+{
+  "id": "maron-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici Maron, Eutihie și Victorin din Roma"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5097c183-b4eb-4b97-ae7c-8a7d2ef7007d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

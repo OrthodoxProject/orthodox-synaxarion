@@ -1,0 +1,21 @@
+{
+  "id": "pelaghia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Pelaghia (Serebrennikova), nebună pentru Hristos de la Mănăstirea Diveevo din Rusia",
+    "full": "Sfânta Cuvioasă Pelaghia (Serebrennikova), nebună pentru Hristos de la Mănăstirea Diveevo din Rusia",
+    "short": "Pelaghia (Serebrennikova), nebună pentru Hristos de la Mănăstirea Diveevo din Rusia",
+    "given": "Pelaghia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/90ef6f4c-2068-438d-b72c-88d0ba19cd24",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

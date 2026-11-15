@@ -1,0 +1,27 @@
+{
+  "id": "vasile-12-and-constantin",
+  "kind": "repose",
+  "subjects": [
+    "person:vasile-12",
+    "person:constantin"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 5
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/edbcb8b3-625f-4947-b81d-bbc8b534b5df",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

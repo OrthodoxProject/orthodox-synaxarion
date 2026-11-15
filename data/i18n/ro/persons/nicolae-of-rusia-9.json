@@ -1,0 +1,20 @@
+{
+  "id": "nicolae-of-rusia-9",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Nicolae (Varjanskii) din Rusia",
+    "short": "Nicolae (Varjanskii) din Rusia",
+    "given": "Nicolae"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/45003a2b-52a8-4f51-85be-46e14e8e4362",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

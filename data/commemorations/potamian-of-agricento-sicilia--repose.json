@@ -1,0 +1,26 @@
+{
+  "id": "potamian-of-agricento-sicilia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:potamian-of-agricento-sicilia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 29
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a837d75c-e58e-4386-8ca6-3984eafe2b66#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

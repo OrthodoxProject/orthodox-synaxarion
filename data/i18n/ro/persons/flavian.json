@@ -1,0 +1,20 @@
+{
+  "id": "flavian",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Flavian",
+    "short": "Flavian",
+    "given": "Flavian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2aba50bf-33c3-4bb1-b8a0-a9a909f80d24",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

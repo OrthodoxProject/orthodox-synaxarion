@@ -1,0 +1,21 @@
+{
+  "id": "iacov-of-catania",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Iacov, episcopul Cataniei",
+    "full": "Sfântul Cuvios Iacov, episcopul Cataniei",
+    "short": "Iacov, episcopul Cataniei",
+    "given": "Iacov"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6ccbbf1f-6633-4548-b24d-1b5443840f06",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

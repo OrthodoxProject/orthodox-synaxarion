@@ -1,0 +1,21 @@
+{
+  "id": "elidius-of-in",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Elidius, episcop în Anglia",
+    "full": "Sfântul Ierarh Elidius, episcop în Anglia",
+    "short": "Elidius, episcop în Anglia",
+    "given": "Elidius"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c2c1c978-0353-40ca-82e4-1397297a11fb",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

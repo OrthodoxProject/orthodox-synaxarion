@@ -1,0 +1,21 @@
+{
+  "id": "ambrozie-4",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ambrozie, stareț la Augaune în Elveția",
+    "full": "Sfântul Cuvios Ambrozie, stareț la Augaune în Elveția",
+    "short": "Ambrozie, stareț la Augaune în Elveția",
+    "given": "Ambrozie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7e48f49c-803b-4213-b434-16ee3cf67d3a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

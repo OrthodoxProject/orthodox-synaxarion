@@ -1,0 +1,21 @@
+{
+  "id": "nicandru-of-rusia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc., Nicandru (Grivskii) din Rusia",
+    "full": "Sfântul Sfințit Mucenic, Nicandru (Grivskii) din Rusia",
+    "short": "Nicandru (Grivskii) din Rusia",
+    "given": "Nicandru"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/826#3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "2-martyrs-virgins",
+  "kind": "martyrs",
+  "count": {
+    "value": 2,
+    "precision": "exact"
+  },
+  "holiness_types": [
+    "martyr",
+    "virgin"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4799dbd9-9f91-4323-9d7c-17ed231e481e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

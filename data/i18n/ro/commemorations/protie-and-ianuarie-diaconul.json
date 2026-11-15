@@ -1,0 +1,18 @@
+{
+  "id": "protie-and-ianuarie-diaconul",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Sfințiți Mucenici Protie și Ianuarie diaconul"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1755a469-4418-46ae-ab37-2cbd7668a6fc",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

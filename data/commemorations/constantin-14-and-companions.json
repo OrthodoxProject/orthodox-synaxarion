@@ -1,0 +1,38 @@
+{
+  "id": "constantin-14-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:constantin-14",
+    "person:serghie-17",
+    "person:vasile-44",
+    "person:teodor-29",
+    "person:vladimir-27",
+    "person:nicolae-58",
+    "person:ioan-80",
+    "person:vasile-45",
+    "person:alexandru-49",
+    "person:dimitri-2",
+    "person:alexie-28",
+    "person:serghie-18",
+    "person:ioan-81"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 21
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0e547f26-856c-4069-b23f-259c9a0b06e3#3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

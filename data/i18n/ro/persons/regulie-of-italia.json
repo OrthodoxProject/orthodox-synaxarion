@@ -1,0 +1,21 @@
+{
+  "id": "regulie-of-italia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Regulie din Italia, episcop african exilat de arieni",
+    "full": "Sfântul Sfințit Mucenic Regulie din Italia, episcop african exilat de arieni",
+    "short": "Regulie din Italia, episcop african exilat de arieni",
+    "given": "Regulie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7235bd66-73f2-4ae3-af26-4621ce4b5f9f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

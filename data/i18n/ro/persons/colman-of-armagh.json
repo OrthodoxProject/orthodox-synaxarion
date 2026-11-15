@@ -1,0 +1,20 @@
+{
+  "id": "colman-of-armagh",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Colman din Armagh, ucenicul Sfântului Patrick din Irlanda",
+    "short": "Colman din Armagh, ucenicul Sfântului Patrick din Irlanda",
+    "given": "Colman"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c04d2e9e-6f64-48c7-81aa-d54de0abad24",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

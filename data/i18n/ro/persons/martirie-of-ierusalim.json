@@ -1,0 +1,21 @@
+{
+  "id": "martirie-of-ierusalim",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Martirie, arhiepiscopul Ierusalimului",
+    "full": "Sfântul Ierarh Martirie, arhiepiscopul Ierusalimului",
+    "short": "Martirie, arhiepiscopul Ierusalimului",
+    "given": "Martirie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c250aa78-2485-469c-b4ea-5ecd28f2e74a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "cornilie-comediantul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cornilie comediantul",
+    "full": "Sfântul Cornilie comediantul",
+    "short": "Cornilie comediantul",
+    "given": "Cornilie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/dfd20821-3395-4492-80ee-ccf222c35f5c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

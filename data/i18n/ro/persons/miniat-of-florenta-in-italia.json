@@ -1,0 +1,21 @@
+{
+  "id": "miniat-of-florenta-in-italia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Miniat din Florența în Italia",
+    "full": "Sfântul Mucenic Miniat din Florența în Italia",
+    "short": "Miniat din Florența în Italia",
+    "given": "Miniat"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a81c4a18-99d4-41dd-98a1-8ebc1f0eebbf",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

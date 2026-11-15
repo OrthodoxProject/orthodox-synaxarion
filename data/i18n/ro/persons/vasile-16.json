@@ -1,0 +1,20 @@
+{
+  "id": "vasile-16",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Vasile",
+    "short": "Vasile",
+    "given": "Vasile"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/01f3c7f8-ef71-4c96-878c-4c7b445fcb79",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

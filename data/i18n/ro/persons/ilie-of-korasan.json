@@ -1,0 +1,21 @@
+{
+  "id": "ilie-of-korasan",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ilie, patriarhul Korasanului",
+    "full": "Sfântul Ierarh Ilie, patriarhul Korasanului",
+    "short": "Ilie, patriarhul Korasanului",
+    "given": "Ilie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e73be443-9dc6-4293-8e6a-a2d1c6e4a696",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

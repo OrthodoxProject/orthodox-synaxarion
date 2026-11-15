@@ -1,0 +1,32 @@
+{
+  "id": "procopie-of-herson-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:procopie-of-herson",
+    "person:nifon",
+    "person:ioan-83",
+    "person:ioan-84",
+    "person:dionisie-11",
+    "person:alexandru-60",
+    "person:augustin-of-kaluga"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 10
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/73222440-5967-483e-ad90-cfe56c641bfb",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

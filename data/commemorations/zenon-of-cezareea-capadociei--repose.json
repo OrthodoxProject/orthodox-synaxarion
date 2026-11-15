@@ -1,0 +1,26 @@
+{
+  "id": "zenon-of-cezareea-capadociei--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:zenon-of-cezareea-capadociei"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 10
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/167a00f2-f664-4d0a-a662-624b89a2cc98",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

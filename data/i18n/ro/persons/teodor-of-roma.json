@@ -1,0 +1,21 @@
+{
+  "id": "teodor-of-roma",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Teodor, episcopul Romei, mărturisitor al Ortodoxiei în fața ereziei momotelite",
+    "full": "Sfântul Sfințit Mucenic Teodor, episcopul Romei, mărturisitor al Ortodoxiei în fața ereziei momotelite",
+    "short": "Teodor, episcopul Romei, mărturisitor al Ortodoxiei în fața ereziei momotelite",
+    "given": "Teodor"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/fc6231d3-11eb-4456-bb7b-5fd51db92726",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

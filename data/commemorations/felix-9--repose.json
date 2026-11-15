@@ -1,0 +1,26 @@
+{
+  "id": "felix-9--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:felix-9"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 23
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8b7683eb-e056-4c69-888a-e7bc84ad8446",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

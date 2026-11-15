@@ -1,0 +1,26 @@
+{
+  "id": "nicolae-of-patara--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:nicolae-of-patara"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 6
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/26b2f119-cabb-4a33-ba7c-6f3ba575d9ad",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

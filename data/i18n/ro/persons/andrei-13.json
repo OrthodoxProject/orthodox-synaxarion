@@ -1,0 +1,20 @@
+{
+  "id": "andrei-13",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Andrei (Bâstrov)",
+    "short": "Andrei (Bâstrov)",
+    "given": "Andrei"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/826",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

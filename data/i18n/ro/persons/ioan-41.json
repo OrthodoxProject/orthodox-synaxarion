@@ -1,0 +1,20 @@
+{
+  "id": "ioan-41",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Ioan",
+    "short": "Ioan",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0ea6fd78-6a50-4661-be0e-332d25faa883",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "sulpiciu-of-bourges",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Sulpiciu, episcop de Bourges în Franța",
+    "full": "Sfântul Ierarh Sulpiciu, episcop de Bourges în Franța",
+    "short": "Sulpiciu, episcop de Bourges în Franța",
+    "given": "Sulpiciu"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0544b593-abaa-488d-8b02-85671405ab6b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

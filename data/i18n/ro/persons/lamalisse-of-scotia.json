@@ -1,0 +1,21 @@
+{
+  "id": "lamalisse-of-scotia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Lamalisse, pustnic, din Scoția",
+    "full": "Sfântul Cuvios Lamalisse, pustnic, din Scoția",
+    "short": "Lamalisse, pustnic, din Scoția",
+    "given": "Lamalisse"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/47fc1e4a-05df-4b43-98d1-c1fdf6cbca81",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

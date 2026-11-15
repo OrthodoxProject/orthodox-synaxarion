@@ -1,0 +1,22 @@
+{
+  "id": "noi-martyrs-of-jasenovac-in-serbia",
+  "kind": "martyrs",
+  "holiness_types": [
+    "new_martyr",
+    "martyr"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9c249caa-1b5b-4494-b1cd-708b824794d6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

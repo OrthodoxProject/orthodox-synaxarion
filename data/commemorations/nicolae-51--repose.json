@@ -1,0 +1,26 @@
+{
+  "id": "nicolae-51--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:nicolae-51"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 25
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2ce38291-6cb6-40e9-87d3-c2512d35ac3b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

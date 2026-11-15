@@ -1,0 +1,21 @@
+{
+  "id": "eustatie-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Eustatie, soldat din Ancira",
+    "full": "Sfântul Mucenic Eustatie, soldat din Ancira",
+    "short": "Eustatie, soldat din Ancira",
+    "given": "Eustatie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/662",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

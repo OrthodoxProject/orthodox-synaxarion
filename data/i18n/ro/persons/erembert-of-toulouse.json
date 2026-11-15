@@ -1,0 +1,21 @@
+{
+  "id": "erembert-of-toulouse",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Erembert, episcop de Toulouse în Franța",
+    "full": "Sfântul Ierarh Erembert, episcop de Toulouse în Franța",
+    "short": "Erembert, episcop de Toulouse în Franța",
+    "given": "Erembert"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7b67a208-d4d8-4571-a8b3-f49332c3df9c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

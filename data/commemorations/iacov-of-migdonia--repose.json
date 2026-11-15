@@ -1,0 +1,26 @@
+{
+  "id": "iacov-of-migdonia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:iacov-of-migdonia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 31
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5c775c8c-8328-4eeb-8299-382a5ad04525",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

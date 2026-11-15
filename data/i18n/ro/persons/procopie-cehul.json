@@ -1,0 +1,21 @@
+{
+  "id": "procopie-cehul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Procopie Cehul",
+    "full": "Sfântul Cuvios Procopie Cehul",
+    "short": "Procopie Cehul",
+    "given": "Procopie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8adf56eb-eef4-48c1-970c-4c63663ada47",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

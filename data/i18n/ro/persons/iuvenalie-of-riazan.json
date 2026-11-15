@@ -1,0 +1,25 @@
+{
+  "id": "iuvenalie-of-riazan",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Iuvenalie de Riazan",
+    "short": "Iuvenalie de Riazan",
+    "given": "Iuvenalie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4d94c7b6-e39c-4de8-9144-f226e2626bfb",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1208",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

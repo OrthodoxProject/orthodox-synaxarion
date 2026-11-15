@@ -1,0 +1,32 @@
+{
+  "id": "asterie-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:asterie",
+    "person:fortunat",
+    "person:zenon-2",
+    "person:zosima",
+    "person:menelapiu",
+    "person:dedal",
+    "person:valens"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 18
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c1bf7c0c-47fe-4c0b-888e-24a4664730cc",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

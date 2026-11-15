@@ -1,0 +1,26 @@
+{
+  "id": "noi-martyrs-of-rusia-patrichie-and-vasile",
+  "kind": "repose",
+  "subjects": [
+    "group:noi-martyrs-of-rusia-patrichie-and-vasile"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 11
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0c2044d1-7717-4f96-b0b6-cfc7fbf08411",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

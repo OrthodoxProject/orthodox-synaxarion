@@ -1,0 +1,20 @@
+{
+  "id": "manastirii-katrom",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mănăstirii Katrom",
+    "short": "Mănăstirii Katrom",
+    "given": "Mănăstirii"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/bcf737b3-5575-499e-9ddc-ecbdcb7bd132",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "atanasie-of-insula-hios",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Atanasie din insula Hios",
+    "full": "Sfântul Mucenic Atanasie din insula Hios",
+    "short": "Atanasie din insula Hios",
+    "given": "Atanasie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4c33c7e0-8262-4615-94c1-5b92ea48c1bf",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

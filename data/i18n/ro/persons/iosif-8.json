@@ -1,0 +1,20 @@
+{
+  "id": "iosif-8",
+  "locale": "ro",
+  "names": {
+    "display": "Dreptul Iosif, logodnicul",
+    "short": "Iosif, logodnicul",
+    "given": "Iosif"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/62#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

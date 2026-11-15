@@ -1,0 +1,28 @@
+{
+  "id": "chiriachi-4-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:chiriachi-4",
+    "person:domnina-4",
+    "person:domna-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 2
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/dd4059b1-0e4e-4679-8d79-dd596a6274e2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

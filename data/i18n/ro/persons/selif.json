@@ -1,0 +1,21 @@
+{
+  "id": "selif",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Selif, pustnic la Cornwall în Anglia",
+    "full": "Sfântul Cuvios Selif, pustnic la Cornwall în Anglia",
+    "short": "Selif, pustnic la Cornwall în Anglia",
+    "given": "Selif"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/10bd0a3a-02c6-4130-ae91-cf0590cfb48b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "fricor-of-irlanda",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Fricor din Irlanda",
+    "short": "Fricor din Irlanda",
+    "given": "Fricor"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/db87b37b-1950-49a5-8e79-07f2c17c3ceb",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

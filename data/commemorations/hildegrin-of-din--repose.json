@@ -1,0 +1,26 @@
+{
+  "id": "hildegrin-of-din--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:hildegrin-of-din"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 19
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/08f33ef4-209e-40ec-972f-28b0f18b2c24",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

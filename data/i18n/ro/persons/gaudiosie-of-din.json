@@ -1,0 +1,20 @@
+{
+  "id": "gaudiosie-of-din",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Gaudiosie, episcop din Africa",
+    "short": "Gaudiosie, episcop din Africa",
+    "given": "Gaudiosie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/31fc7d8a-2773-4697-8af3-146a9683a4dc",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

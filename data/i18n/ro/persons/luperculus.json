@@ -1,0 +1,21 @@
+{
+  "id": "luperculus",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Luperculus",
+    "full": "Sfântul Mucenic Luperculus",
+    "short": "Luperculus",
+    "given": "Luperculus"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/babdc446-9865-4203-b368-3097046be315",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

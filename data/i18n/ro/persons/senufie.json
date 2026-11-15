@@ -1,0 +1,21 @@
+{
+  "id": "senufie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Senufie, purtătorul de semne, nevoitor în Nitria Egiptului",
+    "full": "Sfântul Cuvios Senufie, purtătorul de semne, nevoitor în Nitria Egiptului",
+    "short": "Senufie, purtătorul de semne, nevoitor în Nitria Egiptului",
+    "given": "Senufie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/594ad9d1-2597-4ce9-a16c-32f85874e036",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

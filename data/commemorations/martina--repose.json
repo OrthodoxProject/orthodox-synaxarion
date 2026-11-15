@@ -1,0 +1,31 @@
+{
+  "id": "martina--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:martina"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 30
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1344",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c39de2a1-bda6-4f59-b4d0-7f50e23fe494",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

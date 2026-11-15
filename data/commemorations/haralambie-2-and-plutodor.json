@@ -1,0 +1,27 @@
+{
+  "id": "haralambie-2-and-plutodor",
+  "kind": "repose",
+  "subjects": [
+    "person:haralambie-2",
+    "person:plutodor"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 28
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8ba81b2a-200b-4f3f-8757-a86d06176d8f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

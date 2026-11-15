@@ -1,0 +1,27 @@
+{
+  "id": "alexie-30-and-petru-of-rusia-7",
+  "kind": "repose",
+  "subjects": [
+    "person:alexie-30",
+    "person:petru-of-rusia-7"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 24
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1b1ffa21-ee43-44d8-90ad-6ed89cd87ddd#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

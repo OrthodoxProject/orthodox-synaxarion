@@ -1,0 +1,18 @@
+{
+  "id": "serapion-9-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici Serapion, Cronid și Leontie; Seleuc, Valerian, Macrovie, Gordian și Straton (Stratonic) din Alexandria"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1184",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

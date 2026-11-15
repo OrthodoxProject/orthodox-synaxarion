@@ -1,0 +1,18 @@
+{
+  "id": "noilor-martyrs-of-creta",
+  "locale": "ro",
+  "names": {
+    "display": "Noilor Mucenici din Creta"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4e0d8bd0-7785-48e4-8635-4c9a029817d3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

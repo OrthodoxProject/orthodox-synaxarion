@@ -1,0 +1,21 @@
+{
+  "id": "gerebald-of-din",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Gerebald, episcop din Franța",
+    "full": "Sfântul Ierarh Gerebald, episcop din Franța",
+    "short": "Gerebald, episcop din Franța",
+    "given": "Gerebald"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8fb4b153-16c1-4eb6-9a0d-de12c4648a16#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "pior",
+  "locale": "ro",
+  "names": {
+    "display": "Cuviosul Pior, sihastrul din Nitria",
+    "short": "Pior, sihastrul din Nitria",
+    "given": "Pior"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1580",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

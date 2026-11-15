@@ -1,0 +1,20 @@
+{
+  "id": "teodor-26",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Teodor, făcător de minuni",
+    "short": "Teodor, făcător de minuni",
+    "given": "Teodor"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/813",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

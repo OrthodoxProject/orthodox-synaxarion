@@ -1,0 +1,27 @@
+{
+  "id": "vassa-of-palestina-and-fechie-of-irlanda",
+  "kind": "repose",
+  "subjects": [
+    "person:vassa-of-palestina",
+    "person:fechie-of-irlanda"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 20
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e28fb902-62bf-49e2-b8fc-c67f065dc8b4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

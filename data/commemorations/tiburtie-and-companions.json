@@ -1,0 +1,32 @@
+{
+  "id": "tiburtie-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:tiburtie",
+    "person:valerian-9",
+    "person:maxim-10",
+    "person:chiriac-2",
+    "person:diocletian",
+    "person:simfronie",
+    "person:dochim"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 14
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/35dc8c71-9305-40c5-9548-18b602b130ec",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

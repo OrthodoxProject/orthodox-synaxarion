@@ -1,0 +1,29 @@
+{
+  "id": "dimitrie-16-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:dimitrie-16",
+    "person:constantin-9",
+    "person:ioan-62",
+    "person:vsevolod-of-rusia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 6
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9e30f608-1596-4fa4-b50a-e441df9a44b2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

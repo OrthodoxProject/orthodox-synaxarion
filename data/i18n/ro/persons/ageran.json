@@ -1,0 +1,21 @@
+{
+  "id": "ageran",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Ageran, nevoitor la Mănăstirea Beze din Franța",
+    "full": "Sfântul Cuvios Mucenic Ageran, nevoitor la Mănăstirea Beze din Franța",
+    "short": "Ageran, nevoitor la Mănăstirea Beze din Franța",
+    "given": "Ageran"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3c400577-6b50-4601-80be-430222ca9039",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

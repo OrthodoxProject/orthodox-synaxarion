@@ -1,0 +1,27 @@
+{
+  "id": "mihail-23-and-nicolae-of-rusia-5",
+  "kind": "repose",
+  "subjects": [
+    "person:mihail-23",
+    "person:nicolae-of-rusia-5"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 5
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/27a07d01-9a4d-4c99-9e9f-27a02821421a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

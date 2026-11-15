@@ -1,0 +1,21 @@
+{
+  "id": "elbie-of-emly",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Elbie, episcop de Emly în Irlanda",
+    "full": "Sfântul Ierarh Elbie, episcop de Emly în Irlanda",
+    "short": "Elbie, episcop de Emly în Irlanda",
+    "given": "Elbie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f4cbe3c1-e78e-4b76-90a2-e61addd6a2f8",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "efisie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Efisie, apostolul Sardeniei în Italia",
+    "full": "Sfântul Mucenic Efisie, apostolul Sardeniei în Italia",
+    "short": "Efisie, apostolul Sardeniei în Italia",
+    "given": "Efisie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/849cd14f-c05b-490e-888e-1e6a15fe8f50",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

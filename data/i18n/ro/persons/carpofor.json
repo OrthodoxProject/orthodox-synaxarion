@@ -1,0 +1,20 @@
+{
+  "id": "carpofor",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Carpofor",
+    "short": "Carpofor",
+    "given": "Carpofor"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/de0d6ce0-cd52-4acd-8e64-470d30df27cb",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

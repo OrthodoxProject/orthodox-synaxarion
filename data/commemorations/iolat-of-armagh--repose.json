@@ -1,0 +1,26 @@
+{
+  "id": "iolat-of-armagh--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:iolat-of-armagh"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 1
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/eb18b96c-22a2-43db-86c9-a9adb8129b61",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

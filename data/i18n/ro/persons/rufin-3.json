@@ -1,0 +1,20 @@
+{
+  "id": "rufin-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Rufin",
+    "short": "Rufin",
+    "given": "Rufin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1d108731-3d51-4dc0-b960-c1c05c5b04e6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

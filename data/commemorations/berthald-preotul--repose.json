@@ -1,0 +1,26 @@
+{
+  "id": "berthald-preotul--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:berthald-preotul"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 16
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/945afe32-4c9f-46c4-bfcb-d10d05e47d9d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

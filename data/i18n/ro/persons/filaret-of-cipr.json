@@ -1,0 +1,21 @@
+{
+  "id": "filaret-of-cipr",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Filaret, episcopul Ciprului",
+    "full": "Sfântul Ierarh Filaret, episcopul Ciprului",
+    "short": "Filaret, episcopul Ciprului",
+    "given": "Filaret"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5333c899-db19-4684-bba2-050df0a7bf8f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

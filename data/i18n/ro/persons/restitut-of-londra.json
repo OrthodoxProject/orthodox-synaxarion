@@ -1,0 +1,20 @@
+{
+  "id": "restitut-of-londra",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Restitut, episcop de Londra",
+    "short": "Restitut, episcop de Londra",
+    "given": "Restitut"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/cfe48596-fb60-4bce-8cf9-2d67dc014c43#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "anastasie-of-dalmatia-italiei--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:anastasie-of-dalmatia-italiei"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 7
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a3f9fd77-da5d-41f2-ba33-8afa23391e37",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

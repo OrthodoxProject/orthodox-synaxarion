@@ -1,0 +1,21 @@
+{
+  "id": "eboriu-of-york",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Eboriu, episcop de York",
+    "full": "Sfântul Sfințit Mucenic Eboriu, episcop de York",
+    "short": "Eboriu, episcop de York",
+    "given": "Eboriu"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/cfe48596-fb60-4bce-8cf9-2d67dc014c43",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

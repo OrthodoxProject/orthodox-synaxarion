@@ -1,0 +1,18 @@
+{
+  "id": "3-martyrs-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sfintele 3 Mucenițe"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/bd96c805-a102-454c-8713-b975be8b9d00",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

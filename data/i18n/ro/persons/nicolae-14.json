@@ -1,0 +1,20 @@
+{
+  "id": "nicolae-14",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Nicolae (Goriunov)",
+    "short": "Nicolae (Goriunov)",
+    "given": "Nicolae"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6ea7c07c-c0e3-43e8-8b36-50b6f4aac946",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

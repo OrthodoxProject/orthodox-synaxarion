@@ -1,0 +1,49 @@
+{
+  "id": "iacov-9-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:iacov-9",
+    "person:alexandru-5",
+    "person:evgraf-2",
+    "person:mihail-anatolie",
+    "person:alexandru-69",
+    "person:evghenie-11",
+    "person:constantin-24",
+    "person:nicolae-81",
+    "person:evagrie-3",
+    "person:evsevie",
+    "person:mihail-53",
+    "person:dorotei-4",
+    "person:lavrentie-7",
+    "person:grigore",
+    "person:nicolae-82",
+    "person:nicolae-83",
+    "person:mihail-54",
+    "person:mucenitele-alexandra",
+    "person:tatiana-7"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 10
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/78719e7a-4e99-4f0f-97bf-1a8cb9350bc3",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/78719e7a-4e99-4f0f-97bf-1a8cb9350bc3#3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

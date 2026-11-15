@@ -1,0 +1,21 @@
+{
+  "id": "notker-cantaretul-of-elvetia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Notker cântărețul din Elveția",
+    "full": "Sfântul Notker cântărețul din Elveția",
+    "short": "Notker cântărețul din Elveția",
+    "given": "Notker"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d31acb49-596b-444d-84b6-6e54088bde0f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

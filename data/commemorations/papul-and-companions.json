@@ -1,0 +1,28 @@
+{
+  "id": "papul-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:papul",
+    "person:valentin-7",
+    "person:ilarie-of-viterbo-in-italia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 3
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a3d7d148-7ac3-4fd7-8a1e-2743eccf6109",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

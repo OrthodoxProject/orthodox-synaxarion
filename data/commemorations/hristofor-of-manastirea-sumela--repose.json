@@ -1,0 +1,26 @@
+{
+  "id": "hristofor-of-manastirea-sumela--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:hristofor-of-manastirea-sumela"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 18
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d39ee1ab-dc84-4f3e-9fe4-dda9e3020796",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

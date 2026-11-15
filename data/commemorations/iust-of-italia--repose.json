@@ -1,0 +1,26 @@
+{
+  "id": "iust-of-italia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:iust-of-italia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 10
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4f6ded29-4c2b-4b31-bcce-9543d072f641",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

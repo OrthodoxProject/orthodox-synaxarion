@@ -1,0 +1,27 @@
+{
+  "id": "ambrozie-3-and-vivian",
+  "kind": "repose",
+  "subjects": [
+    "person:ambrozie-3",
+    "person:vivian"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 28
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d69bbb8d-111a-4990-8ba4-b89c0b89fe75",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "adrian-3-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:adrian-3",
+    "person:stalbrand",
+    "person:geodianus",
+    "person:gaius-4"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 4
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5cdcd5c3-8b17-42e6-b68d-74b6bd39fc85",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

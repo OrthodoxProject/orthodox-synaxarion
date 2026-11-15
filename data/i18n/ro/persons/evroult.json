@@ -1,0 +1,21 @@
+{
+  "id": "evroult",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Evroult, stareț la Onche în Normandia",
+    "full": "Sfântul Cuvios Evroult, stareț la Onche în Normandia",
+    "short": "Evroult, stareț la Onche în Normandia",
+    "given": "Evroult"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/fcbe94cd-4c36-4366-967f-ae47decab46c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

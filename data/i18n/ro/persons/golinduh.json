@@ -1,0 +1,20 @@
+{
+  "id": "golinduh",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Golinduh",
+    "short": "Golinduh",
+    "given": "Golinduh"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e0049500-d83b-4718-a151-da5a45a8848c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

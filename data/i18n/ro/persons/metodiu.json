@@ -1,0 +1,20 @@
+{
+  "id": "metodiu",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Metodiu, luminătorul bulgarilor, sârbilor",
+    "short": "Metodiu, luminătorul bulgarilor, sârbilor",
+    "given": "Metodiu"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a664f8d3-9634-4f2f-86e3-0a5afbf776b7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

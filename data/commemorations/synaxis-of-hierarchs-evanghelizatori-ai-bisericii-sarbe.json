@@ -1,0 +1,26 @@
+{
+  "id": "synaxis-of-hierarchs-evanghelizatori-ai-bisericii-sarbe",
+  "kind": "synaxis",
+  "subjects": [
+    "group:hierarchs-evanghelizatori-ai-bisericii-sarbe"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 30
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/521c24bb-ac75-4d82-b70f-e55a03a8d1de",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

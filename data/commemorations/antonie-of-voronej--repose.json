@@ -1,0 +1,26 @@
+{
+  "id": "antonie-of-voronej--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:antonie-of-voronej"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 20
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/50be75ef-61ba-44de-9652-0537510f3288",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

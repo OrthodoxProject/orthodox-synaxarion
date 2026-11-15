@@ -1,0 +1,21 @@
+{
+  "id": "tola-of-in",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Tola, episcop în Irlanda",
+    "full": "Sfântul Ierarh Tola, episcop în Irlanda",
+    "short": "Tola, episcop în Irlanda",
+    "given": "Tola"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8f4118f8-4382-4677-8b6b-ded0e79111b3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

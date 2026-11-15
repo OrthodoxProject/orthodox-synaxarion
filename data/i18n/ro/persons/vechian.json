@@ -1,0 +1,20 @@
+{
+  "id": "vechian",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Vechian",
+    "short": "Vechian",
+    "given": "Vechian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3507e730-61c3-4a0a-99db-3df4e94e90a6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

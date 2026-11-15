@@ -1,0 +1,20 @@
+{
+  "id": "chiprian-of-rusia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Chiprian (Nelidov) din Rusia",
+    "short": "Chiprian (Nelidov) din Rusia",
+    "given": "Chiprian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1084",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "primilor-martyrs-of-america",
+  "locale": "ro",
+  "names": {
+    "display": "Primilor Mucenici din America: preotul Iuvenalie, binecredinciosul creștin Petru Aleutul, arhiepiscopii: Anatolie de Irkutsk și Serafim de Uglici și binecredinciosul creștin Alexandru din New York"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ad190f9e-8248-423a-a3d1-4dc458cf9403",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

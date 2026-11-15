@@ -1,0 +1,21 @@
+{
+  "id": "decorosie-marturisitorul-of-capua",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Decorosie Mărturisitorul, episcop de Capua în Italia",
+    "full": "Sfântul Ierarh Decorosie Mărturisitorul, episcop de Capua în Italia",
+    "short": "Decorosie Mărturisitorul, episcop de Capua în Italia",
+    "given": "Decorosie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/abeff998-6dc7-4e1a-98d2-abba238e6a7f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "icon-of-theotokos-imblanzirea-inimilor-impietrite-cu-sapte-sageti",
+  "kind": "icon",
+  "subjects": [
+    "icon:icon-of-theotokos-imblanzirea-inimilor-impietrite-cu-sapte-sageti"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 3
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ce507b42-79bc-4c93-80e9-91563c510490",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

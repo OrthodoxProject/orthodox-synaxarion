@@ -1,0 +1,18 @@
+{
+  "id": "6-martyrs-of-insula-melitina",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții 6 Mucenici din insula Melitina"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d01437b0-7875-4a39-ad80-934260b23f30",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

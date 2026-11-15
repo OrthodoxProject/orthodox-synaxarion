@@ -1,0 +1,21 @@
+{
+  "id": "rasso",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Rasso, întemeietorul Mănăstirii Worth din Bavaria în Germania",
+    "full": "Sfântul Cuvios Rasso, întemeietorul Mănăstirii Worth din Bavaria în Germania",
+    "short": "Rasso, întemeietorul Mănăstirii Worth din Bavaria în Germania",
+    "given": "Rasso"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d220c704-ff57-4668-b196-e4f78e8c1dfd",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

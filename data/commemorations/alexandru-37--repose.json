@@ -1,0 +1,26 @@
+{
+  "id": "alexandru-37--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:alexandru-37"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 29
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/445a1053-ac37-4500-835b-3eee9e875a2b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

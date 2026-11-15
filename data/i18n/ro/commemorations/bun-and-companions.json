@@ -1,0 +1,18 @@
+{
+  "id": "bun-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici Bun, Calomniosie, Chiril, Cartul, Faust, Ioan, Vasile, Mavru, Exuperie, Teodor și Onorat din Roma"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2cc1193f-5ea0-4d29-b867-a12817fd3179",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

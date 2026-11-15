@@ -1,0 +1,26 @@
+{
+  "id": "antonin-of-milano--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:antonin-of-milano"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 31
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a66630ca-6bf6-4b10-a27d-ccfe67c69854",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "anastasie-tribunul-of-italia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Anastasie tribunul din Italia",
+    "full": "Sfântul Anastasie tribunul din Italia",
+    "short": "Anastasie tribunul din Italia",
+    "given": "Anastasie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/72dcac83-400b-4147-989f-b608f8f74ee0#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

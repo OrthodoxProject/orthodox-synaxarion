@@ -1,0 +1,21 @@
+{
+  "id": "jarlath",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Jarlath, primul episcop de Tuam în Irlanda",
+    "full": "Sfântul Ierarh Jarlath, primul episcop de Tuam în Irlanda",
+    "short": "Jarlath, primul episcop de Tuam în Irlanda",
+    "given": "Jarlath"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4e4245b8-a56e-430d-8917-5351bb42fbd6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

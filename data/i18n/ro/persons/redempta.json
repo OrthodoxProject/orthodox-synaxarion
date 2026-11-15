@@ -1,0 +1,20 @@
+{
+  "id": "redempta",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Fecioară Redempta",
+    "short": "Redempta",
+    "given": "Redempta"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d1c5f131-e9ef-4d89-a99e-2d34efc9a6a1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "petru-of-ravenna--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:petru-of-ravenna"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 30
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4ae9e82a-ea5d-4cff-b177-68d7763c5c4a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

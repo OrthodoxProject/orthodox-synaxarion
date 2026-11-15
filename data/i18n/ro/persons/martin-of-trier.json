@@ -1,0 +1,21 @@
+{
+  "id": "martin-of-trier",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Martin, episcop de Trier în Germania",
+    "full": "Sfântul Ierarh Martin, episcop de Trier în Germania",
+    "short": "Martin, episcop de Trier în Germania",
+    "given": "Martin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3b0f9edc-11c6-4e7d-abdc-1bf9744d65d7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "tatwine-of-canterburry--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:tatwine-of-canterburry"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 30
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/354e8ce2-595f-4d41-9d5a-9ea4d9f35aaa",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

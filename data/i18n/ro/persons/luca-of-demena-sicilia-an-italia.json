@@ -1,0 +1,21 @@
+{
+  "id": "luca-of-demena-sicilia-an-italia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Luca din Demena-Sicilia ăn Italia",
+    "full": "Sfântul Luca din Demena-Sicilia ăn Italia",
+    "short": "Luca din Demena-Sicilia ăn Italia",
+    "given": "Luca"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/255a3edd-1c47-4eea-817b-c9adb339ab87",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

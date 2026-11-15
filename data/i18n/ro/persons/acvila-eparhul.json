@@ -1,0 +1,20 @@
+{
+  "id": "acvila-eparhul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Acvila eparhul",
+    "short": "Acvila eparhul",
+    "given": "Acvila"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/fc156b17-e117-4b26-8339-b9c55d81a441",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

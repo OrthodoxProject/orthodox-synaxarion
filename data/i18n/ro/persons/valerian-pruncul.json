@@ -1,0 +1,21 @@
+{
+  "id": "valerian-pruncul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Valerian pruncul",
+    "full": "Sfântul Mucenic Valerian pruncul",
+    "short": "Valerian pruncul",
+    "given": "Valerian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2d7cfefc-7731-4654-a9d0-c9df44ede619",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

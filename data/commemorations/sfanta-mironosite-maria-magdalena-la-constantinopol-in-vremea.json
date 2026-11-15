@@ -1,0 +1,26 @@
+{
+  "id": "sfanta-mironosite-maria-magdalena-la-constantinopol-in-vremea",
+  "kind": "repose",
+  "subjects": [
+    "group:sfanta-mironosite-maria-magdalena-la-constantinopol-in-vremea"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 4
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0f09a9fb-1525-4891-9afa-a8cb69666923#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

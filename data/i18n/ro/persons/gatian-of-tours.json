@@ -1,0 +1,21 @@
+{
+  "id": "gatian-of-tours",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Gațian, episcop de Tours în Galia",
+    "full": "Sfântul Ierarh Gațian, episcop de Tours în Galia",
+    "short": "Gațian, episcop de Tours în Galia",
+    "given": "Gațian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/138be54b-3c46-4471-b93f-d11e32e56e12",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

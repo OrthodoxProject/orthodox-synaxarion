@@ -1,0 +1,26 @@
+{
+  "id": "isaia-pustnicul--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:isaia-pustnicul"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 3
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/da015516-26e0-46df-905f-774889b5444f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "panaghie-of-peloponez",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Panaghie din Peloponez, Grecia",
+    "short": "Panaghie din Peloponez, Grecia",
+    "given": "Panaghie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/cc786956-d062-4165-9026-43b4f030f666",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

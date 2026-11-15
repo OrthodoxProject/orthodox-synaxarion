@@ -1,0 +1,26 @@
+{
+  "id": "teodorit--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:teodorit"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 3
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/48da51a0-68a0-45f0-9b5e-64f880655c01",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "leon-of-constantinopol",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Leon, patriarhul Constantinopolului",
+    "full": "Sfântul Ierarh Leon, patriarhul Constantinopolului",
+    "short": "Leon, patriarhul Constantinopolului",
+    "given": "Leon"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/986ccbb8-4ddf-4b7e-892a-410accbe5ba2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

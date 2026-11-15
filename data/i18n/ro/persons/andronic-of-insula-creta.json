@@ -1,0 +1,21 @@
+{
+  "id": "andronic-of-insula-creta",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Andronic din insula Creta, apărător al Sfintelor Icoane",
+    "full": "Sfântul Mucenic Andronic din insula Creta, apărător al Sfintelor Icoane",
+    "short": "Andronic din insula Creta, apărător al Sfintelor Icoane",
+    "given": "Andronic"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2435a46c-7e8d-439b-954c-bb0b8d703ec6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

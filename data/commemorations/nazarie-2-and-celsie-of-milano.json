@@ -1,0 +1,27 @@
+{
+  "id": "nazarie-2-and-celsie-of-milano",
+  "kind": "repose",
+  "subjects": [
+    "person:nazarie-2",
+    "person:celsie-of-milano"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 28
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3dcd49cb-bc2a-4298-ae20-e71beaff54c6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "5-martyrs-of-nicomidia",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții 5 Mucenici din Nicomidia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3b0259b1-bac2-4456-b8db-0e78022e8c8c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

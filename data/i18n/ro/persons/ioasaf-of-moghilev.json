@@ -1,0 +1,20 @@
+{
+  "id": "ioasaf-of-moghilev",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Ioasaf de Moghilev",
+    "short": "Ioasaf de Moghilev",
+    "given": "Ioasaf"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/fa7f5d0f-98dd-4146-9d04-7c8f760bb274",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

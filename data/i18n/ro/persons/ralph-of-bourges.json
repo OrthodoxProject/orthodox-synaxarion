@@ -1,0 +1,21 @@
+{
+  "id": "ralph-of-bourges",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ralph, episcop de Bourges în Franța",
+    "full": "Sfântul Ierarh Ralph, episcop de Bourges în Franța",
+    "short": "Ralph, episcop de Bourges în Franța",
+    "given": "Ralph"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d1ee472e-a007-4712-8ca9-127ba3c09ac2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

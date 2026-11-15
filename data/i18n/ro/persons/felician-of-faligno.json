@@ -1,0 +1,21 @@
+{
+  "id": "felician-of-faligno",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Felician, episcop de Faligno în Italia",
+    "full": "Sfântul Felician, episcop de Faligno în Italia",
+    "short": "Felician, episcop de Faligno în Italia",
+    "given": "Felician"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/075a9e5c-cfc3-4821-8474-d3060124a275",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

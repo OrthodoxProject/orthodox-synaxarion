@@ -1,0 +1,25 @@
+{
+  "id": "8-martyrs-of-cezareea-palestinei",
+  "kind": "martyrs",
+  "count": {
+    "value": 8,
+    "precision": "exact"
+  },
+  "holiness_types": [
+    "martyr"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/be5b4b7c-bc50-4faf-94b2-67550a1ed698",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "marin-of-din--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:marin-of-din"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 19
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b79e6d03-0415-4031-a8d6-a6f0f8981f63",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

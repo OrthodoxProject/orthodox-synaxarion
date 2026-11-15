@@ -1,0 +1,21 @@
+{
+  "id": "iraida-of-egipt",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Iraida din Egipt",
+    "full": "Sfânta Muceniță Iraida din Egipt",
+    "short": "Iraida din Egipt",
+    "given": "Iraida"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/021361fb-f9d2-455c-a8b0-ea16946eaf6d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

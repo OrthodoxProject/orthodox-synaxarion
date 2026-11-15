@@ -1,0 +1,20 @@
+{
+  "id": "vladimir-35",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Vladimir (Vinogradov)",
+    "short": "Vladimir (Vinogradov)",
+    "given": "Vladimir"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1026",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

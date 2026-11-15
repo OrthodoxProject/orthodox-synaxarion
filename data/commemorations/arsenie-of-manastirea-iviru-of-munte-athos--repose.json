@@ -1,0 +1,26 @@
+{
+  "id": "arsenie-of-manastirea-iviru-of-munte-athos--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:arsenie-of-manastirea-iviru-of-munte-athos"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 31
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0a482524-0d21-4076-b9f0-76cba371deab",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

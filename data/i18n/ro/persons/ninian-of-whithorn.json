@@ -1,0 +1,21 @@
+{
+  "id": "ninian-of-whithorn",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ninian, episcop de Whithorn în Marea Britanie",
+    "full": "Sfântul Ierarh Ninian, episcop de Whithorn în Marea Britanie",
+    "short": "Ninian, episcop de Whithorn în Marea Britanie",
+    "given": "Ninian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3dfa1982-02dd-4141-9cb7-3389fba7be3c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

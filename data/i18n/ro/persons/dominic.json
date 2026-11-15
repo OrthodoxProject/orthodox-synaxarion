@@ -1,0 +1,21 @@
+{
+  "id": "dominic",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Dominic, monah la Comacchio în Italia",
+    "full": "Sfântul Cuvios Dominic, monah la Comacchio în Italia",
+    "short": "Dominic, monah la Comacchio în Italia",
+    "given": "Dominic"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/cec8fccd-5669-4d71-ad4d-e73830ccc8e5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

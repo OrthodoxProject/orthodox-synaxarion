@@ -1,0 +1,27 @@
+{
+  "id": "manastirii-katrom-and-onufrie",
+  "kind": "repose",
+  "subjects": [
+    "person:manastirii-katrom",
+    "person:onufrie"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 12
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/bcf737b3-5575-499e-9ddc-ecbdcb7bd132",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

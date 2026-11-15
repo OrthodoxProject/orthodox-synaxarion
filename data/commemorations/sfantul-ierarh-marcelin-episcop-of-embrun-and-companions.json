@@ -1,0 +1,26 @@
+{
+  "id": "sfantul-ierarh-marcelin-episcop-of-embrun-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "group:sfantul-ierarh-marcelin-episcop-of-embrun-and-companions"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 20
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e1fddb79-2d36-44ce-8a57-7afafa144201",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

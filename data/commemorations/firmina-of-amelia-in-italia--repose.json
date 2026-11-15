@@ -1,0 +1,26 @@
+{
+  "id": "firmina-of-amelia-in-italia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:firmina-of-amelia-in-italia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 28
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7a197f08-edb0-47f1-a924-59462cf63db2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

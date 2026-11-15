@@ -1,0 +1,20 @@
+{
+  "id": "ives-of-in",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ives, făcătorul de minuni, episcop în Persia, iar mai târziu pustnic în Anglia",
+    "short": "Ives, făcătorul de minuni, episcop în Persia, iar mai târziu pustnic în Anglia",
+    "given": "Ives"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/35ecc1bc-7dbf-4ca8-834c-3e1b3df892df",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "222-noi-martyrs-chinezi",
+  "kind": "martyrs",
+  "count": {
+    "value": 222,
+    "precision": "exact"
+  },
+  "holiness_types": [
+    "new_martyr",
+    "martyr"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ddaba79f-a972-4ca5-914e-b386909da1de",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

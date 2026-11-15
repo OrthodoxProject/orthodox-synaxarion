@@ -1,0 +1,20 @@
+{
+  "id": "alexandru-36",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Alexandru (Țițeron)",
+    "short": "Alexandru (Țițeron)",
+    "given": "Alexandru"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/87153942-11b5-4972-b256-bc1f3558a917",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

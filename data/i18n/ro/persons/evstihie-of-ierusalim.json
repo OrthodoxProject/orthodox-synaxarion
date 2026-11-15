@@ -1,0 +1,20 @@
+{
+  "id": "evstihie-of-ierusalim",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Evstihie, patriarhul Ierusalimului",
+    "short": "Evstihie, patriarhul Ierusalimului",
+    "given": "Evstihie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b53aebb4-61f3-4212-b2a0-96742fb58a4d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

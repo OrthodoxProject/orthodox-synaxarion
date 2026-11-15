@@ -1,0 +1,27 @@
+{
+  "id": "arcadie-5-and-alexie-of-rusia-3",
+  "kind": "repose",
+  "subjects": [
+    "person:arcadie-5",
+    "person:alexie-of-rusia-3"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 1
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1117",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

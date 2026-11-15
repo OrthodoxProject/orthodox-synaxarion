@@ -1,0 +1,26 @@
+{
+  "id": "aidan-of-fernes--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:aidan-of-fernes"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 31
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c631613e-190d-4ae8-9628-a52180ec1686",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

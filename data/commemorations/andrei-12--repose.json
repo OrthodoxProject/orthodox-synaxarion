@@ -1,0 +1,26 @@
+{
+  "id": "andrei-12--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:andrei-12"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 23
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/77be61c2-2cb1-420a-9eac-facde3556fe4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "felix-of-spello",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Felix, episcop de Spello în Italia",
+    "full": "Sfântul Sfințit Mucenic Felix, episcop de Spello în Italia",
+    "short": "Felix, episcop de Spello în Italia",
+    "given": "Felix"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c654f29f-e9b7-4181-a4a4-b00940c42803",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

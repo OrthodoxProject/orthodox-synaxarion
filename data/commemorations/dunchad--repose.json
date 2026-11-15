@@ -1,0 +1,26 @@
+{
+  "id": "dunchad--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:dunchad"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 24
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1c10e36e-f61f-4a1e-9dd6-f0300e36ee47",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "irina-4",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Irina",
+    "short": "Irina",
+    "given": "Irina"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d15b286b-52bc-4e14-8d0b-e128eb3666c4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "echa",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Echa, pustnic lângă York în Anglia",
+    "full": "Sfântul Cuvios Echa, pustnic lângă York în Anglia",
+    "short": "Echa, pustnic lângă York în Anglia",
+    "given": "Echa"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5838b02d-8b5a-45d3-9bc6-95bcbfe842dd",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "partenie-6-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:partenie-6",
+    "person:constantin-17",
+    "person:dimitrie-24",
+    "person:nestor-4",
+    "person:teodor-31",
+    "person:constantin-18",
+    "person:victor-20",
+    "person:ilie-10",
+    "person:iosif-7",
+    "person:alexie-32"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 9
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1221",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

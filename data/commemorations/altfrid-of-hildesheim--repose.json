@@ -1,0 +1,26 @@
+{
+  "id": "altfrid-of-hildesheim--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:altfrid-of-hildesheim"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 15
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e83f22b9-882b-456b-9aab-f21c3b395cb7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

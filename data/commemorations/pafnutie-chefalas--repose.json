@@ -1,0 +1,26 @@
+{
+  "id": "pafnutie-chefalas--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:pafnutie-chefalas"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 25
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f30082dc-66d8-4e2b-adaf-79c7abd417e2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

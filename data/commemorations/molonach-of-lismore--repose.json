@@ -1,0 +1,26 @@
+{
+  "id": "molonach-of-lismore--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:molonach-of-lismore"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 25
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3bfdac18-bdde-4a4d-9dd2-d360a77927e3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

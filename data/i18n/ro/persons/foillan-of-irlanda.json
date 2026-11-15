@@ -1,0 +1,21 @@
+{
+  "id": "foillan-of-irlanda",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Foillan din Irlanda, misionar în Anglia și Franța",
+    "full": "Sfântul Cuvios Mucenic Foillan din Irlanda, misionar în Anglia și Franța",
+    "short": "Foillan din Irlanda, misionar în Anglia, Franța",
+    "given": "Foillan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f4f270d8-f861-47e2-94ea-698f380dfaab",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

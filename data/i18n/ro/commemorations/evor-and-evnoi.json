@@ -1,0 +1,18 @@
+{
+  "id": "evor-and-evnoi",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici Evor și Evnoi"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/08c6eb3b-d422-44a6-af30-80441923981c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

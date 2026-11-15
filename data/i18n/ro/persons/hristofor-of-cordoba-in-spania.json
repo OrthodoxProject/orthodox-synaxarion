@@ -1,0 +1,20 @@
+{
+  "id": "hristofor-of-cordoba-in-spania",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Hristofor din Cordoba în Spania",
+    "short": "Hristofor din Cordoba în Spania",
+    "given": "Hristofor"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3744383f-c8c3-4a59-bad7-2e68dc675bc5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

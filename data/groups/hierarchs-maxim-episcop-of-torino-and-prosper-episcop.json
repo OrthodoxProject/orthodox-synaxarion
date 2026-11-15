@@ -1,0 +1,21 @@
+{
+  "id": "hierarchs-maxim-episcop-of-torino-and-prosper-episcop",
+  "kind": "other",
+  "holiness_types": [
+    "hierarch"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c7fe1b25-4da1-481c-93c7-1ba0b2025f34",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

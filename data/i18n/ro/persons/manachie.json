@@ -1,0 +1,21 @@
+{
+  "id": "manachie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Manachie, stareț în Anglia",
+    "full": "Sfântul Cuvios Manachie, stareț în Anglia",
+    "short": "Manachie, stareț în Anglia",
+    "given": "Manachie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/88dee095-d6de-4878-81ed-a8dc8cee7062",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "gerard-of-toul--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:gerard-of-toul"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 23
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4fe0237f-b47c-4346-b48d-1aa99e7aa449",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "arsenia-of-rusia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințită Nouă Mc. Arsenia din Rusia",
+    "short": "Arsenia din Rusia",
+    "given": "Arsenia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d7e5ec0b-c251-47d9-ade4-fbaf4e5b295f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

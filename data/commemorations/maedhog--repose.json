@@ -1,0 +1,26 @@
+{
+  "id": "maedhog--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:maedhog"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 11
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a3434685-a908-4a5d-b2bc-6bb2fb88f703",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

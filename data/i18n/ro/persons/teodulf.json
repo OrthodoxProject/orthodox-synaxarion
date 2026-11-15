@@ -1,0 +1,21 @@
+{
+  "id": "teodulf",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Teodulf, stareț la Lobbes în Belgia",
+    "full": "Sfântul Cuvios Teodulf, stareț la Lobbes în Belgia",
+    "short": "Teodulf, stareț la Lobbes în Belgia",
+    "given": "Teodulf"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/58b50992-5ddd-4327-8c8e-39d373dd0812",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

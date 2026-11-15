@@ -1,0 +1,21 @@
+{
+  "id": "laverie-of-calabria-in-italia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Laverie din Calabria în Italia",
+    "full": "Sfântul Mucenic Laverie din Calabria în Italia",
+    "short": "Laverie din Calabria în Italia",
+    "given": "Laverie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5c2979d3-a70c-4b6a-aaea-7fa2eb2a8fb0",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

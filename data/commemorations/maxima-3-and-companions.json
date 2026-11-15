@@ -1,0 +1,28 @@
+{
+  "id": "maxima-3-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:maxima-3",
+    "person:donatilla",
+    "person:secunda-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 30
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8be00181-3b62-4d76-89b4-4839efc863c2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

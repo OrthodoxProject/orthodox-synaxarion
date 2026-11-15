@@ -1,0 +1,28 @@
+{
+  "id": "serghie-8-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:serghie-8",
+    "person:pir",
+    "person:teodor-11"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 14
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/316#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "nicolae-37",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Nicolae (Lebedev), preot mărturisitor din Rusia",
+    "full": "Sfântul Sfințit Nou Mucenic Nicolae (Lebedev), preot mărturisitor din Rusia",
+    "short": "Nicolae (Lebedev), preot mărturisitor din Rusia",
+    "given": "Nicolae"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e7b0ab5c-ed66-4d44-b88b-5e2445d2f729",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

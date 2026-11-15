@@ -1,0 +1,21 @@
+{
+  "id": "zenovie-of-florenta",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Zenovie, episcop de Florența în Italia și făcător de minuni",
+    "full": "Sfântul Ierarh Zenovie, episcop de Florența în Italia și făcător de minuni",
+    "short": "Zenovie, episcop de Florența în Italia, făcător de minuni",
+    "given": "Zenovie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1526",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

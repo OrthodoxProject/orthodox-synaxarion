@@ -1,0 +1,21 @@
+{
+  "id": "antonie-of-vologda",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Antonie, episcop de Vologda în Rusia",
+    "full": "Sfântul Ierarh Antonie, episcop de Vologda în Rusia",
+    "short": "Antonie, episcop de Vologda în Rusia",
+    "given": "Antonie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/bb92c3c0-0e0d-4e1d-8107-23faf9a13b59",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

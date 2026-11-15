@@ -1,0 +1,21 @@
+{
+  "id": "pompie-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Pompie",
+    "full": "Sfântul Mucenic Pompie",
+    "short": "Pompie",
+    "given": "Pompie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/478c6d95-1818-4a7d-87ff-da125ac87d20",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

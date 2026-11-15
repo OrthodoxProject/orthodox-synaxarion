@@ -1,0 +1,21 @@
+{
+  "id": "tica-of-bitinia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Tica din Bitinia",
+    "full": "Sfântul Mucenic Tica din Bitinia",
+    "short": "Tica din Bitinia",
+    "given": "Tica"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/793887be-9449-4d28-91b9-3c0e2271ae32",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

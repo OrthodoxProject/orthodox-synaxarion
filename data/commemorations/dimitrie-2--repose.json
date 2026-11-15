@@ -1,0 +1,26 @@
+{
+  "id": "dimitrie-2--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:dimitrie-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 27
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/73e27e46-a836-4dad-8a44-3aa08a10f309",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

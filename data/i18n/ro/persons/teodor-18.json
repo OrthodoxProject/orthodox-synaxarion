@@ -1,0 +1,20 @@
+{
+  "id": "teodor-18",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Teodor (Nikitin)",
+    "short": "Teodor (Nikitin)",
+    "given": "Teodor"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1a263d5d-f426-4d79-9e13-8e81ff01774f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

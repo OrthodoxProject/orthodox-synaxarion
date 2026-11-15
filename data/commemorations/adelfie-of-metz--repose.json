@@ -1,0 +1,26 @@
+{
+  "id": "adelfie-of-metz--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:adelfie-of-metz"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 29
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2a92760d-b908-4aa3-ab46-6ca75377ad01",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

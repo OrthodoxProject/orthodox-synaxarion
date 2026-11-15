@@ -1,0 +1,21 @@
+{
+  "id": "dionisie-of-vienne",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Dionisie, episcop de Vienne în Franța",
+    "full": "Sfântul Ierarh Dionisie, episcop de Vienne în Franța",
+    "short": "Dionisie, episcop de Vienne în Franța",
+    "given": "Dionisie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9669fb40-d4c9-4965-b287-b57847918e71",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "paternus-of-avranches",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Paternus, episcop de Avranches în Franța",
+    "full": "Sfântul Ierarh Paternus, episcop de Avranches în Franța",
+    "short": "Paternus, episcop de Avranches în Franța",
+    "given": "Paternus"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7216061f-14c2-48d4-85ac-d9e63ba1d5f9",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

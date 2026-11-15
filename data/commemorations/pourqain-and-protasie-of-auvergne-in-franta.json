@@ -1,0 +1,27 @@
+{
+  "id": "pourqain-and-protasie-of-auvergne-in-franta",
+  "kind": "repose",
+  "subjects": [
+    "person:pourqain",
+    "person:protasie-of-auvergne-in-franta"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 25
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/79708595-8df6-4e8a-8375-576b62e693c0",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

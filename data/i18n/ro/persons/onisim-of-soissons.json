@@ -1,0 +1,20 @@
+{
+  "id": "onisim-of-soissons",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Onisim, episcop de Soissons în Franța",
+    "short": "Onisim, episcop de Soissons în Franța",
+    "given": "Onisim"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/610ccddd-8178-492a-a1c4-cca3b66eb909",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

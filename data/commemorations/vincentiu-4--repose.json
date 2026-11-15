@@ -1,0 +1,26 @@
+{
+  "id": "vincentiu-4--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:vincentiu-4"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 24
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/bc8a38db-7ad6-4bba-980c-b7abf1402669",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

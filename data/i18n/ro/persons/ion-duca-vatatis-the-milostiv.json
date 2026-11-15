@@ -1,0 +1,21 @@
+{
+  "id": "ion-duca-vatatis-the-milostiv",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. binecredincios împărat Ion Duca Vatațis cel Milostiv",
+    "full": "Sfântul binecredincios împărat Ion Duca Vatațis cel Milostiv",
+    "short": "Ion Duca Vatațis cel Milostiv",
+    "given": "Ion"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9849138d-a0c9-410a-b355-14203073a2b1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

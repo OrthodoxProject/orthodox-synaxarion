@@ -1,0 +1,26 @@
+{
+  "id": "simplicie-of-bourges--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:simplicie-of-bourges"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 16
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0b2d0dca-4555-47a2-b010-a9b174364e22",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

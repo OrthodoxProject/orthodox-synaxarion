@@ -1,0 +1,20 @@
+{
+  "id": "aghilbert-of-paris",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Aghilbert, episcopul Parisului",
+    "short": "Aghilbert, episcopul Parisului",
+    "given": "Aghilbert"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/45a00f7d-b55b-469d-8e17-a0bf4288672c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

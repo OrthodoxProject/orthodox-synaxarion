@@ -1,0 +1,20 @@
+{
+  "id": "damian-of-siria",
+  "locale": "ro",
+  "names": {
+    "display": "Preacuviosul Damian din Siria",
+    "short": "Damian din Siria",
+    "given": "Damian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3db624b9-d7ea-4595-b71b-f12e52c9b4e4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

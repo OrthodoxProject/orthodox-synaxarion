@@ -1,0 +1,21 @@
+{
+  "id": "macaille-of-croghan",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Macaille, episcop de Croghan în Irlanda",
+    "full": "Sfântul Ierarh Macaille, episcop de Croghan în Irlanda",
+    "short": "Macaille, episcop de Croghan în Irlanda",
+    "given": "Macaille"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9f65ddcd-3e67-4ac1-a459-f84f80f9ce83",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

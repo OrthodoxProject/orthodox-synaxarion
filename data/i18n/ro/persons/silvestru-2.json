@@ -1,0 +1,21 @@
+{
+  "id": "silvestru-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Silvestru, însoțitorul Sfântului Paladie în lucrarea de încreștinare a Irlandei",
+    "full": "Sfântul Silvestru, însoțitorul Sfântului Paladie în lucrarea de încreștinare a Irlandei",
+    "short": "Silvestru, însoțitorul Sfântului Paladie în lucrarea de încreștinare a Irlandei",
+    "given": "Silvestru"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/465ffadf-4355-4f56-8acd-44f322c7a944",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

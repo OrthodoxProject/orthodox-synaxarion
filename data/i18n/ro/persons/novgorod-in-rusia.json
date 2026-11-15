@@ -1,0 +1,20 @@
+{
+  "id": "novgorod-in-rusia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Novgorod în Rusia",
+    "short": "Novgorod în Rusia",
+    "given": "Novgorod"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/550",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

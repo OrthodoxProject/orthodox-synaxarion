@@ -1,0 +1,21 @@
+{
+  "id": "apion",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Apion",
+    "full": "Sfântul Mucenic Apion",
+    "short": "Apion",
+    "given": "Apion"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/759d7233-b48c-41f2-9841-1ef7cd32ce3b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

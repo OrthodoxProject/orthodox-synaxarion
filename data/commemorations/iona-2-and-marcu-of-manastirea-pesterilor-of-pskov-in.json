@@ -1,0 +1,27 @@
+{
+  "id": "iona-2-and-marcu-of-manastirea-pesterilor-of-pskov-in",
+  "kind": "repose",
+  "subjects": [
+    "person:iona-2",
+    "person:marcu-of-manastirea-pesterilor-of-pskov-in"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 29
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6052bad2-441f-4f60-bda8-87d15235e810#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

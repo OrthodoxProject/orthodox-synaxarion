@@ -1,0 +1,26 @@
+{
+  "id": "roman-of-bordeaux-and-roman-preot-of-mans",
+  "kind": "repose",
+  "subjects": [
+    "group:roman-of-bordeaux-and-roman-preot-of-mans"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 25
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/983e7108-6108-4ac5-a83e-ebf481efff18",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

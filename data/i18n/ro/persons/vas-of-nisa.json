@@ -1,0 +1,21 @@
+{
+  "id": "vas-of-nisa",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Vas, episcop de Nisa în Franța",
+    "full": "Sfântul Mucenic Vas, episcop de Nisa în Franța",
+    "short": "Vas, episcop de Nisa în Franța",
+    "given": "Vas"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/43402fd0-f502-40d0-8e4f-dfc66ec1ac5f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "rusia-serafim-of-smolensk-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:rusia-serafim-of-smolensk",
+    "person:iaroslav",
+    "person:ioan-97",
+    "person:alexandru-67",
+    "person:grigorie-20",
+    "person:simeon-20",
+    "person:cosma-6",
+    "person:vasile-56",
+    "person:ioan-98",
+    "person:ian",
+    "person:ilarion-9",
+    "person:victor-25",
+    "person:pavel-44",
+    "person:andrei-16",
+    "person:varlaam-4",
+    "person:nicolae-73",
+    "person:magdalena"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 25
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5994ec6b-4862-4c5a-8f9c-ac9fe71b79c8",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

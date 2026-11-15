@@ -1,0 +1,26 @@
+{
+  "id": "andrei-of-simbirsk--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:andrei-of-simbirsk"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 27
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4ecbe741-ccfb-4a11-8258-1b9ec35e0888",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

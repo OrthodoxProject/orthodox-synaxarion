@@ -1,0 +1,26 @@
+{
+  "id": "sfanta-cuvioase-clotsendis-stareta-manastirii-marchiennes-of-franta",
+  "kind": "repose",
+  "subjects": [
+    "group:sfanta-cuvioase-clotsendis-stareta-manastirii-marchiennes-of-franta"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 30
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3f5a3ea6-b45f-41e2-bf79-de7414b88ffb",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

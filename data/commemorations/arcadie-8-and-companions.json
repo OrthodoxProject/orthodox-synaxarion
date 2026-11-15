@@ -1,0 +1,32 @@
+{
+  "id": "arcadie-8-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:arcadie-8",
+    "person:alexandru-75",
+    "person:teoctist-5",
+    "person:leonid-10",
+    "person:nicolae-90",
+    "person:areta-2",
+    "person:alexandru-of-rusia-9"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 28
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/78ef002d-4be5-4c73-98d2-e839c3c743f0",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

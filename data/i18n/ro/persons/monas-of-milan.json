@@ -1,0 +1,20 @@
+{
+  "id": "monas-of-milan",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Monas, episcopul Milanului",
+    "short": "Monas, episcopul Milanului",
+    "given": "Monas"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/dc8a474c-b50c-469a-9e47-3047f5ff6a5c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

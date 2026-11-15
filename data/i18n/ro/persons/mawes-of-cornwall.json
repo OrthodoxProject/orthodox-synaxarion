@@ -1,0 +1,21 @@
+{
+  "id": "mawes-of-cornwall",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Mawes, episcop de Cornwall în Marea Britanie",
+    "full": "Sfântul Ierarh Mawes, episcop de Cornwall în Marea Britanie",
+    "short": "Mawes, episcop de Cornwall în Marea Britanie",
+    "given": "Mawes"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b3efb0fc-2cf6-41e1-b488-ce07bf26ddf1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

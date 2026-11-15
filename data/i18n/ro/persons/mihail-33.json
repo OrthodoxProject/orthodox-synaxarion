@@ -1,0 +1,20 @@
+{
+  "id": "mihail-33",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Mihail (Voskresenskii), împreună cu el 28 de Mucenici",
+    "short": "Mihail (Voskresenskii), împreună cu el 28 de Mucenici",
+    "given": "Mihail"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/87153942-11b5-4972-b256-bc1f3558a917",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ilie-of-tebaida-egiptului--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:ilie-of-tebaida-egiptului"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 12
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/de03e396-164f-41b2-860e-614d235c294d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

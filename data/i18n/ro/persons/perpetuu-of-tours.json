@@ -1,0 +1,21 @@
+{
+  "id": "perpetuu-of-tours",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Perpetuu, episcop de Tours în Franța",
+    "full": "Sfântul Ierarh Perpetuu, episcop de Tours în Franța",
+    "short": "Perpetuu, episcop de Tours în Franța",
+    "given": "Perpetuu"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5c226cd8-64a1-43c2-a681-cc03ff56fb40",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

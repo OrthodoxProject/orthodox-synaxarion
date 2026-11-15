@@ -1,0 +1,21 @@
+{
+  "id": "ioan-of-verona",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ioan, episcop de Verona în Italia",
+    "full": "Sfântul Ierarh Ioan, episcop de Verona în Italia",
+    "short": "Ioan, episcop de Verona în Italia",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1b95633c-1bcc-46d9-bca1-802249740085",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

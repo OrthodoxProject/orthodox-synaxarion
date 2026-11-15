@@ -1,0 +1,21 @@
+{
+  "id": "atanasie-of-meton",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Atanasie, episcop de Meton în Peloponez",
+    "full": "Sfântul Ierarh Atanasie, episcop de Meton în Peloponez",
+    "short": "Atanasie, episcop de Meton în Peloponez",
+    "given": "Atanasie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/793b1d3a-1aa7-4738-8db4-f824f39f6c8d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

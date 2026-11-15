@@ -1,0 +1,26 @@
+{
+  "id": "paladie-of-in--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:paladie-of-in"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 7
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0e2ace56-41ff-4e77-bc54-ebb60f9dc257",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

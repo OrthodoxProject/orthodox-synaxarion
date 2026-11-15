@@ -1,0 +1,26 @@
+{
+  "id": "lupicinus--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:lupicinus"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 21
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1f41e973-6e95-46e4-bdbd-78e599669e9d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

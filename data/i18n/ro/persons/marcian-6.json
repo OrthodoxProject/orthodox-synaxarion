@@ -1,0 +1,20 @@
+{
+  "id": "marcian-6",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Marcian",
+    "short": "Marcian",
+    "given": "Marcian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8904d434-590f-494b-b4cd-88b089a560c4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

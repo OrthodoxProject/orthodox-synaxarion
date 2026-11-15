@@ -1,0 +1,18 @@
+{
+  "id": "faustia-and-liberata",
+  "locale": "ro",
+  "names": {
+    "display": "Sfintele Cuvioase Faustia și Liberata, sora sa"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/33f991e4-3953-4333-b5fe-470ec72f9adb",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

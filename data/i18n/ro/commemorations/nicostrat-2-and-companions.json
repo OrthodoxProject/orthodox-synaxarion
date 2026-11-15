@@ -1,0 +1,18 @@
+{
+  "id": "nicostrat-2-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici Sebastian, ofițer din garda împărătească, Zoe, soția sa și Nicostrat, Marcelin și Marcu, diaconi și frați buni, Tranchilin, Claudie, Tiburtie, Agrestie, Castor, Castul și Simforian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1045",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

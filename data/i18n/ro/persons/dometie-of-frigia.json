@@ -1,0 +1,21 @@
+{
+  "id": "dometie-of-frigia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Dometie din Frigia",
+    "full": "Sfântul Mucenic Dometie din Frigia",
+    "short": "Dometie din Frigia",
+    "given": "Dometie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/db3c87a2-41cc-461a-988a-dcc456e74003",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

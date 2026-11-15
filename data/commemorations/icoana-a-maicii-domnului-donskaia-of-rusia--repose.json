@@ -1,0 +1,26 @@
+{
+  "id": "icoana-a-maicii-domnului-donskaia-of-rusia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:icoana-a-maicii-domnului-donskaia-of-rusia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 19
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d8f461d5-c069-4c1c-981c-0e912c1abfe9",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

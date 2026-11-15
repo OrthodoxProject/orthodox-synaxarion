@@ -1,0 +1,21 @@
+{
+  "id": "veran-of-din",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Veran, episcop din Franța",
+    "full": "Sfântul Ierarh Veran, episcop din Franța",
+    "short": "Veran, episcop din Franța",
+    "given": "Veran"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/83041d92-fc09-4c46-bbea-8213867f2ea3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

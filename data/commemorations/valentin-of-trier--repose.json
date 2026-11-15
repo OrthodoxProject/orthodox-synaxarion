@@ -1,0 +1,26 @@
+{
+  "id": "valentin-of-trier--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:valentin-of-trier"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 16
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/926a7157-6d68-4b75-89c8-610e0a2193da",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

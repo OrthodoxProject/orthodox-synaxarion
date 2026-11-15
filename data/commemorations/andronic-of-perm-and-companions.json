@@ -1,0 +1,46 @@
+{
+  "id": "andronic-of-perm-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:andronic-of-perm",
+    "person:alexandru-20",
+    "person:vladimir-14",
+    "person:alexie-11",
+    "person:ignatie-2",
+    "person:nicolae-23",
+    "person:mihail-24",
+    "person:veniamin-4",
+    "person:nicolae-24",
+    "person:pavel-22",
+    "person:alexandru-21",
+    "person:victor-10",
+    "person:alexandru-22",
+    "person:pavel-11",
+    "person:valentin-3",
+    "person:alexandru-23",
+    "person:nicolae-25",
+    "person:petru-18",
+    "person:grigorie-8",
+    "person:atanasie-3",
+    "person:alexandru-of-rusia-4"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 7
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1092",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

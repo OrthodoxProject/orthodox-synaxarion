@@ -1,0 +1,21 @@
+{
+  "id": "timotei-6",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Timotei, pustnic din Egipt",
+    "full": "Sfântul Cuvios Timotei, pustnic din Egipt",
+    "short": "Timotei, pustnic din Egipt",
+    "given": "Timotei"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e84d85ad-08da-4195-8ac5-3ed756fb53b6#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

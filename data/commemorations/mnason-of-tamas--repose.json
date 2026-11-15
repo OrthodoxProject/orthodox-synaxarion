@@ -1,0 +1,26 @@
+{
+  "id": "mnason-of-tamas--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:mnason-of-tamas"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 18
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d913b8e3-19bc-4263-8318-64328f5eab48",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

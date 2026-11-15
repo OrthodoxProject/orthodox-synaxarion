@@ -1,0 +1,21 @@
+{
+  "id": "leonard-of-noblac-of-galia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Leonard de Noblac din Galia, ocrotitorul celor din închisori",
+    "full": "Sfântul Leonard de Noblac din Galia, ocrotitorul celor din închisori",
+    "short": "Leonard de Noblac din Galia, ocrotitorul celor din închisori",
+    "given": "Leonard"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d323745f-844f-4859-be1c-fa4738012741",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

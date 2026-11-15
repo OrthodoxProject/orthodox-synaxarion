@@ -1,0 +1,21 @@
+{
+  "id": "chiril-of-tesalonic",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Chiril din Tesalonic, monah la Mănăstirea Hilandar din Sfântul Munte Athos",
+    "full": "Sfântul Cuvios Mucenic Chiril din Tesalonic, monah la Mănăstirea Hilandar din Sfântul Munte Athos",
+    "short": "Chiril din Tesalonic, monah la Mănăstirea Hilandar din Sfântul Munte Athos",
+    "given": "Chiril"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8b80f7a3-09a1-427e-a4dd-4673b65d1d24",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

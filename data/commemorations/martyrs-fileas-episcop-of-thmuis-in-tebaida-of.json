@@ -1,0 +1,26 @@
+{
+  "id": "martyrs-fileas-episcop-of-thmuis-in-tebaida-of",
+  "kind": "repose",
+  "subjects": [
+    "group:martyrs-fileas-episcop-of-thmuis-in-tebaida-of"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 4
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a257b1cd-72d8-4a14-becd-3cfa1f5ae6c0",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

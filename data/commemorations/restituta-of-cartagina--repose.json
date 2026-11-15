@@ -1,0 +1,26 @@
+{
+  "id": "restituta-of-cartagina--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:restituta-of-cartagina"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 17
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8cc35380-d33c-432a-b8ea-219e33f7675c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

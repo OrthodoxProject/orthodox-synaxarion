@@ -1,0 +1,21 @@
+{
+  "id": "finnian",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Finnian, întemeietorul Mănăstirii Clonard din Irlanda",
+    "full": "Sfântul Cuvios Finnian, întemeietorul Mănăstirii Clonard din Irlanda",
+    "short": "Finnian, întemeietorul Mănăstirii Clonard din Irlanda",
+    "given": "Finnian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/59d9e97d-638a-4563-a798-f9e1a4c920b8",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

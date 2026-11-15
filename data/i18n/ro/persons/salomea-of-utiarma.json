@@ -1,0 +1,20 @@
+{
+  "id": "salomea-of-utiarma",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Salomea din Utiarma",
+    "short": "Salomea din Utiarma",
+    "given": "Salomea"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5a9c14ee-bf2e-4c59-b726-b14a06ae0a6c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

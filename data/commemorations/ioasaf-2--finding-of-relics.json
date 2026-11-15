@@ -1,0 +1,26 @@
+{
+  "id": "ioasaf-2--finding-of-relics",
+  "kind": "relics_finding",
+  "subjects": [
+    "person:ioasaf-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 3
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f28b52e1-fea7-4b2f-a5f9-620aa9b40be2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

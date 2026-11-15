@@ -1,0 +1,21 @@
+{
+  "id": "andrei-the-nebun-pentru-hristos",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Andrei cel nebun pentru Hristos, nevoitor din Constantinopol",
+    "full": "Sfântul Cuvios Andrei cel nebun pentru Hristos, nevoitor din Constantinopol",
+    "short": "Andrei cel nebun pentru Hristos, nevoitor din Constantinopol",
+    "given": "Andrei"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ca6eab3b-7f05-432c-b5d5-939477c6825a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

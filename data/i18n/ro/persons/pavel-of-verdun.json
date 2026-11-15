@@ -1,0 +1,21 @@
+{
+  "id": "pavel-of-verdun",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Pavel, episcop de Verdun în Franța",
+    "full": "Sfântul Ierarh Pavel, episcop de Verdun în Franța",
+    "short": "Pavel, episcop de Verdun în Franța",
+    "given": "Pavel"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/eca34f0d-e063-4584-817d-c09222594d97",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

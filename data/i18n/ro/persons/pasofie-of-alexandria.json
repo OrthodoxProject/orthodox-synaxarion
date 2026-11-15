@@ -1,0 +1,21 @@
+{
+  "id": "pasofie-of-alexandria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Pasofie din Alexandria",
+    "full": "Sfântul Mucenic Pasofie din Alexandria",
+    "short": "Pasofie din Alexandria",
+    "given": "Pasofie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/306bef04-42dc-4cf5-94e4-0160786fd104",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

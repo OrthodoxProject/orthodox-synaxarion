@@ -1,0 +1,26 @@
+{
+  "id": "marnock-of-irlanda--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:marnock-of-irlanda"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 1
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/01545dd3-e162-4fdf-8771-0f63e0b42529",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

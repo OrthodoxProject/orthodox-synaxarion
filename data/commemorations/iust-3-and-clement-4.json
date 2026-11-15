@@ -1,0 +1,27 @@
+{
+  "id": "iust-3-and-clement-4",
+  "kind": "repose",
+  "subjects": [
+    "person:iust-3",
+    "person:clement-4"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 5
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/776de9d6-bc11-42b1-bdf0-95cb40bde644",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "otgar--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:otgar"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 8
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/fe975b3c-61ed-450b-9dc3-fdf020f11037",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

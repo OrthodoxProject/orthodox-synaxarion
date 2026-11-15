@@ -1,0 +1,26 @@
+{
+  "id": "sfantul-sfintit-new-mucenic-of-rusia-ioan",
+  "kind": "repose",
+  "subjects": [
+    "group:sfantul-sfintit-new-mucenic-of-rusia-ioan"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 31
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b47214b1-84b9-4bf6-bdf1-43f6380b3298",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

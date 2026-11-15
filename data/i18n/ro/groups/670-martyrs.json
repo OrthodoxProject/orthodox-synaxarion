@@ -1,0 +1,18 @@
+{
+  "id": "670-martyrs",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții 670 de Mucenici"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ca622fd0-cfbb-4d7a-bcdf-55c22c502a62",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

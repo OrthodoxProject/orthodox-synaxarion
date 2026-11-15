@@ -1,0 +1,21 @@
+{
+  "id": "gerold",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Gerold, pustnic lângă Mitternach în Germania",
+    "full": "Sfântul Cuvios Gerold, pustnic lângă Mitternach în Germania",
+    "short": "Gerold, pustnic lângă Mitternach în Germania",
+    "given": "Gerold"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/899d779f-86be-4c9d-a2aa-f24a9418303b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

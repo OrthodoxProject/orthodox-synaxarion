@@ -1,0 +1,21 @@
+{
+  "id": "senator-of-verona",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Senator, episcop de Verona în Italia",
+    "full": "Sfântul Ierarh Senator, episcop de Verona în Italia",
+    "short": "Senator, episcop de Verona în Italia",
+    "given": "Senator"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/528911d5-0399-41ec-a624-09c5dd68f780",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ghenadie-of-doveltos",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ghenadie, episcop de Doveltos",
+    "full": "Sfântul Cuvios Ghenadie, episcop de Doveltos",
+    "short": "Ghenadie, episcop de Doveltos",
+    "given": "Ghenadie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9c8f4d43-24f3-47a7-92a2-c5fd2e1215f0",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

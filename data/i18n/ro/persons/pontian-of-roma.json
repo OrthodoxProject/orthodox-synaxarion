@@ -1,0 +1,21 @@
+{
+  "id": "pontian-of-roma",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ponțian, episcopul Romei, mărturisitor în timpul împăratului Maximian",
+    "full": "Sfântul Ierarh Ponțian, episcopul Romei, mărturisitor în timpul împăratului Maximian",
+    "short": "Ponțian, episcopul Romei, mărturisitor în timpul împăratului Maximian",
+    "given": "Ponțian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0b3519bd-0f1a-4f23-841d-ae58e54a5c32",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

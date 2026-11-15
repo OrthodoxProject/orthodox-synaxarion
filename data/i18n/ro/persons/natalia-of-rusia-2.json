@@ -1,0 +1,20 @@
+{
+  "id": "natalia-of-rusia-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Nouă Mc. Natalia (Kozlova) din Rusia",
+    "short": "Natalia (Kozlova) din Rusia",
+    "given": "Natalia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/762",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

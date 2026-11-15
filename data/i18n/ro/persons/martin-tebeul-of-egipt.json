@@ -1,0 +1,21 @@
+{
+  "id": "martin-tebeul-of-egipt",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Martin Tebeul din Egipt",
+    "full": "Sfântul Cuvios Martin Tebeul din Egipt",
+    "short": "Martin Tebeul din Egipt",
+    "given": "Martin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ea918df4-95ad-4a95-8142-c5ac7fcba40b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

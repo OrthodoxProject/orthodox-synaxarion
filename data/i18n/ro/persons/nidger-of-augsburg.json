@@ -1,0 +1,21 @@
+{
+  "id": "nidger-of-augsburg",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Nidger, episcop de Augsburg în Germania",
+    "full": "Sfântul Ierarh Nidger, episcop de Augsburg în Germania",
+    "short": "Nidger, episcop de Augsburg în Germania",
+    "given": "Nidger"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f62913fd-80dc-4dec-9638-d2df1e091d5a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

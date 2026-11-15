@@ -1,0 +1,27 @@
+{
+  "id": "andrei-8-and-heraclemon-2",
+  "kind": "repose",
+  "subjects": [
+    "person:andrei-8",
+    "person:heraclemon-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 12
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7347a8d4-2ffa-446f-bb35-3a5f75a1baae",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

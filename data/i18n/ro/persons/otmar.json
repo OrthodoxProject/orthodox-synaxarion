@@ -1,0 +1,21 @@
+{
+  "id": "otmar",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Otmar, egumen și întemeietor al monahismului din Elveția",
+    "full": "Sfântul Cuvios Otmar, egumen și întemeietor al monahismului din Elveția",
+    "short": "Otmar, egumen, întemeietor al monahismului din Elveția",
+    "given": "Otmar"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4b216cf5-5496-48bf-aa54-aa00a7578bea",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

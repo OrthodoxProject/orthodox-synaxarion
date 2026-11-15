@@ -1,0 +1,20 @@
+{
+  "id": "ioan-92",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Ioan",
+    "short": "Ioan",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/79848ab6-25f2-47a6-b183-b07d0a714422",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

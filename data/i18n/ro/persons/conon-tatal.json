@@ -1,0 +1,20 @@
+{
+  "id": "conon-tatal",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Conon tatăl",
+    "short": "Conon tatăl",
+    "given": "Conon"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4e52c822-010d-408d-a1a8-aebb64cda650",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "ce-s-au-proslavit-pe-pamantul-estoniei",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții ce s-au proslăvit pe pământul Estoniei"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/541f50ed-84bd-4422-9713-70df42426be1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

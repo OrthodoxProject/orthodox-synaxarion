@@ -1,0 +1,21 @@
+{
+  "id": "simon-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Simon, monah din Muntele Sinai",
+    "full": "Sfântul Cuvios Simon, monah din Muntele Sinai",
+    "short": "Simon, monah din Muntele Sinai",
+    "given": "Simon"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e9d08bd6-debf-4478-af02-eb1340203c24",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

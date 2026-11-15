@@ -1,0 +1,26 @@
+{
+  "id": "dulcisima-fecioara-of-lazio-in-italia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:dulcisima-fecioara-of-lazio-in-italia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 16
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6439dea9-cee7-4b1e-8719-8c68c8d3dff3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

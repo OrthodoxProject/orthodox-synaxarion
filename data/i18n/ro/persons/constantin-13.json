@@ -1,0 +1,20 @@
+{
+  "id": "constantin-13",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Constantin (Suhov)",
+    "short": "Constantin (Suhov)",
+    "given": "Constantin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/de3dac5f-d1d3-402a-a987-a3941f7425dc",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

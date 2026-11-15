@@ -1,0 +1,26 @@
+{
+  "id": "sfantul-sfintit-new-mucenic-tihon-of-voronej-and",
+  "kind": "repose",
+  "subjects": [
+    "group:sfantul-sfintit-new-mucenic-tihon-of-voronej-and"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 27
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/cf64c84d-0786-41fa-8ebb-e03cd8228c96",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

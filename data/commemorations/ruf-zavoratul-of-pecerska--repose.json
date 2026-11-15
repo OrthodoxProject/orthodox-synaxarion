@@ -1,0 +1,26 @@
+{
+  "id": "ruf-zavoratul-of-pecerska--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:ruf-zavoratul-of-pecerska"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 8
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/33f27e79-679d-4889-922b-4933d75bea59",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

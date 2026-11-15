@@ -1,0 +1,26 @@
+{
+  "id": "hunegonda--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:hunegonda"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 25
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f1a02b7e-7f83-4ee8-857b-1642922d1116",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "iulian-3-and-evul",
+  "kind": "repose",
+  "subjects": [
+    "person:iulian-3",
+    "person:evul"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 6
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0f9a410a-945b-4feb-8faa-2c24e075d8f1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "petru-the-new-of-in",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Petru cel Nou, episcop în insula Creta",
+    "full": "Sfântul Sfințit Mucenic Petru cel Nou, episcop în insula Creta",
+    "short": "Petru cel Nou, episcop în insula Creta",
+    "given": "Petru"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/52a75ff1-cab4-4ece-8b63-703746958110",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

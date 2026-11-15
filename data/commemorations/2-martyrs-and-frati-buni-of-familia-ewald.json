@@ -1,0 +1,26 @@
+{
+  "id": "2-martyrs-and-frati-buni-of-familia-ewald",
+  "kind": "repose",
+  "subjects": [
+    "group:2-martyrs-and-frati-buni-of-familia-ewald"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 3
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/43004a54-0582-445b-862c-58406dcd36f2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

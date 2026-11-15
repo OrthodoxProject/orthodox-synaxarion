@@ -1,0 +1,26 @@
+{
+  "id": "swithbert-of-kaiserworth--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:swithbert-of-kaiserworth"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 1
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a673eb68-3e58-4106-a600-8c585a53051b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "urban-of-teano",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Urban, episcop de Teano în Italia",
+    "full": "Sfântul Ierarh Urban, episcop de Teano în Italia",
+    "short": "Urban, episcop de Teano în Italia",
+    "given": "Urban"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/bb7a9eca-485a-4ffa-aa98-c99b5a987607",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

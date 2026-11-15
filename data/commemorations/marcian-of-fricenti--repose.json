@@ -1,0 +1,26 @@
+{
+  "id": "marcian-of-fricenti--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:marcian-of-fricenti"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 14
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a3f19963-71ba-491f-acbc-74c69a35e1af",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "secund-tebeul--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:secund-tebeul"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 23
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/91c76e2d-2bcf-4c82-8efc-95942f53f0fa",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

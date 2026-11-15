@@ -1,0 +1,21 @@
+{
+  "id": "prosper-of-orleans",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Prosper, episcop de Orléans în Franța",
+    "full": "Sfântul Ierarh Prosper, episcop de Orléans în Franța",
+    "short": "Prosper, episcop de Orléans în Franța",
+    "given": "Prosper"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0248de44-f58a-416e-9b75-e2b57184be4e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

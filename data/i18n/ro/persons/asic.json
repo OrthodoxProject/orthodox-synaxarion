@@ -1,0 +1,21 @@
+{
+  "id": "asic",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Asic, ucenicul Sfântului Patrick din Irlanda",
+    "full": "Sfântul Cuvios Asic, ucenicul Sfântului Patrick din Irlanda",
+    "short": "Asic, ucenicul Sfântului Patrick din Irlanda",
+    "given": "Asic"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/660c631f-4869-4a15-aa43-8deefa818b4a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

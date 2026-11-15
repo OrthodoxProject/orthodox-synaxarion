@@ -1,0 +1,21 @@
+{
+  "id": "vasile-of-mangazea-siberia-in-rusia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Vasile din Mangazea-Siberia în Rusia",
+    "full": "Sfântul Mucenic Vasile din Mangazea-Siberia în Rusia",
+    "short": "Vasile din Mangazea-Siberia în Rusia",
+    "given": "Vasile"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/eef41649-1c24-4a58-adc4-f65cc858c372",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

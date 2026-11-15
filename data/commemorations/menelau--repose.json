@@ -1,0 +1,26 @@
+{
+  "id": "menelau--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:menelau"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 22
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6fa6e9d7-570c-423e-ac9e-bf7095eddcc6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

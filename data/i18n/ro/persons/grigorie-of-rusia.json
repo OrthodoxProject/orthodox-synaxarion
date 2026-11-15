@@ -1,0 +1,21 @@
+{
+  "id": "grigorie-of-rusia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Grigorie, Egumen la Pelșma-Vologda din Rusia, făcătorul de minuni",
+    "full": "Sfântul Cuvios Grigorie, Egumen la Pelșma-Vologda din Rusia, făcătorul de minuni",
+    "short": "Grigorie, Egumen la Pelșma-Vologda din Rusia, făcătorul de minuni",
+    "given": "Grigorie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ff5477a5-02a8-4192-917c-4b07ee22218f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

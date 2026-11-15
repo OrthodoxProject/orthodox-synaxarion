@@ -1,0 +1,21 @@
+{
+  "id": "iraclie-of-alexandria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Iraclie, patriarhul Alexandriei în Egipt",
+    "full": "Sfântul Ierarh Iraclie, patriarhul Alexandriei în Egipt",
+    "short": "Iraclie, patriarhul Alexandriei în Egipt",
+    "given": "Iraclie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/fb08ce2b-6f60-4dc7-a145-04eb6066c041",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

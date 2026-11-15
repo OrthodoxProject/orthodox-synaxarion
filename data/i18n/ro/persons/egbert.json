@@ -1,0 +1,21 @@
+{
+  "id": "egbert",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Egbert, monah la Ripon în Anglia",
+    "full": "Sfântul Cuvios Egbert, monah la Ripon în Anglia",
+    "short": "Egbert, monah la Ripon în Anglia",
+    "given": "Egbert"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/35a71807-4c0c-43c2-8bcd-833b80b87f77",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

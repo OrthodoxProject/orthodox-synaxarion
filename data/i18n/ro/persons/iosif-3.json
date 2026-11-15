@@ -1,0 +1,21 @@
+{
+  "id": "iosif-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Iosif, egumen la Volokolamsk-Voloțk în Rusia",
+    "full": "Sfântul Cuvios Iosif, egumen la Volokolamsk-Voloțk în Rusia",
+    "short": "Iosif, egumen la Volokolamsk-Voloțk în Rusia",
+    "given": "Iosif"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/67e6df03-b9a1-4f4a-a3ff-e222cd02f5aa",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

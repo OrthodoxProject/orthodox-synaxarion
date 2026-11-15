@@ -1,0 +1,21 @@
+{
+  "id": "failbhe-of-irlanda",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Failbhe din Irlanda, egumen la Mănăstirea Iona din Scoția",
+    "full": "Sfântul Cuvios Failbhe din Irlanda, egumen la Mănăstirea Iona din Scoția",
+    "short": "Failbhe din Irlanda, egumen la Mănăstirea Iona din Scoția",
+    "given": "Failbhe"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/15fa9dbf-a9e1-4ab1-a15c-4a496ee4defa",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

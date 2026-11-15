@@ -1,0 +1,18 @@
+{
+  "id": "sfantul-mucenic-adac-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sfântul Mucenic Adac și cei împreună cu ei"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/deb53d42-c565-40de-acc2-7451fe69273d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "conie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Conie, monah din Calabria în Italia",
+    "full": "Sfântul Cuvios Conie, monah din Calabria în Italia",
+    "short": "Conie, monah din Calabria în Italia",
+    "given": "Conie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/89ab2833-851f-43b4-9093-6b23a69eb01b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

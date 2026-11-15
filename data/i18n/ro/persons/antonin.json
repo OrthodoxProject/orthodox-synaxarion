@@ -1,0 +1,21 @@
+{
+  "id": "antonin",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Antonin, egumen la Sorrente și mărturisitor în Italia",
+    "full": "Sfântul Cuvios Antonin, egumen la Sorrente și mărturisitor în Italia",
+    "short": "Antonin, egumen la Sorrente, mărturisitor în Italia",
+    "given": "Antonin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3d9e8458-fac3-426b-b4da-0fdef120a389",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

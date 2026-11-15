@@ -1,0 +1,26 @@
+{
+  "id": "luca-gramaticul-of-calabria--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:luca-gramaticul-of-calabria"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 10
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3f5cd5f2-a9d6-4a21-ac68-c2847d7b0e64",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

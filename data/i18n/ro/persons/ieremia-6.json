@@ -1,0 +1,21 @@
+{
+  "id": "ieremia-6",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Părinte Ieremia, înainte văzătorul de la Pecerska",
+    "full": "Sfântul Cuvios Părinte Ieremia, înainte văzătorul de la Pecerska",
+    "short": "Ieremia, înainte văzătorul de la Pecerska",
+    "given": "Ieremia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f735b897-e3e8-47c7-b33f-d78dfed1fd72",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

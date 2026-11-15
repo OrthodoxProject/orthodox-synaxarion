@@ -1,0 +1,20 @@
+{
+  "id": "ilarie-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ilarie, pustnic, întemeietor al Mănăstirii Sant'Ilaro din Italia",
+    "short": "Ilarie, pustnic, întemeietor al Mănăstirii Sant'Ilaro din Italia",
+    "given": "Ilarie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/48369a89-6a7d-4a23-a0b7-1d3f8cb9674b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "rutilius-of-nordul-africii",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Rutilius din nordul Africii",
+    "full": "Sfântul Mucenic Rutilius din nordul Africii",
+    "short": "Rutilius din nordul Africii",
+    "given": "Rutilius"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/fe26e671-fe0b-4cc5-bf8c-38e53c285a46",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

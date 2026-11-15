@@ -1,0 +1,20 @@
+{
+  "id": "sostene-of-colofon",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ap. Sostene, episcop de Colofon",
+    "short": "Sostene, episcop de Colofon",
+    "given": "Sostene"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1022",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

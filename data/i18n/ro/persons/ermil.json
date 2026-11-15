@@ -1,0 +1,20 @@
+{
+  "id": "ermil",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Ermil",
+    "short": "Ermil",
+    "given": "Ermil"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3e84faff-c450-45a5-8b8e-9f0c29bbfdc8",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

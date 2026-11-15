@@ -1,0 +1,21 @@
+{
+  "id": "bertilda-of-manastirii-chelles",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Bertilda, stareța Mănăstirii Chelles din Franța",
+    "full": "Sfânta Cuvioasă Bertilda, stareța Mănăstirii Chelles din Franța",
+    "short": "Bertilda, stareța Mănăstirii Chelles din Franța",
+    "given": "Bertilda"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0d288f5a-256c-4e9d-8a62-9a8c7c41c26b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

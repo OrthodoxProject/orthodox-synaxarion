@@ -1,0 +1,20 @@
+{
+  "id": "nichita-5",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Nichita",
+    "short": "Nichita",
+    "given": "Nichita"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5078305d-cd9d-4fab-a5ec-fc0303b45f87",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

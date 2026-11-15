@@ -1,0 +1,21 @@
+{
+  "id": "flanan-of-in",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Flanan, episcop în Irlanda",
+    "full": "Sfântul Ierarh Flanan, episcop în Irlanda",
+    "short": "Flanan, episcop în Irlanda",
+    "given": "Flanan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/198c6c8e-3511-456d-84e3-37b0abd4bf8e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

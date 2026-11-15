@@ -1,0 +1,21 @@
+{
+  "id": "marol-sirianul-of-milano",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Marol Sirianul, episcop de Milano și mărturisitor în Italia",
+    "full": "Sfântul Ierarh Marol Sirianul, episcop de Milano și mărturisitor în Italia",
+    "short": "Marol Sirianul, episcop de Milano, mărturisitor în Italia",
+    "given": "Marol"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/35031b08-3966-4121-8d61-9d3016677805",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

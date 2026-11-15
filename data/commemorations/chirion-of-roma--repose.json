@@ -1,0 +1,26 @@
+{
+  "id": "chirion-of-roma--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:chirion-of-roma"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 25
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/99897ebe-783d-4cce-bec8-bc64b600f8fb",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

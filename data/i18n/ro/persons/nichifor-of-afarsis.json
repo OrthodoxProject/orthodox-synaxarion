@@ -1,0 +1,21 @@
+{
+  "id": "nichifor-of-afarsis",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Nichifor din Afarsis, presbiterul Mănăstirii Efesului",
+    "full": "Sfântul Cuvios Nichifor din Afarsis, presbiterul Mănăstirii Efesului",
+    "short": "Nichifor din Afarsis, presbiterul Mănăstirii Efesului",
+    "given": "Nichifor"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0d674cbd-6d2f-4627-bbff-af8740b2945a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

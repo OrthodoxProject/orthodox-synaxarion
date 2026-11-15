@@ -1,0 +1,27 @@
+{
+  "id": "maria-12-and-mucenita-ludmila-of-rusia",
+  "kind": "repose",
+  "subjects": [
+    "person:maria-12",
+    "person:mucenita-ludmila-of-rusia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 15
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/68d9176e-278e-4f5e-9b4a-2de198069cfd#3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

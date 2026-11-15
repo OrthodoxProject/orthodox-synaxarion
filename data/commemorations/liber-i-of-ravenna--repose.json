@@ -1,0 +1,26 @@
+{
+  "id": "liber-i-of-ravenna--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:liber-i-of-ravenna"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 29
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/314a7e23-ceaa-4c9f-8937-a8717c38e505",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

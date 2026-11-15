@@ -1,0 +1,21 @@
+{
+  "id": "martius",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Martius, egumen la Clermont în Franța",
+    "full": "Sfântul Cuvios Martius, egumen la Clermont în Franța",
+    "short": "Martius, egumen la Clermont în Franța",
+    "given": "Martius"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d004ff17-0a33-4112-a6ea-0a587a306f41",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

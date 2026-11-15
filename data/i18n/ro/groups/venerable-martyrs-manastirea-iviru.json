@@ -1,0 +1,18 @@
+{
+  "id": "venerable-martyrs-manastirea-iviru",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Cuvioși Mucenici Mănăstirea Iviru"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5f5bae12-6c7f-49bf-8ae3-51394d7a6462",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

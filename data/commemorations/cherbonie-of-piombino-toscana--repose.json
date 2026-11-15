@@ -1,0 +1,26 @@
+{
+  "id": "cherbonie-of-piombino-toscana--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:cherbonie-of-piombino-toscana"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 10
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f0a8f0ff-d8b2-4cc8-ad1a-14392bd26e8f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

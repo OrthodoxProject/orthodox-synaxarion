@@ -1,0 +1,26 @@
+{
+  "id": "herulf-of-langres--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:herulf-of-langres"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 13
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/01a851e4-9870-45be-a89a-760ce85cbc5d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "niser--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:niser"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 6
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e075fff6-b96d-485a-8f3e-d4cc37feeb47",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

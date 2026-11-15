@@ -1,0 +1,26 @@
+{
+  "id": "iulita-of-egipt--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:iulita-of-egipt"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 14
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6fcc43af-de32-4ef2-a686-ee844e8a6f08",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "eufimia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Eufimia",
+    "short": "Eufimia",
+    "given": "Eufimia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/34a981f7-8ec9-48c5-b578-ec5db5025a0b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

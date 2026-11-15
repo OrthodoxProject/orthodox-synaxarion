@@ -1,0 +1,21 @@
+{
+  "id": "inochentie-of-verona",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Inochentie, episcop de Verona în Italia",
+    "full": "Sfântul Ierarh Inochentie, episcop de Verona în Italia",
+    "short": "Inochentie, episcop de Verona în Italia",
+    "given": "Inochentie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/23750da5-117f-4d7a-a041-b0cace86298d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

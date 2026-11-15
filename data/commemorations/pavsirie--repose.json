@@ -1,0 +1,26 @@
+{
+  "id": "pavsirie--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:pavsirie"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 24
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1252ce1a-d671-4002-a0a8-5ca3940cda77",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "venant--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:venant"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 18
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c957e1cf-7e18-4fa9-a442-18951853d593",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

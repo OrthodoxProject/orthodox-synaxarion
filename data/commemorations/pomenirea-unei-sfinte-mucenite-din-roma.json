@@ -1,0 +1,23 @@
+{
+  "id": "pomenirea-unei-sfinte-mucenite-din-roma",
+  "kind": "event",
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 7
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/478f4246-b987-49c2-b44c-05c67b6d767f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

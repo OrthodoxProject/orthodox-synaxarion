@@ -1,0 +1,25 @@
+{
+  "id": "5-martyrs",
+  "kind": "martyrs",
+  "count": {
+    "value": 5,
+    "precision": "exact"
+  },
+  "holiness_types": [
+    "martyr"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/148d4881-9ea0-4ac8-8aa7-5dee7d27d6de",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

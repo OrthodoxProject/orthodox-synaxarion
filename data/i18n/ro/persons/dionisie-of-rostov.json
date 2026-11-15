@@ -1,0 +1,21 @@
+{
+  "id": "dionisie-of-rostov",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Dionisie, arhiepiscop de Rostov în Rusia",
+    "full": "Sfântul Ierarh Dionisie, arhiepiscop de Rostov în Rusia",
+    "short": "Dionisie, arhiepiscop de Rostov în Rusia",
+    "given": "Dionisie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f82ded3d-2cf0-4fc3-89ef-ceaa17141cea",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

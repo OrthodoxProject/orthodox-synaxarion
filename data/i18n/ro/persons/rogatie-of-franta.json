@@ -1,0 +1,20 @@
+{
+  "id": "rogatie-of-franta",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Rogatie din Franța",
+    "short": "Rogatie din Franța",
+    "given": "Rogatie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0778b8a5-b86a-43dd-a13f-1e182395a0f6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

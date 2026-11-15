@@ -1,0 +1,18 @@
+{
+  "id": "petru-41-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Ierarhi Petru, Alexie, Iona, Macarie, Filip, Iov, Ermoghen, Tihon, Petru, Filaret, Inochentie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/863",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

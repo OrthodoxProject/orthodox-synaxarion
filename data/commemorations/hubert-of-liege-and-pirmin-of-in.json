@@ -1,0 +1,27 @@
+{
+  "id": "hubert-of-liege-and-pirmin-of-in",
+  "kind": "repose",
+  "subjects": [
+    "person:hubert-of-liege",
+    "person:pirmin-of-in"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 3
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c3e3b525-88b3-4b99-90c5-0640d3b19963",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

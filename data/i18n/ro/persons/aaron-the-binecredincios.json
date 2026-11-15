@@ -1,0 +1,20 @@
+{
+  "id": "aaron-the-binecredincios",
+  "locale": "ro",
+  "names": {
+    "display": "Dreptul Aaron cel binecredincios, fratele Sfântului Prooroc Moise",
+    "short": "Aaron cel binecredincios, fratele Sfântului Prooroc Moise",
+    "given": "Aaron"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/21875289-6e13-49d8-bff5-2be27a304e5a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

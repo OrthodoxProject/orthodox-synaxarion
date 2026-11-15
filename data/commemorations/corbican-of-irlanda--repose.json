@@ -1,0 +1,26 @@
+{
+  "id": "corbican-of-irlanda--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:corbican-of-irlanda"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 26
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/88f1a995-2bcc-4412-a951-0fce61132b38",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

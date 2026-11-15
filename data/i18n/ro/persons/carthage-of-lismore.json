@@ -1,0 +1,21 @@
+{
+  "id": "carthage-of-lismore",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Carthage, episcop de Lismore în Irlanda",
+    "full": "Sfântul Ierarh Carthage, episcop de Lismore în Irlanda",
+    "short": "Carthage, episcop de Lismore în Irlanda",
+    "given": "Carthage"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/19f96fe2-c889-4342-8125-2bb680a8ded0",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

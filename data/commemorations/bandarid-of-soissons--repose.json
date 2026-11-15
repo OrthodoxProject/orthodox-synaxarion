@@ -1,0 +1,26 @@
+{
+  "id": "bandarid-of-soissons--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:bandarid-of-soissons"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 9
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/90b52fac-71dd-45fa-9881-113793f82e3c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

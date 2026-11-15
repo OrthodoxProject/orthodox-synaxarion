@@ -1,0 +1,26 @@
+{
+  "id": "teofil-of-in--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:teofil-of-in"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 5
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d8d67db7-8e3b-45f6-93cb-f98e0b6d6758",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

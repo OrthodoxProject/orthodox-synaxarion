@@ -1,0 +1,21 @@
+{
+  "id": "caloger",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Caloger, pustnic din Grecia",
+    "full": "Sfântul Cuvios Caloger, pustnic din Grecia",
+    "short": "Caloger, pustnic din Grecia",
+    "given": "Caloger"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/93edfa7a-90ae-4318-bac3-f5f302870c9f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

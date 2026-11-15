@@ -1,0 +1,21 @@
+{
+  "id": "marele-mucenic-iacov-persul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Marele Mc. Iacov Persul",
+    "full": "Sfântul Marele Mucenic Iacov Persul",
+    "short": "Marele Mucenic Iacov Persul",
+    "given": "Marele"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/996",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

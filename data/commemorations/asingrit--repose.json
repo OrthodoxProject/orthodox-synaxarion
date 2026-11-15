@@ -1,0 +1,26 @@
+{
+  "id": "asingrit--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:asingrit"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 19
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ccb1903d-87e9-47e0-93bf-aae3d814ee0e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

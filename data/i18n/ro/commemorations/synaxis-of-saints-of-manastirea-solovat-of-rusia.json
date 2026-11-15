@@ -1,0 +1,18 @@
+{
+  "id": "synaxis-of-saints-of-manastirea-solovat-of-rusia",
+  "locale": "ro",
+  "names": {
+    "display": "Soborul Tuturor Sfinților de la Mănăstirea Solovăț din Rusia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1ed3c092-35bc-4da5-903b-9c7ecf14272c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

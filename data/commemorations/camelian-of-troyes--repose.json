@@ -1,0 +1,26 @@
+{
+  "id": "camelian-of-troyes--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:camelian-of-troyes"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 28
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3df2283e-4927-4849-81d8-b7693532aee9",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

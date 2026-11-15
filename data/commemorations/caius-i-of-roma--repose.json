@@ -1,0 +1,26 @@
+{
+  "id": "caius-i-of-roma--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:caius-i-of-roma"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 22
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2b4c5095-2d06-4826-9d96-c0b910a2d633",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

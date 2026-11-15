@@ -1,0 +1,21 @@
+{
+  "id": "winwaloe",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Winwaloe, egumen",
+    "full": "Sfântul Cuvios Winwaloe, egumen",
+    "short": "Winwaloe, egumen",
+    "given": "Winwaloe"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7c382778-9a91-47b6-b547-da59264520b6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

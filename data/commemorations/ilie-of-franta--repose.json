@@ -1,0 +1,26 @@
+{
+  "id": "ilie-of-franta--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:ilie-of-franta"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 9
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4e8a9f5d-a85d-4a4e-aeb0-166f3bdbfdde",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

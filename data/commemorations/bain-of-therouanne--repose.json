@@ -1,0 +1,26 @@
+{
+  "id": "bain-of-therouanne--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:bain-of-therouanne"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 20
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a0979e6d-13a0-46f6-94f2-5083cd46bc8a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

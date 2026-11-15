@@ -1,0 +1,21 @@
+{
+  "id": "iusta-fecioara-of-aquileia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Iusta fecioara din Aquileia",
+    "full": "Sfânta Muceniță Iusta fecioara din Aquileia",
+    "short": "Iusta fecioara din Aquileia",
+    "given": "Iusta"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/23581815-670f-45ca-9cd5-8ba69e39e02c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

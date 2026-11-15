@@ -1,0 +1,21 @@
+{
+  "id": "vah-the-new",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mc. Vah cel Nou, nevoitor la Mănăstirea Sava din Palestina în vremea împărătesei Irina",
+    "full": "Sfântul Cuvios Mucenic Vah cel Nou, nevoitor la Mănăstirea Sava din Palestina în vremea împărătesei Irina",
+    "short": "Vah cel Nou, nevoitor la Mănăstirea Sava din Palestina în vremea împărătesei Irina",
+    "given": "Vah"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3c5f4afd-c99d-40f6-b8db-e67f56998e09",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

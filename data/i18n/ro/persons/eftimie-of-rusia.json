@@ -1,0 +1,21 @@
+{
+  "id": "eftimie-of-rusia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Nou Mc. Eftimie (Cocev) din Rusia",
+    "full": "Sfântul Nou Mucenic Eftimie (Cocev) din Rusia",
+    "short": "Eftimie (Cocev) din Rusia",
+    "given": "Eftimie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/789a565e-9ca5-4b66-a4df-cab3e8ee506c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

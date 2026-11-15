@@ -1,0 +1,20 @@
+{
+  "id": "stratighie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Stratighie",
+    "short": "Stratighie",
+    "given": "Stratighie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0394bf79-90d6-4e99-b23a-b708cf336a05",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

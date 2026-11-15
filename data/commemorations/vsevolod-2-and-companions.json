@@ -1,0 +1,34 @@
+{
+  "id": "vsevolod-2-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:vsevolod-2",
+    "person:serghie-20",
+    "person:alexie-31",
+    "person:alexandru-52",
+    "person:vasile-48",
+    "person:petru-47",
+    "person:vasile-49",
+    "person:anatolie-8",
+    "person:efrosin"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 31
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e6ee1e53-b6ef-420d-8573-601c5a86e94c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

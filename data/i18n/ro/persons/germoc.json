@@ -1,0 +1,21 @@
+{
+  "id": "germoc",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Germoc, monah din Irlanda",
+    "full": "Sfântul Cuvios Germoc, monah din Irlanda",
+    "short": "Germoc, monah din Irlanda",
+    "given": "Germoc"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/340406a4-91f7-47ac-85c9-06a20c9abfe1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "constantiu-of-perugia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Constanțiu, episcop de Perugia în Italia",
+    "full": "Sfântul Sfințit Mucenic Constanțiu, episcop de Perugia în Italia",
+    "short": "Constanțiu, episcop de Perugia în Italia",
+    "given": "Constanțiu"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8a1ceb85-fdf9-488c-af67-785ed138aa1f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

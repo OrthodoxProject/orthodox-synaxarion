@@ -1,0 +1,20 @@
+{
+  "id": "stefan-of-rusia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Ștefan (Lucanin) din Rusia",
+    "short": "Ștefan (Lucanin) din Rusia",
+    "given": "Ștefan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ab2cc561-2ea3-423e-915f-5b52d0cadd0a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

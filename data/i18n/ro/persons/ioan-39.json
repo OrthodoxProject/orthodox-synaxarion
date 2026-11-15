@@ -1,0 +1,20 @@
+{
+  "id": "ioan-39",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Ioan (Sankov)",
+    "short": "Ioan (Sankov)",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d56a3e99-2afc-40dd-8ef7-bcce91a3827d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

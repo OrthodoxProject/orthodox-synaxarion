@@ -1,0 +1,21 @@
+{
+  "id": "concordie-of-roma",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Concordie din Roma, prezbiterul",
+    "full": "Sfântul Mucenic Concordie din Roma, prezbiterul",
+    "short": "Concordie din Roma, prezbiterul",
+    "given": "Concordie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1087",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

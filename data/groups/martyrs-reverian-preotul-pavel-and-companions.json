@@ -1,0 +1,21 @@
+{
+  "id": "martyrs-reverian-preotul-pavel-and-companions",
+  "kind": "martyrs",
+  "holiness_types": [
+    "hieromartyr"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/48bec320-1bdb-40ff-8899-dbc06603a983",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

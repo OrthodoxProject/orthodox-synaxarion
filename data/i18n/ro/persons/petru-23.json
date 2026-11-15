@@ -1,0 +1,21 @@
+{
+  "id": "petru-23",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Petru, preot din Vologda în Rusia",
+    "full": "Sfântul Sfințit Mucenic Petru, preot din Vologda în Rusia",
+    "short": "Petru, preot din Vologda în Rusia",
+    "given": "Petru"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c95629a4-bba7-41c4-a822-a823eca4ea2e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

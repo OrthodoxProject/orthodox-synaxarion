@@ -1,0 +1,20 @@
+{
+  "id": "fremund-sihastrul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Fremund Sihastrul, fiul regelui Offa din Anglia din Franța",
+    "short": "Fremund Sihastrul, fiul regelui Offa din Anglia din Franța",
+    "given": "Fremund"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6bd181b9-b0e6-4c26-be87-03ea833cf26d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

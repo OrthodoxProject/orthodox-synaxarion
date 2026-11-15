@@ -1,0 +1,26 @@
+{
+  "id": "ormisda-of-roma--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:ormisda-of-roma"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 6
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5594583c-de0a-48cb-9066-bd5fa01a3166",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

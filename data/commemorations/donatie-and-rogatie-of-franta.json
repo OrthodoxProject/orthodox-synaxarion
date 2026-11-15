@@ -1,0 +1,27 @@
+{
+  "id": "donatie-and-rogatie-of-franta",
+  "kind": "repose",
+  "subjects": [
+    "person:donatie",
+    "person:rogatie-of-franta"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 24
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0778b8a5-b86a-43dd-a13f-1e182395a0f6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

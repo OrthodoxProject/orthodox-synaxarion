@@ -1,0 +1,27 @@
+{
+  "id": "balther-and-bilfrid",
+  "kind": "repose",
+  "subjects": [
+    "person:balther",
+    "person:bilfrid"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 6
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/598460ba-d80d-43da-8302-44075e59ca39",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

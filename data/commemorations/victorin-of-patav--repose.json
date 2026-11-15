@@ -1,0 +1,26 @@
+{
+  "id": "victorin-of-patav--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:victorin-of-patav"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 2
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/919ddae7-8e42-4a1b-8915-93ce851de2da",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

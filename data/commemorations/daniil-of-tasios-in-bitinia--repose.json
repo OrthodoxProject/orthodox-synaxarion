@@ -1,0 +1,26 @@
+{
+  "id": "daniil-of-tasios-in-bitinia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:daniil-of-tasios-in-bitinia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 12
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5f253439-88b8-40ca-b889-2b053ae007dd",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

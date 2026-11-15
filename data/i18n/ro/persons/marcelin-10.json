@@ -1,0 +1,21 @@
+{
+  "id": "marcelin-10",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Marcelin",
+    "full": "Sfântul Mucenic Marcelin",
+    "short": "Marcelin",
+    "given": "Marcelin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8bd9e3fa-a28b-4895-8d2b-08261815f546",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

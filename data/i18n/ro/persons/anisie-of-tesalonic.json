@@ -1,0 +1,21 @@
+{
+  "id": "anisie-of-tesalonic",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Anisie, episcopul Tesalonicului",
+    "full": "Sfântul Ierarh Anisie, episcopul Tesalonicului",
+    "short": "Anisie, episcopul Tesalonicului",
+    "given": "Anisie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b2aea8bf-87ed-4c09-a68e-97d74786a9c9",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

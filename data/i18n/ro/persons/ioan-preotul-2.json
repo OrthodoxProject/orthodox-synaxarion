@@ -1,0 +1,21 @@
+{
+  "id": "ioan-preotul-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ioan preotul",
+    "full": "Sfântul Cuvios Ioan preotul",
+    "short": "Ioan preotul",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2600b2a4-a023-49b3-911f-daa2d824b16e#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

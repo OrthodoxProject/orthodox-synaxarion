@@ -1,0 +1,21 @@
+{
+  "id": "benedicta-fecioara-of-laon",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Benedicta fecioara din Laon",
+    "full": "Sfânta Muceniță Benedicta fecioara din Laon",
+    "short": "Benedicta fecioara din Laon",
+    "given": "Benedicta"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4acc93a5-32db-4945-bd99-480cc1ed0d13",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

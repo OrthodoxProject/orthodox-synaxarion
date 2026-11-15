@@ -1,0 +1,23 @@
+{
+  "id": "felix-al-iv-lea-marturisitorul-of-roma",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "hierarch",
+    "confessor"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/136a7c25-9a75-45ea-bf75-1dce8a7e4938",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

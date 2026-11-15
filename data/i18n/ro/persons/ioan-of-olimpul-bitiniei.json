@@ -1,0 +1,21 @@
+{
+  "id": "ioan-of-olimpul-bitiniei",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ioan din Olimpul Bitiniei",
+    "full": "Sfântul Cuvios Ioan din Olimpul Bitiniei",
+    "short": "Ioan din Olimpul Bitiniei",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/26ec7e37-0c7f-431f-b510-dabe1a412196",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

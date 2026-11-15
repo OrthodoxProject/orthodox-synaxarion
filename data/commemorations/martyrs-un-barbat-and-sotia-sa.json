@@ -1,0 +1,26 @@
+{
+  "id": "martyrs-un-barbat-and-sotia-sa",
+  "kind": "repose",
+  "subjects": [
+    "group:martyrs-un-barbat-and-sotia-sa"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 29
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/368eeaa7-2731-4315-9a6e-75aad74e93c4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

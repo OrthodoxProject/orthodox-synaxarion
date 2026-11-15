@@ -1,0 +1,26 @@
+{
+  "id": "erkenwald--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:erkenwald"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 30
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/fafa572d-12c2-4db8-b14a-3560ca70996b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

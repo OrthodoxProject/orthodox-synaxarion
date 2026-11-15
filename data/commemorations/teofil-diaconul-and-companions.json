@@ -1,0 +1,34 @@
+{
+  "id": "teofil-diaconul-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:teofil-diaconul",
+    "person:dorotei-3",
+    "person:petru-31",
+    "person:migdonie",
+    "person:zeno-4",
+    "person:gorgonie",
+    "person:domna-fecioara",
+    "person:mardonie",
+    "person:indis"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 3
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c5a09b28-9c2c-40eb-873f-fc227553a6b9",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ostian--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:ostian"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 30
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/14d75ed9-d607-47ae-8be9-0934eab915c7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

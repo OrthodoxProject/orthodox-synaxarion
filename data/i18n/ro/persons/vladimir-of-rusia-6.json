@@ -1,0 +1,21 @@
+{
+  "id": "vladimir-of-rusia-6",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Vladimir (Pankin) din Rusia",
+    "full": "Sfântul Sfințit Nou Mucenic Vladimir (Pankin) din Rusia",
+    "short": "Vladimir (Pankin) din Rusia",
+    "given": "Vladimir"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/fbab855c-11a4-40af-b4d8-7ededb7f4263",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

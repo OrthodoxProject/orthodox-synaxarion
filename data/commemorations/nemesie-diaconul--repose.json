@@ -1,0 +1,26 @@
+{
+  "id": "nemesie-diaconul--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:nemesie-diaconul"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 31
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0b895324-9db5-4a13-80d8-43aac00fd3f4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

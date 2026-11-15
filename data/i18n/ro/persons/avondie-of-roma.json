@@ -1,0 +1,20 @@
+{
+  "id": "avondie-of-roma",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Avondie din Roma",
+    "short": "Avondie din Roma",
+    "given": "Avondie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/54c14091-8fef-44b7-a320-d63c14656c11",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

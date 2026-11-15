@@ -1,0 +1,21 @@
+{
+  "id": "vavila-of-tars",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Vavila din Tars",
+    "full": "Sfântul Cuvios Vavila din Tars",
+    "short": "Vavila din Tars",
+    "given": "Vavila"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ea5b18f7-1436-4411-93a6-70a9997810d3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

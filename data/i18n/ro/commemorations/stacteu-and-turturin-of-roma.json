@@ -1,0 +1,18 @@
+{
+  "id": "stacteu-and-turturin-of-roma",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici Stacteu și Turturin din Roma"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0326560c-7593-4512-b028-c80d2a4805df",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

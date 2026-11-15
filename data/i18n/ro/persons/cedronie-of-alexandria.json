@@ -1,0 +1,20 @@
+{
+  "id": "cedronie-of-alexandria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Cedronie, patriarhul Alexandriei",
+    "short": "Cedronie, patriarhul Alexandriei",
+    "given": "Cedronie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/59478957-60de-4d10-9d3d-cb6336128fca",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "martyrs-teodor-trofim-and-companions",
+  "kind": "martyrs",
+  "holiness_types": [
+    "martyr"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e25437e3-c567-457e-9bd9-c2c3fd5ab426",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

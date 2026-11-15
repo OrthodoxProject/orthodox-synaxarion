@@ -1,0 +1,28 @@
+{
+  "id": "vasile-40-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:vasile-40",
+    "person:serghie-14",
+    "person:spiridon"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 24
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/826#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

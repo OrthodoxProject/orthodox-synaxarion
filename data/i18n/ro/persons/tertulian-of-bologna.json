@@ -1,0 +1,21 @@
+{
+  "id": "tertulian-of-bologna",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Tertulian, episcop de Bologna în Italia",
+    "full": "Sfântul Ierarh Tertulian, episcop de Bologna în Italia",
+    "short": "Tertulian, episcop de Bologna în Italia",
+    "given": "Tertulian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ad984c83-4ab3-4b16-b9ea-263ba64cb92e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

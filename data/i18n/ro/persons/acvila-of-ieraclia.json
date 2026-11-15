@@ -1,0 +1,21 @@
+{
+  "id": "acvila-of-ieraclia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ap. Acvila (Achila), episcop de Ieraclia și unul de Apostoli",
+    "full": "Sfântul Apostol Acvila (Achila), episcop de Ieraclia și unul de Apostoli",
+    "short": "Acvila (Achila), episcop de Ieraclia, unul de Apostoli",
+    "given": "Acvila"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/623",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

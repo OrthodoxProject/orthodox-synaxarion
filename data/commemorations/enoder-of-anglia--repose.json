@@ -1,0 +1,26 @@
+{
+  "id": "enoder-of-anglia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:enoder-of-anglia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 27
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6d407221-f0f9-4683-9567-aa2adb37b432",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

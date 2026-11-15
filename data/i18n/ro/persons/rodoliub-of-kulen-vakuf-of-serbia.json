@@ -1,0 +1,20 @@
+{
+  "id": "rodoliub-of-kulen-vakuf-of-serbia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Rodoliub din Kulen Vakuf din Serbia",
+    "short": "Rodoliub din Kulen Vakuf din Serbia",
+    "given": "Rodoliub"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/93e37a07-337d-4e31-8524-ee1047a21c33",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "sfantul-mucenic-teofil-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "group:sfantul-mucenic-teofil-and-companions"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 31
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d6088525-d945-4e57-b24b-975023da5d1f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

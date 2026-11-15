@@ -1,0 +1,20 @@
+{
+  "id": "teodor-of-rusia-4",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Teodor (Poroikov) din Rusia",
+    "short": "Teodor (Poroikov) din Rusia",
+    "given": "Teodor"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c23afba9-fe55-425e-8f40-5f2200afd9f8",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

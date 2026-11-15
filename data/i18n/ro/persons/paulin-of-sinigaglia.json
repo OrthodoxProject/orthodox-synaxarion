@@ -1,0 +1,20 @@
+{
+  "id": "paulin-of-sinigaglia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Paulin, episcop de Sinigaglia în Italia",
+    "short": "Paulin, episcop de Sinigaglia în Italia",
+    "given": "Paulin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1503",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

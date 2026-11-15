@@ -1,0 +1,18 @@
+{
+  "id": "martirie-diaconul-and-martirie-zavoratul-of-pecerska",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Cuvioși Martirie Diaconul și Martirie Zăvorâtul de la Pecerska, din Peșterile din Depărtare"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7b5901c4-31be-40c0-acd2-c5106ca07520",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

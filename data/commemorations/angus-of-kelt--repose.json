@@ -1,0 +1,26 @@
+{
+  "id": "angus-of-kelt--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:angus-of-kelt"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 11
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8c678189-b3bb-4355-a2d9-e134986783b7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "tarsila-fecioara--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:tarsila-fecioara"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 24
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e4521708-3b4c-478c-a3ae-5354eaf71752",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

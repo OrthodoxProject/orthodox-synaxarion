@@ -1,0 +1,21 @@
+{
+  "id": "illadan-of-in",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Illadan, episcop în Irlanda",
+    "full": "Sfântul Ierarh Illadan, episcop în Irlanda",
+    "short": "Illadan, episcop în Irlanda",
+    "given": "Illadan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/12cba8c8-dd5f-42c4-bbea-bc410e4e8e0d#3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

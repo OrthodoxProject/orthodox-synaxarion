@@ -1,0 +1,18 @@
+{
+  "id": "70-martyrs",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții 70 de Mucenici"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/42f26fd0-1eb3-4c97-9fad-9f88c70986e5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

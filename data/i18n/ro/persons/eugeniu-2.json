@@ -1,0 +1,20 @@
+{
+  "id": "eugeniu-2",
+  "locale": "ro",
+  "names": {
+    "display": "Cuviosul Eugeniu",
+    "short": "Eugeniu",
+    "given": "Eugeniu"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/641d371a-bd09-490b-a651-fb492c70fecc",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

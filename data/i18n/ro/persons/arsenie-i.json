@@ -1,0 +1,20 @@
+{
+  "id": "arsenie-i",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Arsenie I",
+    "short": "Arsenie I",
+    "given": "Arsenie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8a3b1c8b-8240-429c-8d3e-5d1bdc980f78",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

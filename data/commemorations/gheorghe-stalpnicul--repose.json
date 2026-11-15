@@ -1,0 +1,26 @@
+{
+  "id": "gheorghe-stalpnicul--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:gheorghe-stalpnicul"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 27
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c0e11e50-6595-44b5-a9f9-07f6a1ba773a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

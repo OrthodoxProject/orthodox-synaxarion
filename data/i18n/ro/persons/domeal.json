@@ -1,0 +1,21 @@
+{
+  "id": "domeal",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Domeal, monah din Anglia",
+    "full": "Sfântul Cuvios Domeal, monah din Anglia",
+    "short": "Domeal, monah din Anglia",
+    "given": "Domeal"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/be685e30-05a3-4200-83fd-51583a5547a4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "mochian",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Mochian",
+    "short": "Mochian",
+    "given": "Mochian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1119",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

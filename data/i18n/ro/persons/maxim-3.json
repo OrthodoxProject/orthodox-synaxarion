@@ -1,0 +1,20 @@
+{
+  "id": "maxim-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Maxim",
+    "short": "Maxim",
+    "given": "Maxim"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d7e5cbf4-367c-42e0-89b2-1da166f7915e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

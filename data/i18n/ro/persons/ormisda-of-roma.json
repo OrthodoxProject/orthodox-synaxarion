@@ -1,0 +1,21 @@
+{
+  "id": "ormisda-of-roma",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ormisda, episcopul Romei",
+    "full": "Sfântul Ierarh Ormisda, episcopul Romei",
+    "short": "Ormisda, episcopul Romei",
+    "given": "Ormisda"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5594583c-de0a-48cb-9066-bd5fa01a3166",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

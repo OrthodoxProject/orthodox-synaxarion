@@ -1,0 +1,26 @@
+{
+  "id": "grigorie-of-nicopolis--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:grigorie-of-nicopolis"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 16
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c6a7f307-6ad7-497b-b71e-aa3edf30a8ae",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

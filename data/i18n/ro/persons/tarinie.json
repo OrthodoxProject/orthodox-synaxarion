@@ -1,0 +1,21 @@
+{
+  "id": "tarinie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Tarinie, primul episcop de Evreux în Franța",
+    "full": "Sfântul Ierarh Tarinie, primul episcop de Evreux în Franța",
+    "short": "Tarinie, primul episcop de Evreux în Franța",
+    "given": "Tarinie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/52e9c17c-afa2-4ee2-8c7b-f82404c6e3ce",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

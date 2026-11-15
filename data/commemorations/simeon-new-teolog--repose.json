@@ -1,0 +1,26 @@
+{
+  "id": "simeon-new-teolog--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:simeon-new-teolog"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 12
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9f586531-0ed2-46e8-a8b0-9ae579a7fb6f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

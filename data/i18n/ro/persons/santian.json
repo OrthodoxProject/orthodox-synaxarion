@@ -1,0 +1,20 @@
+{
+  "id": "santian",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Santian",
+    "short": "Santian",
+    "given": "Santian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0c0a19e4-9e56-42eb-a576-1354228ab98b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

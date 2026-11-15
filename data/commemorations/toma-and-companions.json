@@ -1,0 +1,28 @@
+{
+  "id": "toma-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:toma",
+    "person:manastirii-eftimie",
+    "person:caimin"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 24
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6d3e4738-e263-4151-b24a-8967f220f061",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

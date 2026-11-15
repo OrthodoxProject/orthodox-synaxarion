@@ -1,0 +1,21 @@
+{
+  "id": "optat-of-milevis",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Optat, episcop de Milevis în Numidia",
+    "full": "Sfântul Ierarh Optat, episcop de Milevis în Numidia",
+    "short": "Optat, episcop de Milevis în Numidia",
+    "given": "Optat"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b073c566-a5ba-49e0-96d5-bbd1bb57111c#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ethelrede",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ethelrede, soția regelui Egfrid al Northumbriei și întemeietoarea Mănăstirii Hexham din Anglia",
+    "full": "Sfânta Cuvioasă Ethelrede, soția regelui Egfrid al Northumbriei și întemeietoarea Mănăstirii Hexham din Anglia",
+    "short": "Ethelrede, soția regelui Egfrid al Northumbriei, întemeietoarea Mănăstirii Hexham din Anglia",
+    "given": "Ethelrede"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/aa5dad7c-84c8-460f-88db-a5a5af4c5206",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

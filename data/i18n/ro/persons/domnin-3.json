@@ -1,0 +1,21 @@
+{
+  "id": "domnin-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Domnin, diacon la Piacenza în Italia",
+    "full": "Sfântul Domnin, diacon la Piacenza în Italia",
+    "short": "Domnin, diacon la Piacenza în Italia",
+    "given": "Domnin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a13ec330-b6fd-4ac2-9ffe-577c7f3cac15#3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

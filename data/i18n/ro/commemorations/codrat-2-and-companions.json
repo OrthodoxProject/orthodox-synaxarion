@@ -1,0 +1,18 @@
+{
+  "id": "codrat-2-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici Codrat, Saturnin și Rufin din Nicomidia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4d8120cf-720d-47b1-a2f3-1343ccd6c378",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

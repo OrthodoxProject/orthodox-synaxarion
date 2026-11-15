@@ -1,0 +1,20 @@
+{
+  "id": "ermie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Ermie",
+    "short": "Ermie",
+    "given": "Ermie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7b87458c-31cb-484d-9e40-b9fd583c217d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

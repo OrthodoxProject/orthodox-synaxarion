@@ -1,0 +1,26 @@
+{
+  "id": "nicolae-velimirovici-of-jicea--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:nicolae-velimirovici-of-jicea"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 20
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/957937e1-c8e9-4543-be24-65dfe182e8ba",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

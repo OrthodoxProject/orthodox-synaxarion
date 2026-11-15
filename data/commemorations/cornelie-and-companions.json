@@ -1,0 +1,28 @@
+{
+  "id": "cornelie-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:cornelie",
+    "person:dionisie-10",
+    "person:mihail-of-padan-olonet-in-rusia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 13
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7d59c471-a84f-44df-9194-1d95f080984e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "evstratie-of-lavra-sfantului-hariton-of-palestina",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Evstratie de la Lavra Sfântului Hariton din Palestina",
+    "full": "Sfântul Cuvios Evstratie de la Lavra Sfântului Hariton din Palestina",
+    "short": "Evstratie de la Lavra Sfântului Hariton din Palestina",
+    "given": "Evstratie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/55bd3952-8c05-470a-918b-86f2c4540608",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

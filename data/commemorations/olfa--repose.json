@@ -1,0 +1,26 @@
+{
+  "id": "olfa--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:olfa"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 15
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/61df3aa3-45a4-4da3-a995-7a37dbd1e43b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

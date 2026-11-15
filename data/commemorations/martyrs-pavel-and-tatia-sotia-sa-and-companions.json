@@ -1,0 +1,26 @@
+{
+  "id": "martyrs-pavel-and-tatia-sotia-sa-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "group:martyrs-pavel-and-tatia-sotia-sa-and-companions"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 25
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3df1eda5-8042-46dc-b9ad-e55c17b86d27",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

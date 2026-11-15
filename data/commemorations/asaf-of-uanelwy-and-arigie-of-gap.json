@@ -1,0 +1,27 @@
+{
+  "id": "asaf-of-uanelwy-and-arigie-of-gap",
+  "kind": "repose",
+  "subjects": [
+    "person:asaf-of-uanelwy",
+    "person:arigie-of-gap"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 1
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f92dac89-ff5c-4255-bee7-8ef290c752ef",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

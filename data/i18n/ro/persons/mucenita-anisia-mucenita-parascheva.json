@@ -1,0 +1,20 @@
+{
+  "id": "mucenita-anisia-mucenita-parascheva",
+  "locale": "ro",
+  "names": {
+    "display": "Cuvioasa Mc. Mucenița Anisia (Maslanov). Mucenița Parascheva (Fedorov)",
+    "short": "Mucenița Anisia (Maslanov). Mucenița Parascheva (Fedorov)",
+    "given": "Mucenița"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e22f15d3-9d4d-434a-938b-fa7ba5597840#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

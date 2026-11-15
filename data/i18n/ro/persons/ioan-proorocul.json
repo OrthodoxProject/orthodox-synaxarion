@@ -1,0 +1,20 @@
+{
+  "id": "ioan-proorocul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ioan „Proorocul”, scriitori filocalici",
+    "short": "Ioan „Proorocul”, scriitori filocalici",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/164",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

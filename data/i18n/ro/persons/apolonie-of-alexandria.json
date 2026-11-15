@@ -1,0 +1,21 @@
+{
+  "id": "apolonie-of-alexandria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Apolonie din Alexandria",
+    "full": "Sfântul Mucenic Apolonie din Alexandria",
+    "short": "Apolonie din Alexandria",
+    "given": "Apolonie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/db93fafb-0e31-4665-8188-950d50276724",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

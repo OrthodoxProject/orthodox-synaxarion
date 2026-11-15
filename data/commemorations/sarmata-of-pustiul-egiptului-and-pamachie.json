@@ -1,0 +1,27 @@
+{
+  "id": "sarmata-of-pustiul-egiptului-and-pamachie",
+  "kind": "repose",
+  "subjects": [
+    "person:sarmata-of-pustiul-egiptului",
+    "person:pamachie"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 30
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3f3a1817-c69c-4b0e-ae11-5768c421e436",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

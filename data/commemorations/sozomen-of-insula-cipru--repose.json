@@ -1,0 +1,26 @@
+{
+  "id": "sozomen-of-insula-cipru--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:sozomen-of-insula-cipru"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 20
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/883b53e4-9bea-4a8a-9530-7ab60188f6e1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

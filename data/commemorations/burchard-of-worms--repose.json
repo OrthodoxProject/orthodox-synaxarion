@@ -1,0 +1,26 @@
+{
+  "id": "burchard-of-worms--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:burchard-of-worms"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 20
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/24e6ea16-bd00-4a93-9d7b-6cd8b601ab43",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

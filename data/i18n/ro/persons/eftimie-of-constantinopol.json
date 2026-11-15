@@ -1,0 +1,21 @@
+{
+  "id": "eftimie-of-constantinopol",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Eftimie, patriarhul Constantinopolului",
+    "full": "Sfântul Ierarh Eftimie, patriarhul Constantinopolului",
+    "short": "Eftimie, patriarhul Constantinopolului",
+    "given": "Eftimie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f4ea00b2-4b50-4aa4-b5aa-e4b0b20d1dff",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

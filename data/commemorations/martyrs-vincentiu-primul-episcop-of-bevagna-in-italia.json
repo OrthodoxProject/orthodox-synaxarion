@@ -1,0 +1,26 @@
+{
+  "id": "martyrs-vincentiu-primul-episcop-of-bevagna-in-italia",
+  "kind": "repose",
+  "subjects": [
+    "group:martyrs-vincentiu-primul-episcop-of-bevagna-in-italia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 6
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4bec9cb8-79a5-40d3-9da7-63ae629d4693",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

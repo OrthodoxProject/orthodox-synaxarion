@@ -1,0 +1,20 @@
+{
+  "id": "agofred",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Agofred",
+    "short": "Agofred",
+    "given": "Agofred"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f0d2fd15-c57b-4fc3-94ae-9c0a88c404cb",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

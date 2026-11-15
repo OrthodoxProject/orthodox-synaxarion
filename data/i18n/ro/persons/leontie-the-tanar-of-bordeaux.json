@@ -1,0 +1,21 @@
+{
+  "id": "leontie-the-tanar-of-bordeaux",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Leontie cel Tânăr, episcop de Bordeaux în Franța",
+    "full": "Sfântul Ierarh Leontie cel Tânăr, episcop de Bordeaux în Franța",
+    "short": "Leontie cel Tânăr, episcop de Bordeaux în Franța",
+    "given": "Leontie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8f32deff-21c2-4989-8295-9816f9a05e5b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

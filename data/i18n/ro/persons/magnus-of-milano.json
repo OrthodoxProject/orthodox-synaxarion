@@ -1,0 +1,21 @@
+{
+  "id": "magnus-of-milano",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Magnus, episcop de Milano în Italia",
+    "full": "Sfântul Ierarh Magnus, episcop de Milano în Italia",
+    "short": "Magnus, episcop de Milano în Italia",
+    "given": "Magnus"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ffc66597-cdc7-4b42-a2b8-97dfa48ef2fe",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

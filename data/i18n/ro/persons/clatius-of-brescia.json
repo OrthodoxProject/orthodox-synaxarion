@@ -1,0 +1,20 @@
+{
+  "id": "clatius-of-brescia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Clatius, episcop de Brescia în Italia",
+    "short": "Clatius, episcop de Brescia în Italia",
+    "given": "Clatius"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9dad1e4b-3f03-40a9-89ef-bcaa688f35cb",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

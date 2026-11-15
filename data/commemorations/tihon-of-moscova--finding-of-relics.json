@@ -1,0 +1,26 @@
+{
+  "id": "tihon-of-moscova--finding-of-relics",
+  "kind": "relics_finding",
+  "subjects": [
+    "person:tihon-of-moscova"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 9
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/716d8a25-10c8-4266-9aca-12cdfde8f008",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

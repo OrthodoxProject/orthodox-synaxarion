@@ -1,0 +1,21 @@
+{
+  "id": "kuksa-of-odessa-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Kukșa din Odessa, mărturisitor în timpul regimului comunist din Rusia",
+    "full": "Sfântul Cuvios Kukșa din Odessa, mărturisitor în timpul regimului comunist din Rusia",
+    "short": "Kukșa din Odessa, mărturisitor în timpul regimului comunist din Rusia",
+    "given": "Kukșa"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2dbc263c-c9a3-433d-8089-ec94fd15b532",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

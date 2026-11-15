@@ -1,0 +1,21 @@
+{
+  "id": "maur-of-verdun",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Maur, episcop de Verdun în Franța",
+    "full": "Sfântul Ierarh Maur, episcop de Verdun în Franța",
+    "short": "Maur, episcop de Verdun în Franța",
+    "given": "Maur"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ee091990-44ad-4eaa-8c29-aaca5f52d19d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

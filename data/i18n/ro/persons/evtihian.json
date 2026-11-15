@@ -1,0 +1,20 @@
+{
+  "id": "evtihian",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Evtihian",
+    "short": "Evtihian",
+    "given": "Evtihian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1171",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

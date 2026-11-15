@@ -1,0 +1,26 @@
+{
+  "id": "sfanta-noua-marturisitoare-hionia-of-rusia",
+  "kind": "repose",
+  "subjects": [
+    "group:sfanta-noua-marturisitoare-hionia-of-rusia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 4
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/41376359-0aab-4d88-8acd-070979be036a#3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

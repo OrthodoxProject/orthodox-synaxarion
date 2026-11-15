@@ -1,0 +1,20 @@
+{
+  "id": "pavel-34",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Pavel",
+    "short": "Pavel",
+    "given": "Pavel"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/63a48057-875b-4b2c-ad37-1358e55d52dd",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

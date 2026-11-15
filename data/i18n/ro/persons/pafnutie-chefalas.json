@@ -1,0 +1,20 @@
+{
+  "id": "pafnutie-chefalas",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. PAFNUTIE Chefalas",
+    "short": "PAFNUTIE Chefalas",
+    "given": "PAFNUTIE"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f30082dc-66d8-4e2b-adaf-79c7abd417e2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "ana-of-roma",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Ana din Roma",
+    "short": "Ana din Roma",
+    "given": "Ana"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3ed6ca7e-031e-468b-83c4-d109a93a4319",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

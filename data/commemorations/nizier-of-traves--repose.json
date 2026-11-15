@@ -1,0 +1,26 @@
+{
+  "id": "nizier-of-traves--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:nizier-of-traves"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 5
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/afaa688b-0251-4327-84e3-4913d2b2a7ed",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

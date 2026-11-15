@@ -1,0 +1,26 @@
+{
+  "id": "anghelis-of-constantinopol--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:anghelis-of-constantinopol"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 1
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e87e8a89-74fd-4ab4-ba63-7eff78b78e44",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

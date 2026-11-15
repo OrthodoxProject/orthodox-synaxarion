@@ -1,0 +1,20 @@
+{
+  "id": "tit-of-pecersca-2",
+  "locale": "ro",
+  "names": {
+    "display": "Cuviosul Tit de la Pecersca, fostul ostaș, din Peșterile din Depărtare",
+    "short": "Tit de la Pecersca, fostul ostaș, din Peșterile din Depărtare",
+    "given": "Tit"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d4bdc133-e973-417b-b2be-d84f387208c2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

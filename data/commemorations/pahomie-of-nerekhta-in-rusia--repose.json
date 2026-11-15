@@ -1,0 +1,26 @@
+{
+  "id": "pahomie-of-nerekhta-in-rusia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:pahomie-of-nerekhta-in-rusia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 23
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/76b9c1e7-d390-4d4b-b8a2-ddf7150b4da6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

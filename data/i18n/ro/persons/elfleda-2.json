@@ -1,0 +1,21 @@
+{
+  "id": "elfleda-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Elfleda, prințesă saxonă",
+    "full": "Sfânta Elfleda, prințesă saxonă",
+    "short": "Elfleda, prințesă saxonă",
+    "given": "Elfleda"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6b641fc0-aede-40cf-9d3c-c677dd13031e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

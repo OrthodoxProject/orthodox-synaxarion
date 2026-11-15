@@ -1,0 +1,21 @@
+{
+  "id": "agnofleda-fecioara-of-franta",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Agnofleda fecioara din Franța",
+    "full": "Sfânta Agnofleda fecioara din Franța",
+    "short": "Agnofleda fecioara din Franța",
+    "given": "Agnofleda"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/20773971-3159-4b95-81d4-ea05a04f7367",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

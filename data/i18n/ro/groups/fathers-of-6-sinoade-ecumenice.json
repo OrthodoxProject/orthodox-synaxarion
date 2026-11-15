@@ -1,0 +1,18 @@
+{
+  "id": "fathers-of-6-sinoade-ecumenice",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Părinți de la 6 Sinoade Ecumenice"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b3f74498-a67a-408f-9428-3c49cd0503b1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

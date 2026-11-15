@@ -1,0 +1,20 @@
+{
+  "id": "petru-11",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Nou Mc. Petru (Jukov)",
+    "short": "Petru (Jukov)",
+    "given": "Petru"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/deb49163-a079-431a-8a59-33d9ff121826",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

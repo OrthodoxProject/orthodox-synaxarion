@@ -1,0 +1,26 @@
+{
+  "id": "martin-of-francia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:martin-of-francia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 12
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0d6fce29-c2ab-40ec-88bc-a487559481d4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

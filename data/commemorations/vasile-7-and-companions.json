@@ -1,0 +1,43 @@
+{
+  "id": "vasile-7-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:vasile-7",
+    "person:gavriil-2",
+    "person:zosima-2",
+    "person:nicolae-11",
+    "person:vasile-8",
+    "person:ioan-14",
+    "person:leontie-2",
+    "person:vladimir-12",
+    "person:partenie",
+    "person:ioan-15",
+    "person:mihail-5",
+    "person:ioan-16",
+    "person:pavel-10",
+    "person:eugeniu",
+    "person:pavel-11",
+    "person:ana-3",
+    "person:vera",
+    "person:irina-of-rusia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 13
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/446761ff-662b-4fa1-a77b-3abe2f178c0b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

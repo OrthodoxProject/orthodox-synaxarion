@@ -1,0 +1,21 @@
+{
+  "id": "agaton-of-roma",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Agaton, Episcopul Romei",
+    "full": "Sfântul Ierarh Agaton, Episcopul Romei",
+    "short": "Agaton, Episcopul Romei",
+    "given": "Agaton"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3b6feef3-1ef3-4823-ab4f-8de6f7563f4f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

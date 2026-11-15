@@ -1,0 +1,21 @@
+{
+  "id": "orosie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Orosie, preot din Spania",
+    "full": "Sfântul Sfințit Mucenic Orosie, preot din Spania",
+    "short": "Orosie, preot din Spania",
+    "given": "Orosie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f7228a45-ccea-44af-a568-687e1f11b92b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

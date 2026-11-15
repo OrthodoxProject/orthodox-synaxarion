@@ -1,0 +1,21 @@
+{
+  "id": "felix-preotul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Felix preotul",
+    "full": "Sfântul Sfințit Mucenic Felix preotul",
+    "short": "Felix preotul",
+    "given": "Felix"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/27abd2a9-a72d-42ee-a417-b3bc1c33735f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

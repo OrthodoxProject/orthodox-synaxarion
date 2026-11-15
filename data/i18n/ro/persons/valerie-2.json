@@ -1,0 +1,20 @@
+{
+  "id": "valerie-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Valerie",
+    "short": "Valerie",
+    "given": "Valerie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8215739a-7a95-46f0-8dff-f8f6c4db0d05",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "adalbald-of-belgia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:adalbald-of-belgia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 2
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2ba39a4e-93ed-42e4-a309-f73858401f5e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

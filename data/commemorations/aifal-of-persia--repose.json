@@ -1,0 +1,26 @@
+{
+  "id": "aifal-of-persia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:aifal-of-persia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 1
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/47404ae9-e9ca-46a4-bb50-a35a228a5b2a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

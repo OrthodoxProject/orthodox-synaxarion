@@ -1,0 +1,21 @@
+{
+  "id": "evdochia-imparateasa",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Evdochia împărăteasa, soția împăratului Teodosie cel Tânăr",
+    "full": "Sfânta Evdochia împărăteasa, soția împăratului Teodosie cel Tânăr",
+    "short": "Evdochia împărăteasa, soția împăratului Teodosie cel Tânăr",
+    "given": "Evdochia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/12b74afd-c565-4cc4-9d52-5ed2089edd97",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

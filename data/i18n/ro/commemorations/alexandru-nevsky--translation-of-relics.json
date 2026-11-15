@@ -1,0 +1,18 @@
+{
+  "id": "alexandru-nevsky--translation-of-relics",
+  "locale": "ro",
+  "names": {
+    "display": "Mutarea moaștelor Sfântului Alexandru Nevsky, prinț de Novgorod, călugărit Alexie, în cetatea Vladimirului"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/988",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

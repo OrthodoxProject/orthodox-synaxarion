@@ -1,0 +1,27 @@
+{
+  "id": "pereiaslavl-la-obruch-and-pinsk-in-rusia",
+  "kind": "repose",
+  "subjects": [
+    "person:pereiaslavl-la-obruch",
+    "person:pinsk-in-rusia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 7
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/903a515d-0b93-4ac9-83fb-2e57070916c7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

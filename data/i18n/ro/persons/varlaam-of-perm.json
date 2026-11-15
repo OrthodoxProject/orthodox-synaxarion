@@ -1,0 +1,20 @@
+{
+  "id": "varlaam-of-perm",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Varlaam de Perm",
+    "short": "Varlaam de Perm",
+    "given": "Varlaam"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a56592fa-9878-4131-8763-a43cff83a415",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

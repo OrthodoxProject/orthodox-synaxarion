@@ -1,0 +1,21 @@
+{
+  "id": "frideswide",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Frideswide, stareță la Oxford în Anglia",
+    "full": "Sfânta Cuvioasă Frideswide, stareță la Oxford în Anglia",
+    "short": "Frideswide, stareță la Oxford în Anglia",
+    "given": "Frideswide"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/23906109-9656-4630-8904-5c632b064e9d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

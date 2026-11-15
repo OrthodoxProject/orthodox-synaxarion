@@ -1,0 +1,27 @@
+{
+  "id": "altigien-and-ilarin",
+  "kind": "repose",
+  "subjects": [
+    "person:altigien",
+    "person:ilarin"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 23
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b9eced39-3757-4092-8e9c-4759609800ef",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

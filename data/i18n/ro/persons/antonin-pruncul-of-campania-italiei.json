@@ -1,0 +1,20 @@
+{
+  "id": "antonin-pruncul-of-campania-italiei",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Antonin pruncul din Campania Italiei",
+    "short": "Antonin pruncul din Campania Italiei",
+    "given": "Antonin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/368ba8ce-f266-4066-bf1d-aba6fc05c9c9",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

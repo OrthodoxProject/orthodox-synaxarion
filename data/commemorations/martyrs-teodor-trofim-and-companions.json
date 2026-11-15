@@ -1,0 +1,26 @@
+{
+  "id": "martyrs-teodor-trofim-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "group:martyrs-teodor-trofim-and-companions"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 21
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e25437e3-c567-457e-9bd9-c2c3fd5ab426",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

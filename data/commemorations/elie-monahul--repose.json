@@ -1,0 +1,26 @@
+{
+  "id": "elie-monahul--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:elie-monahul"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 14
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/44fbfa85-7a4e-4e42-9d4d-906f384fdbf8",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

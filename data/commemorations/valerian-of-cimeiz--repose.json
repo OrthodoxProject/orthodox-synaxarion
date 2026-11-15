@@ -1,0 +1,26 @@
+{
+  "id": "valerian-of-cimeiz--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:valerian-of-cimeiz"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 23
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/cef4fe38-52c4-4861-b252-4cefcd76cb26",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

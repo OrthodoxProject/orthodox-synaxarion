@@ -1,0 +1,26 @@
+{
+  "id": "ursicin-medicul--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:ursicin-medicul"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 19
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6d67aaed-9aaa-4e97-baa6-15da4aff9f1e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

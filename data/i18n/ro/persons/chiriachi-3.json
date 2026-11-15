@@ -1,0 +1,21 @@
+{
+  "id": "chiriachi-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Chiriachi, văduvă din Roma",
+    "full": "Sfânta Muceniță Chiriachi, văduvă din Roma",
+    "short": "Chiriachi, văduvă din Roma",
+    "given": "Chiriachi"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4d0a288f-803d-4465-9642-30f98549a632",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

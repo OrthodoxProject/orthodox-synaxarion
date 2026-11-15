@@ -1,0 +1,21 @@
+{
+  "id": "grigorie-4",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Grigorie",
+    "full": "Sfântul Cuvios Grigorie",
+    "short": "Grigorie",
+    "given": "Grigorie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/444e1f68-7ff2-4682-ba97-724f55791108",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

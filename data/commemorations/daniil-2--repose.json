@@ -1,0 +1,26 @@
+{
+  "id": "daniil-2--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:daniil-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 18
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d672dba9-078a-4847-af15-0c98f41fe69e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

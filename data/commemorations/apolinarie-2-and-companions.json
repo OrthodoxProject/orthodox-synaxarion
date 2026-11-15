@@ -1,0 +1,28 @@
+{
+  "id": "apolinarie-2-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:apolinarie-2",
+    "person:avit-of-clermont",
+    "person:leontie-the-batran-of-bordeaux"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 21
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/44f1d8c0-90ea-42f2-bff8-4a48fde6accd",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "panaghiot",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Panaghiot, martirizat la Ierusalim de către turci",
+    "full": "Sfântul Mucenic Panaghiot, martirizat la Ierusalim de către turci",
+    "short": "Panaghiot, martirizat la Ierusalim de către turci",
+    "given": "Panaghiot"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/683630e2-ad82-4687-bd1d-e93d71131cb7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

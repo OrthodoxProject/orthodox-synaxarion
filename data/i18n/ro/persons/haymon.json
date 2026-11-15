@@ -1,0 +1,20 @@
+{
+  "id": "haymon",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Haymon",
+    "short": "Haymon",
+    "given": "Haymon"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/adce82f8-0c09-4313-9c37-cbba7c100c60",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

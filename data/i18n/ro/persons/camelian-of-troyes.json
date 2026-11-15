@@ -1,0 +1,21 @@
+{
+  "id": "camelian-of-troyes",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Camelian, episcop de Troyes în Franța",
+    "full": "Sfântul Ierarh Camelian, episcop de Troyes în Franța",
+    "short": "Camelian, episcop de Troyes în Franța",
+    "given": "Camelian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3df2283e-4927-4849-81d8-b7693532aee9",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

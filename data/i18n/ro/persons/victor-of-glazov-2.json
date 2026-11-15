@@ -1,0 +1,21 @@
+{
+  "id": "victor-of-glazov-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Victor, episcop de Glazov în Rusia",
+    "full": "Sfântul Sfințit Nou Mucenic Victor, episcop de Glazov în Rusia",
+    "short": "Victor, episcop de Glazov în Rusia",
+    "given": "Victor"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8e4f489a-187e-4cfd-a779-6470ef71d799",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

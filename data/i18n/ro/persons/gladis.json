@@ -1,0 +1,20 @@
+{
+  "id": "gladis",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Gladis",
+    "short": "Gladis",
+    "given": "Gladis"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8db3bf4a-1f4f-46b4-bd1b-4d16d05b53e3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

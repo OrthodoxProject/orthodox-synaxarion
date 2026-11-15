@@ -1,0 +1,21 @@
+{
+  "id": "anatolie-zavoratul-of-pecerska",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Anatolie Zăvorâtul de la Pecerska",
+    "full": "Sfântul Cuvios Anatolie Zăvorâtul de la Pecerska",
+    "short": "Anatolie Zăvorâtul de la Pecerska",
+    "given": "Anatolie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ade30704-0154-4892-8c59-2c25528f4eef",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

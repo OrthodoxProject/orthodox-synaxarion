@@ -1,0 +1,20 @@
+{
+  "id": "vladimir-7",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Vladimir (Zubkovici)",
+    "short": "Vladimir (Zubkovici)",
+    "given": "Vladimir"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ad023ca6-21e5-4dea-8b53-ff39829d3b63",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

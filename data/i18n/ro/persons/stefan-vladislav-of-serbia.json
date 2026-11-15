@@ -1,0 +1,21 @@
+{
+  "id": "stefan-vladislav-of-serbia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ștefan Vladislav din Serbia",
+    "full": "Sfântul Ștefan Vladislav din Serbia",
+    "short": "Ștefan Vladislav din Serbia",
+    "given": "Ștefan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ec465bfb-7f8b-4b38-a426-759febb27037",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "zotic-of-comana-in-armenia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:zotic-of-comana-in-armenia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 21
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b1e3d091-f679-4931-bdc5-ce7ef194aa1a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

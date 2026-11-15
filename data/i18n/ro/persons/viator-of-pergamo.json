@@ -1,0 +1,21 @@
+{
+  "id": "viator-of-pergamo",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Viator, episcop de Pergamo în Italia",
+    "full": "Sfântul Ierarh Viator, episcop de Pergamo în Italia",
+    "short": "Viator, episcop de Pergamo în Italia",
+    "given": "Viator"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/776ea3e6-f3f0-437a-84d2-436fb34add5e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

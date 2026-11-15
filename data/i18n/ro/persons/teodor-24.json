@@ -1,0 +1,20 @@
+{
+  "id": "teodor-24",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Teodor",
+    "short": "Teodor",
+    "given": "Teodor"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5428fd88-435b-43ff-95bd-63e462816c8e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

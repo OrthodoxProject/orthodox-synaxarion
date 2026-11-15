@@ -1,0 +1,21 @@
+{
+  "id": "caedwalla",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Caedwalla, rege de Wessex în Anglia",
+    "full": "Sfântul Caedwalla, rege de Wessex în Anglia",
+    "short": "Caedwalla, rege de Wessex în Anglia",
+    "given": "Caedwalla"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/42183813-bc63-49e8-a90b-882b01b3d085",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

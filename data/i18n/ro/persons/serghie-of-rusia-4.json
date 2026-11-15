@@ -1,0 +1,21 @@
+{
+  "id": "serghie-of-rusia-4",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Nou Mc. Serghie (Arhanghelskii) din Rusia",
+    "full": "Sfântul Nou Mucenic Serghie (Arhanghelskii) din Rusia",
+    "short": "Serghie (Arhanghelskii) din Rusia",
+    "given": "Serghie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9cdbeebe-b0b3-48e0-b6ae-1bf8ecd54832#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

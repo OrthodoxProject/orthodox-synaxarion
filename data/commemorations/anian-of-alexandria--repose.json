@@ -1,0 +1,26 @@
+{
+  "id": "anian-of-alexandria--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:anian-of-alexandria"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 26
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d1ba645f-e02c-4447-9691-071f7c18ddb9",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

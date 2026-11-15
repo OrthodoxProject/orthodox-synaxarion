@@ -1,0 +1,21 @@
+{
+  "id": "nichifor-of-milet",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Nichifor, episcop de Milet, în vremea împăratului Nichifor Focas",
+    "full": "Sfântul Ierarh Nichifor, episcop de Milet, în vremea împăratului Nichifor Focas",
+    "short": "Nichifor, episcop de Milet, în vremea împăratului Nichifor Focas",
+    "given": "Nichifor"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ddd9042a-eb92-44a9-9874-bb17aa388546",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

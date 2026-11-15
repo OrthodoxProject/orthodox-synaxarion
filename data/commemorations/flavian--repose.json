@@ -1,0 +1,26 @@
+{
+  "id": "flavian--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:flavian"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 18
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2aba50bf-33c3-4bb1-b8a0-a9a909f80d24",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

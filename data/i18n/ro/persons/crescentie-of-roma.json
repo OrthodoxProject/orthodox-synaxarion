@@ -1,0 +1,21 @@
+{
+  "id": "crescentie-of-roma",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Crescenție din Roma",
+    "full": "Sfântul Mucenic Crescenție din Roma",
+    "short": "Crescenție din Roma",
+    "given": "Crescenție"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e212d8b7-cfa2-476f-88f4-589d520167e0",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

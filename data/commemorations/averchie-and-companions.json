@@ -1,0 +1,29 @@
+{
+  "id": "averchie-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:averchie",
+    "person:maxim-15",
+    "person:nicandru-3",
+    "person:pelaghia-of-rusia-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 17
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9e37a8e1-1a39-42ea-995e-d249fa943328",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

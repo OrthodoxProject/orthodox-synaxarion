@@ -1,0 +1,21 @@
+{
+  "id": "felicula",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Felicula, fecioară din Roma",
+    "full": "Sfânta Muceniță Felicula, fecioară din Roma",
+    "short": "Felicula, fecioară din Roma",
+    "given": "Felicula"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/95d614e5-b0a9-46bb-9bc7-649a6f0a5a90",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

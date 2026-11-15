@@ -1,0 +1,21 @@
+{
+  "id": "enodie-of-pavia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Enodie, episcop de Pavia în Italia",
+    "full": "Sfântul Ierarh Enodie, episcop de Pavia în Italia",
+    "short": "Enodie, episcop de Pavia în Italia",
+    "given": "Enodie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b952e2f1-074f-40f4-a193-376c696844e5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

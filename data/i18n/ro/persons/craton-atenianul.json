@@ -1,0 +1,21 @@
+{
+  "id": "craton-atenianul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Craton Atenianul, convertit și botezat de Sfântul Valentin de la Terni, iar mai târziu martirizat la Roma împreună cu toată famila sa",
+    "full": "Sfântul Mucenic Craton Atenianul, convertit și botezat de Sfântul Valentin de la Terni, iar mai târziu martirizat la Roma împreună cu toată famila sa",
+    "short": "Craton Atenianul, convertit, botezat de Sfântul Valentin de la Terni, iar mai târziu martirizat la Roma împreună cu toată famila sa",
+    "given": "Craton"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c45f4222-1709-4093-9b02-3adf95508ca7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

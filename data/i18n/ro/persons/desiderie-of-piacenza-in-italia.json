@@ -1,0 +1,20 @@
+{
+  "id": "desiderie-of-piacenza-in-italia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Desiderie din Piacenza în Italia",
+    "short": "Desiderie din Piacenza în Italia",
+    "given": "Desiderie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ca2da769-758b-43ea-a09d-aaeefd85e614",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

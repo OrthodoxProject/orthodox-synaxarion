@@ -1,0 +1,27 @@
+{
+  "id": "marin-and-stefan-of-brescia-in-italia",
+  "kind": "repose",
+  "subjects": [
+    "person:marin",
+    "person:stefan-of-brescia-in-italia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 16
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ef555c74-8512-4816-9c51-e11d6c65cd9b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

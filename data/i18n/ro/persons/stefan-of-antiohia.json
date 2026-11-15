@@ -1,0 +1,21 @@
+{
+  "id": "stefan-of-antiohia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Ștefan, episcopul Antiohiei",
+    "full": "Sfântul Sfințit Mucenic Ștefan, episcopul Antiohiei",
+    "short": "Ștefan, episcopul Antiohiei",
+    "given": "Ștefan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8708599c-1ac5-4cb3-a57a-c4a9fe257d8a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

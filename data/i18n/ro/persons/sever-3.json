@@ -1,0 +1,20 @@
+{
+  "id": "sever-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. SEVER, preot din Tuderia în Italia",
+    "short": "SEVER, preot din Tuderia în Italia",
+    "given": "SEVER"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5aac6e1e-fa70-4b2c-8470-c1c27791981c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "iacov-marturisitorul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Iacov Mărturisitorul, viețuitor la Mănăstirea Studion din Constantinopol și ucenicul Sfântului Teodor Studitul",
+    "full": "Sfântul Cuvios Iacov Mărturisitorul, viețuitor la Mănăstirea Studion din Constantinopol și ucenicul Sfântului Teodor Studitul",
+    "short": "Iacov Mărturisitorul, viețuitor la Mănăstirea Studion din Constantinopol, ucenicul Sfântului Teodor Studitul",
+    "given": "Iacov"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ff99be43-03d4-4297-9fc9-490ab8a53ca5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

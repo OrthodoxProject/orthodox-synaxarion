@@ -1,0 +1,21 @@
+{
+  "id": "joavan-of-in",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Joavan, episcop în Anglia",
+    "full": "Sfântul Ierarh Joavan, episcop în Anglia",
+    "short": "Joavan, episcop în Anglia",
+    "given": "Joavan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f7e6da4f-9533-411b-b9b8-ab9b77876424",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

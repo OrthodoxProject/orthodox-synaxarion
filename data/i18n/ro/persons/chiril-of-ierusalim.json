@@ -1,0 +1,21 @@
+{
+  "id": "chiril-of-ierusalim",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Chiril, arhiepiscopul Ierusalimului",
+    "full": "Sfântul Ierarh Chiril, arhiepiscopul Ierusalimului",
+    "short": "Chiril, arhiepiscopul Ierusalimului",
+    "given": "Chiril"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9cf74bfa-8d8a-4f04-b3b3-0ba67066f409",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

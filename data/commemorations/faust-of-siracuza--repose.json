@@ -1,0 +1,26 @@
+{
+  "id": "faust-of-siracuza--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:faust-of-siracuza"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 6
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6f8a0a53-4ea8-4781-b167-0138806f3edb",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

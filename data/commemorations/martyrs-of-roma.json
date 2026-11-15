@@ -1,0 +1,26 @@
+{
+  "id": "martyrs-of-roma",
+  "kind": "repose",
+  "subjects": [
+    "group:martyrs-of-roma"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 10
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/af2f7026-c4b7-4c2b-948a-17051bc74616",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

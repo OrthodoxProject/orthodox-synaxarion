@@ -1,0 +1,21 @@
+{
+  "id": "canute",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Canute, regele Danemarei",
+    "full": "Sfântul Mucenic Canute, regele Danemarei",
+    "short": "Canute, regele Danemarei",
+    "given": "Canute"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/27c7286a-8a63-4e15-984d-ef5120c7445a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

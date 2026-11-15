@@ -1,0 +1,27 @@
+{
+  "id": "cuthburga-and-coenburga-of-anglia",
+  "kind": "repose",
+  "subjects": [
+    "person:cuthburga",
+    "person:coenburga-of-anglia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 31
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/54c98ca7-5c97-491c-9845-ca29675211b6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "andronic",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Andronic",
+    "short": "Andronic",
+    "given": "Andronic"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8cf85c2e-e825-4707-a642-0c8ad6f0e001",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

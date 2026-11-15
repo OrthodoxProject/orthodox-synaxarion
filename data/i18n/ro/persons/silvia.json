@@ -1,0 +1,21 @@
+{
+  "id": "silvia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Silvia, mama Sfântului Grigorie Dialogul",
+    "full": "Sfânta Silvia, mama Sfântului Grigorie Dialogul",
+    "short": "Silvia, mama Sfântului Grigorie Dialogul",
+    "given": "Silvia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c8c70a09-c542-49c4-9619-d24b343d566f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

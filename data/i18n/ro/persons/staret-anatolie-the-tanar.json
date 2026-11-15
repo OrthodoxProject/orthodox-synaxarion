@@ -1,0 +1,21 @@
+{
+  "id": "staret-anatolie-the-tanar",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Stareț Anatolie cel Tânăr, mărturisitor de la Optina",
+    "full": "Sfântul Cuvios Stareț Anatolie cel Tânăr, mărturisitor de la Optina",
+    "short": "Stareț Anatolie cel Tânăr, mărturisitor de la Optina",
+    "given": "Stareț"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/668",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

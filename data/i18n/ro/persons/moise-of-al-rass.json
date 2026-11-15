@@ -1,0 +1,21 @@
+{
+  "id": "moise-of-al-rass",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Moise, starețul Mănăstirii Maicii Domnului din Al-Rass (Siria)",
+    "full": "Sfântul Cuvios Moise, starețul Mănăstirii Maicii Domnului din Al-Rass (Siria)",
+    "short": "Moise, starețul Mănăstirii Maicii Domnului din Al-Rass",
+    "given": "Moise"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/05e8773a-c187-4446-8953-79f5efde60cb",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

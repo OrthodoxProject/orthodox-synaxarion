@@ -1,0 +1,21 @@
+{
+  "id": "ilie-ardunul-of-munte-athos",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Ilie Ardunul din Sfântul Munte Athos",
+    "full": "Sfântul Mucenic Ilie Ardunul din Sfântul Munte Athos",
+    "short": "Ilie Ardunul din Sfântul Munte Athos",
+    "given": "Ilie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/90af5606-c4a7-48d6-b699-7e7a6664264f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "victor-of-capua",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Victor, episcop de Capua în Italia și scriitor bisericesc",
+    "full": "Sfântul Ierarh Victor, episcop de Capua în Italia și scriitor bisericesc",
+    "short": "Victor, episcop de Capua în Italia, scriitor bisericesc",
+    "given": "Victor"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/43b2bb85-2def-42af-b0a6-bdf66ba03a1f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

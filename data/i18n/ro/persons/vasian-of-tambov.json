@@ -1,0 +1,20 @@
+{
+  "id": "vasian-of-tambov",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfinților Nou Mc. Vasian de Tambov",
+    "short": "Vasian de Tambov",
+    "given": "Vasian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ceea7a11-17de-430f-ae60-91483328518c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

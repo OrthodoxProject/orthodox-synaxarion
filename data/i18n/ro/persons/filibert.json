@@ -1,0 +1,20 @@
+{
+  "id": "filibert",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Filibert, întemeietorul mănăstirilor Jumiâges",
+    "short": "Filibert, întemeietorul mănăstirilor Jumiâges",
+    "given": "Filibert"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/15bcb033-53ed-42d3-a96d-c309d8a4cb14",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

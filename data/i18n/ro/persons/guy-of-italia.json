@@ -1,0 +1,21 @@
+{
+  "id": "guy-of-italia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Guy, starețul Mănăstirii Sfântul Severus din Italia",
+    "full": "Sfântul Cuvios Guy, starețul Mănăstirii Sfântul Severus din Italia",
+    "short": "Guy, starețul Mănăstirii Sfântul Severus din Italia",
+    "given": "Guy"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/141570e3-1474-4dbe-882f-5d0666fd499b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

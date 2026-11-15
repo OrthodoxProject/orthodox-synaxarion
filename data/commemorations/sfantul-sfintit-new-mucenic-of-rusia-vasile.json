@@ -1,0 +1,26 @@
+{
+  "id": "sfantul-sfintit-new-mucenic-of-rusia-vasile",
+  "kind": "repose",
+  "subjects": [
+    "group:sfantul-sfintit-new-mucenic-of-rusia-vasile"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 20
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/699e8062-8139-4e8d-844e-479c27d3567c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

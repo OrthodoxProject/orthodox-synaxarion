@@ -1,0 +1,26 @@
+{
+  "id": "parintel-nostru-pavel-monahul-of-insula-cipru--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:parintel-nostru-pavel-monahul-of-insula-cipru"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 7
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/676f6822-fadb-45c5-ad25-db00877bf1ad",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

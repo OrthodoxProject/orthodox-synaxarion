@@ -1,0 +1,26 @@
+{
+  "id": "eustatie-of-litva--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:eustatie-of-litva"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 14
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ae1b66c8-1a7d-4016-902e-66c81fa901a2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

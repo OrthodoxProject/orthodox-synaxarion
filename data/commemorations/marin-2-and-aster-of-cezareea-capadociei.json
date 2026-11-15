@@ -1,0 +1,27 @@
+{
+  "id": "marin-2-and-aster-of-cezareea-capadociei",
+  "kind": "repose",
+  "subjects": [
+    "person:marin-2",
+    "person:aster-of-cezareea-capadociei"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 3
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/74da7254-3ffb-4bf2-9720-d8985d23a342",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

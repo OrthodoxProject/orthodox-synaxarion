@@ -1,0 +1,26 @@
+{
+  "id": "petru-vamesul-of-africa--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:petru-vamesul-of-africa"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 20
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/488acea8-bbcb-4688-bc96-b6b8754babad",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

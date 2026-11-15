@@ -1,0 +1,21 @@
+{
+  "id": "valeria-of-milano-in-italia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Valeria din Milano în Italia",
+    "full": "Sfânta Muceniță Valeria din Milano în Italia",
+    "short": "Valeria din Milano în Italia",
+    "given": "Valeria"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/920fb981-acd7-458a-b579-66f9fb223f67",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

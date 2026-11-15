@@ -1,0 +1,28 @@
+{
+  "id": "grigorie-17-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:grigorie-17",
+    "person:victor-24",
+    "person:geminus-of-tracia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 17
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5544be20-a3a7-477b-9a82-eb64f7dc3fa9",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

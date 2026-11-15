@@ -1,0 +1,21 @@
+{
+  "id": "atanasia-of-eghina",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Atanasia din Eghina, făcătoarea de minuni",
+    "full": "Sfânta Cuvioasă Atanasia din Eghina, făcătoarea de minuni",
+    "short": "Atanasia din Eghina, făcătoarea de minuni",
+    "given": "Atanasia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0a3f4929-fb82-4d07-876d-eb15f42749af",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

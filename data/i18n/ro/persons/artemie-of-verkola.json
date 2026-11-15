@@ -1,0 +1,20 @@
+{
+  "id": "artemie-of-verkola",
+  "locale": "ro",
+  "names": {
+    "display": "Dreptul Artemie din Verkola",
+    "short": "Artemie din Verkola",
+    "given": "Artemie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/49317146-11aa-4a94-9972-cd40bced5798#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

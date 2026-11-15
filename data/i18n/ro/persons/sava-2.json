@@ -1,0 +1,21 @@
+{
+  "id": "sava-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Sava, nevoitor din Sicilia Italiei",
+    "full": "Sfântul Cuvios Sava, nevoitor din Sicilia Italiei",
+    "short": "Sava, nevoitor din Sicilia Italiei",
+    "given": "Sava"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/bad4d943-4380-4f4a-9872-3c48a857187a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

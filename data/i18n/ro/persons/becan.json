@@ -1,0 +1,21 @@
+{
+  "id": "becan",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Becan, unul din cei doisprezece Ap. ai Irlandei",
+    "full": "Sfântul Cuvios Becan, unul din cei doisprezece Apostoli ai Irlandei",
+    "short": "Becan, unul din cei doisprezece Apostoli ai Irlandei",
+    "given": "Becan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a2bad054-a705-4ca3-ab33-f1f23243105f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

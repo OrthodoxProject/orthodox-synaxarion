@@ -1,0 +1,21 @@
+{
+  "id": "vitimion",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Vitimion, nevoitor la Sketis în Egipt",
+    "full": "Sfântul Cuvios Vitimion, nevoitor la Sketis în Egipt",
+    "short": "Vitimion, nevoitor la Sketis în Egipt",
+    "given": "Vitimion"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f0149f2e-49db-4cc1-b548-3d1ef4a4be1a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

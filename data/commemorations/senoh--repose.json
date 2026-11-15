@@ -1,0 +1,26 @@
+{
+  "id": "senoh--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:senoh"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 24
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b416d6c8-81b4-45e9-a671-bee3a8a30fb8",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "agia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Agia, călugăriță la Mănăstirea Mons din Belgia",
+    "full": "Sfânta Cuvioasă Agia, călugăriță la Mănăstirea Mons din Belgia",
+    "short": "Agia, călugăriță la Mănăstirea Mons din Belgia",
+    "given": "Agia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/04a550e1-6cd7-414f-8345-b721a2efabdc",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

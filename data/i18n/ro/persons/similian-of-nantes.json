@@ -1,0 +1,21 @@
+{
+  "id": "similian-of-nantes",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Similian, episcop de Nantes în Franța",
+    "full": "Sfântul Ierarh Similian, episcop de Nantes în Franța",
+    "short": "Similian, episcop de Nantes în Franța",
+    "given": "Similian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c0340a92-5577-4cfe-b86c-ff611ab01a48",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

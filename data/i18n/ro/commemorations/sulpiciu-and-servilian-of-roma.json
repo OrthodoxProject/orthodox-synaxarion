@@ -1,0 +1,18 @@
+{
+  "id": "sulpiciu-and-servilian-of-roma",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici Sulpiciu și Servilian din Roma"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/adca7abe-de76-43a6-ba72-c09d5c659063",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

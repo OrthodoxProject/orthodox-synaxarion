@@ -1,0 +1,18 @@
+{
+  "id": "saturnin-3-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici Saturnin, Iachisol, Faustian, Ianuarie, Marsalie, Eufrasie, Mamin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/353",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

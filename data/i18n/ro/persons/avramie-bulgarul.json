@@ -1,0 +1,21 @@
+{
+  "id": "avramie-bulgarul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Avramie Bulgarul, făcătorul de minuni din Vladimir",
+    "full": "Sfântul Mucenic Avramie Bulgarul, făcătorul de minuni din Vladimir",
+    "short": "Avramie Bulgarul, făcătorul de minuni din Vladimir",
+    "given": "Avramie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/05b65da2-3df2-4393-ba7a-5a81795ae354",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

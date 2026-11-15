@@ -1,0 +1,23 @@
+{
+  "id": "synaxis-of-noi-martiri-of-sarov",
+  "locale": "ro",
+  "names": {
+    "display": "Soborul Sfinților Noi Martiri din Sarov: Anatolie, Vasile, Ierotei, Isaac și Rufin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/602fa303-170c-4a6a-8f12-1d3186077b42",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/171033ab-13c5-4046-b3ae-48bfe5f8c89d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

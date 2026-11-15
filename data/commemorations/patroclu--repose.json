@@ -1,0 +1,26 @@
+{
+  "id": "patroclu--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:patroclu"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 21
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e9de37aa-5ed9-4a16-8577-efba30a61a18",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

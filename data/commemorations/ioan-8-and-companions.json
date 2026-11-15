@@ -1,0 +1,28 @@
+{
+  "id": "ioan-8-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:ioan-8",
+    "person:timotei",
+    "person:vladimir-of-rusia-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 3
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6bafafab-0875-4fdf-8f58-6e552b6f8ecd",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

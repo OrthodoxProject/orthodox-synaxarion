@@ -1,0 +1,21 @@
+{
+  "id": "papa-of-larand-in-licaonia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Papa din Larand în Licaonia",
+    "full": "Sfântul Mucenic Papa din Larand în Licaonia",
+    "short": "Papa din Larand în Licaonia",
+    "given": "Papa"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/36dcfb7b-0476-4476-aefb-62c5204bd395",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

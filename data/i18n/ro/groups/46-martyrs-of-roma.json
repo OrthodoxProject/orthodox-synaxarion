@@ -1,0 +1,18 @@
+{
+  "id": "46-martyrs-of-roma",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții 46 de Mucenici din Roma"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ea21ac05-bf10-4b10-8f0d-8da75bc2e99e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "agnel--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:agnel"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 14
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1d156fc4-0368-4e2d-acb7-38272774e03a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

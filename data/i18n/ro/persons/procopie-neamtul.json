@@ -1,0 +1,21 @@
+{
+  "id": "procopie-neamtul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Procopie Neamțul, nebun pentru Hristos din Ustiug în Rusia",
+    "full": "Sfântul Cuvios Procopie Neamțul, nebun pentru Hristos din Ustiug în Rusia",
+    "short": "Procopie Neamțul, nebun pentru Hristos din Ustiug în Rusia",
+    "given": "Procopie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d09d92e2-54cf-43ca-8cf2-57a98e04499b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

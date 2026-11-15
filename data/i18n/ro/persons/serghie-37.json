@@ -1,0 +1,20 @@
+{
+  "id": "serghie-37",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Serghie (Florinski)",
+    "short": "Serghie (Florinski)",
+    "given": "Serghie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f26ab1e2-91c4-4ded-abdd-9321842ce7b7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "440-martyrs-of-italia",
+  "kind": "repose",
+  "subjects": [
+    "group:440-martyrs-of-italia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 2
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/888039a3-44c2-408e-98b1-9c6693723652",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

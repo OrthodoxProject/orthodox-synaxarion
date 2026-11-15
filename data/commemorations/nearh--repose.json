@@ -1,0 +1,26 @@
+{
+  "id": "nearh--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:nearh"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 22
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/17ec3b7a-36a0-431b-9141-d1cec336110a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "afra--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:afra"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 24
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/902719ed-bbdf-4521-83f9-c8097364846f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

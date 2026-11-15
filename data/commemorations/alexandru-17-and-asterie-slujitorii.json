@@ -1,0 +1,27 @@
+{
+  "id": "alexandru-17-and-asterie-slujitorii",
+  "kind": "repose",
+  "subjects": [
+    "person:alexandru-17",
+    "person:asterie-slujitorii"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 20
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/af3de31d-5e19-4252-8b10-11c63dc4ffce",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

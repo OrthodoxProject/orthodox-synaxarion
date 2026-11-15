@@ -1,0 +1,21 @@
+{
+  "id": "iusic",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Iusic, fiul Sfântului Cuv. Vertanie",
+    "full": "Sfântul Mucenic Iusic, fiul Sfântului Cuvios Vertanie",
+    "short": "Iusic, fiul Sfântului Cuvios Vertanie",
+    "given": "Iusic"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2f1c75a0-561d-42de-be02-46e8e6d2c050#3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

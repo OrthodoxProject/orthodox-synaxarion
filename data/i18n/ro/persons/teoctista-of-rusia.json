@@ -1,0 +1,21 @@
+{
+  "id": "teoctista-of-rusia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Teoctista (Cențova) din Rusia",
+    "full": "Sfânta Muceniță Teoctista (Cențova) din Rusia",
+    "short": "Teoctista (Cențova) din Rusia",
+    "given": "Teoctista"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/73222440-5967-483e-ad90-cfe56c641bfb#5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

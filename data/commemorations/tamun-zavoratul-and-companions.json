@@ -1,0 +1,32 @@
+{
+  "id": "tamun-zavoratul-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:tamun-zavoratul",
+    "person:efrem",
+    "person:ieremia-2",
+    "person:ioan-24",
+    "person:hariton-3",
+    "person:atic-2",
+    "person:grigorie-of-antiohia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 25
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8f29cfe1-6d00-48dc-b57c-11b3f79fad4d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "rufin-of-capua",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Rufin, episcop de Capua în Italia",
+    "full": "Sfântul Ierarh Rufin, episcop de Capua în Italia",
+    "short": "Rufin, episcop de Capua în Italia",
+    "given": "Rufin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3d9a680f-d104-441f-aae6-28645328f7ef",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

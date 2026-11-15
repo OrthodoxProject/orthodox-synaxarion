@@ -1,0 +1,26 @@
+{
+  "id": "ilarin-of-arezzo-in-italia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:ilarin-of-arezzo-in-italia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 16
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e729acfd-52ec-40c5-9c4b-9cc47de6ea4e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

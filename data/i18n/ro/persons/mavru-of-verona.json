@@ -1,0 +1,21 @@
+{
+  "id": "mavru-of-verona",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Mavru, episcop de Verona în Italia",
+    "full": "Sfântul Ierarh Mavru, episcop de Verona în Italia",
+    "short": "Mavru, episcop de Verona în Italia",
+    "given": "Mavru"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4547fc3d-596f-4ae7-ab9b-110b3ac2b768",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "nerovie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Nerovie, monah la Bobbio în Mănăstirea Sfântului Columban",
+    "full": "Sfântul Cuvios Nerovie, monah la Bobbio în Mănăstirea Sfântului Columban",
+    "short": "Nerovie, monah la Bobbio în Mănăstirea Sfântului Columban",
+    "given": "Nerovie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/eed749ce-9ec9-4633-bb7a-445d064a49bd",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

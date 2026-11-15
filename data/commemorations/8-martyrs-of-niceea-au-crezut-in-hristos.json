@@ -1,0 +1,26 @@
+{
+  "id": "8-martyrs-of-niceea-au-crezut-in-hristos",
+  "kind": "repose",
+  "subjects": [
+    "group:8-martyrs-of-niceea-au-crezut-in-hristos"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 12
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/007c9196-cfe9-4a9c-8de4-5e6f944602c1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

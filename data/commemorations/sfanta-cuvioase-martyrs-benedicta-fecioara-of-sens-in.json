@@ -1,0 +1,26 @@
+{
+  "id": "sfanta-cuvioase-martyrs-benedicta-fecioara-of-sens-in",
+  "kind": "repose",
+  "subjects": [
+    "group:sfanta-cuvioase-martyrs-benedicta-fecioara-of-sens-in"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 29
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/13861a38-dbce-4a48-809f-f591abd9a84b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

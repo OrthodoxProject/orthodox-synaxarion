@@ -1,0 +1,20 @@
+{
+  "id": "igor",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Igor",
+    "short": "Igor",
+    "given": "Igor"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e14ae162-8c6b-495d-91ae-91715a53106c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

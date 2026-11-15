@@ -1,0 +1,26 @@
+{
+  "id": "ioan-of-irinopole--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:ioan-of-irinopole"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 4
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/435a936e-8dd2-4b3c-8fe8-a619990dc15b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "lugaid--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:lugaid"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 4
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/55e86e2a-1fcf-4ef1-b867-ed0d27599028",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

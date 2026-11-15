@@ -1,0 +1,21 @@
+{
+  "id": "tetric-of-auxerre",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Tetric, episcop de Auxerre în Franța",
+    "full": "Sfântul Sfințit Mucenic Tetric, episcop de Auxerre în Franța",
+    "short": "Tetric, episcop de Auxerre în Franța",
+    "given": "Tetric"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c98223d5-767e-487d-b054-425362b0d6fd",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

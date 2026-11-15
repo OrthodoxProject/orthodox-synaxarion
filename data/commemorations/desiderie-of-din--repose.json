@@ -1,0 +1,26 @@
+{
+  "id": "desiderie-of-din--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:desiderie-of-din"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 23
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/25db11de-bc18-4100-850d-e8c2ac7dfc89",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

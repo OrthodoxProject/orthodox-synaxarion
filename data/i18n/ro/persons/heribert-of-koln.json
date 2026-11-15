@@ -1,0 +1,21 @@
+{
+  "id": "heribert-of-koln",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Heribert, arhiepiscop de Köln în Germania",
+    "full": "Sfântul Ierarh Heribert, arhiepiscop de Köln în Germania",
+    "short": "Heribert, arhiepiscop de Köln în Germania",
+    "given": "Heribert"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2eb8ede0-5310-46b4-b31d-a639ea91598f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

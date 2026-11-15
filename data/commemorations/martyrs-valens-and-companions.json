@@ -1,0 +1,26 @@
+{
+  "id": "martyrs-valens-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "group:martyrs-valens-and-companions"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 21
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/895bc8e3-3f43-4313-9c8b-1f494b0ef0b9",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

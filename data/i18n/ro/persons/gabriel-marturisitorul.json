@@ -1,0 +1,21 @@
+{
+  "id": "gabriel-marturisitorul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Gabriel Mărturisitorul, arhimandrit la Meleress-Saratov în Rusia",
+    "full": "Sfântul Cuvios Gabriel Mărturisitorul, arhimandrit la Meleress-Saratov în Rusia",
+    "short": "Gabriel Mărturisitorul, arhimandrit la Meleress-Saratov în Rusia",
+    "given": "Gabriel"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0d1e7edd-eb4f-488f-829f-d5c3240ea95f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

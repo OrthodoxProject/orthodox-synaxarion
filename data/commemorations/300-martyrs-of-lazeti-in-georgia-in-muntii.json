@@ -1,0 +1,26 @@
+{
+  "id": "300-martyrs-of-lazeti-in-georgia-in-muntii",
+  "kind": "repose",
+  "subjects": [
+    "group:300-martyrs-of-lazeti-in-georgia-in-muntii"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 29
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3f95c571-e06b-47e7-93a5-8960e7f67b1e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

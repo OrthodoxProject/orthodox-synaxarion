@@ -1,0 +1,20 @@
+{
+  "id": "felix-of-trier",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Felix, episcop de Trier în Germania",
+    "short": "Felix, episcop de Trier în Germania",
+    "given": "Felix"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e0c8ae3b-9bad-4c90-bfef-4526481aac8a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

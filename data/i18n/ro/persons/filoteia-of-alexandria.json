@@ -1,0 +1,21 @@
+{
+  "id": "filoteia-of-alexandria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Filoteia din Alexandria",
+    "full": "Sfânta Muceniță Filoteia din Alexandria",
+    "short": "Filoteia din Alexandria",
+    "given": "Filoteia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ae7fc17f-3ec5-4374-b708-4c0d248058d4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

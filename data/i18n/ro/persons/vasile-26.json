@@ -1,0 +1,21 @@
+{
+  "id": "vasile-26",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Vasile, întemeietorul Mănăstirii de la Pârâul Adânc din Olimpul Bitiniei",
+    "full": "Sfântul Cuvios Vasile, întemeietorul Mănăstirii de la Pârâul Adânc din Olimpul Bitiniei",
+    "short": "Vasile, întemeietorul Mănăstirii de la Pârâul Adânc din Olimpul Bitiniei",
+    "given": "Vasile"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/aab91e28-4078-4552-9529-a42d6273f606",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

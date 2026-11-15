@@ -1,0 +1,18 @@
+{
+  "id": "sperat-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici Sperat, Veronichie, Nartzal, Citin, Felix, Acvilin și Letanție"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/517833a8-a70d-4bb1-a995-7aa6e395a0d2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

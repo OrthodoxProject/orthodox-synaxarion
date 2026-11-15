@@ -1,0 +1,21 @@
+{
+  "id": "grigorie-15",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Nou Mc. Grigorie, purtătorul de cruce",
+    "full": "Sfântul Nou Mucenic Grigorie, purtătorul de cruce",
+    "short": "Grigorie, purtătorul de cruce",
+    "given": "Grigorie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/21c5611c-f9bf-4566-b10d-fa3128d7c9de",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

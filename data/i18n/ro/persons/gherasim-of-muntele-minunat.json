@@ -1,0 +1,21 @@
+{
+  "id": "gherasim-of-muntele-minunat",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Gherasim, starețul Mănăstirii „Sfântul Simeon din Muntele Minunat”",
+    "full": "Sfântul Cuvios Gherasim, starețul Mănăstirii „Sfântul Simeon din Muntele Minunat”",
+    "short": "Gherasim, starețul Mănăstirii „Sfântul Simeon din Muntele Minunat”",
+    "given": "Gherasim"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/bac56f9a-ab1e-4773-b4d0-2e6b27a797e9",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

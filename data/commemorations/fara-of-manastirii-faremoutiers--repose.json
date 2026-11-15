@@ -1,0 +1,26 @@
+{
+  "id": "fara-of-manastirii-faremoutiers--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:fara-of-manastirii-faremoutiers"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 3
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7e8e9ab5-9b70-490e-83c4-a9bd5355c872",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

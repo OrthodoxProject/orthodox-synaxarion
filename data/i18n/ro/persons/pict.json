@@ -1,0 +1,20 @@
+{
+  "id": "pict",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Pict",
+    "short": "Pict",
+    "given": "Pict"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/94ad5d80-e03c-4f2e-bc20-15899ea4baa5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

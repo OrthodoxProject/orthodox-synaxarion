@@ -1,0 +1,20 @@
+{
+  "id": "terentie-4",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Terentie",
+    "short": "Terentie",
+    "given": "Terentie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/63a53043-2d4a-487c-b96c-61bee133eff5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

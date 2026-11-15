@@ -1,0 +1,21 @@
+{
+  "id": "richard",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Richard, prinț de Wessex în Marea Britanie",
+    "full": "Sfântul Richard, prinț de Wessex în Marea Britanie",
+    "short": "Richard, prinț de Wessex în Marea Britanie",
+    "given": "Richard"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4fb9a7d5-46e8-4903-8dea-eda8809a8fda",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

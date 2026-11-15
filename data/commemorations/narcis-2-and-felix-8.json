@@ -1,0 +1,27 @@
+{
+  "id": "narcis-2-and-felix-8",
+  "kind": "repose",
+  "subjects": [
+    "person:narcis-2",
+    "person:felix-8"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 18
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8491949a-8342-49c6-8006-7b9f84496cef",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

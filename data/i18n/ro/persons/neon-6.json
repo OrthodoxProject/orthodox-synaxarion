@@ -1,0 +1,20 @@
+{
+  "id": "neon-6",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Neon",
+    "short": "Neon",
+    "given": "Neon"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1b598cd8-cfaf-407c-84e7-b98f9d0abb2d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

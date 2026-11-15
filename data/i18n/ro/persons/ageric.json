@@ -1,0 +1,21 @@
+{
+  "id": "ageric",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ageric, stareț la Tours în Franța",
+    "full": "Sfântul Cuvios Ageric, stareț la Tours în Franța",
+    "short": "Ageric, stareț la Tours în Franța",
+    "given": "Ageric"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ab6177fa-ed29-40e3-9f99-de527b51bab3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

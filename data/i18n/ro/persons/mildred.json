@@ -1,0 +1,21 @@
+{
+  "id": "mildred",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mildred, stareță la Thanet în Anglia",
+    "full": "Sfânta Cuvioasă Mildred, stareță la Thanet în Anglia",
+    "short": "Mildred, stareță la Thanet în Anglia",
+    "given": "Mildred"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/eddf3b25-0d1c-4769-a28f-81f771d18537",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

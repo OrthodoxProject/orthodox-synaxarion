@@ -1,0 +1,20 @@
+{
+  "id": "evdochim-of-capadocia-la-constantinopol",
+  "locale": "ro",
+  "names": {
+    "display": "Dreptul Evdochim din Capadocia la Constantinopol",
+    "short": "Evdochim din Capadocia la Constantinopol",
+    "given": "Evdochim"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/db73e147-afd7-4725-9e93-8bb80889ec80#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

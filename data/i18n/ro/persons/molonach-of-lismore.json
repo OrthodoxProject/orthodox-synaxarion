@@ -1,0 +1,21 @@
+{
+  "id": "molonach-of-lismore",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Molonach, episcop de Lismore în Scoția",
+    "full": "Sfântul Ierarh Molonach, episcop de Lismore în Scoția",
+    "short": "Molonach, episcop de Lismore în Scoția",
+    "given": "Molonach"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3bfdac18-bdde-4a4d-9dd2-d360a77927e3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

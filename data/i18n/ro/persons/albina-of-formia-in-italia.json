@@ -1,0 +1,21 @@
+{
+  "id": "albina-of-formia-in-italia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Albina din Formia în Italia",
+    "full": "Sfânta Muceniță Albina din Formia în Italia",
+    "short": "Albina din Formia în Italia",
+    "given": "Albina"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b3525130-dd54-453c-a6a4-604b6885f563",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

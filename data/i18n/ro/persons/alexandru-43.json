@@ -1,0 +1,20 @@
+{
+  "id": "alexandru-43",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Alexandru (Axenov)",
+    "short": "Alexandru (Axenov)",
+    "given": "Alexandru"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0715d00c-284a-46e6-99e1-ee6302dc0381",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

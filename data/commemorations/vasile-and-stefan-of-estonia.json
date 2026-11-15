@@ -1,0 +1,27 @@
+{
+  "id": "vasile-and-stefan-of-estonia",
+  "kind": "repose",
+  "subjects": [
+    "person:vasile",
+    "person:stefan-of-estonia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 12
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/95dd0451-3c80-4ea1-8ddd-80d8532c5986",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

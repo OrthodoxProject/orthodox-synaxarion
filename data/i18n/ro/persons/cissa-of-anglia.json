@@ -1,0 +1,21 @@
+{
+  "id": "cissa-of-anglia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Cissa, egumen la Mănăstirea Crowland din Anglia",
+    "full": "Sfântul Cuvios Cissa, egumen la Mănăstirea Crowland din Anglia",
+    "short": "Cissa, egumen la Mănăstirea Crowland din Anglia",
+    "given": "Cissa"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/dfdb43fd-6035-4d49-99f1-800ff9da30d8",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "iacov-of-amatura-in-liban--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:iacov-of-amatura-in-liban"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 13
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/bcef7338-89f0-4fc8-9f72-74191a20da2b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

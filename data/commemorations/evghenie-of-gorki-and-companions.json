@@ -1,0 +1,38 @@
+{
+  "id": "evghenie-of-gorki-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:evghenie-of-gorki",
+    "person:petru-34",
+    "person:mihail-38",
+    "person:ioan-63",
+    "person:ioan-64",
+    "person:stefan-23",
+    "person:grigorie-14",
+    "person:vasile-36",
+    "person:alexandru-41",
+    "person:evghenie-5",
+    "person:nicolae-44",
+    "person:pahomie-3",
+    "person:leon-of-rusia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 7
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c6cc942a-7ab5-4205-b73b-af4cf6139fe6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

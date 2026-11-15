@@ -1,0 +1,20 @@
+{
+  "id": "iona-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Iona",
+    "short": "Iona",
+    "given": "Iona"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6052bad2-441f-4f60-bda8-87d15235e810#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

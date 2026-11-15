@@ -1,0 +1,32 @@
+{
+  "id": "nicolae-5-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:nicolae-5",
+    "person:ioan-3",
+    "person:ioan-4",
+    "person:ioan-5",
+    "person:iacov",
+    "person:ioan-6",
+    "person:petru-of-rusia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 22
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/176c1d57-1627-45cf-a3f7-1a518aa37490",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

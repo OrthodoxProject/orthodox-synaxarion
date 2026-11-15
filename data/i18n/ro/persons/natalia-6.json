@@ -1,0 +1,20 @@
+{
+  "id": "natalia-6",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințită Nouă Mc. Natalia (Sunducov)",
+    "short": "Natalia (Sunducov)",
+    "given": "Natalia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/50595283-8c48-4f64-b034-5a6b06d18e11",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

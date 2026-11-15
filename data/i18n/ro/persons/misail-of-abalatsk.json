@@ -1,0 +1,21 @@
+{
+  "id": "misail-of-abalatsk",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Misail din Abalatsk",
+    "full": "Sfântul Cuvios Misail din Abalatsk",
+    "short": "Misail din Abalatsk",
+    "given": "Misail"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7c7a1c36-e1c1-4df7-b5dd-a1247fb1b099",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

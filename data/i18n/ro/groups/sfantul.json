@@ -1,0 +1,18 @@
+{
+  "id": "sfantul",
+  "locale": "ro",
+  "names": {
+    "display": "Sfântul"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/116",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "gherman-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Gherman, propovăduitor la Normandia în Franța",
+    "full": "Sfântul Mucenic Gherman, propovăduitor la Normandia în Franța",
+    "short": "Gherman, propovăduitor la Normandia în Franța",
+    "given": "Gherman"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a9f16667-b437-403a-ad82-a4b96e98f671",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

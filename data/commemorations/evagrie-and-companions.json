@@ -1,0 +1,33 @@
+{
+  "id": "evagrie-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:evagrie",
+    "person:benign-2",
+    "person:christus",
+    "person:arestus",
+    "person:kinnudius",
+    "person:rufus-2",
+    "person:patricius",
+    "person:zosima-of-tomis-in-dobrogea"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 3
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c897abcd-9a13-47a9-ade7-b029704ebd39",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

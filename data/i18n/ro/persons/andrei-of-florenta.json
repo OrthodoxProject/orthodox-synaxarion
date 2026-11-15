@@ -1,0 +1,21 @@
+{
+  "id": "andrei-of-florenta",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Andrei, episcop de Florența",
+    "full": "Sfântul Ierarh Andrei, episcop de Florența",
+    "short": "Andrei, episcop de Florența",
+    "given": "Andrei"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/95db4cff-6164-40c5-99da-c10f8efbd16d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

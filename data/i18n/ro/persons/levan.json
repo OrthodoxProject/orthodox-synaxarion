@@ -1,0 +1,21 @@
+{
+  "id": "levan",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Levan, pustnic în Irlanda",
+    "full": "Sfântul Cuvios Levan, pustnic în Irlanda",
+    "short": "Levan, pustnic în Irlanda",
+    "given": "Levan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/35f7ac10-4b8e-4d82-8485-ece323c09de6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

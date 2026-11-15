@@ -1,0 +1,21 @@
+{
+  "id": "everilda-of-manastirii-everingham",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Everilda, stareța Mănăstirii Everingham din Anglia",
+    "full": "Sfânta Cuvioasă Everilda, stareța Mănăstirii Everingham din Anglia",
+    "short": "Everilda, stareța Mănăstirii Everingham din Anglia",
+    "given": "Everilda"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b4da2121-cf23-4259-b2d8-721570c54eea",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "prischie-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Prischie, primul episcop de Papua în Italia",
+    "full": "Sfântul Sfințit Mucenic Prischie, primul episcop de Papua în Italia",
+    "short": "Prischie, primul episcop de Papua în Italia",
+    "given": "Prischie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d7644d76-a659-45a0-8955-7ef994aa72a0",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

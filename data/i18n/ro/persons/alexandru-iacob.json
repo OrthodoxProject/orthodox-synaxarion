@@ -1,0 +1,20 @@
+{
+  "id": "alexandru-iacob",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Nou Mc. Alexandru (Pospelov); Iacob (Gusev)",
+    "short": "Alexandru (Pospelov); Iacob (Gusev)",
+    "given": "Alexandru"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a4865ce8-0a73-4324-97dd-d25d6d72ce16",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

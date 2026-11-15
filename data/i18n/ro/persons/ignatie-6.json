@@ -1,0 +1,21 @@
+{
+  "id": "ignatie-6",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Preacuviosul Nou Mc. Ignatie",
+    "full": "Sfântul Preacuviosul Nou Mucenic Ignatie",
+    "short": "Ignatie",
+    "given": "Ignatie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/dbf6605d-27b0-4e08-b2b3-ff95e059d5f1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

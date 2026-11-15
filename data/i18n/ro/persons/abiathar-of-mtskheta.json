@@ -1,0 +1,21 @@
+{
+  "id": "abiathar-of-mtskheta",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Abiathar de la Mtskheta",
+    "full": "Sfântul Abiathar de la Mtskheta",
+    "short": "Abiathar de la Mtskheta",
+    "given": "Abiathar"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/87bd7cc1-5bdb-4bde-848e-c542a09ba5bd",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

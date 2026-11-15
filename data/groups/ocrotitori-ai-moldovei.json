@@ -1,0 +1,18 @@
+{
+  "id": "ocrotitori-ai-moldovei",
+  "kind": "other",
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2a294d9a-a948-47e1-93c5-3ff6dc485129",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "bun-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:bun",
+    "person:calomniosie",
+    "person:chiril-5",
+    "person:cartul",
+    "person:faust-6",
+    "person:ioan-48",
+    "person:vasile-31",
+    "person:mavru",
+    "person:exuperie",
+    "person:teodor-20",
+    "person:onorat-of-roma"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 1
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2cc1193f-5ea0-4d29-b867-a12817fd3179",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "sfantul-mucenic-fortunat-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sfântul Mucenic Fortunat și cei împreună cu el"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7cd5da65-acfe-4583-98ca-47354e490d06",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

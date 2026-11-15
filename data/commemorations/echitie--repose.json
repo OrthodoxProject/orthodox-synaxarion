@@ -1,0 +1,26 @@
+{
+  "id": "echitie--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:echitie"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 11
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/06d902c7-ff6d-49c9-bb16-489726029241",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

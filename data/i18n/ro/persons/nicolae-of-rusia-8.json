@@ -1,0 +1,21 @@
+{
+  "id": "nicolae-of-rusia-8",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Nicolae (Biriukov) din Rusia",
+    "full": "Sfântul Sfințit Mucenic Nicolae (Biriukov) din Rusia",
+    "short": "Nicolae (Biriukov) din Rusia",
+    "given": "Nicolae"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3b1870a3-78d5-45f4-96d6-e1de873260d6#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

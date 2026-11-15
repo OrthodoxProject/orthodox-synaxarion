@@ -1,0 +1,20 @@
+{
+  "id": "malh-of-siria",
+  "locale": "ro",
+  "names": {
+    "display": "Cuviosul Malh din Siria",
+    "short": "Malh din Siria",
+    "given": "Malh"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/08da773a-720f-44a0-bb58-7516615d7c65",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

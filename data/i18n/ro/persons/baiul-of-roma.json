@@ -1,0 +1,20 @@
+{
+  "id": "baiul-of-roma",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Baiul din Roma",
+    "short": "Baiul din Roma",
+    "given": "Baiul"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d1940644-25eb-4dde-9ed0-743cddd55b32",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

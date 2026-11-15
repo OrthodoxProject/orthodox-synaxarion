@@ -1,0 +1,26 @@
+{
+  "id": "pusinna-fecioara-of-champagne-in-franta--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:pusinna-fecioara-of-champagne-in-franta"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 23
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9d4f3283-5e46-4d95-ac83-55f8722ad2c7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "prealaudata-eufimia-fecioara-of-calcedon",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mare Mc. și Prealăudata Eufimia fecioara din Calcedon",
+    "full": "Sfânta Mare Muceniță și Prealăudata Eufimia fecioara din Calcedon",
+    "short": "Prealăudata Eufimia fecioara din Calcedon",
+    "given": "Prealăudata"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/805",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

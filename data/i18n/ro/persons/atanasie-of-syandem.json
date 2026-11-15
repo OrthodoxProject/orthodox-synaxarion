@@ -1,0 +1,20 @@
+{
+  "id": "atanasie-of-syandem",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Atanasie de la Syandem",
+    "short": "Atanasie de la Syandem",
+    "given": "Atanasie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2d5cb45c-5a41-4fdb-b9ec-4a9007daa2b7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

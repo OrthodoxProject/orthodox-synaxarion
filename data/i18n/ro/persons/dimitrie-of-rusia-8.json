@@ -1,0 +1,20 @@
+{
+  "id": "dimitrie-of-rusia-8",
+  "locale": "ro",
+  "names": {
+    "display": "Cuviosul Mc. Dimitrie (Spiridonov) din Rusia",
+    "short": "Dimitrie (Spiridonov) din Rusia",
+    "given": "Dimitrie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/971#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "martyrs-diogen",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici Diogen"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0af029f9-57ee-4404-af04-b9640e1f1e5a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

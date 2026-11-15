@@ -1,0 +1,21 @@
+{
+  "id": "evstatie-of-franta",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Evstatie, egumenul Mănăstirii Luxeuil din Franța și ucenicul Sfântului Colomban din Irlanda",
+    "full": "Sfântul Cuvios Evstatie, egumenul Mănăstirii Luxeuil din Franța și ucenicul Sfântului Colomban din Irlanda",
+    "short": "Evstatie, egumenul Mănăstirii Luxeuil din Franța, ucenicul Sfântului Colomban din Irlanda",
+    "given": "Evstatie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b6e016ac-fefb-40aa-81e8-28038192f52a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

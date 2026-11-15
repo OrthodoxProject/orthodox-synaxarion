@@ -1,0 +1,21 @@
+{
+  "id": "asteria",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Asteria, fecioară din Bergamo în Italia",
+    "full": "Sfânta Muceniță Asteria, fecioară din Bergamo în Italia",
+    "short": "Asteria, fecioară din Bergamo în Italia",
+    "given": "Asteria"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1fd54304-6634-4de5-96f4-4c98ee6efe26",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

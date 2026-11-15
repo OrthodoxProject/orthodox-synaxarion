@@ -1,0 +1,21 @@
+{
+  "id": "iosif-of-creta",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Iosif din Creta",
+    "full": "Sfântul Cuvios Iosif din Creta",
+    "short": "Iosif din Creta",
+    "given": "Iosif"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/875193ae-2a3d-4ca0-836f-e103ed1a02c9",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

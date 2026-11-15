@@ -1,0 +1,26 @@
+{
+  "id": "iosif-of-capadocia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:iosif-of-capadocia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 11
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/159b01fa-855f-4dee-a5a3-8e1c3521e061",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

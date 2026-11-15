@@ -1,0 +1,18 @@
+{
+  "id": "sfantul-mucenic-felix-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sfântul Mucenic Felix și cei împreună cu el"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/25c6429e-df7b-4459-85c7-9f6965de0eb4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

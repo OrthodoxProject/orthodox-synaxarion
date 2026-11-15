@@ -1,0 +1,21 @@
+{
+  "id": "cristiana-of-belgia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cristiana din Belgia",
+    "full": "Sfânta Cristiana din Belgia",
+    "short": "Cristiana din Belgia",
+    "given": "Cristiana"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0c58502f-88bd-41f4-ac8f-02487349ee16",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

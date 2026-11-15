@@ -1,0 +1,20 @@
+{
+  "id": "ieremia-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ieremia",
+    "short": "Ieremia",
+    "given": "Ieremia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8f29cfe1-6d00-48dc-b57c-11b3f79fad4d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

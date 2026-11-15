@@ -1,0 +1,26 @@
+{
+  "id": "suhie-andrei--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:suhie-andrei"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 15
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8c175c79-26a8-4eb5-acf1-e1931de0d22c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

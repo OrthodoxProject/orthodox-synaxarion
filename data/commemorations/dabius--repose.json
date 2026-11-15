@@ -1,0 +1,26 @@
+{
+  "id": "dabius--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:dabius"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 22
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2bc8bf04-7204-46b7-9601-28209e0bccdf",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

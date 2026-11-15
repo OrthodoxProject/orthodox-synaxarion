@@ -1,0 +1,21 @@
+{
+  "id": "macarie-of-rusia",
+  "locale": "ro",
+  "names": {
+    "display": "Cuviosul Mc. Macarie (Smirnov) din Rusia",
+    "full": "Cuviosul Mucenic Macarie (Smirnov) din Rusia",
+    "short": "Macarie (Smirnov) din Rusia",
+    "given": "Macarie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7975c75d-1f01-4b47-8077-f0d6c629a117#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

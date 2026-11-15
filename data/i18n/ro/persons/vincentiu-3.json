@@ -1,0 +1,21 @@
+{
+  "id": "vincentiu-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Vincențiu, diacon din Agen în Franța",
+    "full": "Sfântul Sfințit Mucenic Vincențiu, diacon din Agen în Franța",
+    "short": "Vincențiu, diacon din Agen în Franța",
+    "given": "Vincențiu"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3b4567f0-12e4-4050-b236-044b65b79637",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

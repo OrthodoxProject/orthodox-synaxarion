@@ -1,0 +1,21 @@
+{
+  "id": "gunifort",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Gunifort",
+    "full": "Sfântul Mucenic Gunifort",
+    "short": "Gunifort",
+    "given": "Gunifort"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2648e855-6310-4a01-9951-b9b0365f48d9",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

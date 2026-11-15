@@ -1,0 +1,26 @@
+{
+  "id": "eufridie--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:eufridie"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 11
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d4bf7074-0ed6-458a-9799-deccf7c0b799",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

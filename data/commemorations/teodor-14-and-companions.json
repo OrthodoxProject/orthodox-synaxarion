@@ -1,0 +1,31 @@
+{
+  "id": "teodor-14-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:teodor-14",
+    "person:iulian-4",
+    "person:evul-2",
+    "person:malcamon",
+    "person:mocim",
+    "person:salaman-of-petra"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 5
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2ea11787-e833-4587-af11-dab297e6c0ad",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

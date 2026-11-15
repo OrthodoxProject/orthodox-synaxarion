@@ -1,0 +1,26 @@
+{
+  "id": "erculan-of-porto-romano-in-italia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:erculan-of-porto-romano-in-italia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 5
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f00ca543-f010-4ef0-990e-c7ac7cec8a1e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

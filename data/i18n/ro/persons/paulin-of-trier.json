@@ -1,0 +1,21 @@
+{
+  "id": "paulin-of-trier",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Paulin, episcop de Trier în Germania",
+    "full": "Sfântul Ierarh Paulin, episcop de Trier în Germania",
+    "short": "Paulin, episcop de Trier în Germania",
+    "given": "Paulin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b80d7460-ec52-4e59-a18d-3372a2ffeaba",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

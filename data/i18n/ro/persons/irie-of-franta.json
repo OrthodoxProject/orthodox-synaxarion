@@ -1,0 +1,21 @@
+{
+  "id": "irie-of-franta",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Irie, stareț din Franța",
+    "full": "Sfântul Cuvios Irie, stareț din Franța",
+    "short": "Irie, stareț din Franța",
+    "given": "Irie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/bb062f01-972c-481a-96c9-2de02a059911",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

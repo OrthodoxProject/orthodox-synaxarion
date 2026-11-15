@@ -1,0 +1,21 @@
+{
+  "id": "mihail-14",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Nou Mc. Mărturisitor, Mihail (Novițkii)",
+    "full": "Sfântul Nou Mucenic Mărturisitor, Mihail (Novițkii)",
+    "short": "Mihail",
+    "given": "Mihail"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/519becaa-f16c-4de7-8fc0-31c1cd7002dc",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "tradition": "moldova",
+  "date": "09-19",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:trophimus-3--repose",
+        "comm:sabbatius--repose",
+        "comm:dorymedon-of-synnada--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:theodore-prince-of-smolensk-and-yaroslav-and-companions"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:zosimas-the-hermit-of-cilicia--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:igor-of-kiev-and-chernigov--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:alexie-soloviev--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:fotim--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:seguanos-of-galia--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:suzana-of-elevteropolis--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:teodor-of-verona--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:ioan-of-spoleto--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:teodor-of-canterbury--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:david-2-and-constantine"
+      ],
+      "differs_from_default": true
+    }
+  ]
+}

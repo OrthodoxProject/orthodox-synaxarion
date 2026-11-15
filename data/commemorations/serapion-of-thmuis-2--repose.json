@@ -1,0 +1,26 @@
+{
+  "id": "serapion-of-thmuis-2--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:serapion-of-thmuis-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 21
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4957b709-0f69-49ce-8825-ddbf2f08db8d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

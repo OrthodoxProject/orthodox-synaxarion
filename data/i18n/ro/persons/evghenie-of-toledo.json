@@ -1,0 +1,21 @@
+{
+  "id": "evghenie-of-toledo",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Evghenie, episcop de Toledo în Spania",
+    "full": "Sfântul Ierarh Evghenie, episcop de Toledo în Spania",
+    "short": "Evghenie, episcop de Toledo în Spania",
+    "given": "Evghenie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/95f91639-6420-4530-8225-60a3932a0362",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

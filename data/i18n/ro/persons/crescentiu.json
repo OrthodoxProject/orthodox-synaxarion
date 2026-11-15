@@ -1,0 +1,21 @@
+{
+  "id": "crescentiu",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Crescențiu",
+    "full": "Sfântul Mucenic Crescențiu",
+    "short": "Crescențiu",
+    "given": "Crescențiu"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f5dffbd9-8b32-49eb-8e9f-3b738e30bf7f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

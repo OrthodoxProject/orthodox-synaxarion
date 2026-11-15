@@ -1,0 +1,18 @@
+{
+  "id": "10-venerable-martyrs",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții 10 Cuvioși Mucenici: Atinoghen, Isihie, Maximin, Amun, Teofrast, Patrofil, Antioh, Cleonic, Petru și Reginos"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/caa5a3e2-153f-4b4c-a989-d438d71faeb2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

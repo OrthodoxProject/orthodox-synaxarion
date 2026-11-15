@@ -1,0 +1,20 @@
+{
+  "id": "ilarie-4",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Ilarie",
+    "short": "Ilarie",
+    "given": "Ilarie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/277ddbe2-f8da-4599-b0c4-e181199d77f5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

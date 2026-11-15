@@ -1,0 +1,20 @@
+{
+  "id": "ermoghen-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Ermoghen",
+    "short": "Ermoghen",
+    "given": "Ermoghen"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/843435e5-85e4-49b0-bd3c-57fccbc7320a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

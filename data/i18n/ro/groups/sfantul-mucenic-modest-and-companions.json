@@ -1,0 +1,18 @@
+{
+  "id": "sfantul-mucenic-modest-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sfântul Mucenic Modest și cei împreună cu ei"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/bd51a08f-4602-4f5a-83a3-c29fee31ed70",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

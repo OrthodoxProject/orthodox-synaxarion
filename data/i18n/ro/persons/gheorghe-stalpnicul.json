@@ -1,0 +1,21 @@
+{
+  "id": "gheorghe-stalpnicul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Gheorghe Stâlpnicul",
+    "full": "Sfântul Cuvios Gheorghe Stâlpnicul",
+    "short": "Gheorghe Stâlpnicul",
+    "given": "Gheorghe"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c0e11e50-6595-44b5-a9f9-07f6a1ba773a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

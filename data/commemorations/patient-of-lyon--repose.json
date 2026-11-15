@@ -1,0 +1,26 @@
+{
+  "id": "patient-of-lyon--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:patient-of-lyon"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 11
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b6e8de11-5c73-4e2a-91ad-3a122d769a56",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

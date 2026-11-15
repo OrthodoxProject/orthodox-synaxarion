@@ -1,0 +1,26 @@
+{
+  "id": "maximian-of-in--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:maximian-of-in"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 9
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3fedd08f-58b0-4a63-9094-2ab697ccd956",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "fortunat-of-roma",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Fortunat din Roma",
+    "full": "Sfântul Mucenic Fortunat din Roma",
+    "short": "Fortunat din Roma",
+    "given": "Fortunat"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7e860cd6-40f4-4343-87d7-ced6fe9fa1e2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

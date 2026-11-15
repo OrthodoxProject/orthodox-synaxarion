@@ -1,0 +1,27 @@
+{
+  "id": "gudwal-of-din-and-evstorghie-of-milano",
+  "kind": "repose",
+  "subjects": [
+    "person:gudwal-of-din",
+    "person:evstorghie-of-milano"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 6
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d386461e-c2f9-4491-8f2b-58c62662f329",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "leucius",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Leucius, egumen la Volokolamsk în Rusia",
+    "full": "Sfântul Cuvios Leucius, egumen la Volokolamsk în Rusia",
+    "short": "Leucius, egumen la Volokolamsk în Rusia",
+    "given": "Leucius"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/52644cb0-a991-46ff-a31d-dbe389075999",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

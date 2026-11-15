@@ -1,0 +1,27 @@
+{
+  "id": "elafius-and-guenin",
+  "kind": "repose",
+  "subjects": [
+    "person:elafius",
+    "person:guenin"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 19
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e85b399d-31ba-4380-93d5-d869c1295cd4#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

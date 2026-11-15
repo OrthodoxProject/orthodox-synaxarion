@@ -1,0 +1,21 @@
+{
+  "id": "icoana-a-maicii-domnului-axion-estin-of",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Icoană a Maicii Domnului „Axion Estin” din Sfântul Munte Athos",
+    "full": "Sfânta Icoană a Maicii Domnului „Axion Estin” din Sfântul Munte Athos",
+    "short": "Icoană a Maicii Domnului „Axion Estin” din Sfântul Munte Athos",
+    "given": "Icoană"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8788239c-18f3-4603-a717-d6e4c0fb8521",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

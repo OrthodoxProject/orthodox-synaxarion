@@ -1,0 +1,20 @@
+{
+  "id": "ciprian-4",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Ciprian",
+    "short": "Ciprian",
+    "given": "Ciprian"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/78ea8e99-66aa-47ca-9230-59dcd56884c7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

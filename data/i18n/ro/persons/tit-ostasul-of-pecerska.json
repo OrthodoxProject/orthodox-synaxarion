@@ -1,0 +1,21 @@
+{
+  "id": "tit-ostasul-of-pecerska",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Tit ostașul de la Pecerska",
+    "full": "Sfântul Cuvios Tit ostașul de la Pecerska",
+    "short": "Tit ostașul de la Pecerska",
+    "given": "Tit"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/90030983-73a8-4a8e-b578-8fd18530a976",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

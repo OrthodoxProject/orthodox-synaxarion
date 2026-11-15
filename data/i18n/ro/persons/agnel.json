@@ -1,0 +1,21 @@
+{
+  "id": "agnel",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Agnel, pustnic, apoi egumen la Mănăstirea San Gaudioso din Italia",
+    "full": "Sfântul Cuvios Agnel, pustnic, apoi egumen la Mănăstirea San Gaudioso din Italia",
+    "short": "Agnel, pustnic, apoi egumen la Mănăstirea San Gaudioso din Italia",
+    "given": "Agnel"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1d156fc4-0368-4e2d-acb7-38272774e03a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

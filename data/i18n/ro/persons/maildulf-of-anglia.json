@@ -1,0 +1,21 @@
+{
+  "id": "maildulf-of-anglia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Maildulf, ctitorul Mănăstirii Malmesbury din Anglia",
+    "full": "Sfântul Cuvios Maildulf, ctitorul Mănăstirii Malmesbury din Anglia",
+    "short": "Maildulf, ctitorul Mănăstirii Malmesbury din Anglia",
+    "given": "Maildulf"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d8adcace-8b80-47b5-8aff-e75c3307fbbd",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

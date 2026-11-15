@@ -1,0 +1,18 @@
+{
+  "id": "carterie-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici Attic, Agapie, Eudoxie, Carterie, Istucarie, Pactobie, Nictopolion și cei împreună cu dînșii"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4e171ed8-c4b1-4790-91cc-22910d7d4a00",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

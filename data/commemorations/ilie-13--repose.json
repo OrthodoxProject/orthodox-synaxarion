@@ -1,0 +1,26 @@
+{
+  "id": "ilie-13--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:ilie-13"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 30
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5d493686-eaaa-4488-b7de-fcc4eb41b43f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

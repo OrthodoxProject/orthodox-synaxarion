@@ -1,0 +1,29 @@
+{
+  "id": "ioan-of-ravena",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Ioan, episcop de Ravena în Italia",
+    "full": "Sfântul Ierarh Ioan, episcop de Ravena în Italia",
+    "short": "Ioan, episcop de Ravena în Italia",
+    "given": "Ioan",
+    "variants": [
+      "Sf. Ier. Ioan, episcop de Ravenna în Italia"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9f3b51c6-8197-42ad-9eaa-58367c950123",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/dae551ad-5d0b-43ab-b42d-566f9979106f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

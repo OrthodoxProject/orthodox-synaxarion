@@ -1,0 +1,21 @@
+{
+  "id": "teodoric",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Teodoric, pustnic la Sintern în Anglia",
+    "full": "Sfântul Cuvios Teodoric, pustnic la Sintern în Anglia",
+    "short": "Teodoric, pustnic la Sintern în Anglia",
+    "given": "Teodoric"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e32045e6-c293-41f0-a125-65c7df121040",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

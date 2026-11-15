@@ -1,0 +1,21 @@
+{
+  "id": "ermoghena-of-rusia",
+  "locale": "ro",
+  "names": {
+    "display": "Cuvioasa Mc. Ermoghena (Kadomțeva) din Rusia",
+    "full": "Cuvioasa Muceniță Ermoghena (Kadomțeva) din Rusia",
+    "short": "Ermoghena (Kadomțeva) din Rusia",
+    "given": "Ermoghena"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4d453d8e-688b-465f-8c3c-c20824f7d0ca#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

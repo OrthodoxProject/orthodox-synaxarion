@@ -1,0 +1,27 @@
+{
+  "id": "eventia-and-teodula-2",
+  "kind": "repose",
+  "subjects": [
+    "person:eventia",
+    "person:teodula-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 3
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f1e18cbb-8b82-432c-a364-1230b0752c2d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "marcela-of-roma--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:marcela-of-roma"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 31
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/261e7f3f-b200-42c9-986a-9aad3f42ac6a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

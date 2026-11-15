@@ -1,0 +1,18 @@
+{
+  "id": "martyrs-neofit",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici Neofit"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b078201f-6601-4910-9793-3d83e3ac6b48",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

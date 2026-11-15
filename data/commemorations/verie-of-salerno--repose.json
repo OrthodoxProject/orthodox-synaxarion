@@ -1,0 +1,26 @@
+{
+  "id": "verie-of-salerno--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:verie-of-salerno"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 23
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a98f689a-b6ef-419f-b9fb-3def618b2466",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

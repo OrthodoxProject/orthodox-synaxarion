@@ -1,0 +1,20 @@
+{
+  "id": "serghie-of-rusia-9",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Serghie (Orlov) din Rusia",
+    "short": "Serghie (Orlov) din Rusia",
+    "given": "Serghie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/88ec0a5d-a9ab-4884-8527-61ec8a75e84c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "anastasie-al-ii-lea-of-pavia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:anastasie-al-ii-lea-of-pavia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 30
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9462b0fc-0d16-457e-aef9-fc95d8ce2053",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

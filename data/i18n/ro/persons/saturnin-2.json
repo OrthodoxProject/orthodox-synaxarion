@@ -1,0 +1,20 @@
+{
+  "id": "saturnin-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Saturnin",
+    "short": "Saturnin",
+    "given": "Saturnin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/95980407-3123-4874-9392-3d43fe9f9fe9#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

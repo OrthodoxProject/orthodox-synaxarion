@@ -1,0 +1,21 @@
+{
+  "id": "ermagora",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Ermagora, primul episcop de Aquileia în Italia și ucenicul Sfântului Evanghelist Marcu",
+    "full": "Sfântul Sfințit Mucenic Ermagora, primul episcop de Aquileia în Italia și ucenicul Sfântului Evanghelist Marcu",
+    "short": "Ermagora, primul episcop de Aquileia în Italia, ucenicul Sfântului Evanghelist Marcu",
+    "given": "Ermagora"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/50766ddc-dd67-4d62-b73f-f6e2ccfa6065",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

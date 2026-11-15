@@ -1,0 +1,20 @@
+{
+  "id": "onisifor-the-apostle",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ap. Onisifor",
+    "short": "Onisifor",
+    "given": "Onisifor"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/20aee446-8c38-46ce-a6a4-4446223b02ee",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

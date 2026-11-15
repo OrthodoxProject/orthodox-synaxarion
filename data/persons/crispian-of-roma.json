@@ -1,0 +1,29 @@
+{
+  "id": "crispian-of-roma",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "hieromartyr",
+    "martyr"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d9985937-bf22-4e43-8c3c-28e7582c1e64",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a6cff21b-9b12-4d9d-a73a-3545b144aa0f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat.",
+      "Genul nu reiese din sursă; e de verificat."
+    ]
+  }
+}

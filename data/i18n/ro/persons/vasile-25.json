@@ -1,0 +1,21 @@
+{
+  "id": "vasile-25",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Vasile, egumen în insula Patelaria, lângă Sicilia în Italia",
+    "full": "Sfântul Cuvios Vasile, egumen în insula Patelaria, lângă Sicilia în Italia",
+    "short": "Vasile, egumen în insula Patelaria, lângă Sicilia în Italia",
+    "given": "Vasile"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/cbe18cd1-0576-4ef4-92f4-3fb3fc083257",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

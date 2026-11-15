@@ -1,0 +1,18 @@
+{
+  "id": "52-martyrs",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții 52 de Mucenici"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d5021eea-bb89-4a64-848b-1fdadad0d6a2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

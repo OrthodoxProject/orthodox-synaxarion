@@ -1,0 +1,26 @@
+{
+  "id": "grat-2--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:grat-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 24
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2e716c0e-2cd2-41a0-84e0-48262d0dbf7c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

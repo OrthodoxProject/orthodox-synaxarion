@@ -1,0 +1,21 @@
+{
+  "id": "partenie-4",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Partenie, Egumenul Mănăstirii Kiziltashkog, Rusia",
+    "full": "Sfântul Mucenic Partenie, Egumenul Mănăstirii Kiziltashkog, Rusia",
+    "short": "Partenie, Egumenul Mănăstirii Kiziltashkog, Rusia",
+    "given": "Partenie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/772",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ioan-marturisitorul--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:ioan-marturisitorul"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 3
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8ee82faf-7028-417d-8b4d-883880eeb384",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "3-martyrs-virgins-of-insula-hios",
+  "kind": "martyrs",
+  "count": {
+    "value": 3,
+    "precision": "exact"
+  },
+  "holiness_types": [
+    "martyr",
+    "virgin"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/866f7327-84dd-4b7f-9573-75e7296b54cf",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

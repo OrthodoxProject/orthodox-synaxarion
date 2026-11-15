@@ -1,0 +1,21 @@
+{
+  "id": "pomponie-of-napoli-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Pomponie, episcop de Napoli în Italia",
+    "full": "Sfântul Ierarh Pomponie, episcop de Napoli în Italia",
+    "short": "Pomponie, episcop de Napoli în Italia",
+    "given": "Pomponie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5f2899b8-28e1-4049-88e4-fdb0b5bb5efb",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

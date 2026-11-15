@@ -1,0 +1,20 @@
+{
+  "id": "boris-of-ivanovo",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Boris de Ivanovo",
+    "short": "Boris de Ivanovo",
+    "given": "Boris"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1b1fd768-9ad5-48ea-b252-80ade43c41ce",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

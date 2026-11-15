@@ -1,0 +1,20 @@
+{
+  "id": "prohor-of-rusia-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Nou Mc. Prohor din Rusia",
+    "short": "Prohor din Rusia",
+    "given": "Prohor"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/fb9ab86f-9750-4e5a-9c7d-d1eaf3ec0a1c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

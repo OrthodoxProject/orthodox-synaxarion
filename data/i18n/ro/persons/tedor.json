@@ -1,0 +1,21 @@
+{
+  "id": "tedor",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Tedor, eparh în Haldia Pontului",
+    "full": "Sfântul Mucenic Tedor, eparh în Haldia Pontului",
+    "short": "Tedor, eparh în Haldia Pontului",
+    "given": "Tedor"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8ac5d0ee-d6da-4a5c-97d2-153a60d24edf",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

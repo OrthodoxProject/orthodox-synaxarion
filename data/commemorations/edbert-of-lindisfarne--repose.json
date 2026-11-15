@@ -1,0 +1,26 @@
+{
+  "id": "edbert-of-lindisfarne--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:edbert-of-lindisfarne"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 5
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b29fb153-2f45-4381-9b37-31efc0b9b804",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

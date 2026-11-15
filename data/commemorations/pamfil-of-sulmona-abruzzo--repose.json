@@ -1,0 +1,26 @@
+{
+  "id": "pamfil-of-sulmona-abruzzo--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:pamfil-of-sulmona-abruzzo"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 28
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b69ecb08-b25e-4555-9b31-c680000d6cb2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

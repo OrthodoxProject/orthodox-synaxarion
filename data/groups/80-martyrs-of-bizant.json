@@ -1,0 +1,25 @@
+{
+  "id": "80-martyrs-of-bizant",
+  "kind": "martyrs",
+  "count": {
+    "value": 80,
+    "precision": "exact"
+  },
+  "holiness_types": [
+    "martyr"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2272e41a-08a6-4daf-aa08-0644f4f69614",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

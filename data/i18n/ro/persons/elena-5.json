@@ -1,0 +1,21 @@
+{
+  "id": "elena-5",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Elena, monahie de la Mănăstirea Diveevo din Rusia",
+    "full": "Sfânta Cuvioasă Elena, monahie de la Mănăstirea Diveevo din Rusia",
+    "short": "Elena, monahie de la Mănăstirea Diveevo din Rusia",
+    "given": "Elena"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/481",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

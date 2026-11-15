@@ -1,0 +1,18 @@
+{
+  "id": "prim-and-felician-of-roma",
+  "locale": "ro",
+  "names": {
+    "display": "Sfinții Mucenici Prim și Felician din Roma"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f52e3f26-ba51-4b27-84b8-dcc388ba782b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

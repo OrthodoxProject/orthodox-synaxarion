@@ -1,0 +1,20 @@
+{
+  "id": "neofitia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Neofitia",
+    "short": "Neofitia",
+    "given": "Neofitia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f0c300b0-d798-406e-8708-47c9cbe1755a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

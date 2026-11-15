@@ -1,0 +1,21 @@
+{
+  "id": "ethilwald-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ethilwald, ieromonah din Farne în Anglia",
+    "full": "Sfântul Cuvios Ethilwald, ieromonah din Farne în Anglia",
+    "short": "Ethilwald, ieromonah din Farne în Anglia",
+    "given": "Ethilwald"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7eee11f6-4bf9-46e9-8c61-e1c1aa4ee1ad",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

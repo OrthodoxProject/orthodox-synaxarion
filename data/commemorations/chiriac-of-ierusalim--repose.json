@@ -1,0 +1,26 @@
+{
+  "id": "chiriac-of-ierusalim--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:chiriac-of-ierusalim"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 14
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8643f36e-3d46-40f1-8f46-47f536eb15f6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

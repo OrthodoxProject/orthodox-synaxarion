@@ -1,0 +1,20 @@
+{
+  "id": "andrei-17",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Andrei (Cosovschi)",
+    "short": "Andrei (Cosovschi)",
+    "given": "Andrei"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0abcb515-a4ae-4d9f-9f84-bc5517e2c896",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

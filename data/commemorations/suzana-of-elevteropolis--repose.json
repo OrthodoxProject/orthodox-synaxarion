@@ -1,0 +1,26 @@
+{
+  "id": "suzana-of-elevteropolis--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:suzana-of-elevteropolis"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 19
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/707071e3-3645-4c34-a87c-3cf2f0127ef3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

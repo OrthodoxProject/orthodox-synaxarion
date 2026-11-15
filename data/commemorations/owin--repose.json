@@ -1,0 +1,26 @@
+{
+  "id": "owin--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:owin"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 4
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/824fac4d-5d5e-4417-8a7c-112daede2d05",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

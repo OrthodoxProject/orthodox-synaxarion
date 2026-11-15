@@ -1,0 +1,26 @@
+{
+  "id": "marcu-of-atena--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:marcu-of-atena"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 5
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/beebed57-6dc1-492a-a639-63bcdb8d824d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

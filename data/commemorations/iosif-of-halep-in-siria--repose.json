@@ -1,0 +1,26 @@
+{
+  "id": "iosif-of-halep-in-siria--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:iosif-of-halep-in-siria"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 4
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d28655c9-a973-4e0c-af99-6efb9f0f0f9c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

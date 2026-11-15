@@ -1,0 +1,21 @@
+{
+  "id": "marciana-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Marciana, fecioară din Toledo în Spania",
+    "full": "Sfânta Muceniță Marciana, fecioară din Toledo în Spania",
+    "short": "Marciana, fecioară din Toledo în Spania",
+    "given": "Marciana"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c3131b4a-3618-4f6e-bed0-0cf52f89ddd8",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

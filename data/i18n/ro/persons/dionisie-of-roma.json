@@ -1,0 +1,21 @@
+{
+  "id": "dionisie-of-roma",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Dionisie, episcopul Romei",
+    "full": "Sfântul Ierarh Dionisie, episcopul Romei",
+    "short": "Dionisie, episcopul Romei",
+    "given": "Dionisie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/62359811-fae5-4317-9292-a00fe699fefa",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

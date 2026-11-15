@@ -1,0 +1,21 @@
+{
+  "id": "ghibitruda",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ghibitruda, monahie din Franța",
+    "full": "Sfânta Cuvioasă Ghibitruda, monahie din Franța",
+    "short": "Ghibitruda, monahie din Franța",
+    "given": "Ghibitruda"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8f1d1bc0-d31b-4cbf-8887-ea848052bc4f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "kinemarc",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Kinemarc, monah din Anglia",
+    "full": "Sfântul Cuvios Kinemarc, monah din Anglia",
+    "short": "Kinemarc, monah din Anglia",
+    "given": "Kinemarc"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7f4edb7f-087e-4ff3-b19c-357dcf6ac0d1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

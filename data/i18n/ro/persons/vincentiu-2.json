@@ -1,0 +1,21 @@
+{
+  "id": "vincentiu-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Vincențiu",
+    "full": "Sfântul Mucenic Vincențiu",
+    "short": "Vincențiu",
+    "given": "Vincențiu"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/96d10684-8777-4a75-ba3f-787bb023df03",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

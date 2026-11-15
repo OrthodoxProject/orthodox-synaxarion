@@ -1,0 +1,21 @@
+{
+  "id": "anastasie-of-brescia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Anastasie, episcop de Brescia în Italia",
+    "full": "Sfântul Ierarh Anastasie, episcop de Brescia în Italia",
+    "short": "Anastasie, episcop de Brescia în Italia",
+    "given": "Anastasie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d8f767d3-7b41-4814-8c17-0bccbee76172",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

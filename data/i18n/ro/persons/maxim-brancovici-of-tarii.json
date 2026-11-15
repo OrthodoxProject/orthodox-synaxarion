@@ -1,0 +1,21 @@
+{
+  "id": "maxim-brancovici-of-tarii",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ier. Maxim Brancovici, mitropolitul Țării Românești",
+    "full": "Sfântul Cuvios Ierarh Maxim Brancovici, mitropolitul Țării Românești",
+    "short": "Maxim Brancovici, mitropolitul Țării Românești",
+    "given": "Maxim"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1308",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

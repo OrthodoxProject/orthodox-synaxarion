@@ -1,0 +1,18 @@
+{
+  "id": "5-virgins-and-companions",
+  "locale": "ro",
+  "names": {
+    "display": "Sfintele 5 fecioare și cei împreună cu ei"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ba57c5af-44fa-49ce-b2d3-e74c9d355933",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "32-martyrs",
+  "kind": "repose",
+  "subjects": [
+    "group:32-martyrs"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 4
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f27a14f0-cf64-4f88-8f34-8aedc257f49d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

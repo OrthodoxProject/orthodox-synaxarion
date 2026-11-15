@@ -1,0 +1,20 @@
+{
+  "id": "candida-of-roma",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințită Mc. Candida din Roma",
+    "short": "Candida din Roma",
+    "given": "Candida"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0a10454c-40a8-4a0c-a97a-db3608c8a530",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

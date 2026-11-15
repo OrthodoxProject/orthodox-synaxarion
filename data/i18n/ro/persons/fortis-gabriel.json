@@ -1,0 +1,21 @@
+{
+  "id": "fortis-gabriel",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Fortis Gabriel, pustnic și călugăr la Mănăstirea Fontavellana din Italia",
+    "full": "Sfântul Cuvios Fortis Gabriel, pustnic și călugăr la Mănăstirea Fontavellana din Italia",
+    "short": "Fortis Gabriel, pustnic, călugăr la Mănăstirea Fontavellana din Italia",
+    "given": "Fortis"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/81227173-c885-440a-8e43-632d2c951b48",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "teodosie-of-kolomensk-of-rusia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Teodosie de Kolomensk din Rusia",
+    "full": "Sfântul Sfințit Nou Mucenic Teodosie de Kolomensk din Rusia",
+    "short": "Teodosie de Kolomensk din Rusia",
+    "given": "Teodosie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f239d551-1f26-4be0-92ae-eb53bd74223a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "agabie-of-verona",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Agabie, episcop de Verona în Italia",
+    "full": "Sfântul Ierarh Agabie, episcop de Verona în Italia",
+    "short": "Agabie, episcop de Verona în Italia",
+    "given": "Agabie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d9d75c1e-c246-4f06-8358-38abe36ee86c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "pavel-29",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Pavel (Iagodinskii)",
+    "short": "Pavel (Iagodinskii)",
+    "given": "Pavel"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b53cf0f6-b726-4cc2-afa3-0bc00ff557ac",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

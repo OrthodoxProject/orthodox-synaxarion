@@ -1,0 +1,27 @@
+{
+  "id": "talaleu-3-and-antim-3",
+  "kind": "repose",
+  "subjects": [
+    "person:talaleu-3",
+    "person:antim-3"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 11,
+    "day": 22
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ebbbd0dd-5398-48bf-a6f4-2712b345c561",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "inochentie-2--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:inochentie-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 24
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/fa1aac71-12f1-4460-842d-c0021b681bc2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

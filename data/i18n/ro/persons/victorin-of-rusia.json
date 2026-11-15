@@ -1,0 +1,20 @@
+{
+  "id": "victorin-of-rusia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfinților Nou Mc. Victorin (Dobronravov) din Rusia",
+    "short": "Victorin (Dobronravov) din Rusia",
+    "given": "Victorin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b17a56a8-bac9-4feb-bcfd-e737f2ab361e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "dimitrie-30",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Dimitrie (Kiranov)",
+    "short": "Dimitrie (Kiranov)",
+    "given": "Dimitrie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c23afba9-fe55-425e-8f40-5f2200afd9f8",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "martyrs-euviot",
+  "kind": "repose",
+  "subjects": [
+    "group:martyrs-euviot"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 27
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5aacd089-8371-42ff-828b-702647f7285a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

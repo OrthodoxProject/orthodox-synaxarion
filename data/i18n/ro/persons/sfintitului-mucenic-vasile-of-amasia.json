@@ -1,0 +1,20 @@
+{
+  "id": "sfintitului-mucenic-vasile-of-amasia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințitului mucenic Vasile, episcopul Amasiei",
+    "short": "Sfințitului mucenic Vasile, episcopul Amasiei",
+    "given": "Sfințitului"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1492",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

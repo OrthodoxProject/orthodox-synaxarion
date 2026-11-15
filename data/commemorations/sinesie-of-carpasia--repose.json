@@ -1,0 +1,26 @@
+{
+  "id": "sinesie-of-carpasia--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:sinesie-of-carpasia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 23
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/df9d4931-5f2f-436b-8d0c-aadd23d62a35",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

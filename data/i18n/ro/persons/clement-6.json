@@ -1,0 +1,21 @@
+{
+  "id": "clement-6",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Clement, preot din Lombardia în Italia",
+    "full": "Sfântul Clement, preot din Lombardia în Italia",
+    "short": "Clement, preot din Lombardia în Italia",
+    "given": "Clement"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/af1d225c-5e22-422d-a320-b2aec41d2648",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

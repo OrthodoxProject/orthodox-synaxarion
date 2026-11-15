@@ -1,0 +1,21 @@
+{
+  "id": "lot-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Lot, monah din Egipt",
+    "full": "Sfântul Cuvios Lot, monah din Egipt",
+    "short": "Lot, monah din Egipt",
+    "given": "Lot"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/efd1d1db-d5b7-434b-9aa3-a5be712e97a3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

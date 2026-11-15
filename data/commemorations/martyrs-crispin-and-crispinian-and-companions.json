@@ -1,0 +1,26 @@
+{
+  "id": "martyrs-crispin-and-crispinian-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "group:martyrs-crispin-and-crispinian-and-companions"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 27
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d8bea4d0-614e-4161-bebe-ba376fe6dba0",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

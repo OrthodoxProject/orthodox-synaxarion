@@ -1,0 +1,21 @@
+{
+  "id": "pap-of-din",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ier. Pap, episcop din Cipru",
+    "full": "Sfântul Cuvios Ierarh Pap, episcop din Cipru",
+    "short": "Pap, episcop din Cipru",
+    "given": "Pap"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/374a784e-be1b-41ff-b934-8946a20f20ed",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

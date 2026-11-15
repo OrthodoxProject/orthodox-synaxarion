@@ -1,0 +1,21 @@
+{
+  "id": "edwold",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Edwold, pustnic din Mănăstirea Cerne în Anglia",
+    "full": "Sfântul Cuvios Edwold, pustnic din Mănăstirea Cerne în Anglia",
+    "short": "Edwold, pustnic din Mănăstirea Cerne în Anglia",
+    "given": "Edwold"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b1f04842-8c9c-42a5-8ab8-3e92e2ff6061",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

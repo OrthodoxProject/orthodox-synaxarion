@@ -1,0 +1,20 @@
+{
+  "id": "zinon-7",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Zinon",
+    "short": "Zinon",
+    "given": "Zinon"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4e0ffc1d-f446-4386-9d9b-d1804300ca7b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

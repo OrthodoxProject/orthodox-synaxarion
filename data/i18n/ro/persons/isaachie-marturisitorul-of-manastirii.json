@@ -1,0 +1,20 @@
+{
+  "id": "isaachie-marturisitorul-of-manastirii",
+  "locale": "ro",
+  "names": {
+    "display": "Cuviosul Isaachie Mărturisitorul, Episcopul Mănăstirii Dalmatiei",
+    "short": "Isaachie Mărturisitorul, Episcopul Mănăstirii Dalmatiei",
+    "given": "Isaachie"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/266",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

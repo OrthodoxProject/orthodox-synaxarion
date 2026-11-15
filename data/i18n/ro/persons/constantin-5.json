@@ -1,0 +1,21 @@
+{
+  "id": "constantin-5",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Constantin, primul episcop de Gap în Franța",
+    "full": "Sfântul Ierarh Constantin, primul episcop de Gap în Franța",
+    "short": "Constantin, primul episcop de Gap în Franța",
+    "given": "Constantin"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e50d0c64-aadd-442b-a06c-1df7ba1642d7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

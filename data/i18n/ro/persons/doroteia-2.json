@@ -1,0 +1,20 @@
+{
+  "id": "doroteia-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Doroteia",
+    "short": "Doroteia",
+    "given": "Doroteia"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b3cbdd5b-4b4e-4bf7-8d94-54a9197c2ccc",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

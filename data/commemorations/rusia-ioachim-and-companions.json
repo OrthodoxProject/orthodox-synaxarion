@@ -1,0 +1,38 @@
+{
+  "id": "rusia-ioachim-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:rusia-ioachim",
+    "person:luca-2",
+    "person:gherman",
+    "person:arcadie-3",
+    "person:grigorie-2",
+    "person:martirie",
+    "person:antonie-3",
+    "person:vasile-6",
+    "person:moise",
+    "person:simeon-10",
+    "person:ghenadie",
+    "person:pimen-2",
+    "person:antonie-of-novgorod-in"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 10
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e4f84bbb-ccf7-4d11-aba0-8a4654bf8917",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

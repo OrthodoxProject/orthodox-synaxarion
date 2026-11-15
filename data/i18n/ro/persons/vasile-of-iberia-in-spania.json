@@ -1,0 +1,21 @@
+{
+  "id": "vasile-of-iberia-in-spania",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Vasile din Iberia în Spania",
+    "full": "Sfântul Cuvios Vasile din Iberia în Spania",
+    "short": "Vasile din Iberia în Spania",
+    "given": "Vasile"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/980d22c8-81ca-4002-92a8-006767dd41c5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "avondant-of-roma",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Avondant din Roma",
+    "short": "Avondant din Roma",
+    "given": "Avondant"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/22ea2254-28a3-4bbe-9e0d-2db5254f453a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

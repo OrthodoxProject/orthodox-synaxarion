@@ -1,0 +1,21 @@
+{
+  "id": "rumon-of-tavistock",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Rumon, episcop de Tavistock în Anglia",
+    "full": "Sfântul Ierarh Rumon, episcop de Tavistock în Anglia",
+    "short": "Rumon, episcop de Tavistock în Anglia",
+    "given": "Rumon"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/76dd9033-d2a7-4803-8cd3-5bdeafb9283d",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

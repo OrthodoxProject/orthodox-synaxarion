@@ -1,0 +1,26 @@
+{
+  "id": "icon-of-theotokos-vododatelnita",
+  "kind": "icon",
+  "subjects": [
+    "icon:icon-of-theotokos-vododatelnita"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 11
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b2f86c4f-3c2d-41da-84fb-9a41f16ff6c1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

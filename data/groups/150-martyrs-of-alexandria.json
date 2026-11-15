@@ -1,0 +1,25 @@
+{
+  "id": "150-martyrs-of-alexandria",
+  "kind": "martyrs",
+  "count": {
+    "value": 150,
+    "precision": "exact"
+  },
+  "holiness_types": [
+    "martyr"
+  ],
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e0967ba9-f20c-461f-be8f-13a286540b06",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

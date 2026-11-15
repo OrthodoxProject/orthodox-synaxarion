@@ -1,0 +1,20 @@
+{
+  "id": "teodor-of-rusia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Nou Mc. Teodor (Nedosechin) din Rusia",
+    "short": "Teodor (Nedosechin) din Rusia",
+    "given": "Teodor"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9ec87c14-ce38-4ed4-8a6c-e9b26ee4eef5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

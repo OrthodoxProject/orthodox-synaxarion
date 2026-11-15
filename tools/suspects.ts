@@ -1,10 +1,11 @@
 /**
  * Lists, for the whole year at once, the matches of the import that a reviewer should check against the sources:
  * official titles naming a saint their line does not hold, Romanian saints joined to one of two OCA saints of the
- * same name, two saints of one name on one day (see tools/lib/import/suspects.ts and docs/PLAN.md).
+ * same name, two saints of one name on one day, a saint or an icon held twice, once from the Romanian sources and once
+ * from the OCA (see tools/lib/import/suspects.ts and docs/PLAN.md).
  *
  *   npm run suspects                                  # every check, as text
- *   node tools/suspects.ts --check tie                # one check: official-missing, tie, same-day, romanian-only
+ *   node tools/suspects.ts --check tie                # one check: official-missing, tie, same-day, romanian-only, romanian-only-icons
  *   node tools/suspects.ts --json                     # as JSON
  *   node tools/suspects.ts --data <dir>               # another copy of data/
  */
@@ -14,7 +15,7 @@ import { loadExisting } from "./lib/import/existing.ts";
 import { findSuspects, type SuspectCheck } from "./lib/import/suspects.ts";
 import { REPO_ROOT } from "./lib/validate.ts";
 
-const CHECKS: SuspectCheck[] = ["official-missing", "tie", "same-day", "romanian-only"];
+const CHECKS: SuspectCheck[] = ["official-missing", "tie", "same-day", "romanian-only", "romanian-only-icons"];
 const { values } = parseArgs({ options: { data: { type: "string" }, check: { type: "string" }, json: { type: "boolean", default: false } } });
 if (values.check && !(CHECKS as string[]).includes(values.check)) throw new Error(`unknown check ${values.check}; one of ${CHECKS.join(", ")}`);
 

@@ -34,6 +34,7 @@ import {
   type SlotName,
 } from "./cluster.ts";
 import type { Existing, ExistingLine } from "./existing.ts";
+import { iconNamesScore, iconWords } from "./icons.ts";
 import type { HolinessType, NamePart, ParsedTitle } from "./model.ts";
 import { parseEn } from "./en.ts";
 import { equivalent, fold, givenSimilarity, levenshtein, nameSimilarity, skeleton } from "./names.ts";
@@ -560,7 +561,12 @@ export class Builder {
         return list.length === 1 && list[0] ? { ...none, clusters: [list[0]], rest: [] } : none;
       }
       case "icon": {
-        const best = this.bestByScore(sameKind("icon"), (c) => iconScore(u, c));
+        // One source lists an icon once a day: doxologia's "„Mângâietoarea” (Paramythia) de la Vatoped" and
+        // "„Înjunghiata” de la Vatoped" (21 January) are two icons, the OCA's "Comfort" and "Stabbed".
+        const best = this.bestByScore(
+          sameKind("icon").filter((c) => !sameSourceDescribes(c, u)),
+          (c) => iconScore(u, c),
+        );
         return best && best.score >= 1 ? { ...none, clusters: [best.item], rest: [] } : none;
       }
       case "relics_translation":
@@ -1593,28 +1599,11 @@ function monthName(month: string): string {
   return ro[month] ?? month;
 }
 
+/** How well a unit's icon names the icon of a cluster, in either language (see iconNamesScore): one word or more is a match. */
 function iconScore(u: Unit, c: Cluster): number {
-  const mine = iconWords(u.parsed.icon ?? u.parsed.title);
-  const theirs = new Set([...iconWords(c.icon?.ro ?? ""), ...iconWords(c.icon?.en ?? ""), ...iconWords(c.titles.ro ?? ""), ...iconWords(c.titles.en ?? "")]);
-  let n = 0;
-  for (const w of mine) if (theirs.has(w)) n++;
-  return n;
-}
-
-const ICON_STOP = new Set(["icoana", "icoanei", "icoanele", "maicii", "domnului", "sfintei", "icon", "mother", "god", "theotokos", "most", "holy", "the", "cinstirea", "din", "de", "la", "of", "cea", "care", "a", "si", "and", "aducerea", "translation", "to", "in"]);
-
-function iconWords(text: string): Set<string> {
-  const out = new Set<string>();
-  for (const w of text.split(/[\s,„”"“()«»–-]+/)) {
-    const f = w
-      .normalize("NFD")
-      .replace(/[̀-ͯ]/g, "")
-      .toLowerCase()
-      .replace(/[^a-z]/g, "");
-    if (f.length < 3 || ICON_STOP.has(f)) continue;
-    out.add(f.slice(0, 5));
-  }
-  return out;
+  const mine = iconWords(u.parsed.icon ?? u.parsed.title, u.lang);
+  const theirs = [...iconWords(c.icon?.ro ?? "", "ro"), ...iconWords(c.icon?.en ?? "", "en"), ...iconWords(c.titles.ro ?? "", "ro"), ...iconWords(c.titles.en ?? "", "en")];
+  return iconNamesScore(mine, theirs);
 }
 
 function subjectScore(b: Builder, u: Unit, c: Cluster): number {

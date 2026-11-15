@@ -1,0 +1,26 @@
+{
+  "id": "dimitrie-schevofilaxul--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:dimitrie-schevofilaxul"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 25
+  },
+  "sources": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/ianuarie/sinaxar-ziua-25-luna-1/#ancora-continut-7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din e-religie.ro; de verificat."
+    ]
+  }
+}

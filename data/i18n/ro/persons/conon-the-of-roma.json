@@ -1,0 +1,20 @@
+{
+  "id": "conon-the-of-roma",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Conon cel din Roma",
+    "short": "Conon cel din Roma",
+    "given": "Conon"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/iunie/sinaxar-ziua-5-luna-6/#ancora-continut-6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

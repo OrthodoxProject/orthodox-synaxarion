@@ -225,8 +225,8 @@ Datele din `data/` au pornit de la 17 cazuri-limită alese ca să pună schema l
 
 Restul vine din [importul din surse](#importul-din-surse). Pe scurt, acum:
 
-- 3.635 de persoane (cu nume din surse: 1.554 în română, 3.085 în engleză, 1.004 în ambele), 354 de grupuri, 4.511 pomeniri, 237 de icoane;
-- calendarul BOR are toate cele 366 de zile (1.629 de rânduri, 765 cu titlul oficial), cel rusesc 366 de zile (2.836 de rânduri), cel al Patriarhiei Ecumenice 360 de zile (1.081 de rânduri) și cel al Serbiei 360 (1.154 de rânduri), cu încredere scăzută, cel copt 365 de zile (696 de rânduri); cele 146 de pomeniri armene așteaptă regula zilei;
+- 3.883 de persoane (cu nume din surse: 1.802 în română, 3.086 în engleză, 1.005 în ambele), 367 de grupuri, 4.727 de pomeniri, 237 de icoane;
+- calendarul BOR are toate cele 366 de zile (1.845 de rânduri, 765 cu titlul oficial), cel rusesc 366 de zile (2.837 de rânduri), cel al Patriarhiei Ecumenice 360 de zile (1.081 de rânduri) și cel al Serbiei 360 (1.154 de rânduri), cu încredere scăzută, cel copt 365 de zile (696 de rânduri); cele 146 de pomeniri armene așteaptă regula zilei;
 - 8 tradiții: BOR, Patriarhia Ecumenică, Biserica Greciei, Rusia, Serbia (Biserici răsăritene), copți și armeni (Biserici orientale), Biserica Asiriană a Răsăritului;
 - texte în 8 limbi: română, engleză, greacă (modernă și bizantină), rusă, sârbă (chirilică), armeană, arabă.
 

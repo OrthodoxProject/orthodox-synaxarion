@@ -1,0 +1,20 @@
+{
+  "id": "nisiu",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Nisiu",
+    "short": "Nisiu",
+    "given": "Nisiu"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/februarie/sinaxar-ziua-27-luna-2/#ancora-continut-6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

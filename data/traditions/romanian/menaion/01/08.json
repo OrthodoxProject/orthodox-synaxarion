@@ -27,6 +27,21 @@
         "comm:theophany--afterfeast"
       ],
       "differs_from_default": true
+    },
+    {
+      "commemorations": [
+        "comm:chir--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:attic-of-constantinopol--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:agaton--repose"
+      ]
     }
   ]
 }

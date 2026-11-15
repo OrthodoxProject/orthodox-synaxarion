@@ -1,0 +1,26 @@
+{
+  "id": "patermutie-2--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:patermutie-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 9
+  },
+  "sources": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/iulie/sinaxar-ziua-9-luna-7/#ancora-continut-4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din e-religie.ro; de verificat."
+    ]
+  }
+}

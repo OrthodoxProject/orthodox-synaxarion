@@ -1,0 +1,26 @@
+{
+  "id": "victor-3--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:victor-3"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 26
+  },
+  "sources": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/februarie/sinaxar-ziua-26-luna-2/#ancora-continut-6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din e-religie.ro; de verificat."
+    ]
+  }
+}

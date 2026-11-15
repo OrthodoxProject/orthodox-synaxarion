@@ -1,0 +1,20 @@
+{
+  "id": "zaharia-the-new",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Zaharia cel nou",
+    "short": "Zaharia cel nou",
+    "given": "Zaharia"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/martie/sinaxar-ziua-30-luna-3/#ancora-continut-7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

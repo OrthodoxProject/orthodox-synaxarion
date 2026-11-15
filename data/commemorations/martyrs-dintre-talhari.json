@@ -1,0 +1,26 @@
+{
+  "id": "martyrs-dintre-talhari",
+  "kind": "repose",
+  "subjects": [
+    "group:martyrs-dintre-talhari"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 28
+  },
+  "sources": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/aprilie/sinaxar-ziua-28-luna-4/#ancora-continut-5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din e-religie.ro; de verificat."
+    ]
+  }
+}

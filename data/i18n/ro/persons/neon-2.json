@@ -1,0 +1,20 @@
+{
+  "id": "neon-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Neon",
+    "short": "Neon",
+    "given": "Neon"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/aprilie/sinaxar-ziua-28-luna-4/#ancora-continut-4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

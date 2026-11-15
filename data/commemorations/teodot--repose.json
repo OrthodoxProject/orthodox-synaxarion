@@ -1,0 +1,26 @@
+{
+  "id": "teodot--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:teodot"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 1
+  },
+  "sources": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/ianuarie/sinaxar-ziua-1-luna-1/#ancora-continut-4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din e-religie.ro; de verificat."
+    ]
+  }
+}

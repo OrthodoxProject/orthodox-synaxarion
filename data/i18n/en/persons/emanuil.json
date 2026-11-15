@@ -1,0 +1,22 @@
+{
+  "id": "emanuil",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Emmanuel",
+    "short": "Emmanuel",
+    "given": "Emmanuel"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/martie/sinaxar-ziua-26-luna-3/#ancora-continut-5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

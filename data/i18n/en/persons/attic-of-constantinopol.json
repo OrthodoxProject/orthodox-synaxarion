@@ -1,0 +1,22 @@
+{
+  "id": "attic-of-constantinopol",
+  "locale": "en",
+  "names": {
+    "display": "Saint Atticus, Patriarch of Constantinople",
+    "short": "Atticus, Patriarch of Constantinople",
+    "given": "Atticus"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/ianuarie/sinaxar-ziua-8-luna-1/#ancora-continut-7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

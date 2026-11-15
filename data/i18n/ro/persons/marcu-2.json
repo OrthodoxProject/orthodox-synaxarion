@@ -1,0 +1,20 @@
+{
+  "id": "marcu-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Nou Mc. Marcu",
+    "short": "Marcu",
+    "given": "Marcu"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/iunie/sinaxar-ziua-5-luna-6/#ancora-continut-7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

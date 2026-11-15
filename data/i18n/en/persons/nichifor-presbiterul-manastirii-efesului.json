@@ -1,0 +1,22 @@
+{
+  "id": "nichifor-presbiterul-manastirii-efesului",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Nicephorus, Presbyter of the Monastery of Ephesus",
+    "short": "Nicephorus, Presbyter of the Monastery of Ephesus",
+    "given": "Nicephorus"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/mai/sinaxar-ziua-13-luna-5/#ancora-continut-6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

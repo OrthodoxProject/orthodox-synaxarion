@@ -1,0 +1,20 @@
+{
+  "id": "iusta",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Iusta",
+    "short": "Iusta",
+    "given": "Iusta"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/aprilie/sinaxar-ziua-26-luna-4/#ancora-continut-4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

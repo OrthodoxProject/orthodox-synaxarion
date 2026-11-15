@@ -18,6 +18,11 @@
       "source": "src:orthodox-calendar",
       "locator": "backend/app/data/traditions/serbian_saints.json",
       "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/mai/sinaxar-ziua-22-luna-5/#ancora-continut-5",
+      "accessed": "2026-11-15"
     }
   ],
   "editorial": {

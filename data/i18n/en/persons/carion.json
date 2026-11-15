@@ -1,0 +1,22 @@
+{
+  "id": "carion",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Carion",
+    "short": "Carion",
+    "given": "Carion"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/februarie/sinaxar-ziua-1-luna-2/#ancora-continut-7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

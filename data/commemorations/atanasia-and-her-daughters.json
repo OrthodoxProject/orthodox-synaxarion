@@ -1,0 +1,26 @@
+{
+  "id": "atanasia-and-her-daughters",
+  "kind": "repose",
+  "subjects": [
+    "group:atanasia-and-her-daughters"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 31
+  },
+  "sources": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/ianuarie/sinaxar-ziua-31-luna-1/#ancora-continut-1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din e-religie.ro; de verificat."
+    ]
+  }
+}

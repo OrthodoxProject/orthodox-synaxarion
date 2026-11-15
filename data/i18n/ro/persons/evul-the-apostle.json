@@ -1,0 +1,20 @@
+{
+  "id": "evul-the-apostle",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ap. Evul",
+    "short": "Evul",
+    "given": "Evul"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/februarie/sinaxar-ziua-28-luna-2/#ancora-continut-6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

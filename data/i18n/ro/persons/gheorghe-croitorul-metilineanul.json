@@ -1,0 +1,21 @@
+{
+  "id": "gheorghe-croitorul-metilineanul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Gheorghe croitorul Metilineanul",
+    "full": "Sfântul Gheorghe croitorul Metilineanul",
+    "short": "Gheorghe croitorul Metilineanul",
+    "given": "Gheorghe"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/februarie/sinaxar-ziua-14-luna-2/#ancora-continut-6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

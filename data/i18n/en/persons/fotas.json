@@ -1,0 +1,22 @@
+{
+  "id": "fotas",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Photas",
+    "short": "Photas",
+    "given": "Photas"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/iunie/sinaxar-ziua-6-luna-6/#ancora-continut-7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

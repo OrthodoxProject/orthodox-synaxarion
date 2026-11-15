@@ -1,0 +1,21 @@
+{
+  "id": "patermutie-2",
+  "locale": "ro",
+  "names": {
+    "display": "Cuv. Patermutie",
+    "full": "Cuvios Patermutie",
+    "short": "Patermutie",
+    "given": "Patermutie"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/iulie/sinaxar-ziua-9-luna-7/#ancora-continut-4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

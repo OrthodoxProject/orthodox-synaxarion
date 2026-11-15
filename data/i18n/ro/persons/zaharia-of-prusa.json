@@ -1,0 +1,20 @@
+{
+  "id": "zaharia-of-prusa",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Zaharia de la Prusa",
+    "short": "Zaharia de la Prusa",
+    "given": "Zaharia"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/mai/sinaxar-ziua-22-luna-5/#ancora-continut-6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

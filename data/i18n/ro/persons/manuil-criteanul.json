@@ -1,0 +1,20 @@
+{
+  "id": "manuil-criteanul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Nou Mc. Manuil Criteanul",
+    "short": "Manuil Criteanul",
+    "given": "Manuil"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/martie/sinaxar-ziua-15-luna-3/#ancora-continut-7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

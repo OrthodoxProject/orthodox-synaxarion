@@ -1,0 +1,20 @@
+{
+  "id": "zosima",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Zosima",
+    "short": "Zosima",
+    "given": "Zosima"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/ianuarie/sinaxar-ziua-24-luna-1/#ancora-continut-8",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

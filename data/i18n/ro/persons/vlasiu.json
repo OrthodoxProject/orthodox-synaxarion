@@ -1,0 +1,20 @@
+{
+  "id": "vlasiu",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Vlasiu, papa Romei",
+    "short": "Vlasiu, papa Romei",
+    "given": "Vlasiu"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/februarie/sinaxar-ziua-22-luna-2/#ancora-continut-7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

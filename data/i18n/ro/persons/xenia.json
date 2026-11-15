@@ -1,0 +1,20 @@
+{
+  "id": "xenia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Xenia",
+    "short": "Xenia",
+    "given": "Xenia"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/ianuarie/sinaxar-ziua-18-luna-1/#ancora-continut-2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "olvian",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Olvian",
+    "short": "Olvian",
+    "given": "Olvian"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/mai/sinaxar-ziua-25-luna-5/#ancora-continut-4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

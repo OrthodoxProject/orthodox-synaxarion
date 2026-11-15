@@ -1,0 +1,22 @@
+{
+  "id": "anastasie-naupliotul",
+  "locale": "en",
+  "names": {
+    "display": "New Martyr Anastasius of Nauplion",
+    "short": "Anastasius of Nauplion",
+    "given": "Anastasius"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/februarie/sinaxar-ziua-1-luna-2/#ancora-continut-8",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

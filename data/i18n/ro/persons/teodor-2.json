@@ -1,0 +1,20 @@
+{
+  "id": "teodor-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Teodor, papă al Romei",
+    "short": "Teodor, papă al Romei",
+    "given": "Teodor"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/mai/sinaxar-ziua-18-luna-5/#ancora-continut-6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

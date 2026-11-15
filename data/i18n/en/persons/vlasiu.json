@@ -1,0 +1,22 @@
+{
+  "id": "vlasiu",
+  "locale": "en",
+  "names": {
+    "display": "Saint Blaise, Pope of Rome",
+    "short": "Blaise, Pope of Rome",
+    "given": "Blaise"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/februarie/sinaxar-ziua-22-luna-2/#ancora-continut-7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

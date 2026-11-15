@@ -1,0 +1,22 @@
+{
+  "id": "martin-of-teba",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Martin of Thebes",
+    "short": "Martin of Thebes",
+    "given": "Martin"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/martie/sinaxar-ziua-24-luna-3/#ancora-continut-6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

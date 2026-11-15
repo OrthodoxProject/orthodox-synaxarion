@@ -1,0 +1,22 @@
+{
+  "id": "macarie-3",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Macarius, Bishop of Paphos",
+    "short": "Macarius, Bishop of Paphos",
+    "given": "Macarius"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/februarie/sinaxar-ziua-8-luna-2/#ancora-continut-6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

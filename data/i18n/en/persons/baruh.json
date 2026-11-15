@@ -1,0 +1,22 @@
+{
+  "id": "baruh",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Baruch",
+    "short": "Baruch",
+    "given": "Baruch"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/martie/sinaxar-ziua-27-luna-3/#ancora-continut-5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

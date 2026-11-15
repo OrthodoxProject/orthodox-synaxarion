@@ -1,0 +1,22 @@
+{
+  "id": "chindiu",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Cindeus, Bishop of Pisidia",
+    "short": "Cindeus, Bishop of Pisidia",
+    "given": "Cindeus"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/februarie/sinaxar-ziua-20-luna-2/#ancora-continut-5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "codrat-of-nicomidia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Codrat din Nicomidia",
+    "short": "Codrat din Nicomidia",
+    "given": "Codrat"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/martie/sinaxar-ziua-10-luna-3/#ancora-continut-2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

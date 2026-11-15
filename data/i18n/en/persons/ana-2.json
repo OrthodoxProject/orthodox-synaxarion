@@ -1,0 +1,22 @@
+{
+  "id": "ana-2",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Anna",
+    "short": "Anna",
+    "given": "Anna"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/ianuarie/sinaxar-ziua-20-luna-1/#ancora-continut-7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

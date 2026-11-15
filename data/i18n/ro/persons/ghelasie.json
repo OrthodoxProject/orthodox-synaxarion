@@ -1,0 +1,20 @@
+{
+  "id": "ghelasie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Ghelasie",
+    "short": "Ghelasie",
+    "given": "Ghelasie"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/februarie/sinaxar-ziua-27-luna-2/#ancora-continut-4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

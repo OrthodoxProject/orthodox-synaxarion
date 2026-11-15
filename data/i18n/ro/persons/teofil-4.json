@@ -1,0 +1,21 @@
+{
+  "id": "teofil-4",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Teofil, iconomul bisericii",
+    "full": "Sfântul Teofil, iconomul bisericii",
+    "short": "Teofil, iconomul bisericii",
+    "given": "Teofil"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/iunie/sinaxar-ziua-23-luna-6/#ancora-continut-2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "lupicin-of-lauconia",
+  "locale": "en",
+  "names": {
+    "display": "Saint Lupicinus of Lauconne",
+    "short": "Lupicinus of Lauconne",
+    "given": "Lupicinus"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/martie/sinaxar-ziua-21-luna-3/#ancora-continut-8",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

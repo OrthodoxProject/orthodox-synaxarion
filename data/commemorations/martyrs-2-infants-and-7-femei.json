@@ -1,0 +1,26 @@
+{
+  "id": "martyrs-2-infants-and-7-femei",
+  "kind": "repose",
+  "subjects": [
+    "group:martyrs-2-infants-and-7-femei"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 11
+  },
+  "sources": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/februarie/sinaxar-ziua-11-luna-2/#ancora-continut-5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din e-religie.ro; de verificat."
+    ]
+  }
+}

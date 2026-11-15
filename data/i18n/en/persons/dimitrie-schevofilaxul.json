@@ -1,0 +1,22 @@
+{
+  "id": "dimitrie-schevofilaxul",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Demetrius the Sacristan",
+    "short": "Demetrius the Sacristan",
+    "given": "Demetrius"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/ianuarie/sinaxar-ziua-25-luna-1/#ancora-continut-7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

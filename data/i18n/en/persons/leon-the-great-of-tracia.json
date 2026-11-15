@@ -1,0 +1,22 @@
+{
+  "id": "leon-the-great-of-tracia",
+  "locale": "en",
+  "names": {
+    "display": "Right-believing Emperor Leo the Great of Thrace, called Makelles",
+    "short": "Leo the Great of Thrace, called Makelles",
+    "given": "Leo"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/ianuarie/sinaxar-ziua-20-luna-1/#ancora-continut-5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

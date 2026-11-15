@@ -1,0 +1,26 @@
+{
+  "id": "macedonie-of-constantinopol--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:macedonie-of-constantinopol"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 25
+  },
+  "sources": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/aprilie/sinaxar-ziua-25-luna-4/#ancora-continut-3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din e-religie.ro; de verificat."
+    ]
+  }
+}

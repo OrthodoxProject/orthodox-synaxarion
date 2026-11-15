@@ -1,0 +1,22 @@
+{
+  "id": "teodor-2",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Theodore, Pope of Rome",
+    "short": "Theodore, Pope of Rome",
+    "given": "Theodore"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/mai/sinaxar-ziua-18-luna-5/#ancora-continut-6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "romano",
+  "locale": "en",
+  "names": {
+    "display": "New Martyr Romanus",
+    "short": "Romanus",
+    "given": "Romanus"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/februarie/sinaxar-ziua-16-luna-2/#ancora-continut-4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

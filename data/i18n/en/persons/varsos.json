@@ -1,0 +1,22 @@
+{
+  "id": "varsos",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Barsus, Bishop of Damascus",
+    "short": "Barsus, Bishop of Damascus",
+    "given": "Barsus"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/februarie/sinaxar-ziua-28-luna-2/#ancora-continut-7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

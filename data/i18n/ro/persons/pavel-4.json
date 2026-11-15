@@ -1,0 +1,20 @@
+{
+  "id": "pavel-4",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Pavel",
+    "short": "Pavel",
+    "given": "Pavel"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/februarie/sinaxar-ziua-3-luna-2/#ancora-continut-5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

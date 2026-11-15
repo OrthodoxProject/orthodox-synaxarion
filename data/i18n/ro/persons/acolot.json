@@ -1,0 +1,20 @@
+{
+  "id": "acolot",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Acolot",
+    "short": "Acolot",
+    "given": "Acolot"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/mai/sinaxar-ziua-19-luna-5/#ancora-continut-2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

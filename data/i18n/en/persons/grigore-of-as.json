@@ -1,0 +1,22 @@
+{
+  "id": "grigore-of-as",
+  "locale": "en",
+  "names": {
+    "display": "Saint Gregory, Bishop of Assos in Anatolia (12th century)",
+    "short": "Gregory, Bishop of Assos in Anatolia",
+    "given": "Gregory"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/martie/sinaxar-ziua-4-luna-3/#ancora-continut-5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

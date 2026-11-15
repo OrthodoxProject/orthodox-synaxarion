@@ -1,0 +1,22 @@
+{
+  "id": "conon-the-of-roma",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Conon of Rome",
+    "short": "Conon of Rome",
+    "given": "Conon"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/iunie/sinaxar-ziua-5-luna-6/#ancora-continut-6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

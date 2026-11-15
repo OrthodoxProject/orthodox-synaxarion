@@ -1,0 +1,20 @@
+{
+  "id": "anastasie",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Anastasie, arhiep. Constantinopolului",
+    "short": "Anastasie, arhiep. Constantinopolului",
+    "given": "Anastasie"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/februarie/sinaxar-ziua-10-luna-2/#ancora-continut-5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

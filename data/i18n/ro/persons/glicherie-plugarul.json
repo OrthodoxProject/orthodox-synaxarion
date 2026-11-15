@@ -1,0 +1,20 @@
+{
+  "id": "glicherie-plugarul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Glicherie plugarul",
+    "short": "Glicherie plugarul",
+    "given": "Glicherie"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/aprilie/sinaxar-ziua-23-luna-4/#ancora-continut-6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "manuil-criteanul--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:manuil-criteanul"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 15
+  },
+  "sources": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/martie/sinaxar-ziua-15-luna-3/#ancora-continut-7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din e-religie.ro; de verificat."
+    ]
+  }
+}

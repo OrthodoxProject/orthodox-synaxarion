@@ -1,0 +1,22 @@
+{
+  "id": "chir",
+  "locale": "en",
+  "names": {
+    "display": "Saint Cyrus, Archbishop of Constantinople",
+    "short": "Cyrus, Archbishop of Constantinople",
+    "given": "Cyrus"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/ianuarie/sinaxar-ziua-8-luna-1/#ancora-continut-6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

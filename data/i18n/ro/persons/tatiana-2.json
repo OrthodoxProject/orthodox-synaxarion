@@ -1,0 +1,20 @@
+{
+  "id": "tatiana-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Tatiana",
+    "short": "Tatiana",
+    "given": "Tatiana"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/ianuarie/sinaxar-ziua-5-luna-1/#ancora-continut-9",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

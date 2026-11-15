@@ -1,0 +1,26 @@
+{
+  "id": "mihail-vurliotul--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:mihail-vurliotul"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 16
+  },
+  "sources": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/aprilie/sinaxar-ziua-16-luna-4/#ancora-continut-5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din e-religie.ro; de verificat."
+    ]
+  }
+}

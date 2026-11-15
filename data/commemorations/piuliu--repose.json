@@ -1,0 +1,26 @@
+{
+  "id": "piuliu--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:piuliu"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 18
+  },
+  "sources": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/februarie/sinaxar-ziua-18-luna-2/#ancora-continut-4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din e-religie.ro; de verificat."
+    ]
+  }
+}

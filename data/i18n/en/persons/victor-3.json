@@ -1,0 +1,22 @@
+{
+  "id": "victor-3",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Victor",
+    "short": "Victor",
+    "given": "Victor"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/februarie/sinaxar-ziua-26-luna-2/#ancora-continut-6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

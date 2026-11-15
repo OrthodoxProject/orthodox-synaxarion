@@ -1,0 +1,28 @@
+{
+  "id": "codrat-of-nicomidia-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:codrat-of-nicomidia",
+    "person:saturnin",
+    "person:rufin"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 10
+  },
+  "sources": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/martie/sinaxar-ziua-10-luna-3/#ancora-continut-2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Adăugat de mână din e-religie.ro; de verificat."
+    ]
+  }
+}

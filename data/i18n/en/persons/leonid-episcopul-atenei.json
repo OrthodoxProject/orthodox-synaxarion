@@ -1,0 +1,22 @@
+{
+  "id": "leonid-episcopul-atenei",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Leonidas, Bishop of Athens",
+    "short": "Leonidas, Bishop of Athens",
+    "given": "Leonidas"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/aprilie/sinaxar-ziua-15-luna-4/#ancora-continut-4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "doi-martyrs-of-ascalon",
+  "kind": "repose",
+  "subjects": [
+    "group:doi-martyrs-of-ascalon"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 6
+  },
+  "sources": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/aprilie/sinaxar-ziua-6-luna-4/#ancora-continut-4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din e-religie.ro; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "nicolae-the-new-of-vunena",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Nicolae cel Nou din Vunena",
+    "short": "Nicolae cel Nou din Vunena",
+    "given": "Nicolae"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/mai/sinaxar-ziua-9-luna-5/#ancora-continut-6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

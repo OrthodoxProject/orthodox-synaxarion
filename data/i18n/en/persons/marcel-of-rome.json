@@ -1,0 +1,22 @@
+{
+  "id": "marcel-of-rome",
+  "locale": "en",
+  "names": {
+    "display": "Hieromartyr Marcellus, Bishop of Rome",
+    "short": "Marcellus, Bishop of Rome",
+    "given": "Marcellus"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/iunie/sinaxar-ziua-7-luna-6/#ancora-continut-2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

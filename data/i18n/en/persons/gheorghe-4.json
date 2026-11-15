@@ -1,0 +1,22 @@
+{
+  "id": "gheorghe-4",
+  "locale": "en",
+  "names": {
+    "display": "New Martyr George",
+    "short": "George",
+    "given": "George"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/aprilie/sinaxar-ziua-23-luna-4/#ancora-continut-8",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "carion",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Carion",
+    "short": "Carion",
+    "given": "Carion"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/februarie/sinaxar-ziua-1-luna-2/#ancora-continut-7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

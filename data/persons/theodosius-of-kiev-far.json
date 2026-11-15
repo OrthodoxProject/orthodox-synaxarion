@@ -29,6 +29,16 @@
       "source": "src:orthodox-calendar",
       "locator": "backend/app/data/traditions/russian_saints.json",
       "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/mai/sinaxar-ziua-3-luna-5/#ancora-continut-2",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/august/sinaxar-ziua-14-luna-8/#ancora-continut-4",
+      "accessed": "2026-11-15"
     }
   ],
   "editorial": {

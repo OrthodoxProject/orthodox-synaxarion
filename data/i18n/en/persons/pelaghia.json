@@ -1,0 +1,22 @@
+{
+  "id": "pelaghia",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Pelagia",
+    "short": "Pelagia",
+    "given": "Pelagia"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/martie/sinaxar-ziua-25-luna-3/#ancora-continut-2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

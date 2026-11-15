@@ -18,6 +18,11 @@
       "source": "src:orthodox-calendar",
       "locator": "backend/app/data/traditions/russian_saints.json",
       "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/aprilie/sinaxar-ziua-27-luna-4/#ancora-continut-2",
+      "accessed": "2026-11-15"
     }
   ],
   "editorial": {

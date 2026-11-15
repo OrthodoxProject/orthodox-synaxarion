@@ -1,0 +1,26 @@
+{
+  "id": "ghelasie--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:ghelasie"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 27
+  },
+  "sources": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/februarie/sinaxar-ziua-27-luna-2/#ancora-continut-4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din e-religie.ro; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "teopempt",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Teopempt",
+    "short": "Teopempt",
+    "given": "Teopempt"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/ianuarie/sinaxar-ziua-2-luna-1/#ancora-continut-4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

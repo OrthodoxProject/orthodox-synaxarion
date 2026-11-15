@@ -1,0 +1,26 @@
+{
+  "id": "ioan-corabierul--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:ioan-corabierul"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 8
+  },
+  "sources": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/aprilie/sinaxar-ziua-8-luna-4/#ancora-continut-5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din e-religie.ro; de verificat."
+    ]
+  }
+}

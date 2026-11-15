@@ -1,0 +1,22 @@
+{
+  "id": "telesfor",
+  "locale": "en",
+  "names": {
+    "display": "Saint Telesphorus, Bishop of Rome",
+    "short": "Telesphorus, Bishop of Rome",
+    "given": "Telesphorus"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/februarie/sinaxar-ziua-22-luna-2/#ancora-continut-6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

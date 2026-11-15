@@ -1,0 +1,20 @@
+{
+  "id": "nichifor-presbiterul-manastirii-efesului",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Nichifor presbiterul Mănăstirii Efesului",
+    "short": "Nichifor presbiterul Mănăstirii Efesului",
+    "given": "Nichifor"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/mai/sinaxar-ziua-13-luna-5/#ancora-continut-6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

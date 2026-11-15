@@ -1,0 +1,20 @@
+{
+  "id": "chir",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Chir, arhiep. Constantinopolului",
+    "short": "Chir, arhiep. Constantinopolului",
+    "given": "Chir"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/ianuarie/sinaxar-ziua-8-luna-1/#ancora-continut-6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

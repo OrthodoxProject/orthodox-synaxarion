@@ -1,0 +1,20 @@
+{
+  "id": "terinos",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Terinos",
+    "short": "Terinos",
+    "given": "Terinos"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/aprilie/sinaxar-ziua-23-luna-4/#ancora-continut-7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "crescent-3-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:crescent-3",
+    "person:pavel-8",
+    "person:dioscorid"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 28
+  },
+  "sources": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/mai/sinaxar-ziua-28-luna-5/#ancora-continut-6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din e-religie.ro; de verificat."
+    ]
+  }
+}

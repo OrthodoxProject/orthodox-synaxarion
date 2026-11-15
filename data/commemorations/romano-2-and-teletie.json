@@ -1,0 +1,27 @@
+{
+  "id": "romano-2-and-teletie",
+  "kind": "repose",
+  "subjects": [
+    "person:romano-2",
+    "person:teletie"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 30
+  },
+  "sources": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/mai/sinaxar-ziua-30-luna-5/#ancora-continut-4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din e-religie.ro; de verificat."
+    ]
+  }
+}

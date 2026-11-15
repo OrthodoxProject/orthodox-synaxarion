@@ -1,0 +1,22 @@
+{
+  "id": "chiric-of-apros",
+  "locale": "en",
+  "names": {
+    "display": "Saint Cyricus of Apros",
+    "short": "Cyricus of Apros",
+    "given": "Cyricus"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/martie/sinaxar-ziua-27-luna-3/#ancora-continut-7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

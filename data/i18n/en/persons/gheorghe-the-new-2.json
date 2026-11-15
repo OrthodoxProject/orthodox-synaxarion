@@ -1,0 +1,22 @@
+{
+  "id": "gheorghe-the-new-2",
+  "locale": "en",
+  "names": {
+    "display": "Venerable George the New, Wonderworker of Dihippion",
+    "short": "George the New, Wonderworker of Dihippion",
+    "given": "George"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/martie/sinaxar-ziua-23-luna-3/#ancora-continut-5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

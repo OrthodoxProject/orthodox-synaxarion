@@ -1,0 +1,22 @@
+{
+  "id": "mil",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Milus the Hymnographer",
+    "short": "Milus the Hymnographer",
+    "given": "Milus"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/mai/sinaxar-ziua-8-luna-5/#ancora-continut-3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

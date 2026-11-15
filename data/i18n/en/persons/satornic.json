@@ -1,0 +1,22 @@
+{
+  "id": "satornic",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Saturnicus",
+    "short": "Saturnicus",
+    "given": "Saturnicus"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/februarie/sinaxar-ziua-12-luna-2/#ancora-continut-6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

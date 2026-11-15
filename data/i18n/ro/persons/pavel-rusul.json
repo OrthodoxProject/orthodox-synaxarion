@@ -1,0 +1,20 @@
+{
+  "id": "pavel-rusul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Nou Mc. Pavel Rusul",
+    "short": "Pavel Rusul",
+    "given": "Pavel"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/aprilie/sinaxar-ziua-3-luna-4/#ancora-continut-7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "6-martyrs-of-egipt",
+  "kind": "repose",
+  "subjects": [
+    "group:6-martyrs-of-egipt"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 28
+  },
+  "sources": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/februarie/sinaxar-ziua-28-luna-2/#ancora-continut-5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din e-religie.ro; de verificat."
+    ]
+  }
+}

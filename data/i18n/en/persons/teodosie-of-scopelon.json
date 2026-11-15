@@ -1,0 +1,22 @@
+{
+  "id": "teodosie-of-scopelon",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Theodosius of Skopelos",
+    "short": "Theodosius of Skopelos",
+    "given": "Theodosius"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/februarie/sinaxar-ziua-5-luna-2/#ancora-continut-3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

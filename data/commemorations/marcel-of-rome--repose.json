@@ -1,0 +1,26 @@
+{
+  "id": "marcel-of-rome--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:marcel-of-rome"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 7
+  },
+  "sources": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/iunie/sinaxar-ziua-7-luna-6/#ancora-continut-2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din e-religie.ro; de verificat."
+    ]
+  }
+}

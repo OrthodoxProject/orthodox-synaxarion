@@ -1,0 +1,20 @@
+{
+  "id": "simon",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Simon",
+    "short": "Simon",
+    "given": "Simon"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/februarie/sinaxar-ziua-3-luna-2/#ancora-continut-5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

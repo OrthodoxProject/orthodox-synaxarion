@@ -1,0 +1,20 @@
+{
+  "id": "teostirict",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Teostirict",
+    "short": "Teostirict",
+    "given": "Teostirict"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/februarie/sinaxar-ziua-17-luna-2/#ancora-continut-4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

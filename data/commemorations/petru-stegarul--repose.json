@@ -1,0 +1,26 @@
+{
+  "id": "petru-stegarul--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:petru-stegarul"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 3
+  },
+  "sources": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/ianuarie/sinaxar-ziua-3-luna-1/#ancora-continut-3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din e-religie.ro; de verificat."
+    ]
+  }
+}

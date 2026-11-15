@@ -1,0 +1,22 @@
+{
+  "id": "eusebiu-3",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Eusebius",
+    "short": "Eusebius",
+    "given": "Eusebius"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/ianuarie/sinaxar-ziua-23-luna-1/#ancora-continut-3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "marcu-the-surd",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Mark the Deaf",
+    "short": "Mark the Deaf",
+    "given": "Mark"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/ianuarie/sinaxar-ziua-2-luna-1/#ancora-continut-5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

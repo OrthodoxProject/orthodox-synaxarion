@@ -1,0 +1,22 @@
+{
+  "id": "tea",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Thea",
+    "short": "Thea",
+    "given": "Thea"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/februarie/sinaxar-ziua-23-luna-2/#ancora-continut-5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

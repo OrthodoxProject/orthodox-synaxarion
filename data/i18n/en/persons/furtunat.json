@@ -1,0 +1,22 @@
+{
+  "id": "furtunat",
+  "locale": "en",
+  "names": {
+    "display": "Saint Fortunatus",
+    "short": "Fortunatus",
+    "given": "Fortunatus"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/aprilie/sinaxar-ziua-16-luna-4/#ancora-continut-2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "codrat",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Codrat",
+    "short": "Codrat",
+    "given": "Codrat"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/martie/sinaxar-ziua-4-luna-3/#ancora-continut-4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

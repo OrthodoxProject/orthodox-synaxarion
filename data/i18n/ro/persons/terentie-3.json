@@ -1,0 +1,20 @@
+{
+  "id": "terentie-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Terentie",
+    "short": "Terentie",
+    "given": "Terentie"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/aprilie/sinaxar-ziua-5-luna-4/#ancora-continut-7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

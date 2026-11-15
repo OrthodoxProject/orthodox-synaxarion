@@ -1,0 +1,20 @@
+{
+  "id": "mel",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mel",
+    "short": "Mel",
+    "given": "Mel"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/mai/sinaxar-ziua-4-luna-5/#ancora-continut-5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

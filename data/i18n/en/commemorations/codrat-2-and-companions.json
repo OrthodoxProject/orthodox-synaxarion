@@ -1,0 +1,20 @@
+{
+  "id": "codrat-2-and-companions",
+  "locale": "en",
+  "names": {
+    "display": "Martyrs Quadratus, Cyprian, Dionysius, Anectus, Paul, Crescens and those with them"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/martie/sinaxar-ziua-10-luna-3/#ancora-continut-1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

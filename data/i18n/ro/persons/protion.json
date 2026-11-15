@@ -1,0 +1,20 @@
+{
+  "id": "protion",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Protion",
+    "short": "Protion",
+    "given": "Protion"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/aprilie/sinaxar-ziua-12-luna-4/#ancora-continut-5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

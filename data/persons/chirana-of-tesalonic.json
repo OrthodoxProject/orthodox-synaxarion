@@ -1,0 +1,23 @@
+{
+  "id": "chirana-of-tesalonic",
+  "kind": "saint",
+  "gender": "female",
+  "holiness_types": [
+    "martyr",
+    "new_martyr"
+  ],
+  "sources": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/februarie/sinaxar-ziua-28-luna-2/#ancora-continut-9",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din e-religie.ro; de verificat."
+    ]
+  }
+}

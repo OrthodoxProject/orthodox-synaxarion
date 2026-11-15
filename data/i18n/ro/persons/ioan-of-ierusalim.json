@@ -1,0 +1,20 @@
+{
+  "id": "ioan-of-ierusalim",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ioan, patriarhul Ierusalimului",
+    "short": "Ioan, patriarhul Ierusalimului",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/martie/sinaxar-ziua-30-luna-3/#ancora-continut-6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

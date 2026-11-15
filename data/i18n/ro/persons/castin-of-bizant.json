@@ -1,0 +1,20 @@
+{
+  "id": "castin-of-bizant",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Castin, episcopul Bizanțului",
+    "short": "Castin, episcopul Bizanțului",
+    "given": "Castin"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/ianuarie/sinaxar-ziua-25-luna-1/#ancora-continut-6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

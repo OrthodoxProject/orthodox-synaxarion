@@ -1,0 +1,20 @@
+{
+  "id": "policarp",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Policarp",
+    "short": "Policarp",
+    "given": "Policarp"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/februarie/sinaxar-ziua-8-luna-2/#ancora-continut-5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

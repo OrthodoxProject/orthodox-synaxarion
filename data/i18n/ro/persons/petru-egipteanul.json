@@ -1,0 +1,20 @@
+{
+  "id": "petru-egipteanul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Petru Egipteanul",
+    "short": "Petru Egipteanul",
+    "given": "Petru"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/ianuarie/sinaxar-ziua-27-luna-1/#ancora-continut-3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

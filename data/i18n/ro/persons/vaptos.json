@@ -1,0 +1,20 @@
+{
+  "id": "vaptos",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Vaptos",
+    "short": "Vaptos",
+    "given": "Vaptos"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/februarie/sinaxar-ziua-10-luna-2/#ancora-continut-3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

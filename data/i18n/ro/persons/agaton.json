@@ -1,0 +1,20 @@
+{
+  "id": "agaton",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Agaton",
+    "short": "Agaton",
+    "given": "Agaton"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/ianuarie/sinaxar-ziua-8-luna-1/#ancora-continut-9",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "nimfas-the-apostle-and-evul-the-apostle",
+  "locale": "en",
+  "names": {
+    "display": "Apostles Nymphas and Eubulus"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/februarie/sinaxar-ziua-28-luna-2/#ancora-continut-6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

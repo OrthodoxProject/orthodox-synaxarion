@@ -703,7 +703,8 @@ export function cleanOrtodoxMdTitle(title: string): string {
   // Companions counted, not named: "… și 3 mucenici soldați", "…, alți 40 de mucenici", "… împreună cu 12 fecioare
   // mucenițe și 6 credincioși", "…, 4 dintre părinții uciși de arabi".
   t = t.replace(/,\s+\d+\s+dintre\s.*$/u, "");
-  t = t.replace(/(?:,\s*(?:dimpreună\s+)?(?:și\s+|împreună cu\s+|cu\s+)?|\s+(?:dimpreună\s+)?(?:și|împreună cu|cu)\s+)(?:cei\s+|cele\s+|alți\s+|alte\s+)?\d+(?:\.\d+)?\s+(?:de\s+)?\p{L}.*$/u, " și cei împreună cu ei");
+  // Counted companions whom a colon then names stay: "…, cei 5 copii ai lor: Olga, Tatiana, Maria, Anastasia și Alexie".
+  t = t.replace(/(?:,\s*(?:dimpreună\s+)?(?:și\s+|împreună cu\s+|cu\s+)?|\s+(?:dimpreună\s+)?(?:și|împreună cu|cu)\s+)(?:cei\s+|cele\s+|alți\s+|alte\s+)?\d+(?:\.\d+)?\s+(?:de\s+)?\p{L}(?![^:]*:).*$/u, " și cei împreună cu ei");
   t = t.replace(/^((?:Sfinții|Sfintele|Sfinți)(?:\s+\p{Lu}\p{Ll}+)*)\s+(?:și\s+)?(?:frați|surori)(?:\s+buni)?(?=[\s:,])/u, "$1");
   t = t.replace(/,?\s*\+\s*\d{3,4}.*$/u, "");
   t = t.replace(/^(Aflarea moaștelor), și a doua proslăvire a /u, "$1 ");

@@ -2428,4 +2428,36 @@ describe("calendar.ortodox.md", () => {
       rmSync(dir, { recursive: true, force: true });
     }
   });
+
+  it("looks for a line on the civil day only by its whole name", () => {
+    const saint = (id: string, ro: string, en: string, month: number, day: number, holiness: string[]): Record<string, unknown> => ({
+      [`persons/${id}.json`]: { id, kind: "saint", gender: "male", holiness_types: holiness, sources: [{ source: "src:oca-lives" }] },
+      [`i18n/ro/persons/${id}.json`]: { id, locale: "ro", names: { display: ro } },
+      [`i18n/en/persons/${id}.json`]: { id, locale: "en", names: { display: en } },
+      [`commemorations/${id}--repose.json`]: { id: `${id}--repose`, kind: "repose", subjects: [`person:${id}`], date_rule: { type: "fixed", month, day }, sources: [{ source: "src:oca-lives" }] },
+    });
+    const dir = fixture({
+      // Both are kept on their civil day, 13 days after the old-style one.
+      ...saint("luke-of-simferopol", "Sf. Ier. Luca, Arhiepiscopul Crimeei", "Saint Luke, Archbishop of Simferopol and Crimea", 6, 11, ["hierarch"]),
+      ...saint("herman-of-alaska", "Sf. Cuv. Gherman de Alaska", "Venerable Herman of Alaska", 11, 15, ["venerable"]),
+    });
+    try {
+      const output = run(dir, [
+        ...entry("10", "Sfântul Ierarh Luca al Crimeii (1961)", 5, 29),
+        // "Ermin" and "Herman" share a name key, but nothing else.
+        ...entry("11", "Sfântul Cuvios Ermin, pustnic în Anglia", 11, 2),
+      ]);
+      assert.deepEqual(
+        output.files.get("commemorations/luke-of-simferopol--repose.json")?.sources.map((s: { url?: string }) => s.url),
+        [undefined, md("10")],
+      );
+      const may = output.files.get("traditions/moldova/menaion/05/29.json")?.entries;
+      assert.deepEqual(may, [{ commemorations: ["comm:luke-of-simferopol--repose"], differs_from_default: true }]);
+      assert.ok(!output.files.has("commemorations/herman-of-alaska--repose.json"));
+      const ermin = [...output.files].find(([path, rec]) => path.startsWith("i18n/ro/persons/") && rec.names.given === "Ermin");
+      assert.ok(ermin);
+    } finally {
+      rmSync(dir, { recursive: true, force: true });
+    }
+  });
 });

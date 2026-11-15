@@ -1231,12 +1231,29 @@ export class Builder {
           }
         }
         const rules: MatchRules = { claimed, onlyOfName: true, agree: true, strict: true };
-        // The OCA keeps some saints of the 20th century on their civil day, 13 days after the old-style one (the Royal
-        // Martyrs on 17 July): a line that matches nothing on its day is looked for on that day too, as the lists are.
-        if (!mine && this.exactFor(u).length === 0 && this.match(u, this.candidates(u.month, u.day), rules).clusters.length === 0) {
+        // The OCA and the Romanian calendar keep the saints of the last centuries, their relics and their glorifications
+        // on their civil day, 13 days after the old-style one (the Royal Martyrs on 17 July, the relics of St Andrew at
+        // Iași on 13 October): such a line that matches nothing on its day is looked for on that day too, by its names,
+        // not as the only saint of its first name (the civil day has other saints, and "Ignatie, nevoitor lângă
+        // Vlaherna" is not St Ignatius the God-Bearer).
+        const kinds = ["saint", "saints", "group", "relics_translation", "relics_finding", "glorification"];
+        if (kinds.includes(u.parsed.kind) && !mine && this.exactFor(u).length === 0 && this.match(u, this.candidates(u.month, u.day), rules).clusters.length === 0) {
           const civil = civilDay(u.month, u.day);
-          const late = this.match({ ...u, ...civil }, this.candidates(civil.month, civil.day), rules);
-          if (late.clusters.length > 0 && late.rest.length === 0) {
+          const late = this.match({ ...u, ...civil }, this.candidates(civil.month, civil.day), { claimed, agree: true, strict: true });
+          // Each name found there shares a place, a family name or an epithet with the saint's, not only a country:
+          // "Sfântul Nou Mucenic Petru din Rusia" is not "Sf. Petru Damaschinul", nor "Alexandra (Diacicova)" "Sf.
+          // Alexandru preotul", nor "Sfântul Cuvios Ermin, pustnic în Anglia" "Sf. Cuv. Gherman de Alaska".
+          const proper = (n: NamePart): string[] => extraKeys(n).filter((k) => !COUNTRY_KEYS.has(k) && !COMMON_KEYS.has(k));
+          const described = (part: NamePart, slot: Slot): boolean => {
+            const own = proper(part);
+            return [slot.ro?.part, slot.en?.part, ...slot.alts].some((n) => n !== undefined && proper(n).some((k) => own.some((x) => x === k || nameSimilarity(x, k) >= 0.75)));
+          };
+          // A line of saints must find its persons there, or a group that it names by three saints or more (the Royal
+          // Martyrs), not a group by a first name ("Sfântul Sfințit Mucenic Ștefan, episcopul Romei" is not "Sf. Martiri
+          // Brâncoveni").
+          const named = (c: Cluster): boolean => u.parsed.names.length >= 3 && groupNamesScore(u, c) >= 0.67;
+          const persons = !["saint", "saints", "group"].includes(u.parsed.kind) || late.pairs.length > 0 || late.clusters.every(named);
+          if (late.clusters.length > 0 && late.rest.length === 0 && persons && late.pairs.every(([part, slot]) => described(part, slot))) {
             mine = late;
             this.count("ortodoxmd.civil-day");
           }
@@ -1250,7 +1267,10 @@ export class Builder {
           if (c.icon) addCitation(c.icon.citations, u.citation);
         }
         done.push({ u, clusters });
-        if (clusters.length > 0) this.addLine("moldova", u.month, u.day, withDiffers({ clusters }, u.month, u.day));
+        // The site lists the saints of 29 February on the 28th in a common year (St John Cassian): their line goes on
+        // the 29th, whose commemorations fall back to the 28th in a common year.
+        const day = u.month === 2 && u.day === 28 && clusters.length > 0 && clusters.every((c) => c.leapDay) ? 29 : u.day;
+        if (clusters.length > 0) this.addLine("moldova", u.month, day, withDiffers({ clusters }, u.month, day));
       }
     }
     this.placePeriods("moldova", periodUnits);

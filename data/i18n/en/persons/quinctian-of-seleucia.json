@@ -1,0 +1,23 @@
+{
+  "id": "quinctian-of-seleucia",
+  "locale": "en",
+  "names": {
+    "display": "Saint Quinctian, Bishop of Seleucia",
+    "short": "Quinctian, Bishop of Seleucia",
+    "given": "Quinctian",
+    "variants": [
+      "Saint Kyntion, Bishop of Seleucia"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:wikipedia",
+      "url": "https://en.wikipedia.org/wiki/November_15_(Eastern_Orthodox_liturgics)",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

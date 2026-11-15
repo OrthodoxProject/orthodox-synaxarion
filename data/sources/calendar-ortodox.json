@@ -1,0 +1,16 @@
+{
+  "id": "calendar-ortodox",
+  "type": "synaxarion",
+  "title": "Calendar Ortodox – Sinaxar",
+  "url": "https://www.calendar-ortodox.ro/",
+  "language": "ro",
+  "license": "LicenseRef-AllRightsReserved",
+  "accessed": "2026-11-15",
+  "notes": [
+    "Sinaxarul Mineiului, câte o pagină pe zi (luna/noiembrie/noiembrie15.htm), cu rândurile „Tot în această zi, pomenirea …”, pe care calendarul oficial nu le are în titlul zilei. Folosim doar fapte (cine se pomenește și în ce zi), cu trimitere la pagina zilei."
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium"
+  }
+}

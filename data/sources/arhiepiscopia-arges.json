@@ -1,0 +1,17 @@
+{
+  "id": "arhiepiscopia-arges",
+  "type": "synaxarion",
+  "title": "Sinaxar",
+  "publisher": "Arhiepiscopia Argeșului și Muscelului",
+  "url": "https://arhiepiscopiaargesuluisimuscelului.ro/sinaxar/",
+  "language": "ro",
+  "license": "LicenseRef-AllRightsReserved",
+  "accessed": "2026-11-15",
+  "notes": [
+    "Sinaxarul Mineiului, câte o postare pe zi („Sinaxar 15 noiembrie”), cu rândurile „Tot în această zi, pomenirea …”, pe care calendarul oficial nu le are în titlul zilei. Folosim doar fapte (cine se pomenește și în ce zi), cu trimitere la postarea zilei."
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "high"
+  }
+}

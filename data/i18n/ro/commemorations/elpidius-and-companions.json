@@ -2,19 +2,23 @@
   "id": "elpidius-and-companions",
   "locale": "ro",
   "names": {
-    "display": "Sf. Mc. Elpidie, Marcel și Eustohie, care au pătimit sub Iulian Apostatul"
+    "display": "Sf. Mc. Elpidie, Marcel, Eustohie și cei împreună cu dânșii",
+    "full": "Sfinții Mucenici Elpidie, Marcel, Eustohie și cei împreună cu dânșii"
   },
   "references": [
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/11/15/103307-martyrs-elpidius-marcellus-and-eustochius-who-suffered-under-jul",
-      "accessed": "2026-11-08"
+      "source": "src:calendar-ortodox",
+      "url": "https://www.calendar-ortodox.ro/luna/noiembrie/noiembrie15.htm",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:arhiepiscopia-arges",
+      "url": "https://arhiepiscopiaargesuluisimuscelului.ro/sinaxar-15-noiembrie-2/",
+      "accessed": "2026-11-15"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "en",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

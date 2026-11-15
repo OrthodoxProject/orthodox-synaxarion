@@ -7,6 +7,16 @@
   ],
   "sources": [
     {
+      "source": "src:calendar-ortodox",
+      "url": "https://www.calendar-ortodox.ro/luna/noiembrie/noiembrie15.htm",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:arhiepiscopia-arges",
+      "url": "https://arhiepiscopiaargesuluisimuscelului.ro/sinaxar-15-noiembrie-2/",
+      "accessed": "2026-11-15"
+    },
+    {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/11/15/103307-martyrs-elpidius-marcellus-and-eustochius-who-suffered-under-jul",
       "accessed": "2026-11-08"
@@ -14,10 +24,9 @@
   ],
   "editorial": {
     "status": "draft",
-    "confidence": "low",
+    "confidence": "medium",
     "notes": [
-      "Importat automat din oca.org; de verificat.",
-      "Genul nu reiese din sursă; e de verificat."
+      "Importat automat din oca.org; adăugat de mână din calendar-ortodox.ro și arhiepiscopiaargesuluisimuscelului.ro; de verificat."
     ]
   }
 }

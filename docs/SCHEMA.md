@@ -153,6 +153,8 @@ npm run import
 | copticchurch.net, st-takla.org | sinaxarul copt, cu linkurile zilelor | calendarul copt (`coptic`), numele în engleză |
 | armenianchurch.ge | praznicele și pomenirile armene, grupate pe luni | `traditions/armenian/movable.json`, cu regulă `unspecified` |
 
+Sinaxarul Mineiului de pe calendar-ortodox.ro și de la Arhiepiscopia Argeșului și Muscelului (`src:calendar-ortodox`, `src:arhiepiscopia-arges`), cu rândurile *Tot în această zi, pomenirea …* pe care calendarul oficial nu le are în titlul zilei, e în `data/sources/`, dar importul nu îl citește încă: pomenirile din el sunt adăugate de mână (15 noiembrie). Planul importului e în [PLAN-MINEI.md](PLAN-MINEI.md).
+
 Cum lucrează:
 
 - **Descărcarea** respectă `robots.txt` și pauza cerută de fiecare site (OCA cere 10 secunde între pagini), deci prima rulare durează cam două ore. Paginile rămân în `build/cache/` (necomis); `--offline` lucrează doar cu ele, `--dry-run` doar raportează. Ca să descarci din nou (de exemplu calendarul unui an nou), șterge `build/cache/`.
@@ -219,8 +221,8 @@ Datele din `data/` au pornit de la 17 cazuri-limită alese ca să pună schema l
 
 Restul vine din [importul din surse](#importul-din-surse). Pe scurt, acum:
 
-- 3.679 de persoane (cu nume din surse: 1.554 în română, 3.129 în engleză, 1.004 în ambele), 354 de grupuri, 4.585 de pomeniri, 306 icoane;
-- calendarul BOR are toate cele 366 de zile (1.624 de rânduri, 765 cu titlul oficial), cel rusesc 366 de zile (2.833 de rânduri), cel al Patriarhiei Ecumenice 359 de zile (999 de rânduri) și cel al Serbiei 358 (1.072 de rânduri), cu încredere scăzută, cel copt 365 de zile (696 de rânduri); cele 146 de pomeniri armene așteaptă regula zilei;
+- 3.680 de persoane (cu nume din surse: 1.559 în română, 3.130 în engleză, 1.009 în ambele), 354 de grupuri, 4.586 de pomeniri, 306 icoane;
+- calendarul BOR are toate cele 366 de zile (1.627 de rânduri, 765 cu titlul oficial), cel rusesc 366 de zile (2.833 de rânduri), cel al Patriarhiei Ecumenice 359 de zile (1.001 rânduri) și cel al Serbiei 358 (1.074 de rânduri), cu încredere scăzută, cel copt 365 de zile (696 de rânduri); cele 146 de pomeniri armene așteaptă regula zilei;
 - 8 tradiții: BOR, Patriarhia Ecumenică, Biserica Greciei, Rusia, Serbia (Biserici răsăritene), copți și armeni (Biserici orientale), Biserica Asiriană a Răsăritului;
 - texte în 8 limbi: română, engleză, greacă (modernă și bizantină), rusă, sârbă (chirilică), armeană, arabă.
 

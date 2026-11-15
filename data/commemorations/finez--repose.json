@@ -1,0 +1,26 @@
+{
+  "id": "finez--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:finez"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 12
+  },
+  "sources": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-03-25?text=3884",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendarul Patriarhiei Georgiei (patriarchate.ge); de verificat."
+    ]
+  }
+}

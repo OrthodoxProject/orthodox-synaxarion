@@ -1,0 +1,30 @@
+{
+  "id": "germanus-2-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:germanus-2",
+    "person:hierotheus",
+    "person:simon-presbyter",
+    "person:bessarion-archdeacon",
+    "person:dros"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 14
+  },
+  "sources": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-08-27?text=4755",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendarul Patriarhiei Georgiei (patriarchate.ge); de verificat."
+    ]
+  }
+}

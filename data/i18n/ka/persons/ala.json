@@ -1,0 +1,19 @@
+{
+  "id": "ala",
+  "locale": "ka",
+  "names": {
+    "display": "მოწამე ალა",
+    "given": "ალა"
+  },
+  "references": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-04-08?text=3964",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

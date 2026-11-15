@@ -1,0 +1,19 @@
+{
+  "id": "nifont-bishop-of-cyprus",
+  "locale": "ka",
+  "names": {
+    "display": "ღირსი ნიფონტი",
+    "given": "ნიფონტი"
+  },
+  "references": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2027-01-05?text=3442",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

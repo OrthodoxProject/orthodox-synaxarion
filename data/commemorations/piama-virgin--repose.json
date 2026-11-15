@@ -1,0 +1,26 @@
+{
+  "id": "piama-virgin--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:piama-virgin"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 3
+  },
+  "sources": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-03-16?text=3820",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendarul Patriarhiei Georgiei (patriarchate.ge); de verificat."
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kionia",
+  "locale": "ka",
+  "names": {
+    "display": "მოწამე ქიონია",
+    "given": "ქიონია"
+  },
+  "references": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-07-29?text=4598",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "thaisia",
+  "locale": "ka",
+  "names": {
+    "display": "ნეტარი ტაისია",
+    "given": "ტაისია"
+  },
+  "references": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-05-23?text=4208",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

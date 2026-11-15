@@ -1,0 +1,19 @@
+{
+  "id": "sokrat",
+  "locale": "ka",
+  "names": {
+    "display": "მოწამე სოკრატი",
+    "given": "სოკრატი"
+  },
+  "references": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-11-05?text=3068",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

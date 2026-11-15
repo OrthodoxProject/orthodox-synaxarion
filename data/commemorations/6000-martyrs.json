@@ -1,0 +1,26 @@
+{
+  "id": "6000-martyrs",
+  "kind": "repose",
+  "subjects": [
+    "group:6000-martyrs"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 1
+  },
+  "sources": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-04-14?text=4964",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendarul Patriarhiei Georgiei (patriarchate.ge); de verificat."
+    ]
+  }
+}

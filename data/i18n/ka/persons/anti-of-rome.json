@@ -1,0 +1,19 @@
+{
+  "id": "anti-of-rome",
+  "locale": "ka",
+  "names": {
+    "display": "მოწამე ანთი",
+    "given": "ანთი"
+  },
+  "references": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-12-21?text=3365",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

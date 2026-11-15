@@ -1,0 +1,30 @@
+{
+  "id": "serapion-6-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:serapion-6",
+    "person:germanus",
+    "person:bessarion-2",
+    "person:michael-8",
+    "person:simeon-of-gareji"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 12
+  },
+  "sources": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-08-25?text=4745",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendarul Patriarhiei Georgiei (patriarchate.ge); de verificat."
+    ]
+  }
+}

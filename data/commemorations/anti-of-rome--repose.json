@@ -1,0 +1,26 @@
+{
+  "id": "anti-of-rome--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:anti-of-rome"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 12,
+    "day": 8
+  },
+  "sources": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-12-21?text=3365",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendarul Patriarhiei Georgiei (patriarchate.ge); de verificat."
+    ]
+  }
+}

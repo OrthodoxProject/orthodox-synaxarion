@@ -2,7 +2,7 @@
   "id": "assuage-my-sorrows-icon-of-theotokos-2",
   "kind": "icon",
   "subjects": [
-    "icon:assuage-my-sorrows-icon-of-theotokos-2"
+    "icon:translation-to-moscow-of-the-icon-of-theotokos-assuage"
   ],
   "date_rule": {
     "type": "fixed",
@@ -14,6 +14,11 @@
   },
   "sources": [
     {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoanei-maicii-domnului-potoleste-intristarile-noastre",
+      "accessed": "2026-11-08"
+    },
+    {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/10/09/102918-assuage-my-sorrows-icon-of-the-mother-of-god",
       "accessed": "2026-11-08"
@@ -21,9 +26,12 @@
   ],
   "editorial": {
     "status": "draft",
-    "confidence": "low",
+    "confidence": "medium",
     "notes": [
-      "Importat automat din oca.org; de verificat."
+      "Importat automat din doxologia.ro, oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "icon-of-theotokos-potoleste-intristarile-noastre--10-09"
+  ]
 }

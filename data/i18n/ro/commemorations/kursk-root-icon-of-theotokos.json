@@ -2,19 +2,17 @@
   "id": "kursk-root-icon-of-theotokos",
   "locale": "ro",
   "names": {
-    "display": "Icoana Maicii Domnului „a Rădăcinii din Kursk”"
+    "display": "Cinstirea Sfintei Icoanei a Maicii Domnului „a Semnului” (a Rădăcinii din Kursk)"
   },
   "references": [
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/11/27/103410-kursk-root-icon-of-the-mother-of-god",
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoanei-maicii-domnului-semnului-radacinii-din-kursk",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "en",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

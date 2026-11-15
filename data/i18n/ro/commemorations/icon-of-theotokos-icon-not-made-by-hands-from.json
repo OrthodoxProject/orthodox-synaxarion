@@ -2,19 +2,17 @@
   "id": "icon-of-theotokos-icon-not-made-by-hands-from",
   "locale": "ro",
   "names": {
-    "display": "Icoana Maicii Domnului „Nefăcută de mână” din Lida"
+    "display": "Cinstirea Sfintei Icoanei a Maicii Domnului din Lida"
   },
   "references": [
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/03/12/100791-icon-of-the-mother-of-god-icon-not-made-by-hands-from-lydda",
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoanei-maicii-domnului-din-lida",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "en",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

@@ -1785,6 +1785,102 @@ describe("matching the sources", () => {
     assert.equal(person?.gender, "male");
     assert.ok(!person?.editorial.notes.some((n: string) => n.startsWith("Genul nu reiese")));
   });
+
+  /** The icons a Builder run makes of the doxologia and OCA lines of one day, as "Romanian name → English name". */
+  const iconsOf = (doxologia: string[], oca: Array<[string, string]>, month: number, day: number): Record<string, string | undefined> => {
+    const sources: SourceData = {
+      accessed: "2026-11-08",
+      patriarhia: [],
+      doxologia: doxologia.map((title, order) => ({ slug: `doxologia-${order}`, title, month, day, order, color: null, cross: null, secondRow: false })),
+      oca: oca.flatMap(([id, title], order) => [2026, 2028].map((year) => ({ id, title, path: `/saints/lives/${year}/${String(month).padStart(2, "0")}/${String(day).padStart(2, "0")}/${id}`, year, month, day, order }))),
+      coptic: [],
+      armenian: [],
+      overlays: [],
+    };
+    const builder = new Builder(loadExisting(join(REPO_ROOT, "tests", "fixtures", "minimal", "data")));
+    builder.romanian(doxologiaUnits(sources), [], [{ month, day }]);
+    builder.russian(ocaUnits(sources, [2026, 2028]).fixed);
+    const icons = builder.clusters.filter((c) => c.kind === "icon").map((c) => c.icon);
+    return Object.fromEntries(icons.map((i) => [i?.ro ?? `(${i?.en})`, i?.en]));
+  };
+
+  it("puts the Romanian and English names of an icon together when each calendar spells the place in its own way (15 November: Kupiatici / Kupyatitsa)", () => {
+    assert.deepEqual(
+      iconsOf(["Cinstirea Sfintei Icoanei a Maicii Domnului „de pe Cruce” (Kupiatici)"], [["103312", "Kupyatitsa Icon of the Mother of God"], ["100209", "“Fragrant Flower” Icon of the Mother of God"]], 11, 15),
+      // The names of the icons keep straight quotes.
+      { "Icoana Maicii Domnului „de pe Cruce” (Kupiatici)": "Kupyatitsa Icon of the Mother of God", '("Fragrant Flower" Icon of the Mother of God)': '"Fragrant Flower" Icon of the Mother of God' },
+    );
+    for (const [ro, id, en, month, day] of [
+      ["Cinstirea Sfintei Icoane a Maicii Domnului din Eleț", "100153", "Yelets Icon of the Mother of God", 1, 11],
+      ["Cinstirea Sfintei Icoanei a Maicii Domnului „Rjevskaia” (sau „Okovețkaia”)", "102005", "Icon of the Mother of God of Rzhevsk", 7, 11],
+      ["Cinstirea Sfintei Icoane a Maicii Domnului de la Poceaev", "102074", "Icon of the Mother of God of Pochaev", 7, 23],
+      ["Cinstirea Sfintei Icoanei a Maicii Domnului „Feodotevskaia”", "101871", "Icon of the Mother of God of Theodotiev", 7, 2],
+    ] as const) {
+      const found = iconsOf([ro], [[id, en]], month, day);
+      assert.deepEqual(Object.values(found), [en], ro);
+    }
+  });
+
+  it("puts together the icons that each calendar names by its title in its own language (25 January: „Bucurie neașteptată” / “The Unexpected Joy”)", () => {
+    assert.deepEqual(
+      iconsOf(
+        ["Cinstirea Sfintei Icoanei a Maicii Domnului „Bucurie neașteptată”", "Cinstirea Sfintei Icoanei a Maicii Domnului „Potolește întristările noastre”"],
+        [["100312", "Translation to Moscow of the Icon of the Mother of God “Assuage my Sorrow”"], ["100313", "Icon of the Mother of God “The Unexpected Joy”"]],
+        1,
+        25,
+      ),
+      {
+        "Icoana Maicii Domnului „Bucurie neașteptată”": 'Icon of the Mother of God "The Unexpected Joy"',
+        "Icoana Maicii Domnului „Potolește întristările noastre”": 'Translation to Moscow of the Icon of the Mother of God "Assuage my Sorrow"',
+      },
+    );
+    // doxologia keeps the Greek or Russian title of some: Sedmiezerskaya is the Seven Lakes icon (26 June).
+    const day = iconsOf(
+      ["Cinstirea Sfintei Icoane a Maicii Domnului din Tihvin", "Cinstirea Sfintei Icoanei a Maicii Domnului din Lida", "Cinstirea Sfintei Icoanei a Maicii Domnului „Sedmiezerskaya”"],
+      [["101821", "Appearance of the Tikhvin Icon of the Mother of God"], ["101824", "“Seven Lakes” Icon of the Mother of God"], ["101823", "“Neamts” Icon of the Mother of God"], ["101825", "Icon of the Mother of God of Lydda or “the Roman”"]],
+      6,
+      26,
+    );
+    assert.deepEqual(day, {
+      "Icoana Maicii Domnului din Tihvin": "Appearance of the Tikhvin Icon of the Mother of God",
+      "Icoana Maicii Domnului din Lida": 'Icon of the Mother of God of Lydda or "the Roman"',
+      "Icoana Maicii Domnului „Sedmiezerskaya”": '"Seven Lakes" Icon of the Mother of God',
+      '("Neamts" Icon of the Mother of God)': '"Neamts" Icon of the Mother of God',
+    });
+  });
+
+  it("keeps apart two icons that one source lists on one day (21 January: „Mângâietoarea” and „Înjunghiata”, both of Vatopedi)", () => {
+    assert.deepEqual(
+      iconsOf(
+        ["Cinstirea Sfintei Icoanei a Maicii Domnului „Mângâietoarea” (Paramythia) de la Vatoped", "Cinstirea Sfintei Icoanei a Maicii Domnului „Înjunghiata” de la Vatoped"],
+        [["100261", "Icon of the Mother of God “Comfort” or “Consolation”"], ["109032", "Icon of the Mother of God “Stabbed”"]],
+        1,
+        21,
+      ),
+      {
+        "Icoana Maicii Domnului „Mângâietoarea” (Paramythia) de la Vatoped": 'Icon of the Mother of God "Comfort" or "Consolation"',
+        "Icoana Maicii Domnului „Înjunghiata” de la Vatoped": 'Icon of the Mother of God "Stabbed"',
+      },
+    );
+    // The OCA's Vil'na icon is doxologia's "din Vilnius", not its "Ostrobramsk - Vilnius" (15 February); the "Three
+    // Hands" of Mount Athos are not the Prodromița of Mount Athos (12 July).
+    assert.equal(
+      iconsOf(["Cinstirea Sfintei Icoanei a Maicii Domnului „Ostrobramsk - Vilnius”", "Cinstirea Sfintei Icoane a Maicii Domnului din Vilnius"], [["100531", "Vil'na Icon of the Mother of God"]], 2, 15)["Icoana Maicii Domnului din Vilnius"],
+      "Vil'na Icon of the Mother of God",
+    );
+    assert.deepEqual(
+      iconsOf(
+        ["Cinstirea Sfintei Icoane Prodromița de la Muntele Athos", "Cinstirea Sfintei Icoanei a Maicii Domnului „a Sfântului Ioan Damaschin” (Trihirussa)"],
+        [["102016", "Icon of the Mother of God “of the Three Hands” on Mount Athos"], ["100353", "Prodromitsa Icon of the Mother of God"]],
+        7,
+        12,
+      ),
+      {
+        "Icoana Prodromița de la Muntele Athos": "Prodromitsa Icon of the Mother of God",
+        "Icoana Maicii Domnului „a Sfântului Ioan Damaschin” (Trihirussa)": 'Icon of the Mother of God "of the Three Hands" on Mount Athos',
+      },
+    );
+  });
 });
 
 describe("Coptic and Armenian lines on universal saints", () => {
@@ -2090,6 +2186,31 @@ describe("the suspects of an import", () => {
         ["same-day", "04-04", "iosif", "joseph-the-hymnographer"],
         ["romanian-only", "04-01", "maria-egipteanca", "mary-of-egypt"],
       ]);
+    } finally {
+      rmSync(dir, { recursive: true, force: true });
+    }
+  });
+
+  it("list an icon known only from the Romanian sources with the icons known only from the OCA on its day, the likeliest first (15 November)", () => {
+    const dir = mkdtempSync(join(tmpdir(), "suspects-"));
+    const put = (rel: string, value: unknown): void => {
+      mkdirSync(dirname(join(dir, rel)), { recursive: true });
+      writeFileSync(join(dir, rel), JSON.stringify(value));
+    };
+    const icon = (id: string, source: string, locale: "ro" | "en", name: string, tradition: string, oca?: string): void => {
+      put(`icons/${id}.json`, { id, subject: "theotokos", sources: [{ source }], editorial: { status: "draft", confidence: "low" } });
+      put(`commemorations/${id}.json`, { id, kind: "icon", subjects: [`icon:${id}`], date_rule: { type: "fixed", month: 11, day: 15 }, ...(oca ? { external_ids: { oca } } : {}), sources: [{ source }] });
+      put(`i18n/${locale}/commemorations/${id}.json`, { id, locale, names: { display: name }, translation: { status: "draft", method: "original" } });
+      put(`traditions/${tradition}/menaion/11/15.json`, { tradition, date: "11-15", entries: [] });
+    };
+    icon("icon-of-theotokos-de-pe-cruce-kupiatici", "src:doxologia", "ro", "Cinstirea Sfintei Icoanei a Maicii Domnului „de pe Cruce” (Kupiatici)", "romanian");
+    icon("fragrant-flower-icon-of-theotokos", "src:oca-lives", "en", "“Fragrant Flower” Icon of the Mother of God", "russian", "100209");
+    icon("kupyatitsa-icon-of-theotokos", "src:oca-lives", "en", "Kupyatitsa Icon of the Mother of God", "russian", "103312");
+    put("traditions/romanian/menaion/11/15.json", { tradition: "romanian", date: "11-15", entries: [{ commemorations: ["comm:icon-of-theotokos-de-pe-cruce-kupiatici"] }] });
+    put("traditions/russian/menaion/11/15.json", { tradition: "russian", date: "11-15", entries: [{ commemorations: ["comm:fragrant-flower-icon-of-theotokos"] }, { commemorations: ["comm:kupyatitsa-icon-of-theotokos"] }] });
+    try {
+      const found = findSuspects(loadExisting(dir)).map((s) => [s.check, s.date, ...s.ids]);
+      assert.deepEqual(found, [["romanian-only-icons", "11-15", "icon-of-theotokos-de-pe-cruce-kupiatici", "kupyatitsa-icon-of-theotokos", "fragrant-flower-icon-of-theotokos"]]);
     } finally {
       rmSync(dir, { recursive: true, force: true });
     }

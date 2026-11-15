@@ -6,6 +6,11 @@
   ],
   "sources": [
     {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/cinstirea-sfintei-icoanei-maicii-domnului-muntele-netaiat",
+      "accessed": "2026-11-08"
+    },
+    {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/03/24/100883-icon-of-the-mother-of-god-of-the-uncut-mount-or-clouded-mountain",
       "accessed": "2026-11-08"
@@ -13,9 +18,12 @@
   ],
   "editorial": {
     "status": "draft",
-    "confidence": "low",
+    "confidence": "medium",
     "notes": [
-      "Importat automat din oca.org; de verificat."
+      "Importat automat din doxologia.ro, oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "icon-of-theotokos-muntele-netaiat"
+  ]
 }

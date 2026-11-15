@@ -1,0 +1,29 @@
+{
+  "id": "quinctian-of-seleucia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Chintian, episcopul Seleuciei",
+    "full": "Sfântul Cuvios Chintian, episcopul Seleuciei",
+    "short": "Chintian, episcopul Seleuciei",
+    "given": "Chintian",
+    "variants": [
+      "Preacuviosul Părintele nostru Chintian, episcopul Seleuciei"
+    ]
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox",
+      "url": "https://www.calendar-ortodox.ro/luna/noiembrie/noiembrie15.htm",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:arhiepiscopia-arges",
+      "url": "https://arhiepiscopiaargesuluisimuscelului.ro/sinaxar-15-noiembrie-2/",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

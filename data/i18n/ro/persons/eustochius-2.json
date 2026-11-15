@@ -2,22 +2,25 @@
   "id": "eustochius-2",
   "locale": "ro",
   "names": {
-    "display": "Sf. Mc. Eustohie, care a pătimit sub Iulian Apostatul",
-    "full": "Sfântul Mucenic Eustohie, care a pătimit sub Iulian Apostatul",
-    "short": "Eustohie, care a pătimit sub Iulian Apostatul",
+    "display": "Sf. Mc. Eustohie",
+    "full": "Sfântul Mucenic Eustohie",
+    "short": "Eustohie",
     "given": "Eustohie"
   },
   "references": [
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/11/15/103307-martyrs-elpidius-marcellus-and-eustochius-who-suffered-under-jul",
-      "accessed": "2026-11-08"
+      "source": "src:calendar-ortodox",
+      "url": "https://www.calendar-ortodox.ro/luna/noiembrie/noiembrie15.htm",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:arhiepiscopia-arges",
+      "url": "https://arhiepiscopiaargesuluisimuscelului.ro/sinaxar-15-noiembrie-2/",
+      "accessed": "2026-11-15"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "en",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

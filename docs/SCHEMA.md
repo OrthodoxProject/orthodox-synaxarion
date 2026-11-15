@@ -152,8 +152,11 @@ npm run import
 | orthodox-calendar | listele de sfinți locali ruși și sârbi (doar indexul: zi, nume, link, chipul sfințeniei) | `russian`, `serbian`, la data din Minei; lista românească doar completează sfinții deja găsiți |
 | copticchurch.net, st-takla.org | sinaxarul copt, cu linkurile zilelor | calendarul copt (`coptic`), numele în engleză |
 | armenianchurch.ge | praznicele și pomenirile armene, grupate pe luni | `traditions/armenian/movable.json`, cu regulă `unspecified` |
+| calendar.ortodox.md | calendarul pe stil vechi al Bisericii Ortodoxe din Moldova: pomenirile cu zi fixă, cu pagina fiecăreia (doi ani pe stil vechi, 2026 și 2028) | calendarul `moldova`; sfinții deja în date primesc doar linkul paginii (în `sources`), ceilalți devin înregistrări noi, cu numele în română |
 
 Sinaxarul Mineiului de pe calendar-ortodox.ro și de la Arhiepiscopia Argeșului și Muscelului (`src:calendar-ortodox`, `src:arhiepiscopia-arges`), cu rândurile *Tot în această zi, pomenirea …* pe care calendarul oficial nu le are în titlul zilei, e în `data/sources/`, dar importul nu îl citește încă: pomenirile din el sunt adăugate de mână (15 noiembrie). Planul importului e în [PLAN-MINEI.md](PLAN-MINEI.md).
+
+Calendarul de pe calendar.ortodox.md (`src:calendar-ortodox-md`) se citește ultimul, după celelalte surse, și e singura sursă care scrie și în înregistrările existente: pomenirea pe care o găsește, persoanele pe care le numește rândul și grupul sau icoana pomenirii primesc linkul paginii ei, iar restul înregistrării rămâne cum e. Fiecare rând se caută în ziua lui pe stil vechi (data din Minei), cu regulile de mai jos și cu câteva în plus, fiindcă titlurile site-ului spun mult mai mult decât ale celorlalte surse: titlul se aduce întâi la forma calendarului oficial (fără anul din paranteză, fără propozițiile care descriu, fără rolurile din listele noilor mucenici, cu praznicele, icoanele și moaștele scrise ca acolo), iar un rând care numește mai multe pomeniri (*… și a Sfântului Ierarh Grigor …*) se desparte; singurul sfânt al zilei cu un prenume e sfântul acelui nume și în cealaltă limbă, dacă locurile, genul și chipul sfințeniei nu se bat cap în cap (un nebun pentru Hristos e un monah, nu un mucenic); un grup se găsește după număr, după nume sau după un cuvânt care nu e titlu, nu după *Sfinții Mucenici*; un rând negăsit se caută și pe ziua civilă (cu 13 zile mai târziu), unde OCA ține sfinții secolului XX (familia țarului Nicolae al II-lea). Site-ul trece unii sfinți de două ori în aceeași zi (o intrare mai veche și una mai nouă, cu același an sau cu aceleași cuvinte): a doua intrare ajunge la pomenirea primei. Înregistrările cunoscute doar din acest calendar se caută abia de la pasul lui, ca celelalte surse să găsească aceleași înregistrări la fiecare import. Planul e în [PLAN-MOLDOVA.md](PLAN-MOLDOVA.md).
 
 Cum lucrează:
 
@@ -222,9 +225,9 @@ Datele din `data/` au pornit de la 17 cazuri-limită alese ca să pună schema l
 
 Restul vine din [importul din surse](#importul-din-surse). Pe scurt, acum:
 
-- 3.680 de persoane (cu nume din surse: 1.559 în română, 3.130 în engleză, 1.009 în ambele), 354 de grupuri, 4.511 pomeniri, 237 de icoane;
-- calendarul BOR are toate cele 366 de zile (1.629 de rânduri, 765 cu titlul oficial), cel rusesc 366 de zile (2.836 de rânduri), cel al Patriarhiei Ecumenice 360 de zile (1.081 de rânduri) și cel al Serbiei 360 (1.154 de rânduri), cu încredere scăzută, cel copt 365 de zile (696 de rânduri); cele 146 de pomeniri armene așteaptă regula zilei;
-- 8 tradiții: BOR, Patriarhia Ecumenică, Biserica Greciei, Rusia, Serbia (Biserici răsăritene), copți și armeni (Biserici orientale), Biserica Asiriană a Răsăritului;
+- 10.313 persoane (cu nume din surse: 8.191 în română, 3.131 în engleză, 1.009 în ambele), 861 de grupuri, 9.412 pomeniri, 270 de icoane; dintre ele, 6.633 de persoane sunt cunoscute doar din calendarul Bisericii Ortodoxe din Moldova, iar 2.465 de persoane deja în date au primit linkul lui;
+- calendarul BOR are toate cele 366 de zile (1.629 de rânduri, 765 cu titlul oficial), cel rusesc 366 de zile (2.836 de rânduri), cel al Patriarhiei Ecumenice 360 de zile (1.081 de rânduri) și cel al Serbiei 360 (1.154 de rânduri), cu încredere scăzută, cel al Bisericii Ortodoxe din Moldova 365 de zile (7.077 de rânduri), cel copt 365 de zile (696 de rânduri); cele 146 de pomeniri armene așteaptă regula zilei;
+- 9 tradiții: BOR, Patriarhia Ecumenică, Biserica Greciei, Rusia, Serbia, Biserica Ortodoxă din Moldova (Biserici răsăritene), copți și armeni (Biserici orientale), Biserica Asiriană a Răsăritului;
 - texte în 8 limbi: română, engleză, greacă (modernă și bizantină), rusă, sârbă (chirilică), armeană, arabă.
 
 **Toate înregistrările sunt ciorne** (`editorial.status: draft`) și trebuie revizuite înainte de publicare. Ce mai e de verificat e notat în `editorial.notes`.

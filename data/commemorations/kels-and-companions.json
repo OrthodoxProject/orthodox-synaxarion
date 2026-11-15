@@ -1,0 +1,29 @@
+{
+  "id": "kels-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:kels",
+    "person:anthony-4",
+    "person:anastasius-martyr",
+    "person:marionila-soldier"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 8
+  },
+  "sources": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-01-21?text=3526",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendarul Patriarhiei Georgiei (patriarchate.ge); de verificat."
+    ]
+  }
+}

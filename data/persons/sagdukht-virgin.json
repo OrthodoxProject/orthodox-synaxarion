@@ -1,0 +1,24 @@
+{
+  "id": "sagdukht-virgin",
+  "kind": "saint",
+  "gender": "female",
+  "holiness_types": [
+    "martyr",
+    "virgin"
+  ],
+  "sources": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-05-18?text=4169",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendarul Patriarhiei Georgiei (patriarchate.ge); de verificat.",
+      "Numele e trecut automat din genitivul calendarului la nominativ; e de verificat."
+    ]
+  }
+}

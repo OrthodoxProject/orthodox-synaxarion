@@ -1,0 +1,19 @@
+{
+  "id": "tertius-bishop",
+  "locale": "ka",
+  "names": {
+    "display": "მღვდელმოწამე ტერტიუსი",
+    "given": "ტერტიუსი"
+  },
+  "references": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-07-04?text=4456",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "aglaida-of-rome",
+  "locale": "ka",
+  "names": {
+    "display": "მართალი აგლაიდა",
+    "given": "აგლაიდა"
+  },
+  "references": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2027-01-01?text=3424",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

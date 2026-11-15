@@ -1,0 +1,33 @@
+{
+  "tradition": "georgian",
+  "date": "01-18",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:tamara--repose"
+      ],
+      "differs_from_default": true
+    },
+    {
+      "commemorations": [
+        "comm:ephraim-the-lesser--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:alexei-of-teklati--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:athanasius-of-novolotsk--repose",
+        "comm:cyril-of-alexandria--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:marcian-of-cyrrhus--01-18"
+      ]
+    }
+  ]
+}

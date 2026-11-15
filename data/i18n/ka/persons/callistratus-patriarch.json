@@ -1,0 +1,19 @@
+{
+  "id": "callistratus-patriarch",
+  "locale": "ka",
+  "names": {
+    "display": "წმიდა კალისტრატე",
+    "given": "კალისტრატე"
+  },
+  "references": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-02-03?text=3604",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,6 +1,8 @@
 import assert from "node:assert/strict";
+import { cpSync, mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs";
+import { tmpdir } from "node:os";
 import { join } from "node:path";
-import { describe, it } from "node:test";
+import { after, describe, it } from "node:test";
 import {
   copticToJdn,
   ethiopianToJdn,
@@ -70,6 +72,66 @@ describe("calendar arithmetic", () => {
   for (const [year, date] of western) {
     it(`Gregorian Easter ${year} is ${date}`, () => assert.equal(iso(paschaJdn(year, "gregorian")), date));
   }
+});
+
+describe("a calendar kept from another tradition (calendar_from)", () => {
+  const dirs: string[] = [];
+  after(() => {
+    for (const dir of dirs) rmSync(dir, { recursive: true, force: true });
+  });
+  const write = (dir: string, rel: string, data: unknown): void => {
+    mkdirSync(join(dir, rel, ".."), { recursive: true });
+    writeFileSync(join(dir, rel), `${JSON.stringify(data, null, 2)}\n`);
+  };
+  /** The minimal fixture with a metropolis that keeps the calendar of its Church, plus what `extra` adds. */
+  function withMetropolis(extra: (dir: string) => void = () => {}): string {
+    const dir = mkdtempSync(join(tmpdir(), "synaxarion-"));
+    dirs.push(dir);
+    cpSync(join(import.meta.dirname, "fixtures", "minimal", "data"), dir, { recursive: true });
+    write(dir, "traditions/test-metropolis/tradition.json", {
+      id: "test-metropolis",
+      family: "eastern_orthodox",
+      calendar_from: "test-church",
+      calendar_style: "julian",
+      paschalion: "julian",
+      default_locale: "ro",
+      editorial: { status: "draft" },
+    });
+    extra(dir);
+    return dir;
+  }
+  // The fixture's Church keeps its saint on 15 January, old style: 28 January 2026.
+  const linesOn = (dir: string, date: string): unknown =>
+    buildYear(loadTradition(dir, "test-metropolis"), 2026).find((d) => d.date === date)?.lines;
+
+  it("keeps the other tradition's lines, with their symbols", () => {
+    const dir = withMetropolis();
+    assert.deepEqual(linesOn(dir, "2026-01-28"), [{ commemorations: ["comm:test-saint--repose"], symbol: "red-plain" }]);
+    const data = loadTradition(dir, "test-metropolis");
+    assert.deepEqual(data.chain, ["test-metropolis", "test-church"]);
+    assert.deepEqual((data.tradition.symbol_legend as Array<{ key: string }>).map((s) => s.key), ["red-plain"]);
+  });
+  it("puts its own line of a commemoration in place of the inherited one", () => {
+    const dir = withMetropolis((d) =>
+      write(d, "traditions/test-metropolis/menaion/01/16.json", { tradition: "test-metropolis", date: "01-16", entries: [{ commemorations: ["comm:test-saint--repose"] }] }),
+    );
+    assert.deepEqual(linesOn(dir, "2026-01-28"), []);
+    assert.deepEqual(linesOn(dir, "2026-01-29"), [{ commemorations: ["comm:test-saint--repose"] }]);
+  });
+  it("refuses traditions that keep each other's calendar", () => {
+    const dir = withMetropolis((d) =>
+      write(d, "traditions/test-church/tradition.json", {
+        id: "test-church",
+        family: "eastern_orthodox",
+        calendar_from: "test-metropolis",
+        calendar_style: "julian",
+        paschalion: "julian",
+        default_locale: "ro",
+        editorial: { status: "draft" },
+      }),
+    );
+    assert.throws(() => loadTradition(dir, "test-metropolis"), /keep one another/);
+  });
 });
 
 describe("Romanian Orthodox Church, 2026 (against the official calendar)", () => {

@@ -1,0 +1,26 @@
+{
+  "id": "teudore-hieromonk--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:teudore-hieromonk"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 17
+  },
+  "sources": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-03-02?text=3744",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendarul Patriarhiei Georgiei (patriarchate.ge); de verificat."
+    ]
+  }
+}

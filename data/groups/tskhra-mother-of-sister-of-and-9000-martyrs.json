@@ -1,0 +1,22 @@
+{
+  "id": "tskhra-mother-of-sister-of-and-9000-martyrs",
+  "kind": "other",
+  "count": {
+    "value": 9000,
+    "precision": "exact"
+  },
+  "sources": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-08-16?text=4693",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendarul Patriarhiei Georgiei (patriarchate.ge); de verificat."
+    ]
+  }
+}

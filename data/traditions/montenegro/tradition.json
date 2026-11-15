@@ -1,0 +1,31 @@
+{
+  "id": "montenegro",
+  "family": "eastern_orthodox",
+  "parent": "serbian",
+  "status": "other",
+  "calendar_from": "serbian",
+  "calendar_style": "julian",
+  "paschalion": "julian",
+  "countries": [
+    "ME"
+  ],
+  "languages": [
+    "sr-Cyrl",
+    "sr-Latn"
+  ],
+  "liturgical_languages": [
+    "cu",
+    "sr-Cyrl"
+  ],
+  "default_locale": "sr-Cyrl",
+  "external_ids": {
+    "wikidata": "Q1925809"
+  },
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Mitropolia Muntenegrului și a Litoralului e o eparhie a Bisericii Ortodoxe Sârbe și ține calendarul ei (calendar_from), plus sfinții Muntenegrului. „Biserica Ortodoxă Muntenegreană” nu e recunoscută de nicio Biserică ortodoxă și nu e aici."
+    ]
+  }
+}

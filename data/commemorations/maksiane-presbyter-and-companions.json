@@ -1,0 +1,29 @@
+{
+  "id": "maksiane-presbyter-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:maksiane-presbyter",
+    "person:julian-deacon",
+    "person:markeline",
+    "person:saturnine"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 3
+  },
+  "sources": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-06-16?text=4339",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendarul Patriarhiei Georgiei (patriarchate.ge); de verificat."
+    ]
+  }
+}

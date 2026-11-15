@@ -1,0 +1,19 @@
+{
+  "id": "akia",
+  "locale": "ka",
+  "names": {
+    "display": "წინასწარმეტყველი აქია",
+    "given": "აქია"
+  },
+  "references": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-11-25?text=3210",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "mefesa",
+  "locale": "ka",
+  "names": {
+    "display": "მეფესა",
+    "given": "მეფესა"
+  },
+  "references": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-08-02?text=4622",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

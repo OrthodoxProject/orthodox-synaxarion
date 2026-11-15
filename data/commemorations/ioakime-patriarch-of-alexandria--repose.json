@@ -1,0 +1,26 @@
+{
+  "id": "ioakime-patriarch-of-alexandria--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:ioakime-patriarch-of-alexandria"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 17
+  },
+  "sources": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-09-30?text=2864",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendarul Patriarhiei Georgiei (patriarchate.ge); de verificat."
+    ]
+  }
+}

@@ -336,6 +336,19 @@ function checkTraditionRefs(ds: Dataset, r: Reporter): void {
     }
   }
   for (const doc of ds.traditions.values()) if (doc.data.parent) check(doc.file, doc.data.parent, "/parent");
+  for (const doc of ds.traditions.values()) {
+    if (!doc.data.calendar_from) continue;
+    check(doc.file, doc.data.calendar_from, "/calendar_from");
+    // A tradition cannot keep, through others, its own calendar.
+    const seen = [doc.data.id as string];
+    for (let next = doc.data.calendar_from as string | undefined; next && ds.traditions.has(next); next = ds.traditions.get(next)?.data.calendar_from) {
+      if (seen.includes(next)) {
+        r.error("tradition.calendar-cycle", doc.file, `/calendar_from: the calendars ${[...seen, next].join(" → ")} keep one another.`);
+        break;
+      }
+      seen.push(next);
+    }
+  }
   for (const [id, byLocale] of ds.i18n.get("traditions") ?? []) {
     if (!ds.traditions.has(id)) for (const doc of byLocale.values()) r.error("i18n.orphan", doc.file, `Tradition "${id}" does not exist.`);
   }
@@ -431,8 +444,16 @@ function checkCalendars(ds: Dataset, r: Reporter): Set<string> {
   const placedIn = new Map<string, Map<string, string>>(); // tradition → comm id → where
   const linesFirst = new Map<string, Set<string>>(); // tradition → first commemoration of each line
 
-  const legend = (tradition: string): Set<string> =>
-    new Set(((ds.traditions.get(tradition)?.data.symbol_legend ?? []) as Rec[]).map((s) => s.key as string));
+  // The symbols of a tradition and of the traditions whose calendar it keeps.
+  const legend = (tradition: string): Set<string> => {
+    const keys = new Set<string>();
+    const seen = new Set<string>();
+    for (let id: string | undefined = tradition; id && !seen.has(id); id = ds.traditions.get(id)?.data.calendar_from) {
+      seen.add(id);
+      for (const s of (ds.traditions.get(id)?.data.symbol_legend ?? []) as Rec[]) keys.add(s.key as string);
+    }
+    return keys;
+  };
 
   const visitLine = (tradition: string, line: Rec, file: string, where: string, unique: boolean): void => {
     const comms = line.commemorations as string[];
@@ -526,6 +547,8 @@ function checkCalendars(ds: Dataset, r: Reporter): Set<string> {
     const tradition = ds.traditions.get(id)?.data;
     const observanceIds = new Set(((ds.observances.get(id)?.data.observances ?? []) as Rec[]).map((o) => o.id as string));
     const symbolKeys = new Set(((tradition?.symbol_legend ?? []) as Rec[]).map((s) => s.key as string));
+    // Labels may also name the symbols of the calendar the tradition keeps.
+    const knownSymbols = legend(id);
     for (const [locale, doc] of byLocale) {
       for (const key of Object.keys(doc.data.official_titles ?? {})) {
         if (!firsts.has(key)) r.warn("tradition.title-unused", doc.file, `official title for "${key}", which does not start a line of this tradition.`);
@@ -534,7 +557,7 @@ function checkCalendars(ds: Dataset, r: Reporter): Set<string> {
         if (!observanceIds.has(key)) r.warn("tradition.label-unused", doc.file, `label for unknown observance "${key}".`);
       }
       for (const key of Object.keys(doc.data.symbols ?? {})) {
-        if (!symbolKeys.has(key)) r.warn("tradition.label-unused", doc.file, `label for unknown symbol "${key}".`);
+        if (!knownSymbols.has(key)) r.warn("tradition.label-unused", doc.file, `label for unknown symbol "${key}".`);
       }
       if (locale === tradition?.default_locale) {
         for (const o of observanceIds) {

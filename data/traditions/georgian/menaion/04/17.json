@@ -1,0 +1,37 @@
+{
+  "tradition": "georgian",
+  "date": "04-17",
+  "entries": [
+    {
+      "commemorations": [
+        "comm:ephraim-the-great-of-atsquri--repose"
+      ],
+      "differs_from_default": true
+    },
+    {
+      "commemorations": [
+        "comm:simeon-of-persia--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:akakios-of-melitene--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:zosimas-of-solovki--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:adrian-of-corinth--repose"
+      ]
+    },
+    {
+      "commemorations": [
+        "comm:agapitus-of-rome--repose"
+      ]
+    }
+  ]
+}

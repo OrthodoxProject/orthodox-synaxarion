@@ -1,5 +1,5 @@
 import assert from "node:assert/strict";
-import { cpSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs";
+import { cpSync, mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs";
 import { tmpdir } from "node:os";
 import { join } from "node:path";
 import { describe, it } from "node:test";
@@ -36,6 +36,29 @@ function errorCodes(result: ValidationResult): string[] {
   return result.errors.map((e) => e.code);
 }
 
+/** A metropolis that keeps the calendar of the fixture's Church. */
+function addMetropolis(dir: string): void {
+  mkdirSync(join(dir, "traditions/test-metropolis"), { recursive: true });
+  writeJson(dir, "traditions/test-metropolis/tradition.json", {
+    id: "test-metropolis",
+    family: "eastern_orthodox",
+    parent: "test-church",
+    calendar_from: "test-church",
+    calendar_style: "julian",
+    paschalion: "julian",
+    default_locale: "ro",
+    editorial: { status: "draft" },
+  });
+  for (const [locale, display] of [["ro", "Mitropolia de test"], ["en", "Test Metropolis"]]) {
+    writeJson(dir, `i18n/${locale}/traditions/test-metropolis.json`, {
+      id: "test-metropolis",
+      locale,
+      names: { display },
+      translation: { status: "draft", method: "original" },
+    });
+  }
+}
+
 describe("the repository data", () => {
   it("has no validation errors", () => {
     const result = validate({ dataDir: join(REPO_ROOT, "data") });
@@ -46,6 +69,19 @@ describe("the repository data", () => {
 describe("the minimal fixture", () => {
   it("is valid", () => {
     const result = validate({ dataDir: FIXTURE });
+    assert.deepEqual(result.errors, []);
+  });
+  it("stays valid with a metropolis whose own line uses a symbol of the calendar it keeps", () => {
+    const result = validateMutated((dir) => {
+      addMetropolis(dir);
+      writeJson(dir, "persons/test-local-saint.json", { id: "test-local-saint", kind: "saint", gender: "male", holiness_types: ["venerable"], sources: [{ source: "src:test-source" }], editorial: { status: "draft" } });
+      for (const [locale, display] of [["ro", "Sf. Cuv. Test cel Nou"], ["en", "Venerable Test the New"]]) {
+        writeJson(dir, `i18n/${locale}/persons/test-local-saint.json`, { id: "test-local-saint", locale, names: { display }, translation: { status: "draft", method: "original" } });
+      }
+      writeJson(dir, "commemorations/test-local-saint--repose.json", { id: "test-local-saint--repose", kind: "repose", subjects: ["person:test-local-saint"], date_rule: { type: "fixed", month: 1, day: 15 }, editorial: { status: "draft" } });
+      mkdirSync(join(dir, "traditions/test-metropolis/menaion/01"), { recursive: true });
+      writeJson(dir, "traditions/test-metropolis/menaion/01/15.json", { tradition: "test-metropolis", date: "01-15", entries: [{ commemorations: ["comm:test-local-saint--repose"], symbol: "red-plain" }] });
+    });
     assert.deepEqual(result.errors, []);
   });
 });
@@ -124,6 +160,16 @@ describe("the validator reports", () => {
     ["a tradition folder without tradition.json", "tradition.missing-definition", (dir) => {
       writeJson(dir, "traditions/test-church/movable.json", { tradition: "test-church" });
       rmSync(join(dir, "traditions/test-church/tradition.json"));
+    }],
+    ["the calendar of a tradition that does not exist", "ref.unknown-tradition", (dir) =>
+      editJson(dir, "traditions/test-church/tradition.json", (d) => {
+        d.calendar_from = "missing-church";
+      })],
+    ["two traditions that keep each other's calendar", "tradition.calendar-cycle", (dir) => {
+      addMetropolis(dir);
+      editJson(dir, "traditions/test-church/tradition.json", (d) => {
+        d.calendar_from = "test-metropolis";
+      });
     }],
   ];
 

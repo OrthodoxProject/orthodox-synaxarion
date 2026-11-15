@@ -1,0 +1,19 @@
+{
+  "id": "zeno-4",
+  "locale": "ka",
+  "names": {
+    "display": "ღირსი ზენონ",
+    "given": "ზენონ"
+  },
+  "references": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-10-29?text=3036",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

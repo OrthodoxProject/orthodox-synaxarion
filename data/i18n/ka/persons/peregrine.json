@@ -1,0 +1,19 @@
+{
+  "id": "peregrine",
+  "locale": "ka",
+  "names": {
+    "display": "მოწამე პერეგრინე",
+    "given": "პერეგრინე"
+  },
+  "references": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-07-19?text=4532",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

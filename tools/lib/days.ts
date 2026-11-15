@@ -75,6 +75,8 @@ export interface TraditionData {
   observances: Rec[];
   overrides: Map<number, Rec>;
   commemorations: Map<string, Rec>;
+  /** The tradition, then those whose calendar it keeps (calendar_from), nearest first. */
+  chain: string[];
 }
 
 export interface Mismatch {
@@ -112,7 +114,63 @@ function push<K, V>(map: Map<K, V[]>, key: K, value: V): void {
   else map.set(key, [value]);
 }
 
+/**
+ * A tradition's calendar, with the calendar it keeps (calendar_from) under its own lines: see inheritCalendar.
+ */
 export function loadTradition(dataDir: string, id: string): TraditionData {
+  const commemorations = new Map<string, Rec>();
+  const commDir = join(dataDir, "commemorations");
+  for (const file of readdirSync(commDir)) {
+    const doc = readJson(join(commDir, file));
+    commemorations.set(`comm:${doc.id}`, doc);
+  }
+  const load = (tid: string, below: string[]): TraditionData => {
+    const own = loadOwn(dataDir, tid, commemorations);
+    const base = own.tradition.calendar_from as string | undefined;
+    if (!base) return own;
+    if (base === tid || below.includes(base)) throw new Error(`The calendars ${[...below, tid, base].join(" → ")} keep one another (calendar_from).`);
+    return inheritCalendar(load(base, [...below, tid]), own);
+  };
+  return load(id, []);
+}
+
+/**
+ * The calendar of a tradition that keeps another's (calendar_from): the other's fixed and movable lines, transfers
+ * and yearly overrides, then its own lines. An own line replaces the inherited lines of the same commemorations (on
+ * another day, or with another rank or symbol); a year of its own overrides replaces the other's year. Observances
+ * stay its own: they are the holidays of its country. Symbols that it does not define are the other tradition's.
+ */
+export function inheritCalendar(base: TraditionData, own: TraditionData): TraditionData {
+  const mine = new Set<string>();
+  for (const lines of own.menaion.values()) for (const line of lines) for (const c of line.commemorations as string[]) mine.add(c);
+  for (const line of (own.movable.entries ?? []) as Rec[]) for (const c of line.commemorations as string[]) mine.add(c);
+  const inherited = (lines: Rec[]): Rec[] =>
+    lines
+      .map((line) => ({ ...line, commemorations: (line.commemorations as string[]).filter((c) => !mine.has(c)) }))
+      .filter((line) => line.commemorations.length > 0);
+
+  const menaion = new Map<string, Rec[]>();
+  for (const [date, lines] of base.menaion) menaion.set(date, inherited(lines));
+  for (const [date, lines] of own.menaion) menaion.set(date, [...(menaion.get(date) ?? []), ...lines]);
+  for (const [date, lines] of menaion) if (lines.length === 0) menaion.delete(date);
+
+  const ownTransfers = (own.movable.transfers ?? []) as Rec[];
+  const transfers = [...((base.movable.transfers ?? []) as Rec[]).filter((t) => !ownTransfers.some((o) => o.commemoration === t.commemoration)), ...ownTransfers];
+  const movable: Rec = { ...own.movable, entries: [...inherited((base.movable.entries ?? []) as Rec[]), ...((own.movable.entries ?? []) as Rec[])] };
+  if (transfers.length > 0) movable.transfers = transfers;
+
+  const overrides = new Map(base.overrides);
+  for (const [year, doc] of own.overrides) overrides.set(year, doc);
+
+  const legend = new Map<string, Rec>();
+  for (const s of [...((base.tradition.symbol_legend ?? []) as Rec[]), ...((own.tradition.symbol_legend ?? []) as Rec[])]) legend.set(s.key, s);
+  const tradition = legend.size > 0 ? { ...own.tradition, symbol_legend: [...legend.values()] } : own.tradition;
+
+  return { tradition, menaion, movable, observances: own.observances, overrides, commemorations: own.commemorations, chain: [...own.chain, ...base.chain] };
+}
+
+/** A tradition's own files, without the calendar it keeps. */
+function loadOwn(dataDir: string, id: string, commemorations: Map<string, Rec>): TraditionData {
   const dir = join(dataDir, "traditions", id);
   const menaion = new Map<string, Rec[]>();
   const menaionDir = join(dir, "menaion");
@@ -132,12 +190,6 @@ export function loadTradition(dataDir: string, id: string): TraditionData {
       overrides.set(doc.year, doc);
     }
   }
-  const commemorations = new Map<string, Rec>();
-  const commDir = join(dataDir, "commemorations");
-  for (const file of readdirSync(commDir)) {
-    const doc = readJson(join(commDir, file));
-    commemorations.set(`comm:${doc.id}`, doc);
-  }
   return {
     tradition: readJson(join(dir, "tradition.json")),
     menaion,
@@ -145,6 +197,7 @@ export function loadTradition(dataDir: string, id: string): TraditionData {
     observances: existsSync(join(dir, "observances.json")) ? readJson(join(dir, "observances.json")).observances : [],
     overrides,
     commemorations,
+    chain: [id],
   };
 }
 

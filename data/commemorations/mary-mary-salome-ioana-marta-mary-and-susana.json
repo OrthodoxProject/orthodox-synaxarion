@@ -1,0 +1,26 @@
+{
+  "id": "mary-mary-salome-ioana-marta-mary-and-susana",
+  "kind": "repose",
+  "subjects": [
+    "group:mary-mary-salome-ioana-marta-mary-and-susana"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 13
+  },
+  "sources": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-04-26?text=4175",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendarul Patriarhiei Georgiei (patriarchate.ge); de verificat."
+    ]
+  }
+}

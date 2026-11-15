@@ -400,6 +400,11 @@ export function splitNames(rest: string, gender?: Gender, plural = false, singul
   const text = rest.replace(/\s*\([^)]*\)\s*$/, "").replace(/[.;]+$/, "").trim();
   if (!text) return [];
   const pieces = text.split(/(,\s*|\s+și\s+)/);
+  // A name in quotes is one name: "monah la Mănăstirea „Sfinții Cosma și Damian” din Auxerre".
+  for (let i = 0; i + 2 < pieces.length; ) {
+    if (((pieces[i] ?? "").match(/[„“”"]/g) ?? []).length % 2 === 1) pieces.splice(i, 3, `${pieces[i]}${pieces[i + 1]}${pieces[i + 2]}`);
+    else i += 2;
+  }
   const names: string[] = [];
   let pendingRelation = false;
   for (let i = 0; i < pieces.length; i += 2) {

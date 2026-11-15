@@ -14,11 +14,6 @@
       "source": "src:orthodox-calendar",
       "locator": "backend/app/data/traditions/russian_saints.json",
       "accessed": "2026-11-08"
-    },
-    {
-      "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/5a1d3bf5-3367-4b48-ad24-1d52ea935366",
-      "accessed": "2026-11-15"
     }
   ],
   "editorial": {

@@ -13,11 +13,6 @@
     {
       "source": "src:calendar-patriarhia",
       "locator": "2026-10-01"
-    },
-    {
-      "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/850",
-      "accessed": "2026-11-15"
     }
   ],
   "editorial": {

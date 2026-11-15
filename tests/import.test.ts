@@ -24,6 +24,7 @@ import {
   cleanOverlayTitle,
   copticUnits,
   doxologiaUnits,
+  iconsOfLine,
   julianMenaionDate,
   ocaUnits,
   ortodoxMdUnits,
@@ -2269,10 +2270,25 @@ describe("calendar.ortodox.md", () => {
       ["Icoana Maicii Domnului „Cea care alăptează” (Galaktotrofousa)", "Cinstirea Icoanei Maicii Domnului „Cea care alăptează” (Galaktotrofousa)"],
       ["Nașterea Preasfintei Născătoare de Dumnezeu și Pururea Fecioarei Maria", "Nașterea Maicii Domnului"],
       ["Tăierea Capului Cinstitului, Slăvitului Prooroc, Înaintemergătorului și Botezătorului Ioan, de către regele Irod Agripa", "Tăierea capului Sfântului Ioan Botezătorul"],
+      // The saint of a relics line with the honorifics of the official calendar, which the genitive leaves alike.
       [
         "Pomenirea aducerii moaștelor Sfântului Ierarh Grigorie Teologul în biserica Sfinților Apostoli din Constantinopol",
-        "Aducerea moaștelor Sfântului Ierarh Grigorie Teologul în biserica Sfinților Apostoli din Constantinopol",
+        "Aducerea moaștelor Sf. Ier. Grigorie Teologul în biserica Sfinților Apostoli din Constantinopol",
       ],
+      ["Aflarea moaștelor Sfintei Cuvioase Matrona din Moscova (1998)", "Aflarea moaștelor Sf. Cuv. Matrona din Moscova"],
+      ["Aflarea moaștelor Sfântului Cuvios Iosif, stareț de la Optina (+1911), în anul 1988", "Aflarea moaștelor Sf. Cuv. Iosif, stareț din Optina"],
+      ["Mutarea moaștelor Sfântului și Dreptului Evdochim (IX) din Capadocia la Constantinopol", "Mutarea moaștelor Sf. și Drept. Evdochim din Capadocia la Constantinopol"],
+      ["Aflarea moaștelor Sfântului Prooroc Zaharia, tatăl sfântului Ioan Botezătorul", "Aflarea moaștelor Sf. Proroc Zaharia, tatăl Sf. Ioan Botezătorul"],
+      // The site's slips.
+      ["Sfântul și Dreptului Iezechia împăratul, care s-a săvârșit cu pace (+687 î. Hr.)", "Sfântul și Dreptul Iezechia împăratul"],
+      ["Sfânta Cuvioase Mucenițe Benedicta, fecioară din Sens în Franța, care a pătimit în timpul împăratului Aurelian (III)", "Sfânta Cuvioasă Muceniță Benedicta, fecioară din Sens în Franța"],
+      ["Icoana Maicii Domnului ”Epakouousa” (Cea care ascultă) de la Mănăstirea Zografu", "Cinstirea Icoanei Maicii Domnului ”Epakouousa” (Cea care ascultă) de la Mănăstirea Zografu"],
+      ["Icoana Maicii Domnului, numită ”Floare nevestejită”", "Cinstirea Icoanei Maicii Domnului ”Floare nevestejită”"],
+      // The synaxes of the feasts as the official calendar names them, the others in the nominative.
+      ["Soborul mai marilor Arhistrategi Mihail si Gavriil dimpreună cu toți mai marii arhistrategi ai Puterilor celor fără-de-trup", "Soborul Sfinților Arhangheli Mihail și Gavriil"],
+      ["Soborul Preacuratei Fecioare Maria, Născătoarea de Dumnezeu, și pomenirea Sfîntului și Dreptului Iosif, logodnicul", "Soborul Maicii Domnului"],
+      ["Soborul Noilor Mucenici din Creta", "Soborul Sfinților Noi Mucenici din Creta"],
+      ["Soborul Tuturor Sfinților de la Mănăstirea Sfântului Onufrie din Jablechna în Polonia", "Soborul Tuturor Sfinților de la Mănăstirea Sf. Onufrie din Jablechna în Polonia"],
       ["Sfântul Cuvios Longhin din Koriajemsk-Vologda în Rusia", "Sfântul Cuvios Longhin din Koriajemsk în Rusia"],
       ["Sfântul Cuviosul părintele nostru Maris, protopsalt din Siria", "Sfântul Cuviosul Maris, protopsalt din Siria"],
       [
@@ -2294,6 +2310,21 @@ describe("calendar.ortodox.md", () => {
     ]);
     // A relative named after an honorific in the genitive is not another commemoration.
     assert.equal(splitOrtodoxMdTitle("Sfântul Cuvios Gabriel din Lesnov în Bulgaria, ucenicul Sfântului Ioan de la Rila").length, 1);
+    // "Sfântul și Dreptul Simeon" is one saint.
+    assert.deepEqual(splitOrtodoxMdTitle("Sfântul și Dreptul Simeon, primitorul de Dumnezeu și Sfânta Proorociță Ana, fiica lui Fanuil"), [
+      "Sfântul și Dreptul Simeon, primitorul de Dumnezeu",
+      "Sfânta Proorociță Ana, fiica lui Fanuil",
+    ]);
+    // The saints an event names are its own.
+    assert.equal(splitOrtodoxMdTitle("Pomenirea punerii moaștelor și a îmbrăcămintelor Sfinților Apostoli: Luca, Andrei și Toma, a Sfântului Prooroc Elisei").length, 1);
+    // One line for each icon of a line that names several.
+    assert.deepEqual(iconsOfLine('Icoanele Maicii Domnului: din Tabânsk și "Oranta" (Znamenie)'), ["Icoana Maicii Domnului din Tabânsk", 'Icoana Maicii Domnului "Oranta" (Znamenie)']);
+    assert.deepEqual(iconsOfLine("Icoanele Maicii Domnului: Adormirii, de la Kievo-Pecerska, adusă din Țarigrad (1073); de la Kievo-Pecerska (1085); și de la Svensk (1288)"), [
+      "Icoana Maicii Domnului a Adormirii, de la Kievo-Pecerska, adusă din Țarigrad (1073)",
+      "Icoana Maicii Domnului de la Kievo-Pecerska (1085)",
+      "Icoana Maicii Domnului de la Svensk (1288)",
+    ]);
+    assert.equal(iconsOfLine("Icoana Maicii Domnului din Tinos"), undefined);
   });
 
   it("reads the site's other honorifics and lists", () => {
@@ -2311,6 +2342,11 @@ describe("calendar.ortodox.md", () => {
     const gavriil = parseRo("Proslăvirea Sfântului Ierarh Gavriil (Bănulescu-Bodoni), mitropolitul Chișinăului și al Hotinului");
     assert.equal(gavriil.kind, "glorification");
     assert.equal(gavriil.subject?.names[0]?.given, "Gavriil");
+    // A name in quotes is one name.
+    assert.deepEqual(
+      parseRo("Sfântul Cuvios Marcian, monah la Mănăstirea „Sfinții Cosma și Damian” din Auxerre în Franța").names.map((n) => n.given),
+      ["Marcian"],
+    );
   });
 
   const entry = (id: string, title: string, month: number, day: number, years = [2026, 2028], order = 0): OrtodoxMdEntry[] =>
@@ -2456,6 +2492,36 @@ describe("calendar.ortodox.md", () => {
       assert.ok(!output.files.has("commemorations/herman-of-alaska--repose.json"));
       const ermin = [...output.files].find(([path, rec]) => path.startsWith("i18n/ro/persons/") && rec.names.given === "Ermin");
       assert.ok(ermin);
+    } finally {
+      rmSync(dir, { recursive: true, force: true });
+    }
+  });
+
+  it("finds the saint of a relics line by his whole name, in Romanian", () => {
+    const saint = (id: string, ro: string, en: string, month: number, day: number, holiness: string[]): Record<string, unknown> => ({
+      [`persons/${id}.json`]: { id, kind: "saint", gender: "male", holiness_types: holiness, sources: [{ source: "src:oca-lives" }] },
+      [`i18n/ro/persons/${id}.json`]: { id, locale: "ro", names: { display: ro } },
+      [`i18n/en/persons/${id}.json`]: { id, locale: "en", names: { display: en } },
+      [`commemorations/${id}--repose.json`]: { id: `${id}--repose`, kind: "repose", subjects: [`person:${id}`], date_rule: { type: "fixed", month, day }, sources: [{ source: "src:oca-lives" }] },
+    });
+    const dir = fixture({
+      // "Iosif" and "Ioasaf" share a name key.
+      ...saint("joasaph-of-snetogorsk", "Sf. Mc. Ioasaf, starețul Mănăstirii Snetogorsk", "Hieromartyr Joasaph, Abbot of Snetogorsk", 2, 20, ["hieromartyr"]),
+      ...saint("joseph-of-optina", "Sf. Cuv. Iosif de la Optina", "Venerable Joseph of Optina", 5, 9, ["venerable"]),
+    });
+    try {
+      const output = run(dir, [
+        ...entry("20", "Aflarea moaștelor Sfântului Cuvios Iosif, stareț de la Optina (+1911), în anul 1988", 7, 13),
+        ...entry("21", "Aflarea moaștelor Fericitului Andrei din Simbirsk (1998)", 7, 14),
+      ]);
+      const relics = (id: string): Record<string, any> | undefined =>
+        [...output.files].find(([path, rec]) => path.startsWith("commemorations/") && rec.sources?.some((s: { url?: string }) => s.url === md(id)))?.[1];
+      assert.deepEqual(relics("20")?.subjects, ["person:joseph-of-optina"]);
+      // A saint known only from a relics line is a new person, with Romanian names in the nominative.
+      const [subject] = (relics("21")?.subjects ?? []) as string[];
+      const id = subject?.replace(/^person:/, "") ?? "";
+      assert.equal(output.files.get(`i18n/ro/persons/${id}.json`)?.names.display, "Fericitul Andrei din Simbirsk");
+      assert.ok(!output.files.has(`i18n/en/persons/${id}.json`));
     } finally {
       rmSync(dir, { recursive: true, force: true });
     }

@@ -83,7 +83,7 @@ export interface MatchRules {
 }
 
 /** holinessAgrees, with a fool for Christ among the monks: "Sfânta Muceniță Isidora" is not "Blessed Isidora the Fool". */
-function holinessAgreesStrictly(a: Set<HolinessType>, b: Set<HolinessType>): boolean {
+export function holinessAgreesStrictly(a: Set<HolinessType>, b: Set<HolinessType>): boolean {
   const monk = (h: Set<HolinessType>): Set<HolinessType> => (h.has("fool_for_christ") && ![...h].some((x) => x !== "fool_for_christ" && x !== "righteous") ? new Set([...h, "venerable" as HolinessType]) : h);
   return holinessAgrees(monk(a), monk(b));
 }
@@ -1700,7 +1700,7 @@ function roIconName(rest: string): string {
  * places each its own way ("Velicoperm" / "Perm", "Utiarma" / "Ujarma"), so a place that holds the other or is like it
  * is the same place.
  */
-function placesDisagree(a: NamePart, b: NamePart): boolean {
+export function placesDisagree(a: NamePart, b: NamePart): boolean {
   // A country says too little: "Fructuosus din Toledo în Spania" is not "Fructuosis, Bishop of Tarragona, Spain".
   const pa = placeKeys(a).filter((x) => !COUNTRY_KEYS.has(x));
   const pb = placeKeys(b).filter((x) => !COUNTRY_KEYS.has(x));
@@ -1710,14 +1710,14 @@ function placesDisagree(a: NamePart, b: NamePart): boolean {
   return pa.length > 0 && pb.length > 0 && !pa.some((x) => pb.some((y) => alike(x, y)));
 }
 
-const COUNTRY_KEYS = new Set(
+export const COUNTRY_KEYS = new Set(
   ["Rusia", "Russia", "Grecia", "Greece", "Italia", "Italy", "Georgia", "Anglia", "England", "Irlanda", "Ireland", "Franța", "France", "Egipt", "Egypt", "Siria", "Syria", "Palestina", "Palestine", "Serbia", "Bulgaria", "Moldova", "România", "Romania", "Ucraina", "Ukraine", "Spania", "Spain", "Germania", "Germany", "Turcia", "Turkey", "Scoția", "Scotland", "Wales", "Persia", "Armenia", "Cipru", "Cyprus", "Elveția", "Switzerland", "Galia", "Gaul", "Britania", "Britain", "Asia", "Africa", "Estonia", "Finlanda", "Finland", "Polonia", "Poland", "America", "Japonia", "Japan", "China"].flatMap((country) =>
     placeKeys({ text: `X din ${country}`, given: "X", key: "x", extra: [] }),
   ),
 );
 
 /** Words of a name that tell little of the saint: a country, an office, a deed. */
-const COMMON_KEYS = new Set(
+export const COMMON_KEYS = new Set(
   ["Rusia", "Grecia", "Italia", "Georgia", "Anglia", "Irlanda", "Franța", "Egipt", "Siria", "Palestina", "Serbia", "Bulgaria", "Moldova", "România", "Ucraina", "Spania", "Germania", "Turcia", "întemeietorul", "făcător", "făcătorul", "minuni", "nevoitor", "pustnic", "stareț", "preot", "diacon", "monah", "schimonah", "ieromonah", "nebun", "pentru", "Hristos"].map((w) => skeleton(fold(w))),
 );
 

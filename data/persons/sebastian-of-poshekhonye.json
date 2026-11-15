@@ -13,6 +13,11 @@
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/02/26/100607-venerable-sebastian-of-poshekhonye",
       "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/18/103577-venerable-sebastian-abbot-of-pshekhonye-monastery-vologda",
+      "accessed": "2026-11-08"
     }
   ],
   "editorial": {
@@ -22,5 +27,8 @@
       "Importat automat din oca.org; de verificat.",
       "Genul nu reiese din sursă; e de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "sebastian-of-pshekhonye-monastery"
+  ]
 }

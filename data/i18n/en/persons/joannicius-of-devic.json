@@ -6,7 +6,8 @@
     "short": "Joannicius of Devic",
     "given": "Joannicius",
     "variants": [
-      "Joannicius of Devič Ј"
+      "Joannicius of Devič Ј",
+      "Saint Joannicius of Devich, Serbia"
     ]
   },
   "references": [
@@ -18,6 +19,11 @@
     {
       "source": "src:orthodox-calendar",
       "locator": "backend/app/data/traditions/serbian_saints.json",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/26/101210-saint-joannicius-of-devich-serbia",
       "accessed": "2026-11-08"
     }
   ],

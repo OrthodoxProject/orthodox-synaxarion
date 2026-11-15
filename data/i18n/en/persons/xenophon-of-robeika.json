@@ -4,12 +4,20 @@
   "names": {
     "display": "Saint Xenophon of Robeika",
     "short": "Xenophon of Robeika",
-    "given": "Xenophon"
+    "given": "Xenophon",
+    "variants": [
+      "Venerable Xenophon, Abbot of Robeika, Novgorod"
+    ]
   },
   "references": [
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/01/26/100319-saint-xenophon-of-robeika",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/28/107807-venerable-xenophon-abbot-of-robeika-novgorod",
       "accessed": "2026-11-08"
     }
   ],

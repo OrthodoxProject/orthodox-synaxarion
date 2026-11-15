@@ -4,12 +4,20 @@
   "names": {
     "display": "Venerable Hilarion of Pskov, Lake Gdov",
     "short": "Hilarion of Pskov, Lake Gdov",
-    "given": "Hilarion"
+    "given": "Hilarion",
+    "variants": [
+      "Venerable Hilarion, Abbot of Gdov"
+    ]
   },
   "references": [
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/03/28/100922-venerable-hilarion-of-pskov-lake-gdov",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/21/103012-venerable-hilarion-abbot-of-gdov-and-pskov-lake",
       "accessed": "2026-11-08"
     }
   ],

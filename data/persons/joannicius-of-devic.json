@@ -11,6 +11,11 @@
   "sources": [
     {
       "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/26/101210-saint-joannicius-of-devich-serbia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/12/02/108070-venerable-joannicius-of-devic",
       "accessed": "2026-11-08"
     },
@@ -27,5 +32,8 @@
       "Importat automat din oca.org, orthodox-calendar; de verificat.",
       "Genul nu reiese din sursă; e de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "joannicius-of-devich"
+  ]
 }

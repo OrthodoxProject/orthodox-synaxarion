@@ -4,12 +4,20 @@
   "names": {
     "display": "Martyr Anastasius the Fuller of Salona in Dalmatia",
     "short": "Anastasius the Fuller of Salona in Dalmatia",
-    "given": "Anastasius"
+    "given": "Anastasius",
+    "variants": [
+      "Martyr Anastasius the Fuller at Salona in Dalmatia"
+    ]
   },
   "references": [
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/12/05/103479-martyr-anastasius-the-fuller-of-salona-in-dalmatia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/25/103057-martyr-anastasius-the-fuller-at-salona-in-dalmatia",
       "accessed": "2026-11-08"
     }
   ],

@@ -175,7 +175,7 @@ Cum lucrează:
 
 - **Traducerile automate** nu contează la potrivire: numele se compară doar cu ce au scris sursele și redactorii.
 
-Ce rămâne de lucru după import: numele în limba care lipsește (sfinții găsiți doar în română sau doar în engleză apar ca avertismente `i18n.missing-locale`, până îi traduce `npm run translate`), zilele armene, chipul sfințeniei acolo unde titlul nu-l spune (notat în `editorial.notes`), și revizuirea potrivirilor făcute automat.
+Ce rămâne de lucru după import: numele în limba care lipsește (sfinții găsiți doar în română sau doar în engleză apar ca avertismente `i18n.missing-locale`, până îi traduce `npm run translate`), zilele armene, chipul sfințeniei acolo unde titlul nu-l spune (notat în `editorial.notes`), și revizuirea potrivirilor făcute automat. OCA dă unor sfinți câte o pagină pentru fiecare zi a lor, uneori cu alt titlu (*Venerable Cassian the Greek of Uglich*, 21 mai, ziua numelui, și *Venerable Cassian of Uglich*, 2 octombrie, adormirea); importul face din ele două persoane, iar datele le țin într-una doar pe cele confirmate de paginile OCA (vezi [PLAN.md](PLAN.md)).
 
 ## Traducerea numelor
 
@@ -222,7 +222,7 @@ Datele din `data/` au pornit de la 17 cazuri-limită alese ca să pună schema l
 
 Restul vine din [importul din surse](#importul-din-surse). Pe scurt, acum:
 
-- 3.680 de persoane (cu nume din surse: 1.559 în română, 3.130 în engleză, 1.009 în ambele), 354 de grupuri, 4.511 pomeniri, 237 de icoane;
+- 3.635 de persoane (cu nume din surse: 1.554 în română, 3.085 în engleză, 1.004 în ambele), 354 de grupuri, 4.511 pomeniri, 237 de icoane;
 - calendarul BOR are toate cele 366 de zile (1.629 de rânduri, 765 cu titlul oficial), cel rusesc 366 de zile (2.836 de rânduri), cel al Patriarhiei Ecumenice 360 de zile (1.081 de rânduri) și cel al Serbiei 360 (1.154 de rânduri), cu încredere scăzută, cel copt 365 de zile (696 de rânduri); cele 146 de pomeniri armene așteaptă regula zilei;
 - 8 tradiții: BOR, Patriarhia Ecumenică, Biserica Greciei, Rusia, Serbia (Biserici răsăritene), copți și armeni (Biserici orientale), Biserica Asiriană a Răsăritului;
 - texte în 8 limbi: română, engleză, greacă (modernă și bizantină), rusă, sârbă (chirilică), armeană, arabă.

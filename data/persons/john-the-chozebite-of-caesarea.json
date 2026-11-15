@@ -13,6 +13,11 @@
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/10/03/102847-saint-john-the-chozebite-bishop-of-caesarea-palestine",
       "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/28/103096-venerable-john-the-chozebite",
+      "accessed": "2026-11-08"
     }
   ],
   "editorial": {
@@ -22,5 +27,8 @@
       "Importat automat din oca.org; de verificat.",
       "Genul nu reiese din sursă; e de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "john-the-chozebite"
+  ]
 }

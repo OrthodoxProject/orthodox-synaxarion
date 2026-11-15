@@ -22,17 +22,19 @@
       "accessed": "2026-11-08"
     },
     {
-      "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/125",
-      "accessed": "2026-11-15"
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/20/101762-martyrs-inna-pinna-and-rimma-disciples-of-apostle-andrew-in-scyt",
+      "accessed": "2026-11-08"
     }
   ],
   "editorial": {
     "status": "draft",
     "confidence": "low",
     "notes": [
-      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat.",
-      "Genul nu reiese din sursă; e de verificat."
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "pinna"
+  ]
 }

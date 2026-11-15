@@ -1,0 +1,19 @@
+{
+  "id": "severiane-deacon-confessor",
+  "locale": "ka",
+  "names": {
+    "display": "წმიდა სევერიანე",
+    "given": "სევერიანე"
+  },
+  "references": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-08-22?text=4731",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

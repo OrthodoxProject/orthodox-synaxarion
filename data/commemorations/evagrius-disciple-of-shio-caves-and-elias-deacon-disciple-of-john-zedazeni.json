@@ -1,0 +1,27 @@
+{
+  "id": "evagrius-disciple-of-shio-caves-and-elias-deacon-disciple-of-john-zedazeni",
+  "kind": "repose",
+  "subjects": [
+    "person:evagrius-disciple-of-shio-caves",
+    "person:elias-deacon-disciple-of-john-zedazeni"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 4
+  },
+  "sources": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-01-17?text=3501",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendarul Patriarhiei Georgiei (patriarchate.ge); de verificat."
+    ]
+  }
+}

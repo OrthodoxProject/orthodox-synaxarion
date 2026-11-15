@@ -1,0 +1,19 @@
+{
+  "id": "siluane-presbyter",
+  "locale": "ka",
+  "names": {
+    "display": "ღირსმოწამე სილუანე",
+    "given": "სილუანე"
+  },
+  "references": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-10-27?text=3027",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

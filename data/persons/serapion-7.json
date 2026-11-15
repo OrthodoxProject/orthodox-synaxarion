@@ -7,8 +7,8 @@
   ],
   "sources": [
     {
-      "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/0ccd6506-e22f-4bdc-bbcd-648d7ef3398a",
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-09-26?text=2826",
       "accessed": "2026-11-15"
     }
   ],
@@ -16,7 +16,8 @@
     "status": "draft",
     "confidence": "low",
     "notes": [
-      "Importat automat din calendar.ortodox.md; de verificat.",
+      "Importat automat din calendarul Patriarhiei Georgiei (patriarchate.ge); de verificat.",
+      "Numele e trecut automat din genitivul calendarului la nominativ; e de verificat.",
       "Genul nu reiese din sursă; e de verificat."
     ]
   }

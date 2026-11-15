@@ -16,6 +16,11 @@
       "accessed": "2026-11-08"
     },
     {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfanta-ana-prorocita-fiica-lui-fanuel",
+      "accessed": "2026-11-08"
+    },
+    {
       "source": "src:calendar-patriarhia",
       "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-si-dreptul-simeon-primitorul-de-dumnezeu-sf-prorocita-ana/",
       "accessed": "2026-11-08"
@@ -26,9 +31,9 @@
       "accessed": "2026-11-08"
     },
     {
-      "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/158#2",
-      "accessed": "2026-11-15"
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/28/102416-righteous-anna-the-prophetess-and-daughter-of-phanuel-who-met-th",
+      "accessed": "2026-11-08"
     }
   ],
   "editorial": {
@@ -37,5 +42,8 @@
     "notes": [
       "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "anna-the-prophetess-and-daughter-of-phanuel"
+  ]
 }

@@ -1,0 +1,19 @@
+{
+  "id": "bagrat-the-unifier",
+  "locale": "ka",
+  "names": {
+    "display": "კეთილმორწმუნე ბაგრატ",
+    "given": "ბაგრატ"
+  },
+  "references": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-05-20?text=4187",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

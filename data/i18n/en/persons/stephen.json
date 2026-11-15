@@ -4,12 +4,20 @@
   "names": {
     "display": "Venerable Stephen (in monasticism Simeon), the Myrrhgusher and Prince of Serbia",
     "short": "Stephen, Myrrhgusher and Prince of Serbia",
-    "given": "Stephen"
+    "given": "Stephen",
+    "variants": [
+      "Saint Simeon the Myroblyte"
+    ]
   },
   "references": [
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/02/13/100514-venerable-stephen-in-monasticism-simeon-the-myrrhgusher-and-prin",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/serbian_saints.json",
       "accessed": "2026-11-08"
     }
   ],

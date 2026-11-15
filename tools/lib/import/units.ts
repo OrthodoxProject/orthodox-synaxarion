@@ -51,6 +51,11 @@ export interface Unit {
   /** The kind of holiness comes from the list's "feast_type", not from the title. */
   holinessFromList?: boolean;
   armenianMonth?: string;
+  /**
+   * For a source in another language (the Georgian calendar …): its language. Its names, written in Latin letters,
+   * compare with the Romanian and the English names of the data alike, as names of two languages do (see Builder.slotScore).
+   */
+  foreign?: string;
   /** For patriarhia items: cross and colour. */
   cross?: string | null;
   color?: string;

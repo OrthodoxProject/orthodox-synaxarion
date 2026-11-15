@@ -12,9 +12,9 @@
       "accessed": "2026-11-08"
     },
     {
-      "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/7347a8d4-2ffa-446f-bb35-3a5f75a1baae",
-      "accessed": "2026-11-15"
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/02/103459-saints-john-heraclemon-andrew-and-theophilus-of-egypt",
+      "accessed": "2026-11-08"
     }
   ],
   "editorial": {
@@ -24,5 +24,8 @@
       "Importat automat din oca.org; de verificat.",
       "Genul nu reiese din sursă; e de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "theophilus-of-egypt-2"
+  ]
 }

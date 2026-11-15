@@ -11,13 +11,13 @@
   "sources": [
     {
       "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/10/02/102840-venerable-cassian-of-uglich",
+      "url": "https://www.oca.org/saints/lives/0000/05/21/101457-venerable-cassian-the-greek-of-uglich",
       "accessed": "2026-11-08"
     },
     {
-      "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/855",
-      "accessed": "2026-11-15"
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/02/102840-venerable-cassian-of-uglich",
+      "accessed": "2026-11-08"
     }
   ],
   "editorial": {
@@ -27,5 +27,8 @@
       "Importat automat din oca.org; de verificat.",
       "Genul nu reiese din sursă; e de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "cassian-the-greek-of-uglich"
+  ]
 }

@@ -11,6 +11,11 @@
   "sources": [
     {
       "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/04/26/101210-saint-joannicius-of-devich-serbia",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/12/02/108070-venerable-joannicius-of-devic",
       "accessed": "2026-11-08"
     },
@@ -18,11 +23,6 @@
       "source": "src:orthodox-calendar",
       "locator": "backend/app/data/traditions/serbian_saints.json",
       "accessed": "2026-11-08"
-    },
-    {
-      "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/85e61383-c34a-488f-8eac-ddff056121fe",
-      "accessed": "2026-11-15"
     }
   ],
   "editorial": {
@@ -32,5 +32,8 @@
       "Importat automat din oca.org, orthodox-calendar; de verificat.",
       "Genul nu reiese din sursă; e de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "joannicius-of-devich"
+  ]
 }

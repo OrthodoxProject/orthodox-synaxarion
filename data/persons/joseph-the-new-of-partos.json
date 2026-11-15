@@ -29,11 +29,6 @@
       "source": "src:orthodox-calendar",
       "locator": "backend/app/data/traditions/serbian_saints.json",
       "accessed": "2026-11-08"
-    },
-    {
-      "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/d17de018-f1f7-44bd-8248-643c726a64ff",
-      "accessed": "2026-11-15"
     }
   ],
   "editorial": {

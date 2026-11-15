@@ -1,0 +1,48 @@
+{
+  "id": "batu-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:batu",
+    "person:verk-presbyter",
+    "person:arpile-monk",
+    "person:abibos",
+    "person:agni",
+    "person:rease",
+    "person:igatraks",
+    "person:isko",
+    "person:shila",
+    "person:sigitse",
+    "person:sonirile",
+    "person:svimble",
+    "person:terme",
+    "person:file",
+    "person:anna-5",
+    "person:ala",
+    "person:larisa",
+    "person:moikos",
+    "person:mamika",
+    "person:uirkos",
+    "person:animaisa",
+    "person:gaata-queen",
+    "person:duklida"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 26
+  },
+  "sources": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-04-08?text=3964",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendarul Patriarhiei Georgiei (patriarchate.ge); de verificat."
+    ]
+  }
+}

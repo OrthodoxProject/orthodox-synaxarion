@@ -5,24 +5,25 @@
     "display": "Sf. Mc. Eupsihie din Cezareea Capadociei",
     "full": "Sfântul Mucenic Eupsihie din Cezareea Capadociei",
     "short": "Eupsihie din Cezareea Capadociei",
-    "given": "Eupsihie"
+    "given": "Eupsihie",
+    "variants": [
+      "Sf. Mc. Eupsihie"
+    ]
   },
   "references": [
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/04/09/101035-martyr-eupsychius-of-caesarea-in-cappadocia",
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-eupsihie-din-cezareea-capadociei",
       "accessed": "2026-11-08"
     },
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/09/07/102538-martyr-eupsychius-of-caesarea-in-cappadocia",
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sfanta-si-marea-joi-denia-celor-12-evanghelii-sf-mc-eupsihie-sf-cuv-vadim/",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "en",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

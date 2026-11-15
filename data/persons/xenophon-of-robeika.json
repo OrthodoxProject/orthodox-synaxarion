@@ -3,7 +3,7 @@
   "kind": "saint",
   "gender": "male",
   "holiness_types": [
-    "righteous"
+    "venerable"
   ],
   "external_ids": {
     "oca": "100319"
@@ -15,9 +15,9 @@
       "accessed": "2026-11-08"
     },
     {
-      "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/8ae61f1b-50f1-4d95-8541-7a546b6b7141",
-      "accessed": "2026-11-15"
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/28/107807-venerable-xenophon-abbot-of-robeika-novgorod",
+      "accessed": "2026-11-08"
     }
   ],
   "editorial": {
@@ -25,8 +25,10 @@
     "confidence": "low",
     "notes": [
       "Importat automat din oca.org; de verificat.",
-      "Chipul sfințeniei nu reiese din titlu; „righteous” e provizoriu.",
       "Genul nu reiese din sursă; e de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "xenophon-of-robeika-2"
+  ]
 }

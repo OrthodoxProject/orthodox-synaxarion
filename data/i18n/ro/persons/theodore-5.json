@@ -2,9 +2,9 @@
   "id": "theodore-5",
   "locale": "ro",
   "names": {
-    "display": "Sf. Mc. Teodor, fiul său",
-    "full": "Sfântul Mucenic Teodor, fiul său",
-    "short": "Teodor, fiul său",
+    "display": "Sf. Mc. Teodor din Kiev",
+    "full": "Sfântul Mucenic Teodor din Kiev",
+    "short": "Teodor din Kiev",
     "given": "Teodor"
   },
   "references": [
@@ -18,6 +18,6 @@
     "status": "machine",
     "method": "machine",
     "from": "en",
-    "date": "2026-11-08"
+    "date": "2026-11-15"
   }
 }

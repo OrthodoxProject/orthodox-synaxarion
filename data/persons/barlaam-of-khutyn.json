@@ -17,13 +17,13 @@
     },
     {
       "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/11/06/103186-venerable-barlaam-abbot-of-khutyn-novgorod",
+      "url": "https://www.oca.org/saints/lives/0000/06/24/101587-venerable-barlaam-of-khutin",
       "accessed": "2026-11-08"
     },
     {
-      "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/944",
-      "accessed": "2026-11-15"
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/06/103186-venerable-barlaam-abbot-of-khutyn-novgorod",
+      "accessed": "2026-11-08"
     }
   ],
   "editorial": {
@@ -34,6 +34,7 @@
     ]
   },
   "aliases": [
-    "varlaam-hutinski"
+    "varlaam-hutinski",
+    "barlaam-of-khutin"
   ]
 }

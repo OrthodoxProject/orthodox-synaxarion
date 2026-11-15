@@ -4,12 +4,20 @@
   "names": {
     "display": "Venerable Barlaam, Abbot of Khutyn, Novgorod",
     "short": "Barlaam, Abbot of Khutyn, Novgorod",
-    "given": "Barlaam"
+    "given": "Barlaam",
+    "variants": [
+      "Venerable Barlaam of Khutin"
+    ]
   },
   "references": [
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/11/06/103186-venerable-barlaam-abbot-of-khutyn-novgorod",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/06/24/101587-venerable-barlaam-of-khutin",
       "accessed": "2026-11-08"
     }
   ],

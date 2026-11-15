@@ -1,0 +1,19 @@
+{
+  "id": "tebe",
+  "locale": "ka",
+  "names": {
+    "display": "წმიდა თებე",
+    "given": "თებე"
+  },
+  "references": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-09-16?text=4882",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

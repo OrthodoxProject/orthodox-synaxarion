@@ -15,19 +15,14 @@
       "accessed": "2026-11-08"
     },
     {
-      "source": "src:orthodox-calendar",
-      "locator": "backend/app/data/traditions/russian_saints.json",
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/07/102534-venerable-serapion-of-spaso-eleazar-monastery-pskov",
       "accessed": "2026-11-08"
     },
     {
-      "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/1065",
-      "accessed": "2026-11-15"
-    },
-    {
-      "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/5a1d3bf5-3367-4b48-ad24-1d52ea935366",
-      "accessed": "2026-11-15"
+      "source": "src:orthodox-calendar",
+      "locator": "backend/app/data/traditions/russian_saints.json",
+      "accessed": "2026-11-08"
     }
   ],
   "editorial": {
@@ -36,5 +31,8 @@
     "notes": [
       "Importat automat din oca.org, orthodox-calendar; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "serapion-of-spaso-eleazar-monastery"
+  ]
 }

@@ -1,0 +1,19 @@
+{
+  "id": "polieukt",
+  "locale": "ka",
+  "names": {
+    "display": "მოწამე პოლიევქტი",
+    "given": "პოლიევქტი"
+  },
+  "references": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2027-01-01?text=3426",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

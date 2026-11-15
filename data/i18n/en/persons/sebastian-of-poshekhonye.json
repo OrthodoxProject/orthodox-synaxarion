@@ -4,12 +4,20 @@
   "names": {
     "display": "Venerable Sebastian of Poshekhonye",
     "short": "Sebastian of Poshekhonye",
-    "given": "Sebastian"
+    "given": "Sebastian",
+    "variants": [
+      "Venerable Sebastian, Abbot of Pshekhonye Monastery, Vologda"
+    ]
   },
   "references": [
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/02/26/100607-venerable-sebastian-of-poshekhonye",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/18/103577-venerable-sebastian-abbot-of-pshekhonye-monastery-vologda",
       "accessed": "2026-11-08"
     }
   ],

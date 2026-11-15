@@ -10,6 +10,11 @@
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/09/05/102510-martyrs-juventinus-and-maximus-the-soldiers-at-antioch",
       "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/09/102911-martyrs-juventius-and-maximus-at-antioch",
+      "accessed": "2026-11-08"
     }
   ],
   "editorial": {
@@ -19,5 +24,8 @@
       "Importat automat din oca.org; de verificat.",
       "Genul nu reiese din sursă; e de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "juventius"
+  ]
 }

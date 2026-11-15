@@ -11,13 +11,13 @@
   "sources": [
     {
       "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/05/26/101537-greatmartyr-george-the-new-at-sofia-bulgaria",
+      "url": "https://www.oca.org/saints/lives/0000/02/11/108005-saint-george-new-martyr-of-sofia",
       "accessed": "2026-11-08"
     },
     {
-      "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/1077",
-      "accessed": "2026-11-15"
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/05/26/101537-greatmartyr-george-the-new-at-sofia-bulgaria",
+      "accessed": "2026-11-08"
     }
   ],
   "editorial": {
@@ -27,5 +27,8 @@
       "Importat automat din oca.org; de verificat.",
       "Genul nu reiese din sursă; e de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "george"
+  ]
 }

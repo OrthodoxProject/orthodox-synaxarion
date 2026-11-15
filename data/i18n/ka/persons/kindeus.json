@@ -1,0 +1,19 @@
+{
+  "id": "kindeus",
+  "locale": "ka",
+  "names": {
+    "display": "კინდევსი",
+    "given": "კინდევსი"
+  },
+  "references": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-08-14?text=4685",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

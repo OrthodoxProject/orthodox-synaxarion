@@ -4,12 +4,20 @@
   "names": {
     "display": "Venerable Onesimus of the Kiev Near Caves",
     "short": "Onesimus of the Kiev Near Caves",
-    "given": "Onesimus"
+    "given": "Onesimus",
+    "variants": [
+      "Venerable Onesimos the Recluse, of the Kiev Caves"
+    ]
   },
   "references": [
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/10/04/102855-venerable-onesimus-of-the-kiev-near-caves",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/21/102067-venerable-onuphrius-the-silent-and-venerable-onesimos-the-reclus",
       "accessed": "2026-11-08"
     }
   ],

@@ -14,21 +14,29 @@
   },
   "sources": [
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/09/12/102585-hieromartyr-autonomus-bishop-in-italy",
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-avtonom",
       "accessed": "2026-11-08"
     },
     {
-      "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/794",
-      "accessed": "2026-11-15"
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/odovania-praznicului-nasterii-maicii-domnului-sf-mc-avtonom-macedonie-si-teodul/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/12/102585-hieromartyr-autonomus-bishop-in-italy",
+      "accessed": "2026-11-08"
     }
   ],
   "editorial": {
     "status": "draft",
-    "confidence": "low",
+    "confidence": "medium",
     "notes": [
-      "Importat automat din oca.org; de verificat."
+      "Importat automat din doxologia.ro, calendar.patriarhia.ro, oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "avtonom--repose"
+  ]
 }

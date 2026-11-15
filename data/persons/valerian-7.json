@@ -3,12 +3,12 @@
   "kind": "saint",
   "gender": "male",
   "holiness_types": [
-    "hieromartyr"
+    "martyr"
   ],
   "sources": [
     {
-      "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/58d69dc2-e459-473e-9af5-c762e7bd9140",
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-09-26?text=2830",
       "accessed": "2026-11-15"
     }
   ],
@@ -16,7 +16,8 @@
     "status": "draft",
     "confidence": "low",
     "notes": [
-      "Importat automat din calendar.ortodox.md; de verificat.",
+      "Importat automat din calendarul Patriarhiei Georgiei (patriarchate.ge); de verificat.",
+      "Numele e trecut automat din genitivul calendarului la nominativ; e de verificat.",
       "Genul nu reiese din sursă; e de verificat."
     ]
   }

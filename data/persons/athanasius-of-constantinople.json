@@ -15,9 +15,9 @@
       "accessed": "2026-11-08"
     },
     {
-      "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/26e2e83a-a939-4d3e-b5fb-093585305adf",
-      "accessed": "2026-11-15"
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/10/28/103098-venerable-athanasius-the-younger-patriarch-of-constantinople",
+      "accessed": "2026-11-08"
     }
   ],
   "editorial": {
@@ -27,5 +27,8 @@
       "Importat automat din oca.org; de verificat.",
       "Genul nu reiese din sursă; e de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "athanasius-the-younger-of-constantinople"
+  ]
 }

@@ -1,0 +1,19 @@
+{
+  "id": "anton-ii-catholicos",
+  "locale": "ka",
+  "names": {
+    "display": "ანტონ",
+    "given": "ანტონ"
+  },
+  "references": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2027-01-03?text=3436",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

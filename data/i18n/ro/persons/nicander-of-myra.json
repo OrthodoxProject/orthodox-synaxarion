@@ -9,15 +9,18 @@
   },
   "references": [
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/11/04/103172-hieromartyrs-nicander-bishop-of-myra-and-hermas-the-presbyter",
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-sfintit-mucenic-nicandru-episcopul-mirelor",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-ioanichie-cel-mare-sf-mc-nicandru-si-ermeu-sf-cuv-gheorghe-marturisitorul-din-drama/",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "en",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

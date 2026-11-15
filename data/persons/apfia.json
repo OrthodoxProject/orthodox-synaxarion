@@ -1,14 +1,14 @@
 {
   "id": "apfia",
   "kind": "saint",
-  "gender": "female",
+  "gender": "male",
   "holiness_types": [
-    "martyr"
+    "equal_to_apostles"
   ],
   "sources": [
     {
-      "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/86d634f7-8bf3-46c9-81eb-3015c69dcc40#2",
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-03-04?text=3755",
       "accessed": "2026-11-15"
     }
   ],
@@ -16,7 +16,9 @@
     "status": "draft",
     "confidence": "low",
     "notes": [
-      "Importat automat din calendar.ortodox.md; de verificat."
+      "Importat automat din calendarul Patriarhiei Georgiei (patriarchate.ge); de verificat.",
+      "Numele e trecut automat din genitivul calendarului la nominativ; e de verificat.",
+      "Genul nu reiese din sursă; e de verificat."
     ]
   }
 }

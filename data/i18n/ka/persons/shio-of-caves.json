@@ -1,0 +1,19 @@
+{
+  "id": "shio-of-caves",
+  "locale": "ka",
+  "names": {
+    "display": "ღირსი შიო",
+    "given": "შიო"
+  },
+  "references": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-02-17?text=3679",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

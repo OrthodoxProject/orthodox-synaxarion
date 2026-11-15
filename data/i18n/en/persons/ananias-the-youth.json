@@ -1,0 +1,20 @@
+{
+  "id": "ananias-the-youth",
+  "locale": "en",
+  "names": {
+    "display": "Saint Ananias, one of the Three Holy Youths",
+    "short": "Ananias",
+    "given": "Ananias"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/12/17/103560-the-three-holy-youths-ananias-azarias-and-misael",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

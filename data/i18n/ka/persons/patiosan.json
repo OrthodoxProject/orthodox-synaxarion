@@ -1,0 +1,19 @@
+{
+  "id": "patiosan",
+  "locale": "ka",
+  "names": {
+    "display": "პატიოსან",
+    "given": "პატიოსან"
+  },
+  "references": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-08-14?text=4683",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

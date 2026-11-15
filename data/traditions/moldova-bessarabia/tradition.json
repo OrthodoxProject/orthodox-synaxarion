@@ -1,0 +1,33 @@
+{
+  "id": "moldova-bessarabia",
+  "family": "eastern_orthodox",
+  "parent": "romanian",
+  "status": "autonomous",
+  "calendar_from": "romanian",
+  "calendar_style": "revised_julian",
+  "paschalion": "julian",
+  "lectionary": {
+    "lukan_jump": true
+  },
+  "fasting_model": "romanian",
+  "countries": [
+    "MD"
+  ],
+  "languages": [
+    "ro"
+  ],
+  "liturgical_languages": [
+    "ro"
+  ],
+  "default_locale": "ro",
+  "external_ids": {
+    "wikidata": "Q1300999"
+  },
+  "editorial": {
+    "status": "draft",
+    "confidence": "medium",
+    "notes": [
+      "Mitropolie autonomă a Patriarhiei Române, reactivată în 1992, pe stil nou: ține calendarul Bisericii Ortodoxe Române (calendar_from). Sfinții ei, Sf. Ier. Iraclie și Alexandru ai Basarabiei (canonizați de Sinodul BOR în 2024), sunt deja în calendarul BOR; multe parohii venite de la Mitropolia Chișinăului țin încă stilul vechi."
+    ]
+  }
+}

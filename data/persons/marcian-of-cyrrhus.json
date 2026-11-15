@@ -3,7 +3,7 @@
   "kind": "saint",
   "gender": "male",
   "holiness_types": [
-    "righteous"
+    "venerable"
   ],
   "external_ids": {
     "oca": "103156"
@@ -11,13 +11,13 @@
   "sources": [
     {
       "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/11/02/103156-saint-marcian-of-cyrrhus",
+      "url": "https://www.oca.org/saints/lives/0000/01/18/100223-venerable-marcian-of-cyrrhus-in-syria",
       "accessed": "2026-11-08"
     },
     {
-      "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/936",
-      "accessed": "2026-11-15"
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/02/103156-saint-marcian-of-cyrrhus",
+      "accessed": "2026-11-08"
     }
   ],
   "editorial": {
@@ -25,8 +25,10 @@
     "confidence": "low",
     "notes": [
       "Importat automat din oca.org; de verificat.",
-      "Chipul sfințeniei nu reiese din titlu; „righteous” e provizoriu.",
       "Genul nu reiese din sursă; e de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "marcian-of-cyrrhus-in-syria"
+  ]
 }

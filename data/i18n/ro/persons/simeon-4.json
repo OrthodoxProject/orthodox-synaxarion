@@ -9,15 +9,13 @@
   },
   "references": [
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/05/18/101426-martyrs-simeon-isaac-and-bachtisius-of-persia",
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-simeon",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "en",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

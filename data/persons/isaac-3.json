@@ -5,7 +5,15 @@
   "holiness_types": [
     "martyr"
   ],
+  "external_ids": {
+    "doxologia": "sfantul-mucenic-isaachie-persul-din-metovo"
+  },
   "sources": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-mucenic-isaachie-persul-din-metovo",
+      "accessed": "2026-11-08"
+    },
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/05/18/101426-martyrs-simeon-isaac-and-bachtisius-of-persia",
@@ -14,10 +22,13 @@
   ],
   "editorial": {
     "status": "draft",
-    "confidence": "low",
+    "confidence": "medium",
     "notes": [
-      "Importat automat din oca.org; de verificat.",
-      "Genul nu reiese din sursă; e de verificat."
+      "Importat automat din doxologia.ro, oca.org; de verificat.",
+      "Doxologia îl numește „din Mețovo”, probabil după Sf. Nou Mc. Nicolae din Mețovo, pomenit tot pe 16 mai; e-religie.ro (16 mai) și OCA (18 mai) îl pomenesc cu Simeon și Bahtisie, mucenici din Persia."
     ]
-  }
+  },
+  "aliases": [
+    "isaachie-persul-of-metovo"
+  ]
 }

@@ -17,13 +17,13 @@
     },
     {
       "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/11/12/103290-venerable-nilus-the-myrrhgusher-of-mount-athos",
+      "url": "https://www.oca.org/saints/lives/0000/05/07/101323-venerable-nilus-the-myrrhgusher-of-lavra-of-mount-athos",
       "accessed": "2026-11-08"
     },
     {
-      "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/957",
-      "accessed": "2026-11-15"
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/11/12/103290-venerable-nilus-the-myrrhgusher-of-mount-athos",
+      "accessed": "2026-11-08"
     }
   ],
   "editorial": {
@@ -32,5 +32,8 @@
     "notes": [
       "Importat automat din doxologia.ro, oca.org; de verificat."
     ]
-  }
+  },
+  "aliases": [
+    "nilus-the-myrrhgusher-of-lavra-of-mount"
+  ]
 }

@@ -4,12 +4,20 @@
   "names": {
     "display": "Saint Makarios the Roman",
     "short": "Makarios the Roman",
-    "given": "Makarios"
+    "given": "Makarios",
+    "variants": [
+      "Venerable Makarios the Roman of Novgorod"
+    ]
   },
   "references": [
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/08/15/149024-saint-makarios-the-roman",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/01/19/100233-venerable-makarios-the-roman-of-novgorod",
       "accessed": "2026-11-08"
     }
   ],

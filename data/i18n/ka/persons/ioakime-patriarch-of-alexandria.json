@@ -1,0 +1,19 @@
+{
+  "id": "ioakime-patriarch-of-alexandria",
+  "locale": "ka",
+  "names": {
+    "display": "იოაკიმე",
+    "given": "იოაკიმე"
+  },
+  "references": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-09-30?text=2864",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

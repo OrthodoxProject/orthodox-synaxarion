@@ -2,22 +2,20 @@
   "id": "plato-the-confessor-of-studion",
   "locale": "ro",
   "names": {
-    "display": "Sf. Cuv. Platon Mărturisitorul, de la Studion",
-    "full": "Sfântul Cuvios Platon Mărturisitorul, de la Studion",
-    "short": "Platon Mărturisitorul, de la Studion",
+    "display": "Sf. Cuv. Platon",
+    "full": "Sfântul Cuvios Platon",
+    "short": "Platon",
     "given": "Platon"
   },
   "references": [
     {
-      "source": "src:oca-lives",
-      "url": "https://www.oca.org/saints/lives/0000/04/05/101004-saint-plato-the-confessor-of-studion",
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-platon",
       "accessed": "2026-11-08"
     }
   ],
   "translation": {
-    "status": "machine",
-    "method": "machine",
-    "from": "en",
-    "date": "2026-11-08"
+    "status": "draft",
+    "method": "original"
   }
 }

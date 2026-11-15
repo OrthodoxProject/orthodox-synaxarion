@@ -1,0 +1,26 @@
+{
+  "id": "azarias-the-youth",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Azaria, unul dintre cei trei tineri",
+    "full": "Sfântul Azaria, unul dintre cei trei tineri",
+    "short": "Azaria",
+    "given": "Azaria"
+  },
+  "references": [
+    {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-proroc-daniel-sfintii-trei-tineri-anania-azaria-misail",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-proroc-daniel-si-sfintii-trei-tineri-anania-azaria-si-misail/",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

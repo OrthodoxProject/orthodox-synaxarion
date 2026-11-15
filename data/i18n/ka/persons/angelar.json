@@ -1,0 +1,19 @@
+{
+  "id": "angelar",
+  "locale": "ka",
+  "names": {
+    "display": "ანგელარი",
+    "given": "ანგელარი"
+  },
+  "references": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-08-09?text=4654",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

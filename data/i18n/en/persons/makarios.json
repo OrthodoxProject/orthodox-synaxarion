@@ -4,12 +4,20 @@
   "names": {
     "display": "Venerable Makarios, Igoumen of Pelēketḗ",
     "short": "Makarios, Igoumen of Pelēketḗ",
-    "given": "Makarios"
+    "given": "Makarios",
+    "variants": [
+      "Venerable Macarius the Monk of Pelekete"
+    ]
   },
   "references": [
     {
       "source": "src:oca-lives",
       "url": "https://www.oca.org/saints/lives/0000/04/01/100967-venerable-makarios-igoumen-of-pelket",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/18/102335-venerable-macarius-the-monk-of-pelekete",
       "accessed": "2026-11-08"
     }
   ],

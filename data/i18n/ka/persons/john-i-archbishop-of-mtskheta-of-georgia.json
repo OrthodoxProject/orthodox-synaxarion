@@ -1,0 +1,19 @@
+{
+  "id": "john-i-archbishop-of-mtskheta-of-georgia",
+  "locale": "ka",
+  "names": {
+    "display": "წმიდა იოანე",
+    "given": "იოანე"
+  },
+  "references": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-06-05?text=5036",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

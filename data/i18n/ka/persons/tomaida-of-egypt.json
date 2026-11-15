@@ -1,0 +1,19 @@
+{
+  "id": "tomaida-of-egypt",
+  "locale": "ka",
+  "names": {
+    "display": "მოწამე თომაიდა",
+    "given": "თომაიდა"
+  },
+  "references": [
+    {
+      "source": "src:patriarchate-ge",
+      "url": "https://patriarchate.ge/calendar/day/2026-04-26?text=4084",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

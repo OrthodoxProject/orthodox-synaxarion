@@ -17,8 +17,23 @@
       "accessed": "2026-11-08"
     },
     {
+      "source": "src:doxologia",
+      "url": "https://doxologia.ro/sfantul-cuvios-isaachie",
+      "accessed": "2026-11-08"
+    },
+    {
       "source": "src:calendar-patriarhia",
       "url": "https://calendar.patriarhia.ro/calendar-entry-26/sf-cuv-isaachie-marturisitorul-si-varlaam-sambata-celor-adormiti-mosii-de-vara/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:calendar-patriarhia",
+      "url": "https://calendar.patriarhia.ro/calendar-entry-26/%e2%80%a0-sf-cuv-marturisitor-iraclie-din-basarabia-sf-cuv-isaachie-dalmat-si-faust-sf-mironosita-salomeea-sf-cuv-teodora-din-tesalonic/",
+      "accessed": "2026-11-08"
+    },
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/03/22/100863-venerable-isaac-the-confessor-founder-of-the-dalmatian-monastery",
       "accessed": "2026-11-08"
     },
     {
@@ -27,9 +42,9 @@
       "accessed": "2026-11-08"
     },
     {
-      "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/486",
-      "accessed": "2026-11-15"
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/08/03/102189-venerable-isaac-the-ascetic-of-the-dalmatian-monastery-at-consta",
+      "accessed": "2026-11-08"
     }
   ],
   "editorial": {
@@ -40,6 +55,8 @@
     ]
   },
   "aliases": [
-    "isaachie-marturisitorul"
+    "isaachie-marturisitorul",
+    "isaac-the-confessor-of-dalmatian-monastery",
+    "isaac-the-ascetic-of-the-dalmatian-monastery"
   ]
 }

@@ -1,0 +1,32 @@
+{
+  "id": "theodore-of-edessa--07-19",
+  "kind": "repose",
+  "subjects": [
+    "person:theodore-of-edessa"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 7,
+    "day": 19
+  },
+  "external_ids": {
+    "oca": "100483"
+  },
+  "sources": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/07/19/100483-saint-theodore-of-edessa-mesopotamia",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din oca.org; de verificat."
+    ]
+  },
+  "aliases": [
+    "theodore-of-edessa-2--repose"
+  ]
+}

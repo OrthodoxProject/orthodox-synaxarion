@@ -1,0 +1,31 @@
+{
+  "id": "acolot--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:acolot"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 19
+  },
+  "sources": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/mai/sinaxar-ziua-19-luna-5/#ancora-continut-2",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7fdab270-6730-4d42-be9d-4f3839a48488",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din e-religie.ro; de verificat."
+    ]
+  }
+}

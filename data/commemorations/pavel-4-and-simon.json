@@ -1,0 +1,32 @@
+{
+  "id": "pavel-4-and-simon",
+  "kind": "repose",
+  "subjects": [
+    "person:pavel-4",
+    "person:simon"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 3
+  },
+  "sources": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/februarie/sinaxar-ziua-3-luna-2/#ancora-continut-5",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/80b0f604-e1fe-4033-848b-adcd950212f6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din e-religie.ro; de verificat."
+    ]
+  }
+}

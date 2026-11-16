@@ -1,0 +1,27 @@
+{
+  "id": "ioan-36-and-vasile-of-rusia-2",
+  "kind": "repose",
+  "subjects": [
+    "person:ioan-36",
+    "person:vasile-of-rusia-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 18
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a8ec023b-7ca9-4252-b966-1057e3c4b15c",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

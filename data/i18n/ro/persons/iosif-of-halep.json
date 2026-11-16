@@ -1,0 +1,20 @@
+{
+  "id": "iosif-of-halep",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Nou Mc. Iosif de la Halep",
+    "short": "Iosif de la Halep",
+    "given": "Iosif"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/februarie/sinaxar-ziua-4-luna-2/#ancora-continut-8",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

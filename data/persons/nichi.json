@@ -1,0 +1,27 @@
+{
+  "id": "nichi",
+  "kind": "saint",
+  "gender": "female",
+  "holiness_types": [
+    "martyr"
+  ],
+  "sources": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/aprilie/sinaxar-ziua-25-luna-4/#ancora-continut-4",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8670b1d7-cd48-433c-b3d0-8144789673b8",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din e-religie.ro; de verificat."
+    ]
+  }
+}

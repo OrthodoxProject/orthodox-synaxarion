@@ -1,0 +1,22 @@
+{
+  "id": "alexandru-of-tiveriani",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Alexander, Bishop of the Tiberians",
+    "short": "Alexander, Bishop of the Tiberians",
+    "given": "Alexander"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/mai/sinaxar-ziua-13-luna-5/#ancora-continut-5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

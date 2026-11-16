@@ -1,0 +1,28 @@
+{
+  "id": "dimitrie-schevofilaxul",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "venerable"
+  ],
+  "sources": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/ianuarie/sinaxar-ziua-25-luna-1/#ancora-continut-7",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9faec3f2-7b12-4024-9d41-f92d4e30e33e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din e-religie.ro; de verificat.",
+      "Genul nu reiese din sursă; e de verificat."
+    ]
+  }
+}

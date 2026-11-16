@@ -1,0 +1,21 @@
+{
+  "id": "mucenic",
+  "locale": "ro",
+  "names": {
+    "display": "Sf., Slăvitul, Marele Mc. și Tămăduitorul Pantelimon",
+    "full": "Sfântul, Slăvitul, Marele Mucenic și Tămăduitorul Pantelimon",
+    "short": "Mucenic, Tămăduitorul Pantelimon",
+    "given": "Mucenic"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/656",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

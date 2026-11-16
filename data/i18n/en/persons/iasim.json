@@ -1,0 +1,22 @@
+{
+  "id": "iasim",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Iasimus the Wonderworker",
+    "short": "Iasimus the Wonderworker",
+    "given": "Iasimus"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/februarie/sinaxar-ziua-4-luna-2/#ancora-continut-7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

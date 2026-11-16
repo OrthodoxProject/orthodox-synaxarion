@@ -1,0 +1,27 @@
+{
+  "id": "evdochia-6-and-nicolae-50",
+  "kind": "repose",
+  "subjects": [
+    "person:evdochia-6",
+    "person:nicolae-50"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 15
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/68d9176e-278e-4f5e-9b4a-2de198069cfd#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

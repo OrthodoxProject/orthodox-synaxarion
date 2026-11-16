@@ -2,15 +2,14 @@
   "id": "avda",
   "locale": "ro",
   "names": {
-    "display": "Sf. Mc. Avda",
-    "full": "Sfântul Mucenic Avda",
-    "short": "Avda",
+    "display": "Sf. Sfințit Mc. Avda, episcopul",
+    "short": "Avda, episcopul",
     "given": "Avda"
   },
   "references": [
     {
-      "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/daceacd7-a5e9-4328-afd6-89adea01dd17",
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/mai/sinaxar-ziua-16-luna-5/#ancora-continut-3",
       "accessed": "2026-11-15"
     }
   ],

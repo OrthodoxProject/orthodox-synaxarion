@@ -1,0 +1,22 @@
+{
+  "id": "teodor-al-evhaitelor",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Theodore of Euchaita",
+    "short": "Theodore of Euchaita",
+    "given": "Theodore"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/ianuarie/sinaxar-ziua-12-luna-1/#ancora-continut-7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

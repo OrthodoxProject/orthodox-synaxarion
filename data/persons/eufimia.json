@@ -7,6 +7,11 @@
   ],
   "sources": [
     {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/ianuarie/sinaxar-ziua-4-luna-1/#ancora-continut-7",
+      "accessed": "2026-11-15"
+    },
+    {
       "source": "src:calendar-ortodox-md",
       "url": "https://calendar.ortodox.md/calendar/entry/RO/34a981f7-8ec9-48c5-b578-ec5db5025a0b",
       "accessed": "2026-11-15"
@@ -16,7 +21,7 @@
     "status": "draft",
     "confidence": "low",
     "notes": [
-      "Importat automat din calendar.ortodox.md; de verificat."
+      "Importat automat din e-religie.ro; de verificat."
     ]
   }
 }

@@ -3,9 +3,8 @@
   "kind": "repose",
   "subjects": [
     "person:ana-9",
-    "person:ilarion-6",
-    "person:mihaela",
-    "person:tatiana-of-rusia"
+    "person:ilarion-5",
+    "person:tatiana-5"
   ],
   "date_rule": {
     "type": "fixed",
@@ -15,7 +14,7 @@
   "sources": [
     {
       "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/d4f5d335-ac60-4bbb-aaed-e0355728b53a",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/842",
       "accessed": "2026-11-15"
     }
   ],

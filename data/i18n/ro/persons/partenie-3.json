@@ -2,14 +2,15 @@
   "id": "partenie-3",
   "locale": "ro",
   "names": {
-    "display": "Sf. Cuv. Partenie",
-    "short": "Partenie",
+    "display": "Sf. Sfințit Mc. Partenie, episcop",
+    "full": "Sfântul Sfințit Mucenic Partenie, episcop",
+    "short": "Partenie, episcop",
     "given": "Partenie"
   },
   "references": [
     {
       "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/c90b4e07-b94c-4628-b955-b5b5cb161639",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a7fb591a-a69a-4a8a-bfbd-cbb9a1f9e475",
       "accessed": "2026-11-15"
     }
   ],

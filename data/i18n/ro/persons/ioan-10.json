@@ -2,14 +2,14 @@
   "id": "ioan-10",
   "locale": "ro",
   "names": {
-    "display": "Sf. Sfințit Nou Mc. Ioan (Artobolevkii)",
-    "short": "Ioan (Artobolevkii)",
+    "display": "Sf. Nou Mc. Ioan, însoțitorul lor",
+    "short": "Ioan, însoțitorul lor",
     "given": "Ioan"
   },
   "references": [
     {
       "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/1352",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/63ff8390-b156-4e2f-b6c4-e96e95bf4a51",
       "accessed": "2026-11-15"
     }
   ],

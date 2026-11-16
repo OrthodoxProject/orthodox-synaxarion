@@ -1,0 +1,22 @@
+{
+  "id": "pahomie-2",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Pachomius",
+    "short": "Pachomius",
+    "given": "Pachomius"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/ianuarie/sinaxar-ziua-13-luna-1/#ancora-continut-4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

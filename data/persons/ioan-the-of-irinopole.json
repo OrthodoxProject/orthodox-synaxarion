@@ -1,0 +1,28 @@
+{
+  "id": "ioan-the-of-irinopole",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "venerable"
+  ],
+  "sources": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/februarie/sinaxar-ziua-4-luna-2/#ancora-continut-5",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/435a936e-8dd2-4b3c-8fe8-a619990dc15b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din e-religie.ro; de verificat.",
+      "Genul nu reiese din sursă; e de verificat."
+    ]
+  }
+}

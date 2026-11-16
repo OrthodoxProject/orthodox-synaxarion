@@ -8,6 +8,11 @@
   ],
   "sources": [
     {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/iunie/sinaxar-ziua-3-luna-6/#ancora-continut-3",
+      "accessed": "2026-11-15"
+    },
+    {
       "source": "src:calendar-ortodox-md",
       "url": "https://calendar.ortodox.md/calendar/entry/RO/4d8b5e7d-feee-40ff-b545-ddfae81243f8",
       "accessed": "2026-11-15"
@@ -17,7 +22,8 @@
     "status": "draft",
     "confidence": "low",
     "notes": [
-      "Importat automat din calendar.ortodox.md; de verificat."
+      "Importat automat din e-religie.ro; de verificat.",
+      "Genul nu reiese din sursă; e de verificat."
     ]
   }
 }

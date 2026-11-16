@@ -3,12 +3,18 @@
   "kind": "saint",
   "gender": "male",
   "holiness_types": [
+    "new_martyr",
     "martyr"
   ],
   "sources": [
     {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/iunie/sinaxar-ziua-5-luna-6/#ancora-continut-7",
+      "accessed": "2026-11-15"
+    },
+    {
       "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/3eddc250-05cf-44b9-b84f-af0ad8d31738",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f16e9400-18c6-484c-a18c-864e66b33be5",
       "accessed": "2026-11-15"
     }
   ],
@@ -16,7 +22,7 @@
     "status": "draft",
     "confidence": "low",
     "notes": [
-      "Importat automat din calendar.ortodox.md; de verificat.",
+      "Importat automat din e-religie.ro; de verificat.",
       "Genul nu reiese din sursă; e de verificat."
     ]
   }

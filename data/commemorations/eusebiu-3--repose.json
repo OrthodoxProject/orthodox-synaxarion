@@ -6,13 +6,18 @@
   ],
   "date_rule": {
     "type": "fixed",
-    "month": 8,
-    "day": 14
+    "month": 1,
+    "day": 23
   },
   "sources": [
     {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/ianuarie/sinaxar-ziua-23-luna-1/#ancora-continut-3",
+      "accessed": "2026-11-15"
+    },
+    {
       "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/97d87c33-546c-4094-9598-089552e84720",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a90dec10-572e-4ce3-be28-c37cb916da1c",
       "accessed": "2026-11-15"
     }
   ],
@@ -20,7 +25,7 @@
     "status": "draft",
     "confidence": "low",
     "notes": [
-      "Importat automat din calendar.ortodox.md; de verificat."
+      "Importat automat din e-religie.ro; de verificat."
     ]
   }
 }

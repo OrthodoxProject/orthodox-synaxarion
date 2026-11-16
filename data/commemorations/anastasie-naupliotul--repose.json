@@ -1,0 +1,26 @@
+{
+  "id": "anastasie-naupliotul--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:anastasie-naupliotul"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 1
+  },
+  "sources": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/februarie/sinaxar-ziua-1-luna-2/#ancora-continut-8",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din e-religie.ro; de verificat."
+    ]
+  }
+}

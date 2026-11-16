@@ -2,14 +2,14 @@
   "id": "dimitrie-6",
   "locale": "ro",
   "names": {
-    "display": "Sf. Sfințit Nou Mc. Dimitrie (Ilinskie)",
-    "short": "Dimitrie (Ilinskie)",
+    "display": "Sf. Dimitrie",
+    "short": "Dimitrie",
     "given": "Dimitrie"
   },
   "references": [
     {
       "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/1352",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8bb57e3e-9139-4248-8d39-66555d31f7ed",
       "accessed": "2026-11-15"
     }
   ],

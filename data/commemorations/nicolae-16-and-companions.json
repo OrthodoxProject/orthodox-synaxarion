@@ -1,0 +1,28 @@
+{
+  "id": "nicolae-16-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:nicolae-16",
+    "person:vasile-15",
+    "person:ioan-of-rusia-5"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 28
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a98f6ebf-f9e1-4ce3-be2a-391d77eef956",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

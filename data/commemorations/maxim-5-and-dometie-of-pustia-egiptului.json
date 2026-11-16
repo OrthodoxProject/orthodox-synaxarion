@@ -1,0 +1,27 @@
+{
+  "id": "maxim-5-and-dometie-of-pustia-egiptului",
+  "kind": "repose",
+  "subjects": [
+    "person:maxim-5",
+    "person:dometie-of-pustia-egiptului"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 10
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d7e5cbf4-367c-42e0-89b2-1da166f7915e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

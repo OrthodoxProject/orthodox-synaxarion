@@ -1,0 +1,31 @@
+{
+  "id": "leonid-episcopul-atenei--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:leonid-episcopul-atenei"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 15
+  },
+  "sources": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/aprilie/sinaxar-ziua-15-luna-4/#ancora-continut-4",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/081d2781-c4b5-45f6-ba6a-6285b9ce3fd1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din e-religie.ro; de verificat."
+    ]
+  }
+}

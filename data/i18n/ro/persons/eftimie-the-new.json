@@ -2,15 +2,14 @@
   "id": "eftimie-the-new",
   "locale": "ro",
   "names": {
-    "display": "Sf. Cuv. Eftimie cel Nou, nevoitor din Constantinopol",
-    "full": "Sfântul Cuvios Eftimie cel Nou, nevoitor din Constantinopol",
-    "short": "Eftimie cel Nou, nevoitor din Constantinopol",
+    "display": "Sf. Cuv. Eftimie cel nou",
+    "short": "Eftimie cel nou",
     "given": "Eftimie"
   },
   "references": [
     {
-      "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/a2aae28f-251f-43ef-9f83-c14c9261f8eb",
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/ianuarie/sinaxar-ziua-4-luna-1/#ancora-continut-5",
       "accessed": "2026-11-15"
     }
   ],

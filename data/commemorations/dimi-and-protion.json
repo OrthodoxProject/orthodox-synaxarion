@@ -1,0 +1,27 @@
+{
+  "id": "dimi-and-protion",
+  "kind": "repose",
+  "subjects": [
+    "person:dimi",
+    "person:protion"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 12
+  },
+  "sources": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/aprilie/sinaxar-ziua-12-luna-4/#ancora-continut-5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din e-religie.ro; de verificat."
+    ]
+  }
+}

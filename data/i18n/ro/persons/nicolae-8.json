@@ -2,14 +2,14 @@
   "id": "nicolae-8",
   "locale": "ro",
   "names": {
-    "display": "Sf. Sfințit Nou Mc. Nicolae (Kandaurov)",
-    "short": "Nicolae (Kandaurov)",
+    "display": "Sf. Nou Mc. Nicolae",
+    "short": "Nicolae",
     "given": "Nicolae"
   },
   "references": [
     {
       "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/1352",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/63ff8390-b156-4e2f-b6c4-e96e95bf4a51",
       "accessed": "2026-11-15"
     }
   ],

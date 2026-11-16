@@ -1,0 +1,20 @@
+{
+  "id": "seluc",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Seluc",
+    "short": "Seluc",
+    "given": "Seluc"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/mai/sinaxar-ziua-23-luna-5/#ancora-continut-6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -48,3 +48,5 @@ Pașii de mai jos sunt în issue-ul [#56](https://github.com/OrthodoxProject/ort
 PR-ul #50 intră în `main` după ce a fost adus la zi (vezi mai sus). Dacă `main` se mișcă din nou înainte de un import al acestui calendar, se face la fel: datele de pe `main`, în afară de cele 5 fișiere scrise de mână, apoi importul din nou; sursa e-religie.ro (#39, PR #55) își refacere și ea datele peste `main`.
 
 Din issue-ul [#56](https://github.com/OrthodoxProject/orthodox-synaxarion/issues/56): pasul 1 (numele în engleză), apoi pasul 2, cu raportul potrivirilor: `node tools/import.ts --offline --dry-run` arată numerele, iar paginile sunt în `build/cache/calendar.ortodox.md/` din dosarul principal al depozitului (dintr-un worktree: `--cache <dosarul principal>/build/cache`).
+
+Unit cu sursa e-religie.ro (PR #55): calendarul s-a importat din nou peste datele ei, așa că 116 rânduri trimit acum la sfinții adăugați de e-religie.ro în loc de înregistrări noi ale Moldovei, iar alte 186 la aceiași sfinți sub alte id-uri. Numerele de mai sus sunt cele de dinainte; ce a rămas e în issue-ul de urmărire al unirii.

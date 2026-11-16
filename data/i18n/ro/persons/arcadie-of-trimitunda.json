@@ -1,0 +1,20 @@
+{
+  "id": "arcadie-of-trimitunda",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ier. Arcadie, Episcopul Trimitundei",
+    "short": "Arcadie, Episcopul Trimitundei",
+    "given": "Arcadie"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/martie/sinaxar-ziua-7-luna-3/#ancora-continut-5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -2,14 +2,15 @@
   "id": "dimitrie-13",
   "locale": "ro",
   "names": {
-    "display": "Sf. Mc. Dimitrie",
-    "short": "Dimitrie",
+    "display": "Sf. Sfințit Mc. Dimitrie, diaconul Sfântului Irineu din Sirmium",
+    "full": "Sfântul Sfințit Mucenic Dimitrie, diaconul Sfântului Irineu din Sirmium",
+    "short": "Dimitrie, diaconul Sfântului Irineu din Sirmium",
     "given": "Dimitrie"
   },
   "references": [
     {
       "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/d4ad602d-b5ed-45b5-ba0b-ef4b991fea57",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c4b07692-fe4c-49da-81d6-d964dea9aa54",
       "accessed": "2026-11-15"
     }
   ],

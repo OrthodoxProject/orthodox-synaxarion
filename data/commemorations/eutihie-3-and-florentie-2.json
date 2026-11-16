@@ -1,0 +1,27 @@
+{
+  "id": "eutihie-3-and-florentie-2",
+  "kind": "repose",
+  "subjects": [
+    "person:eutihie-3",
+    "person:florentie-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 23
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8c343a04-ff5b-4c7d-b618-459a29fe2f31",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

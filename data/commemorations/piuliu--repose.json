@@ -7,12 +7,12 @@
   "date_rule": {
     "type": "fixed",
     "month": 2,
-    "day": 17
+    "day": 18
   },
   "sources": [
     {
-      "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/4f56450d-5c3e-4d20-a43b-989dbb1f694b",
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/februarie/sinaxar-ziua-18-luna-2/#ancora-continut-4",
       "accessed": "2026-11-15"
     }
   ],
@@ -20,7 +20,7 @@
     "status": "draft",
     "confidence": "low",
     "notes": [
-      "Importat automat din calendar.ortodox.md; de verificat."
+      "Importat automat din e-religie.ro; de verificat."
     ]
   }
 }

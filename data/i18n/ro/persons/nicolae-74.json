@@ -2,14 +2,19 @@
   "id": "nicolae-74",
   "locale": "ro",
   "names": {
-    "display": "Sf. Sfințit Nou Mc. Nicolae (Copninskii)",
-    "short": "Nicolae (Copninskii)",
+    "display": "Sf. Sfințit Nou Mc. Nicolae (Pokrovski)",
+    "short": "Nicolae (Pokrovski)",
     "given": "Nicolae"
   },
   "references": [
     {
       "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/5994ec6b-4862-4c5a-8f9c-ac9fe71b79c8",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/26cb14bf-96b9-44f5-9cd1-8eaf7b9e1f51",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ed57f4c2-f4d2-4b39-a139-456c34e0cb01",
       "accessed": "2026-11-15"
     }
   ],

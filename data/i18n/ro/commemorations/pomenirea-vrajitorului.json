@@ -1,0 +1,18 @@
+{
+  "id": "pomenirea-vrajitorului",
+  "locale": "ro",
+  "names": {
+    "display": "Pomenirea vrăjitorului"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/mai/sinaxar-ziua-31-luna-5/#ancora-continut-3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

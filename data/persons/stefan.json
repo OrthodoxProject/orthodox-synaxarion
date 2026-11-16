@@ -3,12 +3,17 @@
   "kind": "saint",
   "gender": "male",
   "holiness_types": [
-    "hieromartyr"
+    "martyr"
   ],
   "sources": [
     {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/februarie/sinaxar-ziua-8-luna-2/#ancora-continut-3",
+      "accessed": "2026-11-15"
+    },
+    {
       "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/1267",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3779d22f-a50e-460f-893f-d2c004fb5989",
       "accessed": "2026-11-15"
     }
   ],
@@ -16,7 +21,7 @@
     "status": "draft",
     "confidence": "low",
     "notes": [
-      "Importat automat din calendar.ortodox.md; de verificat.",
+      "Importat automat din e-religie.ro; de verificat.",
       "Genul nu reiese din sursă; e de verificat."
     ]
   }

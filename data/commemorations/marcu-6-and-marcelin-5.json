@@ -1,0 +1,27 @@
+{
+  "id": "marcu-6-and-marcelin-5",
+  "kind": "repose",
+  "subjects": [
+    "person:marcu-6",
+    "person:marcelin-5"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 18
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f08175bc-3dc6-478f-9911-e5ab07e55564",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

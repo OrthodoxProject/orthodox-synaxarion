@@ -10,12 +10,13 @@ import { parseRo, splitHonorifics } from "./ro.ts";
 import type { ArmenianEntry } from "./sources/armenian.ts";
 import { copticUrl, type CopticEntry } from "./sources/coptic.ts";
 import type { DoxologiaListing } from "./sources/doxologia.ts";
+import { entryUrl, ereligieTitle, type EReligieEntry } from "./sources/ereligie.ts";
 import type { OcaListing } from "./sources/oca.ts";
 import type { OverlayEntry } from "./sources/orthodox-calendar.ts";
-import { entryUrl, ORTODOX_MD_YEARS, type OrtodoxMdEntry } from "./sources/ortodox-md.ts";
+import { entryUrl as ortodoxMdEntryUrl, ORTODOX_MD_YEARS, type OrtodoxMdEntry } from "./sources/ortodox-md.ts";
 import type { PatriarhiaDay, PatriarhiaItem } from "./sources/patriarhia.ts";
 
-export type SourceKey = "doxologia" | "patriarhia" | "oca" | "coptic" | "armenian" | "overlay" | "ortodoxmd";
+export type SourceKey = "doxologia" | "patriarhia" | "oca" | "coptic" | "armenian" | "overlay" | "ortodoxmd" | "ereligie";
 export type Family = "byzantine" | "coptic" | "armenian";
 
 export interface Citation {
@@ -80,6 +81,8 @@ export interface SourceData {
   coptic: CopticEntry[];
   armenian: ArmenianEntry[];
   overlays: OverlayEntry[];
+  /** The synaxarion of e-religie.ro, read only to cite it (see Builder.cite). */
+  ereligie?: EReligieEntry[];
   /** The calendar of the Orthodox Church of Moldova (calendar.ortodox.md), on the old style. */
   ortodoxMd?: OrtodoxMdEntry[];
 }
@@ -117,6 +120,28 @@ export function doxologiaUnits(data: SourceData): Unit[] {
       url,
       citation: { source: "src:doxologia", url, accessed: data.accessed },
       ext: { doxologia: x.slug },
+    } satisfies Unit;
+  });
+}
+
+/** The saints of the e-religie.ro synaxarion, each with the link to its section of the day's page. */
+export function ereligieUnits(data: SourceData): Unit[] {
+  return (data.ereligie ?? []).map((e) => {
+    const url = entryUrl(e);
+    const title = ereligieTitle(e.title);
+    return {
+      uid: `ereligie:${mmdd(e.month, e.day)}#${e.order}`,
+      source: "ereligie",
+      family: "byzantine",
+      lang: "ro",
+      title: title ?? e.title,
+      parsed: title === null ? { kind: "skip", holiness: [], plural: false, honorific: "", rest: e.title, names: [], title: e.title } : parseRo(title),
+      month: e.month,
+      day: e.day,
+      order: e.order,
+      url,
+      citation: { source: "src:e-religie", url, accessed: data.accessed },
+      ext: {},
     } satisfies Unit;
   });
 }
@@ -513,7 +538,7 @@ export function ortodoxMdUnits(data: SourceData, years: number[] = ORTODOX_MD_YE
     const [month, day] = fixed.split("-").map(Number);
     const listing = entries.find((e) => mmdd(e.month, e.day) === fixed) ?? entries[0];
     if (!listing) continue;
-    const url = entryUrl(id);
+    const url = ortodoxMdEntryUrl(id);
     const dated = [...listing.title.matchAll(/\(([^()]*)\)/g)].flatMap((m) => (m[1] ?? "").match(/\d{3,4}/g) ?? []);
     // "Sfântul Mucenic Uar din Egipt. Sfânta fericită Cleopatra și fiul său Ioan din Egipt": two lines in one.
     const titles = listing.title

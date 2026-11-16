@@ -1,0 +1,22 @@
+{
+  "id": "rufin-diaconul",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Rufinus the Deacon",
+    "short": "Rufinus the Deacon",
+    "given": "Rufinus"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/aprilie/sinaxar-ziua-7-luna-4/#ancora-continut-3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "cosma-2",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Cosmas the Wonderworker, Archbishop of Constantinople",
+    "short": "Cosmas the Wonderworker, Archbishop of Constantinople",
+    "given": "Cosmas"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/ianuarie/sinaxar-ziua-2-luna-1/#ancora-continut-8",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

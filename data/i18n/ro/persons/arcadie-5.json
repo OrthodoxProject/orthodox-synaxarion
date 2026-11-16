@@ -2,14 +2,14 @@
   "id": "arcadie-5",
   "locale": "ro",
   "names": {
-    "display": "Sf. Sfințit Nou Mc. Arcadie (Gareaev)",
-    "short": "Arcadie (Gareaev)",
+    "display": "Sf. Cuv. Mc. Arcadie",
+    "short": "Arcadie",
     "given": "Arcadie"
   },
   "references": [
     {
       "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/1117",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c0b616d5-05fe-4e86-9c68-27cfb11cc27b",
       "accessed": "2026-11-15"
     }
   ],

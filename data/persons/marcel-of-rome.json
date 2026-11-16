@@ -1,0 +1,27 @@
+{
+  "id": "marcel-of-rome",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "hieromartyr"
+  ],
+  "sources": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/iunie/sinaxar-ziua-7-luna-6/#ancora-continut-2",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1093",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Adăugat de mână din e-religie.ro; de verificat."
+    ]
+  }
+}

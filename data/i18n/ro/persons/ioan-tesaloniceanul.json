@@ -1,0 +1,20 @@
+{
+  "id": "ioan-tesaloniceanul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Nou Mc. Ioan Tesaloniceanul",
+    "short": "Ioan Tesaloniceanul",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/mai/sinaxar-ziua-29-luna-5/#ancora-continut-5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

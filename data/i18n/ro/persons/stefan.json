@@ -2,14 +2,14 @@
   "id": "stefan",
   "locale": "ro",
   "names": {
-    "display": "Sf. Sfințit Mc. Ștefan (Ponomarev)",
-    "short": "Ștefan (Ponomarev)",
+    "display": "Sf. Mc. Ștefan",
+    "short": "Ștefan",
     "given": "Ștefan"
   },
   "references": [
     {
-      "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/1267",
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/februarie/sinaxar-ziua-8-luna-2/#ancora-continut-3",
       "accessed": "2026-11-15"
     }
   ],

@@ -1,0 +1,21 @@
+{
+  "id": "zoil-3",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Zoil",
+    "full": "Sfântul Mucenic Zoil",
+    "short": "Zoil",
+    "given": "Zoil"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3be249ce-937b-448d-8364-4e96d6c1defe",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

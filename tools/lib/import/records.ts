@@ -1,8 +1,8 @@
 /**
  * Turns clusters into data files: persons, groups, icons and commemorations
  * with their locale files, and the calendar lines of every tradition. Existing
- * records are kept as they are; existing calendar days get the new lines after
- * their own.
+ * records are kept as they are, save for the citations of a cited source (see
+ * Builder.cite); existing calendar days get the new lines after their own.
  */
 import { addCitation, addRef, extraKeys, firstOfList, gendersDiffer, holinessCompatible, knownByPlace, newSlot, numeralOf, personScore, placeKeys, type Cluster, type GroupSubject, type Slot, type SlotName } from "./cluster.ts";
 import type { Existing, ExistingLine } from "./existing.ts";
@@ -31,6 +31,7 @@ const SOURCE_NAMES: Record<string, string> = {
   "src:armenianchurch-ge": "armenianchurch.ge",
   "src:orthodox-calendar": "orthodox-calendar",
   "src:wikipedia": "Wikipedia",
+  "src:e-religie": "e-religie.ro",
   "src:calendar-ortodox-md": "calendar.ortodox.md",
 };
 
@@ -491,9 +492,20 @@ export class RecordWriter {
     }
     for (const [pid, slot] of persons) this.writePerson(pid, slot);
     for (const [gid, { g, family }] of groups) this.writeGroup(gid, g, family);
+    this.writeCited();
     this.writeCalendars();
     this.writeReferences();
     return { files: this.files, stats: this.stats };
+  }
+
+  /** Existing records that a cited source names: the same record, with the citations it lacks after its own. */
+  private writeCited(): void {
+    for (const [key, citations] of this.result.cited ?? []) {
+      const [collection, id] = key.split("/");
+      if (!collection || !id) continue;
+      // Through addSources, so that the links of the sources of references written in the same import stay.
+      if (this.addSources(collection as "commemorations" | "persons" | "groups" | "icons", id, citations, null) > 0) this.count(`cited.${collection}`);
+    }
   }
 
   /**
@@ -519,11 +531,14 @@ export class RecordWriter {
     }
   }
 
-  /** Adds citations to the sources of an existing record, once; the record is written only when it changes. */
-  private addSources(collection: "commemorations" | "persons" | "groups" | "icons", id: string, cites: Citation[]): void {
+  /**
+   * Adds citations to the sources of an existing record, once; the record is written only when it changes, and the
+   * citations added are counted under `<stat>.<collection>` (null: the caller counts). Returns how many were added.
+   */
+  private addSources(collection: "commemorations" | "persons" | "groups" | "icons", id: string, cites: Citation[], stat: string | null = "references"): number {
     const path = `${collection}/${id}.json`;
     const rec = this.files.get(path) ?? this.existing.dataset.records.get(collection)?.get(id);
-    if (!rec) return;
+    if (!rec) return 0;
     // The record's own citations stay as they are; the new ones follow them.
     const sources = [...((rec.sources ?? []) as Citation[])];
     let added = 0;
@@ -532,11 +547,11 @@ export class RecordWriter {
       sources.push(x);
       added++;
     }
-    if (added === 0) return;
+    if (added === 0) return 0;
     this.files.set(path, { ...rec, sources });
-    this.count(`references.${collection}`, added);
+    if (stat) this.count(`${stat}.${collection}`, added);
+    return added;
   }
-
   private editorial(citations: Citation[], confidence: "low" | "medium", extra: string[] = []): Rec {
     return { status: "draft", confidence, notes: [importNote(citations), ...extra] };
   }

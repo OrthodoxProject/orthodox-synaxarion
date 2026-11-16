@@ -1,0 +1,22 @@
+{
+  "id": "pompie-2",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Pompeius",
+    "short": "Pompeius",
+    "given": "Pompeius"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/aprilie/sinaxar-ziua-5-luna-4/#ancora-continut-6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

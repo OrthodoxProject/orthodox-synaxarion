@@ -1,0 +1,27 @@
+{
+  "id": "pahomie-2-and-papirin",
+  "kind": "repose",
+  "subjects": [
+    "person:pahomie-2",
+    "person:papirin"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 13
+  },
+  "sources": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/ianuarie/sinaxar-ziua-13-luna-1/#ancora-continut-4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din e-religie.ro; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "apollos-2",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Apollos (Apollo), also mentioned in the Egyptian Paterikon",
+    "short": "Apollos (Apollo), also mentioned in the Egyptian Paterikon",
+    "given": "Apollos"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/ianuarie/sinaxar-ziua-25-luna-1/#ancora-continut-3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

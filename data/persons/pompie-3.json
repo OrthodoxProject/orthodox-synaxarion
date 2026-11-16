@@ -8,7 +8,7 @@
   "sources": [
     {
       "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/478c6d95-1818-4a7d-87ff-da125ac87d20",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4f283c83-9b90-4fd1-8bcf-29fc9fcde266",
       "accessed": "2026-11-15"
     }
   ],
@@ -16,7 +16,8 @@
     "status": "draft",
     "confidence": "low",
     "notes": [
-      "Importat automat din calendar.ortodox.md; de verificat."
+      "Importat automat din calendar.ortodox.md; de verificat.",
+      "Genul nu reiese din sursă; e de verificat."
     ]
   }
 }

@@ -1,0 +1,20 @@
+{
+  "id": "romano",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Nou Mc. Romano",
+    "short": "Romano",
+    "given": "Romano"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/februarie/sinaxar-ziua-16-luna-2/#ancora-continut-4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "grigorie-egumenul",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Gregory, Abbot of Pelsheme and Wonderworker of Vologda",
+    "short": "Gregory, Abbot of Pelsheme and Wonderworker of Vologda",
+    "given": "Gregory"
+  },
+  "references": [
+    {
+      "source": "src:oca-lives",
+      "url": "https://www.oca.org/saints/lives/0000/09/30/102819-venerable-gregory-abbot-of-pelsheme-and-wonderworker-of-vologda",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

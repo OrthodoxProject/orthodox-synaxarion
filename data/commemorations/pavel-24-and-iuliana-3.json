@@ -1,0 +1,27 @@
+{
+  "id": "pavel-24-and-iuliana-3",
+  "kind": "repose",
+  "subjects": [
+    "person:pavel-24",
+    "person:iuliana-3"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 27
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ec495649-757e-4415-9697-a840b367bc99",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

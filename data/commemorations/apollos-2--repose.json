@@ -1,0 +1,31 @@
+{
+  "id": "apollos-2--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:apollos-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 25
+  },
+  "sources": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/ianuarie/sinaxar-ziua-25-luna-1/#ancora-continut-3",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/39c4f92b-8087-41af-97a0-f22c2b2eec7b",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din e-religie.ro; de verificat."
+    ]
+  }
+}

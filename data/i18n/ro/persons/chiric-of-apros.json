@@ -1,0 +1,20 @@
+{
+  "id": "chiric-of-apros",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Chiric din Apros",
+    "short": "Chiric din Apros",
+    "given": "Chiric"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/martie/sinaxar-ziua-27-luna-3/#ancora-continut-7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

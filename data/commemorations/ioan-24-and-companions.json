@@ -3,9 +3,8 @@
   "kind": "repose",
   "subjects": [
     "person:ioan-24",
-    "person:serghie-7",
-    "person:patrichie-2",
-    "person:anastasie"
+    "person:serghie-6",
+    "person:patrichie"
   ],
   "date_rule": {
     "type": "fixed",
@@ -15,7 +14,7 @@
   "sources": [
     {
       "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/79feeca9-4bd4-476c-9541-5fb8e0dc0b1c",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/52b79195-92ca-4a4b-b97b-f9697561bc1e",
       "accessed": "2026-11-15"
     }
   ],

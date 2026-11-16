@@ -7,8 +7,13 @@
   ],
   "sources": [
     {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/aprilie/sinaxar-ziua-28-luna-4/#ancora-continut-4",
+      "accessed": "2026-11-15"
+    },
+    {
       "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/d3f5af9d-d0df-4ed6-bc74-560a8a82096d",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4c36b721-a516-4d4d-bab5-77308dd059f0",
       "accessed": "2026-11-15"
     }
   ],
@@ -16,7 +21,7 @@
     "status": "draft",
     "confidence": "low",
     "notes": [
-      "Importat automat din calendar.ortodox.md; de verificat.",
+      "Importat automat din e-religie.ro; de verificat.",
       "Genul nu reiese din sursă; e de verificat."
     ]
   }

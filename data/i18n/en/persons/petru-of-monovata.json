@@ -1,0 +1,22 @@
+{
+  "id": "petru-of-monovata",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Peter of Monobata",
+    "short": "Peter of Monobata",
+    "given": "Peter"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/februarie/sinaxar-ziua-7-luna-2/#ancora-continut-6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

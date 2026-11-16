@@ -1,0 +1,20 @@
+{
+  "id": "marcel-of-rome",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Sfințit Mc. Marcel, Episcopul Romei",
+    "short": "Marcel, Episcopul Romei",
+    "given": "Marcel"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/iunie/sinaxar-ziua-7-luna-6/#ancora-continut-2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

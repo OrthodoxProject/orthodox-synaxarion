@@ -1,0 +1,31 @@
+{
+  "id": "mil--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:mil"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 8
+  },
+  "sources": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/mai/sinaxar-ziua-8-luna-5/#ancora-continut-3",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9bfd4d42-96ec-4a6e-acbb-bfc0bcbcda23",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Adăugat de mână din e-religie.ro; de verificat."
+    ]
+  }
+}

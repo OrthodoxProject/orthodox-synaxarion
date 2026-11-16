@@ -1,0 +1,20 @@
+{
+  "id": "septemin",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Septemin",
+    "short": "Septemin",
+    "given": "Septemin"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/aprilie/sinaxar-ziua-16-luna-4/#ancora-continut-2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

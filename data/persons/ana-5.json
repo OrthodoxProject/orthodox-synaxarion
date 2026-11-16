@@ -3,12 +3,13 @@
   "kind": "saint",
   "gender": "female",
   "holiness_types": [
-    "venerable"
+    "new_martyr",
+    "venerable_martyr"
   ],
   "sources": [
     {
       "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/2862546f-51c4-4553-a615-499d601a3156",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f9dd6b1d-554f-44a5-9087-7b505731f32a",
       "accessed": "2026-11-15"
     }
   ],

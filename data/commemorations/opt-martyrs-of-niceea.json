@@ -1,0 +1,31 @@
+{
+  "id": "opt-martyrs-of-niceea",
+  "kind": "repose",
+  "subjects": [
+    "group:opt-martyrs-of-niceea"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 12
+  },
+  "sources": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/ianuarie/sinaxar-ziua-12-luna-1/#ancora-continut-4",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/007c9196-cfe9-4a9c-8de4-5e6f944602c1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din e-religie.ro; de verificat."
+    ]
+  }
+}

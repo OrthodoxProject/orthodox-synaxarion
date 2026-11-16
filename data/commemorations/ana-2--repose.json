@@ -1,0 +1,31 @@
+{
+  "id": "ana-2--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:ana-2"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 20
+  },
+  "sources": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/ianuarie/sinaxar-ziua-20-luna-1/#ancora-continut-7",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3ed6ca7e-031e-468b-83c4-d109a93a4319",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din e-religie.ro; de verificat."
+    ]
+  }
+}

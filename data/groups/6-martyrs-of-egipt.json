@@ -1,0 +1,30 @@
+{
+  "id": "6-martyrs-of-egipt",
+  "kind": "martyrs",
+  "count": {
+    "value": 6,
+    "precision": "exact"
+  },
+  "holiness_types": [
+    "martyr"
+  ],
+  "sources": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/februarie/sinaxar-ziua-28-luna-2/#ancora-continut-5",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8614a2ec-c6b1-4adb-8cd5-7f8ee981c375",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din e-religie.ro; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "codru",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Codru",
+    "short": "Codru",
+    "given": "Codru"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/mai/sinaxar-ziua-22-luna-5/#ancora-continut-3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

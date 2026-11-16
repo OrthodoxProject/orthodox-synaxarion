@@ -1,0 +1,27 @@
+{
+  "id": "pavel-37-and-eustatie-of-pecerska",
+  "kind": "repose",
+  "subjects": [
+    "person:pavel-37",
+    "person:eustatie-of-pecerska"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 9,
+    "day": 21
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/63a48057-875b-4b2c-ad37-1358e55d52dd",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

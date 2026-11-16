@@ -3,12 +3,17 @@
   "kind": "saint",
   "gender": "female",
   "holiness_types": [
-    "venerable"
+    "martyr"
   ],
   "sources": [
     {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/martie/sinaxar-ziua-25-luna-3/#ancora-continut-2",
+      "accessed": "2026-11-15"
+    },
+    {
       "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/90ef6f4c-2068-438d-b72c-88d0ba19cd24",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c7b3f169-4218-4cbf-a9c9-3faa4ae2965b",
       "accessed": "2026-11-15"
     }
   ],
@@ -16,7 +21,7 @@
     "status": "draft",
     "confidence": "low",
     "notes": [
-      "Importat automat din calendar.ortodox.md; de verificat."
+      "Importat automat din e-religie.ro; de verificat."
     ]
   }
 }

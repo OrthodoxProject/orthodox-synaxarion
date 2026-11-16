@@ -1,0 +1,22 @@
+{
+  "id": "senufie",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Senuphius the Wonderworker",
+    "short": "Senuphius the Wonderworker",
+    "given": "Senuphius"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/martie/sinaxar-ziua-25-luna-3/#ancora-continut-3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

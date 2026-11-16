@@ -3,12 +3,18 @@
   "kind": "saint",
   "gender": "male",
   "holiness_types": [
-    "venerable"
+    "venerable",
+    "wonderworker"
   ],
   "sources": [
     {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/iunie/sinaxar-ziua-6-luna-6/#ancora-continut-4",
+      "accessed": "2026-11-15"
+    },
+    {
       "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/dbc271ee-d7c1-41a2-90c1-3b954d8d45ff",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/9d739d51-dfd3-4530-92cb-cef61287111e",
       "accessed": "2026-11-15"
     }
   ],
@@ -16,7 +22,8 @@
     "status": "draft",
     "confidence": "low",
     "notes": [
-      "Importat automat din calendar.ortodox.md; de verificat."
+      "Importat automat din e-religie.ro; de verificat.",
+      "Genul nu reiese din sursă; e de verificat."
     ]
   }
 }

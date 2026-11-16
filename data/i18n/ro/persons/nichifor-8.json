@@ -2,14 +2,15 @@
   "id": "nichifor-8",
   "locale": "ro",
   "names": {
-    "display": "Sf. Mc. Nichifor",
-    "short": "Nichifor",
+    "display": "Sf. Cuv. Nichifor, întemeietorul Mănăstirii Harsian",
+    "full": "Sfântul Cuvios Nichifor, întemeietorul Mănăstirii Harsian",
+    "short": "Nichifor, întemeietorul Mănăstirii Harsian",
     "given": "Nichifor"
   },
   "references": [
     {
       "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/1f17bf1e-3000-4fa2-be2a-961b061034b5",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/803c529d-fb72-44c6-8773-7f50dcb41027",
       "accessed": "2026-11-15"
     }
   ],

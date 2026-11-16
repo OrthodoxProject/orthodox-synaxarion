@@ -7,6 +7,11 @@
   ],
   "sources": [
     {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/ianuarie/sinaxar-ziua-27-luna-1/#ancora-continut-4",
+      "accessed": "2026-11-15"
+    },
+    {
       "source": "src:calendar-ortodox-md",
       "url": "https://calendar.ortodox.md/calendar/entry/RO/5f1b1855-8189-4080-b2b1-fbae4430a309",
       "accessed": "2026-11-15"
@@ -16,7 +21,8 @@
     "status": "draft",
     "confidence": "low",
     "notes": [
-      "Importat automat din calendar.ortodox.md; de verificat."
+      "Importat automat din e-religie.ro; de verificat.",
+      "Genul nu reiese din sursă; e de verificat."
     ]
   }
 }

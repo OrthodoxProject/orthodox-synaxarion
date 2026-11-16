@@ -1,0 +1,31 @@
+{
+  "id": "petru-of-monovata--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:petru-of-monovata"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 7
+  },
+  "sources": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/februarie/sinaxar-ziua-7-luna-2/#ancora-continut-6",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f28a002b-d5a3-48a8-be8e-c282e63c0bcf",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din e-religie.ro; de verificat."
+    ]
+  }
+}

@@ -2,14 +2,22 @@
   "id": "dimitrie-15",
   "locale": "ro",
   "names": {
-    "display": "Sf. Sfințit Nou Mc. Dimitrie",
+    "display": "Sf. Mc. Dimitrie",
     "short": "Dimitrie",
-    "given": "Dimitrie"
+    "given": "Dimitrie",
+    "variants": [
+      "Sf. Sfințit Mc., preotul Dimitrie (Voscresenskii)"
+    ]
   },
   "references": [
     {
       "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/10f921c2-60b9-4ef6-9aa0-eeffb329055e",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1fbc38c6-a979-4b08-be0b-4e1c17c2ce77",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/4d942fd5-ad7a-4343-82b9-e8be67713ed8",
       "accessed": "2026-11-15"
     }
   ],

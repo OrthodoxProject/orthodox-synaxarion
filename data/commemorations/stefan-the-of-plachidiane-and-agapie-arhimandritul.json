@@ -1,0 +1,32 @@
+{
+  "id": "stefan-the-of-plachidiane-and-agapie-arhimandritul",
+  "kind": "repose",
+  "subjects": [
+    "person:stefan-the-of-plachidiane",
+    "person:agapie-arhimandritul"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 11
+  },
+  "sources": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/ianuarie/sinaxar-ziua-11-luna-1/#ancora-continut-3",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5373d449-3a7a-484d-9a39-78e79e456900",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din e-religie.ro; de verificat."
+    ]
+  }
+}

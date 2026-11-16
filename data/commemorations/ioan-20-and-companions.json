@@ -3,21 +3,23 @@
   "kind": "repose",
   "subjects": [
     "person:ioan-20",
-    "person:petru-7",
-    "person:vasile-10",
-    "person:veniamin-2",
-    "person:mihail-7",
-    "person:alexandru-of-rusia-3"
+    "person:mihail-6",
+    "person:alexie-5",
+    "person:nicolae-13",
+    "person:alexie-6",
+    "person:simeon-11",
+    "person:pavel-16",
+    "person:sofia-of-rusia"
   ],
   "date_rule": {
     "type": "fixed",
-    "month": 3,
-    "day": 1
+    "month": 2,
+    "day": 15
   },
   "sources": [
     {
       "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/05f32878-bdda-4572-91b1-2028dabf9996",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2445a78c-69d4-47b3-ba87-a7fe0a3cd735",
       "accessed": "2026-11-15"
     }
   ],

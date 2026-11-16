@@ -1,0 +1,27 @@
+{
+  "id": "gavriil-6-and-chirmidol-of-egipt",
+  "kind": "repose",
+  "subjects": [
+    "person:gavriil-6",
+    "person:chirmidol-of-egipt"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 10,
+    "day": 18
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/986013d3-8359-440a-b073-fb66df9cd0ac",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

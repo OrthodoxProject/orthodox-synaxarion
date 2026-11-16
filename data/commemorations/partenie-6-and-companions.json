@@ -3,25 +3,18 @@
   "kind": "repose",
   "subjects": [
     "person:partenie-6",
-    "person:constantin-17",
-    "person:dimitrie-24",
-    "person:nestor-4",
-    "person:teodor-32",
-    "person:constantin-18",
-    "person:victor-20",
-    "person:ilie-10",
-    "person:iosif-8",
-    "person:alexie-32"
+    "person:manastirii-kiziltis-of-crimeea",
+    "person:grigorie-of-schlisselburg"
   ],
   "date_rule": {
     "type": "fixed",
-    "month": 11,
-    "day": 9
+    "month": 9,
+    "day": 4
   },
   "sources": [
     {
       "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/1221",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/79aeb908-f7aa-4d8f-ba64-5857c92dbffe",
       "accessed": "2026-11-15"
     }
   ],

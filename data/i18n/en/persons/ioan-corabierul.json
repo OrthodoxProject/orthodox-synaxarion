@@ -1,0 +1,22 @@
+{
+  "id": "ioan-corabierul",
+  "locale": "en",
+  "names": {
+    "display": "New Martyr John the Sailor",
+    "short": "John the Sailor",
+    "given": "John"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/aprilie/sinaxar-ziua-8-luna-4/#ancora-continut-5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

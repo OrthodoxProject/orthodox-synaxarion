@@ -1,0 +1,22 @@
+{
+  "id": "stefan-3",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Stephen",
+    "short": "Stephen",
+    "given": "Stephen"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/iunie/sinaxar-ziua-7-luna-6/#ancora-continut-8",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

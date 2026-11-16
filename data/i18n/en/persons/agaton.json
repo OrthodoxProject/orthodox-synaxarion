@@ -1,0 +1,22 @@
+{
+  "id": "agaton",
+  "locale": "en",
+  "names": {
+    "display": "Saint Agathon",
+    "short": "Agathon",
+    "given": "Agathon"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/ianuarie/sinaxar-ziua-8-luna-1/#ancora-continut-9",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

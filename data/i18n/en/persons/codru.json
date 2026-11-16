@@ -1,0 +1,22 @@
+{
+  "id": "codru",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Codrus",
+    "short": "Codrus",
+    "given": "Codrus"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/mai/sinaxar-ziua-22-luna-5/#ancora-continut-3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "afrodisie-4-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:afrodisie-4",
+    "person:caralip",
+    "person:agapie-3",
+    "person:eusebie-of-languedoc-in-franta"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 4,
+    "day": 28
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ab6b219c-863f-49ab-b7e8-468d0043b9f0",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "eutihie-episcopul",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "venerable"
+  ],
+  "sources": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/martie/sinaxar-ziua-27-luna-3/#ancora-continut-6",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ca0781b1-6bc3-4703-955f-e43b4833b8ba",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din e-religie.ro; de verificat.",
+      "Genul nu reiese din sursă; e de verificat."
+    ]
+  }
+}

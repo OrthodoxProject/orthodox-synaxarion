@@ -2,14 +2,15 @@
   "id": "pavel-9",
   "locale": "ro",
   "names": {
-    "display": "Sf. Mc. Pavel",
-    "short": "Pavel",
+    "display": "Sf. Mc. Pavel (Nicolschi), prezbiterul",
+    "full": "Sfântul Mucenic Pavel (Nicolschi), prezbiterul",
+    "short": "Pavel (Nicolschi), prezbiterul",
     "given": "Pavel"
   },
   "references": [
     {
       "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/2087e269-b5db-41fc-b154-5a46b8ed4641",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a8ca4273-0ef7-4376-b1a3-750da0078d39",
       "accessed": "2026-11-15"
     }
   ],

@@ -4,12 +4,17 @@
   "gender": "male",
   "holiness_types": [
     "new_martyr",
-    "hieromartyr"
+    "martyr"
   ],
   "sources": [
     {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/ianuarie/sinaxar-ziua-27-luna-1/#ancora-continut-5",
+      "accessed": "2026-11-15"
+    },
+    {
       "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/261053d2-76bb-4241-8a5b-3d6a1b26fa44",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/646d5663-3d64-4d12-8aa6-a428ca64e70c",
       "accessed": "2026-11-15"
     }
   ],
@@ -17,7 +22,7 @@
     "status": "draft",
     "confidence": "low",
     "notes": [
-      "Importat automat din calendar.ortodox.md; de verificat.",
+      "Importat automat din e-religie.ro; de verificat.",
       "Genul nu reiese din sursă; e de verificat."
     ]
   }

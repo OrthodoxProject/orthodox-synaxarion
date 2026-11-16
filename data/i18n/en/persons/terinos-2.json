@@ -1,0 +1,22 @@
+{
+  "id": "terinos-2",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Therinus",
+    "short": "Therinus",
+    "given": "Therinus"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/mai/sinaxar-ziua-6-luna-5/#ancora-continut-6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

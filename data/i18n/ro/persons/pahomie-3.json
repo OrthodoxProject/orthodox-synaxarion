@@ -2,14 +2,15 @@
   "id": "pahomie-3",
   "locale": "ro",
   "names": {
-    "display": "Sf. Sfințit Nou Mc. Pahomie (Ionov)",
-    "short": "Pahomie (Ionov)",
+    "display": "Sf. Cuv. Pahomie, întemeietorul Mănăstiri Keno din Irlanda",
+    "full": "Sfântul Cuvios Pahomie, întemeietorul Mănăstiri Keno din Irlanda",
+    "short": "Pahomie, întemeietorul Mănăstiri Keno din Irlanda",
     "given": "Pahomie"
   },
   "references": [
     {
       "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/c6cc942a-7ab5-4205-b73b-af4cf6139fe6",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/31218ce0-d052-4548-a213-81eb20c5f60c",
       "accessed": "2026-11-15"
     }
   ],

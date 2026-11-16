@@ -7,8 +7,13 @@
   ],
   "sources": [
     {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/aprilie/sinaxar-ziua-5-luna-4/#ancora-continut-7",
+      "accessed": "2026-11-15"
+    },
+    {
       "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/2a40b53e-80af-4a2d-80a9-38f91d7d3520",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/63a53043-2d4a-487c-b96c-61bee133eff5",
       "accessed": "2026-11-15"
     }
   ],
@@ -16,7 +21,7 @@
     "status": "draft",
     "confidence": "low",
     "notes": [
-      "Importat automat din calendar.ortodox.md; de verificat.",
+      "Importat automat din e-religie.ro; de verificat.",
       "Genul nu reiese din sursă; e de verificat."
     ]
   }

@@ -3,19 +3,19 @@
   "kind": "repose",
   "subjects": [
     "person:ioan-26",
-    "person:iacov-2",
-    "person:sevastian-marturisitorul",
-    "person:karaganda-of-rusia"
+    "person:serghie-7",
+    "person:patrichie-2",
+    "person:anastasie-2"
   ],
   "date_rule": {
     "type": "fixed",
-    "month": 4,
-    "day": 6
+    "month": 3,
+    "day": 20
   },
   "sources": [
     {
       "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/a09c3105-6767-47f7-a38e-f47b56f981f4",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/79feeca9-4bd4-476c-9541-5fb8e0dc0b1c",
       "accessed": "2026-11-15"
     }
   ],

@@ -1,0 +1,22 @@
+{
+  "id": "gheorghe-croitorul-metilineanul",
+  "locale": "en",
+  "names": {
+    "display": "Saint George the Tailor of Mytilene",
+    "short": "George the Tailor of Mytilene",
+    "given": "George"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/februarie/sinaxar-ziua-14-luna-2/#ancora-continut-6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

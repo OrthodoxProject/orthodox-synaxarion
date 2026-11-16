@@ -1,0 +1,20 @@
+{
+  "id": "telesfor",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Telesfor, ep. Romei",
+    "short": "Telesfor, ep. Romei",
+    "given": "Telesfor"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/februarie/sinaxar-ziua-22-luna-2/#ancora-continut-6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

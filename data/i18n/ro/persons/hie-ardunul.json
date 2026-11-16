@@ -1,0 +1,20 @@
+{
+  "id": "hie-ardunul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Nou Mc. Hie Ardunul",
+    "short": "Hie Ardunul",
+    "given": "Hie"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/ianuarie/sinaxar-ziua-31-luna-1/#ancora-continut-5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

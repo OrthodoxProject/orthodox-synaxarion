@@ -1,0 +1,31 @@
+{
+  "id": "emmanuel--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:emmanuel"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 20
+  },
+  "sources": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/martie/sinaxar-ziua-20-luna-3/#ancora-continut-7",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/b4451b83-d481-4941-91b3-d8d8807b3345",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din e-religie.ro; de verificat."
+    ]
+  }
+}

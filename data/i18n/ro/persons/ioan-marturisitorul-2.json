@@ -1,0 +1,21 @@
+{
+  "id": "ioan-marturisitorul-2",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Ioan Mărturisitorul, egumenul Mănăstirii Patalaria",
+    "full": "Sfântul Cuvios Ioan Mărturisitorul, egumenul Mănăstirii Patalaria",
+    "short": "Ioan Mărturisitorul, egumenul Mănăstirii Patalaria",
+    "given": "Ioan"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/8ee82faf-7028-417d-8b4d-883880eeb384",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

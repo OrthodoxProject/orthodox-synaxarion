@@ -2,15 +2,14 @@
   "id": "agaton",
   "locale": "ro",
   "names": {
-    "display": "Sf. Cuv. Agaton, pustnic la Sketis în Egipt",
-    "full": "Sfântul Cuvios Agaton, pustnic la Sketis în Egipt",
-    "short": "Agaton, pustnic la Sketis în Egipt",
+    "display": "Sf. Agaton",
+    "short": "Agaton",
     "given": "Agaton"
   },
   "references": [
     {
-      "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/5b78b29b-3017-4e1f-b9af-66c947c937db",
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/ianuarie/sinaxar-ziua-8-luna-1/#ancora-continut-9",
       "accessed": "2026-11-15"
     }
   ],

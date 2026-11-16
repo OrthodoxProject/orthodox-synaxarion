@@ -1,0 +1,32 @@
+{
+  "id": "avda-and-avdiis",
+  "kind": "repose",
+  "subjects": [
+    "person:avda",
+    "person:avdiis"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 5,
+    "day": 16
+  },
+  "sources": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/mai/sinaxar-ziua-16-luna-5/#ancora-continut-3",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/277a5d2a-859e-4a72-9ef0-522733399f28",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din e-religie.ro; de verificat."
+    ]
+  }
+}

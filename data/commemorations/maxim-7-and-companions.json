@@ -1,0 +1,30 @@
+{
+  "id": "maxim-7-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:maxim-7",
+    "person:claudiu-6",
+    "person:prepedignus",
+    "person:alexandru-8",
+    "person:cutia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 17
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ebdb8b3a-44c6-4e62-bbda-5d62e68a3c74",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

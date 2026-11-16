@@ -2,14 +2,14 @@
   "id": "dimitrie-5",
   "locale": "ro",
   "names": {
-    "display": "Sf. Sfințit Nou Mc. Dimitrie (Kedrolivanskii)",
-    "short": "Dimitrie (Kedrolivanskii)",
+    "display": "Sf. Nou Mc. Dimitrie",
+    "short": "Dimitrie",
     "given": "Dimitrie"
   },
   "references": [
     {
       "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/1352",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6af673cc-2adc-47fb-83c4-554a75f4bb72",
       "accessed": "2026-11-15"
     }
   ],

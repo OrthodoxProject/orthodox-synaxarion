@@ -1,0 +1,26 @@
+{
+  "id": "iasim--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:iasim"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 4
+  },
+  "sources": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/februarie/sinaxar-ziua-4-luna-2/#ancora-continut-7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din e-religie.ro; de verificat."
+    ]
+  }
+}

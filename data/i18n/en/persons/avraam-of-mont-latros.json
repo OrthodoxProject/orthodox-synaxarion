@@ -1,0 +1,22 @@
+{
+  "id": "avraam-of-mont-latros",
+  "locale": "en",
+  "names": {
+    "display": "Saint Abraham of Mount Latros",
+    "short": "Abraham of Mount Latros",
+    "given": "Abraham"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/martie/sinaxar-ziua-26-luna-3/#ancora-continut-8",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

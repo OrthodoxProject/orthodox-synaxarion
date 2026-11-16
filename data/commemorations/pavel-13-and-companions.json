@@ -1,0 +1,28 @@
+{
+  "id": "pavel-13-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:pavel-13",
+    "person:lucian-3",
+    "person:chiriac-of-roma"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 8
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2087e269-b5db-41fc-b154-5a46b8ed4641",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

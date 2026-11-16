@@ -2,14 +2,15 @@
   "id": "ioan-39",
   "locale": "ro",
   "names": {
-    "display": "Sf. Mc. Ioan",
-    "short": "Ioan",
+    "display": "Sf. Cuv. Mc. Ioan, egumenul Mănăstirii Monagriei",
+    "full": "Sfântul Cuvios Mucenic Ioan, egumenul Mănăstirii Monagriei",
+    "short": "Ioan, egumenul Mănăstirii Monagriei",
     "given": "Ioan"
   },
   "references": [
     {
       "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/ada8a33f-8539-4529-ad44-8f63e784c37e",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2c6a7430-bdd7-4bba-9dec-57b8b5aa444e",
       "accessed": "2026-11-15"
     }
   ],

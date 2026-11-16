@@ -3,22 +3,30 @@
   "kind": "repose",
   "subjects": [
     "person:arcadie-8",
-    "person:alexandru-77",
-    "person:teoctist-5",
-    "person:leonid-10",
-    "person:nicolae-91",
-    "person:areta-2",
-    "person:alexandru-of-rusia-9"
+    "person:teodosie-7",
+    "person:natalia-4",
+    "person:natalia-5",
+    "person:matroana-3",
+    "person:ana-15",
+    "person:agripina-2",
+    "person:natalia-6",
+    "person:evdochia-7",
+    "person:matroana-4",
+    "person:varvara",
+    "person:natalia-7",
+    "person:ana-16",
+    "person:evdochia-8",
+    "person:eufrosinia-of-rusia"
   ],
   "date_rule": {
     "type": "fixed",
     "month": 12,
-    "day": 28
+    "day": 29
   },
   "sources": [
     {
       "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/78ef002d-4be5-4c73-98d2-e839c3c743f0",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/50595283-8c48-4f64-b034-5a6b06d18e11",
       "accessed": "2026-11-15"
     }
   ],

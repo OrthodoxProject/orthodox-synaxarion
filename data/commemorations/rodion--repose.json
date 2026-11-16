@@ -1,0 +1,31 @@
+{
+  "id": "rodion--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:rodion"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 20
+  },
+  "sources": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/martie/sinaxar-ziua-20-luna-3/#ancora-continut-4",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/fc156b17-e117-4b26-8339-b9c55d81a441",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din e-religie.ro; de verificat."
+    ]
+  }
+}

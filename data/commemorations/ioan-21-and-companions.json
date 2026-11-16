@@ -1,0 +1,28 @@
+{
+  "id": "ioan-21-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:ioan-21",
+    "person:inaintemergatorul",
+    "person:botezatorul-domnului"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 24
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e66024d4-9527-4a09-a032-3413ab7047e5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

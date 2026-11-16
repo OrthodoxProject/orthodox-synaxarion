@@ -3,12 +3,12 @@
   "kind": "saint",
   "gender": "male",
   "holiness_types": [
-    "martyr"
+    "venerable"
   ],
   "sources": [
     {
       "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/fd9227ff-2431-430c-8431-3368ac769fa3",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/dbc271ee-d7c1-41a2-90c1-3b954d8d45ff",
       "accessed": "2026-11-15"
     }
   ],
@@ -16,8 +16,7 @@
     "status": "draft",
     "confidence": "low",
     "notes": [
-      "Importat automat din calendar.ortodox.md; de verificat.",
-      "Genul nu reiese din sursă; e de verificat."
+      "Importat automat din calendar.ortodox.md; de verificat."
     ]
   }
 }

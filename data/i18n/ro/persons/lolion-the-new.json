@@ -2,15 +2,14 @@
   "id": "lolion-the-new",
   "locale": "ro",
   "names": {
-    "display": "Sf. Mc. Lolion cel Nou",
-    "full": "Sfântul Mucenic Lolion cel Nou",
-    "short": "Lolion cel Nou",
+    "display": "Sf. Mc. Lolion cel nou",
+    "short": "Lolion cel nou",
     "given": "Lolion"
   },
   "references": [
     {
-      "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/e6f4db0b-3694-4fe7-a539-d46ca917802a",
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/aprilie/sinaxar-ziua-27-luna-4/#ancora-continut-6",
       "accessed": "2026-11-15"
     }
   ],

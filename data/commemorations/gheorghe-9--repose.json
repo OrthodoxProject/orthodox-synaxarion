@@ -1,0 +1,26 @@
+{
+  "id": "gheorghe-9--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:gheorghe-9"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 14
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f1fa0859-1c1a-415e-85ec-471ce4749c35",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

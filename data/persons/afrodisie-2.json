@@ -3,12 +3,17 @@
   "kind": "saint",
   "gender": "male",
   "holiness_types": [
-    "martyr"
+    "righteous"
   ],
   "sources": [
     {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/mai/sinaxar-ziua-4-luna-5/#ancora-continut-5",
+      "accessed": "2026-11-15"
+    },
+    {
       "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/7e2a1ddb-408e-408f-8340-593fc2c894f4",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/dafcbf21-c15f-46a2-9387-882a10c437c0",
       "accessed": "2026-11-15"
     }
   ],
@@ -16,7 +21,8 @@
     "status": "draft",
     "confidence": "low",
     "notes": [
-      "Importat automat din calendar.ortodox.md; de verificat.",
+      "Importat automat din e-religie.ro; de verificat.",
+      "Chipul sfințeniei nu reiese din titlu; „righteous” e provizoriu.",
       "Genul nu reiese din sursă; e de verificat."
     ]
   }

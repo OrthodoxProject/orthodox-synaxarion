@@ -1,0 +1,22 @@
+{
+  "id": "ioan-the-of-irinopole",
+  "locale": "en",
+  "names": {
+    "display": "Venerable John of Irenopolis",
+    "short": "John of Irenopolis",
+    "given": "John"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/februarie/sinaxar-ziua-4-luna-2/#ancora-continut-5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

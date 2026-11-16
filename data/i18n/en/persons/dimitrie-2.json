@@ -1,0 +1,22 @@
+{
+  "id": "dimitrie-2",
+  "locale": "en",
+  "names": {
+    "display": "New Martyr Demetrius",
+    "short": "Demetrius",
+    "given": "Demetrius"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/iunie/sinaxar-ziua-2-luna-6/#ancora-continut-4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

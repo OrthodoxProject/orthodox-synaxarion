@@ -1,0 +1,20 @@
+{
+  "id": "danax-and-companions",
+  "locale": "en",
+  "names": {
+    "display": "Martyrs Danax, Mesirus and Therinus"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/mai/sinaxar-ziua-6-luna-5/#ancora-continut-6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

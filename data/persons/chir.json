@@ -3,11 +3,14 @@
   "kind": "saint",
   "gender": "male",
   "holiness_types": [
-    "venerable",
-    "hierarch",
-    "confessor"
+    "righteous"
   ],
   "sources": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/ianuarie/sinaxar-ziua-8-luna-1/#ancora-continut-6",
+      "accessed": "2026-11-15"
+    },
     {
       "source": "src:calendar-ortodox-md",
       "url": "https://calendar.ortodox.md/calendar/entry/RO/dead9351-b30b-4b3c-badf-4c2759bf91c1",
@@ -18,7 +21,8 @@
     "status": "draft",
     "confidence": "low",
     "notes": [
-      "Importat automat din calendar.ortodox.md; de verificat.",
+      "Importat automat din e-religie.ro; de verificat.",
+      "Chipul sfințeniei nu reiese din titlu; „righteous” e provizoriu.",
       "Genul nu reiese din sursă; e de verificat."
     ]
   }

@@ -104,7 +104,7 @@ export interface Cluster {
 
 const MARTYR_LIKE = new Set<HolinessType>(["martyr", "great_martyr", "hieromartyr", "venerable_martyr", "new_martyr"]);
 
-function category(h: Set<HolinessType>): Set<string> {
+export function category(h: Set<HolinessType>): Set<string> {
   const out = new Set<string>();
   for (const x of h) {
     if (MARTYR_LIKE.has(x)) out.add("martyr");

@@ -1,0 +1,28 @@
+{
+  "id": "iacob-marturisitorul",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "venerable",
+    "confessor"
+  ],
+  "sources": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/martie/sinaxar-ziua-24-luna-3/#ancora-continut-3",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ff99be43-03d4-4297-9fc9-490ab8a53ca5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din e-religie.ro; de verificat."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "alonie-egipteanul",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Alonie Egipteanul",
+    "short": "Alonie Egipteanul",
+    "given": "Alonie"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/iunie/sinaxar-ziua-4-luna-6/#ancora-continut-6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

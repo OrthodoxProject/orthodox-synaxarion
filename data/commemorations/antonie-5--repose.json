@@ -6,13 +6,13 @@
   ],
   "date_rule": {
     "type": "fixed",
-    "month": 5,
-    "day": 4
+    "month": 3,
+    "day": 9
   },
   "sources": [
     {
       "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/1cbb4bae-8edd-4d49-8d63-2d91dc256c96",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/63cda00d-c81e-4d6a-86ac-b1bd7320801d",
       "accessed": "2026-11-15"
     }
   ],

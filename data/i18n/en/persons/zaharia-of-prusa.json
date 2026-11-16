@@ -1,0 +1,22 @@
+{
+  "id": "zaharia-of-prusa",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Zachariah of Prusa",
+    "short": "Zachariah of Prusa",
+    "given": "Zachariah"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/mai/sinaxar-ziua-22-luna-5/#ancora-continut-6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

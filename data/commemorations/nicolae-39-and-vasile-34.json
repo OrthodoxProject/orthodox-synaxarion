@@ -1,0 +1,27 @@
+{
+  "id": "nicolae-39-and-vasile-34",
+  "kind": "repose",
+  "subjects": [
+    "person:nicolae-39",
+    "person:vasile-34"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 28
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1a90001d-92c7-41f1-ae55-af04fc1d16dd",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

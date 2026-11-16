@@ -1,0 +1,21 @@
+{
+  "id": "zosima-8",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Zosima, egumen la Vorbozomsk în Rusia",
+    "full": "Sfântul Cuvios Zosima, egumen la Vorbozomsk în Rusia",
+    "short": "Zosima, egumen la Vorbozomsk în Rusia",
+    "given": "Zosima"
+  },
+  "references": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/c2c0949f-94cf-4f29-bc40-9259c303989a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "sais",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Sais",
+    "short": "Sais",
+    "given": "Sais"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/ianuarie/sinaxar-ziua-5-luna-1/#ancora-continut-6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "agapie-arhimandritul",
+  "locale": "en",
+  "names": {
+    "display": "Saint Agapius the Archimandrite",
+    "short": "Agapius the Archimandrite",
+    "given": "Agapius"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/ianuarie/sinaxar-ziua-11-luna-1/#ancora-continut-3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

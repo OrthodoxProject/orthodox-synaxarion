@@ -1,0 +1,29 @@
+{
+  "id": "ana-5-and-companions",
+  "kind": "repose",
+  "subjects": [
+    "person:ana-5",
+    "person:daria-2",
+    "person:evdochia-3",
+    "person:matrona-of-rusia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 1
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f9dd6b1d-554f-44a5-9087-7b505731f32a",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

@@ -3,12 +3,18 @@
   "kind": "saint",
   "gender": "male",
   "holiness_types": [
-    "venerable"
+    "venerable",
+    "wonderworker"
   ],
   "sources": [
     {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/martie/sinaxar-ziua-31-luna-3/#ancora-continut-5",
+      "accessed": "2026-11-15"
+    },
+    {
       "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/5373d449-3a7a-484d-9a39-78e79e456900",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/3418db92-920f-46b7-a6ca-dd02fb05c6d8",
       "accessed": "2026-11-15"
     }
   ],
@@ -16,7 +22,7 @@
     "status": "draft",
     "confidence": "low",
     "notes": [
-      "Importat automat din calendar.ortodox.md; de verificat.",
+      "Importat automat din e-religie.ro; de verificat.",
       "Genul nu reiese din sursă; e de verificat."
     ]
   }

@@ -1,0 +1,30 @@
+{
+  "id": "doi-martyrs-of-ascalon",
+  "kind": "martyrs",
+  "count": {
+    "value": 2,
+    "precision": "exact"
+  },
+  "holiness_types": [
+    "martyr"
+  ],
+  "sources": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/aprilie/sinaxar-ziua-6-luna-4/#ancora-continut-4",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/5d004f6f-ae50-46fe-94ff-23367cb68827",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din e-religie.ro; de verificat."
+    ]
+  }
+}

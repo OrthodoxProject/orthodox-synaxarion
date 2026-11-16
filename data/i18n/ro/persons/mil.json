@@ -1,0 +1,20 @@
+{
+  "id": "mil",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Cuv. Mil, făcătorul de cântări",
+    "short": "Mil, făcătorul de cântări",
+    "given": "Mil"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/mai/sinaxar-ziua-8-luna-5/#ancora-continut-3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

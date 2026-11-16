@@ -1,0 +1,22 @@
+{
+  "id": "atal-2",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Attalus the Wonderworker",
+    "short": "Attalus the Wonderworker",
+    "given": "Attalus"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/iunie/sinaxar-ziua-6-luna-6/#ancora-continut-4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

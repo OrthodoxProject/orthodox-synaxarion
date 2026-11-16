@@ -2,14 +2,15 @@
   "id": "gavriil-5",
   "locale": "ro",
   "names": {
-    "display": "Sf. Mc. Gavriil",
-    "short": "Gavriil",
+    "display": "Sf. Cuv. Gavriil, schiarhimandrit din Mănăstirea Pskov în Rusia",
+    "full": "Sfântul Cuvios Gavriil, schiarhimandrit din Mănăstirea Pskov în Rusia",
+    "short": "Gavriil, schiarhimandrit din Mănăstirea Pskov în Rusia",
     "given": "Gavriil"
   },
   "references": [
     {
       "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/986013d3-8359-440a-b073-fb66df9cd0ac",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d869565d-c763-4b93-bca9-5b12a9780e78",
       "accessed": "2026-11-15"
     }
   ],

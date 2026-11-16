@@ -1,0 +1,28 @@
+{
+  "id": "hristofor-the-of-roma",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "martyr"
+  ],
+  "sources": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/iunie/sinaxar-ziua-5-luna-6/#ancora-continut-5",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/d8c6aa42-573e-44e9-85d2-fa581ba9997e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din e-religie.ro; de verificat.",
+      "Genul nu reiese din sursă; e de verificat."
+    ]
+  }
+}

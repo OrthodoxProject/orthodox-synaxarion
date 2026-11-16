@@ -2,15 +2,14 @@
   "id": "pavel-4",
   "locale": "ro",
   "names": {
-    "display": "Sf. Mc. Pavel (Nicolschi), prezbiterul",
-    "full": "Sfântul Mucenic Pavel (Nicolschi), prezbiterul",
-    "short": "Pavel (Nicolschi), prezbiterul",
+    "display": "Sf. Mc. Pavel",
+    "short": "Pavel",
     "given": "Pavel"
   },
   "references": [
     {
-      "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/a8ca4273-0ef7-4376-b1a3-750da0078d39",
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/februarie/sinaxar-ziua-3-luna-2/#ancora-continut-5",
       "accessed": "2026-11-15"
     }
   ],

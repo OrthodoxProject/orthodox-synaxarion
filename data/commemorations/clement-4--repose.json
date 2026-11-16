@@ -6,13 +6,18 @@
   ],
   "date_rule": {
     "type": "fixed",
-    "month": 3,
-    "day": 5
+    "month": 4,
+    "day": 30
   },
   "sources": [
     {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/aprilie/sinaxar-ziua-30-luna-4/#ancora-continut-4",
+      "accessed": "2026-11-15"
+    },
+    {
       "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/18c14c7a-0b91-42c7-af86-cf075a019fc3",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e0fb794c-5b5e-4aa1-850a-1429dbb000b6",
       "accessed": "2026-11-15"
     }
   ],
@@ -20,7 +25,7 @@
     "status": "draft",
     "confidence": "low",
     "notes": [
-      "Importat automat din calendar.ortodox.md; de verificat."
+      "Importat automat din e-religie.ro; de verificat."
     ]
   }
 }

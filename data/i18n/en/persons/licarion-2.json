@@ -1,0 +1,22 @@
+{
+  "id": "licarion-2",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Lycarion",
+    "short": "Lycarion",
+    "given": "Lycarion"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/iunie/sinaxar-ziua-7-luna-6/#ancora-continut-6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

@@ -11,6 +11,11 @@
   },
   "sources": [
     {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/mai/sinaxar-ziua-9-luna-5/#ancora-continut-6",
+      "accessed": "2026-11-15"
+    },
+    {
       "source": "src:calendar-ortodox-md",
       "url": "https://calendar.ortodox.md/calendar/entry/RO/24ce4ccd-76d1-42e5-89b3-c380aeb67e52",
       "accessed": "2026-11-15"
@@ -20,7 +25,7 @@
     "status": "draft",
     "confidence": "low",
     "notes": [
-      "Importat automat din calendar.ortodox.md; de verificat."
+      "Adăugat de mână din e-religie.ro; de verificat."
     ]
   }
 }

@@ -2,15 +2,14 @@
   "id": "dimitrie-2",
   "locale": "ro",
   "names": {
-    "display": "Sf. Dimitrie, preot din Paris",
-    "full": "Sfântul Dimitrie, preot din Paris",
-    "short": "Dimitrie, preot din Paris",
+    "display": "Sf. Nou Mc. Dimitrie",
+    "short": "Dimitrie",
     "given": "Dimitrie"
   },
   "references": [
     {
-      "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/73e27e46-a836-4dad-8a44-3aa08a10f309",
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/iunie/sinaxar-ziua-2-luna-6/#ancora-continut-4",
       "accessed": "2026-11-15"
     }
   ],

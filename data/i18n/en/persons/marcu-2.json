@@ -1,0 +1,22 @@
+{
+  "id": "marcu-2",
+  "locale": "en",
+  "names": {
+    "display": "New Martyr Mark",
+    "short": "Mark",
+    "given": "Mark"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/iunie/sinaxar-ziua-5-luna-6/#ancora-continut-7",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

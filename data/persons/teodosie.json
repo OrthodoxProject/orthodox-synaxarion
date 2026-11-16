@@ -3,12 +3,17 @@
   "kind": "saint",
   "gender": "male",
   "holiness_types": [
-    "hierarch"
+    "righteous"
   ],
   "sources": [
     {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/martie/sinaxar-ziua-26-luna-3/#ancora-continut-5",
+      "accessed": "2026-11-15"
+    },
+    {
       "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/61fa61da-c5fb-421e-8128-0c92659fe1ac",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/49fabf1a-ab93-48d4-a9c0-1c23e06b5180",
       "accessed": "2026-11-15"
     }
   ],
@@ -16,7 +21,9 @@
     "status": "draft",
     "confidence": "low",
     "notes": [
-      "Importat automat din calendar.ortodox.md; de verificat."
+      "Importat automat din e-religie.ro; de verificat.",
+      "Chipul sfințeniei nu reiese din titlu; „righteous” e provizoriu.",
+      "Genul nu reiese din sursă; e de verificat."
     ]
   }
 }

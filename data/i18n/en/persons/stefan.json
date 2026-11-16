@@ -1,0 +1,22 @@
+{
+  "id": "stefan",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Stephen",
+    "short": "Stephen",
+    "given": "Stephen"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/februarie/sinaxar-ziua-8-luna-2/#ancora-continut-3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

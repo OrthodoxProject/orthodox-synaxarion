@@ -1,0 +1,22 @@
+{
+  "id": "filadelf",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Philadelphus",
+    "short": "Philadelphus",
+    "given": "Philadelphus"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/februarie/sinaxar-ziua-8-luna-2/#ancora-continut-5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

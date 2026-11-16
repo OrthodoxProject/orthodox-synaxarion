@@ -16,6 +16,7 @@
 import {
   addCitation,
   addRef,
+  category,
   displayOf,
   extraKeys,
   gendersDiffer,
@@ -38,7 +39,7 @@ import { iconNamesScore, iconWords } from "./icons.ts";
 import type { HolinessType, NamePart, ParsedTitle } from "./model.ts";
 import { parseEn } from "./en.ts";
 import { equivalent, fold, givenSimilarity, levenshtein, nameSimilarity, skeleton } from "./names.ts";
-import { mmdd, type Unit } from "./units.ts";
+import { mmdd, type Citation, type Unit } from "./units.ts";
 
 export type Confidence = "low" | "medium" | "high";
 
@@ -122,6 +123,11 @@ export interface BuildResult {
   /** tradition → movable lines (no rule: the commemoration's own rule applies) */
   movable: Map<string, LineDraft[]>;
   stats: Map<string, number>;
+  /**
+   * Existing records that a cited source names (see Builder.cite), by "<collection>/<id>": they keep everything they
+   * have and get these citations in their sources.
+   */
+  cited?: Map<string, Citation[]>;
 }
 
 const PERSON_KINDS = new Set(["persons", "angels"]);
@@ -142,6 +148,8 @@ export class Builder {
   readonly lines = new Map<string, Map<string, LineDraft[]>>();
   readonly movable = new Map<string, LineDraft[]>();
   readonly stats = new Map<string, number>();
+  /** Existing records that a cited source names, by "<collection>/<id>" (see cite). */
+  readonly cited = new Map<string, Citation[]>();
   /** Byzantine clusters by "MM-DD" (02-29 clusters are also found on 02-28). */
   private readonly byDate = new Map<string, Cluster[]>();
   private readonly placed = new Map<string, Set<Cluster>>();
@@ -826,7 +834,7 @@ export class Builder {
     if (u.ext.oca) keys.push(`oca:${u.ext.oca}`);
     if (u.ext.doxologia) keys.push(`doxologia:${u.ext.doxologia}`);
     if (u.source === "patriarhia") keys.push(`patriarhia:${mmdd(u.month, u.day)}|${officialTitle(u.title)}`);
-    if (u.url && (u.source === "overlay" || u.source === "armenian" || u.source === "coptic" || u.source === "ortodoxmd")) keys.push(`url:${u.url}`);
+    if (u.url && (u.source === "overlay" || u.source === "armenian" || u.source === "coptic" || u.source === "ortodoxmd" || u.source === "ereligie")) keys.push(`url:${u.url}`);
     const day = new Set(this.candidates(u.month, u.day));
     for (const key of keys) {
       const list = (this.existing.exact.get(key) ?? []).filter((c) => u.family !== "byzantine" || day.has(c));
@@ -1304,6 +1312,229 @@ export class Builder {
         this.count(`${u.source}.${u.tradition ?? ""}.matched`);
       } else this.count(`${u.source}.${u.tradition ?? ""}.unmatched`);
     }
+  }
+
+  /**
+   * A synaxarion read only to be cited (e-religie.ro). Its lines are looked up among the commemorations of their day,
+   * as the official lines are, and what they name gets their link: the commemorations found, the persons their names
+   * landed on and the groups, existing records included (see `cited`), which keep everything else and are not placed
+   * in more calendars. A line, or a name of a line, that matches nothing is a saint the data does not hold yet: it
+   * becomes a new commemoration in the calendar of the tradition on that day. A line that an earlier import already
+   * cited is found again by its link.
+   */
+  cite(units: Unit[], tradition: string): void {
+    const byDay = new Map<string, Unit[]>();
+    for (const u of units) {
+      const key = mmdd(u.month, u.day);
+      byDay.set(key, [...(byDay.get(key) ?? []), u]);
+    }
+    for (const dayUnits of byDay.values()) {
+      const first = dayUnits[0];
+      if (!first) continue;
+      const { month, day } = first;
+      const pre = this.prematch(
+        dayUnits.filter((u) => !(u.url && this.existing.citedUrls.has(u.url))),
+        this.candidates(month, day),
+      );
+      const claimed = claimedBy(pre);
+      for (const u of dayUnits) {
+        const k = u.parsed.kind;
+        if (k === "movable" || k === "skip" || k === "forefeast" || k === "afterfeast" || k === "leavetaking") {
+          this.count(`${u.source}.${k}`);
+          continue;
+        }
+        const pool = this.candidates(month, day);
+        const known = this.exactFor(u);
+        const before = new Set(this.clusters);
+        let clusters: Cluster[];
+        let pairs: Array<[NamePart, Slot]> = [];
+        if (known.length > 0) {
+          for (const c of known) this.attach(c, u);
+          this.count(`${u.source}.known`);
+          clusters = known;
+        } else if (u.url && this.existing.citedUrls.has(u.url)) {
+          // Cited before, on records of other days only (a saint the data keeps on another day): nothing to add.
+          this.count(`${u.source}.known`);
+          continue;
+        } else if (k === "saint" || k === "saints") {
+          const result = this.citedNames(u, pool, pre.get(u) ?? this.match(u, pool, { claimed }), dayUnits, claimed);
+          if (result.clusters.length > 0) this.absorb(u, result);
+          pairs = result.pairs;
+          clusters = [...result.clusters];
+          // Names left over: a second place ("de la Cernica și Căldărușani") is not a saint.
+          const rest = result.rest.filter((n) => !isPlaceContinuation(n, u.parsed.names));
+          if (rest.length > 0) {
+            const extra = this.clusterFrom(u, rest);
+            if (extra) clusters.push(extra);
+          }
+          this.count(`${u.source}.${result.clusters.length === 0 ? "new" : rest.length > 0 ? "matched-and-new" : "matched"}`);
+        } else {
+          clusters = this.place(u, pool, pre.get(u), { claimed });
+          pairs = pre.get(u)?.pairs ?? [];
+        }
+        const fresh = clusters.filter((c) => !before.has(c) && !c.existingComm);
+        if (fresh.length > 0) this.addLine(tradition, month, day, withDiffers({ clusters: fresh }, month, day));
+        for (const c of clusters) {
+          if (c.existingComm) this.citeRecord("commemorations", c.existingComm, u.citation);
+          if (c.kind === "group" && c.group?.existingGroup) this.citeRecord("groups", c.group.existingGroup, u.citation);
+        }
+        for (const [, slot] of pairs) if (slot.existingPerson) this.citeRecord("persons", slot.existingPerson, u.citation);
+      }
+    }
+  }
+
+  /**
+   * What the names of a cited line designate, from what the scores of the names found on its day (`found`):
+   * - a pair whose kinds of holiness do not agree is another saint of the name: e-religie.ro names many saints by their
+   *   first name alone, and "Sfinții Mucenici Boris și Gleb" (2 May) are not "Saint Boris, Prince of Bulgaria";
+   * - the names left over may be the other persons of a commemoration the line found (see sameLine), the saint of a
+   *   translation of relics or of another day of a saint kept that day ("Sfântul Mare Mucenic Teodor Stratilat" on
+   *   8 June, the translation of his relics), or the only namesake of the day (see onlyNamesake).
+   */
+  private citedNames(u: Unit, pool: Cluster[], found: MatchResult, dayUnits: Unit[], claimed: Set<Slot>): MatchResult {
+    const holiness = new Set(u.parsed.holiness);
+    // Two places, or two epithets that share nothing, tell two saints of the name apart even when the source names
+    // more of them than the day keeps ("Cuv. Ioan din Lico" is not "Sf. Cuv. Ioan din Gaza").
+    // A new martyr is not the great martyr of his name ("Sf. Noul Mucenic Gheorghe" is not Sf. Mare Mc. Gheorghe, 23 April).
+    const eras = (a: Set<HolinessType>, b: Set<HolinessType>): boolean => !((a.has("new_martyr") && b.has("great_martyr")) || (a.has("great_martyr") && b.has("new_martyr")));
+    const pairs = found.pairs.filter(([part, slot]) => holinessAgrees(holiness, slot.holiness) && eras(holiness, slot.holiness) && this.nameFits(u, part, slot) >= 0.6);
+    const dropped = found.pairs.filter((p) => !pairs.includes(p)).map(([part]) => part);
+    // A commemoration found without a name of the line on one of its persons (a group the line's names lead or list)
+    // must bear one of them: "Sosana", one of the women with St Zinaida, is not of "Sisinius the Deacon of Rome and those with him".
+    const named = (c: Cluster): boolean => {
+      const names = [...(c.group?.names ?? []), ...c.slots.flatMap((s) => [s.ro?.part, s.en?.part, ...s.alts])].filter((n): n is NamePart => n !== undefined);
+      return u.parsed.names.some((part) => names.some((n) => givenSimilarity(part, n) >= 0.85));
+    };
+    const pairless = (c: Cluster): boolean => !found.pairs.some(([, slot]) => c.slots.includes(slot));
+    const keptClusters = found.clusters.filter((c) => (pairless(c) && named(c)) || pairs.some(([, slot]) => c.slots.includes(slot)));
+    // The names that found a commemoration left out are names left over again.
+    const lost = found.clusters.some((c) => pairless(c) && !keptClusters.includes(c));
+    const leftOver = lost ? u.parsed.names.filter((n) => !pairs.some(([part]) => part === n)) : [...found.rest, ...dropped];
+    const result: MatchResult = { clusters: keptClusters, pairs, rest: [] };
+    const left = this.sameLine(u, { ...result, rest: leftOver });
+    result.pairs.push(...left.pairs);
+    for (const part of left.rest) {
+      const taken = new Set([...claimed, ...result.pairs.map(([, slot]) => slot)]);
+      const only = this.saintDay(u, part, pool, taken) ?? this.onlyNamesake(u, part, pool, dayUnits, taken);
+      if (!only) {
+        result.rest.push(part);
+        continue;
+      }
+      result.pairs.push([part, only.slot]);
+      if (!result.clusters.includes(only.cluster)) result.clusters.push(only.cluster);
+    }
+    return result;
+  }
+
+  /**
+   * The saint of a translation of relics, a finding of relics, a glorification or an event of the day that a name of a
+   * cited line names: the Lives of the Saints keep such a day under the saint's name alone ("Sfântul Mare Mucenic Teodor
+   * Stratilat" on 8 June). The name must score as the person's (see slotScore) and their kinds of holiness agree.
+   */
+  private saintDay(u: Unit, part: NamePart, pool: Cluster[], taken: Set<Slot>): { slot: Slot; cluster: Cluster } | undefined {
+    const holiness = new Set(u.parsed.holiness);
+    const found: Array<{ slot: Slot; cluster: Cluster; score: number }> = [];
+    for (const c of pool) {
+      if (!SAINT_DAYS.has(c.kind)) continue;
+      for (const slot of c.subjectSlots) {
+        if (taken.has(slot) || !holinessAgrees(holiness, slot.holiness)) continue;
+        const score = this.slotScore(part, u.lang, slot);
+        if (score >= this.threshold(u.lang, slot)) found.push({ slot, cluster: c, score });
+      }
+    }
+    found.sort((a, b) => b.score - a.score);
+    const [best, second] = found;
+    return best && (!second || second.score < best.score || second.slot === best.slot) ? best : undefined;
+  }
+
+  /**
+   * The names of a line left over once its other names found a commemoration: the persons of that commemoration that
+   * no name of the line took, when their first names are near ("Sf. Mc. Pavel, Pavsirie și Teodotion" / "Martyrs
+   * Theodotion, Paul, and Pausirios"; "Cuvioșii Ioan, Iraclemon, Andrei și Teofil" / "Saint Heraclemon"). The line
+   * names the commemoration, so its names are its persons, whatever the kind of holiness each source gives them.
+   */
+  /** The best score of a name against any name of a person, in the unit's language or across (see personScore). */
+  private nameFits(u: Unit, part: NamePart, slot: Slot): number {
+    const names: Array<[NamePart | undefined, boolean]> = [[slot[u.lang]?.part, false], [slot[u.lang === "ro" ? "en" : "ro"]?.part, true], ...slot.alts.map((a): [NamePart, boolean] => [a, true])];
+    return Math.max(0, ...names.filter((x): x is [NamePart, boolean] => x[0] !== undefined).map(([name, cross]) => personScore(part, name, cross)));
+  }
+
+  private sameLine(u: Unit, found: MatchResult): { pairs: Array<[NamePart, Slot]>; rest: NamePart[] } {
+    const paired = new Set(found.pairs.map(([, slot]) => slot));
+    const open = found.clusters.filter((c) => PERSON_KINDS.has(c.kind) || c.kind === "group").flatMap((c) => c.slots.filter((slot) => !paired.has(slot)));
+    const scored: Array<{ part: NamePart; slot: Slot; score: number }> = [];
+    for (const part of found.rest) {
+      for (const slot of open) {
+        const score = this.nameFits(u, part, slot);
+        if (score > 0) scored.push({ part, slot, score });
+      }
+    }
+    scored.sort((a, b) => b.score - a.score);
+    const pairs: Array<[NamePart, Slot]> = [];
+    const usedParts = new Set<NamePart>();
+    const usedSlots = new Set<Slot>();
+    for (const s of scored) {
+      if (usedParts.has(s.part) || usedSlots.has(s.slot)) continue;
+      usedParts.add(s.part);
+      usedSlots.add(s.slot);
+      pairs.push([s.part, s.slot]);
+    }
+    // One name left and one person left: the same saint, however the two languages spell him ("Achila" / "Acvila",
+    // "Antioh" / "Antiochus", "Tim" / "Rimma" in "Sf. Mc. In, Pin și Tim").
+    const rest = found.rest.filter((n) => !usedParts.has(n));
+    const free = open.filter((slot) => !usedSlots.has(slot));
+    const [lastPart] = rest;
+    const [lastSlot] = free;
+    if (rest.length === 1 && free.length === 1 && lastPart && lastSlot && !gendersDiffer(lastPart, (lastSlot[u.lang] ?? lastSlot[u.lang === "ro" ? "en" : "ro"])?.part ?? lastPart)) {
+      pairs.push([lastPart, lastSlot]);
+      return { pairs, rest: [] };
+    }
+    return { pairs, rest };
+  }
+
+  /**
+   * The person of the day that a name of a cited line designates when the scores of the names found nobody: the only
+   * person of the day with that first name, in either language, when the line is also the only one of its source that
+   * day to bear it, and nothing tells them apart (a kind of holiness, a gender or a place). e-religie.ro describes the
+   * saints at length ("Cuv. Ștefan, care a făcut mănăstirea Hinolacul") and the OCA names many of them in English only
+   * ("Venerable Stephen, Abbot of Khenolakkos Monastery, near Chalcedon"): the two share the first name and nothing else.
+   * Two persons of the name that day, even one already taken by another line, leave the name to a new person.
+   */
+  private onlyNamesake(u: Unit, part: NamePart, pool: Cluster[], dayUnits: Unit[], taken: Set<Slot>): { slot: Slot; cluster: Cluster } | undefined {
+    // Near spellings count as the same name ("Pulcheria" / "Pulheria"), and so as a second namesake too.
+    const near = (a: NamePart, b: NamePart): boolean => givenSimilarity(a, b) >= 0.85;
+    if (dayUnits.flatMap((x) => x.parsed.names).filter((n) => near(n, part)).length > 1) return undefined;
+    const found: Array<{ slot: Slot; cluster: Cluster; name: NamePart }> = [];
+    for (const c of pool) {
+      if (!PERSON_KINDS.has(c.kind) && !(c.kind === "group" && c.slots.length > 0)) continue;
+      for (const slot of c.slots) {
+        const name = [slot[u.lang]?.part, slot[u.lang === "ro" ? "en" : "ro"]?.part, ...slot.alts].find((n): n is NamePart => n !== undefined && near(part, n));
+        if (name && !found.some((f) => f.slot === slot)) found.push({ slot, cluster: c, name });
+      }
+    }
+    const only = found.length === 1 ? found[0] : undefined;
+    if (!only || taken.has(only.slot) || only.slot.matched.has(`${u.source}@${mmdd(u.month, u.day)}`)) return undefined;
+    if (gendersDiffer(part, only.name) || (part.gender && only.slot.gender && part.gender !== only.slot.gender)) return undefined;
+    // The same kind of holiness, when both sources give one: a martyr is not a hierarch nor a righteous saint of the
+    // name ("Sf. Noul Mucenic Ioan Tesaloniceanul" is not "Blessed John of Ustiug the Fool-for-Christ"). e-religie.ro
+    // calls many monastic bishops "Cuviosul", though ("Cuv. Filon, episcopul Calpasiei" / "Sf. Ier. Filon, episcopul Carpasiei").
+    const ours = category(new Set(u.parsed.holiness));
+    const theirs = category(only.slot.holiness);
+    const monastic = (a: Set<string>, b: Set<string>): boolean => a.has("venerable") && b.has("hierarch");
+    if (ours.size > 0 && theirs.size > 0 && ![...ours].some((x) => theirs.has(x)) && !monastic(ours, theirs) && !monastic(theirs, ours)) return undefined;
+    const ourPlaces = placeKeys(part);
+    const theirPlaces = placeKeys(only.name);
+    if (ourPlaces.length > 0 && theirPlaces.length > 0 && !ourPlaces.some((x) => theirPlaces.some((y) => x === y || nameSimilarity(x, y) >= 0.75))) return undefined;
+    // Epithets that share nothing: two saints of the name ("Sf. Cuv. Ioan Psihaitul" is not "Saint John Zedazeni").
+    if (this.nameFits(u, part, only.slot) < givenSimilarity(part, only.name) - 0.2) return undefined;
+    return only;
+  }
+
+  private citeRecord(collection: string, id: string, citation: Citation): void {
+    const key = `${collection}/${id}`;
+    const list = this.cited.get(key) ?? [];
+    addCitation(list, citation);
+    this.cited.set(key, list);
   }
 
   overlay(units: Unit[]): void {

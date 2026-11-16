@@ -1,0 +1,27 @@
+{
+  "id": "duca-croitorul-mitilenean",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "martyr"
+  ],
+  "sources": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/aprilie/sinaxar-ziua-24-luna-4/#ancora-continut-10",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/730d932d-332b-4c79-9a61-dc6aa8998b19",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din e-religie.ro; de verificat."
+    ]
+  }
+}

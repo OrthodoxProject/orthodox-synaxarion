@@ -3,13 +3,18 @@
   "kind": "saint",
   "gender": "male",
   "holiness_types": [
-    "venerable",
-    "fool_for_christ"
+    "new_martyr",
+    "hieromartyr"
   ],
   "sources": [
     {
       "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/b5635a87-b6aa-42b5-9de0-6b162f9fb21a",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/f3248a76-f1ec-4949-99a0-cba83b483483",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7dfb366e-5907-46b9-b9d4-28743e3ef827",
       "accessed": "2026-11-15"
     }
   ],

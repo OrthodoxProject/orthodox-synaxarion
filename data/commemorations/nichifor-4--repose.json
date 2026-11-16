@@ -1,0 +1,31 @@
+{
+  "id": "nichifor-4--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:nichifor-4"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 26
+  },
+  "sources": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/martie/sinaxar-ziua-26-luna-3/#ancora-continut-9",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/ddd9042a-eb92-44a9-9874-bb17aa388546",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din e-religie.ro; de verificat."
+    ]
+  }
+}

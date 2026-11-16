@@ -1,0 +1,22 @@
+{
+  "id": "ghelasie",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Gelasius",
+    "short": "Gelasius",
+    "given": "Gelasius"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/februarie/sinaxar-ziua-27-luna-2/#ancora-continut-4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

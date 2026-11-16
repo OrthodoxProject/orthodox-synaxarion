@@ -1,0 +1,27 @@
+{
+  "id": "nicolae-7-and-petru-of-rusia",
+  "kind": "repose",
+  "subjects": [
+    "person:nicolae-7",
+    "person:petru-of-rusia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 1
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/6b9b6f07-22b2-4c97-a793-96fcf241611f",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

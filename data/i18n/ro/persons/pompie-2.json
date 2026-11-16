@@ -2,14 +2,14 @@
   "id": "pompie-2",
   "locale": "ro",
   "names": {
-    "display": "Sf. Mc. Pompie (Publiu)",
-    "short": "Pompie (Publiu)",
+    "display": "Sf. Mc. Pompie",
+    "short": "Pompie",
     "given": "Pompie"
   },
   "references": [
     {
-      "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/4f283c83-9b90-4fd1-8bcf-29fc9fcde266",
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/aprilie/sinaxar-ziua-5-luna-4/#ancora-continut-6",
       "accessed": "2026-11-15"
     }
   ],

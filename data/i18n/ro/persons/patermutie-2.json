@@ -2,14 +2,15 @@
   "id": "patermutie-2",
   "locale": "ro",
   "names": {
-    "display": "Sf. Mc. Patermutie",
+    "display": "Cuv. Patermutie",
+    "full": "Cuvios Patermutie",
     "short": "Patermutie",
     "given": "Patermutie"
   },
   "references": [
     {
-      "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/fe770fa7-8dd6-41fa-bb2c-8a55e4e0d144",
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/iulie/sinaxar-ziua-9-luna-7/#ancora-continut-4",
       "accessed": "2026-11-15"
     }
   ],

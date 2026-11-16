@@ -2,14 +2,15 @@
   "id": "teodot-6",
   "locale": "ro",
   "names": {
-    "display": "Sf. Mc. Teodot",
-    "short": "Teodot",
+    "display": "Sf. Teodot, cizmar din Roma",
+    "full": "Sfântul Teodot, cizmar din Roma",
+    "short": "Teodot, cizmar din Roma",
     "given": "Teodot"
   },
   "references": [
     {
       "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/0407740f-6abe-4b63-933c-af199b68d5e8",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e1e5eddc-18ba-488c-94b3-7410a46a638a",
       "accessed": "2026-11-15"
     }
   ],

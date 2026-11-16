@@ -1,0 +1,27 @@
+{
+  "id": "ioan-43-and-pavel-29",
+  "kind": "repose",
+  "subjects": [
+    "person:ioan-43",
+    "person:pavel-29"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 6,
+    "day": 27
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/0ea6fd78-6a50-4661-be0e-332d25faa883",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

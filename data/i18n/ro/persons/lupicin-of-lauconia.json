@@ -1,0 +1,20 @@
+{
+  "id": "lupicin-of-lauconia",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Lupicin din Lauconia",
+    "short": "Lupicin din Lauconia",
+    "given": "Lupicin"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/martie/sinaxar-ziua-21-luna-3/#ancora-continut-8",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

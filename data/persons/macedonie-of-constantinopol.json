@@ -1,0 +1,28 @@
+{
+  "id": "macedonie-of-constantinopol",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "hierarch"
+  ],
+  "sources": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/aprilie/sinaxar-ziua-25-luna-4/#ancora-continut-3",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/baa483ed-f124-410a-b6a0-8ac0cddd7aaa",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din e-religie.ro; de verificat.",
+      "Genul nu reiese din sursă; e de verificat."
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "dimitrios-strungarul--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:dimitrios-strungarul"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 19
+  },
+  "sources": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/martie/sinaxar-ziua-19-luna-3/#ancora-continut-4",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/1b4a531d-db14-4a0a-9d47-06468e0c1199",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din e-religie.ro; de verificat."
+    ]
+  }
+}

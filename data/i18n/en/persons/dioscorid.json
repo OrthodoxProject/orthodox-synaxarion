@@ -1,0 +1,22 @@
+{
+  "id": "dioscorid",
+  "locale": "en",
+  "names": {
+    "display": "Martyr Dioscorides",
+    "short": "Dioscorides",
+    "given": "Dioscorides"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/mai/sinaxar-ziua-28-luna-5/#ancora-continut-6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

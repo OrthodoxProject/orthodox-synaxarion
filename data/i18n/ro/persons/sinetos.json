@@ -1,0 +1,20 @@
+{
+  "id": "sinetos",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Mc. Sinetos",
+    "short": "Sinetos",
+    "given": "Sinetos"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/februarie/sinaxar-ziua-22-luna-2/#ancora-continut-4",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

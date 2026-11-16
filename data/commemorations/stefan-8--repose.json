@@ -1,0 +1,26 @@
+{
+  "id": "stefan-8--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:stefan-8"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 2,
+    "day": 13
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/453e3ad2-faa6-463e-91ea-b4a811f3efe8",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

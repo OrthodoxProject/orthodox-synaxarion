@@ -3,18 +3,23 @@
   "kind": "repose",
   "subjects": [
     "person:codrat-2",
-    "person:saturnin",
-    "person:rufin-of-nicomidia"
+    "person:teodosie",
+    "person:emanuil"
   ],
   "date_rule": {
     "type": "fixed",
     "month": 3,
-    "day": 7
+    "day": 26
   },
   "sources": [
     {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/martie/sinaxar-ziua-26-luna-3/#ancora-continut-5",
+      "accessed": "2026-11-15"
+    },
+    {
       "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/4d8120cf-720d-47b1-a2f3-1343ccd6c378",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/49fabf1a-ab93-48d4-a9c0-1c23e06b5180",
       "accessed": "2026-11-15"
     }
   ],
@@ -22,7 +27,7 @@
     "status": "draft",
     "confidence": "low",
     "notes": [
-      "Importat automat din calendar.ortodox.md; de verificat."
+      "Importat automat din e-religie.ro; de verificat."
     ]
   }
 }

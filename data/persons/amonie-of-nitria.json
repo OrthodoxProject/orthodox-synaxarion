@@ -1,0 +1,29 @@
+{
+  "id": "amonie-of-nitria",
+  "kind": "saint",
+  "gender": "male",
+  "holiness_types": [
+    "righteous"
+  ],
+  "sources": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/ianuarie/sinaxar-ziua-10-luna-1/#ancora-continut-5",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/94b36fae-3d06-410c-84bd-8092f44aee0e",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din e-religie.ro; de verificat.",
+      "Chipul sfințeniei nu reiese din titlu; „righteous” e provizoriu.",
+      "Genul nu reiese din sursă; e de verificat."
+    ]
+  }
+}

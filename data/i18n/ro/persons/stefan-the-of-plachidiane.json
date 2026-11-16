@@ -1,0 +1,20 @@
+{
+  "id": "stefan-the-of-plachidiane",
+  "locale": "ro",
+  "names": {
+    "display": "Sf. Ștefan cel din Plachidiane",
+    "short": "Ștefan cel din Plachidiane",
+    "given": "Ștefan"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/ianuarie/sinaxar-ziua-11-luna-1/#ancora-continut-3",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "draft",
+    "method": "original"
+  }
+}

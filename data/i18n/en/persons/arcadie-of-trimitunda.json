@@ -1,0 +1,22 @@
+{
+  "id": "arcadie-of-trimitunda",
+  "locale": "en",
+  "names": {
+    "display": "Saint Arcadius, Bishop of Trimythous",
+    "short": "Arcadius, Bishop of Trimythous",
+    "given": "Arcadius"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/martie/sinaxar-ziua-7-luna-3/#ancora-continut-5",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

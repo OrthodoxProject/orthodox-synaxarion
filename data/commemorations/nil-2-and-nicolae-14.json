@@ -1,0 +1,27 @@
+{
+  "id": "nil-2-and-nicolae-14",
+  "kind": "repose",
+  "subjects": [
+    "person:nil-2",
+    "person:nicolae-14"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 3,
+    "day": 7
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/7427ad33-adaa-496d-9ffd-c181cbf42080",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

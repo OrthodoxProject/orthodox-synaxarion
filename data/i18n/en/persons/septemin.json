@@ -1,0 +1,22 @@
+{
+  "id": "septemin",
+  "locale": "en",
+  "names": {
+    "display": "Saint Septiminus",
+    "short": "Septiminus",
+    "given": "Septiminus"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/aprilie/sinaxar-ziua-16-luna-4/#ancora-continut-2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

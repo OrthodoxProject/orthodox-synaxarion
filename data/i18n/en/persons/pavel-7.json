@@ -1,0 +1,22 @@
+{
+  "id": "pavel-7",
+  "locale": "en",
+  "names": {
+    "display": "Saint Paul the Wonderworker, Bishop of Corinth, brother of Saint Peter, Bishop of Argos",
+    "short": "Paul the Wonderworker, Bishop of Corinth, brother of Saint Peter, Bishop of Argos",
+    "given": "Paul"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/martie/sinaxar-ziua-27-luna-3/#ancora-continut-8",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

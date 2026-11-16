@@ -2,15 +2,14 @@
   "id": "pahomie-2",
   "locale": "ro",
   "names": {
-    "display": "Sf. Cuv. Pahomie, întemeietorul Mănăstiri Keno din Irlanda",
-    "full": "Sfântul Cuvios Pahomie, întemeietorul Mănăstiri Keno din Irlanda",
-    "short": "Pahomie, întemeietorul Mănăstiri Keno din Irlanda",
+    "display": "Sf. Mc. Pahomie",
+    "short": "Pahomie",
     "given": "Pahomie"
   },
   "references": [
     {
-      "source": "src:calendar-ortodox-md",
-      "url": "https://calendar.ortodox.md/calendar/entry/RO/31218ce0-d052-4548-a213-81eb20c5f60c",
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/ianuarie/sinaxar-ziua-13-luna-1/#ancora-continut-4",
       "accessed": "2026-11-15"
     }
   ],

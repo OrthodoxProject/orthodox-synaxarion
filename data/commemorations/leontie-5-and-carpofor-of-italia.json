@@ -1,0 +1,27 @@
+{
+  "id": "leontie-5-and-carpofor-of-italia",
+  "kind": "repose",
+  "subjects": [
+    "person:leontie-5",
+    "person:carpofor-of-italia"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 8,
+    "day": 20
+  },
+  "sources": [
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/e577536e-9ddb-4400-9e01-80cee97214af",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din calendar.ortodox.md; de verificat."
+    ]
+  }
+}

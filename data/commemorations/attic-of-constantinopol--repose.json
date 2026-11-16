@@ -1,0 +1,31 @@
+{
+  "id": "attic-of-constantinopol--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:attic-of-constantinopol"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 8
+  },
+  "sources": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/ianuarie/sinaxar-ziua-8-luna-1/#ancora-continut-7",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/dead9351-b30b-4b3c-badf-4c2759bf91c1",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din e-religie.ro; de verificat."
+    ]
+  }
+}

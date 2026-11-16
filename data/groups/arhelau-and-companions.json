@@ -1,0 +1,30 @@
+{
+  "id": "arhelau-and-companions",
+  "kind": "martyrs",
+  "holiness_types": [
+    "martyr"
+  ],
+  "count": {
+    "value": 153,
+    "precision": "exact"
+  },
+  "sources": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/martie/sinaxar-ziua-5-luna-3/#ancora-continut-6",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/2666689f-5f09-494e-ae04-1029fb85d6ff#2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din e-religie.ro; de verificat."
+    ]
+  }
+}

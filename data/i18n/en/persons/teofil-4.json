@@ -1,0 +1,22 @@
+{
+  "id": "teofil-4",
+  "locale": "en",
+  "names": {
+    "display": "Saint Theophilus, Steward of the Church",
+    "short": "Theophilus, Steward of the Church",
+    "given": "Theophilus"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/iunie/sinaxar-ziua-23-luna-6/#ancora-continut-2",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}

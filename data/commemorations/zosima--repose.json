@@ -1,0 +1,31 @@
+{
+  "id": "zosima--repose",
+  "kind": "repose",
+  "subjects": [
+    "person:zosima"
+  ],
+  "date_rule": {
+    "type": "fixed",
+    "month": 1,
+    "day": 24
+  },
+  "sources": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/ianuarie/sinaxar-ziua-24-luna-1/#ancora-continut-8",
+      "accessed": "2026-11-15"
+    },
+    {
+      "source": "src:calendar-ortodox-md",
+      "url": "https://calendar.ortodox.md/calendar/entry/RO/a5c211c5-733b-4ab4-b823-8e80806bf114",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "editorial": {
+    "status": "draft",
+    "confidence": "low",
+    "notes": [
+      "Importat automat din e-religie.ro; de verificat."
+    ]
+  }
+}

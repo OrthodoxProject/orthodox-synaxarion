@@ -1,0 +1,22 @@
+{
+  "id": "castin-of-bizant",
+  "locale": "en",
+  "names": {
+    "display": "Venerable Castinus, Bishop of Byzantium",
+    "short": "Castinus, Bishop of Byzantium",
+    "given": "Castinus"
+  },
+  "references": [
+    {
+      "source": "src:e-religie",
+      "url": "https://e-religie.ro/sinaxar/ianuarie/sinaxar-ziua-25-luna-1/#ancora-continut-6",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "translation": {
+    "status": "machine",
+    "method": "machine",
+    "from": "ro",
+    "date": "2026-11-15"
+  }
+}
